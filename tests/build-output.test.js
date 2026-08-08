@@ -25,6 +25,13 @@ function jsonLdBlocks(html) {
   );
 }
 
+function intelligenceStatus(html) {
+  return {
+    lastUpdate: html.match(/Last update[\s\S]{0,180}?<strong>(\d{4}-\d{2}-\d{2})<\/strong>/)?.[1],
+    eventsInLatestBatch: Number(html.match(/Events in latest batch[\s\S]{0,180}?<strong>(\d+)<\/strong>/)?.[1])
+  };
+}
+
 test('build keeps Shanghai publication dates and emits accessible, stable markup', () => {
   const tempRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'topchinacar-build-'));
   const siteRoot = path.join(tempRoot, 'site');
@@ -156,12 +163,31 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
     const acceptanceBuild = spawnSync(process.execPath, ['build.js'], {
       cwd: siteRoot,
       encoding: 'utf8',
-      env: { ...process.env, BUILD_NOW: '2026-08-08T02:00:00.000Z' }
+      env: { ...process.env, BUILD_NOW: '2026-08-08T04:00:00.000Z' }
     });
     assert.equal(acceptanceBuild.status, 0, acceptanceBuild.stderr || acceptanceBuild.stdout);
     const updatedHome = read('index.html');
+    const updatedNews = read('sitemap-news.xml');
     assert.match(updatedHome, /Updated daily · August 8, 2026/);
     assert.match(updatedHome, /Top Story · 2026-08-08[\s\S]*Homepage Revalidation Acceptance Post/);
+    assert.match(updatedNews, /google-maps-agentic-commerce[\s\S]*?<news:publication_date>2026-08-08T11:52:00\+08:00<\/news:publication_date>/);
+    assert.match(updatedNews, /homepage-revalidation-acceptance-test[\s\S]*?<news:publication_date>2026-08-08T09:15:00\+08:00<\/news:publication_date>/);
+    for (const file of [
+      'analysis.html',
+      'china-car-export-news.html',
+      'markets.html',
+      'policy.html',
+      'zh/analysis.html',
+      'zh/china-car-export-news.html',
+      'zh/markets.html',
+      'zh/policy.html'
+    ]) {
+      assert.deepEqual(
+        intelligenceStatus(read(file)),
+        { lastUpdate: '2026-08-08', eventsInLatestBatch: 1 },
+        `${file} should derive freshness from the newest matched publication`
+      );
+    }
     const homeTags = Array.from(updatedHome.matchAll(/data-news-tag="([^"]+)"/g), match => match[1]);
     assert.equal(homeTags.length, 6, 'homepage should render one Top Story and five Latest News items');
     for (const tag of new Set(homeTags)) {

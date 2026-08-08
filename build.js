@@ -1584,7 +1584,13 @@ function intelligenceInsight(items) {
 }
 
 function intelligenceStatusHTML(items) {
-  const latestDate = items[0]?.article?.date || articles[0]?.date || TODAY;
+  const latestArticle = items.reduce(
+    (latest, item) => !latest || articlePublishedTime(item.article) > articlePublishedTime(latest.article)
+      ? item
+      : latest,
+    null
+  )?.article || articles[0];
+  const latestDate = latestArticle?.date || TODAY;
   const eventsToday = items.filter(item => item.article.date === latestDate).length || items.length;
   const sourceActiveEn = [...new Set(items.slice(0, 10).map(item => item.event_label_en))].slice(0, 4).join(' / ') || 'Editorial stream';
   const sourceActiveZh = [...new Set(items.slice(0, 10).map(item => item.event_label_zh))].slice(0, 4).join(' / ') || '编辑流';
