@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:28:55 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chery Breaks 200K Monthly Export Record as BYD, Geely &amp; SAIC-GM Redefine China&apos;s Global Push</title>
+      <link>https://www.topchinacar.com/news/2026-08-14-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-08-14-china-auto-daily</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Chery hit 202,533 exports in July (+70.1% YoY), BYD set a record 179,841 overseas deliveries (+124.3%), and SAIC-GM renewed their JV to 2047 with a Buick Electra E7 export mandate starting October.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>Google Maps Is Now a Checkout Counter. The Car&apos;s Screen Is Next.</title>
       <link>https://www.topchinacar.com/news/google-maps-agentic-commerce</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-05-china-auto-daily</guid>
       <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
       <description>BYD delivered 792,256 vehicles overseas in H1 2026 (+70.7%), Geely crossed 100K monthly exports for the first time, and XPeng will globally launch the Mona L03 in Munich on July 16 across 64 countries.</description>
-      <category>Daily Briefing</category>
-    </item>
-    <item>
-      <title>BYD, Geely Hit Export Records in June as XPeng Takes Mona L03 to 64 Markets</title>
-      <link>https://www.topchinacar.com/news/2026-07-04-china-auto-daily</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-04-china-auto-daily</guid>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-      <description>BYD&apos;s June overseas deliveries hit an all-time high of 175,349 units (+94.7%), Geely first crossed 100,000 monthly exports (+157%), and XPeng will globally launch the Mona L03 in Munich on July 16 across 64 markets.</description>
       <category>Daily Briefing</category>
     </item>
   </channel>
