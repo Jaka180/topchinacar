@@ -1,0 +1,148 @@
+# Build bridge for the engine's git-native publishing channel (DEC-12 Option A,
+# engine repo: topchinacar-intelligence-engine, milestone M2.9).
+#
+# This file lives ONLY on the staging-publish branch. Push-triggered workflows
+# are read from the pushed ref, so this never runs for main and main needs no
+# changes. When M2.9 graduates to production, this file moves to main with the
+# branch references updated.
+#
+# Flow: the engine PUTs articles/<slug>.json via the GitHub Contents API to
+# this branch -> this workflow rebuilds the whole prerendered tree -> mandatory
+# quality gates -> commits the generated tree -> Cloudflare Pages deploys the
+# branch preview (https://staging-publish.<pages-project>.pages.dev).
+#
+# Loop protection (three independent layers):
+#   1. paths filter: build.js writes only outside articles/** (news/, zh/, js/,
+#      sitemaps, feed.xml), so the bot's generated-tree commit never matches.
+#   2. GitHub never triggers push workflows for pushes made with the built-in
+#      GITHUB_TOKEN.
+#   3. Actor guard + [skip ci] in the bot commit message, belt and braces.
+name: staging-publish build bridge
+
+on:
+  push:
+    branches: [staging-publish]
+    paths:
+      - "articles/**"
+
+# Least privilege: the job only needs to push the generated tree back to this
+# repository. Everything else stays at the default no-access.
+permissions:
+  contents: write
+
+# Two article publishes in quick succession must queue, not interleave: each
+# run rebuilds and pushes the WHOLE tree, so an interleaved pair could push
+# stale trees over each other. cancel-in-progress stays false because a queued
+# run always rebuilds from the latest head anyway, and cancelling a mid-push
+# run risks a half-published tree.
+concurrency:
+  group: staging-publish-build
+  cancel-in-progress: false
+
+jobs:
+  build-test-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # Layer 3 of loop protection (see header). github.actor is the pusher; the
+    # generated-tree commit is pushed by github-actions[bot].
+    if: >-
+      github.actor != 'github-actions[bot]' &&
+      !contains(github.event.head_commit.message, '[skip ci]')
+    steps:
+      # Depth 1 is sufficient: build.js is a pure function of the current tree
+      # and the bot commit does not need history. The retry loop below fetches
+      # the remote head explicitly when a race is detected.
+      - uses: actions/checkout@v5
+
+      # Node 22 to match the engine repo's CI. No npm cache and no npm ci:
+      # this repo is deliberately zero-dependency (no package.json/lockfile;
+      # build.js, the test, and site-health use node: builtins only), and
+      # cache: npm would fail without a lockfile.
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      # Gate 0: the build itself. Crashes on Markdown residue in html_en/
+      # html_zh (build.js assertNoMarkdownResidue) and on an invalid BUILD_NOW.
+      # Articles missing slug/date/title_en/html_en are silently DROPPED by
+      # build.js rather than failing here -- that failure mode is caught by the
+      # engine's own verify/reconcile (the page and fingerprint never appear),
+      # not by this workflow.
+      - name: Build prerendered tree
+        run: node build.js
+
+      # Gate 1 (mandatory): full build-output contract test. Runs its own two
+      # builds in a temp copy of the tree; requires the SP-1 fix (dynamic
+      # acceptance-fixture dates) that ships on this branch -- the pinned-date
+      # version is permanently red once articles newer than 2026-08-08 exist.
+      - name: Test build output
+        run: node --test tests/build-output.test.js
+
+      # Gate 2 (mandatory): local site health audit (SEO/a11y/link integrity
+      # over the just-built tree). Exits 1 on any issue. Never pass --live
+      # here: that audits the production origin, not this branch.
+      - name: Site health audit
+        run: node scripts/site-health.js
+
+      # Commit the generated tree and push with a bounded race-safe retry.
+      #
+      # Why not plain `git pull --rebase`: this commit IS the whole generated
+      # tree. Rebasing it over a head that gained another articles/*.json
+      # either conflicts on co-generated files or lands a tree whose sitemaps/
+      # index omit the newer article. Because build.js is deterministic from
+      # the head, the conflict-free retry is: reset to the new remote head,
+      # rebuild, re-run the gates, re-commit. A queued run for the other push
+      # exists too and converges on the same final tree (idempotent).
+      - name: Commit generated tree and push (race-safe retry)
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Return codes: 0 = committed, 1 = benign nothing-to-commit,
+          # 2 = real git failure. The explicit codes exist because a bare
+          # `commit_tree || exit 0` cannot tell "tree identical" apart from a
+          # failed `git add`/`git commit` (set -e is suspended inside a
+          # function used as a || operand), which would end the job green
+          # with no tree committed -- a silent missing-page window.
+          commit_tree() {
+            git add -A || return 2
+            if git diff --cached --quiet; then
+              echo "Generated tree is identical; nothing to commit."
+              return 1
+            fi
+            git commit -m "site: rebuild generated tree for articles change (${GITHUB_SHA}) [skip ci]" || return 2
+          }
+
+          commit_or_finish() {
+            local rc=0
+            commit_tree || rc=$?
+            if [ "$rc" -eq 1 ]; then exit 0; fi
+            if [ "$rc" -ne 0 ]; then
+              echo "git add/commit failed (rc=${rc})." >&2
+              exit 1
+            fi
+          }
+
+          rebuild_and_gate() {
+            node build.js
+            node --test tests/build-output.test.js
+            node scripts/site-health.js
+          }
+
+          commit_or_finish
+
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:staging-publish; then
+              echo "Pushed on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push rejected (concurrent commit on staging-publish); retry ${attempt}/5."
+            sleep $(( attempt * 7 ))
+            git fetch origin staging-publish
+            git reset --hard origin/staging-publish
+            rebuild_and_gate
+            commit_or_finish
+          done
+          echo "Failed to push generated tree after 5 attempts." >&2
+          exit 1

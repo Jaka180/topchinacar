@@ -139,10 +139,46 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
       }
     }
 
+    // SP-1 (engine M2.9 / DEC-12 build bridge): this fixture used to pin
+    // 2026-08-08 dates, which broke the test permanently the moment any newer
+    // article landed in articles/ -- the homepage Top Story is simply the
+    // newest article, so the fixture was outsorted. Deriving the fixture date
+    // as "newest existing article + 1 day" keeps it on top for any repo
+    // content, which is what lets this test act as a mandatory gate in the
+    // staging-publish build workflow.
+    const looseArticleTime = raw => {
+      // Mirrors build.js's articlePublishedTime parsing exactly: strict ISO
+      // dates get a UTC midnight anchor, anything else falls back to bare
+      // Date.parse, which accepts loose hand-typed forms like '2026-9-1'.
+      // Those loose dates DO sort in build.js, so they must count toward the
+      // fixture derivation too -- filtering them out would let a hand-added
+      // article outsort the fixture and re-brick this gate permanently.
+      const value = /^\d{4}-\d{2}-\d{2}$/.test(raw) ? `${raw}T00:00:00Z` : raw;
+      const parsed = Date.parse(value);
+      return Number.isNaN(parsed) ? 0 : parsed;
+    };
+    const newestExistingTime = fs.readdirSync(path.join(siteRoot, 'articles'))
+      .filter(name => name.endsWith('.json'))
+      .map(name => {
+        try { return JSON.parse(fs.readFileSync(path.join(siteRoot, 'articles', name), 'utf8')); }
+        catch { return null; }
+      })
+      .map(article => looseArticleTime(String((article && (article.published_at || article.date)) || '')))
+      .reduce((newest, value) => Math.max(newest, value), Date.parse('2026-08-08T00:00:00Z'));
+    const fixtureDay = new Date(newestExistingTime);
+    fixtureDay.setUTCHours(0, 0, 0, 0);
+    fixtureDay.setUTCDate(fixtureDay.getUTCDate() + 1);
+    const fixtureDate = fixtureDay.toISOString().slice(0, 10);
+    // 09:15 +08:00 = 01:15Z; building two hours later keeps the fixture both
+    // inside the Google News sitemap window and "today" in Shanghai.
+    const fixtureLongDate = new Date(`${fixtureDate}T00:00:00Z`)
+      .toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+    const escapeRegExp = value => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
     const acceptanceArticle = {
       slug: 'homepage-revalidation-acceptance-test',
-      date: '2026-08-08',
-      published_at: '2026-08-08T09:15:00+08:00',
+      date: fixtureDate,
+      published_at: `${fixtureDate}T09:15:00+08:00`,
       tag_en: 'Test Update',
       tag_zh: '测试更新',
       title_en: 'Homepage Revalidation Acceptance Post',
@@ -156,12 +192,12 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
     const acceptanceBuild = spawnSync(process.execPath, ['build.js'], {
       cwd: siteRoot,
       encoding: 'utf8',
-      env: { ...process.env, BUILD_NOW: '2026-08-08T02:00:00.000Z' }
+      env: { ...process.env, BUILD_NOW: `${fixtureDate}T03:15:00.000Z` }
     });
     assert.equal(acceptanceBuild.status, 0, acceptanceBuild.stderr || acceptanceBuild.stdout);
     const updatedHome = read('index.html');
-    assert.match(updatedHome, /Updated daily · August 8, 2026/);
-    assert.match(updatedHome, /Top Story · 2026-08-08[\s\S]*Homepage Revalidation Acceptance Post/);
+    assert.match(updatedHome, new RegExp(`Updated daily · ${escapeRegExp(fixtureLongDate)}`));
+    assert.match(updatedHome, new RegExp(`Top Story · ${fixtureDate}[\\s\\S]*Homepage Revalidation Acceptance Post`));
     const homeTags = Array.from(updatedHome.matchAll(/data-news-tag="([^"]+)"/g), match => match[1]);
     assert.equal(homeTags.length, 6, 'homepage should render one Top Story and five Latest News items');
     for (const tag of new Set(homeTags)) {
