@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 22:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:11:54 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BYD&apos;s 32.2% Share of China&apos;s NEV Exports Slipped in July — Because the Market Grew Faster Than It Did</title>
+      <link>https://www.topchinacar.com/news/byd-tesla-china-nev-exports-july-2026</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/byd-tesla-china-nev-exports-july-2026</guid>
+      <pubDate>Fri, 14 Aug 2026 20:43:41 GMT</pubDate>
+      <description>CPCA data for July 2026 shows BYD exporting 173,721 passenger NEVs for a 32.2% share, down from 34.2% in June even as its volume rose 121.7% year-on-year. Tesla China&apos;s 66,330 units lifted the Shanghai plant into third place in China&apos;s NEV export ranking, behind Chery&apos;s 82,768. With total China NEV exports at 540,000 units and domestic NEV retail down year-on-year for seven straight months, the export line has become the industry&apos;s growth engine — and the ranking&apos;s arithmetic reveals two very different playbooks underneath the headline numbers.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>Chery Breaks 200K Monthly Export Record as BYD, Geely &amp; SAIC-GM Redefine China&apos;s Global Push</title>
       <link>https://www.topchinacar.com/news/2026-08-14-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
       <description>BYD went from exporting almost nothing in 2021 to targeting 1.5 million overseas sales in 2026. Its strategy rests on three pillars: ships, plants, and a product ladder from the Seagull to Yangwang.</description>
       <category>Analysis</category>
-    </item>
-    <item>
-      <title>BYD Hits 792K Overseas in H1, Geely Breaks 100K Monthly, XPeng Goes to Munich</title>
-      <link>https://www.topchinacar.com/news/2026-07-05-china-auto-daily</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-05-china-auto-daily</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <description>BYD delivered 792,256 vehicles overseas in H1 2026 (+70.7%), Geely crossed 100K monthly exports for the first time, and XPeng will globally launch the Mona L03 in Munich on July 16 across 64 countries.</description>
-      <category>Daily Briefing</category>
     </item>
   </channel>
 </rss>
