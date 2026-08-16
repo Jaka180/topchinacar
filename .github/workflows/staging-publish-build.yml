@@ -16,7 +16,19 @@
 #      sitemaps, feed.xml), so the bot's generated-tree commit never matches.
 #   2. GitHub never triggers push workflows for pushes made with the built-in
 #      GITHUB_TOKEN.
-#   3. Actor guard + [skip ci] in the bot commit message, belt and braces.
+#   3. Actor guard (github.actor != 'github-actions[bot]'), belt and braces.
+#
+# The bot commit deliberately does NOT carry [skip ci]. It used to, as the
+# other half of layer 3, until 2026-08-16 showed Cloudflare Pages honours the
+# same marker: Pages set is_skipped=true on exactly the commit that carries
+# the generated tree, so news/<slug>.html was committed but never deployed and
+# the live site only picked an article up when some later, unmarked push
+# happened to deploy the tree. Loop protection is unaffected -- layers 1 and 2
+# are each independently sufficient (the bot's commit touches 0 paths under
+# articles/**, and GitHub does not trigger push workflows for GITHUB_TOKEN
+# pushes) and the actor guard above is untouched. The job-level [skip ci]
+# condition stays: it now only honours a marker a human typed deliberately.
+# Evidence: engine repo docs/m210-acceptance-report.md §9.7 and §9.12.
 name: staging-publish build bridge
 
 on:
@@ -111,7 +123,7 @@ jobs:
               echo "Generated tree is identical; nothing to commit."
               return 1
             fi
-            git commit -m "site: rebuild generated tree for articles change (${GITHUB_SHA}) [skip ci]" || return 2
+            git commit -m "site: rebuild generated tree for articles change (${GITHUB_SHA})" || return 2
           }
 
           commit_or_finish() {
