@@ -2,9 +2,13 @@
 // Route: POST /api/inquiry  (file path functions/api/inquiry.js)
 //
 // Environment variables (Cloudflare → Workers & Pages → tochinacar → Settings):
-//   RESEND_API_KEY  — required (same secret as the subscribe function)
-//   INQUIRY_TO      — optional, where inquiries land; default hello@topchinacar.com
-//   INQUIRY_FROM    — optional, verified sender; default briefing@topchinacar.com
+//   RESEND_API_KEY   — required (same secret as the subscribe function)
+//   INQUIRY_TO       — optional, where inquiries land; default hello@topchinacar.com
+//   INQUIRY_FROM     — optional, verified sender; default briefing@topchinacar.com
+//   TURNSTILE_SECRET — optional. Same secret as the radar newsletter Turnstile widget
+//                      (sitekey 0x4AAAAAAFOeyqZP39w8eCOI). When this variable is set,
+//                      the request must include a valid turnstileToken. When it is
+//                      unset, verification is skipped so inquiries keep sending.
 
 export async function onRequestPost(context) {
   const { env, request } = context;
@@ -14,6 +18,14 @@ export async function onRequestPost(context) {
 
   let b;
   try { b = await request.json(); } catch (e) { return json({ error: 'Invalid JSON' }, 400); }
+
+  // Honeypot: humans never see this field. Pretend success and do not send mail.
+  if (String(b.website || '').trim()) return json({ ok: true }, 200);
+
+  if (env.TURNSTILE_SECRET) {
+    const passed = await verifyTurnstile(env.TURNSTILE_SECRET, b.turnstileToken, request.headers.get('CF-Connecting-IP'));
+    if (!passed) return json({ error: 'Verification failed' }, 403);
+  }
 
   const s = (v, max) => String(v || '').trim().slice(0, max || 200);
   const inquiry = {
@@ -69,6 +81,25 @@ export async function onRequestPost(context) {
 export async function onRequest(context) {
   if (context.request.method === 'POST') return onRequestPost(context);
   return json({ error: 'Method not allowed' }, 405, { 'Allow': 'POST' });
+}
+
+async function verifyTurnstile(secret, token, remoteIp) {
+  try {
+    const body = new URLSearchParams();
+    body.set('secret', secret);
+    body.set('response', String(token || ''));
+    body.set('remoteip', remoteIp || '');
+    const response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body
+    });
+    const data = await response.json();
+    return !!(data && data.success);
+  } catch (err) {
+    console.error('turnstile verify failed:', err);
+    return false;
+  }
 }
 
 function json(obj, status, extraHeaders) {

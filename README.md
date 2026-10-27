@@ -33,8 +33,9 @@ Cloudflare Pages 会自动部署。然后做三件事：
 1. **询盘接通**（订阅已改接中国汽车出海日报，不再需要 Resend 联系人列表）：Cloudflare 后台 → Workers & Pages → tochinacar → Settings → Variables and Secrets（Production 环境），加：
    - `RESEND_API_KEY`（resend.com → API Keys，类型选 **Secret**）
    - `INQUIRY_TO`（询盘接收邮箱，不设则发到 hello@topchinacar.com——注意该地址需真实可收信，建议直接设成你的常用邮箱，或在 Cloudflare Email Routing 里把 hello@ 转发到你邮箱）
+   - `TURNSTILE_SECRET`（可选。和雷达订阅用的是同一个 Turnstile 挂件的密钥，对应站点里的 sitekey `0x4AAAAAAFOeyqZP39w8eCOI`。配上之后，`/api/inquiry` 会把表单提交的 `turnstileToken` 发给 Cloudflare 校验，并带上访问者的 `CF-Connecting-IP`；校验失败返回 403。不配这个变量就跳过校验，询盘照常发信。表单里还有一个对人隐藏的蜜罐字段 `website`，被填了就假装成功、不发邮件。）
 
-   加完 Retry deployment 一次让变量生效。没配好之前表单会显示「暂时不可用」，不会假装成功。
+   加完 Retry deployment 一次让变量生效。没配好 `RESEND_API_KEY` 之前表单会显示「暂时不可用」，不会假装成功。
 2. **Google Search Console**：添加 www.topchinacar.com，提交 `https://www.topchinacar.com/sitemap.xml`。
 3. **域名归一**：现在 topchinacar.com 和 www 都直接返回页面，canonical 指向 www。建议在 Cloudflare 加一条 Redirect Rule：`topchinacar.com/*` → 301 → `https://www.topchinacar.com/$1`（Rules → Redirect Rules）。
 

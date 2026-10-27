@@ -36,6 +36,13 @@ html[lang="zh"] {
 *, *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 [hidden] { display: none !important; }
+.inquiry-hp {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
 .sr-only {
   position: absolute !important;
   width: 1px !important;
@@ -2476,4 +2483,5 @@ html[lang="zh"] .hero-title { letter-spacing: 0; }
     min-width: 140px;
   }
 }
-.newsletter-captcha:empty { display: none; }
+.newsletter-captcha:empty,
+.inquiry-captcha:empty { display: none; }

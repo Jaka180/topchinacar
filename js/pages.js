@@ -1,6 +1,16 @@
 // ============ PAGE RENDERERS (pure functions — also used by build.js for prerendering) ============
 const LIVE_INTELLIGENCE_PATH = '/news';
 
+// Same plain-text escape as build.js. Leaves existing entities (&amp; and friends) intact.
+function escapeHtmlText(value) {
+  return String(value ?? '')
+    .replace(/&(?!(?:#\d+|#x[0-9a-fA-F]+|amp|lt|gt|quot|apos);)/gi, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 // SVG car illustrations (stylised silhouettes)
 function carSVG(shape, colorA = '#d4302a', colorB = '#1a1a1a') {
   const w = 400, h = 220;
@@ -369,8 +379,8 @@ function pageHome() {
         <article class="news-main-article" data-news-tag="${topTag}">
           <div class="news-main-body">
             <div class="news-meta" style="color:#dc2626;">${lang === 'zh' ? '头条' : 'Top Story'} · ${top.date}</div>
-            <h2 style="font-family:var(--serif);font-size:34px;font-weight:700;line-height:1.2;margin:10px 0 14px;"><a href="/news/${top.slug}" style="color:inherit;text-decoration:none;">${top['title_' + lang] || top.title_en}</a></h2>
-            <p class="feature-desc" style="font-size:16px;">${top['excerpt_' + lang] || top.excerpt_en || ''}</p>
+            <h2 style="font-family:var(--serif);font-size:34px;font-weight:700;line-height:1.2;margin:10px 0 14px;"><a href="/news/${top.slug}" style="color:inherit;text-decoration:none;">${escapeHtmlText(top['title_' + lang] || top.title_en)}</a></h2>
+            <p class="feature-desc" style="font-size:16px;">${escapeHtmlText(top['excerpt_' + lang] || top.excerpt_en || '')}</p>
             <a href="/news/${top.slug}" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;">${lang === 'zh' ? '阅读全文 →' : 'Read the story →'}</a>
           </div>
         </article>
@@ -379,7 +389,7 @@ function pageHome() {
           ${rest.length ? rest.map(a => `
           <article class="news-item" data-news-tag="${String(a.tag_en || 'News').replace(/"/g, '&quot;')}" style="grid-template-columns:1fr;">
             <div>
-              <h3 class="news-title"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;">${a['title_' + lang] || a.title_en}</a></h3>
+              <h3 class="news-title"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;">${escapeHtmlText(a['title_' + lang] || a.title_en)}</a></h3>
               <div class="news-date">${a.date}</div>
             </div>
           </article>`).join('') : `<p style="font-size:14px;color:#6b7280;">${lang === 'zh' ? '每个工作日更新。' : 'Updated every weekday.'}</p>`}
@@ -727,9 +737,9 @@ function dailyArticlesHTML(lang) {
   const items = SITE_ARTICLES.slice(0, 30).map(a => `<article style="border:1px solid #e5e7eb;border-radius:10px;padding:22px 24px;background:#ffffff;display:flex;flex-direction:column;gap:10px;">
       <div style="font-family:var(--mono, monospace);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#dc2626;">${a['tag_' + lang] || a.tag_en} · ${a.date}</div>
       <h3 style="font-family:var(--serif, Georgia, serif);font-size:21px;font-weight:700;line-height:1.3;margin:0;">
-        <a href="/news/${a.slug}" style="color:inherit;text-decoration:none;">${a['title_' + lang] || a.title_en}</a>
+        <a href="/news/${a.slug}" style="color:inherit;text-decoration:none;">${escapeHtmlText(a['title_' + lang] || a.title_en)}</a>
       </h3>
-      <p style="font-size:14px;color:#6b7280;line-height:1.65;margin:0;">${a['excerpt_' + lang] || a.excerpt_en || ''}</p>
+      <p style="font-size:14px;color:#6b7280;line-height:1.65;margin:0;">${escapeHtmlText(a['excerpt_' + lang] || a.excerpt_en || '')}</p>
       <a href="/news/${a.slug}" style="margin-top:auto;color:#dc2626;font-family:var(--mono, monospace);font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;">${lang === 'zh' ? '阅读全文 →' : 'Read dispatch →'}</a>
     </article>`).join('\n');
   return `
@@ -800,8 +810,8 @@ function pageMapWars() {
             <article style="display:grid;grid-template-columns:minmax(72px,100px) 1fr;gap:22px;padding:24px 0;border-bottom:1px solid #e5e7eb;">
               <div style="font-family:var(--mono);font-size:12px;letter-spacing:.12em;color:#d4302a;text-transform:uppercase;">${lang === 'zh' ? `第 ${index + 1} 篇` : `Essay ${index + 1}`}</div>
               <div>
-                <h2 style="font-family:var(--serif);font-size:26px;line-height:1.25;margin:0 0 10px;"><a href="/news/${article.slug}" style="color:inherit;text-decoration:none;">${article['title_' + lang] || article.title_en}</a></h2>
-                <p style="margin:0 0 12px;color:#6b7280;line-height:1.7;">${article['excerpt_' + lang] || article.excerpt_en || ''}</p>
+                <h2 style="font-family:var(--serif);font-size:26px;line-height:1.25;margin:0 0 10px;"><a href="/news/${article.slug}" style="color:inherit;text-decoration:none;">${escapeHtmlText(article['title_' + lang] || article.title_en)}</a></h2>
+                <p style="margin:0 0 12px;color:#6b7280;line-height:1.7;">${escapeHtmlText(article['excerpt_' + lang] || article.excerpt_en || '')}</p>
                 <a href="/news/${article.slug}" style="color:#d4302a;font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">${lang === 'zh' ? '阅读全文 →' : 'Read essay →'}</a>
               </div>
             </article>`).join('')}
@@ -816,7 +826,7 @@ function pageNews() {
   const latestA = (typeof SITE_ARTICLES !== 'undefined' && SITE_ARTICLES.length) ? SITE_ARTICLES[0] : null;
   const colHref = latestA ? `/news/${latestA.slug}` : '/news';
   const colDate = latestA ? latestA.date : t('news.column.date');
-  const colHeadline = latestA ? (latestA['title_' + lang] || latestA.title_en) : t('news.column.headline');
+  const colHeadline = latestA ? escapeHtmlText(latestA['title_' + lang] || latestA.title_en) : t('news.column.headline');
   return `
     <section class="page-header">
       <div class="container">
@@ -1001,6 +1011,10 @@ function pageQuote() {
     <section style="padding-top:0;">
       <div class="container" style="max-width:820px;">
         <form id="quoteForm" novalidate>
+          <div class="inquiry-hp" aria-hidden="true">
+            <label for="qWebsite">Website</label>
+            <input id="qWebsite" name="website" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" />
+          </div>
           <div style="display:grid;grid-template-columns:1fr 1fr;gap:0 20px;">
             ${field('qName', 'quote.form.name', 'text', 'required')}
             ${field('qCompany', 'quote.form.company', 'text')}

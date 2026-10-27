@@ -157,6 +157,23 @@
     const modelInput = document.getElementById('qModel');
     if (preModel && modelInput && !modelInput.value) modelInput.value = preModel;
 
+    const box = document.createElement('div');
+    box.className = 'inquiry-captcha';
+    form.appendChild(box);
+    let widget = null, token = null;
+    const zh = () => getLang() === 'zh';
+    function renderQuoteTurnstile() {
+      if (widget !== null || !window.turnstile) return;
+      widget = window.turnstile.render(box, {
+        sitekey: TURNSTILE_SITE_KEY, appearance: 'interaction-only', language: zh() ? 'zh-cn' : 'en',
+        callback: (t) => { token = t; }, 'expired-callback': () => { token = null; }, 'error-callback': () => { token = null; }
+      });
+    }
+    function loadQuoteTurnstile() {
+      return loadTurnstileApi().then(renderQuoteTurnstile);
+    }
+    form.addEventListener('focusin', () => { loadQuoteTurnstile(); }, { once: true });
+
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const val = id => (document.getElementById(id) || {}).value || '';
@@ -166,7 +183,8 @@
         name: val('qName').trim(), company: val('qCompany').trim(),
         email: val('qEmail').trim(), whatsapp: val('qWhatsapp').trim(),
         market: val('qMarket').trim(), model: val('qModel').trim(),
-        quantity: val('qQty').trim(), message: val('qMessage').trim()
+        quantity: val('qQty').trim(), message: val('qMessage').trim(),
+        website: val('qWebsite').trim(), turnstileToken: token || ''
       };
       if (!payload.name || !payload.market || !payload.model
           || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(payload.email)) {
@@ -179,11 +197,24 @@
       }
       if (btn) { btn.disabled = true; btn.textContent = '…'; }
       try {
+        await loadQuoteTurnstile();
+        const captcha = await waitTurnstileToken(() => token, 8000);
+        payload.turnstileToken = captcha || '';
         const r = await fetch('/api/inquiry', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload)
         });
+        if (r.status === 403) {
+          if (btn) { btn.disabled = false; btn.textContent = t('quote.form.submit'); }
+          if (widget !== null && window.turnstile) { window.turnstile.reset(widget); token = null; }
+          if (result) {
+            result.hidden = false;
+            result.style.borderLeftColor = '#d4302a';
+            result.textContent = zh() ? '人机验证没有通过，请再提交一次。' : 'The bot check did not pass — please submit again.';
+          }
+          return;
+        }
         if (!r.ok) throw new Error('inquiry failed: ' + r.status);
         form.querySelectorAll('input, textarea, button').forEach(el => el.disabled = true);
         if (result) {
@@ -207,6 +238,37 @@
   // Turnstile (bot check) loads only when the reader focuses the email field; interaction-only, so most readers never see it.
   const RADAR_SUBSCRIBE = 'https://radar.topchinacar.com/api/subscribe';
   const TURNSTILE_SITE_KEY = '0x4AAAAAAFOeyqZP39w8eCOI';
+  let turnstileApiPromise = null;
+  function loadTurnstileApi() {
+    if (window.turnstile) return Promise.resolve();
+    if (turnstileApiPromise) return turnstileApiPromise;
+    turnstileApiPromise = new Promise((resolve) => {
+      window.tccTurnstileReady = () => resolve();
+      if (document.querySelector('script[src*="challenges.cloudflare.com/turnstile"]')) {
+        const timer = setInterval(() => {
+          if (window.turnstile) { clearInterval(timer); resolve(); }
+        }, 50);
+        setTimeout(() => { clearInterval(timer); resolve(); }, 8000);
+        return;
+      }
+      const s = document.createElement('script');
+      s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tccTurnstileReady&render=explicit';
+      s.async = true;
+      s.defer = true;
+      s.onerror = () => resolve();
+      document.head.appendChild(s);
+    });
+    return turnstileApiPromise;
+  }
+  const waitTurnstileToken = async (readToken, ms) => {
+    const t0 = Date.now();
+    let value = readToken();
+    while (!value && Date.now() - t0 < ms) {
+      await new Promise(r => setTimeout(r, 200));
+      value = readToken();
+    }
+    return value;
+  };
   function initNewsletter() {
     const form = document.getElementById('newsletterForm');
     if (!form) return;
@@ -214,30 +276,21 @@
     const btn = form.querySelector('.newsletter-btn');
     const ok = document.getElementById('newsletterOk');
     const zh = () => getLang() === 'zh';
-    let widget = null, token = null, loading = null;
+    let widget = null, token = null;
     const box = document.createElement('div');
     box.className = 'newsletter-captcha';
     form.appendChild(box);
-    function loadTurnstile() {
-      if (loading) return loading;
-      loading = new Promise((resolve) => {
-        window.tccTurnstileReady = () => {
-          widget = window.turnstile.render(box, {
-            sitekey: TURNSTILE_SITE_KEY, appearance: 'interaction-only', language: zh() ? 'zh-cn' : 'en',
-            callback: (t) => { token = t; }, 'expired-callback': () => { token = null; }, 'error-callback': () => { token = null; }
-          });
-          resolve();
-        };
-        const s = document.createElement('script');
-        s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tccTurnstileReady&render=explicit';
-        s.async = true; s.defer = true;
-        s.onerror = () => resolve();
-        document.head.appendChild(s);
+    function renderNewsletterTurnstile() {
+      if (widget !== null || !window.turnstile) return;
+      widget = window.turnstile.render(box, {
+        sitekey: TURNSTILE_SITE_KEY, appearance: 'interaction-only', language: zh() ? 'zh-cn' : 'en',
+        callback: (t) => { token = t; }, 'expired-callback': () => { token = null; }, 'error-callback': () => { token = null; }
       });
-      return loading;
     }
-    if (input) input.addEventListener('focus', loadTurnstile, { once: true });
-    const waitToken = async (ms) => { const t0 = Date.now(); while (!token && Date.now() - t0 < ms) await new Promise(r => setTimeout(r, 200)); return token; };
+    function loadTurnstile() {
+      return loadTurnstileApi().then(renderNewsletterTurnstile);
+    }
+    if (input) input.addEventListener('focus', () => { loadTurnstile(); }, { once: true });
     function message(text) { if (ok) { ok.hidden = false; ok.textContent = text; } }
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -250,7 +303,7 @@
       if (btn) { btn.disabled = true; btn.textContent = '…'; }
       try {
         await loadTurnstile();
-        const captcha = await waitToken(8000);
+        const captcha = await waitTurnstileToken(() => token, 8000);
         const r = await fetch(RADAR_SUBSCRIBE, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
