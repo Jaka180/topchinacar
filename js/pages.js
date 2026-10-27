@@ -1012,8 +1012,8 @@ function pageQuote() {
       <div class="container" style="max-width:820px;">
         <form id="quoteForm" novalidate>
           <div class="inquiry-hp" aria-hidden="true">
-            <label for="qWebsite">Website</label>
-            <input id="qWebsite" name="website" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" />
+            <label for="qHp">Leave this field empty</label>
+            <input id="qHp" name="hp_note" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" />
           </div>
           <div style="display:grid;grid-template-columns:1fr 1fr;gap:0 20px;">
             ${field('qName', 'quote.form.name', 'text', 'required')}

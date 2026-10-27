@@ -20,7 +20,7 @@ export async function onRequestPost(context) {
   try { b = await request.json(); } catch (e) { return json({ error: 'Invalid JSON' }, 400); }
 
   // Honeypot: humans never see this field. Pretend success and do not send mail.
-  if (String(b.website || '').trim()) return json({ ok: true }, 200);
+  if (String(b.hp_note || '').trim()) return json({ ok: true }, 200);
 
   if (env.TURNSTILE_SECRET) {
     const passed = await verifyTurnstile(env.TURNSTILE_SECRET, b.turnstileToken, request.headers.get('CF-Connecting-IP'));

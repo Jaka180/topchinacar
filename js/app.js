@@ -184,7 +184,7 @@
         email: val('qEmail').trim(), whatsapp: val('qWhatsapp').trim(),
         market: val('qMarket').trim(), model: val('qModel').trim(),
         quantity: val('qQty').trim(), message: val('qMessage').trim(),
-        website: val('qWebsite').trim(), turnstileToken: token || ''
+        hp_note: val('qHp').trim(), turnstileToken: token || ''
       };
       if (!payload.name || !payload.market || !payload.model
           || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(payload.email)) {
