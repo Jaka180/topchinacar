@@ -12,7 +12,7 @@
 | 正文全靠 JS 渲染，爬虫看到空页面 | `build.js` 预渲染，每页 HTML 里有完整内容 |
 | 所有页面共用同一个 title/description | 每页独立 title、description、canonical、og 标签 |
 | 无 sitemap.xml / robots.txt | 已生成 |
-| 订阅表单是假的（点了只显示成功，邮箱没存） | 接 `/api/subscribe`（Cloudflare Pages Function → Resend Audiences），未配置或失败时有诚实的兜底提示 |
+| 订阅表单是假的（点了只显示成功，邮箱没存） | 2026-10-27 起直接接中国汽车出海日报的订阅（`radar.topchinacar.com/api/subscribe`：确认邮件 + Turnstile + 限流），见 china-auto-global-radar 的 ADR-0026 |
 | 底部残留 Perplexity 编辑器脚本（约 10KB） | 已移除 |
 | 旧链接 `#/brands?focus=byd` | app.js 自动跳转到 `/brands?focus=byd` |
 | 无安全/缓存响应头 | `_headers` 文件 |
@@ -30,9 +30,8 @@ git push
 
 Cloudflare Pages 会自动部署。然后做三件事：
 
-1. **订阅 + 询盘接通**：Cloudflare 后台 → Workers & Pages → tochinacar → Settings → Variables and Secrets（Production 环境），加：
-   - `RESEND_API_KEY`（resend.com → API Keys，选 Full access，类型选 **Secret**）
-   - `RESEND_AUDIENCE_ID`（resend.com → Audiences → 新建一个 → 复制 ID）
+1. **询盘接通**（订阅已改接中国汽车出海日报，不再需要 Resend 联系人列表）：Cloudflare 后台 → Workers & Pages → tochinacar → Settings → Variables and Secrets（Production 环境），加：
+   - `RESEND_API_KEY`（resend.com → API Keys，类型选 **Secret**）
    - `INQUIRY_TO`（询盘接收邮箱，不设则发到 hello@topchinacar.com——注意该地址需真实可收信，建议直接设成你的常用邮箱，或在 Cloudflare Email Routing 里把 hello@ 转发到你邮箱）
 
    加完 Retry deployment 一次让变量生效。没配好之前表单会显示「暂时不可用」，不会假装成功。
@@ -90,7 +89,7 @@ node scripts/site-health.js --live      # 部署后检查 Sitemap 中的全部�
 - `js/pages.js` — 页面渲染函数（浏览器与 build.js 共用）
 - `js/app.js` — 客户端运行时：语言切换、车型筛选、订阅表单、旧链接跳转
 - `js/data.js` / `js/i18n.js` — 数据与文案（内容与原版一致，未改）
-- `functions/api/subscribe.js` — Cloudflare Pages Function 订阅接口
+- 订阅表单（`js/app.js` 的 initNewsletter）→ `https://radar.topchinacar.com/api/subscribe`；旧的 `functions/api/subscribe.js`（Resend 联系人列表）已删除
 - `functions/api/inquiry.js` — 出口询盘接口（/quote 页表单 → 邮件到 INQUIRY_TO）
 - `_headers` — 安全与缓存响应头
 - `*.html` — build.js 生成，勿手改
