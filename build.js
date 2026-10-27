@@ -379,8 +379,8 @@ const NEWSLETTER = `<section class="newsletter" aria-label="Newsletter subscript
         <input class="newsletter-input" id="newsletterEmail" type="email" name="email" placeholder="your@email.com" required data-i18n-attr="placeholder:newsletter.placeholder" />
         <button class="newsletter-btn" type="submit" data-i18n="newsletter.cta">Subscribe</button>
       </form>
-      <div class="newsletter-ok" id="newsletterOk" hidden data-i18n="newsletter.success">Thanks — you are on the list for the next China Auto Overseas Daily.</div>
-      <p class="newsletter-note"><span data-i18n="newsletter.resendNote">Delivered by Resend. Unsubscribe anytime.</span></p>
+      <div class="newsletter-ok" id="newsletterOk" hidden data-i18n="newsletter.success">Almost done — check your inbox and click the confirmation link to start receiving China Auto Overseas Daily.</div>
+      <p class="newsletter-note"><span data-i18n="newsletter.resendNote">Free. We send a confirmation email first. Unsubscribe anytime.</span></p>
     </div>
   </div>
 </section>`;

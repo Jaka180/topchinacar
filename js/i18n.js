@@ -58,8 +58,8 @@ const I18N = {
     'newsletter.emailLabel': 'Email address',
     'newsletter.placeholder': 'your@email.com',
     'newsletter.cta': 'Subscribe',
-    'newsletter.resendNote': 'Delivered by Resend. Unsubscribe anytime.',
-    'newsletter.success': 'Thanks — you are on the list for the next China Auto Overseas Daily.',
+    'newsletter.resendNote': 'Free. We send a confirmation email first. Unsubscribe anytime.',
+    'newsletter.success': 'Almost done — check your inbox and click the confirmation link to start receiving China Auto Overseas Daily.',
 
     'news.column.eyebrow': 'Daily Briefing',
     'news.column.title': 'China Auto Overseas Daily',
@@ -208,8 +208,8 @@ const I18N = {
     'newsletter.emailLabel': '邮箱地址',
     'newsletter.placeholder': '你的邮箱',
     'newsletter.cta': '订阅日报',
-    'newsletter.resendNote': '由 Resend 自动发送，可随时退订。',
-    'newsletter.success': '谢谢——你已加入中国车企出海日报订阅名单。',
+    'newsletter.resendNote': '免费订阅，会先发一封确认邮件，可随时退订。',
+    'newsletter.success': '还差一步：请去邮箱点击确认链接，确认后就会每天收到中国车企出海日报。',
 
     'news.column.eyebrow': '每日简报',
     'news.column.title': '中国车企出海日报',

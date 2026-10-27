@@ -2476,3 +2476,4 @@ html[lang="zh"] .hero-title { letter-spacing: 0; }
     min-width: 140px;
   }
 }
+.newsletter-captcha:empty { display: none; }

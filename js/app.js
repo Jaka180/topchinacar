@@ -202,15 +202,45 @@
     });
   }
 
-  // ---- Newsletter → /api/subscribe → Resend Contacts/Segments ----
+  // ---- Newsletter → China Auto Overseas Daily (radar.topchinacar.com/api/subscribe) ----
+  // Same double opt-in flow as join.topchinacar.com: a confirmation email is sent, the reader clicks it to subscribe.
+  // Turnstile (bot check) loads only when the reader focuses the email field; interaction-only, so most readers never see it.
+  const RADAR_SUBSCRIBE = 'https://radar.topchinacar.com/api/subscribe';
+  const TURNSTILE_SITE_KEY = '0x4AAAAAAFOeyqZP39w8eCOI';
   function initNewsletter() {
     const form = document.getElementById('newsletterForm');
     if (!form) return;
+    const input = document.getElementById('newsletterEmail');
+    const btn = form.querySelector('.newsletter-btn');
+    const ok = document.getElementById('newsletterOk');
+    const zh = () => getLang() === 'zh';
+    let widget = null, token = null, loading = null;
+    const box = document.createElement('div');
+    box.className = 'newsletter-captcha';
+    form.appendChild(box);
+    function loadTurnstile() {
+      if (loading) return loading;
+      loading = new Promise((resolve) => {
+        window.tccTurnstileReady = () => {
+          widget = window.turnstile.render(box, {
+            sitekey: TURNSTILE_SITE_KEY, appearance: 'interaction-only', language: zh() ? 'zh-cn' : 'en',
+            callback: (t) => { token = t; }, 'expired-callback': () => { token = null; }, 'error-callback': () => { token = null; }
+          });
+          resolve();
+        };
+        const s = document.createElement('script');
+        s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tccTurnstileReady&render=explicit';
+        s.async = true; s.defer = true;
+        s.onerror = () => resolve();
+        document.head.appendChild(s);
+      });
+      return loading;
+    }
+    if (input) input.addEventListener('focus', loadTurnstile, { once: true });
+    const waitToken = async (ms) => { const t0 = Date.now(); while (!token && Date.now() - t0 < ms) await new Promise(r => setTimeout(r, 200)); return token; };
+    function message(text) { if (ok) { ok.hidden = false; ok.textContent = text; } }
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const input = document.getElementById('newsletterEmail');
-      const btn = form.querySelector('.newsletter-btn');
-      const ok = document.getElementById('newsletterOk');
       const email = (input && input.value || '').trim();
       if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
         if (input) { input.classList.add('newsletter-input-error'); input.focus(); }
@@ -219,22 +249,31 @@
       if (input) input.classList.remove('newsletter-input-error');
       if (btn) { btn.disabled = true; btn.textContent = '…'; }
       try {
-        const r = await fetch('/api/subscribe', {
+        await loadTurnstile();
+        const captcha = await waitToken(8000);
+        const r = await fetch(RADAR_SUBSCRIBE, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email })
+          body: JSON.stringify({ email, captcha })
         });
-        if (!r.ok) throw new Error('subscribe failed: ' + r.status);
-        form.style.display = 'none';
-        if (ok) ok.hidden = false;
+        const data = await r.json().catch(() => ({}));
+        if (data.ok) {
+          form.style.display = 'none';
+          message(t('newsletter.success'));
+          return;
+        }
+        const err = data.error;
+        if (btn) { btn.disabled = false; btn.textContent = t('newsletter.cta'); }
+        if (widget !== null && window.turnstile) { window.turnstile.reset(widget); token = null; }
+        if (err === 'invalid_email') { if (input) { input.classList.add('newsletter-input-error'); input.focus(); } message(zh() ? '邮箱格式不对，请检查一下。' : 'That email address does not look right.'); }
+        else if (err === 'captcha') message(zh() ? '人机验证没有通过，请再点一次订阅。' : 'The bot check did not pass — please press Subscribe again.');
+        else if (err === 'rate_limited') message(zh() ? '操作太频繁，请稍后再试。' : 'Too many attempts — please try again in a little while.');
+        else throw new Error('subscribe failed: ' + r.status);
       } catch (err) {
         if (btn) { btn.disabled = false; btn.textContent = t('newsletter.cta'); }
-        if (ok) {
-          ok.hidden = false;
-          ok.textContent = getLang() === 'zh'
-            ? '订阅暂时不可用，请直接发邮件到 hello@topchinacar.com，标题写中国车企出海日报'
-            : 'Subscription is temporarily unavailable — email hello@topchinacar.com with “China Auto Overseas Daily” in the subject.';
-        }
+        message(zh()
+          ? '订阅暂时不可用，请稍后再试，或直接打开 join.topchinacar.com 订阅。'
+          : 'Subscription is temporarily unavailable — please try again later, or subscribe at join.topchinacar.com.');
       }
     });
   }
