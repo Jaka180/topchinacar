@@ -1,8 +1,28 @@
 // ============ DATA ============
+// entity：group 为集团/投资组合归属；parent 为已核实的公司母体（可能经中间公司持有）。
+// listed 只列本条目对应公司自身的上市证券，不借用母公司代码；jv 不代表品牌。
+// null / [] 表示未确认或不适用，并非保证不存在；核实口径与出处见 HANDOFF.md。
 const SITE_DATA = {
   brands: [
     {
       id: 'byd', name: 'BYD', cn: '比亚迪', founded: 1995, hq: 'Shenzhen', focus: 'EV / Hybrid',
+      entity: {
+        "group_en": "BYD Company Limited",
+        "group_zh": "比亚迪股份有限公司",
+        "listed": [
+          {
+            "exchange": "SZSE",
+            "code": "002594"
+          },
+          {
+            "exchange": "HKEX",
+            "code": "01211"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'group',
       colorA: '#d4302a', colorB: '#1a1a1a',
       desc_en: 'A mainstream Chinese auto group transformed by new energy. It combines complete vehicle manufacturing, batteries, electric drives, power semiconductors and global export channels.',
@@ -13,6 +33,27 @@ const SITE_DATA = {
     },
     {
       id: 'nio', name: 'NIO', cn: '蔚来', founded: 2014, hq: 'Shanghai', focus: 'Premium EV',
+      entity: {
+        "group_en": "NIO Inc.",
+        "group_zh": "蔚来集团",
+        "listed": [
+          {
+            "exchange": "NYSE",
+            "code": "NIO"
+          },
+          {
+            "exchange": "HKEX",
+            "code": "09866"
+          },
+          {
+            "exchange": "SGX",
+            "code": "NIO"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'startup',
       colorA: '#1d4ed8', colorB: '#0a0a0a',
       desc_en: 'Premium EV with battery-swap network. Europe push via Norway, Germany, Netherlands. Sub-brands Onvo and Firefly target lower segments.',
@@ -21,6 +62,23 @@ const SITE_DATA = {
     },
     {
       id: 'xpeng', name: 'Xpeng', cn: '小鹏', founded: 2014, hq: 'Guangzhou', focus: 'Smart EV / ADAS',
+      entity: {
+        "group_en": "XPeng Inc.",
+        "group_zh": "小鹏汽车",
+        "listed": [
+          {
+            "exchange": "NYSE",
+            "code": "XPEV"
+          },
+          {
+            "exchange": "HKEX",
+            "code": "09868"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'startup',
       colorA: '#22c55e', colorB: '#1a1a1a',
       desc_en: 'Tech-first EV brand with the most advanced city-level autonomous driving in China. Mona and P7+ pushed scale in 2025.',
@@ -29,6 +87,23 @@ const SITE_DATA = {
     },
     {
       id: 'li', name: 'Li Auto', cn: '理想', founded: 2015, hq: 'Beijing', focus: 'Family EREV / EV',
+      entity: {
+        "group_en": "Li Auto Inc.",
+        "group_zh": "理想汽车",
+        "listed": [
+          {
+            "exchange": "NASDAQ",
+            "code": "LI"
+          },
+          {
+            "exchange": "HKEX",
+            "code": "02015"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'startup',
       colorA: '#f59e0b', colorB: '#1a1a1a',
       desc_en: 'Family SUV specialist. EREV pioneer with the L-series; MEGA and i-series push pure EV. China\'s most profitable new-energy startup.',
@@ -37,52 +112,159 @@ const SITE_DATA = {
     },
     {
       id: 'leapmotor', name: 'Leapmotor', cn: '零跑', founded: 2015, hq: 'Hangzhou', focus: 'Value Smart EV',
+      entity: {
+        "group_en": "Zhejiang Leapmotor Technology Co., Ltd.",
+        "group_zh": "浙江零跑科技股份有限公司",
+        "listed": [
+          {
+            "exchange": "HKEX",
+            "code": "09863"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": [
+          {
+            "name_en": "Leapmotor International B.V.",
+            "name_zh": "零跑国际",
+            "partners": [
+              "Stellantis",
+              "Leapmotor / 零跑汽车"
+            ],
+            "stake_note": "Stellantis 51%; Leapmotor 49%. These stakes are in the international JV, not Leapmotor itself. / Stellantis 51%、零跑汽车 49%，比例指零跑国际合资公司，不是零跑汽车本体。"
+          }
+        ]
+      },
       category: 'startup',
       colorA: '#0ea5e9', colorB: '#0a0a0a',
-      desc_en: 'Vertically-integrated value EV maker. 51% owned by Stellantis since 2023 — the only Chinese new-energy startup with a Western OEM partner driving global rollout.',
-      desc_zh: '垂直整合的高性价比新势力。2023 年起 Stellantis 持股 51%，是唯一与西方车企集团合资出海的中国新势力。',
+      desc_en: 'Vertically-integrated value EV maker. Stellantis acquired approximately 20% of Leapmotor in 2023. Their separate international joint venture, Leapmotor International, is owned 51% by Stellantis and 49% by Leapmotor.',
+      desc_zh: '垂直整合的高性价比新势力。Stellantis 于 2023 年入股零跑汽车约 20%；另设的出海合资公司零跑国际由 Stellantis 持股 51%、零跑汽车持股 49%。',
       image: 'images/leapmotor-c10.webp', imageCredit: 'Stellantis'
     },
     {
       id: 'zeekr', name: 'Zeekr', cn: '极氪', founded: 2021, hq: 'Hangzhou', focus: 'Performance EV',
+      entity: {
+        "group_en": "Zhejiang Geely Holding Group",
+        "group_zh": "浙江吉利控股集团",
+        "listed": [],
+        "parent_en": "Geely Automobile Holdings Limited",
+        "parent_zh": "吉利汽车控股有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Geely', parent_zh: '吉利',
       colorA: '#0ea5e9', colorB: '#0a0a0a',
-      desc_en: 'Geely\'s premium EV arm. Performance-focused with the 001 shooting brake, 7X SUV and 009 luxury van. Listed on NYSE 2024.',
-      desc_zh: '吉利旗下高端电动品牌。001 猎装、7X SUV 与 009 豪华 MPV。2024 年于纽交所上市。',
+      desc_en: 'Geely Auto\'s premium EV arm, with the 001 shooting brake, 7X SUV and 009 luxury van. Listed on NYSE in 2024; taken private in December 2025 and now wholly owned by Geely Automobile Holdings.',
+      desc_zh: '吉利汽车旗下高端电动品牌，拥有 001 猎装、7X SUV 与 009 豪华 MPV。2024 年于纽交所上市，2025 年 12 月完成私有化，现为吉利汽车控股全资子公司。',
       image: 'images/zeekr-brand.jpg', imageCredit: 'Zoerides / CC BY-SA 4.0'
     },
     {
       id: 'geely', name: 'Geely', cn: '吉利', founded: 1986, hq: 'Hangzhou', focus: 'Multi-brand group',
+      entity: {
+        "group_en": "Zhejiang Geely Holding Group",
+        "group_zh": "浙江吉利控股集团",
+        "listed": [],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'group',
       colorA: '#3b82f6', colorB: '#1a1a1a',
-      desc_en: 'A diversified private auto group spanning Geely, Galaxy, Lynk & Co, Zeekr, Volvo, Polestar and Lotus. Its global portfolio mixes Chinese platforms with European premium brands.',
-      desc_zh: '覆盖吉利、银河、领克、极氪、沃尔沃、Polestar 与路特斯的多元化民营汽车集团，以中国平台能力叠加欧洲高端品牌资产。',
+      desc_en: 'Zhejiang Geely Holding is a private automotive holding group with investments across Geely Auto, Galaxy, Lynk & Co, Zeekr, Volvo Cars, Polestar and Lotus. It is distinct from Hong Kong-listed Geely Automobile Holdings (0175).',
+      desc_zh: '浙江吉利控股是民营汽车控股集团，投资组合覆盖吉利汽车、银河、领克、极氪、沃尔沃汽车、极星与路特斯；它与香港上市公司吉利汽车控股（0175）是不同实体。',
       subBrands_en: 'Geely, Galaxy, Lynk & Co, Zeekr, Volvo, Polestar, Lotus',
       subBrands_zh: '吉利、银河、领克、极氪、沃尔沃、Polestar、路特斯',
       image: 'images/geely-brand.jpg', imageCredit: 'Nissangeniss / CC BY-SA 4.0'
     },
     {
       id: 'chery', name: 'Chery', cn: '奇瑞', founded: 1997, hq: 'Wuhu', focus: 'Mass-market export',
+      entity: {
+        "group_en": "Chery Automobile Co., Ltd.",
+        "group_zh": "奇瑞汽车股份有限公司",
+        "listed": [
+          {
+            "exchange": "HKEX",
+            "code": "09973"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": [
+          {
+            "name_en": "Chery Jaguar Land Rover Automotive Co., Ltd.",
+            "name_zh": "奇瑞捷豹路虎汽车有限公司",
+            "partners": [
+              "Chery Automobile / 奇瑞汽车",
+              "Jaguar Land Rover / 捷豹路虎"
+            ],
+            "stake_note": "Chery Automobile 50%; JLR 50%. / 奇瑞汽车 50%、捷豹路虎 50%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#ef4444', colorB: '#1a1a1a',
-      desc_en: 'Export-led Chinese auto group with deep reach in Russia, the Middle East and Latin America. Its multi-brand system covers Chery, Exeed, Jetour, Omoda, Jaecoo and iCar.',
-      desc_zh: '出口驱动型中国整车集团，在俄罗斯、中东和拉美市场基础深厚。旗下覆盖奇瑞、星途、捷途、Omoda、Jaecoo 与 iCar。',
+      desc_en: 'Chery Automobile is an export-led automaker founded in Wuhu in 1997 and listed in Hong Kong (9973) in 2025. Its portfolio includes Chery, Exeed, Jetour, Omoda, Jaecoo and iCar. Chery Holding ceased to hold its shares directly after the January 2025 restructuring.',
+      desc_zh: '奇瑞汽车于 1997 年在芜湖成立，2025 年于香港上市（9973），以出口见长，品牌体系涵盖奇瑞、星途、捷途、Omoda、Jaecoo 与 iCar。2025 年 1 月重组后，奇瑞控股已不再直接持有奇瑞汽车股份。',
       subBrands_en: 'Chery, Exeed, Jetour, Omoda, Jaecoo, iCar',
       subBrands_zh: '奇瑞、星途、捷途、Omoda、Jaecoo、iCar',
       image: 'images/chery-brand.jpg', imageCredit: 'Alexander Migl / CC BY-SA 4.0'
     },
     {
       id: 'changan', name: 'Changan', cn: '长安', founded: 1862, hq: 'Chongqing', focus: 'State automaker / NEV',
+      entity: {
+        "group_en": "China Changan Automobile Group Co., Ltd.",
+        "group_zh": "中国长安汽车集团有限公司",
+        "listed": [
+          {
+            "exchange": "SZSE",
+            "code": "000625"
+          },
+          {
+            "exchange": "SZSE",
+            "code": "200625"
+          }
+        ],
+        "parent_en": "China Changan Automobile Group Co., Ltd.",
+        "parent_zh": "中国长安汽车集团有限公司",
+        "jv": [
+          {
+            "name_en": "Changan Ford Automobile Co., Ltd.",
+            "name_zh": "长安福特汽车有限公司",
+            "partners": [
+              "Changan Automobile / 长安汽车",
+              "Ford / 福特"
+            ],
+            "stake_note": "Changan 50%; Ford 50%. / 长安汽车 50%、福特 50%。"
+          },
+          {
+            "name_en": "Changan Mazda Automobile Co., Ltd.",
+            "name_zh": "长安马自达汽车有限公司",
+            "partners": [
+              "Changan Automobile / 长安汽车",
+              "Mazda / 马自达",
+              "FAW / 一汽"
+            ],
+            "stake_note": "Changan 47.5%; Mazda 47.5%; FAW 5%. / 长安汽车 47.5%、马自达 47.5%、一汽 5%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#2563eb', colorB: '#111827',
-      desc_en: 'Major state-owned auto group with Changan, Deepal, Avatr and Nevo/Qiyuan. Its transition is built around NEV platforms, smart EVs and selective overseas expansion.',
-      desc_zh: '大型国有整车集团，覆盖长安、深蓝、阿维塔与启源等体系。新能源转型围绕 NEV 平台、智能电动车与重点海外市场展开。',
-      subBrands_en: 'Changan, Deepal, Avatr, Nevo/Qiyuan, Changan Ford, Changan Mazda',
-      subBrands_zh: '长安、深蓝、阿维塔、启源、长安福特、长安马自达',
+      desc_en: 'Changan Automobile is a Shenzhen-listed automaker under China Changan Automobile Group, which was established in July 2025. Its industrial heritage dates to 1862. Its portfolio includes Changan, Deepal and Nevo/Qiyuan, alongside its investment in Avatr and the Changan Ford and Changan Mazda joint ventures.',
+      desc_zh: '长安汽车是深圳上市车企，隶属 2025 年 7 月成立的中国长安汽车集团，工业历史追溯至 1862 年。旗下有长安、深蓝、启源，并投资阿维塔，另有长安福特、长安马自达等合资企业。',
+      subBrands_en: 'Changan, Deepal, Avatr, Nevo/Qiyuan',
+      subBrands_zh: '长安、深蓝、阿维塔、启源',
       image: 'images/changan-brand.jpg', imageCredit: 'User3204 / CC BY-SA 4.0'
     },
     {
       id: 'xiaomi', name: 'Xiaomi', cn: '小米', founded: 2021, hq: 'Beijing', focus: 'Smart EV',
+      entity: {
+        "group_en": "Xiaomi Corporation",
+        "group_zh": "小米集团",
+        "listed": [],
+        "parent_en": "Xiaomi Corporation",
+        "parent_zh": "小米集团",
+        "jv": []
+      },
       colorA: '#f97316', colorB: '#0a0a0a',
       desc_en: 'Phone-maker turned car-maker. SU7 sedan and YU7 SUV ignited global attention with Porsche-rivalling performance at half the price.',
       desc_zh: '手机厂跨界造车。SU7 轿车与 YU7 SUV 以保时捷级性能、半价售价引爆全球关注。',
@@ -91,6 +273,33 @@ const SITE_DATA = {
     },
     {
       id: 'gwm', name: 'Great Wall', cn: '长城', founded: 1984, hq: 'Baoding', focus: 'SUV / Pickup',
+      entity: {
+        "group_en": "Great Wall Motor Company Limited",
+        "group_zh": "长城汽车股份有限公司",
+        "listed": [
+          {
+            "exchange": "SSE",
+            "code": "601633"
+          },
+          {
+            "exchange": "HKEX",
+            "code": "02333"
+          }
+        ],
+        "parent_en": "Baoding Innovation Great Wall Asset Management Company Limited",
+        "parent_zh": "保定创新长城资产管理有限公司",
+        "jv": [
+          {
+            "name_en": "Spotlight Automotive Ltd.",
+            "name_zh": "光束汽车有限公司",
+            "partners": [
+              "Great Wall Motor / 长城汽车",
+              "BMW Group / 宝马集团"
+            ],
+            "stake_note": "GWM 50%; BMW 50%. / 长城汽车 50%、宝马 50%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#84cc16', colorB: '#1a1a1a',
       desc_en: 'Pickup, SUV and off-road specialist. Brands include Haval, Wey, Tank, Ora and Great Wall pickups. Australia, Thailand and Brazil are key overseas bases.',
@@ -101,56 +310,223 @@ const SITE_DATA = {
     },
     {
       id: 'saic', name: 'SAIC', cn: '上汽', founded: 1955, hq: 'Shanghai', focus: 'State automaker',
+      entity: {
+        "group_en": "SAIC Motor Corporation Limited",
+        "group_zh": "上海汽车集团股份有限公司",
+        "listed": [
+          {
+            "exchange": "SSE",
+            "code": "600104"
+          }
+        ],
+        "parent_en": "Shanghai Automotive Industry (Group) Co., Ltd.",
+        "parent_zh": "上海汽车工业（集团）有限公司",
+        "jv": [
+          {
+            "name_en": "SAIC Volkswagen Automotive Co., Ltd.",
+            "name_zh": "上汽大众汽车有限公司",
+            "partners": [
+              "SAIC Motor / 上汽集团",
+              "Volkswagen Group / 大众汽车集团"
+            ],
+            "stake_note": "SAIC 50%; Volkswagen Group 50%. / 上汽 50%、大众汽车集团 50%。"
+          },
+          {
+            "name_en": "SAIC General Motors Co., Ltd.",
+            "name_zh": "上汽通用汽车有限公司",
+            "partners": [
+              "SAIC Motor / 上汽集团",
+              "General Motors / 通用汽车"
+            ],
+            "stake_note": "SAIC 50%; GM 50%. / 上汽 50%、通用汽车 50%。"
+          },
+          {
+            "name_en": "SAIC-GM-Wuling Automobile Co., Ltd.",
+            "name_zh": "上汽通用五菱汽车股份有限公司",
+            "partners": [
+              "SAIC Motor / 上汽集团",
+              "General Motors / 通用汽车",
+              "Guangxi Automobile Group / 广西汽车集团"
+            ],
+            "stake_note": "SAIC 50.1%; GM 44%; Guangxi Automobile Group 5.9%. / 上汽 50.1%、通用汽车 44%、广西汽车集团 5.9%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#8b5cf6', colorB: '#1a1a1a',
       desc_en: 'Shanghai state-owned auto group with Roewe, MG, IM Motors, Rising/Feifan and Maxus, plus major joint-venture systems. MG remains its strongest global volume badge.',
       desc_zh: '上海国有整车集团，覆盖荣威、名爵、智己、飞凡与大通，同时拥有上汽大众、上汽通用等合资体系。MG 是其最强海外销量品牌。',
-      subBrands_en: 'Roewe, MG, IM Motors, Rising/Feifan, Maxus, SAIC Volkswagen, SAIC GM',
-      subBrands_zh: '荣威、名爵、智己、飞凡、大通、上汽大众、上汽通用',
+      subBrands_en: 'Roewe, MG, IM Motors, Rising/Feifan, Maxus',
+      subBrands_zh: '荣威、名爵、智己、飞凡、大通',
       image: 'images/saic-brand.jpg', imageCredit: 'Oleg Yunakov / CC BY-SA 4.0'
     },
     {
       id: 'faw', name: 'FAW', cn: '一汽', founded: 1953, hq: 'Changchun', focus: 'State automaker',
+      entity: {
+        "group_en": "China FAW Group Co., Ltd.",
+        "group_zh": "中国第一汽车集团有限公司",
+        "listed": [],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": [
+          {
+            "name_en": "FAW-Volkswagen Automotive Co., Ltd.",
+            "name_zh": "一汽大众汽车有限公司",
+            "partners": [
+              "China FAW / 中国一汽",
+              "Volkswagen Group / 大众汽车集团"
+            ],
+            "stake_note": "FAW 60%; Volkswagen AG 25%; Audi AG 5%; Volkswagen (China) Investment 10%. / 一汽 60%、大众汽车股份公司 25%、奥迪 5%、大众中国投资 10%。"
+          },
+          {
+            "name_en": "FAW Toyota Motor Co., Ltd.",
+            "name_zh": "一汽丰田汽车有限公司",
+            "partners": [
+              "China FAW / 中国一汽",
+              "Toyota / 丰田"
+            ],
+            "stake_note": "FAW 50%; Toyota 50%. An October 2026 framework envisages GAC acquiring FAW's stake; completion is not confirmed. / 一汽 50%、丰田 50%。2026 年 10 月框架协议拟由广汽收购一汽所持股权，尚未确认交割。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#b91c1c', colorB: '#111827',
       desc_en: 'China\'s original state auto group. Its main systems include Hongqi, Bestune and Jiefang, plus FAW-Volkswagen and FAW-Toyota joint ventures.',
       desc_zh: '中国最早的国有整车集团之一，核心体系包括红旗、奔腾、解放，以及一汽大众、一汽丰田等合资体系。',
-      subBrands_en: 'Hongqi, Bestune, Jiefang, FAW-Volkswagen, FAW-Toyota',
-      subBrands_zh: '红旗、奔腾、解放、一汽大众、一汽丰田',
+      subBrands_en: 'Hongqi, Bestune, Jiefang',
+      subBrands_zh: '红旗、奔腾、解放',
       image: 'images/faw-brand.jpg', imageCredit: 'Benlisquare / CC BY-SA 4.0'
     },
     {
       id: 'gac', name: 'GAC', cn: '广汽', founded: 1997, hq: 'Guangzhou', focus: 'State automaker / EV',
+      entity: {
+        "group_en": "Guangzhou Automobile Group Co., Ltd.",
+        "group_zh": "广州汽车集团股份有限公司",
+        "listed": [
+          {
+            "exchange": "SSE",
+            "code": "601238"
+          },
+          {
+            "exchange": "HKEX",
+            "code": "02238"
+          }
+        ],
+        "parent_en": "Guangzhou Automobile Industry Group Co., Ltd.",
+        "parent_zh": "广州汽车工业集团有限公司",
+        "jv": [
+          {
+            "name_en": "GAC Toyota Motor Co., Ltd.",
+            "name_zh": "广汽丰田汽车有限公司",
+            "partners": [
+              "GAC Group / 广汽集团",
+              "Toyota / 丰田"
+            ],
+            "stake_note": "GAC 50%; Toyota side 50%. / 广汽 50%、丰田方合计 50%。"
+          },
+          {
+            "name_en": "GAC Honda Automobile Co., Ltd.",
+            "name_zh": "广汽本田汽车有限公司",
+            "partners": [
+              "GAC Group / 广汽集团",
+              "Honda / 本田"
+            ],
+            "stake_note": "GAC 50%; Honda side 50%. / 广汽 50%、本田方合计 50%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#0891b2', colorB: '#111827',
-      desc_en: 'Guangzhou-based state auto group with Trumpchi, Aion and Hyptec. Its NEV strategy is centered on Aion volume and Hyptec premium positioning.',
-      desc_zh: '总部位于广州的国有整车集团，覆盖广汽传祺、埃安与昊铂。新能源战略以埃安规模化和昊铂高端化为核心。',
-      subBrands_en: 'Trumpchi, Aion, Hyptec, GAC Toyota, GAC Honda',
-      subBrands_zh: '广汽传祺、埃安、昊铂、广汽丰田、广汽本田',
+      desc_en: 'Guangzhou-based state auto group with Trumpchi, Aion and Hyptec, plus GAC Toyota and GAC Honda joint ventures. Its NEV strategy is centered on Aion volume and Hyptec premium positioning.',
+      desc_zh: '总部位于广州的国有整车集团，覆盖广汽传祺、埃安与昊铂，另有广汽丰田、广汽本田等合资企业。新能源战略以埃安规模化和昊铂高端化为核心。',
+      subBrands_en: 'Trumpchi, Aion, Hyptec',
+      subBrands_zh: '广汽传祺、埃安、昊铂',
       image: 'images/gac-brand.jpg', imageCredit: 'Alexander Migl / CC BY-SA 4.0'
     },
     {
       id: 'dongfeng', name: 'Dongfeng', cn: '东风', founded: 1969, hq: 'Wuhan', focus: 'State automaker',
+      entity: {
+        "group_en": "Dongfeng Motor Corporation",
+        "group_zh": "东风汽车集团有限公司",
+        "listed": [],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": [
+          {
+            "name_en": "Dongfeng Motor Co., Ltd.",
+            "name_zh": "东风汽车有限公司",
+            "partners": [
+              "Dongfeng / 东风",
+              "Nissan / 日产"
+            ],
+            "stake_note": "Dongfeng 50%; Nissan 50%. Dongfeng Nissan is its passenger-vehicle business. / 东风 50%、日产 50%；东风日产是其乘用车业务。"
+          },
+          {
+            "name_en": "Dongfeng Honda Automobile Co., Ltd.",
+            "name_zh": "东风本田汽车有限公司",
+            "partners": [
+              "Dongfeng / 东风",
+              "Honda / 本田"
+            ],
+            "stake_note": "Dongfeng 50%; Honda Motor 40%; Honda Motor (China) Investment 10%. / 东风 50%、本田技研 40%、本田中国投资 10%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#06b6d4', colorB: '#1a1a1a',
       desc_en: 'State auto group with Dongfeng, Voyah, M-Hero, Forthing, eπ, Nammi and Aeolus, plus Dongfeng Nissan and Dongfeng Honda joint ventures.',
       desc_zh: '国有整车集团，覆盖东风、岚图、猛士、风行、奕派、纳米、风神，并拥有东风日产、东风本田等合资体系。',
-      subBrands_en: 'Dongfeng, Voyah, M-Hero, Forthing, eπ, Nammi, Aeolus, Dongfeng Nissan, Dongfeng Honda',
-      subBrands_zh: '东风、岚图、猛士、风行、奕派、纳米、风神、东风日产、东风本田',
+      subBrands_en: 'Dongfeng, Voyah, M-Hero, Forthing, eπ, Nammi, Aeolus',
+      subBrands_zh: '东风、岚图、猛士、风行、奕派、纳米、风神',
       image: 'images/dongfeng-brand.jpg', imageCredit: 'Kevauto / CC BY-SA 4.0'
     },
     {
       id: 'baic', name: 'BAIC', cn: '北汽', founded: 1958, hq: 'Beijing', focus: 'State automaker',
+      entity: {
+        "group_en": "BAIC Group",
+        "group_zh": "北京汽车集团有限公司",
+        "listed": [],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": [
+          {
+            "name_en": "Beijing Benz Automotive Co., Ltd.",
+            "name_zh": "北京奔驰汽车有限公司",
+            "partners": [
+              "BAIC Motor / 北京汽车股份",
+              "Mercedes-Benz Group / 梅赛德斯-奔驰集团"
+            ],
+            "stake_note": "BAIC Motor 51%; Mercedes-Benz side 49%. The Chinese shareholder is BAIC Motor, not BAIC Group directly. / 北京汽车股份 51%、奔驰方合计 49%，中方持股主体为北京汽车股份，并非北汽集团直接持有。"
+          },
+          {
+            "name_en": "Beijing Hyundai Motor Co., Ltd.",
+            "name_zh": "北京现代汽车有限公司",
+            "partners": [
+              "BAIC Investment / 北汽投",
+              "Hyundai Motor / 现代汽车"
+            ],
+            "stake_note": "BAIC Investment (a BAIC Motor subsidiary) 50%; Hyundai Motor 50%. / 北京汽车股份旗下北汽投 50%、现代汽车 50%。"
+          }
+        ]
+      },
       category: 'group',
       colorA: '#475569', colorB: '#111827',
-      desc_en: 'Beijing state-owned auto group with Beijing Auto, Arcfox, Beijing Benz and Beijing Hyundai. Its overseas relevance is split between commercial vehicles, EVs and joint-venture capacity.',
-      desc_zh: '北京国有整车集团，覆盖北京汽车、极狐、北京奔驰与北京现代。海外相关度主要来自商用车、新能源与合资产能体系。',
-      subBrands_en: 'Beijing Auto, Arcfox, Beijing Benz, Beijing Hyundai, Foton',
-      subBrands_zh: '北京汽车、极狐、北京奔驰、北京现代、福田',
+      desc_en: 'Beijing state-owned auto group with Beijing Auto, Arcfox and Foton, plus Beijing Benz and Beijing Hyundai joint ventures held through BAIC Motor. BAIC Group and Hong Kong-listed BAIC Motor (1958) are distinct entities.',
+      desc_zh: '北京国有整车集团，覆盖北京汽车、极狐与福田，并通过北京汽车股份参与北京奔驰、北京现代等合资企业。北汽集团与香港上市的北京汽车股份（1958）是不同实体。',
+      subBrands_en: 'Beijing Auto, Arcfox, Foton',
+      subBrands_zh: '北京汽车、极狐、福田',
       image: 'images/baic-brand.jpg', imageCredit: 'User3204 / CC BY-SA 4.0'
     },
     {
       id: 'haval', name: 'Haval', cn: '哈弗', founded: 2013, hq: 'Baoding', focus: 'SUV',
+      entity: {
+        "group_en": "Great Wall Motor Company Limited",
+        "group_zh": "长城汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Great Wall Motor Company Limited",
+        "parent_zh": "长城汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Great Wall', parent_zh: '长城',
       colorA: '#eab308', colorB: '#1a1a1a',
       desc_en: 'Great Wall\'s mainstream SUV brand. Best-selling Chinese SUV brand globally — H6 is a phenomenon in emerging markets.',
@@ -161,14 +537,35 @@ const SITE_DATA = {
     // ===== Geely 旗下 =====
     {
       id: 'lynkco', name: 'Lynk & Co', cn: '领克', founded: 2016, hq: 'Hangzhou', focus: 'Crossover / Coupe',
+      entity: {
+        "group_en": "Zhejiang Geely Holding Group",
+        "group_zh": "浙江吉利控股集团",
+        "listed": [],
+        "parent_en": "Zhejiang ZEEKR Intelligent Technology Co., Ltd.",
+        "parent_zh": "浙江极氪智能科技有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Geely', parent_zh: '吉利',
       colorA: '#0f766e', colorB: '#0a0a0a',
-      desc_en: 'Co-developed with Volvo on the CMA platform. Subscription model in Europe; the 09 SUV and 03 sedan defined the brand\'s sharp, urban design language.',
-      desc_zh: '与沃尔沃共用 CMA 平台的子品牌。在欧洲首推订阅制销售。09 SUV 与 03 轿车奠定了犀利都市的设计语言。',
+      desc_en: 'Built on shared CMA technology. Since February 2025, Lynk & Co has been owned 51% by Zhejiang Zeekr and 49% by Ningbo Geely; Volvo Cars exited its former stake. The 09 SUV and 03 sedan defined its sharp, urban design language.',
+      desc_zh: '采用共享的 CMA 平台技术。2025 年 2 月起由浙江极氪持股 51%、宁波吉利持股 49%，沃尔沃汽车已退出原有持股。09 SUV 与 03 轿车奠定了犀利都市的设计语言。',
       image: 'images/lynkco-09.jpg', imageCredit: 'Lynk & Co'
     },
     {
       id: 'polestar', name: 'Polestar', cn: '极星', founded: 2017, hq: 'Gothenburg', focus: 'Performance EV',
+      entity: {
+        "group_en": "Zhejiang Geely Holding Group",
+        "group_zh": "浙江吉利控股集团",
+        "listed": [
+          {
+            "exchange": "NASDAQ",
+            "code": "PSNY"
+          }
+        ],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Geely', parent_zh: '吉利',
       colorA: '#475569', colorB: '#0a0a0a',
       desc_en: 'Volvo\'s former tuning house turned standalone Swedish EV brand under Geely. Polestar 2 took on the Model 3; Polestar 4 introduced the rear-screen-instead-of-window cabin.',
@@ -177,6 +574,19 @@ const SITE_DATA = {
     },
     {
       id: 'volvo', name: 'Volvo', cn: '沃尔沃', founded: 1927, hq: 'Gothenburg', focus: 'Safety / Premium',
+      entity: {
+        "group_en": "Zhejiang Geely Holding Group",
+        "group_zh": "浙江吉利控股集团",
+        "listed": [
+          {
+            "exchange": "NASDAQ Stockholm",
+            "code": "VOLCAR B"
+          }
+        ],
+        "parent_en": "Geely Sweden Holdings AB",
+        "parent_zh": "吉利瑞典控股有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Geely', parent_zh: '吉利',
       colorA: '#1e3a8a', colorB: '#0a0a0a',
       desc_en: 'Swedish heritage brand owned by Geely since 2010. Pivoting fully electric with the EX90 flagship and the EX30 compact — built in China for global markets.',
@@ -185,6 +595,14 @@ const SITE_DATA = {
     },
     {
       id: 'lotus', name: 'Lotus', cn: '路特斯', founded: 1948, hq: 'Hethel', focus: 'Sports / Hyper EV',
+      entity: {
+        "group_en": "Zhejiang Geely Holding Group",
+        "group_zh": "浙江吉利控股集团",
+        "listed": [],
+        "parent_en": null,
+        "parent_zh": null,
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Geely', parent_zh: '吉利',
       colorA: '#facc15', colorB: '#0a0a0a',
       desc_en: 'British sports-car legend revived by Geely. The Eletre hyper-SUV and Emeya GT mark the all-electric reinvention; the Evija remains its 2,000 hp halo.',
@@ -195,6 +613,14 @@ const SITE_DATA = {
     // ===== Great Wall 旗下 =====
     {
       id: 'tank', name: 'Tank', cn: '坦克', founded: 2021, hq: 'Baoding', focus: 'Off-road SUV',
+      entity: {
+        "group_en": "Great Wall Motor Company Limited",
+        "group_zh": "长城汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Great Wall Motor Company Limited",
+        "parent_zh": "长城汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Great Wall', parent_zh: '长城',
       colorA: '#65a30d', colorB: '#1a1a1a',
       desc_en: 'Great Wall\'s off-road sub-brand. The boxy Tank 300, 500 and 700 channel Defender and G-Wagon DNA — and dominate China\'s overlanding boom.',
@@ -203,6 +629,14 @@ const SITE_DATA = {
     },
     {
       id: 'wey', name: 'Wey', cn: '魏牌', founded: 2016, hq: 'Baoding', focus: 'Premium PHEV',
+      entity: {
+        "group_en": "Great Wall Motor Company Limited",
+        "group_zh": "长城汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Great Wall Motor Company Limited",
+        "parent_zh": "长城汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Great Wall', parent_zh: '长城',
       colorA: '#b45309', colorB: '#1a1a1a',
       desc_en: 'Great Wall\'s premium PHEV brand named after founder Wei Jianjun. The Blue Mountain (Lanshan) flagship targets Li Auto\'s family-SUV territory.',
@@ -211,6 +645,14 @@ const SITE_DATA = {
     },
     {
       id: 'ora', name: 'Ora', cn: '欧拉', founded: 2018, hq: 'Baoding', focus: 'Female-focused EV',
+      entity: {
+        "group_en": "Great Wall Motor Company Limited",
+        "group_zh": "长城汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Great Wall Motor Company Limited",
+        "parent_zh": "长城汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Great Wall', parent_zh: '长城',
       colorA: '#ec4899', colorB: '#1a1a1a',
       desc_en: 'Retro-styled compact EV brand from Great Wall, positioned for younger and female drivers. The Good Cat became a viral success in Thailand and Australia.',
@@ -221,6 +663,14 @@ const SITE_DATA = {
     // ===== BYD 旗下 =====
     {
       id: 'denza', name: 'Denza', cn: '腾势', founded: 2010, hq: 'Shenzhen', focus: 'Premium NEV',
+      entity: {
+        "group_en": "BYD Company Limited",
+        "group_zh": "比亚迪股份有限公司",
+        "listed": [],
+        "parent_en": "BYD Company Limited",
+        "parent_zh": "比亚迪股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'BYD', parent_zh: '比亚迪',
       colorA: '#9333ea', colorB: '#0a0a0a',
       desc_en: 'Originally a BYD–Mercedes joint venture, now fully under BYD. The N7 SUV, D9 luxury MPV and Z9GT shooting brake anchor the premium NEV push.',
@@ -229,6 +679,14 @@ const SITE_DATA = {
     },
     {
       id: 'yangwang', name: 'Yangwang', cn: '仰望', founded: 2023, hq: 'Shenzhen', focus: 'Ultra-luxury NEV',
+      entity: {
+        "group_en": "BYD Company Limited",
+        "group_zh": "比亚迪股份有限公司",
+        "listed": [],
+        "parent_en": "BYD Company Limited",
+        "parent_zh": "比亚迪股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'BYD', parent_zh: '比亚迪',
       colorA: '#a16207', colorB: '#0a0a0a',
       desc_en: 'BYD\'s ultra-luxury halo brand. The U8 SUV can tank-turn and float on water; the U9 supercar hits 309 km/h. Quad-motor e4 platform showcases BYD\'s tech ceiling.',
@@ -237,6 +695,14 @@ const SITE_DATA = {
     },
     {
       id: 'fangchengbao', name: 'Fang Cheng Bao', cn: '方程豹', founded: 2023, hq: 'Shenzhen', focus: 'Adventure SUV',
+      entity: {
+        "group_en": "BYD Company Limited",
+        "group_zh": "比亚迪股份有限公司",
+        "listed": [],
+        "parent_en": "BYD Company Limited",
+        "parent_zh": "比亚迪股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'BYD', parent_zh: '比亚迪',
       colorA: '#16a34a', colorB: '#1a1a1a',
       desc_en: 'BYD\'s personality-driven adventure brand. The boxy Bao 5 and Bao 8 PHEVs sit between Tank and Yangwang — built on the DMO super-hybrid off-road platform.',
@@ -247,14 +713,30 @@ const SITE_DATA = {
     // ===== SAIC 旗下 =====
     {
       id: 'mg', name: 'MG', cn: '名爵', founded: 1924, hq: 'Shanghai', focus: 'Global affordable EV',
+      entity: {
+        "group_en": "SAIC Motor Corporation Limited",
+        "group_zh": "上海汽车集团股份有限公司",
+        "listed": [],
+        "parent_en": "SAIC Motor Corporation Limited",
+        "parent_zh": "上海汽车集团股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'SAIC', parent_zh: '上汽',
       colorA: '#dc2626', colorB: '#0a0a0a',
-      desc_en: 'British sports-car heritage brand acquired by SAIC in 2007. Now China\'s most successful export brand in Europe — Cyberster revives the convertible roadster, electric.',
-      desc_zh: '英国跑车传统品牌，2007 年被上汽收购。如今是中国在欧洲最成功的出口品牌，Cyberster 让敞篷跑车以电动形式重生。',
+      desc_en: 'British heritage brand acquired by Nanjing Automobile in 2005 and brought under SAIC through the 2007 SAIC–Nanjing integration. Cyberster revives the electric convertible roadster.',
+      desc_zh: '英国传统汽车品牌，2005 年由南京汽车收购，2007 年随上汽与南汽整合归入上汽。Cyberster 让敞篷跑车以电动形式重生。',
       image: 'images/mg-cyberster.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0'
     },
     {
       id: 'maxus', name: 'Maxus', cn: '大通', founded: 2011, hq: 'Shanghai', focus: 'Commercial / MPV',
+      entity: {
+        "group_en": "SAIC Motor Corporation Limited",
+        "group_zh": "上海汽车集团股份有限公司",
+        "listed": [],
+        "parent_en": "SAIC Motor Corporation Limited",
+        "parent_zh": "上海汽车集团股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'SAIC', parent_zh: '上汽',
       colorA: '#0891b2', colorB: '#0a0a0a',
       desc_en: 'SAIC\'s commercial-vehicle and MPV arm. The Mifa 9 luxury electric people-mover and electric pickups have made it a major fleet export brand.',
@@ -263,6 +745,25 @@ const SITE_DATA = {
     },
     {
       id: 'im', name: 'IM Motors', cn: '智己', founded: 2020, hq: 'Shanghai', focus: 'Smart Luxury EV',
+      entity: {
+        "group_en": "SAIC Motor Corporation Limited",
+        "group_zh": "上海汽车集团股份有限公司",
+        "listed": [],
+        "parent_en": "SAIC Motor Corporation Limited",
+        "parent_zh": "上海汽车集团股份有限公司",
+        "jv": [
+          {
+            "name_en": "IM Motors",
+            "name_zh": "智己汽车",
+            "partners": [
+              "SAIC Motor / 上汽集团",
+              "Alibaba Group / 阿里巴巴集团",
+              "Zhangjiang Hi-Tech / 张江高科"
+            ],
+            "stake_note": "Founded jointly in 2020; current ownership percentages are not asserted. / 2020 年由三方共同创立，不据此断言当前持股比例。"
+          }
+        ]
+      },
       category: 'subbrand', parent_en: 'SAIC', parent_zh: '上汽',
       colorA: '#0369a1', colorB: '#0a0a0a',
       desc_en: 'A SAIC + Alibaba + Zhangjiang joint venture targeting smart-luxury EVs. The LS6 SUV and L6 sedan with semi-solid-state batteries showcase next-gen tech.',
@@ -273,6 +774,19 @@ const SITE_DATA = {
     // ===== Dongfeng 旗下 =====
     {
       id: 'voyah', name: 'Voyah', cn: '岚图', founded: 2018, hq: 'Wuhan', focus: 'Premium NEV',
+      entity: {
+        "group_en": "Dongfeng Motor Corporation",
+        "group_zh": "东风汽车集团有限公司",
+        "listed": [
+          {
+            "exchange": "HKEX",
+            "code": "07489"
+          }
+        ],
+        "parent_en": "Dongfeng Motor Corporation",
+        "parent_zh": "东风汽车集团有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Dongfeng', parent_zh: '东风',
       colorA: '#7c3aed', colorB: '#0a0a0a',
       desc_en: 'Dongfeng\'s premium new-energy brand. The Free SUV, Dreamer MPV and Zhuiguang sedan compete head-on with NIO and Li Auto in the 300-500k RMB segment.',
@@ -281,6 +795,14 @@ const SITE_DATA = {
     },
     {
       id: 'mhero', name: 'M-Hero', cn: '猛士', founded: 2022, hq: 'Wuhan', focus: 'Hardcore off-road',
+      entity: {
+        "group_en": "Dongfeng Motor Corporation",
+        "group_zh": "东风汽车集团有限公司",
+        "listed": [],
+        "parent_en": "Dongfeng Motor Corporation",
+        "parent_zh": "东风汽车集团有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Dongfeng', parent_zh: '东风',
       colorA: '#78350f', colorB: '#1a1a1a',
       desc_en: 'Dongfeng\'s ultra-luxury off-road brand rooted in military vehicle heritage. The M-Hero 917 is a 4-motor 1,088 hp electric Defender-fighter.',
@@ -290,7 +812,15 @@ const SITE_DATA = {
 
     // ===== Chery 旗下 =====
     {
-      id: 'omoda', name: 'Omoda', cn: '欧萌达', founded: 2022, hq: 'Wuhu', focus: 'Global crossover',
+      id: 'omoda', name: 'Omoda', cn: '欧萌达', founded: 2023, hq: 'Wuhu', focus: 'Global crossover',
+      entity: {
+        "group_en": "Chery Automobile Co., Ltd.",
+        "group_zh": "奇瑞汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Chery Automobile Co., Ltd.",
+        "parent_zh": "奇瑞汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Chery', parent_zh: '奇瑞',
       colorA: '#0d9488', colorB: '#0a0a0a',
       desc_en: 'Chery\'s global-first crossover brand. The Omoda 5 and electric E5 spearhead expansion into the UK, Australia, Latin America and the Middle East.',
@@ -299,6 +829,14 @@ const SITE_DATA = {
     },
     {
       id: 'jaecoo', name: 'Jaecoo', cn: '捷酷', founded: 2023, hq: 'Wuhu', focus: 'Rugged SUV',
+      entity: {
+        "group_en": "Chery Automobile Co., Ltd.",
+        "group_zh": "奇瑞汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Chery Automobile Co., Ltd.",
+        "parent_zh": "奇瑞汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Chery', parent_zh: '奇瑞',
       colorA: '#365314', colorB: '#0a0a0a',
       desc_en: 'Chery\'s rugged-design SUV brand, a sister to Omoda. The Jaecoo 7 PHEV launched in the UK and Europe with 1,200 km combined range.',
@@ -307,6 +845,14 @@ const SITE_DATA = {
     },
     {
       id: 'exeed', name: 'Exeed', cn: '星途', founded: 2018, hq: 'Wuhu', focus: 'Premium SUV',
+      entity: {
+        "group_en": "Chery Automobile Co., Ltd.",
+        "group_zh": "奇瑞汽车股份有限公司",
+        "listed": [],
+        "parent_en": "Chery Automobile Co., Ltd.",
+        "parent_zh": "奇瑞汽车股份有限公司",
+        "jv": []
+      },
       category: 'subbrand', parent_en: 'Chery', parent_zh: '奇瑞',
       colorA: '#be123c', colorB: '#0a0a0a',
       desc_en: 'Chery\'s premium SUV brand. The Exeed VX flagship and Yaoguang/Lanyue line aim upmarket with E0X EV platform and Huawei smart-cabin integration.',
