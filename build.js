@@ -869,7 +869,9 @@ ${FOOTER}
 <script src="/js/articles-data.js?v=${BUILD_V}"></script>
 <script src="/js/pages.js?v=${BUILD_V}"></script>
 <script src="/js/models-filter.js?v=${BUILD_V}"></script>
+<script src="/js/turnstile.js?v=${BUILD_V}"></script>
 <script src="/js/app.js?v=${BUILD_V}"></script>
+<script src="/js/intel.js?v=${BUILD_V}"></script>
 </body>
 </html>
 `;
@@ -1277,6 +1279,14 @@ vm.runInContext(`
     return companiesIndexHTML(SITE_DATA.brands, lang, brandCardHTML, faqSectionHTML('brands'));
   };
 `, sandbox);
+// ---- People Intel & Tips pages (/people, /tips) ----
+const { registerPeoplePages } = require('./lib/people.js');
+registerPeoplePages({
+  pages: PAGES,
+  pagesZh: PAGES_ZH,
+  pageRoutes: PAGE_ROUTES,
+  getLang: vm.runInContext('getLang', sandbox)
+});
 
 // ---- Generate pages (EN + /zh mirror) ----
 const briefingHTML = briefingsMain(articles);

@@ -195,9 +195,9 @@
       });
     }
     function loadQuoteTurnstile() {
-      return loadTurnstileApi().then(renderQuoteTurnstile);
+      return window.tccLoadTurnstileApi().then(renderQuoteTurnstile);
     }
-    form.addEventListener('focusin', () => { loadQuoteTurnstile(); }, { once: true });
+    form.addEventListener('focusin', () => { loadQuoteTurnstile().catch(() => {}); }, { once: true });
 
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -263,28 +263,6 @@
   // Turnstile (bot check) loads only when the reader focuses the email field; interaction-only, so most readers never see it.
   const RADAR_SUBSCRIBE = 'https://radar.topchinacar.com/api/subscribe';
   const TURNSTILE_SITE_KEY = '0x4AAAAAAFOeyqZP39w8eCOI';
-  let turnstileApiPromise = null;
-  function loadTurnstileApi() {
-    if (window.turnstile) return Promise.resolve();
-    if (turnstileApiPromise) return turnstileApiPromise;
-    turnstileApiPromise = new Promise((resolve) => {
-      window.tccTurnstileReady = () => resolve();
-      if (document.querySelector('script[src*="challenges.cloudflare.com/turnstile"]')) {
-        const timer = setInterval(() => {
-          if (window.turnstile) { clearInterval(timer); resolve(); }
-        }, 50);
-        setTimeout(() => { clearInterval(timer); resolve(); }, 8000);
-        return;
-      }
-      const s = document.createElement('script');
-      s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tccTurnstileReady&render=explicit';
-      s.async = true;
-      s.defer = true;
-      s.onerror = () => resolve();
-      document.head.appendChild(s);
-    });
-    return turnstileApiPromise;
-  }
   const waitTurnstileToken = async (readToken, ms) => {
     const t0 = Date.now();
     let value = readToken();
@@ -313,9 +291,9 @@
       });
     }
     function loadTurnstile() {
-      return loadTurnstileApi().then(renderNewsletterTurnstile);
+      return window.tccLoadTurnstileApi().then(renderNewsletterTurnstile);
     }
-    if (input) input.addEventListener('focus', () => { loadTurnstile(); }, { once: true });
+    if (input) input.addEventListener('focus', () => { loadTurnstile().catch(() => {}); }, { once: true });
     function message(text) { if (ok) { ok.hidden = false; ok.textContent = text; } }
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
