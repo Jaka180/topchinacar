@@ -322,6 +322,43 @@ const PAGES = {
   }
 };
 
+// Weekly source-pool snapshot. Missing or malformed data must not stop the build.
+function loadSourcePool() {
+  const file = path.join(ROOT, 'data', 'source-pool.json');
+  if (!fs.existsSync(file)) {
+    console.warn('! source pool skipped: data/source-pool.json not found');
+    return null;
+  }
+  let data;
+  try {
+    data = JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch (error) {
+    const message = String(error && error.message || error).replace(/\s+/g, ' ');
+    console.warn(`! source pool skipped: data/source-pool.json is not valid JSON (${message})`);
+    return null;
+  }
+  const totals = data && data.totals;
+  const totalKeys = ['sources', 'active', 'domains', 'keywords', 'new_items_7d'];
+  const totalsOk = totals && typeof totals === 'object' && !Array.isArray(totals)
+    && totalKeys.every(key => Number.isFinite(Number(totals[key])));
+  const shapeOk = !!data && typeof data === 'object' && !Array.isArray(data)
+    && typeof data.generated_at === 'string'
+    && Number.isFinite(Date.parse(data.generated_at))
+    && Number.isFinite(Number(data.window_days))
+    && totalsOk
+    && Array.isArray(data.sources)
+    && Array.isArray(data.domains)
+    && Array.isArray(data.keywords);
+  if (!shapeOk) {
+    console.warn('! source pool skipped: data/source-pool.json has an unexpected shape');
+    return null;
+  }
+  return data;
+}
+
+const SOURCE_POOL = loadSourcePool();
+let SOURCE_POOL_BUILT = false;
+
 const NAV = [
   ['/news', 'nav.news', 'News'],
   ['/intelligence', 'nav.intelligence', 'Intelligence'],
@@ -329,6 +366,7 @@ const NAV = [
   ['/china-car-export-news', 'nav.exports', 'Exports'],
   ['/chinese-car-brands', 'nav.brands', 'Brands'],
   ['/markets', 'nav.markets', 'Markets'],
+  ...(SOURCE_POOL ? [['/sources', 'nav.sources', 'Sources']] : []),
   ['/policy', 'nav.policy', 'Policy'],
   ['/data', 'nav.data', 'Data'],
   ['/analysis', 'nav.analysis', 'Analysis']
@@ -924,6 +962,335 @@ function staticExtraHead(route, meta, lang = 'en') {
     faqJsonLd(route, lang),
     serviceJsonLd(route)
   ].filter(Boolean).join('\n');
+}
+
+// ---- Source pool (/sources, /zh/sources) from data/source-pool.json ----
+const SOURCE_LINK_KINDS = new Set(['rss', 'html', 'hkex', 'cninfo']);
+const SOURCE_KIND_ORDER = ['rss', 'gnews', 'gnews_site', 'gnews_event', 'html', 'hkex', 'cninfo', 'wechat'];
+// 网站评级的类别（数据里是中文），英文页用这里的译名；没有译名的原样显示
+const DOMAIN_LABEL_EN = {
+  '通讯社/主流财经': 'Wire service / financial press', '官方/官媒': 'Official / state media', '官方/车企': 'Official / automaker',
+  '政府/监管': 'Government / regulator', '企业官方': 'Company official', '企业新闻稿平台': 'Press release wire',
+  '行业协会': 'Industry association', '行业数据机构': 'Industry data provider', '行业专业媒体': 'Trade press',
+  '科技/行业媒体': 'Tech / trade media', '微信公众号': 'WeChat account', '综合媒体': 'General media',
+  '聚合/转载': 'Aggregator / syndication', '财经资讯/股票': 'Market data / stocks', '自媒体': 'Self-published / UGC',
+};
+
+const SOURCE_KIND_LABELS = {
+  rss: ['RSS', 'RSS 订阅'],
+  gnews: ['Google News by company', '按公司的 Google News 查询'],
+  gnews_site: ['Site-limited Google News', '站点限定的 Google News'],
+  gnews_event: ['Event Google News', '事件类 Google News'],
+  html: ['News list pages', '新闻列表页'],
+  hkex: ['HKEX filings', '港交所公告'],
+  cninfo: ['Cninfo filings', '巨潮资讯公告'],
+  wechat: ['WeChat official accounts', '微信公众号']
+};
+const KEYWORD_KIND_ORDER = ['alias', 'overseas', 'noise', 'policy_china', 'policy_topic', 'policy_action', 'av_topic'];
+const KEYWORD_KIND_COPY = {
+  alias: ['Company aliases', '公司别名', 'Other names for a company. We use them to tell which company a story is about.', '公司的其他叫法，用来认出新闻说的是哪家公司。'],
+  overseas: ['Overseas signals', '出海信号', 'Words that point to business outside China. Each hit adds 1 point.', '看出海动向的词。命中一个，加 1 分。'],
+  noise: ['Noise', '噪音信号', 'Words that usually mean the item is off topic. Each hit subtracts 1 point.', '多半是跑题的词。命中一个，减 1 分。'],
+  policy_china: ['Policy: China', '政策：中国', 'Marks the story as being about China. It counts as policy news only when the topic and action groups hit as well.', '用来判断这条新闻是不是在说中国。要和主题、动作两组一起命中，才算政策新闻。'],
+  policy_topic: ['Policy: topic', '政策：主题', 'The subject, such as tariffs, subsidies or certification. It counts only when the other two policy groups hit as well.', '政策在说什么，比如关税、补贴或认证。要和另外两组一起命中才算。'],
+  policy_action: ['Policy: action', '政策：动作', 'What the policy does, such as impose, cut, ban or extend. It counts only when the other two policy groups hit as well.', '政策做了什么，比如加征、下调、禁止或延期。要和另外两组一起命中才算。'],
+  av_topic: ['Cockpit audio and video', '影音座舱', 'Topics around in-car audio, video and the cockpit.', '车里的音响、视频和座舱话题。']
+};
+const TIER_COPY = {
+  1: ['Tier 1', '1 级', 'Authoritative or original reporting: wire services, major business press, and official sources.', '权威或原始报道，包括通讯社、主流财经媒体和官方来源。'],
+  2: ['Tier 2', '2 级', 'Specialist industry media.', '行业专业媒体。'],
+  3: ['Tier 3', '3 级', 'General media, aggregated reprints, and financial news sites.', '综合媒体、聚合转载和财经资讯。'],
+  4: ['Tier 4', '4 级', 'Independent accounts and user-generated content.', '自媒体和用户自己发的内容。']
+};
+
+function poolTx(en, zh) {
+  return langSpan(escapeHtmlText(en), escapeHtmlText(zh));
+}
+
+function poolCount(value) {
+  const number = Number(value);
+  return Number.isFinite(number) ? String(Math.round(number)) : '0';
+}
+
+function poolDash(value) {
+  if (value === null || value === undefined || value === '') return '—';
+  const number = Number(value);
+  return Number.isFinite(number) ? String(Math.round(number)) : '—';
+}
+
+function poolRate(value) {
+  if (value === null || value === undefined || value === '') return '—';
+  const number = Number(value);
+  if (!Number.isFinite(number)) return '—';
+  return Math.round(number * 100) + '%';
+}
+
+function poolDay(value) {
+  if (!value) return '—';
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return '—';
+  return dateInTimeZone(date);
+}
+
+function sourceHref(url) {
+  const value = String(url ?? '').trim();
+  if (!/^https?:\/\//i.test(value)) return '';
+  if (/[\u0000-\u001F\u007F]/.test(value)) return '';
+  return value;
+}
+
+function poolGroups(items, keyOf) {
+  const groups = new Map();
+  for (const item of items) {
+    if (!item || typeof item !== 'object') continue;
+    const key = String(keyOf(item) ?? '');
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  }
+  return groups;
+}
+
+function poolOrder(groups, preferred) {
+  const seen = new Set();
+  const order = [];
+  for (const key of preferred) {
+    if (!groups.has(key)) continue;
+    order.push(key);
+    seen.add(key);
+  }
+  for (const key of groups.keys()) {
+    if (!seen.has(key)) order.push(key);
+  }
+  return order;
+}
+
+function sourceNameHtml(source) {
+  const raw = source.name == null || source.name === '' ? source.id : source.name;
+  const label = escapeHtmlText(raw == null || raw === '' ? '—' : raw);
+  const href = SOURCE_LINK_KINDS.has(String(source.kind || '')) ? sourceHref(source.url) : '';
+  if (!href) return label;
+  return `<a href="${escapeHtmlText(href)}" rel="nofollow noopener">${label}</a>`;
+}
+
+function sourceCompanyCell(company) {
+  if (!company || typeof company !== 'object') return '—';
+  const en = String(company.en || company.id || '').trim();
+  const zh = String(company.zh || en || '').trim();
+  if (!en && !zh) return '—';
+  return poolTx(en || zh, zh || en);
+}
+
+function sourceLangCell(lang) {
+  const value = String(lang ?? '').trim();
+  if (!value) return '—';
+  const lower = value.toLowerCase();
+  if (lower === 'en') return poolTx('English', '英文');
+  if (lower === 'zh') return poolTx('Chinese', '中文');
+  return escapeHtmlText(value);
+}
+
+function sourceStatusCell(status) {
+  const value = String(status ?? '').trim();
+  const lower = value.toLowerCase();
+  if (lower === 'paused') return `<span class="source-pool-paused">${poolTx('Paused', '已暂停')}</span>`;
+  if (lower === 'active') return poolTx('Active', '监测中');
+  if (!value) return '—';
+  return escapeHtmlText(value);
+}
+
+function sourceTable(list, days) {
+  const rows = list.map(source => {
+    const health = source.health && typeof source.health === 'object' ? source.health : {};
+    const paused = String(source.status || '').toLowerCase() === 'paused';
+    return `<tr${paused ? ' class="source-pool-row--paused"' : ''}>
+      <td>${sourceNameHtml(source)}</td>
+      <td>${sourceCompanyCell(source.company)}</td>
+      <td>${sourceLangCell(source.lang)}</td>
+      <td>${sourceStatusCell(source.status)}</td>
+      <td>${escapeHtmlText(poolDash(health.new_items))}</td>
+      <td>${escapeHtmlText(poolRate(health.ok_rate))}</td>
+      <td>${escapeHtmlText(poolDay(health.last_ok))}</td>
+    </tr>`;
+  }).join('');
+  return `<div class="source-pool-scroll"><table class="source-pool-table">
+    <thead><tr>
+      <th scope="col">${poolTx('Name', '名称')}</th>
+      <th scope="col">${poolTx('Company', '公司')}</th>
+      <th scope="col">${poolTx('Language', '语言')}</th>
+      <th scope="col">${poolTx('Status', '状态')}</th>
+      <th scope="col">${poolTx('New in ' + days + ' days', '近 ' + days + ' 天新内容')}</th>
+      <th scope="col">${poolTx('Success rate', '成功率')}</th>
+      <th scope="col">${poolTx('Last success', '最近成功')}</th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table></div>`;
+}
+
+function poolTags(items, renderTag) {
+  if (!items.length) return `<p class="source-pool-empty">${poolTx('None yet.', '这里还没有。')}</p>`;
+  return `<div class="source-pool-tags">${items.map(renderTag).join('')}</div>`;
+}
+
+function keywordTags(items) {
+  const terms = items
+    .map(item => String(item.term ?? '').trim())
+    .filter(Boolean)
+    .sort((a, b) => a.localeCompare(b, 'zh'));
+  return poolTags(terms, term => `<span class="source-pool-tag">${escapeHtmlText(term)}</span>`);
+}
+
+function companyNameMap(sources) {
+  const map = new Map();
+  for (const source of sources) {
+    if (!source || typeof source !== 'object') continue;
+    const company = source.company;
+    if (!company || typeof company !== 'object' || company.id == null || company.id === '') continue;
+    const id = String(company.id);
+    if (map.has(id)) continue;
+    map.set(id, {
+      en: String(company.en || id),
+      zh: String(company.zh || company.en || id)
+    });
+  }
+  return map;
+}
+
+function aliasBlock(items, names) {
+  const byCompany = poolGroups(items, item => (item.company_id == null || item.company_id === '' ? '' : item.company_id));
+  const ids = [...byCompany.keys()].sort((a, b) => {
+    if (!a) return 1;
+    if (!b) return -1;
+    const aName = (names.get(a) || {}).en || a;
+    const bName = (names.get(b) || {}).en || b;
+    return String(aName).localeCompare(String(bName), 'en');
+  });
+  const blocks = ids.map(id => {
+    const known = names.get(id);
+    const title = !id
+      ? poolTx('No company', '未对应公司')
+      : known
+        ? poolTx(known.en || id, known.zh || known.en || id)
+        : poolTx(id, id);
+    const terms = byCompany.get(id);
+    return `<div class="source-pool-company"><h4>${title} (${terms.length})</h4>${keywordTags(terms)}</div>`;
+  }).join('');
+  return `<details class="source-pool-details"><summary>${poolTx('Browse aliases by company', '按公司查看别名')}</summary>${blocks}</details>`;
+}
+
+function sourcePoolMain(pool) {
+  const totals = pool.totals;
+  const updated = dateInTimeZone(new Date(pool.generated_at));
+  const days = poolCount(pool.window_days);
+  const sourcesN = poolCount(totals.sources);
+  const activeN = poolCount(totals.active);
+  const domainsN = poolCount(totals.domains);
+  const keywordsN = poolCount(totals.keywords);
+  const freshN = poolCount(totals.new_items_7d);
+  const introEn = `This is the source pool we check every day while writing the China Auto Overseas Daily. It now has ${sourcesN} sources (${activeN} running), ${domainsN} rated websites and ${keywordsN} keywords. In the last ${days} days it picked up ${freshN} new items. Updated ${updated}, Beijing time. The list is refreshed once a week. A website tier only changes sort order and score. It is not a blocklist.`;
+  const introZh = `这是我们每天写「中国汽车出海日报」时监测的信源池。现在有 ${sourcesN} 个信源（${activeN} 个在跑），${domainsN} 个已评级网站，${keywordsN} 个关键词。最近 ${days} 天采到 ${freshN} 条新内容。更新时间是 ${updated}（北京时间）。这份清单每周更新一次。网站评级只影响排序和打分，不是黑名单。`;
+  const stats = [
+    [sourcesN, 'Sources', '信源'],
+    [domainsN, 'Rated websites', '评级网站'],
+    [keywordsN, 'Keywords', '关键词'],
+    [freshN, 'New in ' + days + ' days', '近 ' + days + ' 天新内容']
+  ].map(([num, en, zh]) => `<div class="source-pool-stat"><strong>${escapeHtmlText(num)}</strong><span>${poolTx(en, zh)}</span></div>`).join('');
+
+  const sourceGroups = poolGroups(pool.sources, item => item.kind || 'other');
+  const sourceBlocks = poolOrder(sourceGroups, SOURCE_KIND_ORDER).map(kind => {
+    const list = sourceGroups.get(kind);
+    const labels = SOURCE_KIND_LABELS[kind] || [kind, kind];
+    return `<div class="source-pool-group"><h3>${poolTx(labels[0], labels[1])} (${list.length})</h3>${sourceTable(list, days)}</div>`;
+  }).join('');
+
+  const domainGroups = poolGroups(pool.domains, item => {
+    const tier = Number(item.tier);
+    return tier === 1 || tier === 2 || tier === 3 || tier === 4 ? String(tier) : 'other';
+  });
+  const domainBlocks = ['1', '2', '3', '4'].concat(domainGroups.has('other') ? ['other'] : []).map(key => {
+    const list = (domainGroups.get(key) || []).slice().sort((a, b) => String(a.domain || '').localeCompare(String(b.domain || ''), 'en'));
+    const copy = TIER_COPY[key] || ['Other', '其他', 'Sites that do not use tier 1 to 4.', '没有落在 1 到 4 级里的网站。'];
+    const tags = poolTags(list, item => {
+      const name = escapeHtmlText(item.domain || '');
+      const label = String(item.label ?? '').trim();
+      return `<span class="source-pool-tag">${name}${label ? `<small>${poolTx(DOMAIN_LABEL_EN[label] || label, label)}</small>` : ''}</span>`;
+    });
+    return `<div class="source-pool-group"><h3>${poolTx(copy[0], copy[1])} (${list.length})</h3><p class="source-pool-note">${poolTx(copy[2], copy[3])}</p>${tags}</div>`;
+  }).join('');
+
+  const names = companyNameMap(pool.sources);
+  const keywordGroups = poolGroups(pool.keywords, item => item.kind || 'other');
+  const keywordBlocks = poolOrder(keywordGroups, KEYWORD_KIND_ORDER).map(kind => {
+    const list = keywordGroups.get(kind);
+    const copy = KEYWORD_KIND_COPY[kind] || [kind, kind, 'Words in this group.', '这一组的词。'];
+    const body = kind === 'alias' ? aliasBlock(list, names) : keywordTags(list);
+    return `<div class="source-pool-group"><h3>${poolTx(copy[0], copy[1])} (${list.length})</h3><p class="source-pool-note">${poolTx(copy[2], copy[3])}</p>${body}</div>`;
+  }).join('');
+
+  return `
+  <section class="page-header">
+    <div class="container">
+      <div class="section-eyebrow">${poolTx('Data', '数据')}</div>
+      <h1 class="page-title">${poolTx('Sources', '信源池')}</h1>
+      <p class="page-deck">${poolTx('The feeds, sites and keywords behind the China Auto Overseas Daily.', '写「中国汽车出海日报」时，我们每天在看这些。')}</p>
+    </div>
+  </section>
+  <section style="padding-top:0;">
+    <div class="container source-pool">
+      <p class="source-pool-lead">${poolTx(introEn, introZh)}</p>
+      <div class="source-pool-stats">${stats}</div>
+
+      <div class="source-pool-block">
+        <h2>${poolTx('Source list', '信源清单')}</h2>
+        <p class="source-pool-note">${poolTx('RSS feeds, news list pages, HKEX filings and Cninfo filings link out when the address starts with http:// or https://. Paused sources are marked.', 'RSS、新闻列表页、港交所公告和巨潮资讯公告，地址以 http:// 或 https:// 开头时，名称可以点开。已暂停的信源会标出来。')}</p>
+        ${sourceBlocks}
+      </div>
+
+      <div class="source-pool-block">
+        <h2>${poolTx('Website tiers', '网站评级')}</h2>
+        <p class="source-pool-note">${poolTx('Tier 1 is the strongest original reporting. Tier 4 is independent and user content. The short note beside a domain is stored in Chinese. Tiers are not a blocklist.', '1 级是最强的原始报道，4 级是自媒体和用户内容。域名旁边的小字来自这份数据，写的是中文。评级不是黑名单。')}</p>
+        ${domainBlocks}
+      </div>
+
+      <div class="source-pool-block">
+        <h2>${poolTx('Keywords', '关键词库')}</h2>
+        <p class="source-pool-note">${poolTx('These words decide which company a story is about, whether it looks overseas, whether it is noise, whether it is policy, or whether it is about the cockpit.', '这些词用来判断一条内容属于哪家公司、像不像出海、是不是噪音、算不算政策，或者是不是在说座舱。')}</p>
+        ${keywordBlocks}
+      </div>
+    </div>
+  </section>`;
+}
+
+function renderSourcePoolPages(pool) {
+  const main = sourcePoolMain(pool);
+  const descEn = 'Feeds, websites and keywords TopChinaCar monitors for the China Auto Overseas Daily. Tiers change sorting and scoring only. Updated weekly.';
+  const descZh = '写中国汽车出海日报时监测的信源、已评级网站和关键词。评级只影响排序和打分，不是黑名单。每周更新。';
+  return {
+    en: pageHTML('/sources', {
+      title: 'Sources for the China Auto Overseas Daily | TopChinaCar',
+      desc: descEn,
+      extraHead: webPageJsonLd('/sources', 'Sources', descEn, 'WebPage', false)
+    }, main),
+    zh: zhChrome(pageHTML('/sources', {
+      title: '中国汽车出海日报信源池 | TopChinaCar',
+      desc: descZh,
+      extraHead: webPageJsonLd('/sources', '信源池', descZh, 'WebPage', true)
+    }, main, { zh: true }))
+  };
+}
+
+if (SOURCE_POOL) {
+  try {
+    const sourcePages = renderSourcePoolPages(SOURCE_POOL);
+    fs.writeFileSync(path.join(ROOT, 'sources.html'), sourcePages.en);
+    writeZh('sources.html', sourcePages.zh);
+    SOURCE_POOL_BUILT = true;
+    console.log('✓ sources.html + zh');
+  } catch (error) {
+    const message = String(error && error.message || error).replace(/\s+/g, ' ');
+    console.warn(`! source pool skipped: failed to render (${message})`);
+    const navIndex = NAV.findIndex(item => item[0] === '/sources');
+    if (navIndex !== -1) NAV.splice(navIndex, 1);
+  }
 }
 
 // ---- Generate pages (EN + /zh mirror) ----
@@ -2419,6 +2786,9 @@ const sectionUrls = SECTIONS.map(s =>
   `  <url><loc>${SITE}${s.route}</loc><lastmod>${latestArticleDate}</lastmod></url>`);
 const marketUrls = MARKETS.map(mk =>
   `  <url><loc>${SITE}/markets/${mk.slug}</loc><lastmod>${latestArticleDate}</lastmod></url>`);
+const sourcePoolUrls = SOURCE_POOL_BUILT
+  ? [`  <url><loc>${SITE}/sources</loc><lastmod>${safeDate(dateInTimeZone(new Date(SOURCE_POOL.generated_at)))}</lastmod></url>`]
+  : [];
 const storyUrls = SITE_STORIES
   .filter(s => (SITE_DATA.features || []).some(f => f.slug === s.slug))
   .map(s => `  <url><loc>${SITE}/stories/${s.slug}</loc><lastmod>${safeDate(s.date)}</lastmod></url>`);
@@ -2437,7 +2807,7 @@ ${lines.join('\n')}
 `;
 
 // 子 sitemap 1：栏目/品牌/车型/市场等"页面"
-const pageLines = staticUrls.concat(sectionUrls, marketUrls, brandUrls, modelUrls);
+const pageLines = staticUrls.concat(sectionUrls, marketUrls, sourcePoolUrls, brandUrls, modelUrls);
 fs.writeFileSync(path.join(ROOT, 'sitemap-pages.xml'), urlset(pageLines.concat(zhMirror(pageLines))));
 
 // 子 sitemap 2：全部文章 + 深度故事（发布即随构建自动更新）
