@@ -1,0 +1,650 @@
+{
+  "id": "gwm",
+  "name_en": "Great Wall Motor Company Limited",
+  "name_zh": "长城汽车股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1984 (predecessor factory); incorporated as a joint-stock company in 2001",
+      "value_zh": "1984 年（前身工厂）；2001 年改制设立股份公司",
+      "period": null,
+      "source_ids": [
+        "s1",
+        "s6"
+      ]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Baoding, Hebei",
+      "value_zh": "河北省保定市",
+      "period": null,
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private",
+      "value_zh": "民营",
+      "period": null,
+      "source_ids": [
+        "s1",
+        "s10"
+      ]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Wei Jianjun",
+      "value_zh": "魏建军",
+      "period": null,
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点和代码",
+      "value_en": "SSE 601633 (A, since 2011-09-28); HKEX 02333 (H, since 2003-12-15) and 82333 (RMB counter, since 2023-06-19)",
+      "value_zh": "上交所 601633（A 股，2011-09-28）；港交所 02333（H 股，2003-12-15）及 82333（人民币柜台，2023-06-19）",
+      "period": null,
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "97,600",
+      "value_zh": "9.76 万人",
+      "period": "2025-12-31",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "CNY 222.82 billion",
+      "value_zh": "2228.24 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Net profit attributable to shareholders (latest fiscal year)",
+      "label_zh": "最近财年归母净利润",
+      "value_en": "CNY 9.87 billion",
+      "value_zh": "98.65 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Vehicle sales (latest year)",
+      "label_zh": "最近一年销量",
+      "value_en": "1,323,811 vehicles",
+      "value_zh": "132.38 万辆",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Overseas sales (latest year)",
+      "label_zh": "最近一年海外销量",
+      "value_en": "506,787 vehicles",
+      "value_zh": "50.68 万辆",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "1984",
+      "event_en": "According to the company chronology, the predecessor Great Wall automobile factory is established.",
+      "event_zh": "据公司官网发展历程，前身长城汽车制造厂成立。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "1990-07",
+      "event_en": "Wei Jianjun becomes general manager of Great Wall Automobile Industry Company.",
+      "event_zh": "魏建军出任长城汽车工业公司总经理。",
+      "source_ids": [
+        "s6",
+        "s1"
+      ]
+    },
+    {
+      "date": "1996",
+      "event_en": "The first Great Wall Deer pickup rolls off the line.",
+      "event_zh": "第一辆长城迪尔皮卡下线。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "1997-10",
+      "event_en": "The first batch of Great Wall pickups is exported to the Middle East.",
+      "event_zh": "首批长城皮卡出口中东。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2001-06-12",
+      "event_en": "Great Wall Motor Company Limited is incorporated as a joint-stock company.",
+      "event_zh": "改制设立长城汽车股份有限公司。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2002",
+      "event_en": "Launches the Saifei SUV, entering the SUV segment.",
+      "event_zh": "推出赛弗 SUV，进入 SUV 市场。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2003-12-15",
+      "event_en": "Lists H shares on the Hong Kong Stock Exchange, becoming the first privately owned Chinese automaker listed in Hong Kong.",
+      "event_zh": "在香港联交所上市（H 股），成为首家在港上市的民营汽车企业。",
+      "source_ids": [
+        "s1",
+        "s6"
+      ]
+    },
+    {
+      "date": "2011-08",
+      "event_en": "The Haval H6 is launched.",
+      "event_zh": "哈弗 H6 上市。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2011-09-28",
+      "event_en": "Lists A shares on the Shanghai Stock Exchange.",
+      "event_zh": "在上海证券交易所上市（A 股）。",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "date": "2013-03",
+      "event_en": "Haval becomes an independent SUV brand.",
+      "event_zh": "哈弗品牌独立运营。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2016-11",
+      "event_en": "Launches the premium SUV brand WEY.",
+      "event_zh": "发布高端 SUV 品牌 WEY（魏牌）。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2018-08",
+      "event_en": "Launches the new-energy brand ORA.",
+      "event_zh": "发布新能源品牌欧拉。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2019-06",
+      "event_en": "The Tula plant in Russia, its first full-process overseas vehicle plant, starts production.",
+      "event_zh": "俄罗斯图拉工厂投产，为海外首个全工艺整车制造厂。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2019",
+      "event_en": "Launches the Poer pickup series.",
+      "event_zh": "推出长城炮皮卡系列。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2019-12-30",
+      "event_en": "Spotlight Automotive Co., Ltd. receives its business licence on 30 December; the announcement records its establishment date as 27 December 2019.",
+      "event_zh": "光束汽车有限公司于 12 月 30 日收到营业执照；公告载明其成立日期为 2019 年 12 月 27 日。",
+      "source_ids": [
+        "s31"
+      ]
+    },
+    {
+      "date": "2020",
+      "event_en": "Acquires General Motors' Rayong plant in Thailand to build a second overseas full-process plant.",
+      "event_zh": "收购通用汽车泰国罗勇工厂，建设第二个海外全工艺整车制造基地。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2021-04",
+      "event_en": "Tank becomes an independent off-road SUV brand; the Tank 300 had originally belonged to WEY (Wei brand).",
+      "event_zh": "坦克品牌独立运营；坦克 300 最初曾归属 WEY（魏牌）。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2024",
+      "event_en": "Launches the Souo motorcycle brand, extending beyond automobiles.",
+      "event_zh": "推出长城灵魂（SOUO）摩托品牌，业务拓展至摩托车领域。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-08",
+      "event_en": "The Iracemápolis plant in Brazil (annual capacity 50,000 vehicles) is completed and starts production.",
+      "event_zh": "巴西伊拉塞马波利斯工厂竣工投产（年产能 5 万辆）。",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "event_en": "Announces the Guiyuan platform, a native AI all-powertrain platform compatible with PHEV, HEV, BEV, ICE and FCEV.",
+      "event_zh": "官宣「归元」平台，为兼容插混、混动、纯电、燃油、氢燃料电池的原生 AI 全动力整车平台。",
+      "source_ids": [
+        "s6",
+        "s1"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Haval",
+      "name_zh": "哈弗",
+      "role_en": "Mainstream SUV brand positioned as a global SUV specialist.",
+      "role_zh": "主流 SUV 品牌，定位「全球 SUV 专家」。",
+      "price_band": null,
+      "founded": 2013,
+      "owner_note_en": "Core SUV brand of Great Wall Motor. Models include the H6, Big Dog (Dagou), Raptor (Menglong), Xiaolong MAX and H9; the 2026 Haval Raptor, 2026 Big Dog and H6L were rolled out in 2025. Per the 2025 annual report, Haval sold 761,487 vehicles in 2025 (+7.69% YoY), with cumulative global users surpassing 10 million.",
+      "owner_note_zh": "长城汽车核心 SUV 品牌。车型包括 H6、大狗、猛龙、枭龙 MAX、H9 等，2025 年密集投放 2026 款猛龙、2026 款大狗、H6L 等车型。据 2025 年年报，2025 年哈弗销售 761,487 辆（同比 +7.69%），全球累计用户突破 1000 万。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s6",
+        "s29"
+      ]
+    },
+    {
+      "name_en": "WEY (Wei brand)",
+      "name_zh": "魏牌",
+      "role_en": "Premium intelligent new-energy brand.",
+      "role_zh": "高端智能新能源品牌。",
+      "price_band": "中国官网公开起售价（2026-10-29）：新摩卡 Hi4 Max 18.58 万元、全新蓝山 29.98 万元、高山基础车系 28.58 万元、高山智慧版 30.98 万元；China website starting prices (2026-10-29): New Mocha Hi4 Max RMB 185,800; All-New Lanshan RMB 299,800; Gaoshan base range RMB 285,800; Gaoshan Intelligent Edition RMB 309,800",
+      "founded": 2016,
+      "owner_note_en": "Premium brand named after founder Wei Jianjun's surname. Key models include the Lanshan six-seat SUV and Gaoshan MPV, with the Lanshan intelligent version as the first model fitted with the VLA driving-assistance large model. Per the 2025 annual report, WEY sold 99,617 vehicles in 2025 (+79.36% YoY), a near-six-year high, with six months above 10,000 vehicles in 2025.",
+      "owner_note_zh": "以创始人魏建军姓氏命名的高端品牌。主力车型包括蓝山六座 SUV、高山 MPV，蓝山智能进阶版首搭 VLA 辅助驾驶大模型。据 2025 年年报，2025 年魏牌销售 99,617 辆（同比 +79.36%），创近六年新高，2025 年有六个月月销破万。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s6",
+        "s34",
+        "s35"
+      ]
+    },
+    {
+      "name_en": "Tank",
+      "name_zh": "坦克",
+      "role_en": "Hard-core off-road SUV brand.",
+      "role_zh": "硬派越野 SUV 品牌。",
+      "price_band": null,
+      "founded": 2021,
+      "owner_note_en": "Off-road SUV brand. The Tank 300, launched in December 2020, originally belonged to WEY (Wei brand) before the Tank brand was spun off independently in 2021. Models include the Tank 300, 400, 500 and 700, with the new Tank 500 and new Tank 400 launched in 2025. Per the 2025 annual report, Tank sold 234,442 vehicles in 2025, with cumulative global sales exceeding 830,000 units, keeping it China's best-selling off-road SUV brand; in 2025 the Tank 300 became the first Chinese-brand off-road vehicle to reach Antarctica.",
+      "owner_note_zh": "硬派越野 SUV 品牌。坦克 300 于 2020 年 12 月上市，最初归属 WEY（魏牌），2021 年坦克品牌独立运营。车型包括坦克 300、400、500、700，2025 年全新坦克 500、全新坦克 400 等车型相继投放。据 2025 年年报，2025 年坦克销售 234,442 辆，截至 2025 年全球累计销量超 83 万辆，蝉联中国越野 SUV 销量第一；2025 年坦克 300 成为首款登陆南极的中国品牌越野车。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s6",
+        "s29"
+      ]
+    },
+    {
+      "name_en": "ORA",
+      "name_zh": "欧拉",
+      "role_en": "New-energy brand; originally BEV-focused, repositioned in 2025 toward full powertrain coverage.",
+      "role_zh": "新能源品牌，最初聚焦纯电，2025 年转型为全动力覆盖。",
+      "price_band": null,
+      "founded": 2018,
+      "owner_note_en": "Launched in 2018, ORA models include the Good Cat, Lightning Cat and Ballet Cat; the Ora 5 electric SUV launched in December 2025. The 2025 annual report describes a shift from a female-focused BEV brand toward a global young urban audience and multiple powertrains. ORA sold 48,312 vehicles in 2025, with cumulative sales exceeding 557,700.",
+      "owner_note_zh": "2018 年发布的新能源品牌，车型包括好猫、闪电猫、芭蕾猫，2025 年 12 月推出欧拉 5 纯电 SUV。2025 年报称，欧拉由面向女性用户的纯电品牌，转向面向全球年轻都市用户的全动力品牌。2025 年欧拉销售 48,312 辆，历史累计销量超 55.77 万辆。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "name_en": "Great Wall Pickup (incl. Poer)",
+      "name_zh": "长城皮卡（含长城炮）",
+      "role_en": "Pickup business, the origin of the company; Poer series since 2019.",
+      "role_zh": "皮卡业务，为公司起家业务；2019 年推出长城炮系列。",
+      "price_band": null,
+      "founded": 1996,
+      "owner_note_en": "Pickup business dating to the 1996 Deer pickup; the Poer (Cannon) series launched in 2019 and models include the Jingangpo and Shanhaipo. The brand has long led China's pickup market in both domestic sales and exports, ranking as China's best-selling pickup for 28 consecutive years with cumulative global sales of over 2.85 million units, of which the Poer has exceeded 800,000 units. Per the 2025 annual report, Great Wall Pickup sold 178,936 vehicles in 2025 (+2.22% YoY), including 60,699 exports (+20.98% YoY).",
+      "owner_note_zh": "始于 1996 年迪尔皮卡，2019 年推出长城炮系列，车型还包括金刚炮、山海炮。该品牌长期位居中国皮卡市场国内销量与出口第一，据公司披露已连续 28 年蝉联中国皮卡销量冠军，全球累计销量超 285 万辆，其中长城炮全球累计销量超 80 万辆。据 2025 年年报，2025 年长城皮卡销售 178,936 辆（同比 +2.22%），其中出口 60,699 辆（同比 +20.98%）。",
+      "status": "active",
+      "source_ids": [
+        "s6",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Salon",
+      "name_zh": "沙龙",
+      "role_en": "Historical premium BEV brand; current operating status unconfirmed.",
+      "role_zh": "历史高端纯电品牌；当前运营状态未核实。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "GWM's 2022 interim report lists the Salon Mecha Dragon among new models and records the brand's debut with this first model at the Guangzhou Auto Show on 19 November 2021, targeting China's premium BEV market. Subsequent brand integration, independent operation or discontinuation could not be confirmed from primary disclosures. Its current operating entity, ownership percentage and sales remain unconfirmed.",
+      "owner_note_zh": "长城汽车 2022 年半年度报告在新车型介绍中列出沙龙机甲龙，并记载该品牌于 2021 年 11 月 19 日携首款车型机甲龙在广州车展亮相，定位中国豪华纯电市场。未能从一手披露确认其后续品牌归并、独立运营或停用状态；当前运营主体、持股比例及销量未核实。",
+      "status": "unconfirmed",
+      "source_ids": [
+        "s39"
+      ]
+    },
+    {
+      "name_en": "Spotlight Automotive (JV)",
+      "name_zh": "光束汽车（合资）",
+      "role_en": "A 50/50 automotive joint venture with BMW Group.",
+      "role_zh": "与宝马集团 50:50 合资的汽车企业。",
+      "price_band": null,
+      "founded": 2019,
+      "owner_note_en": "A 50/50 joint venture with BMW Group. The contract was signed in July 2018; that announcement disclosed investment of RMB 5.1 billion and planned initial standard annual capacity of 160,000 vehicles. The project launched in Zhangjiagang in November 2019. Spotlight received its business licence on 30 December 2019, with registered capital of RMB 1.7 billion and an establishment date of 27 December 2019. The announced business scope includes R&D, production and sales of new-energy vehicles, and R&D, production and full-export sales of internal-combustion vehicles.",
+      "owner_note_zh": "与宝马集团 50:50 合资。2018 年 7 月签署合资合同；当时公告披露总投资 51 亿元、规划初期年标准产能 16 万辆。项目于 2019 年 11 月在张家港启动。光束汽车有限公司于 2019 年 12 月 30 日收到营业执照，注册资本 17 亿元，成立日期为 2019 年 12 月 27 日；公告列示的经营范围包括新能源汽车研发、生产与销售，以及内燃机汽车的研发、生产与全出口销售。",
+      "status": "active",
+      "source_ids": [
+        "s6",
+        "s31",
+        "s38"
+      ]
+    },
+    {
+      "name_en": "SOUO",
+      "name_zh": "长城灵魂",
+      "role_en": "Luxury large-displacement motorcycle brand.",
+      "role_zh": "豪华大排量摩托车品牌。",
+      "price_band": null,
+      "founded": 2024,
+      "owner_note_en": "Operated by 长城灵魂科技有限公司 (Changcheng Linghun Technology Co., Ltd.), described on the brand website as a subsidiary of the Great Wall Motor group responsible for motorcycle R&D, production, sales and service. The specific equity percentage is unconfirmed. Its S2000 touring motorcycle debuted in May 2024 and went on sale in October 2024, as recorded in the 2024 annual report. The 2025 annual report records more than 500 touring motorcycles delivered in 2025 and an S2000 cruiser unveiled in October 2025.",
+      "owner_note_zh": "运营主体为长城灵魂科技有限公司；品牌官网将其列为长城汽车集团下属子公司，负责摩托车研发、生产、销售和服务，持股比例未核实。据 2024 年报，S2000 旅行车于 2024 年 5 月亮相、10 月上市；据 2025 年报，2025 年旅行车交付超 500 台，10 月发布 S2000 巡航车。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s36"
+      ]
+    },
+    {
+      "name_en": "Great Wall Commercial Vehicle",
+      "name_zh": "长城商用车",
+      "role_en": "Commercial-vehicle business focused on heavy trucks and electric, hydrogen and hybrid powertrains.",
+      "role_zh": "商用车业务板块，布局重卡及电、氢、混动动力路线。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "The official website describes this business as the vehicle for Great Wall Motor's commercial-vehicle operations, integrating its wholly owned subsidiary Changzheng Auto. Its brand founding year and overall price range are unconfirmed. The 2025 annual report records 502 vehicles sold in 2025, a strategic collaboration with Cummins in March, and the launch of the G1050 hybrid heavy truck in June. At year-end 2025 it had 48 dealers and more than 400 service outlets.",
+      "owner_note_zh": "官网定位为长城汽车商用车板块承接载体，整合旗下全资子公司长征汽车；品牌创立年份及整体价格带未核实。据 2025 年报，2025 年销售 502 辆，3 月与康明斯达成战略合作，6 月 G1050 混动重卡上市；截至 2025 年末布局 48 家经销商及 400 余家服务渠道。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s37"
+      ]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (Chinese Accounting Standards)",
+    "rows": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 136405,
+        "gross_margin_pct": 15.53,
+        "net_profit": 6726,
+        "rnd": 4490,
+        "rnd_investment": 9067,
+        "source_ids": [
+          "s1",
+          "s27"
+        ]
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 137340,
+        "gross_margin_pct": 19.37,
+        "net_profit": 8266,
+        "rnd": 6445,
+        "rnd_investment": 12181,
+        "source_ids": [
+          "s1",
+          "s3"
+        ]
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 173200,
+        "gross_margin_pct": 18.73,
+        "net_profit": 7011,
+        "rnd": 8082,
+        "rnd_investment": 11034,
+        "source_ids": [
+          "s1",
+          "s28"
+        ]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 202194,
+        "gross_margin_pct": 19.51,
+        "net_profit": 12660,
+        "rnd": 9304,
+        "rnd_investment": 10446,
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 222824,
+        "gross_margin_pct": 18.04,
+        "net_profit": 9865,
+        "rnd": 10432,
+        "rnd_investment": 10378,
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "note_en": "Unit: RMB million, under PRC GAAP; amounts are rounded to the nearest million and gross margins to two decimal places. Revenue is total operating revenue. net_profit is net profit attributable to shareholders of the listed company. Revenue, attributable net profit and R&D expense for all five years (2021–2025) use the historical figures in the 2025 annual report (s1), taking adjusted comparatives where provided. Every gross margin is calculated from that report's unrounded revenue and cost of sales: (revenue minus cost of sales) / revenue × 100%. For 2021, revenue of RMB 136,404,663,038.67 and cost of sales of RMB 115,221,361,397.64 give 15.53%. rnd is income-statement R&D expense; rnd_investment is total R&D investment (current expensed plus capitalised investment) in the annual R&D investment table. They are different measures. Total R&D investment for 2021, 2022, 2023, 2024 and 2025 comes respectively from the 2021 (s27), 2022 (s3), 2023 (s28), 2024 (s2) and 2025 (s1) annual reports; the unrounded 2024 figure is RMB 10,446,144,855.39. These investment totals retain their original annual disclosures and are not presented as a fully restated series from the 2025 report. This page does not constitute any trading recommendation.",
+    "note_zh": "单位：百万元人民币，中国企业会计准则（PRC GAAP）；金额四舍五入至百万元，毛利率保留两位小数。营业收入为营业总收入；净利润（net_profit）为归属于上市公司股东的净利润。2021–2025 年营业收入、归母净利润、研发费用统一采用 2025 年报（s1）所列历史数据，比较年度有调整后数的采用调整后数；毛利率统一用该报告披露的各年未取整营业收入和营业成本计算：（营业收入−营业成本）/营业收入×100%。2021 年收入 136,404,663,038.67 元、成本 115,221,361,397.64 元，对应毛利率 15.53%。rnd 为利润表研发费用；rnd_investment 为各年度报告「研发投入情况表」的研发投入合计（费用化与资本化投入之和），两者不是同一指标。2021、2022、2023、2024、2025 年研发投入合计分别取自 2021 年报（s27）、2022 年报（s3）、2023 年报（s28）、2024 年报（s2）、2025 年报（s1）；2024 年原值为 10,446,144,855.39 元。研发投入合计按各年度原披露值列示，未将其表述为全部经 2025 年报重述。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Great Wall Motor Company Limited is a privately owned automaker headquartered in Baoding, Hebei. Its official chronology dates the predecessor factory to 1984. The joint-stock company was incorporated in June 2001 and listed in Hong Kong (02333.HK) in 2003 and Shanghai (601633.SH) in 2011.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> Its business covers vehicle and component design, R&D, production, sales and service. Brands include Haval, WEY, Tank, ORA, Great Wall Pickup, SOUO and Great Wall Commercial Vehicle, spanning SUVs, sedans, pickups, MPVs, motorcycles and heavy trucks. Spotlight Automotive is a separate 50/50 joint venture with BMW Group.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm-global.com/news_detail-2996.html\">[s38]</a></p><p>In fiscal 2025 Great Wall Motor sold 1,323,811 vehicles (+7.23% YoY), including 506,787 overseas (+11.60% YoY) and 406,000 new-energy vehicles (+26.00% YoY); revenue was RMB 222.824 billion (+10.20% YoY) and net profit attributable to shareholders of the listed company was RMB 9.865 billion (−22.07% YoY).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> The 2025 annual report gives comparative 2024 sales of 1,234,528 vehicles.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p>The 2025 annual report describes Great Wall Pickup as China's pickup sales leader for 28 consecutive years. GWM sold 506,787 vehicles overseas in 2025, about 38.3% of its total. The company has three full-process vehicle plants overseas, plus several KD assembly plants. By the research cut-off date, it had also disclosed its 2026 interim report: first-half attributable net profit was RMB 2.465 billion, down 61.11% year on year.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></p>",
+      "zh": "<p>长城汽车股份有限公司是一家总部位于河北省保定市的民营整车制造企业。官网发展历程将前身工厂的成立追溯至 1984 年；公司于 2001 年 6 月改制设立股份公司，2003 年、2011 年先后在香港联合交易所（02333.HK）和上海证券交易所（601633.SH）上市。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 公司业务包括整车及零部件设计、研发、生产、销售和服务，旗下拥有哈弗、魏牌、坦克、欧拉、长城皮卡、长城灵魂和长城商用车等品牌，覆盖 SUV、轿车、皮卡、MPV、摩托车和重卡；另与宝马集团设立 50:50 合资企业光束汽车。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm-global.com/news_detail-2996.html\">[s38]</a></p><p>2025 财年，公司销售新车 1,323,811 辆（同比 +7.23%），其中海外销售 506,787 辆（同比 +11.60%）、新能源车型全球销售 40.60 万辆（同比 +26.00%）；实现营业总收入 2,228.24 亿元（同比 +10.20%），归属于上市公司股东的净利润 98.65 亿元（同比 −22.07%）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 按 2025 年报列示的比较数，2024 年公司销售新车 1,234,528 辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p>据 2025 年报，长城皮卡连续 28 年居中国皮卡销量第一；2025 年海外销售 506,787 辆，占公司总销量约 38.3%。公司已在海外建立三个全工艺整车生产基地，另设多家 KD 工厂。截至研究截止日，公司已披露 2026 年半年度报告：上半年归母净利润 24.65 亿元，同比下降 61.11%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Great Wall Motor's revenue is dominated by whole-vehicle sales, with a smaller parts and other business. For full-year 2025, operating revenue was RMB 222.824 billion (+10.20% YoY).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> In the first half of 2026, operating revenue was RMB 102.10 billion (+10.58% YoY), of which vehicle sales were RMB 88.82 billion and parts and other revenue RMB 13.29 billion; gross margin was 18.37%. Half-year net profit attributable to shareholders was RMB 2.465 billion (−61.11% YoY), net profit excluding non-recurring items was RMB 1.610 billion (−55.04% YoY), second-quarter net profit was RMB 1.519 billion (+60.67% QoQ), and operating cash flow was RMB 10.436 billion (+13.25% YoY). At end-June 2026 the headcount was about 99,600.<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a> By vehicle category, 2025 sales comprised 1,033,100 SUVs (+4.45% YoY), 111,800 sedans and others (mainly new-energy vehicles, +58.73% YoY) and 178,900 pickups (+2.22% YoY).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> The Tank brand sold 234,442 vehicles in 2025, remaining China's best-selling off-road SUV brand.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><h3>Brand premiumisation and revenue per vehicle</h3><p>Per the company's 2025 results announcement, revenue per vehicle was RMB 168,300 in 2025 (up about RMB 4,500 YoY), and models priced above RMB 200,000 sold 534,000 units, taking their share of sales to 41% (up 6 percentage points from 2024); in 2025 the company's MSCI ESG rating was A.<a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a></p><h3>Technology and platforms</h3><p>Technologies include the Hi4 intelligent four-wheel-drive hybrid family, including Hi4-T and Hi4-Z architectures, and the Coffee OS smart cockpit and Coffee Pilot driving-assistance systems.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf\">[s2]</a> In 2025 the company launched a new-generation Hi4 — Hi4 won the China Society of Automotive Engineers special award and the Hi4-Z architecture was named among the \"China Heart\" 2025 top ten engines and hybrid systems — put its VLA driving-assistance large model into production, first on the WEY Lanshan intelligent version, and developed a 4.0T V8 engine; it also opened an advanced safety laboratory with RMB 510 million of investment and 57,000 square metres of floor area in 2025. In January 2026 it announced the Guiyuan platform, a native-AI all-powertrain platform compatible with gasoline, diesel, BEV, hybrid, PHEV and hydrogen.<a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> On the smart side, it rolled out the Coffee Pilot Ultra driving-assistance system and Coffee OS 3 smart cockpit, and co-developed the RISC-V automotive-grade MCU chip Zijin M100.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf\">[s2]</a></p><h3>R&D investment and patents</h3><p>In 2025 total R&D investment was RMB 10.378 billion, or 4.66% of operating revenue, while expensed R&D cost was RMB 10.432 billion.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> Total R&D investment by year was RMB 9.067 billion (2021), RMB 12.181 billion (2022), RMB 11.034 billion (2023), RMB 10.446 billion (2024) and RMB 10.378 billion (2025).<a href=\"https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7932278&stockid=601633\">[s27]</a><a href=\"https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8934264\">[s3]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2024/0328/2024032801753_c.pdf\">[s28]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf\">[s2]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> The 2025 annual report records 27,097 R&D personnel at year-end, or 27.76% of total employees; this is the report's R&D personnel measure.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> For the 2023 Global Automotive Patent Big Data Platform ranking, disclosed by the company on 26 January 2024, the reporting entity is Great Wall Holdings (including Great Wall Motor and its parts and components subsidiaries): 6,888 patent publications and 4,665 grants, each ranking first among Chinese private automaker groups for three consecutive years; in the new-energy vehicle field, 1,838 publications and 1,375 grants, each first among automakers in China for three consecutive years; and in intelligent technology, 1,131 publications, also first among private automaker groups.<a href=\"https://www.gwm.com.cn/news/3403236.html\">[s30]</a></p><h3>Factories and capacity</h3><p>Great Wall Motor operates multiple whole-vehicle plants in China, and has built three full-process plants overseas — Tula (Russia), Rayong (Thailand) and Iracemápolis (Brazil) — plus several KD assembly plants.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a> The Tula plant, its first full-process plant abroad, started production in June 2019.<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> The Rayong plant was acquired from General Motors in 2020.<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> The Iracemápolis plant in Brazil was completed and started production in August 2025, with an annual capacity of 50,000 vehicles, a site of 1.2 million square metres and the Haval H6 GT as its first model off the line, witnessed by Brazilian President Lula.<a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a> The 2018 joint-venture contract announcement planned initial standard annual capacity of 160,000 vehicles for Spotlight Automotive.<a href=\"https://www.gwm-global.com/news_detail-2996.html\">[s38]</a></p><h3>Domestic market position</h3><p>At home, Great Wall Pickup has long ranked first in China's pickup market in both domestic sales and exports; the Tank 300 has been China's best-selling off-road SUV for five consecutive years and the Tank 500 has ranked first in luxury off-road sales above RMB 300,000 for four consecutive years; and the new Gaoshan topped China's MPV sales in July–December 2025. In 2025, models priced above RMB 200,000 sold 534,000 units, a 41% share.<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a><a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a></p><h3>Overseas business</h3><p>In 2025 the company sold 506,787 vehicles overseas (+11.60% YoY), about 38% of total sales.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> In the first half of 2026 overseas sales reached 289,000 units (+45.46% YoY), accounting for just over half of total sales for the first time, with overseas revenue rising to about 55% of total revenue.<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a> The 2025 annual report states that, as of 2025, products had been exported to more than 170 countries and regions, with over 1,500 overseas sales outlets.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> In its August 2025 plant-opening release, the company described plans to use Brazil as a hub for Mexico, Argentina, Chile and other Latin American markets.<a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a> The company pursues an \"ecosystem globalisation\" strategy covering the whole chain of R&D, production, supply, sales and service.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>",
+      "zh": "<h3>业务结构</h3><p>长城汽车收入以整车销售为主，另有规模较小的零部件及其他业务。2025 年全年营业总收入 2,228.24 亿元（同比 +10.20%）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 2026 年上半年，公司营业总收入 1,021.01 亿元（同比 +10.58%），其中整车销售收入 888.16 亿元、零部件及其他收入 132.86 亿元，毛利率 18.37%；上半年归母净利润 24.65 亿元（同比 −61.11%）、扣非归母净利润 16.10 亿元（同比 −55.04%），其中第二季度归母净利润 15.19 亿元（环比 +60.67%），经营活动产生的现金流量净额 104.36 亿元（同比 +13.25%）；截至 2026 年 6 月末员工总数约 9.96 万人。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a> 按车型类别，2025 年公司销售 SUV 103.31 万辆（同比 +4.45%）、轿车及其他（主要为新能源车）11.18 万辆（同比 +58.73%）、皮卡 17.89 万辆（同比 +2.22%）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 坦克品牌 2025 年销售 23.44 万辆，蝉联中国越野 SUV 销量第一。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><h3>品牌向上与单车收入</h3><p>据公司 2025 年业绩公告，2025 年单车收入达 16.83 万元（同比提升约 4,500 元），20 万元以上车型销售 53.4 万辆，销量占比提升至 41%（较 2024 年提升 6 个百分点）；2025 年公司 MSCI（明晟）ESG 评估结果为 A。<a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a></p><h3>技术与平台</h3><p>技术体系包括 Hi4 智能四驱电混技术家族（含 Hi4-T、Hi4-Z 架构），以及 Coffee OS 智能座舱与 Coffee Pilot 辅助驾驶系统。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf\">[s2]</a> 2025 年公司推出新一代 Hi4 技术，Hi4 获中国汽车工程学会科学技术奖特等奖，Hi4-Z 架构获「中国心」2025 年度十佳发动机及混动系统称号；VLA 辅助驾驶大模型正式落地并首搭于魏牌蓝山智能进阶版；公司还成功研发 4.0T V8 发动机，并于 2025 年启用总投资 5.1 亿元、总建筑面积 5.7 万平方米的先进安全试验室。2026 年 1 月官宣「归元」平台，为兼容汽油、柴油、纯电、混动、插混、氢能的原生 AI 全动力整车平台。<a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 智能化方面，公司推出 Coffee Pilot Ultra 智驾系统和 Coffee OS 3 智慧空间系统，并联合培育 RISC-V 车规级 MCU 芯片紫荆 M100。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf\">[s2]</a></p><h3>研发投入与专利</h3><p>2025 年公司研发投入合计 103.78 亿元，占营业收入比例 4.66%；利润表口径的研发费用为 104.32 亿元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 研发投入合计历年为：2021 年 90.67 亿元、2022 年 121.81 亿元、2023 年 110.34 亿元、2024 年 104.46 亿元、2025 年 103.78 亿元。<a href=\"https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7932278&stockid=601633\">[s27]</a><a href=\"https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8934264\">[s3]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2024/0328/2024032801753_c.pdf\">[s28]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf\">[s2]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 据 2025 年报「研发人员情况表」，2025 年末公司研发人员为 27,097 人，占员工总数的 27.76%；此处采用年报研发人员口径。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 专利方面，据公司 2024 年 1 月 26 日披露的 2023 年全球汽车专利大数据平台榜单，统计主体为长城控股（含长城汽车及控股旗下零部件等子公司），其专利公开量 6,888 件、授权量 4,665 件，均连续三年居中国民营车企集团第一；新能源汽车领域专利公开量 1,838 件、授权量 1,375 件，均连续三年居在华车企第一；智能化领域专利公开量 1,131 件，同样居民营车企集团第一。<a href=\"https://www.gwm.com.cn/news/3403236.html\">[s30]</a></p><h3>主要工厂与产能</h3><p>公司在国内拥有多个整车生产基地，海外已建成俄罗斯图拉、泰国罗勇、巴西伊拉塞马波利斯三个全工艺整车生产基地及多家 KD 组装工厂。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a> 图拉工厂于 2019 年 6 月投产，是公司海外首个全工艺整车制造厂。<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 泰国罗勇工厂于 2020 年收购自通用汽车。<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 巴西伊拉塞马波利斯工厂于 2025 年 8 月竣工投产，年产能 5 万辆、总占地 120 万平方米，首台下线车型为哈弗 H6 GT，巴西总统卢拉现场见证。<a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a> 据 2018 年合资合同公告，光束汽车规划初期年标准产能 16 万辆。<a href=\"https://www.gwm-global.com/news_detail-2996.html\">[s38]</a></p><h3>国内市场地位</h3><p>在国内市场，长城皮卡长期位居皮卡市场国内销量与出口第一，坦克 300 连续五年位居越野 SUV 销量冠军、坦克 500 连续四年位列 30 万级以上豪华越野销量第一，全新高山问鼎 2025 年 7–12 月全国 MPV 销冠；2025 年公司 20 万元以上车型销售 53.4 万辆、占比 41%。<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a><a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a></p><h3>海外业务</h3><p>2025 年公司海外销售新车 50.68 万辆（同比 +11.60%），占公司总销量约 38%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 2026 年上半年海外销售 28.90 万辆（同比 +45.46%），占上半年总销量的比例首次超过五成，境外收入占总营收比重提升至约 55%。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a> 据 2025 年报，截至 2025 年，公司产品已出口至 170 多个国家和地区，海外销售渠道超过 1,500 家。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 公司在 2025 年 8 月巴西工厂投产新闻稿中称，计划以巴西为中心辐射墨西哥、阿根廷、智利等拉美市场。<a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a> 公司持续推进研、产、供、销、服全链条「生态出海」。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder and business development</h3><p>Wei Jianjun joined the predecessor business as general manager in 1990 and has chaired the joint-stock company since June 2001, overseeing group strategy and business development. The company chronology records the first Deer pickup in 1996, the first pickup exports to the Middle East in 1997 and the Saifei SUV in the market in 2002.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a></p><h3>Current management</h3><p>According to the 2026 interim report, the board comprises executive directors, an employee director, a non-executive director and independent non-executive directors: Wei Jianjun is chairman and executive director; Zhao Guoqing is vice chairman, executive director and deputy general manager; Li Hongshuan is executive director and chief financial officer (finance director); Zhao Gai is the employee director; He Ping is a non-executive director; and Fan Hui, Zou Zhaolin and Tian Yajuan are independent non-executive directors.<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a> Among senior management, Mu Feng is general manager (president), Shi Qingke is international president, and Yuan Yuan is board secretary (joint company secretary).<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a><a href=\"https://www.gwm.com.cn/news/3403924.html\">[s9]</a></p><p>In June 2026, employee director Lu Caijuan and independent non-executive director Le Ying stepped down; Zhao Gai succeeded as employee director and Tian Yajuan as independent non-executive director; Li Hongshuan no longer serves concurrently as board secretary, and Yuan Yuan was appointed board secretary in July 2026.<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></p><p>The 2025 annual report records that Zhao Guoqing joined in 2000, previously worked as deputy head of the technology research institute and head of procurement management, became deputy general manager in June 2010 and vice chairman and executive director in March 2022. Li Hongshuan joined in 2007, became CFO in June 2020 and an executive director in March 2022. Mu Feng joined in 2007, held responsibility for R&D, product strategy and vehicle operations, and became general manager in July 2022. These are the company's disclosed career histories.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><h3>Ownership and governance</h3><p>The company's 16 October 2026 related-party transaction announcement identifies Baoding Innovation Great Wall Asset Management Co., Ltd. as the controlling shareholder, holding about 59.63% of the issued share capital; Wei Jianjun indirectly holds 99% of Great Wall Holdings, which holds 62.85% of Innovation Great Wall, and is the ultimate beneficial owner and actual controller.<a href=\"https://www.cfi.net.cn/p20261016001411.html\">[s10]</a> As of 31 December 2025, total share capital was 8,557,872,087 shares, comprising 6,239,096,087 A shares and 2,318,776,000 H shares.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>",
+      "zh": "<h3>创始人与创业历程</h3><p>魏建军于 1990 年加入公司前身并担任总经理，2001 年 6 月起任股份公司董事长，负责集团整体战略规划及业务发展。公司官网发展历程载明，1996 年首辆迪尔皮卡下线，1997 年首批皮卡出口中东，2002 年赛弗 SUV 进入市场。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a></p><h3>现任核心管理层</h3><p>据 2026 年半年度报告披露，公司董事会由执行董事、职工董事、非执行董事和独立非执行董事构成：魏建军任董事长、执行董事；赵国庆任副董事长、执行董事、副总经理；李红栓任执行董事、财务负责人（财务总监）；赵改任职工董事；何平任非执行董事；范辉、邹兆麟、田雅娟任独立非执行董事。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a> 高级管理人员中，穆峰任总经理（总裁），史青科任国际总裁，袁媛任董事会秘书（联席公司秘书）。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a><a href=\"https://www.gwm.com.cn/news/3403924.html\">[s9]</a></p><p>2026 年 6 月，原职工董事卢彩娟、独立非执行董事乐英离任，由赵改接任职工董事、田雅娟接任独立非执行董事；李红栓不再兼任董事会秘书，袁媛于 2026 年 7 月获聘董事会秘书。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></p><p>据 2025 年报，赵国庆于 2000 年加入公司，曾任技术研究院副院长、配套管理本部本部长等职务，2010 年 6 月起任副总经理，2022 年 3 月起任副董事长、执行董事；李红栓于 2007 年加入公司，2020 年 6 月起任财务总监，2022 年 3 月起任执行董事；穆峰于 2007 年加入公司，曾负责研发、商品战略与整车业务，2022 年 7 月起任总经理。以上为公司披露的职业履历。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><h3>股权与治理</h3><p>据公司 2026 年 10 月 16 日关联交易公告，控股股东为保定创新长城资产管理有限公司，持有公司约 59.63% 已发行股本；魏建军间接持有长城控股 99% 股权，长城控股持有创新长城 62.85% 股权，魏建军为公司最终实益拥有人和实际控制人。<a href=\"https://www.cfi.net.cn/p20261016001411.html\">[s10]</a> 截至 2025 年 12 月 31 日，公司总股本 8,557,872,087 股，其中 A 股 6,239,096,087 股、H 股 2,318,776,000 股。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: competitive scope and differentiation.</strong> Based on the company's disclosed SUV, pickup, MPV and new-energy passenger-vehicle portfolio, we select BYD, Geely, Chery, Changan and SAIC as competitors to monitor, alongside global brands such as Toyota in pickups and off-road vehicles. This is our analytical peer selection, not a sales ranking. GWM sold 178,936 pickups and 234,442 Tank vehicles in 2025. Its 2025 annual report describes Great Wall Pickup as China's pickup sales leader for 28 consecutive years and Tank as China's off-road SUV sales leader. Our judgment is that this existing product scale in pickups and off-road SUVs provides a basis for differentiation.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p><strong>Our judgment: profit recovery needs further evidence.</strong> The company disclosed revenue per vehicle of RMB 168,300 in 2025, while group gross margin was 18.04%, attributable net profit fell 22.07% year on year, and first-half 2026 attributable net profit fell 61.11%. Higher revenue per vehicle can coexist with lower net profit; a shift toward higher price bands alone does not establish better profitability. About 406,000 new-energy vehicles divided by 1,323,811 total vehicles gives approximately 30.7% of the company's global 2025 sales. This internal sales-mix measure alone cannot establish whether its transition lags the industry. Subsequent assessment should track sales mix, expenses and profit on a consistent basis.<a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围与差异化基础。</strong>按公司披露的 SUV、皮卡、MPV 和新能源乘用车布局，我们将比亚迪、吉利、奇瑞、长安、上汽列为主要跟踪对象，并在皮卡和越野细分市场关注丰田等全球品牌。这是分析所选的竞争范围，不是销量排名。公司 2025 年皮卡销售 178,936 辆、坦克销售 234,442 辆；2025 年报称长城皮卡连续 28 年居中国皮卡销量第一、坦克居中国越野 SUV 销量第一。我们的判断是，皮卡与越野 SUV 的既有产品规模构成差异化竞争的基础。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p><strong>我们的判断：利润修复仍需观察。</strong>公司披露 2025 年单车收入 16.83 万元；同期集团毛利率为 18.04%，归母净利润同比下降 22.07%，2026 年上半年归母净利润同比下降 61.11%。单车收入提高与净利润下降可以同时发生，不能仅凭产品价格带上移判断盈利能力改善。2025 年公司新能源车型全球销量约 40.60 万辆，除以总销量 1,323,811 辆，约为 30.7%；这一公司内部结构比例本身不足以判断转型是否落后于行业。后续应观察同口径销量结构、费用与利润的变化。<a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> The operating plan in the 2025 annual report, published on 27 March 2026, calls for a broader all-powertrain product matrix, further development of Hi4 technology and the VLA driving-assistance model, and continued ecosystem globalisation. The report also calls for deeper regional operations, local manufacturing and local supply chains to address overseas risks. These are disclosed directions, not completed results.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p><strong>Our judgment.</strong> With 506,787 overseas vehicle sales in 2025 and ongoing investment in local manufacturing, overseas demand and plant utilisation warrant attention. Better coordination of local production, distribution and supply chains could support sales growth; weak local demand or higher trade barriers could instead make capacity investment a burden. In China, the question is whether sales of new-energy and higher-priced models translate into profit. Penetration rates from different periods, geographies and wholesale or retail measures do not establish an industry lag. This analysis rests on the company's disclosed product portfolio, profit changes and overseas operations; outcomes depend on demand, cost control and local execution.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a><a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>2025 年报（2026 年 3 月 27 日发布）的经营计划提出完善全动力产品矩阵，迭代 Hi4 技术及 VLA 辅助驾驶大模型，并推进「生态出海」。报告还提出以区域深耕、本土化运营、海外工厂及本地供应链配套应对海外经营风险。以上为公司披露的方向，不是已实现的业绩。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p><strong>我们的判断。</strong>2025 年海外销量为 506,787 辆，公司同时推进海外本地产能建设；海外市场需求和工厂利用情况因此是后续观察重点。若本地生产、渠道与供应链协同改善，海外业务可能支持销量增长；若当地需求不足或贸易壁垒增加，产能投入也可能形成负担。国内方面，应观察新能源车型及高价位车型的销售能否转化为利润，而不以不同期间、地域和批零口径的渗透率推出行业落后结论。上述分析以公司披露的产品布局、利润变化和海外业务为依据，结果取决于需求、费用控制与本地化执行。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/news/3403882.html\">[s29]</a><a href=\"https://www.gwm.com.cn/news/3403755.html\">[s32]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Overseas risks disclosed by the company.</strong> The 2025 annual report identifies international geopolitical conflict and growing trade barriers as sources of uncertainty in overseas markets.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li><li><strong>Domestic competition risk disclosed by the company.</strong> The 2025 annual report identifies an expanding range of products in China and intensifying competition among similar products.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li><li><strong>Profit and margin changes.</strong> In 2025, attributable net profit fell 22.07% year on year and group gross margin was 18.04%, versus 19.51% in 2024. First-half 2026 attributable net profit fell 61.11% year on year.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></li><li><strong>New-energy product mix.</strong> New-energy vehicles accounted for approximately 30.7% of the company's full-year global sales in 2025; ORA sold 48,312 vehicles that year.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li></ul>",
+      "zh": "<ul><li><strong>公司披露的海外风险。</strong>2025 年报将国际地缘冲突、贸易壁垒增多列为海外市场不确定性的来源。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li><li><strong>公司披露的国内竞争风险。</strong>2025 年报指出，国内汽车市场产品持续丰富，同质化竞争加剧。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li><li><strong>利润与毛利率变化。</strong>2025 年归母净利润同比下降 22.07%、集团毛利率为 18.04%（2024 年为 19.51%）；2026 年上半年归母净利润同比下降 61.11%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF\">[s5]</a></li><li><strong>新能源产品结构。</strong>2025 年新能源车型约占公司全年全球销量 30.7%；欧拉品牌销售 48,312 辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Great Wall Motor 2025 Annual Report, HKEX filing (长城汽车 2025 年年度报告·港交所)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "Great Wall Motor 2024 Annual Report, HKEX filing (长城汽车 2024 年年度报告·港交所)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0328/2025032801551_c.pdf",
+      "date": "2025-03-28",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Great Wall Motor 2022 Annual Report, reprinted on Sina Finance (长城汽车 2022 年年度报告·新浪财经转载)",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8934264",
+      "date": "2023-03-31",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "Great Wall Motor 2026 Interim Report, CNINFO filing (长城汽车 2026 年半年度报告·巨潮资讯)",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF",
+      "date": "2026-08-26",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Great Wall Motor official website: development history (长城汽车官网·发展历程)",
+      "url": "https://www.gwm.com.cn/history.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "Great Wall Motor official news: South Africa delegation visit (长城汽车官网新闻·南非代表团来访及2025年销量)",
+      "url": "https://www.gwm.com.cn/news/3403924.html",
+      "date": "2026-05-15",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "Great Wall Motor 2026-10-16 regulatory announcement on related-party purchases, full-text republication by CFi (长城汽车关联交易公告原文·中财网转载)",
+      "url": "https://www.cfi.net.cn/p20261016001411.html",
+      "date": "2026-10-16",
+      "tier": "A"
+    },
+    {
+      "id": "s27",
+      "name": "Great Wall Motor 2021 Annual Report, reprinted on Sina Finance (长城汽车 2021 年年度报告·新浪财经转载)",
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7932278&stockid=601633",
+      "date": "2022-03-30",
+      "tier": "A"
+    },
+    {
+      "id": "s28",
+      "name": "Great Wall Motor 2023 Annual Report, HKEX filing (长城汽车 2023 年年度报告·港交所)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0328/2024032801753_c.pdf",
+      "date": "2024-03-28",
+      "tier": "A"
+    },
+    {
+      "id": "s29",
+      "name": "Great Wall Motor official news: 2025 annual results and revenue per vehicle (长城汽车官网·2025年营收再创新高及单车收入)",
+      "url": "https://www.gwm.com.cn/news/3403882.html",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s30",
+      "name": "Great Wall Motor official news: patent publications and grants ranking (长城汽车官网·专利公开量授权量三连冠)",
+      "url": "https://www.gwm.com.cn/news/3403236.html",
+      "date": "2024-01-26",
+      "tier": "A"
+    },
+    {
+      "id": "s31",
+      "name": "Great Wall Motor HKEX announcement: Spotlight Automotive obtains business licence (长城汽车港交所公告·关于光束汽车取得营业执照)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2019/1230/2019123000699_c.pdf",
+      "date": "2019-12-30",
+      "tier": "A"
+    },
+    {
+      "id": "s32",
+      "name": "Great Wall Motor official news: Brazil plant completed and starts production (长城汽车官网·巴西工厂竣工投产)",
+      "url": "https://www.gwm.com.cn/news/3403755.html",
+      "date": "2025-08-16",
+      "tier": "A"
+    },
+    {
+      "id": "s34",
+      "name": "WEY official website: model starting prices, accessed 2026-10-29 (魏牌官网·车型起售价，日期为访问日)",
+      "url": "https://www.wey.com/index.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s35",
+      "name": "WEY Gaoshan official model page, accessed 2026-10-29 (魏牌高山官网车型页，日期为访问日)",
+      "url": "https://www.wey.com/gaoshan.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s36",
+      "name": "SOUO official website: brand and operating entity, accessed 2026-10-29 (长城灵魂官网·品牌与运营主体，日期为访问日)",
+      "url": "https://souomoto.com/brand.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s37",
+      "name": "Great Wall Commercial Vehicle official website: company introduction, accessed 2026-10-29 (长城商用车官网·公司介绍，日期为访问日)",
+      "url": "https://www.ifyou.com/about.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s38",
+      "name": "GWM official news: joint venture contract with BMW (长城汽车官网·与宝马签署合资合同)",
+      "url": "https://www.gwm-global.com/news_detail-2996.html",
+      "date": "2018-07-11",
+      "tier": "A"
+    },
+    {
+      "id": "s39",
+      "name": "Great Wall Motor 2022 Interim Report, original report mirrored by Xueqiu (长城汽车 2022 年半年度报告原文·雪球存档)",
+      "url": "https://stockn.xueqiu.com/SH601633/20220830407089.pdf",
+      "date": "2022-08-30",
+      "tier": "A"
+    }
+  ]
+}

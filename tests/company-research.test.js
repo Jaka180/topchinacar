@@ -304,3 +304,22 @@ test('可选财务列、数字零、空财务说明正常显示', () => {
   d.financials.rows = [];
   assert.match(renderResearch(d), /金额均未公开披露/);
 });
+
+test('正文里「[s1]」式引用链接换成统一上标，不重复显示；财务数字加千位分隔', () => {
+  const data = JSON.parse(JSON.stringify(fixture));
+  const url = data.sources[0].url;
+  data.sections.overview.en = `<p>Fact one. <a href="${url}">[s1]</a></p>`;
+  data.sections.overview.source_ids = [];   // 只看正文链接本身的引用
+  data.financials.rows[0].revenue = 216142;
+  const html = require('../lib/company-research').renderResearchLanguage(data, 'en');
+  const overview = html.slice(html.indexOf('Fact one.'), html.indexOf('</p>', html.indexOf('Fact one.')));
+  assert.equal((overview.match(/research-citation/g) || []).length, 1);
+  assert.ok(!overview.includes('>[s1]</a>'));
+  assert.ok(html.includes('216,142'));
+});
+
+test('页头介绍取前两句纯文字，不在 Co.、Ltd. 处断句，去掉引用标记', () => {
+  const { leadText } = require('../lib/company-research');
+  assert.equal(leadText('<p>Seres Group Co., Ltd. is an automaker.[s6] It lists in Shanghai. A third sentence.</p>'), 'Seres Group Co., Ltd. is an automaker. It lists in Shanghai.');
+  assert.equal(leadText('<p>赛力斯是车企。[s1]总部在重庆。第三句。</p>'), '赛力斯是车企。总部在重庆。');
+});

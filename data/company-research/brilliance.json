@@ -1,0 +1,567 @@
+{
+  "id": "brilliance",
+  "name_en": "Brilliance Auto Group Holdings Co., Ltd. (华晨汽车)",
+  "name_zh": "华晨汽车集团控股有限公司（华晨汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "16 September 2002 (Brilliance Auto Group Holdings Co., Ltd.)",
+      "value_zh": "2002 年 9 月 16 日（华晨汽车集团控股有限公司）",
+      "period": "2002-09-16",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shenyang, Liaoning, China",
+      "value_zh": "中国辽宁省沈阳市",
+      "period": null,
+      "source_ids": [
+        "s14",
+        "s27"
+      ]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-owned; ultimate controller Shenyang Municipal State-owned Assets Supervision and Administration Commission (SASAC)",
+      "value_zh": "国有；实际控制人为沈阳市人民政府国有资产监督管理委员会",
+      "period": "2026-04-29",
+      "source_ids": [
+        "s27",
+        "s30"
+      ]
+    },
+    {
+      "label_en": "Controlling shareholder",
+      "label_zh": "控股股东",
+      "value_en": "Shenyang Automobile Group Co., Ltd. (100% of Brilliance Auto Group Holdings)",
+      "value_zh": "沈阳汽车集团有限公司（持有华晨汽车集团控股有限公司 100% 股权）",
+      "period": "2026-04-11",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "label_en": "Related listed companies",
+      "label_zh": "关联上市公司",
+      "value_en": "Brilliance China (01114.HK, HKEX main board); Jinbei Automobile (600609.SH) and Liaoning Shenhua Holdings Co., Ltd. (600653.SH). These are separate legal entities from unlisted Brilliance Auto Group Holdings.",
+      "value_zh": "华晨中国（01114.HK，港交所主板）、金杯汽车（600609.SH）、辽宁申华控股股份有限公司（600653.SH）；均与非上市的华晨汽车集团控股有限公司为不同法人主体。",
+      "period": "2026-06-30",
+      "source_ids": [
+        "s5",
+        "s22",
+        "s23"
+      ]
+    },
+    {
+      "label_en": "Employees (related companies)",
+      "label_zh": "员工数（关联公司）",
+      "value_en": "2,080 (Brilliance China consolidated, as at 2025-12-31); BMW Brilliance alone has more than 20,000",
+      "value_zh": "2,080 人（华晨中国合并口径，截至 2025-12-31）；仅华晨宝马即有逾 2 万人",
+      "period": "2025-12-31",
+      "source_ids": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "label_en": "Revenue (Brilliance China)",
+      "label_zh": "营收（华晨中国）",
+      "value_en": "RMB 1,182 million (Brilliance China, FY2025)",
+      "value_zh": "人民币 11.82 亿元（华晨中国，2025 财年）",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Net profit (Brilliance China)",
+      "label_zh": "净利润（华晨中国）",
+      "value_en": "RMB 1,986 million attributable to equity holders of the company (Brilliance China, FY2025)",
+      "value_zh": "本公司股权持有人应占溢利人民币 19.86 亿元（华晨中国，2025 财年）",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Domestic sales (BMW Brilliance)",
+      "label_zh": "国内销量（华晨宝马）",
+      "value_en": "BMW Brilliance domestic sales 534,001 units (2025)",
+      "value_zh": "华晨宝马国内销量 534,001 辆（2025 年）",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Exports (BMW Brilliance)",
+      "label_zh": "出口销量（华晨宝马）",
+      "value_en": "BMW Brilliance exports: 2,162 units (2025)",
+      "value_zh": "华晨宝马出口 2,162 辆（2025 年）",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "1992",
+      "event_en": "Brilliance China, a separate company from Brilliance Auto Group Holdings, is incorporated in Bermuda.",
+      "event_zh": "华晨中国在百慕大注册成立，与华晨汽车集团控股有限公司为不同法人主体。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "1999",
+      "event_en": "Brilliance China lists its shares on the Hong Kong Stock Exchange (stock code 1114).",
+      "event_zh": "华晨中国在香港联合交易所挂牌上市（股份代号 1114）。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2002-09-16",
+      "event_en": "Brilliance Auto Group Holdings Co., Ltd. is established. Its financial-statement notes record the incorporation date as 16 September 2002 and describe the Liaoning provincial government approvals for receiving state-owned assets and establishing the company.",
+      "event_zh": "华晨汽车集团控股有限公司成立。财务报表附注载明成立日期为 2002 年 9 月 16 日，并记载辽宁省政府接收国有资产及批准设立公司的过程。",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2003-05",
+      "event_en": "BMW Brilliance Automotive Ltd. is founded in Shenyang as a 50/50 joint venture between the BMW Group and Brilliance.",
+      "event_zh": "华晨宝马汽车有限公司在沈阳成立，为宝马集团与华晨各持股 50% 的合资企业。",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2014",
+      "event_en": "Brilliance China reports that a premium MPV under the new Huasong brand was introduced at the end of 2014.",
+      "event_zh": "华晨中国年报记载，华颂新品牌的高端 MPV 于 2014 年末推出。",
+      "source_ids": [
+        "s31"
+      ]
+    },
+    {
+      "date": "2017-12-15",
+      "event_en": "Renault and Brilliance China announce Renault Brilliance Jinbei Automotive: Renault acquires 49% of the existing operating company, with Brilliance China retaining 51%.",
+      "event_zh": "雷诺与华晨中国宣布组建华晨雷诺金杯：雷诺收购原运营主体 49% 股权，华晨中国保留 51%。",
+      "source_ids": [
+        "s19"
+      ]
+    },
+    {
+      "date": "2020-11-20",
+      "event_en": "The Shenyang Intermediate People's Court accepts a creditor's bankruptcy-reorganization application against Brilliance Auto Group.",
+      "event_zh": "沈阳市中级人民法院裁定受理债权人对华晨汽车集团的重整申请，华晨进入破产重整程序。",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2022-02-11",
+      "event_en": "BMW's stake in BMW Brilliance rises to 75%, effective 11 February 2022; Brilliance China indirectly retains 25%.",
+      "event_zh": "宝马在华晨宝马的持股比例于 2022 年 2 月 11 日提高至 75%；华晨中国间接持有其余 25%。",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2023-08-02",
+      "event_en": "The Shenyang Intermediate People's Court approves the substantive-merger reorganization plan for Brilliance Auto Group and 11 other entities, ending the reorganization proceedings.",
+      "event_zh": "沈阳市中级人民法院裁定批准华晨汽车集团等 12 家企业实质合并重整计划，并终止重整程序。",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2024-03-15",
+      "event_en": "Brilliance Auto Group's 100% equity is transferred to Shenyang Automobile Co., Ltd., completing the reorganization's key asset-delivery step.",
+      "event_zh": "华晨汽车集团 100% 股权过户至沈阳汽车有限公司名下，完成重整资产交割的关键一步。",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2024-11-04",
+      "event_en": "Zhang Yue is appointed chairman of Brilliance China.",
+      "event_zh": "张悦获委任为华晨中国董事会主席。",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2025-04",
+      "event_en": "Brilliance China and TCL establish the YuXin joint venture (50/50, total investment RMB 1.4 billion) for smart-cockpit and display components.",
+      "event_zh": "华晨中国与 TCL 正式成立驭新合资企业（各持 50%，总投资 14 亿元），从事智能座舱与显示组件业务。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "Jinbei Automobile announces completion of registration for internal changes involving its controlling shareholder's ownership structure. Its controlling shareholder, indirect controlling shareholder and ultimate controller remain unchanged.",
+      "event_zh": "金杯汽车公告控股股东持股结构内部调整相关工商变更登记完成；控股股东、间接控股股东及实际控制人均未发生变化。",
+      "source_ids": [
+        "s22"
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "event_en": "Liaoning Shenhua Holdings Co., Ltd. completes the final 1.11% share transfer in an internal restructuring. Shenyang Automobile Group's controlled entities retain a combined 26.51%; the controlling shareholder, indirect controlling shareholder and ultimate controller remain unchanged.",
+      "event_zh": "辽宁申华控股股份有限公司内部调整的最后 1.11% 股份划转完成；沈阳汽车集团所属主体合计持股仍为 26.51%，控股股东、间接控股股东及实际控制人均未发生变化。",
+      "source_ids": [
+        "s30",
+        "s23"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "event_en": "The YuXin Zhixing Shenyang plant, Liaoning's first automotive smart-display maker, officially starts production.",
+      "event_zh": "驭新智行沈阳工厂正式投产，为辽宁省首家汽车智能显示屏生产企业。",
+      "source_ids": [
+        "s15"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "BMW Brilliance (华晨宝马)",
+      "name_zh": "华晨宝马",
+      "role_en": "Premium passenger-vehicle joint venture with the BMW Group, producing and selling BMW-brand vehicles and components in China.",
+      "role_zh": "与宝马集团合资的高端乘用车企业，在中国生产、销售宝马品牌汽车及零部件。",
+      "price_band": "Premium segment",
+      "founded": 2003,
+      "owner_note_en": "Founded in May 2003; since 11 February 2022 BMW holds 75% and Brilliance China holds 25%. The Shenyang base (Dadong, Tiexi and Lydia plants plus a powertrain plant) is BMW's largest production base worldwide, with more than RMB 116 billion invested since 2010, over 20,000 employees and about 460 local suppliers; it has been Shenyang's largest taxpayer for 19 consecutive years and Liaoning's largest for 9 consecutive years. Domestic sales were 709,954 units in 2023, 603,807 in 2024 and 534,001 in 2025 (-11.6% year on year); 2025 included 47,762 BEVs, and exports were 2,162 units. The long-wheelbase Neue Klasse BMW iX3 was presented at the 2026 Beijing auto show, with market launch planned for the fourth quarter of 2026.",
+      "owner_note_zh": "2003 年 5 月成立；自 2022 年 2 月 11 日起宝马持股 75%、华晨中国持股 25%。沈阳基地（大东、铁西、里达三大整车工厂及动力总成工厂）为宝马全球最大生产基地，2010 年以来累计投资超 1160 亿元、员工逾 2 万人、本土供应商约 460 家，连续 19 年为沈阳最大纳税企业、连续 9 年为辽宁省最大纳税企业。国内销量 2023 年 709,954 辆、2024 年 603,807 辆、2025 年 534,001 辆（同比 -11.6%）；2025 年其中纯电 47,762 辆，出口 2,162 辆。新世代长轴距版 BMW iX3 于 2026 北京车展亮相，宝马于 2026 年 4 月 24 日宣布计划在当年第四季度上市。",
+      "status": "active",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s1",
+        "s5",
+        "s13"
+      ]
+    },
+    {
+      "name_en": "Jinbei (金杯)",
+      "name_zh": "金杯",
+      "role_en": "Light commercial vehicle (minibus/van/MPV) brand, operated by Brilliance China's subsidiary Jinbei (Shenyang) Automotive Co., Ltd. (formerly Renault Brilliance Jinbei).",
+      "role_zh": "轻型商用车（轻客/面包车/MPV）品牌，由华晨中国附属公司金杯（沈阳）汽车有限公司（原华晨雷诺金杯）运营。",
+      "price_band": "Light commercial vehicle segment",
+      "founded": 1989,
+      "owner_note_en": "The Jinbei brand dates to 1989 and is operated by Jinbei (Shenyang) Automotive, a Brilliance China subsidiary. The April 2026 listed-company disclosure records shareholders including Shenyang Jinbei Automobile Industry Holdings (58.63%), Shenyang Xingyuandong Auto Parts (28.71%) and Renault SAS (12.24%). Brilliance China reported 2,815 minibuses and MPVs sold by Jinbei (Shenyang) in H1 2026, compared with 277 in H1 2025. Its interim report sets out plans for CNG, automatic-transmission and overseas customised models, an Egyptian KD project and expansion into South America including Bolivia.",
+      "owner_note_zh": "金杯品牌诞生于 1989 年，由华晨中国附属公司金杯（沈阳）汽车运营。2026 年 4 月上市公司公告列示股东包括沈阳金杯汽车工业控股（58.63%）、沈阳兴远东汽车零部件（28.71%）及雷诺（12.24%）。华晨中国披露金杯（沈阳）2026 年上半年售出 2,815 辆轻型客车及多用途车，2025 年同期为 277 辆。中期报告列示 CNG、自动挡及海外定制车型、埃及 KD 项目和包括玻利维亚在内的南美市场拓展计划。",
+      "status": "active",
+      "source_ids": [
+        "s26",
+        "s14",
+        "s4"
+      ]
+    },
+    {
+      "name_en": "Zhonghua (中华)",
+      "name_zh": "中华",
+      "role_en": "Historical own-brand passenger-car business associated with Brilliance Auto Group Holdings.",
+      "role_zh": "华晨汽车集团控股有限公司历史上的自主乘用车业务。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "The group's 2024 financial-statement notes record the purchase of Zhonghua sedan-related assets and liabilities from Shenyang Brilliance Jinbei Automobile in 2009, followed by direct production and operation. A brand launch year, current production status and subsequent asset-sale terms have not been verified from primary sources and are not asserted here.",
+      "owner_note_zh": "集团 2024 年财务报表附注记载，2009 年从沈阳华晨金杯汽车购入中华轿车相关资产负债，并直接生产经营中华轿车。创牌年份、当前生产状态及后续资产出售条款未取得一手来源核实，本页不作断言。",
+      "status": "historical",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "name_en": "Huasong (华颂)",
+      "name_zh": "华颂",
+      "role_en": "Historical premium MPV brand; Brilliance China reports introducing its new Huasong-brand MPV in late 2014.",
+      "role_zh": "历史高端 MPV 品牌；华晨中国年报记载其华颂新品牌 MPV 于 2014 年末推出。",
+      "price_band": null,
+      "founded": 2014,
+      "owner_note_en": "Brilliance China's 2014 annual report supports the 2014 launch year. Renault's 15 December 2017 announcement lists Huasong among the three brands then planned for the joint venture, alongside Jinbei and Renault. That plan does not establish later production status. No cessation date or current production status is asserted without a verified primary disclosure.",
+      "owner_note_zh": "华晨中国 2014 年年报支持创牌年份为 2014 年。雷诺 2017 年 12 月 15 日公告将华颂与金杯、雷诺并列为合资企业当时计划生产的三个品牌；该计划不能证明之后的生产状态。未获得可核实的一手披露，不写停产时间或当前生产状态。",
+      "status": "historical",
+      "source_ids": [
+        "s31",
+        "s19"
+      ]
+    },
+    {
+      "name_en": "Renault Brilliance Jinbei / Jinbei (Shenyang) Automotive",
+      "name_zh": "华晨雷诺金杯（现金杯(沈阳)汽车）",
+      "role_en": "Joint venture announced by Renault and Brilliance China on 15 December 2017 (initial ownership: Brilliance China 51%, Renault 49%); now called Jinbei (Shenyang) Automotive Co., Ltd., a Brilliance China operating subsidiary.",
+      "role_zh": "雷诺与华晨中国于 2017 年 12 月 15 日宣布组建的合资企业（最初华晨中国 51%、雷诺 49%）；现名金杯（沈阳）汽车有限公司，为华晨中国经营中的附属公司。",
+      "price_band": "Light commercial vehicle segment",
+      "founded": 2017,
+      "owner_note_en": "Formed on 15 December 2017 to operate the Jinbei light-vehicle business. Per an April 2026 disclosure, the entity has shareholders including: Shenyang Jinbei Automobile Industry Holdings Co., Ltd. 58.63%, Shenyang Xingyuandong Auto Parts Co., Ltd. 28.71%, and Renault SAS 12.24%, plus several minor holders; registered capital US$324.9126 million. The entity is now a subsidiary of Brilliance China.",
+      "owner_note_zh": "2017 年 12 月 15 日组建，承接金杯轻型车业务。据 2026 年 4 月公告，该主体股东为沈阳金杯汽车工业控股有限公司 58.63%、沈阳兴远东汽车零部件有限公司 28.71%、雷诺简化股份有限公司 12.24% 及多家小股东；注册资本 32491.2552 万美元。该主体现为华晨中国附属公司。",
+      "status": "active",
+      "source_ids": [
+        "s14",
+        "s19",
+        "s4"
+      ]
+    },
+    {
+      "name_en": "YuXin (驭新)",
+      "name_zh": "驭新",
+      "role_en": "Brilliance China's 50/50 joint venture with TCL (agreement signed December 2024, established April 2025) developing smart-cockpit and display components.",
+      "role_zh": "华晨中国与 TCL 各持 50% 的合资企业（2024 年 12 月签约、2025 年 4 月成立），从事智能座舱及显示组件业务。",
+      "price_band": "Components (not vehicles)",
+      "founded": 2025,
+      "owner_note_en": "Brilliance China invested RMB 700 million in cash for a 50% stake (total investment RMB 1.4 billion). In FY2025 Brilliance China's share of YuXin's loss was RMB 62.1 million; in H1 2026 the share of loss was RMB 62.010 million, versus RMB 11.583 million in H1 2025. Its Shenyang plant (gross floor area about 25,000 sqm, with a planned layout of 10 SMT and 20 final-assembly lines) started production on 8 June 2026; the interim report discloses that five dedicated production lines had been installed and commissioned by the first half of 2026.",
+      "owner_note_zh": "华晨中国以现金 7 亿元出资持股 50%（总投资 14 亿元）。2025 财年华晨中国应占驭新亏损 62.1 百万元；2026 年上半年应占亏损 62.010 百万元，2025 年同期为 11.583 百万元。其沈阳工厂（总建筑面积约 2.5 万平方米，规划布局 10 条 SMT 与 20 条总装生产线）于 2026 年 6 月 8 日投产；中期报告披露，截至 2026 年上半年已安装并调试 5 条专用生产线。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s4",
+        "s15"
+      ]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Hong Kong Financial Reporting Standards (HKFRS)",
+    "rows": [
+      {
+        "fiscal_year": 2023,
+        "revenue": 1121.454,
+        "gross_margin_pct": 25.7,
+        "net_profit": 7734.993,
+        "rnd": 31.59,
+        "share_of_associates": 7796.829,
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 1095.949,
+        "gross_margin_pct": 17.7,
+        "net_profit": 3101.075,
+        "rnd": 55.25,
+        "share_of_associates": 4361.37,
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 1181.922,
+        "gross_margin_pct": 13.8,
+        "net_profit": 1985.686,
+        "rnd": 107.144,
+        "share_of_associates": 2566.256,
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "note_en": "Scope: every annual row in this table is Brilliance China Automotive Holdings Limited (01114.HK), a related listed company, in RMB million under HKFRS; none is a consolidated figure for the research subject Brilliance Auto Group Holdings. Brilliance Group has published 2023 financial statements and unaudited H1 2024 consolidated statements. The latter report revenue of RMB 5,276,918,311.57 for January–June 2024 (s28, p.40), not a full-year amount. CICC's 10 May 2024 trustee report confirms publication of the 2023 statements and a disclaimer of audit opinion by Tianzhi International (s29, pp.1–2); disclosure exists but carries audit limitations. Brilliance Group's PRC-accounting-standard figures are not mixed into this HKFRS table, and no unverified latest group figure is substituted with Brilliance China data. The present ownership chain is Shenyang Automobile Group → directly wholly-owned Shenyang Sanshi → about 29.99% of Brilliance China; Brilliance China indirectly holds 25% of BMW Brilliance (s4, pp.43–44; s8). The investment and its earnings belong to the Brilliance China reporting perimeter. 'net_profit' is profit attributable to equity holders of Brilliance China. 'rnd' is expensed research and development costs, not total R&D investment including capitalised amounts (2023: 31.590; 2024: 55.250; 2025: 107.144). Gross margin is gross profit divided by revenue, rounded to one decimal place. 'share_of_associates' covers all associates: RMB 2,566.256 million in 2025, distinct from the separately reported approximately RMB 2,597 million share of BMW Brilliance profit (s1).",
+    "note_zh": "口径：本表各年度行均为关联上市公司华晨中国汽车控股有限公司（01114.HK）按香港财务报告准则（HKFRS）编制的数据，单位为百万元人民币，均非研究主体华晨汽车集团控股有限公司的合并数据。华晨集团已披露 2023 年度财务报表及未经审计的 2024 年半年度合并报表；后者 2024 年 1—6 月合并营业收入为人民币 5,276,918,311.57 元（s28，第 40 页），不是全年数。中金公司 2024 年 5 月 10 日受托管理报告确认 2023 年报表已披露，且天职国际出具无法表示意见的审计报告（s29，第 1—2 页）；应说明审计限制，不能称为未披露。华晨集团的企业会计准则数据不与本表 HKFRS 数据混列，未经核实的集团最新数据也不以华晨中国数字替代。现时股权链为沈阳汽车集团→直接全资子公司沈阳三实→华晨中国约 29.99%，华晨中国间接持有华晨宝马 25%（s4，第 43—44 页；s8）；相关投资及其业绩属于华晨中国报表口径。「net_profit」为华晨中国股权持有人应占溢利；「rnd」仅为费用化研发成本，不含资本化部分等全部研发投入（2023 年 31.590、2024 年 55.250、2025 年 107.144）。毛利率按毛利除以收益计算，保留一位小数。「share_of_associates」包括全部联营公司，2025 年为 2,566.256 百万元，与单独披露的应占华晨宝马溢利约 2,597 百万元区分（s1）。",
+    "source_ids": [
+      "s1",
+      "s2",
+      "s27",
+      "s28",
+      "s29",
+      "s4",
+      "s8"
+    ]
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Brilliance Auto refers here to Brilliance Auto Group Holdings Co., Ltd., a Shenyang-based company established on 16 September 2002. It entered bankruptcy reorganization in November 2020; the court approved the plan and terminated proceedings on 2 August 2023, and its 100% equity was transferred to Shenyang Automobile on 15 March 2024 <a href=\"https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf\">[s27]</a>. An April 2026 listed-company announcement identifies Shenyang Automobile Group as its sole shareholder <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a>.</p><p>Brilliance China Automotive Holdings Limited (01114.HK) is a separate related listed company. Its 2026 interim report identifies Shenyang Sanshi as a directly wholly-owned subsidiary of Shenyang Automobile Group holding about 29.99% of Brilliance China <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>. Brilliance China indirectly holds 25% of BMW Brilliance <a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a>. This disclosed ownership chain does not pass through Brilliance Auto Group Holdings; the BMW investment and the associated earnings discussed below are Brilliance China figures <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a><a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>.</p><p>Brilliance Group has disclosed its own consolidated accounts, including unaudited H1 2024 revenue of RMB 5,276,918,311.57 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2024-08-30/152218_20240830_81LO.pdf\">[s28]</a>. Its 2023 accounts received a disclaimer of audit opinion <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2024-05-10/155651_20240510_BT6N.pdf\">[s29]</a>. Separately, Brilliance China reports BMW investment income, Jinbei vehicles, components and auto-finance operations; those activities provide related-company context rather than a current consolidated business profile for Brilliance Group <a href=\"https://www.brillianceauto.com/en/company/overview.html\">[s6]</a>.</p>",
+      "zh": "<p>本页研究主体为华晨汽车集团控股有限公司，总部位于沈阳，成立于 2002 年 9 月 16 日。集团于 2020 年 11 月进入破产重整，法院于 2023 年 8 月 2 日批准重整计划并终止重整程序，2024 年 3 月 15 日其 100% 股权过户至沈阳汽车名下 <a href=\"https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf\">[s27]</a>。2026 年 4 月上市公司公告列示其唯一股东为沈阳汽车集团有限公司 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a>。</p><p>华晨中国汽车控股有限公司（01114.HK）是另一家关联上市公司。其 2026 年中期报告明确，沈阳三实是沈阳汽车集团的直接全资子公司，持有华晨中国约 29.99% 股份 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>；华晨中国间接持有华晨宝马 25% 股权 <a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a>。这条已披露股权链不经过华晨集团，下文所述宝马投资及其利润贡献均属于华晨中国口径 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a><a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>。</p><p>华晨集团已披露自身合并报表，其中未经审计的 2024 年上半年合并营业收入为人民币 5,276,918,311.57 元 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2024-08-30/152218_20240830_81LO.pdf\">[s28]</a>；其 2023 年度财务报表的审计意见为无法表示意见 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2024-05-10/155651_20240510_BT6N.pdf\">[s29]</a>。华晨中国另行披露宝马投资收益、金杯整车、零部件与汽车金融业务；这些信息用于说明关联企业情况，不代表华晨集团现时的合并业务结构 <a href=\"https://www.brillianceauto.com/en/company/overview.html\">[s6]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Related-company businesses and ownership</h3><p>Brilliance China's principal activities are, through its 25%-owned associate BMW Brilliance, the manufacture and sale of BMW vehicles and components; through subsidiaries the manufacture and sale of Jinbei (Shenyang) minibuses and multi-purpose vehicles and of automotive components (Ningbo Yumin Machinery, Mianyang Brilliance Ruian); and auto financing through Brilliance-BEA Auto Finance <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a>. It also indirectly holds a 31.20% interest in engine maker Xinchen China Power Holdings <a href=\"https://www.brillianceauto.com/en/company/overview.html\">[s6]</a>. On the ownership side, Shenyang Automobile Group Co., Ltd. (formerly Shenyang Automobile Co., Ltd.) wholly owns Brilliance Auto Group Holdings, and indirectly holds about 29.99% of Brilliance China through its directly wholly-owned subsidiary Shenyang Sanshi Automobile Industry Development Co., Ltd. <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>. The December 2025 changes at Jinbei Automobile (600609.SH) and the April 2026 changes at Liaoning Shenhua Holdings Co., Ltd. (600653.SH) were internal ownership adjustments within the existing Shenyang Automobile Group control structure. Both companies explicitly stated that their controlling shareholders, indirect controlling shareholders and ultimate controllers remained unchanged <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-12/2025-12-17/11852229.PDF\">[s22]</a><a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-29/12245344.PDF\">[s30]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-27/1225510428.PDF\">[s23]</a>.</p><h3>BMW Brilliance</h3><p>Founded in May 2003, BMW Brilliance is a premium passenger-vehicle joint venture; since 11 February 2022 BMW holds 75% and Brilliance China 25% <a href=\"https://www.bmw-brilliance.cn/cn/zh/company/profile.html\">[s7]</a><a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a>. Its Shenyang base (Dadong, Tiexi and Lydia plants plus a powertrain plant) is BMW's largest production base worldwide, with more than RMB 116 billion invested since 2010, over 20,000 employees and about 460 local suppliers, and has been Shenyang's largest taxpayer for 19 consecutive years <a href=\"https://www.bmw-brilliance.cn/cn/zh/company/profile.html\">[s7]</a>. BMW Brilliance domestic sales fell to 534,001 units in 2025 from 603,807 in 2024 (-11.6%); 2025 included 47,762 BEVs, and exports were 2,162 units (down 89.8% from 21,284 in 2024) <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>. The 2025 top sellers were the 3 Series (180,457 units), 5 Series (126,444), X3 (82,850), X5 (72,400) and X1 (63,004) <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>.</p><h3>Jinbei and commercial vehicles</h3><p>The Jinbei brand (born 1989) is operated by Brilliance China's subsidiary Jinbei (Shenyang) Automotive <a href=\"https://www.brillianceauto.com/sc/brands/jinbei.html\">[s26]</a><a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a>. Its interim report describes plans for CNG, automatic-transmission and overseas customised vehicles <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</p><h3>Brilliance China: components and auto finance</h3><p>The components arm Ningbo Yumin supplies aluminium structural parts for BYD models, while Mianyang Ruian has entered the supplier systems of Chery and Quanchai; the auto-finance subsidiary Brilliance-BEA Auto Finance is diversifying toward NEV manufacturers <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>. The YuXin smart-cockpit joint venture with TCL started production at its Shenyang plant on 8 June 2026 <a href=\"https://www.ln.gov.cn/web/qmzx/yhyshjzt/dt/2026060909123028157/index.shtml\">[s15]</a>.</p><h3>Brilliance China results (H1 2026)</h3><p>For the six months ended 30 June 2026, Brilliance China reported revenue of RMB 676 million (up 20.3% year on year) and profit attributable to equity holders of RMB 779 million (down 54.2%); the share of results of associates was RMB 974 million (down 52.5%) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>. BMW Brilliance sold 212,782 vehicles in H1 2026 (-18.8%), including 14,442 BEVs (-50.0%) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>. Jinbei (Shenyang) sold 2,815 light buses and multi-purpose vehicles, up from 277 in H1 2025; the board declared an interim dividend of HKD 0.50 per share <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</p>",
+      "zh": "<h3>关联公司业务与股权</h3><p>华晨中国的主要业务为：透过持股 25% 的联营公司华晨宝马制造及销售宝马汽车及零部件；透过附属公司制造及销售金杯（沈阳）面包车及多用途车，以及汽车零部件（宁波裕民机械、绵阳华晨瑞安）；并透过华晨东亚汽车金融提供汽车金融服务 <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a>。此外还间接持有发动机企业新晨中国动力 31.20% 权益 <a href=\"https://www.brillianceauto.com/en/company/overview.html\">[s6]</a>。股权方面，沈阳汽车集团有限公司（前称沈阳汽车有限公司）全资持有华晨汽车集团控股有限公司，并通过其直接全资附属公司沈阳三实汽车产业发展有限公司间接持有华晨中国约 29.99% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。金杯汽车（600609.SH）2025 年 12 月、辽宁申华控股（600653.SH）2026 年 4 月完成的调整，均属既有沈阳汽车集团控制体系内的持股结构内部调整。两家公司均明确公告：控股股东、间接控股股东及实际控制人不发生变化 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-12/2025-12-17/11852229.PDF\">[s22]</a><a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-29/12245344.PDF\">[s30]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-27/1225510428.PDF\">[s23]</a>。</p><h3>华晨宝马</h3><p>华晨宝马成立于 2003 年 5 月，是高端乘用车合资企业；自 2022 年 2 月 11 日起宝马持股 75%、华晨中国持股 25% <a href=\"https://www.bmw-brilliance.cn/cn/zh/company/profile.html\">[s7]</a><a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a>。其沈阳基地（大东、铁西、里达三大整车工厂及动力总成工厂）为宝马全球最大生产基地，2010 年以来累计投资超 1160 亿元、员工逾 2 万人、本土供应商约 460 家，连续 19 年为沈阳最大纳税企业 <a href=\"https://www.bmw-brilliance.cn/cn/zh/company/profile.html\">[s7]</a>。华晨宝马国内销量由 2024 年 603,807 辆降至 2025 年 534,001 辆（-11.6%）；2025 年其中纯电 47,762 辆，出口 2,162 辆（较 2024 年 21,284 辆减少 89.8%） <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>。2025 年主力车型依次为 3 系（180,457 辆）、5 系（126,444 辆）、X3（82,850 辆）、X5（72,400 辆）、X1（63,004 辆） <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>。</p><h3>金杯与商用车</h3><p>金杯品牌（诞生于 1989 年）由华晨中国附属公司金杯（沈阳）汽车运营 <a href=\"https://www.brillianceauto.com/sc/brands/jinbei.html\">[s26]</a><a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a>。中期报告列示 CNG、自动挡与海外定制车型计划 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</p><h3>华晨中国：零部件与汽车金融</h3><p>零部件企业宁波裕民为比亚迪多款车型供应铝合金车身结构件并实现量产，绵阳瑞安进入奇瑞及全柴供应商体系；汽车金融平台华晨东亚汽车金融正加大对新能源整车厂商的业务拓展 <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>。与 TCL 的驭新智能座舱合资企业沈阳工厂于 2026 年 6 月 8 日投产 <a href=\"https://www.ln.gov.cn/web/qmzx/yhyshjzt/dt/2026060909123028157/index.shtml\">[s15]</a>。</p><h3>华晨中国业绩（2026 上半年）</h3><p>截至 2026 年 6 月 30 日止六个月，华晨中国实现收益 6.76 亿元（同比 +20.3%）、本公司股权持有人应占溢利 7.79 亿元（同比 -54.2%），应占联营公司业绩 9.74 亿元（同比 -52.5%） <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。华晨宝马 2026 年上半年销量 212,782 辆（同比 -18.8%），其中纯电 14,442 辆（同比 -50.0%） <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。金杯（沈阳）售出 2,815 辆轻型客车及多用途汽车（2025 年同期为 277 辆）；董事会宣派中期股息每股 0.50 港元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Company formation</h3><p>The financial-statement notes record that Liaoning Province established a working group to receive state-owned Brilliance assets in April 2002 and approved formation of Brilliance Auto Group Holdings in July 2002. The company was incorporated on 16 September 2002 using the net assets of Zhuhai Brilliance Holdings. This institutional establishment is distinct from the incorporation and listing history of Brilliance China <a href=\"https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf\">[s27]</a><a href=\"https://www.brillianceauto.com/en/company/overview.html\">[s6]</a>.</p><h3>Current management</h3><ul><li><strong>Zhang Yue (张悦)</strong> - chairman and CEO of Brilliance China. Appointed executive director and CEO on 11 April 2024 and chairman on 4 November 2024; also a director of BMW Brilliance and, from November 2024, its vice-chairman. He was general manager of Shenyang Automobile Group (formerly Shenyang Automobile Co., Ltd.) from December 2023 to November 2024 and has been its chairman since November 2024; general manager of Brilliance Auto Group Holdings from March 2024 to January 2025 and its executive director from January 2025 to July 2025. Earlier he held posts in Shenyang Dadong District, the Shenyang Communist Youth League and the Shenyang Municipal Party Committee Office; he holds a PhD in political economy from Peking University (2011) and a bachelor's degree from Dalian University of Technology (2006) <a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>.</li><li><strong>Zhang Wei (张巍)</strong> - executive director (since 12 September 2016) and executive vice-president (since 1 October 2022) of Brilliance China; a director of BMW Brilliance since November 2024. He also chairs Shenyang Xingyuandong Auto Parts and Shenyang Jinbei Automobile Industry Holdings, is chairman of Jinbei (Shenyang) Automotive and of Brilliance-BEA Auto Finance, and is chairman and executive director of Xinchen China Power Holdings (1148.HK). He joined Brilliance in 2003 <a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>.</li><li><strong>Guo Hongbo (郭洪波)</strong> - executive director of Brilliance China since 21 March 2025; since August 2024 chairman of Liaoning Provincial Communications Investment Group. Previously he held chairman posts at Liaoning Energy Investment (Group) and Liaoning Energy Industry Holdings Group <a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>.</li><li><strong>Guo Rongjian (郭荣健)</strong> — listed as legal representative of Brilliance Auto Group Holdings in Jinbei Automobile's 11 April 2026 announcement <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a>.</li><li><strong>Wu Xiao'an (吴小安)</strong> — chairman of Brilliance China at the date of its 25 June 2024 announcement. The announcement states that the ICAC completed its investigation, would take no further action, and unconditionally released him from bail on 24 June 2024; the case was closed <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2024_announcements/c_Ann_20240625_chi_2.pdf\">[s12]</a>.</li></ul><h3>Ownership and governance</h3><p>Brilliance Auto Group Holdings is wholly owned by Shenyang Automobile Group Co., Ltd. <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a>. Shenyang Automobile Group indirectly holds about 29.99% of Brilliance China through its directly wholly-owned subsidiary Shenyang Sanshi Automobile Industry Development, and is the single largest shareholder; Brilliance Auto Group Holdings' ultimate controller is the Shenyang Municipal SASAC <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a><a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-29/12245344.PDF\">[s30]</a>. Brilliance China's board consists of seven members - three executive directors and four independent non-executive directors (Song Jian, Jiang Bo, Dong Yang and Zhu Zheyu) <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a><a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>.</p>",
+      "zh": "<h3>公司设立</h3><p>财务报表附注记载，辽宁省于 2002 年 4 月成立接收华晨集团国有资产工作组，同年 7 月批准设立华晨汽车集团控股有限公司，公司以珠海华晨控股净资产注册成立，成立日期为 2002 年 9 月 16 日。该机构设立过程与华晨中国的注册、上市历史须分别说明 <a href=\"https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf\">[s27]</a><a href=\"https://www.brillianceauto.com/en/company/overview.html\">[s6]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>张悦</strong>——华晨中国董事会主席兼行政总裁，2024 年 4 月 11 日任执行董事及行政总裁、2024 年 11 月 4 日任董事会主席；并任华晨宝马董事，自 2024 年 11 月起任其副董事长。2023 年 12 月至 2024 年 11 月任沈阳汽车集团有限公司（前称沈阳汽车有限公司）总经理，自 2024 年 11 月起任其董事长；2024 年 3 月至 2025 年 1 月任华晨汽车集团控股有限公司总经理，2025 年 1 月至 7 月任华晨执行事务的董事。此前曾任沈阳市大东区、共青团沈阳市委及沈阳市委办公室相关职务；2011 年获北京大学政治经济学博士学位，2006 年获大连理工大学学士学位 <a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>。</li><li><strong>张巍</strong>——华晨中国执行董事（2016 年 9 月 12 日起）、执行副总裁（2022 年 10 月 1 日起），自 2024 年 11 月起任华晨宝马董事；并任沈阳兴远东汽车零部件、沈阳金杯汽车工业控股董事长，金杯（沈阳）汽车及华晨东亚汽车金融董事长，且为新晨中国动力（1148.HK）董事会主席兼执行董事。2003 年加入华晨 <a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>。</li><li><strong>郭洪波</strong>——华晨中国执行董事，2025 年 3 月 21 日起任职；自 2024 年 8 月起任辽宁省交通建设投资集团有限责任公司党委书记兼董事长，此前曾任辽宁能源投资（集团）、辽宁省能源产业控股集团董事长 <a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>。</li><li><strong>郭荣健</strong>——金杯汽车 2026 年 4 月 11 日公告列示其为华晨汽车集团控股有限公司法定代表人 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a>。</li><li><strong>吴小安</strong>——华晨中国 2024 年 6 月 25 日公告发布时的董事会主席。公告称香港廉署已完成调查、不采取进一步行动，并于 2024 年 6 月 24 日无条件解除保释，案件完结 <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2024_announcements/c_Ann_20240625_chi_2.pdf\">[s12]</a>。</li></ul><h3>股权与治理</h3><p>华晨汽车集团控股有限公司由沈阳汽车集团有限公司全资持股 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF\">[s14]</a>。沈阳汽车集团有限公司通过其直接全资附属公司沈阳三实汽车产业发展有限公司间接持有华晨中国约 29.99% 股份、为单一最大股东；华晨汽车集团控股有限公司的实际控制人为沈阳市国资委 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a><a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-29/12245344.PDF\">[s30]</a>。华晨中国董事会共七名成员，包括三名执行董事与四名独立非执行董事（宋健、姜波、董扬、朱喆煜） <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a><a href=\"https://brillianceauto.com/sc/company/directors.html\">[s11]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p>Brilliance China indirectly holds 25% of BMW Brilliance; Shenyang Automobile Group holds about 29.99% of Brilliance China through directly wholly-owned Shenyang Sanshi. These investments do not sit in the disclosed ownership chain below Brilliance Auto Group Holdings <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a><a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a>. BMW Brilliance domestic sales fell from 709,954 in 2023 and 603,807 in 2024 to 534,001 in 2025; Jinbei (Shenyang), a Brilliance China subsidiary, sold 2,815 minibuses and MPVs in H1 2026 <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</p><p><strong>Our judgment.</strong> In assessing related-company competition, Mercedes-Benz, Audi and domestic premium NEV makers are relevant comparison groups for BMW Brilliance; SAIC Maxus and Jiangling are relevant comparisons for Jinbei. The sales figures above suggest a large scale gap between the two vehicle businesses within Brilliance China. They do not establish Brilliance Group's own current market share or consolidated sales <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</p><p><strong>Our judgment.</strong> Brilliance China's BMW stake provides equity-method income but also substantial earnings concentration. Its share of all associates' results fell 41.2% in 2025 and 52.5% in H1 2026. The 2025 announcement links weaker BMW Brilliance results to lower volumes and higher dealer support costs. This exposure belongs to Brilliance China; it cannot be used as evidence that Brilliance Group currently owns the BMW interest or earns the corresponding profit <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</p>",
+      "zh": "<p>华晨中国间接持有华晨宝马 25% 股权；沈阳汽车集团通过直接全资子公司沈阳三实持有华晨中国约 29.99%。已披露的这条股权链不经过华晨汽车集团控股有限公司 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a><a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a>。华晨宝马国内销量由 2023 年 709,954 辆、2024 年 603,807 辆降至 2025 年 534,001 辆；华晨中国附属公司金杯（沈阳）2026 年上半年售出 2,815 辆轻型客车及多用途车 <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</p><p><strong>我们的判断。</strong>分析关联企业竞争时，可将奔驰、奥迪及国内高端新能源厂商作为华晨宝马的比较对象，将上汽大通、江铃作为金杯业务的比较对象。上述销量表明华晨中国内部两项整车业务规模相差较大，但不能据此确定华晨集团本身现时的市场份额或合并销量 <a href=\"https://www.brillianceauto.com/en/company/corp_info.html\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</p><p><strong>我们的判断。</strong>华晨中国的宝马股权带来权益法收益，也形成显著的盈利集中度。华晨中国全部联营公司业绩贡献在 2025 年下降 41.2%、2026 年上半年下降 52.5%；2025 年公告将华晨宝马业绩转弱与销量下降及经销商支持费上升联系起来。这是华晨中国的业务敞口，不能用来认定华晨集团现时持有宝马权益或取得对应利润 <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Disclosed related-company plans.</strong> BMW's 24 April 2026 release states that the long-wheelbase Neue Klasse BMW iX3 was presented at the Beijing auto show and is scheduled for market launch in Q4 2026 <a href=\"https://www.press.bmwgroup.com/china/article/attachment/T0457471ZH_CN/648078\">[s13]</a>. Brilliance China's 2026 interim report describes plans to launch local Neue Klasse volume production in H2 2026, introduce Jinbei automatic-transmission, CNG and overseas customised models, deliver the Egyptian KD project and develop South American markets including Bolivia. It reports five dedicated YuXin production lines installed and commissioned, with capacity expansion planned for H2 2026 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>. These are plans of the named related companies.</p><p><strong>Our judgment.</strong> The 52.5% decline in Brilliance China's share of associates' results and the 50.0% decline in BMW Brilliance BEV sales in H1 2026 indicate earnings pressure at the listed company. If Neue Klasse production and customer demand meet the disclosed timetable, the new product cycle could help; a slower ramp or further dealer-support costs could offset that benefit. Jinbei's 2,815 H1 sales and Brilliance China's RMB 62.010 million share of YuXin's H1 loss provide no basis yet for assuming those activities will replace BMW-related earnings. None of this is a forecast for Brilliance Group's consolidated results <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</p>",
+      "zh": "<p><strong>关联公司公开规划。</strong>宝马 2026 年 4 月 24 日新闻稿称，新世代 BMW iX3 长轴距版在北京车展亮相，计划于 2026 年第四季度上市 <a href=\"https://www.press.bmwgroup.com/china/article/attachment/T0457471ZH_CN/648078\">[s13]</a>。华晨中国 2026 年中期报告列示：下半年启动新世代车型本地批量生产；推进金杯自动挡、CNG 与海外定制车型、埃及 KD 项目及包括玻利维亚在内的南美市场；驭新已安装并调试五条专用生产线，计划下半年扩产 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。这些规划均属于上述具名关联企业。</p><p><strong>我们的判断。</strong>2026 年上半年华晨中国应占联营公司业绩下降 52.5%、华晨宝马纯电销量下降 50.0%，显示上市公司的盈利承压。如果新世代车型生产及需求符合已披露进度，新产品周期可能提供帮助；若爬坡较慢或经销商支持费继续上升，则可能抵销其作用。金杯上半年 2,815 辆销量及华晨中国应占驭新上半年 62.010 百万元亏损，尚不足以支持这些业务可替代宝马利润的假设。以上不构成对华晨集团合并业绩的预测 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Group audit limitations.</strong> Brilliance Group published 2023 financial statements, but Tianzhi International issued a disclaimer of audit opinion, as confirmed by CICC's May 2024 trustee report. Its H1 2024 consolidated financial report is unaudited; the issue is audit assurance, rather than absence of disclosure <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2024-05-10/155651_20240510_BT6N.pdf\">[s29]</a><a href=\"https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2024-08-30/152218_20240830_81LO.pdf\">[s28]</a>.</li><li><strong>Reorganization execution.</strong> The court approved Brilliance Group's reorganization plan and terminated proceedings on 2 August 2023; its 100% equity transfer was completed on 15 March 2024. The H1 2024 report states that the companies were in the plan-execution period <a href=\"https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf\">[s27]</a>.</li><li><strong>Brilliance China earnings concentration.</strong> Brilliance China indirectly owns 25% of BMW Brilliance. Brilliance China's share of all associates' results fell 41.2% in 2025 and 52.5% in H1 2026; these are related listed-company figures, not Brilliance Group earnings <a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a><a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</li><li><strong>BMW Brilliance BEV sales.</strong> Sales were 47,762 in 2025 versus 95,083 in 2024. The announcement prints a 48.0% decline, while those volumes imply about 49.8%; both the reported figure and the arithmetic discrepancy are identified here. H1 2026 BEV sales fell 50.0% to 14,442 <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>.</li><li><strong>Brilliance China guarantee-related items.</strong> Its 2025 announcement attributes part of the increase in other net income to an adjustment of excess provisions for unauthorized guarantees. This is a disclosure in Brilliance China's accounts <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>.</li></ul>",
+      "zh": "<ul><li><strong>集团审计限制。</strong>华晨集团已披露 2023 年度财务报表，但天职国际出具无法表示意见的审计报告，中金公司 2024 年 5 月受托管理报告予以确认；集团 2024 年半年度合并财务报告未经审计。问题在于审计保证程度，不能写成未披露 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2024-05-10/155651_20240510_BT6N.pdf\">[s29]</a><a href=\"https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2024-08-30/152218_20240830_81LO.pdf\">[s28]</a>。</li><li><strong>重整计划执行。</strong>法院于 2023 年 8 月 2 日批准华晨集团重整计划并终止重整程序，2024 年 3 月 15 日完成 100% 股权过户；2024 年半年报附注说明相关企业已进入重整计划执行期 <a href=\"https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf\">[s27]</a>。</li><li><strong>华晨中国盈利集中度。</strong>华晨中国间接持有华晨宝马 25% 股权。华晨中国全部联营公司业绩贡献在 2025 年下降 41.2%、2026 年上半年下降 52.5%；这些属于关联上市公司的数字，不是华晨集团利润 <a href=\"https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf\">[s8]</a><a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</li><li><strong>华晨宝马纯电销量。</strong>2025 年为 47,762 辆、2024 年为 95,083 辆；公告列示降幅 48.0%，按所列销量计算约为 49.8%，此处同时指出公告数值及算术差异。2026 年上半年纯电销量下降 50.0% 至 14,442 辆 <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf\">[s4]</a>。</li><li><strong>华晨中国担保相关项目。</strong>其 2025 年公告将部分其他收入净额增长归因于未经授权担保超额拨备的调整；此项披露属于华晨中国财务报表口径 <a href=\"https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf\">[s1]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "华晨中国汽车控股有限公司《截至二零二五年十二月三十一日止年度之业绩公布》",
+      "url": "https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260327_chi.pdf",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "华晨中国汽车控股有限公司《截至二零二四年十二月三十一日止年度之业绩公布》",
+      "url": "https://www.brillianceauto.com/pdf/investor/announcements/2025_announcements/c_Ann_20250321_chi.pdf",
+      "date": "2025-03-21",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "华晨中国汽车控股有限公司《二零二六年中期报告》（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092400344_c.pdf",
+      "date": "2026-09-24",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "Brilliance China 官网《公司资料 Corporate Information》",
+      "url": "https://www.brillianceauto.com/en/company/corp_info.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Brilliance China 官网《公司概览 Company at a Glance》",
+      "url": "https://www.brillianceauto.com/en/company/overview.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "华晨宝马汽车有限公司官网《公司简介》",
+      "url": "https://www.bmw-brilliance.cn/cn/zh/company/profile.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "BMW AG ad hoc 公告《Acquisition of Shares - BMW AG acquires majority stake in BMW Brilliance Automotive Ltd.》",
+      "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2022/adhoc/Ad_hoc-Publication_11.02.2022_EN.pdf",
+      "date": "2022-02-11",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "华晨中国汽车控股有限公司《持续关连交易》公告（载沈阳汽车透过附属公司持有约 29.99%）",
+      "url": "https://www.brillianceauto.com/pdf/investor/announcements/2026_announcements/c_Ann_20260720_chi.pdf",
+      "date": "2026-07-20",
+      "tier": "A"
+    },
+    {
+      "id": "s11",
+      "name": "Brilliance China 官网《董事会》（载董事履历）",
+      "url": "https://brillianceauto.com/sc/company/directors.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s12",
+      "name": "华晨中国汽车控股有限公司《公布》（吴小安调查结案）",
+      "url": "https://www.brillianceauto.com/pdf/investor/announcements/2024_announcements/c_Ann_20240625_chi_2.pdf",
+      "date": "2024-06-25",
+      "tier": "A"
+    },
+    {
+      "id": "s13",
+      "name": "宝马集团官方新闻稿《全新 BMW 7 系及新世代车型领衔，宝马集团携 16 款首秀车型震撼亮相北京车展》（2026 年 4 月 24 日；iX3 长轴距版计划第四季度上市）",
+      "url": "https://www.press.bmwgroup.com/china/article/attachment/T0457471ZH_CN/648078",
+      "date": "2026-04-24",
+      "tier": "A"
+    },
+    {
+      "id": "s14",
+      "name": "金杯汽车股份有限公司公告（临2026-006号，载金杯(沈阳)股东结构）",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225094457.PDF",
+      "date": "2026-04-11",
+      "tier": "A"
+    },
+    {
+      "id": "s15",
+      "name": "辽宁省人民政府《驭新智行沈阳工厂投产》",
+      "url": "https://www.ln.gov.cn/web/qmzx/yhyshjzt/dt/2026060909123028157/index.shtml",
+      "date": "2026-06-09",
+      "tier": "A"
+    },
+    {
+      "id": "s19",
+      "name": "Renault Group 官方新闻稿《Groupe Renault, Brilliance form joint venture to manufacture LCVs in China in three segments with three brands》",
+      "url": "https://media.renaultgroup.com/groupe-renault-brilliance-form-joint-venture-to-manufacture-lcvs-in-china-in-three-segments-with-three-brands/?lang=fra",
+      "date": "2017-12-15",
+      "tier": "A"
+    },
+    {
+      "id": "s22",
+      "name": "金杯汽车《关于控股股东持股结构内部调整进展暨完成工商变更登记的公告》（临 2025-061，第 1—2 页）",
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-12/2025-12-17/11852229.PDF",
+      "date": "2025-12-17",
+      "tier": "A"
+    },
+    {
+      "id": "s23",
+      "name": "辽宁申华控股股份有限公司《2026 年半年度报告》（第 4 页公司名称及 2020 年更名登记）",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225510428.PDF",
+      "date": "2026-08-27",
+      "tier": "A"
+    },
+    {
+      "id": "s26",
+      "name": "Brilliance China 官网《金杯品牌介绍》",
+      "url": "https://www.brillianceauto.com/sc/brands/jinbei.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s27",
+      "name": "华晨汽车集团控股有限公司《2024 年半年度财务报表》（附注第 1—2 页：成立日期及重整）",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-08-30/1221087206.pdf",
+      "date": "2024-08-30",
+      "tier": "A"
+    },
+    {
+      "id": "s28",
+      "name": "华晨汽车集团控股有限公司《公司债券中期报告（2024 年）》（第 40 页合并利润表；财务报告未经审计）",
+      "url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2024-08-30/152218_20240830_81LO.pdf",
+      "date": "2024-08-30",
+      "tier": "A"
+    },
+    {
+      "id": "s29",
+      "name": "中金公司《关于华晨汽车集团控股有限公司 2023 年公司债券年度报告披露有关事项的临时受托管理事务报告》（第 1—2 页：已披露财报及无法表示意见）",
+      "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2024-05-10/155651_20240510_BT6N.pdf",
+      "date": "2024-05-10",
+      "tier": "A"
+    },
+    {
+      "id": "s30",
+      "name": "辽宁申华控股《关于控股股东持股结构内部调整完成的公告》（临 2026-11）",
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-29/12245344.PDF",
+      "date": "2026-04-29",
+      "tier": "A"
+    },
+    {
+      "id": "s31",
+      "name": "华晨中国《2014 年年报》（第 5 页：2014 年末推出华颂新品牌高端 MPV）",
+      "url": "https://www.brillianceauto.com/pdf/investor/annual_reports/AR_HK/e_AR_20150422_eng.pdf",
+      "date": "2015-04-22",
+      "tier": "A"
+    }
+  ]
+}

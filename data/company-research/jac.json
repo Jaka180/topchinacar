@@ -1,0 +1,372 @@
+{
+  "id": "jac",
+  "name_en": "Anhui Jianghuai Automobile Group Corp., Ltd. (JAC)",
+  "name_zh": "安徽江淮汽车集团股份有限公司（江淮汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1964 (predecessor Hefei Jianghuai Automobile Plant; joint-stock company incorporated 1999-09-30)",
+      "value_zh": "1964 年（前身合肥江淮汽车制造厂；股份公司 1999-09-30 设立）",
+      "period": null,
+      "source_ids": ["s1", "s30"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Hefei, Anhui, China",
+      "value_zh": "中国安徽省合肥市",
+      "period": null,
+      "source_ids": ["s1", "s30"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-controlled listed company",
+      "value_zh": "国有控股上市公司",
+      "period": null,
+      "source_ids": ["s2", "s17"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Anhui SASAC. As of 2026-06-30 its controlling shareholder Jianghuai Holdings held 27.35% of JAC; since SASAC owns 50% of Jianghuai Holdings, its indirect economic interest is about 13.68%.",
+      "value_zh": "安徽省人民政府国有资产监督管理委员会。截至 2026-06-30，控股股东江汽控股持有上市公司 27.35% 股权；因国资委持有江汽控股 50% 股权，其间接经济权益约 13.68%。",
+      "period": "2026-06-30",
+      "source_ids": ["s3", "s2"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Shanghai Stock Exchange: 600418 (listed 2001)",
+      "value_zh": "上海证券交易所：600418（2001 年上市）",
+      "period": null,
+      "source_ids": ["s1", "s17"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "22,179",
+      "value_zh": "22,179 人",
+      "period": "2025-12-31",
+      "source_ids": ["s1", "s18"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "RMB 46.57 billion (total operating revenue)",
+      "value_zh": "人民币 465.69 亿元（营业总收入）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Net profit attributable to shareholders (FY2025)",
+      "label_zh": "归母净利润（2025 财年）",
+      "value_en": "RMB -1.70 billion (loss)",
+      "value_zh": "人民币 -17.03 亿元（亏损）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s21"]
+    },
+    {
+      "label_en": "Vehicle sales (2025)",
+      "label_zh": "整车销量（2025 年）",
+      "value_en": "384,100 vehicles and chassis",
+      "value_zh": "38.41 万辆（整车及底盘）",
+      "period": "2025",
+      "source_ids": ["s1", "s18"]
+    },
+    {
+      "label_en": "Overseas sales (exports, 2025)",
+      "label_zh": "海外销量（出口，2025 年）",
+      "value_en": "221,900 vehicles exported",
+      "value_zh": "出口 22.19 万辆",
+      "period": "2025",
+      "source_ids": ["s10", "s1"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1964",
+      "event_en": "Hefei Jianghuai Automobile Plant, the predecessor of JAC, is founded.",
+      "event_zh": "江淮汽车前身合肥江淮汽车制造厂成立。",
+      "source_ids": ["s1", "s30"]
+    },
+    {
+      "date": "1968",
+      "event_en": "JAC produces its first Jianghuai-brand truck, the first automobile built in Anhui Province.",
+      "event_zh": "试制出第一辆江淮牌载货汽车，为安徽省生产的第一辆汽车。",
+      "source_ids": ["s30", "s17"]
+    },
+    {
+      "date": "1990",
+      "event_en": "JAC successfully develops the HFC6700 dedicated bus chassis.",
+      "event_zh": "试制成功 HFC6700 客车专用底盘。",
+      "source_ids": ["s30", "s17"]
+    },
+    {
+      "date": "1999-09-30",
+      "event_en": "Anhui Jianghuai Automobile Group Corp., Ltd. is incorporated as a joint-stock company.",
+      "event_zh": "安徽江淮汽车集团股份有限公司（股份公司）设立。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2001",
+      "event_en": "JAC lists on the Shanghai Stock Exchange under ticker 600418.",
+      "event_zh": "在上海证券交易所上市，股票代码 600418。",
+      "source_ids": ["s1", "s17"]
+    },
+    {
+      "date": "2002",
+      "event_en": "With technology from Hyundai, JAC's first passenger vehicle, the Refine (Ruifeng) MPV, rolls off the line.",
+      "event_zh": "引进韩国现代汽车技术，首款乘用车江淮瑞风 MPV 下线。",
+      "source_ids": ["s30", "s17"]
+    },
+    {
+      "date": "2016-04",
+      "event_en": "JAC signs a strategic agreement with NIO to manufacture NIO's vehicles.",
+      "event_zh": "与蔚来签署战略合作协议，为蔚来代工生产。",
+      "source_ids": ["s30"]
+    },
+    {
+      "date": "2017-12",
+      "event_en": "JAC and Volkswagen establish the 50/50 joint venture JAC-Volkswagen.",
+      "event_zh": "与大众汽车各持股 50% 成立江淮大众。",
+      "source_ids": ["s14", "s30"]
+    },
+    {
+      "date": "2018-04-24",
+      "event_en": "JAC-Volkswagen launches the SOL (Sihao) brand and its first model, the E20X.",
+      "event_zh": "江淮大众发布 SOL（思皓）品牌及首款车型 E20X。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2019-12",
+      "event_en": "JAC and Huawei sign a comprehensive cooperation framework agreement and an MDC platform project agreement.",
+      "event_zh": "与华为在深圳签署全面合作框架协议及 MDC 平台项目合作协议。",
+      "source_ids": ["s13", "s30"]
+    },
+    {
+      "date": "2020-06",
+      "event_en": "Volkswagen China Investment agrees to take 50% of Jianghuai Holdings (JAC's parent) and raise its stake in the JAC-Volkswagen JV to 75%; Anhui SASAC keeps 50% of Jianghuai Holdings and retains control.",
+      "event_zh": "大众中国投资约定取得江汽控股 50% 股权、并将江淮大众持股提高至 75%；安徽省国资委持有江汽控股 50% 股权并仍控制江汽控股。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2020-12",
+      "event_en": "The JV is renamed Volkswagen (Anhui) Automotive Co., Ltd. (Volkswagen Anhui), with Volkswagen holding 75% and JAC 25%.",
+      "event_zh": "合资公司更名为大众汽车（安徽）有限公司（大众安徽），大众持股 75%、江淮持股 25%。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2021-04-26",
+      "event_en": "Xiang Xingchu is elected chairman of JAC, succeeding retiring chairman An Jin.",
+      "event_zh": "项兴初当选董事长，接替因退休卸任的安进。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2021-12-24",
+      "event_en": "Li Ming is first appointed general manager of JAC.",
+      "event_zh": "聘任李明为公司总经理。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2023-12",
+      "event_en": "JAC signs a ten-year intelligent new-energy vehicle cooperation agreement with Huawei; NIO acquires part of JAC's plants for about RMB3.158 billion to obtain independent production qualification.",
+      "event_zh": "与华为签署为期十年的《智能新能源汽车合作协议》；蔚来以约 31.58 亿元受让江淮部分工厂资产以取得独立生产资质。",
+      "source_ids": ["s13", "s16"]
+    },
+    {
+      "date": "2024",
+      "event_en": "The JAC-Huawei brand is named MAEXTRO (Zunjie).",
+      "event_zh": "江淮与华为合作品牌定名为「MAEXTRO 尊界」。",
+      "source_ids": ["s36"]
+    },
+    {
+      "date": "2024-11",
+      "event_en": "The MAEXTRO S800, first product of the JAC-Huawei partnership, makes its public debut at Huawei's Mate brand event.",
+      "event_zh": "江淮与华为合作的首款产品尊界 S800 在华为 Mate 品牌盛典首次公开亮相。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2025-05-30",
+      "event_en": "The MAEXTRO S800 ultra-luxury sedan goes on sale at RMB708,000-1,018,000.",
+      "event_zh": "尊界 S800 超豪华轿车正式上市，售价 70.8 万–101.8 万元。",
+      "source_ids": ["s37", "s1"]
+    },
+    {
+      "date": "2025-11-18",
+      "event_en": "At the first meeting of the ninth board, Xiang Xingchu is re-elected chairman and Li Ming is re-appointed general manager.",
+      "event_zh": "第九届董事会第一次会议，项兴初连任董事长、李明续聘总经理。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-08-05",
+      "event_en": "The MAEXTRO V800 and V680 ultra-luxury MPVs are launched (V680 from RMB648,000; V800 at RMB766,000/866,000/1,016,000), extending the brand beyond sedans.",
+      "event_zh": "尊界 V800、V680 超豪华 MPV 上市（V680 64.8 万元起；V800 76.6 万 / 86.6 万 / 101.6 万元起），品牌由轿车拓展至 MPV。",
+      "source_ids": ["s11"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "JAC (Jianghuai)",
+      "name_zh": "江淮（JAC）",
+      "role_en": "Main brand covering full-line commercial vehicles (light/medium/heavy trucks, pickups, vans) and passenger vehicles.",
+      "role_zh": "主品牌，覆盖全系列商用车（轻/中/重卡、皮卡、轻客）与乘用车。",
+      "price_band": "Not uniformly disclosed",
+      "founded": 1964,
+      "owner_note_en": "Flagship brand of the listed company. Its commercial-vehicle line is organised around 'JAC 1ka' light trucks (launched July 2022), 'JAC 1van' light buses and JAC pickups. In 2025 light trucks ranked second in China, pickups sold over 60,000 units (No.2), and new-energy commercial vehicles sold 20,700 units (+70.76%, No.4).",
+      "owner_note_zh": "上市公司旗舰品牌。商用车产品矩阵以「江淮1卡」轻卡（2022 年 7 月发布）、「江淮1van」轻客与江淮皮卡为核心。2025 年轻卡稳居行业第二，皮卡销售超 6 万辆（行业第二），新能源商用车销售 2.07 万辆（同比增 70.76%，行业第四）。",
+      "status": "active",
+      "source_ids": ["s2", "s22", "s10"]
+    },
+    {
+      "name_en": "MAEXTRO (Zunjie)",
+      "name_zh": "尊界（MAEXTRO）",
+      "role_en": "Ultra-luxury new-energy brand jointly created with Huawei under Huawei's HIMA (Harmony Intelligent Mobility Alliance) partnership model.",
+      "role_zh": "与华为通过鸿蒙智行（HIMA，Harmony Intelligent Mobility Alliance）合作模式联合打造的超豪华新能源品牌。",
+      "price_band": "Selected models listed by HIMA on 2026-10-29: S800 from RMB728,000; V800 from RMB766,000; V680 from RMB648,000; S800 Grand Design from RMB1,388,000",
+      "founded": 2024,
+      "owner_note_en": "The cooperation agreement with Huawei was signed in December 2023, and the joint brand was named MAEXTRO (Zunjie) in 2024. The first model, the MAEXTRO S800, launched on 30 May 2025 at RMB708,000-1,018,000; the V800 and V680 MPVs launched on 5 August 2026 (V680 from RMB648,000; V800 at RMB766,000/866,000/1,016,000). As of 29 October 2026, HIMA listed the S800 from RMB728,000 and the Grand Design edition from RMB1,388,000. In its official news release dated 2 July 2026, JAC reported cumulative S800 deliveries of over 19,000 units.",
+      "owner_note_zh": "江淮与华为于 2023 年 12 月签署合作协议，双方合作品牌于 2024 年定名为「MAEXTRO 尊界」。首款车型尊界 S800 于 2025 年 5 月 30 日上市（70.8 万–101.8 万元），V800、V680 MPV 于 2026 年 8 月 5 日上市（V680 64.8 万元起；V800 76.6 万 / 86.6 万 / 101.6 万元起）。截至 2026 年 10 月 29 日，鸿蒙智行官网列示 S800 72.8 万元起、典藏大观版 138.8 万元起。公司 2026 年 7 月 2 日官网新闻披露，尊界 S800 累计交付超 1.9 万辆。",
+      "status": "active",
+      "source_ids": ["s11", "s30", "s36", "s10", "s37", "s38", "s39"]
+    },
+    {
+      "name_en": "Refine (Ruifeng)",
+      "name_zh": "瑞风（Refine）",
+      "role_en": "MPV brand for business and official use.",
+      "role_zh": "面向公商务领域的 MPV 品牌。",
+      "price_band": "Not separately disclosed",
+      "founded": 2002,
+      "owner_note_en": "JAC's first passenger-vehicle line, launched in 2002 with Hyundai technology. In 2024 it launched the Refine RF8, equipped with Huawei's in-car system.",
+      "owner_note_zh": "江淮首条乘用车产品线，2002 年引进现代技术推出瑞风 MPV。2024 年推出搭载华为车机系统的瑞风 RF8。",
+      "status": "active",
+      "source_ids": ["s30", "s36"]
+    },
+    {
+      "name_en": "JAC Yttrium (Yiwei)",
+      "name_zh": "江淮钇为",
+      "role_en": "New-energy passenger-vehicle brand launched in April 2023.",
+      "role_zh": "2023 年 4 月发布的新能源乘用车品牌。",
+      "price_band": "Yiwei 3 launched at RMB89,900-127,900",
+      "founded": 2023,
+      "owner_note_en": "Announced in April 2023 as JAC's mass-market new-energy passenger-vehicle brand; its first model, the Yiwei 3, launched in June 2023 at RMB89,900-127,900. In April 2026, passenger-vehicle marketing general manager Feng Liangsen said Yiwei would in future focus mainly on exports, with domestic sales secondary, and that it had been folded into a unified 'JAC Passenger Vehicle' marketing system.",
+      "owner_note_zh": "2023 年 4 月发布的大众消费市场新能源乘用车品牌，首款车型钇为 3 于 2023 年 6 月上市（8.99 万–12.79 万元）。2026 年 4 月，乘用车营销事业部总经理冯梁森表示，钇为未来以出口为主、国内为辅，相关板块已统一纳入「江淮乘用车」营销体系。",
+      "status": "active",
+      "source_ids": ["s16", "s22", "s32", "s33"]
+    },
+    {
+      "name_en": "SOL (Sihao)",
+      "name_zh": "思皓（SOL）",
+      "role_en": "New-energy passenger-vehicle brand originating from the JAC-Volkswagen JV.",
+      "role_zh": "新能源乘用车品牌，源于江淮大众合资。",
+      "price_band": null,
+      "founded": 2018,
+      "owner_note_en": "The SOL (Sihao) brand and its first model, the E20X, were unveiled on 24 April 2018. In 2020, Volkswagen raised its stake in the JV to 75% and it was renamed Volkswagen Anhui. No first-party announcement of a complete brand withdrawal was located, so the entry is not marked discontinued.",
+      "owner_note_zh": "SOL（思皓）品牌及首款车型 E20X 于 2018 年 4 月 24 日发布。2020 年大众将合资公司持股提高至 75% 并更名为大众安徽。未找到品牌全面停用的一手公告，未将其标记为已停用。",
+      "status": "active",
+      "source_ids": ["s14", "s16", "s33"]
+    },
+    {
+      "name_en": "Volkswagen Anhui",
+      "name_zh": "大众安徽（大众汽车（安徽）有限公司）",
+      "role_en": "New-energy vehicle joint venture with Volkswagen (Volkswagen 75% / JAC 25%).",
+      "role_zh": "与大众汽车合资的新能源汽车公司（大众 75% / 江淮 25%）。",
+      "price_band": "Not disclosed",
+      "founded": 2017,
+      "owner_note_en": "Established in 2017 as the 50/50 JAC-Volkswagen JV; Volkswagen raised its stake to 75% in 2020 and the JV was renamed Volkswagen Anhui. Financial information on Volkswagen Anhui in JAC's FY2025 annual report shows net losses of about RMB5.35 billion in 2024 and RMB4.31 billion in 2025; JAC's H1 2026 report shows a net loss of about RMB2.31 billion for that period. As of 30 June 2026, JAC still had RMB812.5 million in unpaid equity subscriptions to the JV.",
+      "owner_note_zh": "2017 年以江淮大众 50/50 合资形式成立；2020 年大众将持股提高至 75% 并更名为大众安徽。按江淮 2025 年年报披露的大众安徽财务信息，2024 年净亏损约 53.47 亿元、2025 年约 43.09 亿元；2026 年半年报列示其当期净亏损约 23.10 亿元。截至 2026 年 6 月 30 日，江淮对大众安徽仍有 8.125 亿元股权认购款尚未支付。",
+      "status": "active",
+      "source_ids": ["s9", "s1", "s3"]
+    },
+    {
+      "name_en": "Ankai Bus",
+      "name_zh": "安凯客车",
+      "role_en": "Bus and coach manufacturing subsidiary, separately listed (SZSE 000868).",
+      "role_zh": "客车（公交、旅游客车）制造子公司，独立上市（深交所 000868）。",
+      "price_band": "Not disclosed",
+      "founded": null,
+      "owner_note_en": "JAC is Ankai's controlling shareholder. JAC's bus segment (Ankai and related entities) contributed RMB3.16 billion revenue in 2025.",
+      "owner_note_zh": "江淮为安凯客车的控股股东。2025 年江淮客车业务（安凯及关联主体）收入 31.57 亿元。",
+      "status": "active",
+      "source_ids": ["s1", "s18"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (CAS)",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 45016, "gross_margin_pct": 10.5, "net_profit": 152, "rnd": 2235, "ocf": 3396, "source_ids": ["s4", "s5", "s6"] },
+      { "fiscal_year": 2024, "revenue": 42202, "gross_margin_pct": 10.5, "net_profit": -1784, "rnd": 3464, "ocf": 2711, "source_ids": ["s4", "s5"] },
+      { "fiscal_year": 2025, "revenue": 46569, "gross_margin_pct": 12.3, "net_profit": -1703, "rnd": 4179, "ocf": 3395, "source_ids": ["s1", "s2"] }
+    ],
+    "note_en": "Fiscal year ends December 31. Figures are under PRC GAAP (Accounting Standards for Business Enterprises), in RMB millions, rounded to the nearest million. 'revenue' is total operating revenue (营业总收入): RMB45,016m, RMB42,202m and RMB46,569m for FY2023-2025 respectively (operating revenue 营业收入 was RMB44,940m, RMB42,116m and RMB46,476m). 'gross_margin_pct' is the comprehensive gross margin, rounded to one decimal: FY2025 is the disclosed 12.28%; FY2024 is about 10.5%; FY2023 is about 10.48% (shown as 10.5%) computed from the restated 2023 comparative cost of sales of RMB40,231m in the 2024 annual report — the original 2023 annual report showed cost of sales of RMB39,866m, implying about 11.29%. 'net_profit' is profit attributable to owners of the parent (归母净利润), not attributable to ordinary shareholders; in FY2025 total net profit including minority interests was RMB-1,772m versus RMB-1,703m attributable to the parent. 'rnd' is total R&D investment including capitalised amounts (研发投入), with a capitalisation rate of about 56.71% in FY2025; the expensed R&D expense (研发费用) was RMB1,595m, RMB1,763m and RMB1,809m in FY2023-2025. 'ocf' is net cash flow from operating activities. FY2023 and FY2024 are from the 2024 annual general meeting materials, the 2024 annual report and the 2023 annual report; FY2025 is from the 2025 annual report and its summary.",
+    "note_zh": "财年截至 12 月 31 日。数据按中国企业会计准则（PRC GAAP）、人民币百万元计，金额四舍五入至百万。'revenue' 为营业总收入（2023—2025 财年分别为 450.16 亿、422.02 亿、465.69 亿元；同期营业收入分别为 449.40 亿、421.16 亿、464.76 亿元）。'gross_margin_pct' 为综合毛利率、保留一位小数：2025 年为披露值 12.28%；2024 年约 10.5%；2023 年采用 2024 年年度报告所列比较数据（营业成本 402.31 亿元）计算约 10.48%、四舍五入为 10.5%（若按 2023 年年度报告原始营业成本 398.66 亿元计算则约 11.29%）。'net_profit' 为归属于母公司股东的净利润（归母净利润），而非归属于普通股股东；2025 年含少数股东损益的净利润总额为 -17.72 亿元、归母净利润为 -17.03 亿元。'rnd' 为含资本化的研发投入，2025 年资本化率约 56.71%；费用化的研发费用 2023—2025 年分别为 15.95 亿、17.63 亿、18.09 亿元。'ocf' 为经营活动产生的现金流量净额。2023、2024 财年取自 2024 年年度股东会会议资料、2024 年年度报告及 2023 年年度报告；2025 财年取自 2025 年年度报告及其摘要。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Anhui Jianghuai Automobile Group Corp., Ltd. (JAC; SSE 600418) is a state-controlled automaker headquartered in Hefei, Anhui, whose core business is commercial vehicles — light, medium and heavy trucks, pickups, vans and buses — plus passenger vehicles including MPVs, SUVs and sedans <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/600418_20260404_ZVC7.pdf\">[s2]</a>. Its controlling shareholder is Jianghuai Automobile Group Holdings (江汽控股), which held 27.35% of the listed company as of 30 June 2026 and is owned 50/50 by Anhui SASAC and Volkswagen (China) Investment <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>. In FY2025 JAC reported total operating revenue of RMB46.57 billion (+10.35%) and a net loss attributable to shareholders of RMB1.70 billion, and sold 384,100 vehicles and chassis, including 221,900 exported <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20260702/10353.html\">[s10]</a>.</p><p>JAC builds MAEXTRO (尊界), an ultra-luxury brand, with Huawei under Huawei's Harmony Intelligent Mobility Alliance (HIMA) partnership model <a href=\"https://hima.auto/\">[s39]</a>; the first model, the MAEXTRO S800 sedan, launched on 30 May 2025 at RMB708,000-1,018,000 <a href=\"https://www.jac.com.cn/news/20250531/6252.html\">[s37]</a>. The company is also a 25% shareholder in the Volkswagen Anhui joint venture and a former contract manufacturer for NIO, and it controls the separately listed bus maker Ankai <a href=\"https://www.21jingji.com/article/20261020/herald/bad74c2f85598c17bfe51d6591e516ff.html\">[s16]</a>. Its FY2025 annual report states that JAC ranked first in medium- and high-end light-truck exports, while pickup exports exceeded 50,000 units and ranked second <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</p><p>In FY2025, JAC reported a net loss attributable to shareholders of RMB2.50 billion excluding non-recurring items <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</p>",
+      "zh": "<p>安徽江淮汽车集团股份有限公司（江淮汽车，上交所 600418）是一家总部位于合肥的国有控股整车企业，主业为商用车——轻、中、重型卡车、皮卡、轻客与客车——以及乘用车（MPV、SUV、轿车）<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/600418_20260404_ZVC7.pdf\">[s2]</a>。公司控股股东为安徽江淮汽车集团控股有限公司（江汽控股），截至 2026 年 6 月 30 日持有上市公司 27.35% 股权，后者由安徽省国资委与大众汽车（中国）投资有限公司各持 50% 股权 <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。2025 财年公司实现营业总收入 465.69 亿元（同比增 10.35%）、归母净利润亏损 17.03 亿元，销售整车及底盘 38.41 万辆，其中出口 22.19 万辆 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20260702/10353.html\">[s10]</a>。</p><p>江淮与华为以鸿蒙智行（HIMA，Harmony Intelligent Mobility Alliance）合作模式打造超豪华品牌尊界（MAEXTRO）<a href=\"https://hima.auto/\">[s39]</a>，首款车型尊界 S800 轿车于 2025 年 5 月 30 日上市（70.8 万–101.8 万元）<a href=\"https://www.jac.com.cn/news/20250531/6252.html\">[s37]</a>。公司同时是大众安徽合资公司 25% 股东、蔚来此前的代工方，并控股独立上市的安凯客车 <a href=\"https://www.21jingji.com/article/20261020/herald/bad74c2f85598c17bfe51d6591e516ff.html\">[s16]</a>。公司 2025 年年报披露，其中高端轻卡出口居行业第一，皮卡出口超 5 万辆、位居行业第二 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</p><p>2025 年公司扣非净亏损 25.00 亿元 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Commercial vehicles are JAC's core. In 2025 the company sold 384,100 vehicles and chassis — 235,000 commercial vehicles and 149,000 passenger vehicles — and posted total operating revenue of RMB46.57 billion <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>. By product, against 2025 operating revenue of RMB46.48 billion, commercial-vehicle revenue was RMB20.47 billion (44.04%, down 7.64%), passenger-vehicle revenue RMB18.00 billion (38.72%, up 46.99%), bus revenue RMB3.16 billion (6.79%, up 24.34%) and chassis revenue RMB0.16 billion (0.34%) <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260403195100ipmdcdan&random=Crwm9JNC\">[s18]</a>. By region, overseas revenue accounted for 47.15% of main operating revenue, while overseas main operating revenue was 44.19% of consolidated operating revenue <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20260702/10353.html\">[s10]</a>. New-energy commercial-vehicle sales rose 70.76% to 20,700 units in 2025, ranking fourth in the segment <a href=\"https://news.qq.com/rain/a/20260410A069XM00\">[s22]</a>.</p><p>The sales trend requires care over measurement bases. Under the original 2023 annual-report basis, JAC sold 592,500 vehicles in 2023 (+18.40%) <a href=\"https://www.jac.com.cn/u/cms/www/202407/081559137bix.pdf\">[s6]</a>. In 2024 it sold 403,094 vehicles (-7.42%); the 2023 comparative figure of 435,389 used in the 2024 report excludes the NIO contract-manufactured models and other items <a href=\"https://www.jac.com.cn:444/u/cms/www/202504/150935049fey.pdf\">[s4]</a>. Sales fell further to 384,100 in 2025 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>. The company said it sold more than 2 million vehicles and generated over RMB210 billion revenue during the 14th Five-Year Plan period (2021-2025) <a href=\"https://news.qq.com/rain/a/20260410A069XM00\">[s22]</a>.</p><h3>Products and technology</h3><p>On the commercial-vehicle side, JAC's line-up centres on the 'JAC 1ka' light-truck family, 'JAC 1van' light buses and JAC pickups; in 2025 light trucks ranked No.2 in China and pickups sold over 60,000 units (No.2). In 2024 JAC exported 36,000 light trucks (No.1 for a 14th consecutive year), over 53,000 pickups (No.2) and 21,000 light buses <a href=\"https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html\">[s19]</a><a href=\"https://news.qq.com/rain/a/20260410A069XM00\">[s22]</a>. The passenger-vehicle range includes the MAEXTRO S800; as of 29 October 2026, HIMA listed its suggested retail price from RMB728,000 <a href=\"https://hima.auto/test-drive/\">[s38]</a>; the company's disclosed range also includes the Refine RF8 MPV and new-energy light trucks such as the ES9 and Kunpeng ET9 <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>. JAC has developed the DEFINE platform — which will cover SUVs, sedans and MPVs across pure-electric and hybrid powertrains —, and it works with Huawei on the Tuling Longxing platform used by MAEXTRO <a href=\"https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html\">[s19]</a><a href=\"https://www.nbd.com.cn/articles/2026-04-30/4375785.html\">[s32]</a>. In a technical introduction published on 25 November 2024, JAC described its full-domain by-wire intelligent chassis as using XYZ coordinated control, linking chassis and electric-drive software algorithms to control the vehicle in six degrees of freedom <a href=\"https://www.jac.com.cn/news/20241125/5956.html\">[s36]</a>. It has started L3 road testing, holds more than 16,000 authorised patents, and operates China's first CNAS-accredited 'Automotive Intelligent Connected Technology Anhui Provincial Key Laboratory' <a href=\"https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html\">[s19]</a><a href=\"https://www.jac.com.cn/intro/\">[s30]</a>.</p><h3>Factories and overseas operations</h3><p>JAC now has 31 global production bases and more than 5,000 user/service centres, and has cumulatively delivered over 12 million products; it sells to more than 130 countries and regions with cumulative exports of nearly 2 million vehicles <a href=\"https://www.jac.com.cn/intro/\">[s30]</a>. The MAEXTRO super factory was completed in December 2024 with planned annual capacity of 200,000 vehicles <a href=\"https://www.21jingji.com/article/20261020/herald/bad74c2f85598c17bfe51d6591e516ff.html\">[s16]</a>. In 2019 JAC took part in the acquisition of Allur Group, Kazakhstan's largest automaker, as a starting point for developing the customs-union and Central Asian markets <a href=\"https://www.jac.com.cn/intro/\">[s30]</a>. In its 2025 annual report, JAC lists its Tashkent entity as a joint venture and its Kazakhstan entity as a subsidiary of an associate, rather than as controlled subsidiaries <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</p><h3>Latest results</h3><p>In H1 2026, operating revenue was RMB22.13 billion (+14.31%), gross margin rose to 11.14% (from 8.98% a year earlier), net loss attributable to shareholders was RMB749 million and vehicle sales fell 9.56% to 172,400 units <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>. For the single third quarter of 2025, JAC reported operating revenue of RMB11.513 billion (+5.54%) and a net loss attributable to shareholders of RMB661 million; the quarterly report was unaudited <a href=\"https://static.cninfo.com.cn/finalpage/2025-10-31/1224776734.PDF\">[s35]</a>.</p>",
+      "zh": "<h3>业务结构</h3><p>商用车是江淮的核心。2025 年公司销售整车及底盘 38.41 万辆——商用车 23.5 万辆、乘用车 14.9 万辆，实现营业总收入 465.69 亿元 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。分产品看，按 2025 年营业收入 464.76 亿元计，商用车收入 204.69 亿元（占 44.04%，同比下降 7.64%）、乘用车收入 179.96 亿元（占 38.72%，同比增 46.99%）、客车收入 31.57 亿元（占 6.79%，增 24.34%）、底盘收入 1.58 亿元（占 0.34%）<a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260403195100ipmdcdan&random=Crwm9JNC\">[s18]</a>。分地区看，境外收入占主营业务收入 47.15%，境外主营业务收入占合并营业收入 44.19% <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20260702/10353.html\">[s10]</a>。新能源商用车方面，2025 年销量 2.07 万辆、同比增 70.76%，居行业第四 <a href=\"https://news.qq.com/rain/a/20260410A069XM00\">[s22]</a>。</p><p>销量轨迹需要区分口径。按 2023 年年度报告原报口径，2023 年全年销量 59.25 万辆（同比增 18.40%） <a href=\"https://www.jac.com.cn/u/cms/www/202407/081559137bix.pdf\">[s6]</a>。2024 年销量 40.31 万辆、同比下降 7.42%，其 2023 年比较基数 43.54 万辆已剔除代工蔚来车型等口径 <a href=\"https://www.jac.com.cn:444/u/cms/www/202504/150935049fey.pdf\">[s4]</a>。2025 年进一步降至 38.41 万辆 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。公司称「十四五」期间累计销售超 200 万辆、营收超 2100 亿元 <a href=\"https://news.qq.com/rain/a/20260410A069XM00\">[s22]</a>。</p><h3>产品与技术</h3><p>商用车端，江淮产品以「江淮1卡」轻卡、「江淮1van」轻客与江淮皮卡为核心；2025 年轻卡居行业第二、皮卡销售超 6 万辆（行业第二）。2024 年江淮轻卡出口 3.6 万台（连续十四年行业出口第一）、皮卡出口超 5.3 万辆（行业第二）、轻客出口 2.1 万辆 <a href=\"https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html\">[s19]</a><a href=\"https://news.qq.com/rain/a/20260410A069XM00\">[s22]</a>。乘用车产品包括尊界 S800；截至 2026 年 10 月 29 日，鸿蒙智行官网列示该车建议零售价为 72.8 万元起 <a href=\"https://hima.auto/test-drive/\">[s38]</a>；公司披露的产品线还包括瑞风 RF8 MPV、江淮新能源 ES9 纯电轻卡、坤鹏 ET9 纯电轻卡等 <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。公司开发了 DEFINE 平台（未来覆盖 SUV、轿车、MPV，兼容纯电与混动），并与华为共同打造尊界所用的途灵龙行平台 <a href=\"https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html\">[s19]</a><a href=\"https://www.nbd.com.cn/articles/2026-04-30/4375785.html\">[s32]</a>。江淮 2024 年 11 月 25 日官网技术介绍称，其全域线控智慧底盘采用 XYZ 协控，通过底盘与电驱动系统的软件算法联动，实现车辆六个自由度控制 <a href=\"https://www.jac.com.cn/news/20241125/5956.html\">[s36]</a>。公司已启动 L3 级道路测试，累计拥有授权专利超 1.6 万件，拥有国内第一个获 CNAS 认可的「汽车智能网联技术安徽省重点实验室」<a href=\"https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html\">[s19]</a><a href=\"https://www.jac.com.cn/intro/\">[s30]</a>。</p><h3>工厂与海外业务</h3><p>公司现有 31 个全球生产基地及超 5000 家全球用户中心，已累计向全球交付各类产品 1200 万辆；产品远销全球 130 多个国家和地区，累计出口近 200 万辆 <a href=\"https://www.jac.com.cn/intro/\">[s30]</a>。尊界超级工厂于 2024 年 12 月建成，规划年产能 20 万辆 <a href=\"https://www.21jingji.com/article/20261020/herald/bad74c2f85598c17bfe51d6591e516ff.html\">[s16]</a>。2019 年江淮参与收购哈萨克斯坦最大汽车工业集团 Allur 集团，成为其开发关税同盟市场和中亚市场的起点 <a href=\"https://www.jac.com.cn/intro/\">[s30]</a>。2025 年年度报告按关联关系口径将塔什干公司列为合营企业、哈萨克斯坦相关主体列为联营企业的子公司，而非江淮控股子公司 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</p><h3>最新业绩</h3><p>2026 年上半年，公司营业收入 221.3 亿元（同比增 14.31%），毛利率升至 11.14%（上年同期 8.98%），归母净亏损 7.49 亿元，销量 17.24 万辆（同比降 9.56%）<a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。2025 年第三季度单季，公司营业收入 115.13 亿元（同比增 5.54%）、归母净亏损 6.61 亿元；该季报未经审计 <a href=\"https://static.cninfo.com.cn/finalpage/2025-10-31/1224776734.PDF\">[s35]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>JAC has no individual founder. Its predecessor, the state-run Hefei Jianghuai Automobile Plant, was founded in 1964; the joint-stock company was incorporated on 30 September 1999 <a href=\"https://www.jac.com.cn/intro/\">[s30]</a>.</p><h3>Key management</h3><ul><li><strong>Xiang Xingchu</strong> (born August 1970), chairman and party secretary. He was elected chairman on 26 April 2021 and re-elected at the first meeting of the ninth board on 18 November 2025. A senior engineer, he previously served as general manager and vice chairman of the listed company. He is also party secretary, chairman and general manager of Jianghuai Holdings <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2022-03-25/1212669682.PDF\">[s7]</a>.</li><li><strong>Li Ming</strong> (born July 1977), director and general manager. He was first appointed general manager on 24 December 2021 and re-appointed at the first meeting of the ninth board on 18 November 2025. A doctor of engineering and senior engineer, he previously served as assistant general manager and deputy general manager, concurrently general manager of the engine branch and passenger-vehicle company, and a director and general manager of the JAC-Volkswagen (now Volkswagen Anhui) joint venture <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2022-03-25/1212669682.PDF\">[s7]</a>.</li><li><strong>Zhang Peng</strong> (born November 1970), deputy general manager since 24 March 2022 and a director since 30 June 2026. Previously party secretary and general manager of the international company, and party secretary of the pickup business unit <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a><a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>.</li><li><strong>Luo Shicheng</strong> (born December 1974), deputy general manager since 18 November 2025. Previously deputy general manager of the passenger-vehicle manufacturing company, general manager of Anhui Jianghuai Anchi Automobile and of the commercial-vehicle company. He is also chairman of Anhui Jianghuai Intelligent Technology Co. <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>.</li><li><strong>Li Weihua</strong> (born March 1979), deputy general manager since 18 November 2025. Previously deputy head of the enterprise-management department, deputy general manager of the light commercial-vehicle manufacturing company and general manager of the Shandong branch. He is also party secretary and general manager of the human-resources management centre <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>.</li><li><strong>Chen Jiming</strong> (born March 1980) is also a deputy general manager <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>.</li></ul><h3>Shareholding and governance</h3><p>As of 30 June 2026, controlling shareholder Jianghuai Holdings held 27.35% of the listed company, and Hong Kong Securities Clearing Company held 4.03% (90,809,756 shares) <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>. Jianghuai Holdings is owned 50/50 by Anhui SASAC and Volkswagen (China) Investment; the annual reports and announcements identify Anhui SASAC as the actual controller <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/600418_20260404_ZVC7.pdf\">[s2]</a><a href=\"https://www.jac.com.cn/u/cms/www/202012/09104548ra8w.pdf\">[s9]</a>. At the first meeting of the ninth board on 18 November 2025, Xiang Xingchu was elected chairman, the members of the board committees were selected, and Li Ming was appointed general manager alongside other senior management appointments <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>江淮汽车并无单一创始人。其前身为 1964 年成立的国有合肥江淮汽车制造厂，1999 年 9 月 30 日改制设立股份公司 <a href=\"https://www.jac.com.cn/intro/\">[s30]</a>。</p><h3>核心管理层</h3><ul><li><strong>项兴初</strong>（1970 年 8 月生），董事长、党委书记。2021 年 4 月 26 日当选董事长，2025 年 11 月 18 日第九届董事会第一次会议连任。高级工程师，历任总经理助理、总质量师、董事、总经理、副董事长。现任江汽控股党委书记、董事长、总经理，江淮汽车党委书记、董事长 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2022-03-25/1212669682.PDF\">[s7]</a>。</li><li><strong>李明</strong>（1977 年 7 月生），董事、总经理。2021 年 12 月 24 日首次获聘总经理，2025 年 11 月 18 日第九届董事会第一次会议续聘。工学博士，正高级工程师，历任总经理助理、副总经理，期间兼任发动机分公司总经理、乘用车公司总经理、江淮大众（现大众安徽）董事兼总经理等。现任江汽控股党委委员、董事，江淮汽车党委副书记、董事、总经理 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2022-03-25/1212669682.PDF\">[s7]</a>。</li><li><strong>张鹏</strong>（1970 年 11 月生），副总经理，2022 年 3 月 24 日起任副总经理、2026 年 6 月 30 日起任董事。历任江淮汽车国际公司党委书记、总经理，皮卡事业部党委书记等 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a><a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。</li><li><strong>罗世成</strong>（1974 年 12 月生），副总经理，2025 年 11 月 18 日起任。历任乘用车制造公司副总经理、安徽江淮安驰汽车有限公司总经理、商务车公司总经理、乘用车公司总经理等。现任江淮汽车副总经理、安徽江淮智能科技有限公司董事长 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>。</li><li><strong>李卫华</strong>（1979 年 3 月生），副总经理，2025 年 11 月 18 日起任。历任企业管理部副部长、轻型商用车制造公司副总经理、山东分公司总经理等。现任江淮汽车副总经理、人力资源管理中心党总支书记、总经理 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>。</li><li><strong>陈继明</strong>（1980 年 3 月生）亦为公司副总经理 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>。</li></ul><h3>股权与治理</h3><p>截至 2026 年 6 月 30 日，控股股东江汽控股持有上市公司 27.35% 股权，香港中央结算有限公司持有 4.03%（90,809,756 股）<a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。江汽控股由安徽省国资委与大众汽车（中国）投资有限公司各持 50% 股权，年报及公告认定安徽省国资委为实际控制人 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/600418_20260404_ZVC7.pdf\">[s2]</a><a href=\"https://www.jac.com.cn/u/cms/www/202012/09104548ra8w.pdf\">[s9]</a>。2025 年 11 月 18 日第九届董事会第一次会议选举项兴初为董事长，确定相关专业委员会组成人员，并聘任李明为总经理及其他高级管理人员 <a href=\"https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf\">[s8]</a>。</p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive scope</h3><p>Our judgement: based on truck and pickup product coverage, Beiqi Foton, Dongfeng, JMC, FAW Jiefang and Great Wall provide useful comparisons for JAC's commercial-vehicle business; MAEXTRO belongs in the premium NEV passenger-car comparison set. These comparisons reflect product coverage and price positioning, rather than direct competition across every business. JAC reports commercial-vehicle, passenger-vehicle and bus businesses, while the S800 launched at RMB708,000-1,018,000 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20250531/6252.html\">[s37]</a>.</p><h3>Business base and constraints</h3><p>In 2025, JAC ranked second in N2 light trucks and first in medium- and high-end light-truck exports; pickup exports exceeded 50,000 units and ranked second. Overseas main operating revenue accounted for 47.15% of main operating revenue. In its official news release dated 2 July 2026, JAC reported cumulative S800 deliveries of over 19,000 units <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20260702/10353.html\">[s10]</a>.</p><p>In its FY2025 annual report, JAC stated that its passenger-vehicle brands other than MAEXTRO lacked market competitiveness. The FY2025 net loss attributable to shareholders was RMB1.70 billion, or RMB2.50 billion excluding non-recurring items <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>; the H1 2026 attributable net loss was RMB749 million <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>.</p><h3>Our analysis</h3><p>Our judgement: commercial-vehicle revenue fell in 2025 while its gross margin increased, so the revenue change alone does not establish stronger price competition. Volume and product mix may also affect revenue; assessing operating improvement requires considering revenue, gross margin and expenses together. <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</p>",
+      "zh": "<h3>竞争范围</h3><p>我们的判断：按卡车与皮卡产品线，北汽福田、东风、江铃、一汽解放和长城可作为江淮商用车业务的比较对象；尊界则应放在高端新能源乘用车市场观察。上述比较以产品覆盖和价格定位为依据，不代表各公司所有业务直接竞争。江淮年报披露的业务包括商用车、乘用车和客车，尊界 S800 的上市价格为 70.8 万–101.8 万元 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20250531/6252.html\">[s37]</a>。</p><h3>业务基础与约束</h3><p>2025 年，江淮 N2 类轻卡居行业第二，中高端轻卡出口保持行业第一，皮卡出口超 5 万辆、位居行业第二；境外主营业务收入占主营业务收入 47.15%。公司在 2026 年 7 月 2 日官网新闻中披露，尊界 S800 累计交付超 1.9 万辆 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a><a href=\"https://www.jac.com.cn/news/20260702/10353.html\">[s10]</a>。</p><p>公司在 2025 年年报中指出，除尊界外的乘用车品牌市场竞争力不强。2025 年归母净亏损 17.03 亿元，扣非净亏损 25.00 亿元 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>；2026 年上半年归母净亏损 7.49 亿元 <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。</p><h3>我们的分析</h3><p>我们的判断：2025 年商用车收入下降而毛利率上升，仅凭收入变化不能判定价格竞争加剧。收入变动还可能涉及销量和产品结构，判断经营改善需要同时观察收入、毛利率与费用 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets and plans</h3><p>The FY2025 annual report, disclosed on 4 April 2026, sets expected 2026 vehicle sales of 424,000 (+10.4%) and total operating revenue of RMB65 billion (+39.58%). JAC plans to continue developing MAEXTRO, focus its commercial-vehicle business on light trucks, pickups and electrification, and strengthen local operations overseas. The report states that forward-looking plans and strategies do not constitute substantive commitments <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</p><p>At the supply-chain expo on 22 June 2026, Xiang Xingchu reiterated the 15th Five-Year Plan targets of one million vehicle sales and RMB100 billion revenue, through independent development and open cooperation, with four areas of focus: MAEXTRO, premium passenger vehicles, light commercial vehicles and international operations <a href=\"https://www.jac.com.cn/news/20260622/10258.html\">[s12]</a>. On 5 August 2026, JAC announced the launch of the MAEXTRO V800 and V680 MPVs. The three V800 versions start at RMB766,000, RMB866,000 and RMB1,016,000, respectively, while the V680 starts at RMB648,000 <a href=\"https://www.jac.com.cn/news/20260805/10512.html\">[s11]</a>.</p><h3>Our analysis</h3><p>Our judgement: converting revenue growth into profit depends on deliveries of new models, product margins and control of selling expenses; brand positioning and sales targets alone do not establish a profit recovery. Commercial-vehicle revenue fell while its margin rose in 2025, and selling expenses increased 97.50%, so revenue, mix and costs require separate assessment <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>. Volkswagen Anhui's losses and unpaid equity subscriptions also require separate monitoring from JAC's own manufacturing operations <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>. Better new-model deliveries and spending efficiency could support recovery; insufficient growth or rising investment could prolong losses. These are conditional assessments, not company commitments.</p>",
+      "zh": "<h3>公司目标与规划</h3><p>2025 年年报（2026 年 4 月 4 日披露）列示，2026 年预计销售汽车 42.4 万辆、同比增 10.4%，预计营业总收入 650 亿元、同比增 39.58%；公司拟继续打造尊界品牌，商用车聚焦轻卡、皮卡及新能源转型，国际业务强化属地化运营。年报同时说明，经营计划与发展战略等前瞻性表述不构成实质承诺 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</p><p>2026 年 6 月 22 日，项兴初在链博会表示，「十五五」期间锚定「百万销量、千亿营收」目标，坚持自主发展与开放合作，聚焦尊界、乘用车高端化、轻型商用车和国际化四个方向 <a href=\"https://www.jac.com.cn/news/20260622/10258.html\">[s12]</a>。2026 年 8 月 5 日，公司官网宣布尊界 V800、V680 MPV 上市，V800 三款配置分别为 76.6 万、86.6 万、101.6 万元起，V680 为 64.8 万元起 <a href=\"https://www.jac.com.cn/news/20260805/10512.html\">[s11]</a>。</p><h3>我们的分析</h3><p>我们的判断：收入扩大能否转化为盈利，取决于新增车型的交付规模、产品毛利和销售费用控制，不能仅凭品牌定位或销量目标推定。2025 年商用车收入下降而毛利率上升、销售费用增长 97.50%，说明收入、产品结构与费用需要分别观察 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。大众安徽的亏损和仍未支付的股权认购款，也需要与江淮自身的制造业务分别跟踪 <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。如果新车型交付和费用效率改善，盈利可能修复；若增量不足或投入继续增加，亏损也可能持续。这些是条件判断，并非公司承诺。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Operating risk:</strong> in its FY2025 annual report, JAC stated that its passenger-vehicle brands other than MAEXTRO lacked market competitiveness <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</li><li><strong>Financial risk:</strong> the consolidated debt-to-asset ratio was 79.07% at end-2025 (liabilities RMB40.23 billion, assets RMB50.88 billion) <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>; as of 30 June 2026, JAC had RMB812.5 million in unpaid equity subscriptions to Volkswagen Anhui <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>.</li><li><strong>Overseas risk:</strong> overseas main operating revenue accounted for 47.15% of main operating revenue in 2025; JAC identified the complex international environment, rising trade barriers and stronger competition overseas as export challenges in its annual report <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</li><li><strong>Competition risk:</strong> commercial-vehicle revenue fell 7.64% in 2025, while the segment gross margin rose 0.85 percentage points to 10.05% <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</li><li><strong>Cost and investment risk:</strong> selling expenses rose 97.50% to RMB2.90 billion in 2025, with advertising and sales-service fees increasing from RMB176 million to RMB1.57 billion; the annual report attributed the increase in selling expenses to higher advertising and sales-service fees <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>.</li></ul>",
+      "zh": "<ul><li><strong>经营风险：</strong>公司在 2025 年年报中披露，除尊界外的乘用车品牌市场竞争力不强 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</li><li><strong>财务风险：</strong>2025 年末合并资产负债率为 79.07%（负债总额 402.31 亿元、资产总额 508.80 亿元）<a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>；截至 2026 年 6 月 30 日，公司对大众安徽仍有 8.125 亿元股权认购款尚未支付 <a href=\"https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf\">[s3]</a>。</li><li><strong>海外风险：</strong>2025 年境外主营业务收入占主营业务收入 47.15%；公司在年报中将国际形势复杂、贸易壁垒升级及境外市场竞争加剧列为出口业务面临的挑战 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</li><li><strong>竞争风险：</strong>2025 年商用车收入同比下降 7.64%；同期该业务毛利率为 10.05%，同比提高 0.85 个百分点 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</li><li><strong>费用与投入风险：</strong>2025 年销售费用同比增 97.50% 至 28.97 亿元，其中广宣及销售服务费从上期的 1.76 亿元升至 15.72 亿元；年报将销售费用增长归因于广宣及销售服务费增加 <a href=\"https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf\">[s1]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "江淮汽车 2025年年度报告", "url": "https://www.jac.com.cn/u/cms/www/202604/150828321ybx.pdf", "date": "2026-04-04", "tier": "A" },
+    { "id": "s2", "name": "江淮汽车 2025年年度报告摘要（上交所披露）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/600418_20260404_ZVC7.pdf", "date": "2026-04-04", "tier": "A" },
+    { "id": "s3", "name": "江淮汽车 2026年半年度报告", "url": "https://www.jac.com.cn/u/cms/www/202608/20090324lry1.pdf", "date": "2026-08-20", "tier": "A" },
+    { "id": "s4", "name": "江淮汽车 2024年年度股东会会议资料", "url": "https://www.jac.com.cn:444/u/cms/www/202504/150935049fey.pdf", "date": "2025-04-12", "tier": "A" },
+    { "id": "s5", "name": "江淮汽车 2024年年度报告", "url": "https://www.jac.com.cn:9083/u/cms/www/202504/03084644njzp.pdf", "date": "2025-03-29", "tier": "A" },
+    { "id": "s6", "name": "江淮汽车 2023年年度报告", "url": "https://www.jac.com.cn/u/cms/www/202407/081559137bix.pdf", "date": "2024-04-30", "tier": "A" },
+    { "id": "s7", "name": "江淮汽车 2021年年度报告", "url": "https://static.cninfo.com.cn/finalpage/2022-03-25/1212669682.PDF", "date": "2022-03-25", "tier": "A" },
+    { "id": "s8", "name": "江淮汽车 第九届董事会第一次会议决议公告（含高管简历）", "url": "https://www.jac.com.cn/u/cms/www/202511/271634103lij.pdf", "date": "2025-11-19", "tier": "A" },
+    { "id": "s9", "name": "江淮汽车 关于江淮大众合资合作事项的进展公告", "url": "https://www.jac.com.cn/u/cms/www/202012/09104548ra8w.pdf", "date": "2020-12-09", "tier": "A" },
+    { "id": "s10", "name": "江淮汽车官网：品牌价值再进阶 稳居2026中国500强", "url": "https://www.jac.com.cn/news/20260702/10353.html", "date": "2026-07-02", "tier": "A" },
+    { "id": "s11", "name": "江淮汽车官网：尊界V800/V680超豪华MPV上市", "url": "https://www.jac.com.cn/news/20260805/10512.html", "date": "2026-08-05", "tier": "A" },
+    { "id": "s12", "name": "江淮汽车官网：江汽集团亮相第四届链博会", "url": "https://www.jac.com.cn/news/20260622/10258.html", "date": "2026-06-22", "tier": "A" },
+    { "id": "s13", "name": "安徽省国资委：江汽集团与华为终端签署联合创新合作协议", "url": "https://gzw.ah.gov.cn/ssqy/qyfc/58218221.html", "date": "2026-04-26", "tier": "A" },
+    { "id": "s30", "name": "江淮汽车官网企业介绍", "url": "https://www.jac.com.cn/intro/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s14", "name": "财新：江淮大众推首款车型 新品牌由大众西雅特打造", "url": "https://companies.caixin.com/2018-04-25/101238752.html", "date": "2018-04-25", "tier": "B" },
+    { "id": "s15", "name": "第一财经：2022年以来扣非亏损累计超百亿，江淮汽车还在泥潭", "url": "https://www.yicai.com/news/103327159.html", "date": "2026-08-20", "tier": "B" },
+    { "id": "s16", "name": "21世纪经济报道：江淮豪华车，行至关键路口", "url": "https://www.21jingji.com/article/20261020/herald/bad74c2f85598c17bfe51d6591e516ff.html", "date": "2026-10-20", "tier": "B" },
+    { "id": "s17", "name": "经济参考报：江汽集团2021年十大新闻", "url": "https://www.jjckb.cn/2022-01/26/c_1310442091.htm", "date": "2022-01-26", "tier": "B" },
+    { "id": "s18", "name": "中证网：江淮汽车2025年净利润同比减亏8158.65万元", "url": "https://newzzbcx.cs.com.cn/cxnews.html?name=new20260403195100ipmdcdan&random=Crwm9JNC", "date": "2026-04-03", "tier": "B" },
+    { "id": "s19", "name": "人民网安徽：解读江淮汽车2024年业绩", "url": "https://ah.people.com.cn/BIG5/n2/2025/0401/c227767-41183006.html", "date": "2025-04-01", "tier": "B" },
+    { "id": "s20", "name": "新华网：尊界S800正式上市", "url": "https://www1.xinhuanet.com/auto/20250531/f3fe944cb8e9470b9e6b0c549b31c50f/c.html", "date": "2025-05-31", "tier": "B" },
+    { "id": "s21", "name": "证券时报：江淮汽车2025年亏损17.03亿元", "url": "https://www.stcn.com/article/detail/3726963.html", "date": "2026-04-03", "tier": "B" },
+    { "id": "s22", "name": "中国经营报：江淮汽车高端化转型进入兑现期", "url": "https://news.qq.com/rain/a/20260410A069XM00", "date": "2026-04-10", "tier": "B" },
+    { "id": "s25", "name": "新浪汽车：尊界汽车是哪个公司的", "url": "https://auto.sina.cn/2026-10-13/detail-inivasei8846510.d.html?vt=4", "date": "2026-10-13", "tier": "B" },
+    { "id": "s26", "name": "中国证券网：余承东出镜，600418涨停", "url": "https://www.cnstock.com/commonDetail/691443", "date": "2026-04-27", "tier": "B" },
+    { "id": "s27", "name": "经济参考报：项兴初以价值重构突围高端市场", "url": "https://jjckb.xinhuanet.com/20260529/28eb604438b74887814c8290c3c0b4ec/c.html", "date": "2026-05-29", "tier": "B" },
+    { "id": "s31", "name": "CnEVPost: Huawei-JAC joint brand named Maextro", "url": "https://cnevpost.com/2024/08/07/huawei-jac-brand-named-maextro-1st-model-q1-2025/", "date": "2024-08-07", "tier": "B" },
+    { "id": "s32", "name": "每日经济新闻：江汽集团冯梁森：将推出全新乘用车品牌", "url": "https://www.nbd.com.cn/articles/2026-04-30/4375785.html", "date": "2026-04-30", "tier": "B" },
+    { "id": "s33", "name": "国际金融报：动刀子品牌，江淮全力押注尊界", "url": "https://finance.sina.com.cn/roll/2025-11-28/doc-infyxwfh7363957.shtml", "date": "2025-11-28", "tier": "B" },
+    { "id": "s34", "name": "新华网：尊界S800典藏大观上市", "url": "https://www.news.cn/tech/20260626/e3394278225f473aa0fc405b7bed8740/c.html", "date": "2026-06-26", "tier": "B" },
+    { "id": "s35", "name": "江淮汽车 2025年第三季度报告（巨潮资讯披露，未经审计）", "url": "https://static.cninfo.com.cn/finalpage/2025-10-31/1224776734.PDF", "date": "2025-10-31", "tier": "A" },
+    { "id": "s36", "name": "江淮汽车官网：透视江淮汽车60载之六丨顺势而为，助推汽车行业迈步新生态", "url": "https://www.jac.com.cn/news/20241125/5956.html", "date": "2024-11-25", "tier": "A" },
+    { "id": "s37", "name": "江淮汽车官网：以时代匠心铸就时代旗舰，尊界S800正式上市", "url": "https://www.jac.com.cn/news/20250531/6252.html", "date": "2025-05-31", "tier": "A" },
+    { "id": "s38", "name": "鸿蒙智行官网：预约试驾车型与建议零售价（2026-10-29 访问）", "url": "https://hima.auto/test-drive/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s39", "name": "鸿蒙智行官网：HIMA 英文全称与联盟介绍（2026-10-29 访问）", "url": "https://hima.auto/", "date": "2026-10-29", "tier": "A" }
+  ]
+}

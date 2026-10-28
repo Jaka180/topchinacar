@@ -1,0 +1,385 @@
+{
+  "id": "chery",
+  "name_en": "Chery Automobile Co., Ltd.",
+  "name_zh": "奇瑞汽车股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1997 (incorporated 8 January 1997)",
+      "value_zh": "1997 年（1997 年 1 月 8 日注册成立）",
+      "period": null,
+      "source_ids": ["s29", "s5"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Wuhu, Anhui, China",
+      "value_zh": "中国安徽省芜湖市",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Mixed ownership (state capital plus private capital); not a state-owned enterprise",
+      "value_zh": "混合所有制（国有资本与民营资本并存，不属于国有企业）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "None (no actual controller)",
+      "value_zh": "无（无实际控制人）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "HKEX: 9973.HK (listed 2025-09-25)",
+      "value_zh": "港交所：9973.HK（2025-09-25 上市）",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "70,103",
+      "value_zh": "70,103 人",
+      "period": "2025-12-31",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "RMB 300,287 million",
+      "value_zh": "人民币 3,002.87 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Profit attributable to owners (FY2025)",
+      "label_zh": "本公司拥有人应占利润（2025 财年）",
+      "value_en": "RMB 19,019 million",
+      "value_zh": "人民币 190.19 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Self-owned passenger-vehicle sales (2025)",
+      "label_zh": "自主乘用车销量（2025 年）",
+      "value_en": "2,631,381 units (listed company)",
+      "value_zh": "263.14 万辆（上市主体口径）",
+      "period": "2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Exports (2025)",
+      "label_zh": "出口（2025 年）",
+      "value_en": "About 1,294,000 vehicles exported (listed company), up 33.2%",
+      "value_zh": "出口约 129.4 万辆（上市主体口径），同比增长 33.2%",
+      "period": "2025",
+      "source_ids": ["s1"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1997-01-08",
+      "event_en": "Chery's predecessor is incorporated in Wuhu.",
+      "event_zh": "公司前身在芜湖注册成立。",
+      "source_ids": ["s29"]
+    },
+    {
+      "date": "1997-03-18",
+      "event_en": "Ground is broken for the No.1 engine plant, driving the first foundation pile (later called the 'Chery First Pillar'), marking the start of operations.",
+      "event_zh": "发动机一厂破土动工，打下建厂第一根桩（今称「奇瑞第一柱」），公司正式起步。",
+      "source_ids": ["s27", "s6"]
+    },
+    {
+      "date": "1999-12",
+      "event_en": "The first car, the Fulwin (Fengyun), rolls off the production line.",
+      "event_zh": "第一辆轿车「风云」下线。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2001-03",
+      "event_en": "The first batch of Chery cars goes on sale across China.",
+      "event_zh": "首批奇瑞轿车在全国上市。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2001-10",
+      "event_en": "The first 10 Fulwin cars are exported via Tianjin Port, Chery's first vehicle export.",
+      "event_zh": "首批 10 辆「风云」轿车经天津港出口，实现整车出口零的突破。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2003-03",
+      "event_en": "The 100,000th Chery car rolls off the production line.",
+      "event_zh": "第 10 万辆奇瑞轿车下线。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2005-10",
+      "event_en": "Chery launches ACTECO, described by the company as China's first self-owned automotive engine brand.",
+      "event_zh": "发布中国首个汽车发动机自主品牌 ACTECO（公司官方表述）。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2007-08",
+      "event_en": "The 1,000,000th Chery car rolls off the production line.",
+      "event_zh": "第 100 万辆奇瑞汽车下线。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2008-03-24",
+      "event_en": "The company is converted into a joint-stock company and renamed Chery Automobile Co., Ltd.",
+      "event_zh": "公司转制为股份有限公司，更名为奇瑞汽车股份有限公司。",
+      "source_ids": ["s23"]
+    },
+    {
+      "date": "2010-10",
+      "event_en": "Chery Holding Co., Ltd. is established (renamed Chery Holding Group Co., Ltd. in October 2017).",
+      "event_zh": "奇瑞控股有限公司成立（2017 年 10 月更名为奇瑞控股集团有限公司）。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2012-11",
+      "event_en": "Chery Jaguar Land Rover Automotive Co., Ltd., a 50:50 joint venture with Jaguar Land Rover, is established.",
+      "event_zh": "与捷豹路虎各持 50% 的合资公司奇瑞捷豹路虎成立。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2014-10",
+      "event_en": "The first locally produced joint-venture model, the Range Rover Evoque, rolls off the line at the Changshu plant.",
+      "event_zh": "首款合资国产车型奇瑞路虎揽胜极光在常熟工厂下线。",
+      "source_ids": ["s6", "s8"]
+    },
+    {
+      "date": "2018-01",
+      "event_en": "The Jetour product series is launched; its first model, the X70, goes on sale in August 2018.",
+      "event_zh": "捷途产品序列发布（首款车型 X70 于 2018 年 8 月上市）。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "Chery unveils its 'Yaoguang 2025' forward-looking technology strategy, laying out a parallel hybrid, range-extended, battery-electric and hydrogen roadmap.",
+      "event_zh": "发布「瑶光 2025」前瞻科技战略，提出混动、增程、纯电、氢能多技术路线并进的转型方向。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2023-04",
+      "event_en": "Chery launches the new-energy brand iCAR and the Exeed Sterra series; OMODA & JAECOO debut as independent brands at Auto Shanghai on 18 April 2023.",
+      "event_zh": "发布新能源品牌 iCAR 与星途星纪元系列；OMODA & JAECOO 于 2023 年 4 月 18 日以独立品牌亮相上海车展。",
+      "source_ids": ["s6", "s11"]
+    },
+    {
+      "date": "2023-11-28",
+      "event_en": "The first Chery-Huawei co-developed model, the Luxeed S7, goes on sale.",
+      "event_zh": "与华为合作打造的首款车型智界 S7 上市。",
+      "source_ids": ["s28"]
+    },
+    {
+      "date": "2024-11-23",
+      "event_en": "The EBRO plant in Barcelona, Chery's first European vehicle factory (a JV with Spain's EBRO/EV Motors), starts production of its first model.",
+      "event_zh": "奇瑞与西班牙 EBRO 合资的巴塞罗那工厂启动首款车型生产，为奇瑞欧洲首个整车工厂。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2025-01-20",
+      "event_en": "The shareholder 'sinking' is completed: Chery Holding no longer holds any shares in Chery Automobile.",
+      "event_zh": "完成「股东下沉」，奇瑞控股不再持有奇瑞汽车任何股份。",
+      "source_ids": ["s1", "s21"]
+    },
+    {
+      "date": "2025-09-25",
+      "event_en": "Chery lists on the Main Board of the Hong Kong Stock Exchange (9973.HK) at HK$30.75 per share.",
+      "event_zh": "在香港联交所主板上市（9973.HK），发售价 30.75 港元。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2025",
+      "event_en": "The Chery group enters the Fortune Global 500 at No.233, up 152 places year on year, the fastest-rising automaker globally.",
+      "event_zh": "奇瑞集团位列《财富》世界 500 强第 233 位，排名较上年跃升 152 位，跃升速度位列全球车企第一。",
+      "source_ids": ["s14"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Chery",
+      "name_zh": "奇瑞",
+      "role_en": "The core volume brand spanning ICE and NEV passenger cars, including the Tiggo SUV, Arrizo sedan and Fulwin NEV series.",
+      "role_zh": "核心主力品牌，覆盖燃油与新能源乘用车，含瑞虎 SUV、艾瑞泽轿车及风云新能源序列。",
+      "price_band": "Mainly RMB100,000-200,000",
+      "founded": 1997,
+      "owner_note_en": "Flagship brand of Chery Automobile; key series include Tiggo, Arrizo and Fulwin. Sold 1,700,940 vehicles in 2025.",
+      "owner_note_zh": "奇瑞汽车旗舰品牌，主力系列含瑞虎、艾瑞泽与风云，2025 年销量 170.09 万辆。",
+      "status": "active",
+      "source_ids": ["s5", "s14"]
+    },
+    {
+      "name_en": "Jetour",
+      "name_zh": "捷途",
+      "role_en": "SUV brand positioned around 'Travel+' outdoor and family scenarios.",
+      "role_zh": "定位「旅行+」户外与家庭场景的 SUV 品牌。",
+      "price_band": "Mainstream, mainly below RMB200,000",
+      "founded": 2018,
+      "owner_note_en": "Product series launched January 2018; key models include X70/X90, Traveller and the Shanhai NEV series. Sold 622,590 vehicles in 2025.",
+      "owner_note_zh": "2018 年 1 月发布产品序列；主力车型含 X70/X90、旅行者及山海新能源序列，2025 年销量 62.26 万辆。",
+      "status": "active",
+      "source_ids": ["s6", "s14"]
+    },
+    {
+      "name_en": "Exeed",
+      "name_zh": "星途",
+      "role_en": "Chery's premium brand, positioned at the high end of the portfolio.",
+      "role_zh": "奇瑞高端品牌，定位品牌矩阵的高端。",
+      "price_band": "RMB150,000-250,000 and above",
+      "founded": 2017,
+      "owner_note_en": "First shown as EXEED at the 2017 Frankfurt Motor Show; key models include Lanyue, Yaoguang and the Sterra series, which covers both BEV and range-extended powertrains. Sold 120,369 vehicles in 2025, down about 15% year on year.",
+      "owner_note_zh": "2017 年以 EXEED 之名在法兰克福车展亮相；主力车型含揽月、瑶光及覆盖纯电与增程的星纪元系列。2025 年销量 12.04 万辆，同比下滑约 15%。",
+      "status": "active",
+      "source_ids": ["s6", "s10", "s16"]
+    },
+    {
+      "name_en": "iCAR",
+      "name_zh": "iCAR",
+      "role_en": "New-energy brand aimed at young customers.",
+      "role_zh": "面向年轻用户的新能源品牌。",
+      "price_band": "Mainly RMB100,000-160,000",
+      "founded": 2023,
+      "owner_note_en": "Launched April 2023; key models include iCAR 03 and iCAR V23. Sold 96,989 vehicles in 2025.",
+      "owner_note_zh": "2023 年 4 月发布；主力车型含 iCAR 03、iCAR V23。2025 年销量 9.70 万辆。",
+      "status": "active",
+      "source_ids": ["s6", "s14"]
+    },
+    {
+      "name_en": "Luxeed (Zhijie)",
+      "name_zh": "智界",
+      "role_en": "Premium new-energy brand co-developed with Huawei under the Harmony Intelligent Mobility Alliance (HIMA); covers both battery-electric and range-extended powertrains, with Chery as the manufacturing partner.",
+      "role_zh": "与华为鸿蒙智行联盟合作打造的高端新能源品牌，覆盖纯电与增程，奇瑞为制造方。",
+      "price_band": "S7 RMB229,800-289,800; V9 RMB389,800-519,800",
+      "founded": 2023,
+      "owner_note_en": "First model S7 launched November 2023 (suggested retail RMB229,800-289,800), followed by the R7 (BEV and range-extended) and the V9, a seven-seat range-extended MPV with suggested retail RMB389,800-519,800. Sold 90,493 vehicles in 2025, up 56% year on year.",
+      "owner_note_zh": "首款车型 S7 于 2023 年 11 月上市（建议零售价 22.98 万—28.98 万元），后有 R7（纯电与增程）及 V9——一款 7 座增程 MPV，建议零售价 38.98 万—51.98 万元。2025 年销量 9.05 万辆，同比增长 56%。",
+      "status": "active",
+      "source_ids": ["s30", "s31", "s9", "s14", "s16", "s34"]
+    },
+    {
+      "name_en": "OMODA & JAECOO",
+      "name_zh": "欧萌达 & 杰酷（OMODA & JAECOO）",
+      "role_en": "Chery's brands aimed mainly at overseas markets.",
+      "role_zh": "奇瑞面向海外市场的品牌组合，主要在中国以外销售。",
+      "price_band": "Not separately disclosed",
+      "founded": 2023,
+      "owner_note_en": "OMODA's first model (Omoda 5) rolled off the line in March 2022; OMODA & JAECOO debuted as independent brands at Auto Shanghai on 18 April 2023.",
+      "owner_note_zh": "OMODA 首款车型（Omoda 5）于 2022 年 3 月下线；OMODA & JAECOO 于 2023 年 4 月 18 日以独立品牌亮相上海车展。",
+      "status": "active",
+      "source_ids": ["s5", "s11"]
+    },
+    {
+      "name_en": "LEPAS",
+      "name_zh": "LEPAS",
+      "role_en": "A new-energy brand under the Chery group aimed at overseas markets.",
+      "role_zh": "奇瑞集团旗下面向海外市场的新能源品牌。",
+      "price_band": "Not separately disclosed",
+      "founded": 2025,
+      "owner_note_en": "Debuted as an independent brand in April 2025; its flagship model is the LEPAS L8, and it opened its first showroom in Jakarta, Indonesia in January 2026. The 2026 interim report lists LEPAS within the Chery brand's overseas product system.",
+      "owner_note_zh": "2025 年 4 月以独立品牌亮相；旗舰车型为 LEPAS L8，2026 年 1 月在印尼雅加达开设全球首家门店。2026 中期报告将其列于奇瑞品牌海外产品体系中。",
+      "status": "active",
+      "source_ids": ["s32", "s2"]
+    },
+    {
+      "name_en": "Chery Jaguar Land Rover",
+      "name_zh": "奇瑞捷豹路虎",
+      "role_en": "A 50:50 joint venture between Chery Automobile and Jaguar Land Rover producing Jaguar and Land Rover models in China.",
+      "role_zh": "奇瑞汽车与捷豹路虎各持 50% 的合资公司，在中国生产捷豹、路虎车型。",
+      "price_band": "Premium/luxury segment",
+      "founded": 2012,
+      "owner_note_en": "Established November 2012; its Changshu plant (opened October 2014) has a total annual capacity of 200,000 vehicles and builds models such as the Range Rover Evoque L, Discovery Sport, Jaguar XFL, XEL and E-PACE.",
+      "owner_note_zh": "2012 年 11 月成立；常熟工厂（2014 年 10 月投产）总年产能 20 万辆，生产揽胜极光 L、发现运动、捷豹 XFL、XEL、E-PACE 等车型。",
+      "status": "active",
+      "source_ids": ["s8"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "HKFRS",
+    "rows": [
+      { "fiscal_year": 2022, "revenue": 92618, "gross_margin_pct": 13.8, "net_profit": 6266, "rnd": 3646, "debt_ratio_pct": 93.1, "source_ids": ["s3"] },
+      { "fiscal_year": 2023, "revenue": 163205, "gross_margin_pct": 16.0, "net_profit": 11953, "rnd": 6664, "debt_ratio_pct": 91.9, "source_ids": ["s3"] },
+      { "fiscal_year": 2024, "revenue": 269897, "gross_margin_pct": 13.5, "net_profit": 14135, "rnd": 9243, "debt_ratio_pct": 87.9, "source_ids": ["s3"] },
+      { "fiscal_year": 2025, "revenue": 300287, "gross_margin_pct": 13.8, "net_profit": 19019, "rnd": 11444, "debt_ratio_pct": 80.4, "source_ids": ["s1"] }
+    ],
+    "note_en": "Fiscal year ends 31 December. Figures are prepared under Hong Kong Financial Reporting Standards (HKFRS), in RMB millions. FY2022-2024 are from the global-offering prospectus published 2025-09-17; FY2025 is from the 2025 annual report. net_profit is profit attributable to owners of the Company (本公司拥有人应占利润, i.e. attributable to the parent), not total profit for the year: in FY2025 total profit for the year was RMB19,507 million while the amount attributable to owners was RMB19,019 million. rnd is research and development expenses expensed in the income statement. debt_ratio_pct is the year-end total-liabilities-to-total-assets ratio. gross_margin_pct is the consolidated gross margin. Separately, for H1 2026 (six months ended 30 June 2026, unaudited, a different period not included in the table above): revenue RMB143,280 million, profit attributable to owners RMB8,567 million, R&D expenses RMB6,672 million, gross margin 16.1%, and cash and cash equivalents RMB63,419 million (2026 interim report).",
+    "note_zh": "财年截至 12 月 31 日。数据按香港财务报告准则（HKFRS）编制，单位为人民币百万元。2022—2024 财年取自 2025 年 9 月 17 日刊发的全球发售招股章程，2025 财年取自 2025 年度报告。net_profit 为「本公司拥有人应占利润」（归母净利润口径），并非年内利润总额：2025 财年年内利润为 19,507 百万元，本公司拥有人应占利润为 19,019 百万元。rnd 为利润表列示的研发开支（费用化）。debt_ratio_pct 为期末资产负债率（总负债/总资产）。gross_margin_pct 为综合毛利率。另：2026 年上半年（截至 2026 年 6 月 30 日止六个月，未经审核，期间与上表全年数据不同，不并入上表）营收 143,280 百万元、本公司拥有人应占利润 8,567 百万元、研发开支 6,672 百万元、毛利率 16.1%、现金及现金等价物 63,419 百万元（来源 2026 中期报告）。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Chery Automobile Co., Ltd. (HKEX: 9973.HK) is a passenger-vehicle manufacturer headquartered in Wuhu, Anhui, that designs, develops, manufactures and sells internal-combustion and new-energy passenger vehicles. Its predecessor was incorporated on 8 January 1997 <a href=\"https://en.cheryholding.com/article/category/plate.html\">[s29]</a><a href=\"https://www.chery.cn/brandshow/brandhistory\">[s5]</a>. The company operates five passenger-vehicle brands — Chery, Jetour, Exeed, iCAR and Luxeed <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a> — and holds a 50% stake in the Chery Jaguar Land Rover joint venture <a href=\"https://www.cheryjaguarlandrover.com/?p=2606\">[s8]</a>. It is one of China's largest passenger-vehicle exporters: in 2025 it exported about 1.294 million vehicles (up 33.2%); separately, the wider Chery group reported 23 consecutive years as the largest Chinese-brand passenger-vehicle exporter <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>. On 25 September 2025 it listed on the Main Board of the Hong Kong Stock Exchange at HK$30.75 per share, raising gross proceeds of HK$9,145 million <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0924/2025092401263_c.pdf\">[s4]</a>. For FY2025 it reported revenue of RMB300,287 million and profit attributable to owners of RMB19,019 million <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>, and for H1 2026 revenue of RMB143,280 million and profit attributable to owners of RMB8,567 million <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>.</p><p>Chery is a mixed-ownership enterprise with no actual controller; its single largest shareholder, Wuhu Investment Holding, is controlled by the Wuhu Municipal SASAC <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700014_c.pdf\">[s3]</a>. In 2025 the five brands Chery, Jetour, Exeed, iCAR and Luxeed sold 1,700,940, 622,590, 120,369, 96,989 and 90,493 vehicles respectively <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a>. Under the broader Chery Holding group, total vehicle sales reached 2,806,393 units in 2025, and the group ranked No.233 on the Fortune Global 500 <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a><a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>; by March 2026 the group's cumulative vehicle exports exceeded 6 million <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>.</p>",
+      "zh": "<p>奇瑞汽车股份有限公司（港交所：9973.HK）总部位于安徽省芜湖市，是一家设计、开发、制造并销售燃油车与新能源乘用车的整车企业，前身于 1997 年 1 月 8 日注册成立 <a href=\"https://en.cheryholding.com/article/category/plate.html\">[s29]</a><a href=\"https://www.chery.cn/brandshow/brandhistory\">[s5]</a>。公司旗下拥有奇瑞、捷途、星途、iCAR、智界五大乘用车品牌 <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>，并持有奇瑞捷豹路虎合资公司 50% 股权 <a href=\"https://www.cheryjaguarlandrover.com/?p=2606\">[s8]</a>。它是中国乘用车出口规模最大的自主品牌企业之一：2025 年出口约 129.4 万辆、同比增长 33.2%；另据集团披露，奇瑞集团连续 23 年位居中国品牌乘用车出口第一 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>。2025 年 9 月 25 日，公司在香港联交所主板上市，发售价 30.75 港元，募资总额 91.45 亿港元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0924/2025092401263_c.pdf\">[s4]</a>。2025 财年营收 3,002.87 亿元、本公司拥有人应占利润 190.19 亿元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>；2026 年上半年营收 1,432.80 亿元、本公司拥有人应占利润 85.67 亿元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。</p><p>奇瑞为混合所有制企业、无实际控制人，单一最大股东芜湖投资控股由芜湖市国资委控制 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700014_c.pdf\">[s3]</a>。2025 年五大品牌奇瑞、捷途、星途、iCAR、智界销量分别为 170.09 万、62.26 万、12.04 万、9.70 万、9.05 万辆 <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a>。更广口径的奇瑞控股集团 2025 年合计销售汽车 280.64 万辆，位列《财富》世界 500 强第 233 位 <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a><a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>；截至 2026 年 3 月，集团累计出口汽车突破 600 万辆 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Chery earns most of its revenue from passenger-vehicle sales. In FY2025 total revenue was RMB300,287 million, of which revenue from passenger-vehicle sales was RMB272,352 million (up 10.3%), revenue from automotive components and parts was RMB21,725 million, and other revenue was RMB6,210 million <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. By customer location, revenue from China (including Hong Kong, Macau and Taiwan) was RMB142,868 million and revenue from other countries and regions was RMB157,419 million, so overseas revenue exceeded domestic revenue for the first time, at 52.4% of the total <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. In H1 2026 revenue was RMB143,280 million, of which overseas revenue was RMB98,968 million (up 51.0%, about 69.1% of the total) and new-energy revenue was RMB59,284 million (up 63.8%, 41.4% of the total) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>.</p><h3>Group and business boundary</h3><p>Chery Automobile is the listed passenger-vehicle entity. The wider Chery Holding group also covers commercial vehicles and other businesses: in 2025 the group sold 2,806,393 vehicles, of which Chery Automobile accounted for 2,631,381 <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a>. After the shareholder 'sinking' completed on 20 January 2025, Chery Holding no longer holds any shares in Chery Automobile, which has no controlling or ultimate holding company; 'Chery group' is a business grouping rather than a legal parent-subsidiary relationship <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. The Chery Holding group has more than 300 member companies including Chery Automobile, Chery Commercial Vehicle, Chery Auto Finance and Chery Technology, with business covering more than 130 countries and regions <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>, and its commercial-vehicle operations span heavy, mini and light trucks and pickups <a href=\"https://www.imsilkroad.com/news/p/803024.html\">[s20]</a>. Its finance arm, Chery Huishang Auto Finance, was China's first specialised auto-finance company jointly founded by a self-owned-brand automaker and a local bank <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>; its components arm Chery Technology holds more than 90 companies, of which three are listed <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>.</p><h3>Core technology and platforms</h3><p>Chery's technology stack centres on five areas — the Mars architecture, Kunpeng powertrain, Lingxi intelligent cockpit, Falcon intelligent driving and the Galaxy ecosystem — with more than 400 core technology reserves <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>. Its Kunpeng powertrain architecture was released in April 2021 <a href=\"https://www.chery.cn/brandshow/brandhistory\">[s5]</a>. In April 2018 it launched its intelligentisation strategy brand 'Chery Lion', and in May 2021 its full-function hybrid DHT rolled off the line <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>. Research and development expenses were RMB11,444 million in FY2025, up from RMB9,243 million in FY2024 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. In 2025 invention-patent applications rose nearly 50% and grants rose over 300%, ranking first in Anhui province for 12 consecutive years <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>. The company runs multiple powertrain routes in parallel — hybrid, range-extended, battery-electric and hydrogen — and more than 90% of its newly launched models in 2025 were new-energy vehicles, covering a price band of roughly RMB100,000-400,000 <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>. On next-generation batteries, Chery has said a solid-liquid hybrid (semi-solid) battery would be carried first by the Exeed EX7 in Q4 2026, while full solid-state batteries target batch vehicle installation and road validation from 2027, first on the Exeed ES8 <a href=\"https://www.news.cn/auto/20260323/919592be80c64b1fb3897aa743812f75/c.html\">[s25]</a>.</p><h3>Production bases and capacity</h3><p>The company relies on 12 main production bases, including three overseas bases, with sales and service networks covering Europe, South America, Africa and the Middle East <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>. Chery completed a vehicle plant in Brazil in August 2014 for local production <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>, and in China it began construction of its Intelligent Connected Vehicle Plant No.1 in February 2021 and put its Qingdao super factory into production in November 2022 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>. Its first European vehicle factory is the Barcelona plant operated through a joint venture with Spain's EBRO (EV Motors), which began producing its first model on 23 November 2024 <a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[s13]</a>. The Chery Jaguar Land Rover joint venture runs a plant in Changshu with total annual capacity of 200,000 vehicles <a href=\"https://www.cheryjaguarlandrover.com/?p=2606\">[s8]</a>.</p><h3>Domestic market position</h3><p>In 2025 Chery sold 2,631,381 self-owned passenger vehicles on the listed-company basis, compared with 2,444,640 in 2024, up approximately 8% according to the annual sales announcement <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100573.pdf\">[s35]</a>. New-energy passenger-vehicle sales were 826,500 units (up 72.5%) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. The company has said that from November 2025 its new-energy wholesale volume ranked among the top three in China's new-energy industry <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>. Its 15-millionth vehicle rolled off the line in October 2024 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>. By group measure, annual sales passed 1.23 million vehicles with revenue above RMB200 billion in 2022, exceeded 1.88 million in 2023, topped 2.6 million in 2024, and reached a record 2.8 million in 2025; group sales were 1.26 million in H1 2025 and over 1.35 million in H1 2026 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>; its cumulative global vehicle users passed 10 million in December 2021 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>; its 5-millionth vehicle rolled off the line in December 2015, and in September 2015 it ranked third among Chinese companies for 'best overseas image' <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>.</p><h3>Overseas business</h3><p>Chery exported about 1.294 million vehicles in 2025 (up 33.2%), while the wider Chery group reported 23 consecutive years as the largest Chinese-brand passenger-vehicle exporter <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>. Overseas revenue was RMB157,419 million in 2025 (about 52.4% of the total) and RMB98,968 million in H1 2026 (about 69.1%) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>. In Europe the company entered 16 countries including the UK and Italy, with full-year 2025 sales up more than 200% and right-hand-drive market sales up over 100%; its EBRO localisation project in Spain is proceeding as planned, and the company obtained China's first China-Europe carbon-footprint data mutual-recognition certificate <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[s13]</a>.</p><h3>New-energy business</h3><p>In 2025 new-energy revenue was RMB98,023 million (up 66.3%), 32.6% of total revenue, and the new-energy gross margin improved to 8.8% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. More than 90% of models newly launched in 2025 were new-energy vehicles; the Fulwin A9L delivered over 10,000 units for four consecutive months and the Fulwin T11 entered the top three of the range-extended large-SUV segment in its first month, while new-energy export sales grew more than 500% <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>. New-energy products are spread across the Chery Fulwin, Exeed Sterra, Luxeed and iCAR series <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>.</p><h3>Financial position</h3><p>As at 30 June 2026, cash and cash equivalents were RMB63,419 million (up 35.1% from end-2025), while bank loans and other borrowings fell to RMB10,004 million from RMB15,924 million <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>. H1 2026 net margin was 6.3%, and finance expenses fell to RMB549 million from RMB1,449 million (down 62.1%) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>. The company's year-end liabilities-to-assets ratio declined to 80.4% in 2025 from 87.9% in 2024 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</p>",
+      "zh": "<h3>业务结构</h3><p>奇瑞收入主要来自乘用车销售。2025 财年总收入 3,002.87 亿元，其中乘用车销售收入 2,723.52 亿元（同比增 10.3%）、汽车组件及零部件收入 217.25 亿元、其他收入 62.10 亿元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。按客户所在地划分，来自中国（含港澳台）的收入为 1,428.68 亿元，来自其他国家和地区的收入为 1,574.19 亿元，海外营收首次超过国内、占总收入 52.4% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。2026 年上半年营收 1,432.80 亿元，其中海外收入 989.68 亿元（同比增 51.0%、约占 69.1%）、新能源收入 592.84 亿元（同比增 63.8%、占 41.4%）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。</p><h3>集团与业务边界</h3><p>奇瑞汽车是上市主体，业务集中于乘用车。更广口径的「奇瑞控股集团」还涵盖商用车等业务：2025 年集团销售汽车 280.64 万辆，其中奇瑞汽车 263.14 万辆 <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a>。2025 年 1 月 20 日「股东下沉」完成后，奇瑞控股不再持有奇瑞汽车股份，奇瑞汽车无控股公司、亦无最终控股公司，「奇瑞集团」为业务称谓而非法律上的母子公司关系 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。奇瑞控股集团旗下拥有奇瑞汽车、奇瑞商用车、奇瑞汽金、奇瑞科技等 300 余家成员企业，业务覆盖全球 130 多个国家和地区 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>；集团商用车板块覆盖重卡、微卡、轻卡、皮卡等品类 <a href=\"https://www.imsilkroad.com/news/p/803024.html\">[s20]</a>。金融板块旗下奇瑞徽银汽车金融，是中国第一家由自主品牌车企与本土银行合资成立的专业汽车金融公司 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>；零部件板块奇瑞科技旗下现有企业 90 余家，其中上市企业 3 家 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>。</p><h3>核心技术与平台</h3><p>奇瑞技术栈以火星架构、鲲鹏动力、灵犀智舱、猎鹰智驾、银河生态五大领域为核心，已形成 400 余项核心技术储备 <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>。其鲲鹏动力架构于 2021 年 4 月发布 <a href=\"https://www.chery.cn/brandshow/brandhistory\">[s5]</a>。2018 年 4 月发布智能化战略品牌「奇瑞雄狮」，2021 年 5 月全功能混动构型 DHT 正式下线 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>。2025 年研发开支 114.44 亿元（2024 年为 92.43 亿元）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>；全年发明专利申请量同比增长近 50%、授权量增幅超 300%，连续 12 年位居安徽省发明专利排行榜第一 <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>。奇瑞坚持混动、增程、纯电、氢能多技术路线并举，2025 年上市新车中新能源占比超 90%，产品价格带覆盖约 10 万—40 万元 <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>。在下一代电池上，奇瑞规划固液混合电池于 2026 年第四季度由星途 EX7 率先搭载，全固态电池力争 2027 年启动批量装车与道路验证、由星途 ES8 首搭 <a href=\"https://www.news.cn/auto/20260323/919592be80c64b1fb3897aa743812f75/c.html\">[s25]</a>。</p><h3>工厂与产能</h3><p>公司依托全球 12 家主要生产基地（含 3 家海外基地），销售服务网络覆盖欧洲、南美洲、非洲、中东等地区 <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>。2014 年 8 月奇瑞巴西工厂落成并实现本地生产 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>；在国内，2021 年 2 月奇瑞智能网联一工厂开工、2022 年 11 月青岛超级工厂落成投产 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>。其欧洲首个整车工厂为与西班牙 EBRO（EV Motors）合资的巴塞罗那工厂，2024 年 11 月 23 日启动首款车型生产 <a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[s13]</a>。奇瑞捷豹路虎合资公司在常熟设有工厂，总年产能 20 万辆 <a href=\"https://www.cheryjaguarlandrover.com/?p=2606\">[s8]</a>。</p><h3>国内市场地位</h3><p>2025 年奇瑞自主乘用车销量为 2,631,381 辆（上市主体口径），2024 年为 2,444,640 辆，按年度销量公告口径同比增长约 8% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100573.pdf\">[s35]</a>。其中新能源乘用车销量为 82.65 万辆（同比增 72.5%）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。公司表示，自 2025 年 11 月起其新能源批发销量稳居国内新能源行业前三 <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>；2024 年 10 月奇瑞全球第 1500 万辆汽车下线 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>。从历年销量看（集团口径），2022 年销量突破 123 万辆、营收超 2,000 亿元，2023 年首次突破 188 万辆，2024 年首次突破 260 万辆，2025 年达 280 万辆创历史新高；2025 年上半年集团销量 126 万辆、2026 年上半年超 135 万辆 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>；2021 年 12 月奇瑞全球汽车用户突破 1000 万 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>；2015 年 12 月第 500 万辆汽车下线、2015 年 9 月获中国「最佳海外形象」企业第三位 <a href=\"https://www.cheryholding.com/article/category/集团介绍.html\">[s6]</a>。</p><h3>海外业务</h3><p>2025 年奇瑞出口约 129.4 万辆（同比增 33.2%）；另据集团披露，奇瑞集团连续 23 年位居中国品牌乘用车出口第一 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>。海外收入 2025 年为 1,574.19 亿元（约占总收入 52.4%）、2026 年上半年为 989.68 亿元（约占 69.1%）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。欧洲市场已进入英国、意大利等 16 个国家，2025 年全年销量同比增长超 200%、右舵市场销量同比增速超 100%；西班牙埃布罗（EBRO）本地化合作项目按计划推进，公司率先获得中国首张中欧碳足迹数据互认证书 <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[s13]</a>。</p><h3>新能源业务</h3><p>2025 年新能源业务收入 980.23 亿元（同比增 66.3%）、占总收入 32.6%，新能源毛利率提升至 8.8% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。2025 年全新上市车型中新能源占比超 90%，风云 A9L 连续 4 个月交付破万、风云 T11 上市首月即进入增程大型 SUV 市场前三，新能源出口销量同比增长超 500% <a href=\"https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml\">[s15]</a>。新能源产品分布于奇瑞风云、星途星纪元、智界、iCAR 等多个品牌序列 <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>。</p><h3>财务结构</h3><p>截至 2026 年 6 月 30 日，现金及现金等价物 634.19 亿元（较 2025 年末增长 35.1%），银行贷款及其他借款由 159.24 亿元降至 100.04 亿元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。2026 年上半年净利润率 6.3%，财务费用由 14.49 亿元降至 5.49 亿元（降幅 62.1%）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。公司期末资产负债率由 2024 年的 87.9% 降至 2025 年的 80.4% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Yin Tongyue (born November 1962) is the founder, executive director, chairman and president of Chery Automobile. He graduated from Hefei University of Technology with a bachelor's degree in automotive design in July 1984 and previously worked at FAW-Volkswagen as a workshop director and logistics section chief. He joined the founding of Chery in October 1996, has been an executive director since January 1997, chairman since February 2004, and president since December 2024 with overall responsibility for daily operations. He has been chairman of Chery Holding since October 2010 and chairman of Chery New Energy since April 2025, and was elected a deputy to the 14th National People's Congress in February 2023 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. His awards include the State Scientific and Technological Progress Award (second class, 2008) and the China Auto Industry Rao Bin Award (2024) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</p><h3>Key management</h3><ul><li><strong>Zhang Guozhong</strong> — executive director (since March 2024). He was executive vice president of Chery Automobile from December 2024 until 23 September 2026, when he was transferred to executive vice president of Chery Holding Group. He joined the group in July 1997 and has been a director of Chery Technology since September 2017 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www.cnr.cn/2013qcpd/djfb/20260923/t20260923_527822771.shtml\">[s24]</a>.</li><li><strong>Zhang Guibing</strong> — executive vice president of Chery Automobile since 23 September 2026. He joined Chery in 1999 and has long led its overseas and international business, including as chairman of Chery Overseas Industrial Investment and general manager of Chery International <a href=\"https://www.cnr.cn/2013qcpd/djfb/20260923/t20260923_527822771.shtml\">[s24]</a>.</li></ul><h3>Board and governance</h3><p>According to the 2026 interim report, the board comprises: executive directors Yin Tongyue (chairman and president) and Zhang Guozhong; non-executive directors Wang Laichun, Li Jing, Wang Jinhua, Wang Xiaowei, Bao Siyu, Yin Xiangling and Hu Jingyuan; independent non-executive directors Shang Wenjiang, Yang Mianzhi, Ye Shengji, Lu Feng, Shi Qin (appointed 20 May 2026), Li Ruxiong and Yang Shanlin (retired 20 May 2026). The auditor is Ernst &amp; Young, and the board has established committees covering risk control and audit, nomination and remuneration, and strategy and sustainable development <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>.</p><h3>Shareholders and control</h3><p>Chery is a mixed-ownership enterprise with no actual controller: the prospectus states that, under the Measures for the Supervision and Administration of Transactions of State-owned Assets of Enterprises, the company is not a state-owned enterprise, a state-controlled enterprise or an enterprise actually controlled by the state as defined therein <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700014_c.pdf\">[s3]</a>. As at 30 June 2026, the main shareholders were Wuhu Investment Holding (about 19.93%), Luxshare Investment (Hong Kong) (about 15.85%) and the employee platform Ruichuang (about 10.84%); the three employee platforms Ruichuang, Hengrui and Zhenrui together held about 17.19% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>尹同跃（1962 年 11 月生）是奇瑞汽车创始人、执行董事、董事长兼总裁。1984 年 7 月毕业于合肥工业大学汽车设计专业，此后曾在一汽-大众任车间主任、物流科科长。1996 年 10 月参与公司筹建，1997 年 1 月起任执行董事，2004 年 2 月起任董事长，2024 年 12 月起任总裁、全面负责集团日常经营管理；2010 年 10 月起任奇瑞控股董事长，2025 年 4 月起任奇瑞新能源董事长，2023 年 2 月当选第十四届全国人大代表 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。他曾获国家科学技术进步二等奖（2008 年）、中国汽车工业饶斌奖（2024 年）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</p><h3>核心管理层</h3><ul><li><strong>张国忠</strong> — 执行董事（2024 年 3 月起）；2024 年 12 月至 2026 年 9 月 23 日任奇瑞汽车常务副总裁，2026 年 9 月 23 日起调任奇瑞控股集团常务副总裁。1997 年 7 月加入，2017 年 9 月起任奇瑞科技董事 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a><a href=\"https://www.cnr.cn/2013qcpd/djfb/20260923/t20260923_527822771.shtml\">[s24]</a>。</li><li><strong>张贵兵</strong> — 2026 年 9 月 23 日起任奇瑞汽车常务副总裁。1999 年加入奇瑞，长期负责海外出口与国际化业务，曾任奇瑞海外实业投资有限公司董事长、奇瑞国际公司总经理 <a href=\"https://www.cnr.cn/2013qcpd/djfb/20260923/t20260923_527822771.shtml\">[s24]</a>。</li></ul><h3>董事会与治理</h3><p>据 2026 年中期报告，董事会成员为：执行董事尹同跃（董事长兼总裁）、张国忠；非执行董事王来春、李晶、王津华、王孝伟、鲍思语、尹祥领、胡敬源；独立非执行董事商文江、杨棉之、叶盛基、路风、石琴（2026 年 5 月 20 日获委任）、黎汝雄、杨善林（2026 年 5 月 20 日退任）；核数师为安永会计师事务所，董事会下设风险控制与审计、提名与薪酬考核、战略与可持续发展等专门委员会 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。</p><h3>股东与股权控制</h3><p>奇瑞为混合所有制企业、无实际控制人：招股书明确，根据《企业国有资产交易监督管理办法》，公司并非其中界定的国有企业、国有控股企业或国有实际控制企业 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700014_c.pdf\">[s3]</a>。截至 2026 年 6 月 30 日，主要股东为芜湖投资控股（约 19.93%）、立讯投资（香港）（约 15.85%）、员工持股平台瑞创（约 10.84%）；瑞创、衡瑞、振瑞三个员工平台合计持股约 17.19% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。</p>"
+    },
+    "competition": {
+      "en": "<h3>Main competitors</h3><p>Our assessment: Chery competes in China's mass-market and export segments against BYD, Geely, Changan and Great Wall Motor, and in premium new energy through Luxeed against other Huawei-backed brands. In 2025 it sold 826,500 new-energy passenger vehicles (about 31.4% of its self-owned passenger-vehicle sales), and new-energy revenue was 32.6% of total revenue <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. In 2025 the listed company exported about 1.294 million vehicles <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. Separately, the wider Chery group reported cumulative exports of 5.85 million vehicles by end-2025 and 23 consecutive years as the largest Chinese-brand passenger-vehicle exporter; these group figures have a broader scope than the listed company’s annual exports <a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>.</p><h3>Strengths — our assessment</h3><ul><li>Export scale: the listed company exported about 1.294 million vehicles in 2025 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>; separately, the wider Chery group reported 23 consecutive years as the largest Chinese-brand passenger-vehicle exporter <a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>.</li><li>Scale and profitability improving together: FY2025 revenue reached RMB300,287 million and profit attributable to owners rose 34.6% to RMB19,019 million, equivalent to an attributable net margin of about 6.33% (RMB19,019 million / RMB300,287 million). Profit for the year, including non-controlling interests, was RMB19,507 million, equivalent to a net margin of about 6.5% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li>Global manufacturing footprint: 12 main production bases including three overseas, with localisation advancing in Spain and elsewhere <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>.</li><li>A five-brand portfolio spanning mass-market, premium, off-road, young-customer and intelligent-driving segments <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>.</li></ul><h3>Weaknesses — our assessment</h3><ul><li>Relatively low gross margin: consolidated gross margin was 13.8% in 2025, and the new-energy gross margin of 8.8% was below the company's overall level <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li>Elevated leverage: the year-end liabilities-to-assets ratio was about 80.4% in 2025, down from 87.9% in 2024 but still high <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li>Small upmarket scale: in 2025 Exeed sold 120,369 vehicles (down about 15%) and Luxeed 90,493 (up 56%), both far below the core Chery brand <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a>.</li></ul><p>Our assessment: Chery's core strengths are its export scale and localised manufacturing capability; its 2025 consolidated gross margin of 13.8% and new-energy gross margin of 8.8% are relatively moderate, and new-energy vehicles were about 31.4% of its sales, so if it cannot accelerate its domestic new-energy transition, growth and profit will remain more dependent on exports and its fuel-vehicle base <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</p>",
+      "zh": "<h3>主要对手</h3><p>我们的判断：奇瑞在中国大众市场与出口市场与比亚迪、吉利、长安、长城汽车竞争，在高端新能源领域通过智界与其他华为系品牌竞争。2025 年新能源乘用车销量 82.65 万辆（约占自主乘用车总销量的 31.4%）、新能源收入占公司总收入 32.6% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。2025 年上市主体出口约 129.4 万辆 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。另据奇瑞控股公告，更广口径的奇瑞集团截至 2025 年底累计出口 585 万辆，连续 23 年位居中国品牌乘用车出口第一；这两项集团数据与上市主体年度出口量的统计范围不同 <a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>。</p><h3>优势（我们的判断）</h3><ul><li>出口规模：上市主体 2025 年出口约 129.4 万辆 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>；另据集团公告，奇瑞集团连续 23 年位居中国品牌乘用车出口第一 <a href=\"https://www.cheryholding.com/article/1085.html\">[s33]</a>。</li><li>规模与效益同步提升：2025 财年营收 3,002.87 亿元，本公司拥有人应占利润 190.19 亿元（同比增 34.6%），归母净利率约 6.33%（190.19 亿元 / 3,002.87 亿元）；包含少数股东损益的年内利润为 195.07 亿元，对应净利润率约 6.5% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li>全球制造布局：12 家主要生产基地（含 3 家海外基地），并在西班牙等地推进本地化 <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>。</li><li>五大品牌矩阵，覆盖大众、高端、越野、年轻化与智能驾驶等多元细分市场 <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s12]</a>。</li></ul><h3>短板（我们的判断）</h3><ul><li>毛利率偏低：2025 年综合毛利率 13.8%，其中新能源毛利率 8.8%、低于公司整体水平 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li>杠杆偏高：2025 年末资产负债率约 80.4%，较 2024 年的 87.9% 下降，但仍处于较高水平 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li>高端化规模尚小：2025 年星途销量 12.04 万辆（同比降约 15%）、智界 9.05 万辆（同比增 56%），均远低于奇瑞主品牌 <a href=\"https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html\">[s14]</a>。</li></ul><p>我们的判断：奇瑞的核心竞争力在于出口规模与本地化制造能力；其 2025 年综合毛利率 13.8%、新能源毛利率 8.8% 相对偏低，新能源销量占比约 31.4%，若国内新能源转型不能加速补齐，增长与盈利将更依赖海外与燃油车基本盘 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets and plans</h3><p>For 2026 the Chery group announced a sales target of 3.2 million vehicles (up about 14% from 2025) and plans to launch 17 key models, focusing on new-fuel, new-energy, new-overseas, new-business and new-technology tracks <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260113_6532986.html\">[s19]</a>. The company's FY2025 report emphasised brand-upmarket moves, with Exeed and Luxeed positioned to drive the high end; Exeed began blind bookings for its EX7 aimed at the RMB200,000 segment in March 2026 <a href=\"https://ifnews.com/news.html?aid=816178\">[s16]</a>. On solid-state batteries, Chery said a semi-solid (solid-liquid hybrid) battery would be carried first by the Exeed EX7 in Q4 2026, while full solid-state batteries would target batch vehicle-installation and road validation from 2027, first on the Exeed ES8 <a href=\"https://www.news.cn/auto/20260323/919592be80c64b1fb3897aa743812f75/c.html\">[s25]</a>.</p><h3>Our analysis</h3><p>Our assessment: Chery's disclosed figures show a company whose growth and profit are increasingly carried by exports and, more recently, new energy. In H1 2026 overseas revenue reached about 69.1% of total revenue, so the balance between home-market transition and overseas expansion is a central variable <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>. Whether profitability keeps improving depends on at least three conditions — whether new-energy sales (826,500 units in 2025, up 72.5%) can keep scaling without eroding gross margin, whether the upmarket Exeed and Luxeed brands gain volume, and whether overseas expansion can continue in the face of European and other trade measures <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. These conditions are not guaranteed, and none of this is a forecast of the share price.</p><p>Our assessment: the gap between the 2025 new-energy gross margin of 8.8% and the overall 13.8% margin makes product mix and pricing relevant to future profitability. Overseas growth also increases exposure to the international risks identified in the annual report <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>. If pricing or trade conditions deteriorate, margins and expansion could face pressure; a better product mix and effective localisation could mitigate it. These are conditional judgments.</p>",
+      "zh": "<h3>公司目标与规划</h3><p>面向 2026 年，奇瑞集团宣布销量目标为 320 万辆（较 2025 年增长约 14%），计划推出 17 款重点车型，聚焦「新燃油、新能源、新出海、新业务、新科技」五大航道 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260113_6532986.html\">[s19]</a>。2025 年财报的展望强调「品牌向上」，星途与智界被寄予推动高端的厚望；2026 年 3 月星途瞄准 20 万级市场的 EX7 启动盲订 <a href=\"https://ifnews.com/news.html?aid=816178\">[s16]</a>。在固态电池上，奇瑞表示固液混合电池将于 2026 年第四季度由星途 EX7 率先搭载，全固态电池则力争 2027 年启动批量装车与道路验证、由星途 ES8 首搭 <a href=\"https://www.news.cn/auto/20260323/919592be80c64b1fb3897aa743812f75/c.html\">[s25]</a>。</p><h3>我们的分析</h3><p>我们的判断：奇瑞披露的数据显示，其增长与利润越来越依赖出口，近两年又叠加了新能源。2026 年上半年海外收入已占总收入约 69.1%，国内转型与海外扩张之间的平衡成为核心变量 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf\">[s2]</a>。盈利能力能否持续改善，取决于至少三个条件——新能源销量（2025 年 82.65 万辆、增 72.5%）能否在不侵蚀毛利率的前提下继续放量，星途、智界能否真正上量，以及海外扩张能否在欧洲等地贸易措施下持续推进 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。这些条件并非必然成立；以上不构成对股价的任何预测。</p><p>我们的判断：2025 年新能源毛利率 8.8% 与整体毛利率 13.8% 的差距，使产品结构与定价成为后续盈利的重要变量；海外业务增长也增加了公司对年报所列国际运营风险的敞口 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。若价格或贸易环境恶化，利润率与扩张可能承压；产品结构改善及有效本地化则可能缓解压力。以上为有条件的判断。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Operating exposure:</strong> new-energy revenue accounted for 32.6% of FY2025 revenue; its gross margin was 8.8%, compared with 13.8% overall <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li><strong>Financial exposure:</strong> year-end 2025 liabilities were about 80.4% of assets; operating cash inflow fell from RMB44,887 million in 2024 to RMB20,130 million in 2025 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li><strong>Overseas and currency risks:</strong> the annual report identifies geopolitical uncertainty, trade compliance, exchange-rate volatility and differing regulatory regimes as international operating risks <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li><strong>Competition and technology risks:</strong> the annual report warns of intense competition, changing demand and technology, and potential delays in model development, launches, production or delivery <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>.</li><li><strong>Concentrated-shareholding risk:</strong> the final offer price announcement warns that highly concentrated shareholding could cause significant H-share price volatility even with small trading volumes <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0924/2025092401263_c.pdf\">[s4]</a>.</li></ul>",
+      "zh": "<ul><li><strong>经营敞口：</strong>2025 财年新能源收入占总收入 32.6%，新能源毛利率为 8.8%，公司整体毛利率为 13.8% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li><strong>财务敞口：</strong>2025 年末资产负债率约 80.4%；经营现金流入净额从 2024 年的 448.87 亿元降至 2025 年的 201.30 亿元 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li><strong>海外与汇率风险：</strong>年报将地缘政治不确定性、贸易合规、汇率波动及不同监管制度列为国际运营风险 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li><strong>竞争与技术风险：</strong>年报提示行业竞争激烈、需求与技术变化，以及车型开发、上市、生产或交付延误的潜在风险 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s1]</a>。</li><li><strong>股权集中风险：</strong>最终发售价公告提示，股权高度集中可能导致即使少量 H 股交易也引发股价大幅波动 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0924/2025092401263_c.pdf\">[s4]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "奇瑞汽车 2025 年度报告（Chery Automobile 2025 Annual Report）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s2", "name": "奇瑞汽车 2026 中期报告（Chery Automobile 2026 Interim Report）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0907/2026090701306_c.pdf", "date": "2026-09-07", "tier": "A" },
+    { "id": "s3", "name": "奇瑞汽车全球发售招股章程（Global Offering Prospectus）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700014_c.pdf", "date": "2025-09-17", "tier": "A" },
+    { "id": "s4", "name": "奇瑞汽车最终发售价及分配结果公告（Final Offer Price and Allotment Results）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0924/2025092401263_c.pdf", "date": "2025-09-24", "tier": "A" },
+    { "id": "s5", "name": "奇瑞汽车官网「品牌历程」（Chery official brand history）", "url": "https://www.chery.cn/brandshow/brandhistory", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "奇瑞控股官网「集团介绍」（Chery Holding group introduction）", "url": "https://www.cheryholding.com/article/category/集团介绍.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s7", "name": "奇瑞汽车 2025 年度 ESG 报告（2025 ESG Report）", "url": "https://www.chery.cn/media/z55fdfe5/2025-esg中文报告.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s8", "name": "奇瑞捷豹路虎官网「公司介绍」（Chery Jaguar Land Rover official site）", "url": "https://www.cheryjaguarlandrover.com/?p=2606", "date": "2026-10-29", "tier": "A" },
+    { "id": "s9", "name": "鸿蒙智行官网「智界 R7」（HIMA official site, Luxeed R7）", "url": "https://hima.auto/zhijie/r7", "date": "2026-10-29", "tier": "A" },
+    { "id": "s10", "name": "星途官网新闻「星纪元 ET/ES 增程版」（Exeed official news）", "url": "https://www.exeedcars.com/world/news/653400857677893.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s11", "name": "奇瑞国际官网「OMODA & JAECOO 全球首秀，上海车展新车亮相」（The Global Debut of OMODA&JAECOO — New Car Unveiled at the Shanghai Auto Show）", "url": "https://www.cheryinternational.com/omoda/", "date": "2023-04-19", "tier": "A" },
+    { "id": "s12", "name": "奇瑞汽车官网新闻「2026 中期业绩」（Chery official news, H1 2026 results）", "url": "https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk", "date": "2026-08-20", "tier": "A" },
+    { "id": "s13", "name": "人民日报刊载新华社报道「奇瑞西班牙合资工厂启动首款车型生产」（Xinhua report published in People's Daily）", "url": "https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm", "date": "2024-11-25", "tier": "B" },
+    { "id": "s14", "name": "人民网安徽「奇瑞集团 2025 年销量数据出炉」（People's Daily Online Anhui）", "url": "https://ah.people.com.cn/BIG5/n2/2026/0111/c227131-41469367.html", "date": "2026-01-11", "tier": "B" },
+    { "id": "s15", "name": "央视网「奇瑞汽车上市后首份年报出炉」（CCTV）", "url": "https://auto.cctv.com/2026/03/19/ARTIClvzwWgPeQwElAhygfFO260319.shtml", "date": "2026-03-19", "tier": "B" },
+    { "id": "s16", "name": "国际金融报「奇瑞上市后首份年报出炉」（International Finance News）", "url": "https://ifnews.com/news.html?aid=816178", "date": "2026-03-22", "tier": "B" },
+    { "id": "s17", "name": "成都商报/红星新闻「奇瑞上市后首份年报」（Red Star News）", "url": "https://static.cdsb.com/micropub/Articles/202603/4837b75f9ea09756a07ad405f35fb99f.html?from=official", "date": "2026-03-20", "tier": "B" },
+    { "id": "s18", "name": "中证网「奇瑞汽车 2025 年净利润 190.19 亿元」（China Securities Journal）", "url": "https://newzzbcx.cs.com.cn/cxnews.html?name=new20260318144501jszodlud", "date": "2026-03-18", "tier": "B" },
+    { "id": "s19", "name": "中证网「奇瑞集团 2026 年销量目标为 320 万辆」（China Securities Journal）", "url": "https://cs.com.cn/ssgs/gsxw/202601/t20260113_6532986.html", "date": "2026-01-13", "tier": "B" },
+    { "id": "s20", "name": "新华丝路网（奇瑞集团供稿）「奇瑞 2025 年 280 万销量创新高」（Xinhua Silk Road）", "url": "https://www.imsilkroad.com/news/p/803024.html", "date": "2026-01-05", "tier": "B" },
+    { "id": "s21", "name": "南方+「21 年，多次冲击上市」（Nanfang Plus）", "url": "https://static.nfnews.com/content/202509/16/c11729867.html", "date": "2025-09-16", "tier": "B" },
+    { "id": "s22", "name": "经济参考报「奇瑞汽车港交所挂牌上市」（Economic Information Daily）", "url": "https://www.jjckb.cn/20250925/3dfba9b847cc480387de5a1bb6aba29d/c.html", "date": "2025-09-25", "tier": "B" },
+    { "id": "s23", "name": "中新经纬「奇瑞汽车赴港 IPO 再递表」（JW View）", "url": "https://www.jwview.com/jingwei/html/m/08-29/630024.shtml", "date": "2025-08-29", "tier": "B" },
+    { "id": "s24", "name": "央广网「张贵兵任奇瑞汽车常务副总裁」（CNR）", "url": "https://www.cnr.cn/2013qcpd/djfb/20260923/t20260923_527822771.shtml", "date": "2026-09-23", "tier": "B" },
+    { "id": "s25", "name": "新华网「奇瑞汽车布局固态电池赛道」（Xinhua Net）", "url": "https://www.news.cn/auto/20260323/919592be80c64b1fb3897aa743812f75/c.html", "date": "2026-03-23", "tier": "B" },
+    { "id": "s26", "name": "中国证券网「奇瑞汽车发布 2026 年中期业绩」（Shanghai Securities News）", "url": "https://www.cnstock.com/commonDetail/764199", "date": "2026-08-20", "tier": "B" },
+    { "id": "s27", "name": "《创新变革 扬帆致远——纪念奇瑞创业25周年》（原载《奇瑞人》微信公众号，经济参考报网刊发）", "url": "https://www.jjckb.cn/2022-03/18/c_1310519631.htm", "date": "2022-03-18", "tier": "B" },
+    { "id": "s28", "name": "芜湖新闻网「25 年前的今天，奇瑞永远不忘」（Wuhu News）", "url": "https://www.wuhunews.cn/djzx/2024-12-18/523700.html", "date": "2024-12-18", "tier": "B" },
+    { "id": "s29", "name": "奇瑞控股英文官网「汽车板块」（Chery Holding, Industry Sectors — Chery Automobile）", "url": "https://en.cheryholding.com/article/category/plate.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s30", "name": "鸿蒙智行官网「智界 S7 参数配置表」（HIMA official site, Luxeed S7 configuration）", "url": "https://hima.auto/zhijie/s7/configuration/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s31", "name": "鸿蒙智行官网「智界 V9 参数配置表」（HIMA official site, Luxeed V9 configuration）", "url": "https://hima.auto/zhijie/v9/configuration/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s32", "name": "LEPAS 官网新闻「LEPAS 在印尼开设全球首家门店」（LEPAS official news）", "url": "https://lepasinternational.com/news/news_qy/detail-179.shtml", "date": "2026-01-19", "tier": "A" },
+    { "id": "s33", "name": "奇瑞控股官方公告「奇瑞集团2025年销量280.6万辆，出口134.4万辆」（Chery Holding official 2025 sales release）", "url": "https://www.cheryholding.com/article/1085.html", "date": "2026-01-02", "tier": "A" },
+    { "id": "s34", "name": "鸿蒙智行官网「智界 V9」（HIMA official site, Luxeed V9 MPV）", "url": "https://hima.auto/zhijie/v9/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s35", "name": "奇瑞汽车 2025 年 12 月及全年未经审核销量公告（Unaudited Sales Volume for December 2025）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100573.pdf", "date": "2026-01-01", "tier": "A" }
+  ]
+}

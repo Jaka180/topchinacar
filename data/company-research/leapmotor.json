@@ -1,0 +1,677 @@
+{
+  "id": "leapmotor",
+  "name_en": "Zhejiang Leapmotor Technology Co., Ltd.",
+  "name_zh": "浙江零跑科技股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2015",
+      "value_zh": "2015 年",
+      "period": null,
+      "source_ids": [
+        "s1",
+        "s13"
+      ]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Hangzhou, Zhejiang, China",
+      "value_zh": "中国浙江省杭州市",
+      "period": null,
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (no controlling shareholder designated)",
+      "value_zh": "民营（未认定控股股东）",
+      "period": null,
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "HKEX: 9863",
+      "value_zh": "港交所：9863",
+      "period": null,
+      "source_ids": [
+        "s1",
+        "s13"
+      ]
+    },
+    {
+      "label_en": "Employees (full-time)",
+      "label_zh": "员工数（全职）",
+      "value_en": "28,785",
+      "value_zh": "28,785 人",
+      "period": "2025-12-31",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "RMB 64,731.9 million",
+      "value_zh": "人民币 647.32 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Net profit attributable to equity holders of the parent (FY2025)",
+      "label_zh": "归母净利润（2025 财年）",
+      "value_en": "RMB 538.4 million",
+      "value_zh": "人民币 5.38 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Vehicle deliveries (2025)",
+      "label_zh": "销量（2025 年）",
+      "value_en": "596,555 units",
+      "value_zh": "59.66 万辆",
+      "period": "2025",
+      "source_ids": [
+        "s1",
+        "s26"
+      ]
+    },
+    {
+      "label_en": "Overseas deliveries / exports (2025)",
+      "label_zh": "海外销量 / 出口（2025 年）",
+      "value_en": "67,052 units (exports)",
+      "value_zh": "67,052 辆（出口）",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2015",
+      "event_en": "Leapmotor is founded in Hangzhou by Zhu Jiangming, a co-founder of the surveillance-equipment maker Dahua Technology, around a \"full in-house R&amp;D\" strategy for smart electric vehicles.",
+      "event_zh": "零跑在杭州成立，由安防企业大华股份联合创始人朱江明创办，确立智能电动汽车「全域自研」路线。",
+      "source_ids": [
+        "s1",
+        "s13"
+      ]
+    },
+    {
+      "date": "2019-07",
+      "event_en": "The first production model, the S01 coupe, begins delivery.",
+      "event_zh": "首款量产车型——轿跑 S01 开启交付。",
+      "source_ids": [
+        "s34"
+      ]
+    },
+    {
+      "date": "2020-05",
+      "event_en": "The T03 small city car begins delivery.",
+      "event_zh": "微型车 T03 开启交付。",
+      "source_ids": [
+        "s34"
+      ]
+    },
+    {
+      "date": "2021-10",
+      "event_en": "The C11 mid-size smart electric SUV begins delivery.",
+      "event_zh": "中型智能纯电 SUV C11 开启交付。",
+      "source_ids": [
+        "s34"
+      ]
+    },
+    {
+      "date": "2022-05",
+      "event_en": "Leapmotor introduces the C01 mid-to-large sedan. The prospectus describes its cell-to-chassis (CTC) technology and the then-planned start of deliveries in Q3.",
+      "event_zh": "零跑发布中大型轿车 C01。招股书介绍该车采用电池底盘一体化（CTC）技术，并在当时预计于第三季度交付。",
+      "source_ids": [
+        "s34"
+      ]
+    },
+    {
+      "date": "2022-09-29",
+      "event_en": "Leapmotor lists on the Main Board of the Hong Kong Stock Exchange (9863), with net proceeds from the global offering of approximately HK$6,168.9 million.",
+      "event_zh": "零跑在港交所主板挂牌（9863），全球发售所得款项净额约 61.69 亿港元。",
+      "source_ids": [
+        "s4",
+        "s21"
+      ]
+    },
+    {
+      "date": "2022-11",
+      "event_en": "Leapmotor enters its first overseas market, Israel, where its first overseas stores open in Tel Aviv, Haifa and Ramat Gan in November 2022.",
+      "event_zh": "零跑进军首个海外市场以色列，2022 年 11 月首批海外门店在特拉维夫、海法及拉马特甘相继落地。",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2023-07-31",
+      "event_en": "Leapmotor announces its \"Four-Leaf Clover\" centralized integrated electrical/electronic architecture on July 31, 2023. On January 10, 2024, it formally launches the LEAP 3.0 technology architecture, which incorporates that E/E architecture.",
+      "event_zh": "零跑于 2023 年 7 月 31 日发布「四叶草」中央集成式电子电气架构；2024 年 1 月 10 日正式发布 LEAP 3.0 技术架构，其中包含该电子电气架构。",
+      "source_ids": [
+        "s39",
+        "s3"
+      ]
+    },
+    {
+      "date": "2023-10-26",
+      "event_en": "Leapmotor signs a subscription agreement with Stellantis for 194,260,030 new H shares at HK$43.8 each. The subscription completes on 2023-11-20.",
+      "event_zh": "零跑与 Stellantis 签订认购协议，拟按每股 43.8 港元发行 194,260,030 股新 H 股；该认购于 2023 年 11 月 20 日完成交割。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2024-05",
+      "event_en": "Leapmotor International, the 51/49 joint venture with Stellantis, is formally established (registered in the Netherlands) to run export, sales and local manufacturing outside Greater China. 2024-07: Leapmotor International ships its first batch of vehicles to Europe.",
+      "event_zh": "零跑与 Stellantis 合资的零跑国际正式成立（在荷兰注册），负责大中华区以外的出口、销售及本地制造。 2024-07：零跑国际向欧洲发运首批整车。",
+      "source_ids": [
+        "s1",
+        "s12",
+        "s27"
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "event_en": "Leapmotor International opens orders in Europe for the T03 city car (from €18,900) and the C10 SUV (from €36,400), with initial markets including Belgium, France, Germany, Italy and the UK.",
+      "event_zh": "零跑国际在欧洲开放 T03（18,900 欧元起）与 C10（36,400 欧元起）两款车型的订购，首批市场包括比利时、法国、德国、意大利、英国等。",
+      "source_ids": [
+        "s28"
+      ]
+    },
+    {
+      "date": "2024-10-14",
+      "event_en": "The B10, the first global model of the new B series, makes its world debut at the Paris Motor Show.",
+      "event_zh": "全新 B 系列首款全球化车型 B10 在巴黎车展全球首秀。",
+      "source_ids": [
+        "s35"
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "event_en": "Leapmotor releases the LEAP 3.5 technology architecture with centralized domain control; its new and refreshed products in 2025 adopt this architecture, with C-series BEVs using an 800V platform.",
+      "event_zh": "零跑发布 LEAP 3.5 技术架构（中央域控）；2025 年全新及改款产品搭载该架构，C 系列纯电车型采用 800V 高压平台。",
+      "source_ids": [
+        "s26"
+      ]
+    },
+    {
+      "date": "2025-09",
+      "event_en": "Leapmotor’s one-millionth vehicle rolls off the line, 343 days after the 500,000th vehicle.",
+      "event_zh": "零跑第 100 万台整车下线，从第 50 万台到第 100 万台用时 343 天。",
+      "source_ids": [
+        "s37"
+      ]
+    },
+    {
+      "date": "2025-12-28",
+      "event_en": "Leapmotor unveils the D99 flagship MPV and signs a subscription agreement with FAW’s investment arm for 74,832,245 domestic shares at RMB50.03 each, with gross proceeds of approximately RMB3.744 billion, subject to completion.",
+      "event_zh": "零跑首发旗舰 MPV D99，并与一汽股权签署认购协议，按每股 50.03 元认购 74,832,245 股内资股，所得款项总额约 37.44 亿元，交易尚待完成。",
+      "source_ids": [
+        "s1",
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "event_en": "Leapmotor reports FY2025 results: 596,555 deliveries, revenue of RMB64.73 billion and a net profit attributable to equity holders of RMB538.4 million — its first full-year profit, making it the second Chinese EV start-up (after Li Auto) to reach annual profitability.",
+      "event_zh": "零跑发布 2025 年财报：交付 59.66 万辆，营收 647.3 亿元，归母净利润 5.38 亿元，首次实现全年盈利，成为继理想汽车之后第二家年度盈利的造车新势力。",
+      "source_ids": [
+        "s26",
+        "s36"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "event_en": "The A10, the first A-series model, launches on March 26. The D19 flagship large SUV launches on April 16 at RMB219,800–269,800.",
+      "event_zh": "全新 A 系列首款车型 A10 于 3 月 26 日上市；旗舰大型 SUV D19 于 4 月 16 日上市，售价 21.98 万—26.98 万元。",
+      "source_ids": [
+        "s21",
+        "s36"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "event_en": "The D99 flagship MPV launches, joining the D19 SUV in the D-series line-up.",
+      "event_zh": "旗舰 MPV D99 正式上市，与 D19 共同组成 D 系列 SUV 与 MPV 产品组合。",
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "event_en": "Leapmotor holds its Technology Day and releases the LEAP 5.0 and Four-Leaf Clover 5.0 architectures. The interim report also discloses that the CSRC issued registration approval on September 10 for new domestic shares to FAW’s investment arm and Jinhua Jinyi.",
+      "event_zh": "零跑举办技术日，发布 LEAP 5.0 架构与四叶草 5.0 中央域控架构。中期报告同时披露，证监会已于 9 月 10 日核发向一汽股权及金义高新发行新内资股的注册批复。",
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "event_en": "Leapmotor and Stellantis hold the B10 mass-production ceremony at the Zaragoza plant in Spain.",
+      "event_zh": "零跑与 Stellantis 在西班牙萨拉戈萨工厂举行 B10 正式量产仪式。",
+      "source_ids": [
+        "s31"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Leapmotor",
+      "name_zh": "零跑",
+      "role_en": "The company's single smart NEV brand, positioned in the mainstream RMB60,000-300,000 range, covering A, B, C and D series (sedans, SUVs, MPVs) with pure-electric and range-extended powertrains.",
+      "role_zh": "公司唯一的智能新能源汽车品牌，定位 6 万—30 万元主流区间，覆盖 A、B、C、D 四大系列（轿车、SUV、MPV），提供纯电与增程双动力。",
+      "price_band": null,
+      "founded": 2015,
+      "owner_note_en": "Fully owned by Leapmotor. Models on sale at end-2025 were B10, B01, Lafa5, C16, C10, C11, C01 and T03. The A10 (launched 2026-03-26) and D19 (launched 2026-04-16) were unveiled in 2025 but had not yet gone on sale at year-end; the D99 flagship MPV was unveiled on 2025-12-28 and formally launched on 2026-06-25. In 2025 Leapmotor delivered 596,555 vehicles, ranking first among Chinese EV start-ups.",
+      "owner_note_zh": "零跑全资持有。截至 2025 年底在售车型为 B10、B01、Lafa5、C16、C10、C11、C01、T03；A10（2026 年 3 月 26 日上市）、D19（2026 年 4 月 16 日上市）于 2025 年仅亮相、年底尚未开售，旗舰 MPV D99 于 2025 年 12 月 28 日首秀、2026 年 6 月 25 日正式上市。2025 年零跑交付 59.66 万辆，位居造车新势力第一。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s21"
+      ]
+    },
+    {
+      "name_en": "Leapmotor International",
+      "name_zh": "零跑国际",
+      "role_en": "Joint venture with Stellantis N.V. that exclusively handles export, sales, aftersales and local manufacturing of Leapmotor products outside Greater China.",
+      "role_zh": "与 Stellantis 集团的合资公司，独家负责零跑产品在大中华区以外的出口、销售、售后及本地制造。",
+      "price_band": null,
+      "founded": 2024,
+      "owner_note_en": "Stellantis holds 51% and Leapmotor 49%. Established in May 2024 (registered in the Netherlands), building on the October 2023 strategic agreement. First shipments to Europe began in July 2024 and orders opened in September 2024. By end-2025 it had about 900 sales and service points across roughly 40 markets (over 800 in Europe); by 2026-06-30 this exceeded 1,000 points in 45+ markets. Leapmotor's 2025 exports were 67,052 units, ranking first among Chinese EV start-ups.",
+      "owner_note_zh": "Stellantis 持股 51%、零跑持股 49%。2024 年 5 月正式成立（在荷兰注册，基于 2023 年 10 月的战略协议）。2024 年 7 月首批整车发往欧洲，9 月开放订购。截至 2025 年底在全球约 40 个市场布局约 900 家销售服务网点（欧洲超 800 家）；截至 2026 年 6 月 30 日在 45 个以上国际市场超 1000 家。2025 年零跑出口 67,052 辆，位居造车新势力第一。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s12",
+        "s21",
+        "s16"
+      ]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "IFRS",
+    "rows": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 3132.1,
+        "gross_margin_pct": -44.3,
+        "net_profit": -2845.8,
+        "rnd": 740.0,
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 12384.6,
+        "gross_margin_pct": -15.4,
+        "net_profit": -5108.9,
+        "rnd": 1410.6,
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 16746.7,
+        "gross_margin_pct": 0.5,
+        "net_profit": -4216.3,
+        "rnd": 1920.0,
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 32164.2,
+        "gross_margin_pct": 8.4,
+        "net_profit": -2820.8,
+        "rnd": 2896.4,
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 64731.9,
+        "gross_margin_pct": 14.5,
+        "net_profit": 538.4,
+        "rnd": 4292.4,
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "note_en": "Fiscal year ends December 31. All figures are under IFRS, in RMB million, from Leapmotor's annual reports filed with the Hong Kong Stock Exchange. 'net_profit' is the profit/(loss) for the year attributable to equity holders of the Company (i.e. attributable to the parent, which already excludes non-controlling interests); Leapmotor has no material non-controlling interests, so this figure is effectively the total profit/(loss) for the year. 'revenue' is total revenue and 'gross_margin_pct' is gross profit divided by revenue. 'rnd' is research and development expenses: FY2021 (RMB740.0m) and FY2022 (RMB1,410.6m) are exact figures from the 2022 annual report; FY2024 (RMB2,896.4m) and FY2025 (RMB4,292.4m) are rounded from the income statements; FY2023 (RMB1,920m) is rounded to the nearest RMB10m as disclosed in the FY2023 results announcement.",
+    "note_zh": "财年截至 12 月 31 日。数据按国际财务报告准则（IFRS）、人民币百万元计，取自零跑向港交所提交的各年度报告。「net_profit」为本公司权益持有人应占年内利润／亏损（即归母净利润口径，该口径本身已排除非控股股东应占损益）；零跑无重大非控股权益，故该数与合并净利润基本一致。「revenue」为总收益，「gross_margin_pct」为毛利除以收益。「rnd」为研发开支：2021 年（7.40 亿元）与 2022 年（14.11 亿元）为 2022 年年报的精确值；2024 年（28.96 亿元）与 2025 年（42.92 亿元）按利润表取整；2023 年（19.20 亿元）按 2023 年业绩公告披露取整到 0.1 亿元。"
+  },
+  "sections": {
+    "overview": {
+      "source_ids": [
+        "s1",
+        "s26",
+        "s36",
+        "s21",
+        "s29"
+      ],
+      "en": "<p>Zhejiang Leapmotor Technology Co., Ltd. (HKEX: 9863) is a Hangzhou-headquartered smart new-energy vehicle (NEV) company founded in 2015 by Zhu Jiangming, a co-founder of the surveillance-equipment maker Dahua Technology.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a> It designs, develops and manufactures smart electric vehicles with pure-electric and range-extended (EREV) powertrains, earning essentially all of its revenue from vehicle and component sales, with a growing slice from services and carbon-credit income.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> Its stated approach is \"full in-house R&amp;D\" (quan-yu zi-yan): the company says it self-develops and self-manufactures core high-value components accounting for about 65% of vehicle cost, and describes its product approach as making technology affordable.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf\">[s36]</a></p><p>Leapmotor reports that it was the top-selling Chinese EV start-up brand in 2025, delivering 596,555 vehicles (up 103.1% year on year) and posting its first full-year profit.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> The 2026 interim report describes an A/B/C/D product matrix covering the mainstream RMB60,000–300,000 range.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> As of 2026-06-30, Stellantis held approximately 19.99% in aggregate. FAW’s investment arm separately signed a domestic-share subscription agreement in December 2025.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><p>Through the 51/49 Leapmotor International joint venture with Stellantis, Leapmotor has become the largest exporter among Chinese EV start-ups: 67,052 units in 2025 and 96,294 units in H1 2026; global deliveries reached 105,656 units in September 2026 and 310,052 units in Q3 2026.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a></p>",
+      "zh": "<p>浙江零跑科技股份有限公司（港交所：9863）是一家总部位于杭州的智能新能源汽车公司，2015 年由安防企业大华股份联合创始人朱江明创办。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a> 公司设计、研发并制造纯电与增程两种动力的智能电动车，收入几乎全部来自整车与零部件销售，服务与碳积分收入占比逐步上升。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> 其经营主线是「全域自研」：公司称自研自制了约占整车成本 65% 的高附加值核心零部件，公司将「好而不贵、科技普惠」作为产品理念。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf\">[s36]</a></p><p>据公司披露，零跑为 2025 年销量第一的造车新势力品牌，全年交付 59.66 万辆（同比增长 103.1%）并首次实现全年盈利。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> 据 2026 中期报告，产品矩阵覆盖 A、B、C、D 四大系列，覆盖 6 万—30 万元主流价格带。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 截至 2026 年 6 月 30 日，Stellantis 合计持股约 19.99%；一汽股权另已于 2025 年 12 月签订内资股认购协议。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><p>通过与 Stellantis 51/49 合资的零跑国际，零跑已成为出口量最大的造车新势力：2025 年出口 67,052 辆、2026 年上半年出口 96,294 辆；2026 年 9 月全球交付 105,656 辆、第三季度 310,052 辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a></p>"
+    },
+    "current": {
+      "source_ids": [
+        "s26",
+        "s1",
+        "s4",
+        "s2",
+        "s21",
+        "s29",
+        "s36",
+        "s37",
+        "s38",
+        "s31",
+        "s28",
+        "s3",
+        "s39"
+      ],
+      "en": "<h3>Business structure</h3><p>Leapmotor's revenue is dominated by vehicle and component sales. In FY2025, sales of EVs and components were RMB62.01 billion (up 96.0%), while services and other sales were RMB2.72 billion (up 413.2%), the latter driven mainly by carbon-credit income linked to overseas sales.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> Its product matrix spans four series — A (entry SUV), B (global compact), C (mid-size) and D (flagship SUV/MPV) — across the RMB60,000-300,000 mainstream band, with pure-electric and range-extended options.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><h3>Sales and scale</h3><p>Annual deliveries have grown rapidly: 43,748 units in 2021, 111,168 in 2022, 144,155 in 2023, 293,724 in 2024 and 596,555 in 2025.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2023/0417/2023041701384_c.pdf\">[s4]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904103_c.pdf\">[s2]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a> In 2024 the C series contributed 225,071 units, or 76.6% of deliveries, and cumulative deliveries surpassed 600,000 by end-2024 and 1.2 million by end-2025.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904103_c.pdf\">[s2]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><h3>Latest disclosed results (as of 2026-10-29)</h3><p>For H1 2026, Leapmotor reported revenue of RMB38.11 billion (up 57.2%), a gross margin of 11.7% (Q2 12.6%), net profit attributable to equity holders of RMB210 million, operating cash flow of RMB2.17 billion and free cash flow of RMB140 million; cash and equivalents plus restricted cash, FVTPL financial assets and time deposits totalled RMB38.59 billion at 2026-06-30.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> H1 global deliveries were 356,487 (up 60.8%) and exports 96,294 (up 372.6%, 27.0% of sales).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> Monthly deliveries then set records: 101,267 in July (the first Chinese start-up month above 100,000), 103,129 in August, and 105,656 in September; Q3 2026 totalled 310,052 units; September was the third consecutive month above 100,000.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a> Cumulative global deliveries passed 1.7 million by end-August 2026.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>Core technology and platforms</h3><p>Leapmotor uses vertical integration and says it self-develops core components covering about 65% of vehicle cost, spanning the three-electric system (battery pack, e-drive, e-control), smart cockpit and intelligent driving.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf\">[s36]</a> Its cell-to-chassis (CTC) technology entered mass production on the C01 in 2022. It announced the Four-Leaf Clover centralized integrated electrical/electronic architecture on July 31, 2023.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0928/2023092801145.pdf\">[s39]</a> On January 10, 2024, it formally launched the LEAP 3.0 technology architecture, which incorporates that E/E architecture.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042900917.pdf\">[s3]</a> It released LEAP 3.5 (central domain control, 800V on C-series BEVs) in March 2025, and LEAP 4.0 (first on the D19, with dual Qualcomm 8797 chips) in 2026.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> On 2026-09-16 it held its Technology Day and released the LEAP 5.0 architecture and Four-Leaf Clover 5.0 central domain architecture, alongside an LWM world-model assisted-driving system, an MM-i multi-mode hybrid e-drive and CTC 3.0 battery.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> City navigate-on-autopilot (NOA) is open across the A/B/C/D series, and the company planned to push nationwide city NOA to LEAP 3.0-architecture models in Q3 2026.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>Plants and capacity</h3><p>The domestic manufacturing footprint includes the Jinhua vehicle base and component projects in Hangzhou. In February 2026, the Jinhua development zone described the local Leapmotor vehicle base and suppliers covering batteries, electric drives, seats and lights.<a href=\"https://zhfw.kfq.jinhua.gov.cn/infoContentIndexAction%21viewDetailQYFW.shtml?infoContent.id=402816669c1bea32019c1da958380005\">[s37]</a> On 2026-08-28, Leapmotor’s Hangzhou branch published an environmental-consultation notice for a NEV-component expansion project in Qiantang. The notice concerns component capacity, which is distinct from vehicle-assembly capacity.<a href=\"https://cn.leapmotor.com/news/news-detail.html?id=3899\">[s38]</a></p><p>Leapmotor and Stellantis held the B10 mass-production ceremony at Zaragoza, Spain on 2026-10-16.<a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a> The 2026 interim report said C10 production had started at Gurun, Malaysia; B10 production there was then planned for Q3. B10 assembly at the Goiânia plant in Brazil was planned for H2 2027. The latter two milestones are plans stated in that report.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>Domestic market position</h3><p>Leapmotor was the top-selling Chinese EV start-up brand in 2025, and in H1 2026 its share of the NEV passenger-car market reached 5.71% (up from 4.22% at end-Q1 2026), still first among new-forces brands.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> Its sales and service network covered 298 cities (87.4% city coverage) with 1,064 sales stores and 562 service stores as of 2026-06-30.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>Overseas business</h3><p>Leapmotor International opened orders in Europe on 2024-09-30 with the T03 (from €18,900) and C10 (from €36,400), initially in 13 European markets.<a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a> By 2026-06-30 it had entered more than 45 international markets with over 1,000 sales and service points; in H1 2026 Leapmotor's BEV share exceeded 25% in Italy, and the B10 was the best-selling Chinese compact BEV SUV in Europe in H1 2026.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a> Cumulative exports since Q4 2024 reached about 200,000 units, and H1 2026 exports were 96,294 units and January-July exports totalled 113,863 units.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>",
+      "zh": "<h3>业务结构</h3><p>零跑收入以整车及零部件销售为主。2025 财年电动汽车及部件销售收入 620.1 亿元（同比增长 96.0%），服务及其他销售收入 27.2 亿元（同比增长 413.2%），后者主要来自与海外销量挂钩的碳积分收入。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> 产品矩阵覆盖 A（入门 SUV）、B（全球紧凑级）、C（中型）、D（旗舰 SUV/MPV）四大系列，横跨 6 万—30 万元主流区间，提供纯电与增程双动力。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><h3>销量与规模</h3><p>年度交付量快速增长：2021 年 43,748 辆、2022 年 111,168 辆、2023 年 144,155 辆、2024 年 293,724 辆、2025 年 596,555 辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2023/0417/2023041701384_c.pdf\">[s4]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904103_c.pdf\">[s2]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a> 2024 年 C 系列交付 225,071 辆、占总销量 76.6%；截至 2024 年底累计交付超 60 万辆，截至 2025 年底累计交付突破 120 万辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904103_c.pdf\">[s2]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><h3>截至 2026-10-29 的最新披露业绩</h3><p>2026 年上半年零跑实现营收 381.1 亿元（同比增长 57.2%）、综合毛利率 11.7%（第二季度 12.6%）、本公司权益持有人应占净利润 2.1 亿元、经营活动现金净流入 21.7 亿元、自由现金流 1.4 亿元；截至 2026 年 6 月 30 日的现金及现金等价物、受限制现金、按公允价值计入损益的金融资产及银行定期存款余额合计 385.9 亿元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 上半年全球交付 356,487 辆（同比增长 60.8%）、出口 96,294 辆（同比增长 372.6%、占上半年总销量 27.0%）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 此后月交付接连创新高：7 月 101,267 辆（中国新势力首家月交付破 10 万）、8 月 103,129 辆、9 月 105,656 辆；第三季度合计 310,052 辆；9 月为连续第三个月交付超过 10 万辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a> 截至 2026 年 8 月底，全球累计交付突破 170 万辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>核心技术与平台</h3><p>公司采用垂直整合模式，称自研自制了约占整车成本 65% 的核心零部件，涵盖三电系统（电池包、电驱、电控）、智能座舱与智能驾驶。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf\">[s36]</a> 公司的电池底盘一体化（CTC）技术于 2022 年在 C01 上量产；2023 年 7 月 31 日发布「四叶草」中央集成式电子电气架构。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0928/2023092801145.pdf\">[s39]</a>2024 年 1 月 10 日正式发布包含该电子电气架构的 LEAP 3.0 技术架构。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042900917.pdf\">[s3]</a>2025 年 3 月推出 LEAP 3.5（中央域控、C 系列纯电 800V），2026 年推出 LEAP 4.0（率先搭载于 D19、双高通 8797 芯片）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf\">[s26]</a> 2026 年 9 月 16 日，公司举办技术日并发布 LEAP 5.0 架构与四叶草 5.0 中央域控架构，同期亮相 LWM 世界模型辅助驾驶、MM-i 多模混动电驱与 CTC 3.0 电池。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 城市领航辅助驾驶已在 A/B/C/D 全系车型开放，中期报告当时计划于 2026 年第三季度向 LEAP 3.0 架构车型推送全国城市领航辅助驾驶。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>工厂与产能</h3><p>国内制造布局包括金华整车基地及杭州的零部件项目。金华开发区于 2026 年 2 月披露，零跑整车制造基地设在当地，配套企业覆盖电池、电驱、座椅及车灯等环节。<a href=\"https://zhfw.kfq.jinhua.gov.cn/infoContentIndexAction%21viewDetailQYFW.shtml?infoContent.id=402816669c1bea32019c1da958380005\">[s37]</a> 零跑杭州分公司于 2026 年 8 月 28 日公示钱塘区新能源汽车零部件扩建项目；该项目披露的是零部件产能，不能等同于整车产能。<a href=\"https://cn.leapmotor.com/news/news-detail.html?id=3899\">[s38]</a></p><p>2026 年 10 月 16 日，零跑与 Stellantis 在西班牙萨拉戈萨工厂举行 B10 正式量产仪式。<a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a> 2026 中期报告披露，马来西亚 Gurun 工厂的 C10 已进入正式量产阶段，B10 当时计划于第三季度量产；巴西戈亚尼亚工厂的 B10 组装项目计划于 2027 年下半年量产。后两项为报告中的计划口径。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>国内市场地位</h3><p>零跑是 2025 年销量第一的造车新势力品牌；2026 年上半年其在新能源乘用车市场的市占率提升至 5.71%（较一季度末的 4.22% 上升），仍稳居新势力品牌第一。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 截至 2026 年 6 月 30 日，销售服务网络覆盖 298 个城市（城市覆盖率 87.4%），累计布局 1064 家销售门店及 562 家服务门店。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>海外业务</h3><p>零跑国际于 2024 年 9 月 30 日在欧洲开放 T03（18,900 欧元起）与 C10（36,400 欧元起）订购，首批覆盖 13 个欧洲市场。<a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a> 截至 2026 年 6 月 30 日已进入 45 个以上国际市场、超 1000 家销售及售后网点；2026 年上半年零跑在意大利纯电市场份额超过 25%，B10 为上半年欧洲最畅销的中国紧凑型纯电 SUV。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a> 自 2024 年第四季度以来累计出口约 20 万辆，2026 年上半年出口 96,294 辆，1—7 月累计出口 113,863 辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>"
+    },
+    "leadership": {
+      "source_ids": [
+        "s1",
+        "s34",
+        "s21"
+      ],
+      "en": "<h3>Founder</h3><p>Zhu Jiangming is the founder, chairman and chief executive officer, and was appointed a director on 2015-12-20. He is a co-founder of Dahua Technology (SZSE: 002236), the surveillance-equipment maker, which he helped create in 1993 and where he oversaw product R&amp;D, production and supply chain, worked at Motorola Hangzhou in 2008–2010, and then returned to Dahua as a director until December 2021.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf\">[s34]</a></p><h3>Key management</h3><ul><li><strong>Zhu Jiangming</strong> — founder, executive director, chairman and chief executive officer (director since 2015-12-20).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf\">[s34]</a></li><li><strong>Cao Li</strong> — executive director and senior vice president (director since 2021-12-20), responsible for vehicle R&amp;D and manufacturing. Joined Leapmotor in February 2016 as a founding-team member; previously a senior industrial engineer at Dahua Technology (2013-2016).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf\">[s34]</a></li><li><strong>Zhou Hongtao</strong> — executive director and senior vice president, responsible for autonomous driving and automotive-electronics R&amp;D and manufacturing. Joined Leapmotor in February 2016; previously at Dahua Technology (2001-2016) on software.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></li><li><strong>Xu Jun</strong> — senior vice president and chief operating officer (since January 2023), responsible for marketing and service. Joined Leapmotor in July 2022; previously held channel and sales roles at Huawei (2012-2020), Motorola China and Nokia China.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></li></ul><h3>Board and governance</h3><p>The 2026 interim report lists nine directors: executive directors Zhu Jiangming, Cao Li and Zhou Hongtao; non-executive directors Grégoire Olivier, Davide Mele and Jin Yufeng; and independent non-executive directors Fu Yuwu, Wan Jiale and Shen Linhua.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>Shareholding and control</h3><p>As of 2026-06-30, Stellantis N.V. beneficially held 239,260,030 H shares and 45,000,000 domestic shares, or 284,260,030 shares in total. Dividing by the 1,421,812,652 issued shares disclosed on pages 20–21 of the interim report gives an aggregate stake of approximately 19.99%. The 16.83% figure covers only its H-share holding as a percentage of total share capital.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> Separately, page 82 states that <strong>at the date of the report</strong>, Zhu Jiangming, Fu Liquan, Liu Yunzhen and Chen Ailing jointly and ultimately held approximately 25.23% under their concert-party arrangement; the company had no controlling or ultimate controlling shareholder. Zhu and Fu renewed their concert-party agreement on 2025-03-05, valid through 2028-09-28.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>",
+      "zh": "<h3>创始人</h3><p>朱江明为创始人、董事长兼首席执行官，于 2015 年 12 月 20 日获委任为董事。他是安防企业大华股份（深交所：002236）联合创始人，1993 年参与创办大华，主管产品研发、生产与供应链，2008—2010 年任职于摩托罗拉杭州公司，2010 年返回大华任董事至 2021 年 12 月。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf\">[s34]</a></p><h3>核心管理层</h3><ul><li><strong>朱江明</strong> — 创始人、执行董事、董事长兼首席执行官（董事任职始于 2015 年 12 月 20 日）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf\">[s34]</a></li><li><strong>曹力</strong> — 执行董事兼高级副总裁（董事任职始于 2021 年 12 月 20 日），负责整车研发制造。2016 年 2 月作为创始团队成员加入零跑，此前 2013—2016 年任大华技术高级工业工程师。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf\">[s34]</a></li><li><strong>周洪涛</strong> — 执行董事兼高级副总裁，负责自动驾驶及汽车电子研发制造。2016 年 2 月加入零跑，此前 2001—2016 年在大华技术负责软件。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></li><li><strong>徐军</strong> — 高级副总裁兼首席运营官（2023 年 1 月起任），负责营销与服务。2022 年 7 月加入零跑，此前在华为（2012—2020）、摩托罗拉中国、诺基亚中国担任渠道与销售职务。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></li></ul><h3>董事会与治理</h3><p>2026 中期报告列示九名董事：执行董事朱江明、曹力、周洪涛；非执行董事 Grégoire Olivier、Davide Mele、金宇峰；独立非执行董事付于武、万家乐、沈林华。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><h3>股权与控制</h3><p>截至 2026 年 6 月 30 日，Stellantis N.V. 实益持有 239,260,030 股 H 股及 45,000,000 股内资股，合计 284,260,030 股。按中期报告第 20—21 页披露的总股本 1,421,812,652 股计算，合计持股约 19.99%；16.83% 仅为其 H 股持仓占总股本的比例。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 中期报告第 82 页另披露，<strong>于本报告日期</strong>，朱江明、傅利泉、刘云珍及陈爱玲根据一致行动安排共同及最终拥有总股本约 25.23%，公司概无控股股东或最终控股股东。朱江明与傅利泉于 2025 年 3 月 5 日续签的一致行动协议有效期至 2028 年 9 月 28 日。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>"
+    },
+    "competition": {
+      "source_ids": [
+        "s21",
+        "s28",
+        "s36",
+        "s1",
+        "s31"
+      ],
+      "en": "<h3>Competitive scope: our assessment</h3><p>Our assessment: Leapmotor’s RMB60,000–300,000 product coverage puts it mainly in China’s mainstream NEV passenger-car market; our comparison set includes BYD, Geely Galaxy and Changan Deepal, plus XPeng, Li Auto and AITO in adjacent segments. In Europe, the T03 and C10 enter the city-car and family-SUV segments respectively. Competitive comparisons should distinguish models, prices and powertrains; the start-up delivery ranking alone does not measure strength in each segment. The evidence is the disclosed product matrix and the European launch models and prices.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a></p><h3>Strengths and constraints: our assessment</h3><p>Our assessment: vertical integration may support cost control. The company says its self-developed and self-manufactured core components cover about 65% of vehicle cost. Gross margin rose from 0.5% in 2023 to 8.4% in 2024 and 14.5% in 2025. However, the company also cites product mix and other-business income as drivers, so the improvement cannot be attributed entirely to in-house development.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf\">[s36]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><p>Our assessment: the international JV, owned 51% by Stellantis and 49% by Leapmotor, gives access to a partner’s distribution and manufacturing network and may reduce the investment needed to build a separate overseas system. Partner control also requires coordination on products, production and market launches. This model does not eliminate capital spending or execution risk. The evidence is the European commercial launch and Spanish production arrangements.<a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a><a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a></p><p>Our assessment: FY2025 attributable net profit of RMB538.4 million on revenue of RMB64,731.9 million implies a net margin of about 0.83%, leaving a thin earnings buffer. H1 2026 gross margin was 11.7%, below 14.1% in H1 2025. Adverse pricing, raw-material costs or product mix could prevent volume growth from translating into profit growth.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>",
+      "zh": "<h3>竞争范围：我们的判断</h3><p>我们的判断：零跑覆盖 6 万—30 万元的产品组合，使其主要面对中国主流新能源乘用车市场的竞争；我们的比较对象包括比亚迪、吉利银河、长安深蓝，以及相邻细分市场的小鹏、理想和问界；在欧洲，T03 与 C10 分别进入城市小车与家庭 SUV 市场。比较竞争力时，应区分车型、价格及动力形式，不能仅以新势力销量排名代替细分市场比较。依据是公司披露的产品矩阵，以及零跑国际的欧洲首发车型和价格。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a></p><h3>优势与约束：我们的判断</h3><p>我们的判断：垂直整合可能支持成本控制。公司称自研自制核心零部件约占整车成本 65%；毛利率由 2023 年的 0.5% 提升至 2024 年的 8.4%、2025 年的 14.5%。但公司对毛利改善的解释还包括产品结构和其他业务收入，不能将改善全部归因于自研。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf\">[s36]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></p><p>我们的判断：Stellantis 持股 51%、零跑持股 49% 的国际合资安排，使零跑能够使用合作伙伴的渠道和制造网络，可能降低单独建设海外体系的投入；合资公司由伙伴控股，也意味着双方需要协调产品、生产及市场节奏，不能把这一模式等同于没有资本开支或执行风险。依据是欧洲销售启动及西班牙量产安排。<a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a><a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a></p><p>我们的判断：2025 年归母净利润 5.38 亿元相对于 647.32 亿元收入，净利率约为 0.83%，利润缓冲仍薄。2026 年上半年毛利率为 11.7%，也低于 2025 年同期的 14.1%。若价格、原材料成本或产品结构不利，销量增长仍可能无法同步转化为利润增长。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>"
+    },
+    "outlook": {
+      "source_ids": [
+        "s21",
+        "s29",
+        "s1",
+        "s31"
+      ],
+      "en": "<h3>Company plans</h3><p>The 2026 interim report describes the A05 as part of the push for one million deliveries that year. It expects annual exports to exceed 150,000 units and potentially reach 200,000. These are the report’s targets, rather than achieved sales.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> The latest delivery release, dated 2026-10-02, reports 105,656 global deliveries in September and 310,052 in Q3. September was the third consecutive month above 100,000.<a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a></p><h3>Disclosed cooperation and manufacturing arrangements</h3><p>Under the 2025-12-28 agreement, FAW’s investment arm would subscribe for 74,832,245 domestic shares at RMB50.03 each. A 2026-01-06 agreement covers 59,964,021 domestic shares for Jinhua Jinyi. Combined gross proceeds would be approximately RMB6.744 billion, with about 70% intended for R&amp;D and 30% for working capital and general corporate purposes. The interim report says the CSRC issued registration approval on 2026-09-10. These disclosures establish agreements and approval, rather than completed settlement.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><p>The interim report says Leapmotor signed a deeper strategic cooperation agreement with FAW in August 2026, covering ten areas. Overseas, the B10 mass-production ceremony took place in Spain on 2026-10-16. The interim report had scheduled Spanish B05 production for 2027 and Brazilian B10 assembly for H2 2027.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a></p><h3>Our assessment</h3><p>Our assessment: moving from 596,555 deliveries in 2025 to one million requires growth of about 67.6%. New models and overseas expansion may add volume, conditional on demand, production ramp-up, deliveries and service capacity. New products may also divert demand from existing models, so series targets should not simply be added together. Adding disclosed H1 and Q3 deliveries gives 666,539 units for January–September, leaving 333,461 needed in Q4 for the annual million-unit target. This is arithmetic based on disclosed deliveries, rather than a company forecast.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a></p><p>Our assessment: completion of the FAW and Jinhua Jinyi subscriptions would add funding for development and operations while increasing share capital and diluting existing holders’ percentages. Profit contribution from the overseas JV and local production remains conditional on volume, costs and mix. A slower production ramp-up or adverse material costs and pricing could put pressure on earnings during expansion. The evidence is the proposed use of proceeds, the manufacturing plans and the H1 gross-margin decline from 14.1% in 2025 to 11.7% in 2026, which the company attributes to higher raw-material costs and changes in vehicle mix.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>",
+      "zh": "<h3>公司规划</h3><p>2026 中期报告把 A05 列为当年冲击百万销量的产品之一，并披露：公司预计全年出口稳步突破 15 万辆、有望挑战 20 万辆。这里保留报告的目标表述，不把目标当作已经实现的销量。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a> 截至 2026 年 10 月 2 日最近一份交付公告，9 月全球交付 105,656 辆，第三季度交付 310,052 辆；9 月是连续第三个月交付超过 10 万辆。<a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a></p><h3>已公布的合作与制造安排</h3><p>按 2025 年 12 月 28 日协议，一汽股权拟按每股 50.03 元认购 74,832,245 股内资股；2026 年 1 月 6 日协议涉及金义高新认购 59,964,021 股内资股。两项合计所得款项总额约 67.44 亿元，年报披露拟将约 70% 用于研发、约 30% 用于营运资金及一般公司用途。中期报告披露证监会于 2026 年 9 月 10 日核发注册批复；以上为协议及审批状态，不代表已经交割。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p><p>2026 年中期报告披露，公司于 8 月与一汽签署深化战略合作协议，拟围绕十个领域开展协同。海外制造方面，B10 已于 2026 年 10 月 16 日在西班牙举行量产仪式；中期报告当时预计 B05 于 2027 年在西班牙量产，巴西 B10 组装于 2027 年下半年量产。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a></p><h3>我们的判断</h3><p>我们的判断：从 2025 年交付 596,555 辆到年交付 100 万辆，需要增长约 67.6%。新车型和海外扩张可能增加销量，但还取决于需求、产能爬坡、交付及服务能力；新增车型也可能分流既有车型，不能把各系列目标简单相加。2026 年前三季度交付量按上半年与第三季度相加为 666,539 辆，因此全年百万辆仍需第四季度交付 333,461 辆。这是基于已披露交付数的简单计算，不是公司业绩预测。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a><a href=\"https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026\">[s29]</a></p><p>我们的判断：一汽与金义高新认购若完成，可增加研发与营运资金，也会扩大股本、摊薄现有股东比例。海外合资及本地生产能否形成利润贡献，仍需观察产量、成本与产品结构；如果爬坡慢于需求，或原材料与价格条件转差，增长可能伴随盈利承压。依据是认购资金用途、海外生产安排，以及上半年毛利率从同期 14.1% 降至 11.7%，公司将下降归因于原材料成本上涨及整车产品结构变化。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></p>"
+    },
+    "risks": {
+      "source_ids": [
+        "s21",
+        "s1",
+        "s28",
+        "s31"
+      ],
+      "en": "<ul><li><strong>Margins and materials:</strong> H1 2026 gross margin was 11.7%, compared with 14.1% in H1 2025. The company attributes the decline to higher raw-material costs and changes in vehicle mix.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></li><li><strong>Earnings base:</strong> FY2025 attributable net profit was RMB538.4 million on revenue of RMB64,731.9 million, following an attributable net loss of RMB2,820.8 million in 2024.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></li><li><strong>Overseas partnership and production:</strong> Leapmotor International is owned 51% by Stellantis and 49% by Leapmotor. The Spanish B10 mass-production ceremony took place in October 2026; the B05 and Brazilian projects were future plans in the interim report.<a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a><a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></li><li><strong>Financing and governance:</strong> The FAW and Jinhua Jinyi agreements cover 134,796,266 new domestic shares in total. The interim report discloses no controlling or ultimate controlling shareholder, and an aggregate concert-party holding of approximately 25.23% at the report date.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></li></ul>",
+      "zh": "<ul><li><strong>毛利与原材料：</strong>2026 年上半年毛利率 11.7%，2025 年同期为 14.1%；公司解释为原材料成本上涨及整车产品结构变化。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></li><li><strong>盈利基础：</strong>2025 年归母净利润为 5.38 亿元、收入 647.32 亿元；2024 年归母净亏损 28.21 亿元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a></li><li><strong>海外合作与生产：</strong>零跑国际为 Stellantis 持股 51%、零跑持股 49% 的合资公司；西班牙 B10 于 2026 年 10 月举行量产仪式，B05 及巴西项目在中期报告中仍列为未来计划。<a href=\"https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles\">[s28]</a><a href=\"https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml\">[s31]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></li><li><strong>融资与治理：</strong>一汽及金义高新协议合计涉及 134,796,266 股新内资股；中期报告披露公司概无控股股东或最终控股股东，一致行动集团于报告日期共同及最终持有约 25.23%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf\">[s21]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "浙江零跑科技股份有限公司 2025年度报告 (Leapmotor 2025 Annual Report)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042905423_c.pdf",
+      "date": "2026-04-29",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "浙江零跑科技股份有限公司 2024年度报告 (Leapmotor 2024 Annual Report)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904103_c.pdf",
+      "date": "2025-04-29",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Leapmotor Annual Report 2023",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0429/2024042900917.pdf",
+      "date": "2024-04-29",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "浙江零跑科技股份有限公司 2022年度报告 (Leapmotor 2022 Annual Report)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2023/0417/2023041701384_c.pdf",
+      "date": "2023-04-17",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "中国一汽37亿元入股零跑汽车 成为重要战略股东 (国际在线)",
+      "url": "https://auto.cri.cn/20251229/10b59541-1ccb-41d5-b7d7-35240b432173.html",
+      "date": "2025-12-29",
+      "tier": "B"
+    },
+    {
+      "id": "s9",
+      "name": "零跑汽车定增获证监会批复 一汽战略入股正式落地 (上海证券报·中国证券网)",
+      "url": "https://m.cnstock.com/commonDetail/791473",
+      "date": "2026-09-17",
+      "tier": "B"
+    },
+    {
+      "id": "s10",
+      "name": "错过最佳时机 一汽投资零跑多花了15倍 (腾讯新闻·棱镜)",
+      "url": "https://news.qq.com/rain/a/20251231A05SL100",
+      "date": "2025-12-31",
+      "tier": "B"
+    },
+    {
+      "id": "s11",
+      "name": "零跑汽车与Stellantis合作落地 计划2024年三季度在欧洲交付 (财新网)",
+      "url": "https://m.caixin.com/m/2023-11-25/102139398.html",
+      "date": "2023-11-25",
+      "tier": "B"
+    },
+    {
+      "id": "s12",
+      "name": "Stellantis集团85亿港元到账!零跑汽车下一步准备迎接更大挑战 (澎湃新闻)",
+      "url": "https://www.thepaper.cn/newsDetail_forward_25398155",
+      "date": "2023-11-24",
+      "tier": "B"
+    },
+    {
+      "id": "s13",
+      "name": "零跑汽车港股上市首日跌33.54% (中国经济网)",
+      "url": "https://finance.ce.cn/stock/gsgdbd/202209/29/t20220929_38136792.shtml",
+      "date": "2022-09-29",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "零跑汽车2025年首次实现年度盈利 (人民网)",
+      "url": "https://finance.people.com.cn/BIG5/n1/2026/0317/c1004-40683575.html",
+      "date": "2026-03-17",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "一座西班牙老厂，等来了一家中国车企 (腾讯新闻·棱镜)",
+      "url": "https://new.qq.com/rain/a/20261023A0F02800",
+      "date": "2026-10-23",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "Stellantis fulfills acquisition of 21.26% stake in Leapmotor (Gasgoo)",
+      "url": "https://autonews.gasgoo.com/articles/news/stellantis-fulfills-acquisition-of-2126-stake-in-leapmotor-70029582",
+      "date": "2023-11-22",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "零跑发布2025年财报 净利5.4亿首次实现年度盈利 (央视网)",
+      "url": "https://big5.cctv.com/gate/big5/auto.cctv.com/2026/03/17/ARTIJCK1ImbggyTJFjey3t92260317.shtml",
+      "date": "2026-03-17",
+      "tier": "B"
+    },
+    {
+      "id": "s20",
+      "name": "零跑上半年录得净利润2.1亿元 调低全年盈利目标 (财新网)",
+      "url": "https://companies.caixin.com/2026-08-25/102477661.html",
+      "date": "2026-08-25",
+      "tier": "B"
+    },
+    {
+      "id": "s21",
+      "name": "浙江零跑科技股份有限公司 2026中期报告 (Leapmotor 2026 Interim Report)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0928/2026092800665_c.pdf",
+      "date": "2026-09-28",
+      "tier": "A"
+    },
+    {
+      "id": "s22",
+      "name": "零跑月销重回5万 D19蓄势待发 城市领航将全系搭载 (零跑汽车官网)",
+      "url": "https://cn.leapmotor.cn/news/news-detail.html?id=3505",
+      "date": "2026-04-01",
+      "tier": "A"
+    },
+    {
+      "id": "s23",
+      "name": "Stellantis says it stopped making small EV Leapmotor car in Poland (Reuters via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/stellantis-says-it-stopped-making-small-ev-leapmotor-car-in-poland-3973531?ampMode=1",
+      "date": "2025-04-08",
+      "tier": "B"
+    },
+    {
+      "id": "s24",
+      "name": "零跑科技将登陆港交所 全域自研获资本认可 (中国经济网)",
+      "url": "https://www.ce.cn/cysc/newmain/yc/jsxw/202209/21/t20220921_38117223.shtml",
+      "date": "2022-09-21",
+      "tier": "B"
+    },
+    {
+      "id": "s25",
+      "name": "从零到龙——零跑，不止在浙里领跑 (中国新闻网)",
+      "url": "https://www.zj.chinanews.com.cn/nrmtlm/2026-01-21/detail-iheyzypa7670382.shtml",
+      "date": "2026-01-21",
+      "tier": "B"
+    },
+    {
+      "id": "s26",
+      "name": "浙江零跑科技股份有限公司 2025年度业绩公告 (Leapmotor 2025 annual results announcement)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0316/2026031601215_c.pdf",
+      "date": "2026-03-16",
+      "tier": "A"
+    },
+    {
+      "id": "s27",
+      "name": "Leapmotor Vehicles Shipped to Europe (Stellantis press release)",
+      "url": "https://www.stellantis.com/content/dam/stellantis-corporate/news/press-releases/2024/july/30-07-24/15-00/en/EN-20240730-Leapmotor-Vehicles-Shipped-to-Europe.pdf",
+      "date": "2024-07-30",
+      "tier": "A"
+    },
+    {
+      "id": "s28",
+      "name": "Leapmotor International Opens Orders in Europe (Stellantis Media)",
+      "url": "https://www.media.stellantis.com/em-en/corporate/press/leapmotor-international-opens-orders-in-europe-for-affordable-high-tech-t03-city-car-and-c10-suv-electric-vehicles",
+      "date": "2024-09-30",
+      "tier": "A"
+    },
+    {
+      "id": "s29",
+      "name": "Leapmotor strengthens global leadership with 105,656 September deliveries and a record 310,052 vehicles in Q3 2026 (Stellantis Media)",
+      "url": "https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-strengthens-global-leadership-with-105-656-september-deliveries-and-a-record-310-052-vehicles-in-quarter-3-2026",
+      "date": "2026-10-02",
+      "tier": "A"
+    },
+    {
+      "id": "s30",
+      "name": "售价24.98万起,零跑D99上市 (央广网)",
+      "url": "https://www.cnr.cn/2013qcpd/cz/20260626/t20260626_527677456.shtml",
+      "date": "2026-06-26",
+      "tier": "B"
+    },
+    {
+      "id": "s31",
+      "name": "驻西班牙大使姚敬出席零跑B10车型在西班牙正式量产仪式 (中国驻西班牙大使馆)",
+      "url": "https://www.fmprc.gov.cn/zwbd_673032/gzhd_673042/202610/t20261020_12043472.shtml",
+      "date": "2026-10-20",
+      "tier": "A"
+    },
+    {
+      "id": "s32",
+      "name": "从\"卖产品\"转向体系化出海背后:中国车企要做欧洲\"常驻者\" (中国经营报)",
+      "url": "https://www.163.com/dy/article/L9TSN8IC05199NHJ.html",
+      "date": "2026-10-23",
+      "tier": "B"
+    },
+    {
+      "id": "s33",
+      "name": "零跑汽车6.9亿拿地！(谈思汽车自媒体专栏，刊于电子工程专辑；仅作检索线索)",
+      "url": "https://www.eet-china.com/mp/a498669.html",
+      "date": "2026-05-29",
+      "tier": "C"
+    },
+    {
+      "id": "s34",
+      "name": "Leapmotor Global Offering Prospectus — Appendix I, I-111 (director appointment dates)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0920/2022092000023.pdf",
+      "date": "2022-09-20",
+      "tier": "A"
+    },
+    {
+      "id": "s35",
+      "name": "Leapmotor B10 Makes Global Debut at the Paris Motor Show (Stellantis Media)",
+      "url": "https://www.media.stellantis.com/me-en/leapmotor/press/leapmotor-b10-makes-global-debut-at-the-paris-motor-show",
+      "date": "2024-10-14",
+      "tier": "A"
+    },
+    {
+      "id": "s36",
+      "name": "浙江零跑科技股份有限公司 有关2026年第一季度未经审核财务业绩的公告",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051501071_c.pdf",
+      "date": "2026-05-15",
+      "tier": "A"
+    },
+    {
+      "id": "s37",
+      "name": "金华开发区：从“N+1”到“1+N” 新能源汽车产业“链”就千亿集群 (开发区综合服务平台)",
+      "url": "https://zhfw.kfq.jinhua.gov.cn/infoContentIndexAction%21viewDetailQYFW.shtml?infoContent.id=402816669c1bea32019c1da958380005",
+      "date": "2026-02-02",
+      "tier": "A"
+    },
+    {
+      "id": "s38",
+      "name": "零跑汽车有限公司杭州分公司零跑新能源汽车零部件生产项目生态环境影响评价第一次公示",
+      "url": "https://cn.leapmotor.com/news/news-detail.html?id=3899",
+      "date": "2026-08-28",
+      "tier": "A"
+    },
+    {
+      "id": "s39",
+      "name": "Leapmotor Interim Report 2023 (p. 5: Four-Leaf Clover architecture announcement)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0928/2023092801145.pdf",
+      "date": "2023-09-28",
+      "tier": "A"
+    }
+  ]
+}

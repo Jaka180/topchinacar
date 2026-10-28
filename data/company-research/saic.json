@@ -1,0 +1,408 @@
+{
+  "id": "saic",
+  "name_en": "SAIC Motor Corporation Limited",
+  "name_zh": "上海汽车集团股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1997 (listed); predecessor traced to 1955",
+      "value_zh": "1997 年（上市）；前身可追溯至 1955 年",
+      "period": null,
+      "source_ids": ["s1", "s13"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai, China",
+      "value_zh": "中国上海",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-owned",
+      "value_zh": "国有",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Shanghai SASAC (Shanghai State-owned Assets Supervision and Administration Commission)",
+      "value_zh": "上海市国有资产监督管理委员会",
+      "period": null,
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点和代码",
+      "value_en": "Shanghai Stock Exchange 600104 (A-share)",
+      "value_zh": "上海证券交易所 600104（A 股）",
+      "period": null,
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "179,797",
+      "value_zh": "17.98 万人",
+      "period": "2025-12-31",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "CNY 656.24 billion (total operating revenue)",
+      "value_zh": "6562.44 亿元（营业总收入）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s8"]
+    },
+    {
+      "label_en": "Net profit attributable to owners of the parent (latest fiscal year)",
+      "label_zh": "最近财年归母净利润",
+      "value_en": "CNY 10.11 billion",
+      "value_zh": "101.06 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1", "s8"]
+    },
+    {
+      "label_en": "Vehicle sales (latest year)",
+      "label_zh": "最近一年销量",
+      "value_en": "4.507 million units",
+      "value_zh": "450.7 万辆",
+      "period": "2025",
+      "source_ids": ["s1", "s16"]
+    },
+    {
+      "label_en": "Overseas sales (latest year)",
+      "label_zh": "最近一年海外销量",
+      "value_en": "1.071 million units",
+      "value_zh": "107.1 万辆",
+      "period": "2025",
+      "source_ids": ["s16", "s10"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1955",
+      "event_en": "The predecessor Shanghai Internal Combustion Engine Parts Manufacturing Company is established, marking SAIC's beginnings.",
+      "event_zh": "前身上海市内燃机配件制造公司成立，上汽由此起步。",
+      "source_ids": ["s34", "s35"]
+    },
+    {
+      "date": "1958",
+      "event_en": "The first Fenghuang (Phoenix) sedan is trial-produced, later renamed the Shanghai brand in the 1960s.",
+      "event_zh": "试制成功第一辆凤凰牌轿车，后于 60 年代更名为上海牌轿车。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "1985",
+      "event_en": "SAIC Volkswagen is established with Volkswagen as China's first passenger-car joint venture, starting Santana localization.",
+      "event_zh": "与德国大众合资成立上汽大众，为中国首家轿车合资企业，开启桑塔纳国产化。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "1997",
+      "event_en": "SAIC-GM is set up with General Motors as Shanghai's 'No.1 project'; SAIC Motor Corporation is incorporated and listed on the Shanghai Stock Exchange (600104).",
+      "event_zh": "与通用汽车组建上海通用（上汽通用，当年上海市政府“一号工程”）；同年上海汽车集团股份有限公司设立并上市（600104）。",
+      "source_ids": ["s13", "s1"]
+    },
+    {
+      "date": "2002-11",
+      "event_en": "SAIC-GM-Wuling (SGMW) is formed by SAIC, GM and Wuling in Liuzhou.",
+      "event_zh": "上汽通用五菱（SGMW）由三方合资在柳州成立。",
+      "source_ids": ["s15", "s23"]
+    },
+    {
+      "date": "2004-06",
+      "event_en": "On 16 June 2004 SAIC signs a cooperation agreement with Britain's MG Rover to fund the development of new MG and Rover models; SAIC then acquires Rover intellectual property in stages — GBP 37 million in 2004 for other Rover models and the K-series engine, and a further GBP 30 million on 13 January 2005 for the Rover 25.",
+      "event_zh": "2004 年 6 月 16 日，上汽与英国 MG 罗孚签署合作协议，资助其 MG、罗孚品牌新车型开发；随后上汽分阶段取得罗孚知识产权——2004 年支付 3700 万英镑取得其他罗孚车型及 K 系列发动机权利，2005 年 1 月 13 日另付 3000 万英镑取得罗孚 25 知识产权。",
+      "source_ids": ["s29", "s19"]
+    },
+    {
+      "date": "2005-07",
+      "event_en": "Nanjing Auto acquires the MG brand and remaining MG Rover assets for about GBP 53 million.",
+      "event_zh": "南汽以约 5300 万英镑收购罗孚破产后的剩余资产及 MG 品牌。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2006-10",
+      "event_en": "SAIC launches Roewe, its first self-owned passenger-car brand.",
+      "event_zh": "上汽发布首个乘用车自主品牌荣威（Roewe）。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2007-01",
+      "event_en": "The Roewe 750, built on the Rover 75 platform, goes on sale.",
+      "event_zh": "基于罗孚 75 平台开发的荣威 750 上市。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2007-12",
+      "event_en": "SAIC merges with Nanjing Auto (the 'SAIC-Nanjing' deal), acquiring the Yuejin auto assets including MG for RMB2.095 billion, China's largest automaker merger at the time.",
+      "event_zh": "上南合作落地：上汽出资 20.95 亿元收购跃进整车及紧密零部件资产，MG 品牌并入上汽，成为当时国内最大车企并购。",
+      "source_ids": ["s20", "s19"]
+    },
+    {
+      "date": "2010",
+      "event_en": "Baojun, the first own brand of SAIC-GM-Wuling, is launched.",
+      "event_zh": "上汽通用五菱发布乘用车自主品牌宝骏。",
+      "source_ids": ["s13", "s23"]
+    },
+    {
+      "date": "2011",
+      "event_en": "SAIC launches its commercial-vehicle brand SAIC MAXUS (Maxus), built on LDV technology, and completes an overall listing of the group.",
+      "event_zh": "发布商用车自主品牌大通（MAXUS，源自收购英国 LDV 技术）；同年上汽集团实现整体上市。",
+      "source_ids": ["s13", "s5"]
+    },
+    {
+      "date": "2016",
+      "event_en": "SAIC launches the Roewe RX5, which SAIC marketed as an 'internet car'.",
+      "event_zh": "推出荣威 RX5，上汽将其称为“互联网汽车”。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2020-12",
+      "event_en": "IM Motors (Zhiji Auto) is founded by SAIC, Zhangjiang Hi-Tech and Alibaba Group.",
+      "event_zh": "智己汽车成立，由上汽集团、张江高科、阿里巴巴集团共同打造。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2021-10",
+      "event_en": "Feifan (Rising Auto), spun off from Roewe's R brand, begins operating as an independent company.",
+      "event_zh": "飞凡汽车（脱胎于荣威 R 品牌）以独立公司方式市场化运作。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2024-07",
+      "event_en": "Wang Xiaoqiu is elected chairman and Jia Jianxu is appointed president on 10 July 2024, forming a new management team; chairman Chen Hong retires.",
+      "event_zh": "2024 年 7 月 10 日，王晓秋被选举为董事长、贾健旭被聘任为总裁，新管理团队形成；原董事长陈虹到龄退休。",
+      "source_ids": ["s30", "s17"]
+    },
+    {
+      "date": "2024-10",
+      "event_en": "Roewe and Feifan brands are officially merged, and SAIC forms the 'big passenger-vehicle' unit.",
+      "event_zh": "荣威与飞凡正式合并官宣，上汽组建“大乘用车”板块。",
+      "source_ids": ["s24", "s22"]
+    },
+    {
+      "date": "2025",
+      "event_en": "SAIC reports 2024 net profit attributable to owners of the parent of RMB1.67 billion, down 88.19% year-on-year, after SAIC-GM recorded asset impairments in Q4 2024; in 2025 SAIC launches the Shangjie brand with Huawei.",
+      "event_zh": "2024 年归母净利润 16.66 亿元、同比下降 88.19%，上汽通用 2024 年四季度大额计提资产减值；2025 年上汽与华为共同推出“尚界”品牌。",
+      "source_ids": ["s2", "s3", "s16"]
+    },
+    {
+      "date": "2026-05",
+      "event_en": "SAIC delivers its 100 millionth vehicle, becoming the first Chinese automaker with cumulative production and sales exceeding 100 million units.",
+      "event_zh": "上汽交付第 1 亿辆车，成为中国汽车工业首家累计产销量突破 1 亿辆的汽车集团。",
+      "source_ids": ["s13", "s25"]
+    },
+    {
+      "date": "2026-08",
+      "event_en": "SAIC and General Motors sign a renewal agreement extending the SAIC-GM joint venture by 20 years to 2047.",
+      "event_zh": "上汽集团与通用汽车签署续约协议，将上汽通用合资期限延长 20 年至 2047 年。",
+      "source_ids": ["s11"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Roewe",
+      "name_zh": "荣威",
+      "role_en": "SAIC's main self-owned passenger-car brand, covering sedans, SUVs and MPVs in the mainstream segment.",
+      "role_zh": "上汽核心自主乘用车品牌，覆盖轿车、SUV、MPV 主流市场。",
+      "price_band": null,
+      "founded": 2006,
+      "owner_note_en": "Owned by SAIC Motor Passenger Vehicle and built on Rover technology acquired from 2004. Recent models include the D7/D6, iMAX8 DMH and M7 DMH hybrid. Roewe and Feifan completed their brand integration in 2024. SAIC Motor Passenger Vehicle (Roewe and MG combined) sold 886,742 units in 2025, up 25.42%.",
+      "owner_note_zh": "隶属于上汽乘用车，基于 2004 年取得的罗孚技术打造。近期车型包括 D7/D6、iMAX8 DMH、M7 DMH 混动。2024 年荣威与飞凡完成品牌融合。上汽乘用车（荣威与 MG 合计）2025 年销量 88.67 万辆，同比增长 25.42%。",
+      "status": "active",
+      "source_ids": ["s29", "s36", "s26", "s27"]
+    },
+    {
+      "name_en": "MG",
+      "name_zh": "名爵 MG",
+      "role_en": "British-origin brand acquired with Nanjing Auto and a main brand in SAIC's overseas business.",
+      "role_zh": "英伦起源品牌（随南汽并入上汽），也是上汽的海外主力品牌。",
+      "price_band": null,
+      "founded": 1924,
+      "owner_note_en": "MG was founded in Oxford in 1924; SAIC gained it through the 2007 Nanjing Auto merger. Models include the MG4 (which has a semi-solid-state battery version), MG5, MG7 and Cyberster. MG sold more than 300,000 units in Europe in 2025, up nearly 30%; SAIC described it in its annual-results release as the best-selling Chinese brand in Europe that year.",
+      "owner_note_zh": "MG 品牌 1924 年创立于英国牛津，2007 年随上南合作并入上汽。车型含 MG4（推出半固态电池版本）、MG5、MG7、Cyberster 等。2025 年 MG 在欧洲销量超 30 万辆，同比增长近 30%；上汽年报新闻稿称其为当年欧洲最畅销的中国品牌。",
+      "status": "active",
+      "source_ids": ["s19", "s21", "s10", "s16"]
+    },
+    {
+      "name_en": "IM Motors (Zhiji)",
+      "name_zh": "智己汽车（IM）",
+      "role_en": "Premium smart electric-vehicle brand founded by SAIC, Zhangjiang Hi-Tech and Alibaba.",
+      "role_zh": "高端智能电动车品牌，由上汽、张江高科、阿里巴巴共同打造。",
+      "price_band": null,
+      "founded": 2020,
+      "owner_note_en": "Founded on 25 December 2020 as IM Motors Technology Co. with registered capital of RMB10 billion. Models include the L6, LS6, LS8 and LS9; the LS9 is an SUV with the Hengxing extended-range system and a company-disclosed combined range of 1,508 km. IM sold 81,017 units in 2025, up 23.68%.",
+      "owner_note_zh": "2020 年 12 月 25 日成立（智己汽车科技有限公司，注册资本 100 亿元）。车型包括 L6、LS6、LS8、LS9；其中 LS9 为搭载恒星超级增程的 SUV，公司披露其综合续航为 1508 公里。2025 年销量 8.10 万辆，同比增长 23.68%。",
+      "status": "active",
+      "source_ids": ["s14", "s16", "s26", "s27"]
+    },
+    {
+      "name_en": "Feifan (Rising Auto)",
+      "name_zh": "飞凡汽车",
+      "role_en": "New-energy brand spun off from Roewe's R brand; merged back into Roewe in late 2024.",
+      "role_zh": "脱胎于荣威 R 品牌的新能源品牌，2024 年末回归并入荣威。",
+      "price_band": null,
+      "founded": 2021,
+      "owner_note_en": "Operated independently from October 2021, with about 21,000 sales in 2023. SAIC announced the merger with Roewe on 28 October 2024, ending Feifan's run as a standalone brand; it now operates as a product line under Roewe.",
+      "owner_note_zh": "2021 年 10 月起独立运作，2023 年销量约 2.1 万辆。2024 年 10 月 28 日上汽乘用车官宣荣威与飞凡合并，飞凡不再作为独立品牌运营，转为荣威旗下产品线。",
+      "status": "merged",
+      "source_ids": ["s22", "s24"]
+    },
+    {
+      "name_en": "SAIC MAXUS",
+      "name_zh": "大通 MAXUS",
+      "role_en": "SAIC's self-owned commercial-vehicle brand covering pickups, MPVs, vans and electric commercial vehicles.",
+      "role_zh": "上汽自主商用车品牌，覆盖皮卡、MPV、宽体轻客及新能源商用车。",
+      "price_band": null,
+      "founded": 2011,
+      "owner_note_en": "Launched in 2011 using technology acquired from Britain's LDV; SAIC Maxus Automobile is a wholly owned subsidiary. Sold 222,286 units in 2025, up 25.14%.",
+      "owner_note_zh": "2011 年发布，源自收购英国 LDV 商用车技术；上汽大通汽车有限公司为上汽全资子公司。2025 年销量 22.23 万辆，同比增长 25.14%。",
+      "status": "active",
+      "source_ids": ["s13", "s27"]
+    },
+    {
+      "name_en": "Wuling",
+      "name_zh": "五菱",
+      "role_en": "Mainstream brand of SAIC-GM-Wuling, known for mini commercial vehicles and the Hongguang MINIEV micro EV.",
+      "role_zh": "上汽通用五菱旗下主流品牌，以微型商用车及宏光 MINIEV 微型电动车闻名。",
+      "price_band": null,
+      "founded": 1985,
+      "owner_note_en": "The Wuling brand dates to 1985; SAIC-GM-Wuling (SGMW) was formed in 2002, owned 50.1% by SAIC, 44% by GM and about 5.9% by Guangxi Automobile Group. The Hongguang MINIEV launched in July 2020 became a best-selling micro EV. SGMW sold 1.615 million units in 2025, up 20.52%.",
+      "owner_note_zh": "五菱品牌诞生于 1985 年；上汽通用五菱（SGMW）成立于 2002 年，上汽持股 50.1%、通用 44%、广西汽车集团约 5.9%。2020 年 7 月上市的宏光 MINIEV 成为微型电动车热门车型。SGMW 2025 年销量 161.5 万辆，同比增长 20.52%。",
+      "status": "active",
+      "source_ids": ["s15", "s23", "s27"]
+    },
+    {
+      "name_en": "Baojun",
+      "name_zh": "宝骏",
+      "role_en": "SAIC-GM-Wuling's passenger-car brand launched in 2010.",
+      "role_zh": "上汽通用五菱 2010 年推出的乘用车品牌。",
+      "price_band": null,
+      "founded": 2010,
+      "owner_note_en": "First own passenger-car brand of SGMW, launched 18 July 2010; models include the Baojun 730/560 and more recent new-energy models.",
+      "owner_note_zh": "上汽通用五菱首个乘用车自主品牌，2010 年 7 月 18 日发布；车型含宝骏 730、560 及近年新能源车型。",
+      "status": "active",
+      "source_ids": ["s23", "s13"]
+    },
+    {
+      "name_en": "SAIC Volkswagen",
+      "name_zh": "上汽大众",
+      "role_en": "50/50 joint venture with Volkswagen Group, with business covering Volkswagen and Audi (SAIC Audi).",
+      "role_zh": "与大众集团 50:50 合资，业务涵盖大众及奥迪（上汽奥迪）品牌。",
+      "price_band": null,
+      "founded": 1985,
+      "owner_note_en": "China's first passenger-car JV. Renewed in November 2024 through 2040, planning 18 new models by 2030, of which 15 are developed specifically for China. Sold 1.024 million units in 2025, down 10.81%.",
+      "owner_note_zh": "中国首家轿车合资企业。2024 年 11 月续约至 2040 年，计划到 2030 年推出 18 款新车、其中 15 款专为中国市场开发。2025 年销量 102.4 万辆，同比下降 10.81%。",
+      "status": "active",
+      "source_ids": ["s1", "s10", "s12", "s27"]
+    },
+    {
+      "name_en": "SAIC-GM",
+      "name_zh": "上汽通用",
+      "role_en": "50/50 joint venture with General Motors, producing Buick, Chevrolet and Cadillac models.",
+      "role_zh": "与通用汽车 50:50 合资，生产别克、雪佛兰、凯迪拉克品牌车型。",
+      "price_band": null,
+      "founded": 1997,
+      "owner_note_en": "Founded June 1997. Renewed on 5 August 2026 with the term extended 20 years to 2047, with the 50:50 split unchanged. Sold 535,000 units in 2025, up 22.99%.",
+      "owner_note_zh": "1997 年 6 月成立。2026 年 8 月 5 日续约，合资期限延长 20 年至 2047 年，50:50 股比不变。2025 年销量 53.5 万辆，同比增长 22.99%。",
+      "status": "active",
+      "source_ids": ["s11", "s15", "s27"]
+    },
+    {
+      "name_en": "Shangjie (SAIC-Huawei)",
+      "name_zh": "尚界（上汽与华为）",
+      "role_en": "New brand jointly launched by SAIC and Huawei in 2025.",
+      "role_zh": "2025 年上汽与华为共同推出的新品牌。",
+      "price_band": "H5 15.98万–19.98万元（2026年6月上市款）",
+      "founded": 2025,
+      "owner_note_en": "Launched in 2025 under SAIC's cooperation with Huawei; the first model, the Shangjie H5, reached monthly sales of over 10,000 units. The facelifted H5 launched 18 June 2026 in six variants (extended-range and pure-electric), priced at RMB159,800–199,800.",
+      "owner_note_zh": "2025 年上汽与华为合作推出；首款车型尚界 H5 单月销量破万。2026 年 6 月 18 日新款尚界 H5 上市，共六款车型（增程与纯电），售价 15.98 万–19.98 万元。",
+      "status": "active",
+      "source_ids": ["s16", "s26"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (Chinese Accounting Standards)",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 726199, "gross_margin_pct": 9.49, "net_profit": 14106, "rnd": 22013, "operating_cash_flow": 42334, "source_ids": ["s2", "s8", "s4"] },
+      { "fiscal_year": 2024, "revenue": 614074, "gross_margin_pct": 9.38, "net_profit": 1666, "rnd": 21813, "operating_cash_flow": 69268, "source_ids": ["s1", "s2", "s8", "s4"] },
+      { "fiscal_year": 2025, "revenue": 646152, "gross_margin_pct": 10.09, "net_profit": 10106, "rnd": 21706, "operating_cash_flow": 34307, "source_ids": ["s1", "s8", "s4"] }
+    ],
+    "note_en": "Unit: CNY million, under PRC GAAP (Chinese Accounting Standards). Revenue is operating revenue (营业收入) of the auto-manufacturing business (whole vehicles, parts, services and others), excluding interest income from the finance segment; total operating revenue (营业总收入) including the finance segment was RMB744.71bn in 2023, RMB627.59bn in 2024 and RMB656.24bn in 2025. Net profit is net profit attributable to owners of the parent (归属于上市公司股东的净利润), i.e. shareholders of the listed company. Gross margin is the auto-manufacturing gross margin (gross profit divided by operating revenue): 9.49% in 2023, 9.38% in 2024 and 10.09% in 2025 (as disclosed in the 2025 annual report); the consolidated gross margin including the finance segment was 11.30% in 2025. R&D (rnd) is total R&D investment (研发投入合计), including capitalized expenditure: RMB22.01bn in 2023 and RMB21.81bn in 2024 per the 2024 annual report, and RMB21.71bn in 2025 per the 2025 annual report (the 2025 results presentation listed RMB21.68bn; the annual-report figure is used here). Operating cash flow is net cash from operating activities. Figures are financial disclosures only; this page does not constitute any trading recommendation.",
+    "note_zh": "单位：百万元人民币，中国企业会计准则。营收为汽车制造业营业收入（含整车、零部件、劳务及其他，不含金融业务利息收入）；含金融业务的营业总收入为 2023 年 7447.05 亿元、2024 年 6275.90 亿元、2025 年 6562.44 亿元。净利润为归属于上市公司股东（母公司所有者）的净利润（归母净利润）。毛利率为汽车制造业毛利率（毛利除以营业收入）：2023 年 9.49%、2024 年 9.38%、2025 年 10.09%（2025 年年报披露值）；含金融业务的合并毛利率 2025 年为 11.30%。研发投入（rnd）为研发投入合计（含资本化支出）：2023 年 220.13 亿元、2024 年 218.13 亿元（据 2024 年年报），2025 年 217.06 亿元（据 2025 年年报；业绩说明会列为 216.80 亿元，此处以年报为准）。经营现金流为经营活动产生的现金流量净额。以上仅为财务披露数据，本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>SAIC Motor Corporation Limited (上海汽车集团股份有限公司) is a state-owned automaker headquartered in Shanghai and ultimately controlled by the Shanghai State-owned Assets Supervision and Administration Commission. Its roots trace to 1955, when the predecessor Shanghai Internal Combustion Engine Parts Manufacturing Company was founded; the listed company was incorporated and listed on the Shanghai Stock Exchange (600104) in 1997 and completed an overall listing in 2011 <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>. It is one of China's largest vehicle groups: in 2025 it sold 4.507 million vehicles, with self-owned brands (Roewe, MG, IM, Maxus, Wuling, Baojun) contributing 65% of volume <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p><p>Revenue comes mainly from vehicle and parts manufacturing, plus financial services, and from three large joint ventures with Volkswagen, General Motors and, through SAIC-GM-Wuling, with GM and Guangxi Automobile Group. Its business spans six segments: complete vehicles, parts, mobility and services, finance, international operations and innovation technology <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>. Consolidated total operating revenue reached RMB656.24 billion in 2025; SAIC ranked 125th on the 2026 Fortune Global 500 (revenue USD91.30 billion, its 22nd appearance, up 13 places from 138th a year earlier) <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>. In May 2026 it delivered its 100 millionth vehicle, becoming the first Chinese automaker to cross that cumulative milestone <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s25]</a>. The 2025 result marked a rebound from a difficult 2024, when net profit attributable to owners of the parent fell 88.19% year-on-year amid asset impairments at SAIC-GM <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2024ndqgg/2025/4/29/685D33923ABE4D109BBE39F92BFBF945.pdf\">[s2]</a>.</p>",
+      "zh": "<p>上海汽车集团股份有限公司是一家总部位于上海、最终由上海市国有资产监督管理委员会控股的国有汽车集团。其前身可追溯至 1955 年成立的上海市内燃机配件制造公司，1997 年设立并在上海证券交易所上市（600104），2011 年实现整体上市 <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>。它是中国规模最大的汽车集团之一：2025 年销售整车 450.7 万辆，其中荣威、MG、智己、大通、五菱、宝骏等自主品牌销量占比达 65% <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p><p>公司收入主要来自整车与零部件制造，以及金融业务，并依托上汽大众、上汽通用、上汽通用五菱三大合资企业，业务覆盖整车、零部件、移动出行和服务、金融、国际经营、创新科技六大板块 <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>。2025 年合并营业总收入达 6562.44 亿元，位列 2026 年《财富》世界 500 强第 125 位（营收 913.01 亿美元，第 22 次上榜，较上年第 138 位上升 13 位）<a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>。2026 年 5 月，上汽交付第 1 亿辆车，成为中国汽车工业首家累计产销突破 1 亿辆的汽车集团 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s25]</a>。2025 年业绩从艰难的 2024 年回升：2024 年归母净利润受上汽通用大额资产减值影响同比下降 88.19% <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2024ndqgg/2025/4/29/685D33923ABE4D109BBE39F92BFBF945.pdf\">[s2]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>By product, the 2025 vehicle business recorded operating revenue of RMB410.20 billion (62.51% of total operating revenue), parts RMB203.02 billion (30.94%), services and others RMB32.94 billion (5.02%), and the finance business RMB10.09 billion (1.54%). Segment gross margins were 4.30% for whole vehicles, 19.15% for parts, 26.38% for services and 88.47% for the finance business. By region, revenue from China was RMB504.14 billion (gross margin 10.82%) and from other regions RMB152.10 billion (gross margin 12.88%) <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s1]</a>.</p><p>In 2025, selling expenses were RMB20.90 billion (up 4.07%), administrative expenses RMB22.45 billion (up 6.37%), R&amp;D expenses RMB18.10 billion (up 2.57%) and investment income RMB13.43 billion (up 87.15%) <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s1]</a>. In the first half of 2026, SAIC reported consolidated total operating revenue of RMB298.65 billion and net profit attributable to owners of the parent of RMB5.15 billion; core net profit (excluding foreign-exchange and impairment effects) was RMB7.87 billion, up 72% year-on-year, with gross margin of 12.6% and operating cash flow of RMB54.3 billion (up 158%) <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s25]</a>.</p><h3>Technology and platforms</h3><p>SAIC is advancing solid-state and semi-solid-state batteries, the Lingxi digital chassis, the DMH super hybrid and Hengxing super extended-range systems, and end-to-end assisted-driving large models. In 2025 it disclosed that its second-generation semi-solid-state battery was fitted and delivered in volume on the new MG4, and that the Hengxing super extended-range and Lingxi chassis 2.0 entered volume production <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p><p>Representative products include the new MG4 with a semi-solid-state battery version <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>. SAIC's August 2025 pre-sale release for the new-generation IM LS6 specifies a Lingxi digital chassis, a turning radius as low as 4.79 m, and mapless NOA through IM AD 3.0 <a href=\"https://www.saicmotor.com/m/xwzx/xwk/2025/62441.shtml\">[s33]</a>. The IM LS9 uses the Hengxing extended-range system, with a company-disclosed combined range of 1,508 km <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>.</p><p>In the joint-venture segment, SAIC-GM's Buick launched the high-end new-energy sub-brand Zhijing with the 'Xiaoyao' super fusion architecture in April 2025, and SAIC Audi's new AUDI brand launched its first production model, the E5 Sportback, in September 2025 <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>. The company works with Huawei, Momenta, Horizon Robotics, OPPO and Doubao; in 2025 it launched the Shangjie brand with Huawei, whose first model the Shangjie H5 topped 10,000 monthly sales <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>. In 2025, consolidated R&amp;D investment was RMB21.71 billion, with 30,300 R&amp;D staff, 17.6% of the workforce <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s1]</a>. The company said it has invested over RMB150 billion in R&amp;D over more than a decade and holds nearly 25,000 valid patents <a href=\"https://www.saicmotor.com/m/xwzx/mtbd/2026/64537.shtml\">[s13]</a>. In industrial investment, SAIC is the largest institutional shareholder of the autonomous-driving firm Momenta, which listed on the Hong Kong Stock Exchange in July 2026; the memory-chip company CXMT, in which SAIC Financial Holdings had earlier invested, listed on the STAR Market in July 2026 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>.</p><h3>Plants and capacity</h3><p>SAIC operates 13 complete-vehicle bases plus supporting parts and logistics bases across northeast, east, south, southwest, central-south and northwest China; overseas it has nine complete-vehicle and KD plants, with products and services reaching more than 170 countries and regions and over 3,800 sales and service outlets <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>. In June 2026 SAIC announced its first wholly owned European production base in Spain, investing about EUR200 million for planned annual capacity of 120,000 vehicles, with production expected to start by the end of 2028 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>. In 2024–2025 the company formed a 'big passenger-vehicle' unit, integrating SAIC Motor Passenger Vehicle (Roewe/Feifan and MG), SAIC International, the innovation R&amp;D institute, Z-one Technology and the overseas mobility company <a href=\"https://auto.youth.cn/xw/202502/t20250220_15837767.htm\">[s24]</a>.</p><h3>Domestic market position</h3><p>In 2025 SAIC sold 4.507 million vehicles, up 12.3% year-on-year, with a market share of 13.1% (up 0.3 percentage points) and retail sales of 4.67 million units; self-owned brands sold 2.928 million units, up 21.6%, or 65% of group volume <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>. BYD sold 4.6024 million vehicles in 2025, ahead of SAIC's wholesale volume for the full year <a href=\"https://www.bydglobal.com/cn/news/2026-03-13/1617162764900\">[s32]</a>. In January–July 2026 SAIC sold 2.384 million vehicles, which the company said kept it leading Chinese automakers, with self-owned brands at 72.4% of volume (1.725 million units, up 13.6%) <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>. New-energy vehicles totalled 1.643 million units in 2025, up 33.1% <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p><h3>Overseas business</h3><p>In 2025 SAIC exported and sold overseas 1.071 million vehicles, up 3.1%, with cumulative overseas sales exceeding 6 million units; it has one 300,000-unit-scale regional market (Europe) and five 50,000-unit-scale markets (Americas, Middle East, Australia-New Zealand, ASEAN and South Asia) <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>. SGMW's Indonesia base raised new-energy vehicles to 80% of its production and sales, and SAIC is building a plant in Egypt with Mansour Group while advancing a European base plan <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>. Among overseas entities, SAIC CP (Thailand) sold 29,391 units, Wuling Indonesia 21,016 units and MG Motor India 69,997 units in 2025 <a href=\"https://www.saicmotor.com/chinese/tzzgx/jbqk/xssj/63718.shtml\">[s27]</a>. In January–July 2026, MG sold 218,000 units in Europe, up 22.8%, and SAIC's total overseas sales were 876,000 units, up 52.1% <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>. The company's self-operated ocean-going ro-ro fleet has grown to 21 vessels <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p>",
+      "zh": "<h3>业务结构</h3><p>分产品看，2025 年整车业务收入 4101.96 亿元（占营业总收入 62.51%）、零部件 2030.20 亿元（30.94%）、劳务及其他 329.36 亿元（5.02%）、金融业务 100.92 亿元（1.54%）。分业务毛利率分别为：整车 4.30%、零部件 19.15%、劳务及其他 26.38%、金融业务 88.47%。分地区看，中国地区收入 5041.39 亿元（毛利率 10.82%），其他地区 1521.05 亿元（毛利率 12.88%）<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s1]</a>。</p><p>2025 年销售费用 208.98 亿元（同比 +4.07%）、管理费用 224.53 亿元（+6.37%）、研发费用 181.04 亿元（+2.57%）、投资收益 134.33 亿元（+87.15%）<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s1]</a>。2026 年上半年，上汽实现合并营业总收入 2986.5 亿元、归母净利润 51.5 亿元；剔除汇兑及减值影响后的核心归母净利润 78.7 亿元，同比增长 72%，毛利率 12.6%，经营活动现金流量净额 543 亿元（同比 +158%）<a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s25]</a>。</p><h3>技术与平台</h3><p>上汽推进固态与半固态电池、灵蜥数字底盘、DMH 超级混动与恒星超级增程、端到端智驾大模型等技术。2025 年公司披露，其第二代半固态电池技术在全新 MG4 上实现搭载并批量交付，恒星超级增程、灵蜥底盘 2.0 等实现量产装车 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p><p>代表性产品包括推出半固态电池版本的全新 MG4 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。上汽 2025 年 8 月的新一代智己 LS6 预售新闻稿披露，该车搭载灵蜥数字底盘，转弯半径最低为 4.79 米，IM AD 3.0 提供无图 NOA 功能 <a href=\"https://www.saicmotor.com/m/xwzx/xwk/2025/62441.shtml\">[s33]</a>。智己 LS9 搭载恒星超级增程，公司披露其综合续航为 1508 公里 <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>。</p><p>合资板块同步转型：2025 年 4 月上汽通用别克推出高端新能源子品牌“至境”及“逍遥”超级融合架构，2025 年 9 月上汽奥迪新品牌 AUDI 首款量产车型 E5 Sportback 上市 <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>。公司与华为、Momenta、地平线、OPPO、豆包等合作，2025 年与华为推出“尚界”品牌，首款车型尚界 H5 单月销量破万 <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>。2025 年合并口径研发投入 217.06 亿元，研发人员 3.03 万人、占员工总数 17.6% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s1]</a>。公司称其十余年累计研发投入超 1500 亿元、获得有效专利近 2.5 万项 <a href=\"https://www.saicmotor.com/m/xwzx/mtbd/2026/64537.shtml\">[s13]</a>。在产业投资方面，上汽是智驾方案商 Momenta 的第一大机构股东，Momenta 于 2026 年 7 月在港交所主板上市；上汽金控此前投资的存储芯片企业长鑫科技于 2026 年 7 月在科创板上市 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。</p><h3>工厂与产能</h3><p>上汽在东北、华东、华南、西南、中南与西北建有 13 个整车基地及配套零部件、物流基地；海外设有 9 家整车制造基地和 KD 工厂，产品和服务进入全球 170 多个国家和地区，营销服务网点超 3800 家 <a href=\"https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml\">[s5]</a>。2026 年 6 月，上汽宣布在西班牙建设欧洲首个全资生产基地，投资约 2 亿欧元、规划年产能 12 万辆，预计 2028 年底投产 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。2024–2025 年，公司组建“大乘用车”板块，将上汽乘用车（荣威飞凡、名爵）、上汽国际、创新研发总院、零束科技、海外出行五家企业一体化管理 <a href=\"https://auto.youth.cn/xw/202502/t20250220_15837767.htm\">[s24]</a>。</p><h3>国内市场地位</h3><p>2025 年上汽销售整车 450.7 万辆，同比增长 12.3%，市场占有率 13.1%（同比上升 0.3 个百分点），终端零售 467 万辆；自主品牌销量 292.8 万辆，同比增长 21.6%，占集团销量 65% <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。比亚迪 2025 年销量 460.24 万辆，全年批售量高于上汽 <a href=\"https://www.bydglobal.com/cn/news/2026-03-13/1617162764900\">[s32]</a>。2026 年 1–7 月，上汽累计销售整车 238.4 万辆，公司称其继续位居中国汽车企业首位，自主品牌销量 172.5 万辆、同比增长 13.6%，占集团总销量 72.4% <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。2025 年新能源车销量 164.3 万辆，同比增长 33.1% <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p><h3>海外业务</h3><p>2025 年上汽出口及海外市场销售 107.1 万辆，同比增长 3.1%，海外累计销量突破 600 万辆；已形成 1 个“三十万辆级”（欧洲）和 5 个“五万辆级”（美洲、中东、澳新、东盟、南亚）海外区域市场 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。上汽通用五菱印尼基地新能源汽车产销占比提升至 80%，公司还与埃及曼苏尔集团合作在埃及建厂、并推进欧洲基地建设方案 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。海外主体中，上汽正大（泰国）2025 年销量 29,391 辆、印尼五菱 21,016 辆、名爵印度 69,997 辆 <a href=\"https://www.saicmotor.com/chinese/tzzgx/jbqk/xssj/63718.shtml\">[s27]</a>。2026 年 1–7 月，MG 在欧洲市场销量 21.8 万辆、同比增长 22.8%；上汽同期海外累计销售 87.6 万辆、同比增长 52.1% <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。公司自营远洋滚装船已达 21 艘 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>As a state-owned group, SAIC has no single entrepreneur-founder; its history traces back to the 1955 Shanghai Internal Combustion Engine Parts Manufacturing Company, and the listed company dates from its 1997 incorporation <a href=\"https://www.saicmotor.com/m/xwzx/mtbd/2026/64537.shtml\">[s13]</a>.</p><h3>Current management</h3><ul><li><strong>Wang Xiaoqiu (王晓秋)</strong> — chairman and party secretary. Born August 1964; PhD in engineering, professor-level senior engineer. He held quality-assurance roles at Shanghai Volkswagen, served as general manager of Shanghai GM, and as SAIC vice president with responsibility for the passenger-vehicle unit and technical centre. He was appointed SAIC president on 19 July 2019 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2019nlsgg/2019/7/22/76A6F9B53D77424F833E7249636A5A37.pdf\">[s28]</a>, and was elected chairman on 10 July 2024 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s30]</a>; his career details are in the official board biography <a href=\"https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml\">[s6]</a>.</li><li><strong>Jia Jianxu (贾健旭)</strong> — director, president and deputy party secretary. Born February 1978; MBA. He was deputy general manager and executive deputy general manager of Shanghai Yanfeng Johnson Controls Seating, and deputy general manager and then general manager of Yanfeng Automotive Trim Systems, and managed SAIC's Luxembourg, Europe and Hong Kong operations, before serving as SAIC vice president and president of SAIC Volkswagen. He was appointed SAIC president on 10 July 2024 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s30]</a>; his career details are in the official board biography <a href=\"https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml\">[s6]</a>.</li><li>The board also includes external directors Ge Dawei and Huang Jian, independent directors Chen Naiwei, Sun Zheng and Song Xiaoyan, and employee representative director Hua Ende <a href=\"https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml\">[s6]</a>.</li></ul><h3>Ownership and governance</h3><p>The Wang Xiaoqiu and Jia Jianxu team took over in July 2024 (former chairman Chen Hong retired at the mandatory age), driving reform of the self-owned-brand business <a href=\"https://auto.ce.cn/auto/gundong/202407/11/t20240711_39066877.shtml\">[s17]</a>. As of 30 June 2026, the controlling shareholder SAIC Motor (Group) Corporation held 63.71%, China COSCO Shipping Group 5.91% and Nanjing Yuejin Automobile Group 3.60%, with total share capital of 11.495 billion shares; the actual controller is Shanghai SASAC <a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/gdqk/\">[s7]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>上汽为国有控股企业集团，无民营意义上的单一创始人，沿革可追溯至 1955 年成立的上海市内燃机配件制造公司，上市主体则于 1997 年设立 <a href=\"https://www.saicmotor.com/m/xwzx/mtbd/2026/64537.shtml\">[s13]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>王晓秋</strong>——党委书记、董事长。1964 年 8 月出生，工学博士、教授级高级工程师。曾任上海大众汽车有限公司质量保证部相关职务、上海通用汽车有限公司总经理、上汽集团副总裁兼乘用车分公司总经理、技术中心主任等职。2019 年 7 月 19 日获聘上汽集团总裁 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2019nlsgg/2019/7/22/76A6F9B53D77424F833E7249636A5A37.pdf\">[s28]</a>，2024 年 7 月 10 日被选举为董事长 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s30]</a>，履历见官方董事会页面 <a href=\"https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml\">[s6]</a>。</li><li><strong>贾健旭</strong>——董事、总裁、党委副书记。1978 年 2 月出生，工商管理硕士。曾任上海延锋江森座椅有限公司副总经理、常务副总经理，延锋汽车饰件系统有限公司副总经理、总经理，主持上汽卢森堡、欧洲及香港业务，后任上汽集团副总裁兼上汽大众汽车有限公司总经理。2024 年 7 月 10 日获聘总裁 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s30]</a>，履历见官方董事会页面 <a href=\"https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml\">[s6]</a>。</li><li>董事会还包括外部董事葛大维、黄坚，独立董事陈乃蔚、孙铮、宋晓燕，以及职工代表董事华恩德 <a href=\"https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml\">[s6]</a>。</li></ul><h3>股权与治理</h3><p>王晓秋、贾健旭团队于 2024 年 7 月完成换届接棒（原董事长陈虹到龄退休），推动自主品牌业务改革 <a href=\"https://auto.ce.cn/auto/gundong/202407/11/t20240711_39066877.shtml\">[s17]</a>。截至 2026 年 6 月 30 日，控股股东上海汽车工业（集团）有限公司持股 63.71%，中国远洋海运集团有限公司持股 5.91%，跃进汽车集团有限公司持股 3.60%，总股本 114.95 亿股；实际控制人为上海市国资委 <a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/gdqk/\">[s7]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment.</strong> SAIC competes domestically with BYD, Geely, Changan, Chery and Great Wall Motor, and internationally with global automakers. Its competitive base rests on vehicle scale, coverage across self-owned and joint-venture brands, parts operations and MG's overseas channels. Supporting facts include 4.507 million vehicle sales in 2025, with self-owned brands accounting for 65% <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>, and more than 300,000 MG sales in Europe that year; SAIC described MG as Europe's best-selling Chinese brand <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p><p>In 2024, SAIC's auto-manufacturing gross margin was 9.38% and net profit attributable to owners of the parent fell 88.19%. The annual report attributed the decline mainly to lower vehicle sales, price competition reducing revenue and gross profit, and impairments at SAIC-GM and its subsidiaries reducing investment income <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>.</p><p><strong>Our judgment.</strong> These disclosures indicate that SAIC's results are sensitive to domestic price competition and joint-venture performance. Whether the 2025 recovery continues depends in part on the quality of self-owned-brand growth and a recovery in joint-venture profitability <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p>",
+      "zh": "<p><strong>我们的判断。</strong>上汽在国内与比亚迪、吉利、长安、奇瑞、长城等车企竞争，在海外面对跨国车企。其竞争基础是整车规模、自主与合资品牌覆盖、零部件业务及 MG 的海外渠道。事实依据包括：2025 年整车销量 450.7 万辆、自主品牌占集团销量 65% <a href=\"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html\">[s16]</a>；MG 当年欧洲销量超过 30 万辆，上汽称其为欧洲最畅销的中国品牌 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p><p>2024 年上汽汽车制造业毛利率为 9.38%，归母净利润同比下降 88.19%。年报将整车销量下降、价格战导致销售收入及毛利下降，以及上汽通用及其控股子公司计提减值导致投资收益减少，列为业绩下降的主要原因 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>。</p><p><strong>我们的判断。</strong>上述披露表明，上汽业绩对国内价格竞争及合资业务表现敏感；2025 年业绩回升能否持续，还需观察自主品牌的增长质量和合资业务的盈利恢复 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> SAIC and General Motors renewed the SAIC-GM joint venture to 2047 (agreement signed 5 August 2026), with the 50:50 split unchanged <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65100.shtml\">[s11]</a>. SAIC Volkswagen was renewed in November 2024 through 2040, planning 18 new models by 2030 (15 China-specific) and seven new-energy products in 2026, including the ID. ERA 9X <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>. In April 2026 SAIC signed a strategic agreement with Audi to set up Audi's first electric-intelligent technology centre in Shanghai, developing models on the ADP platform such as the AUDI E7X <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>. The company also plans more than 20 new models in 2026 across self-owned and joint-venture brands, and is advancing solid-state batteries, the Shangjie brand with Huawei, and the overseas 'Glocal 3.0' strategy <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>.</p><p><strong>Our judgment.</strong> Whether the recovery continues depends on two premises: self-owned brands continuing to gain share (65% of volume in 2025, 72.4% in January–July 2026) and the joint-venture business stabilising after the renewal agreements. Continued domestic price competition, tighter trade restrictions or faster assisted-driving and battery technology cycles could impede the recovery. Whether brand and organisational integration improves coordination, and whether production technologies achieve sustained scale, requires further operating evidence <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>上汽与通用汽车于 2026 年 8 月 5 日签署协议，将上汽通用合资续约至 2047 年（50:50 股比不变）<a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65100.shtml\">[s11]</a>。上汽大众已于 2024 年 11 月续约至 2040 年，计划到 2030 年推出 18 款新车（其中 15 款专为中国市场开发）、2026 年投放 7 款新能源产品（含 ID. ERA 9X）<a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。2026 年 4 月与奥迪签署战略协议，在上海设立奥迪全球首个电动智能技术中心，基于 ADP 智能数字平台开发车型（如 AUDI E7X）<a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。公司还计划 2026 年投放自主与合资品牌二十余款新车，并加速固态电池、与华为的“尚界”品牌及海外“Glocal 3.0”战略 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s10]</a>。</p><p><strong>我们的判断。</strong>上汽 2025 年业绩回升能否延续，取决于两个前提：自主品牌持续提升份额（2025 年占 65%、2026 年 1–7 月占 72.4%），以及合资板块在续约后企稳。若国内价格竞争持续、贸易限制加剧，或辅助驾驶与电池技术迭代加快，复苏也可能受阻。品牌与组织整合能否提高协同效率、量产技术能否持续规模化，仍需后续经营结果验证 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml\">[s12]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Price competition and margins.</strong> In its 2024 annual report, SAIC cited lower sales and price competition reducing revenue and gross profit as reasons for the earnings decline; auto-manufacturing gross margin was 9.38% <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>.</li><li><strong>Joint-venture business.</strong> The 2024 annual report disclosed that impairments at SAIC-GM and its subsidiaries in the fourth quarter substantially reduced SAIC's investment income <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>.</li><li><strong>Trade and tariff barriers.</strong> The 2024 annual report disclosed adverse effects from the EU anti-subsidy investigation on overseas operations and responses including accelerated vehicle shipments and additional HEV models <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>.</li><li><strong>Foreign-exchange risk.</strong> The 2024 annual report identified foreign-exchange exposure from assets, liabilities and transactions denominated in currencies including US dollars, euros and Hong Kong dollars; SAIC also stated that it had no significant foreign-exchange risk at the end of 2024 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>.</li><li><strong>Technology and product cycles.</strong> In its 2024 annual-report risk disclosures, SAIC said that competition over features and faster product cycles driven by intelligent technologies posed challenges to automakers' profitability <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>.</li></ul>",
+      "zh": "<ul><li><strong>价格竞争与利润率。</strong>公司在 2024 年报中将销量下降和价格战导致收入及毛利下降列为利润下滑的原因；当年汽车制造业毛利率为 9.38% <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>。</li><li><strong>合资业务。</strong>2024 年报披露，上汽通用及其控股子公司在第四季度计提相关资产减值准备，导致公司投资收益同比大幅减少 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>。</li><li><strong>贸易与关税壁垒。</strong>公司在 2024 年报中披露，海外业务受到欧盟反补贴调查等因素影响，并采取新车抢运、增加 HEV 车型等措施应对 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>。</li><li><strong>汇率风险。</strong>2024 年报披露，以美元、欧元、港币等计价的外币资产、负债及交易存在外汇风险；公司同时表示，2024 年末无重大外汇风险 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>。</li><li><strong>技术与产品迭代。</strong>公司在 2024 年报的风险提示中指出，竞争向配置延伸、智能化技术加快产品迭代，车企盈利能力面临挑战 <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF\">[s36]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "上海汽车集团股份有限公司2025年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s2", "name": "上海汽车集团股份有限公司2024年年度报告", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2024ndqgg/2025/4/29/685D33923ABE4D109BBE39F92BFBF945.pdf", "date": "2025-04-29", "tier": "A" },
+    { "id": "s3", "name": "上海汽车集团股份有限公司2024年度业绩预告", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2025nlsgg/2025/1/26/8FC7D76FE20C44E3A1A0444DDAEE3E5D.pdf", "date": "2025-01-26", "tier": "A" },
+    { "id": "s4", "name": "上海汽车集团股份有限公司2025年年报业绩说明会", "url": "https://www.saicmotor.com/chinese/images/tzzgx/tzzhd/yjtj/2025/2025_12.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s5", "name": "上汽集团官网·公司简介", "url": "https://www.saicmotor.com/chinese/gsgk/gsjs/index.shtml", "date": "2026-07-30", "tier": "A" },
+    { "id": "s6", "name": "上汽集团官网·董事会", "url": "https://www.saicmotor.com/chinese/gsgk/dsh/index.shtml", "date": "2026-10-29", "tier": "A" },
+    { "id": "s7", "name": "上汽集团官网·十大股东", "url": "https://www.saicmotor.com/m/tzzgx/jbqk/gdqk/", "date": "2026-08-29", "tier": "A" },
+    { "id": "s8", "name": "上汽集团官网·财务数据", "url": "https://www.saicmotor.com/m/tzzgx/jbqk/cwsj", "date": "2026-08-29", "tier": "A" },
+    { "id": "s9", "name": "上汽集团官网转载水滴汽车·2025年上汽集团销售450.7万辆 同比增长12.3%", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/63540.shtml", "date": "2026-01-07", "tier": "C" },
+    { "id": "s10", "name": "上汽集团官网·上汽集团发布2025年年报：筑底企稳显韧性，回升提速开新局", "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml", "date": "2026-04-01", "tier": "A" },
+    { "id": "s11", "name": "上汽集团官网转载上海发布·延长20年！上汽集团与通用汽车签署合资续约协议", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65100.shtml", "date": "2026-08-06", "tier": "A" },
+    { "id": "s12", "name": "上汽集团官网转载人民日报文创·锚定用户导向，上汽正在重塑冠军基因", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65126.shtml", "date": "2026-08-11", "tier": "B" },
+    { "id": "s13", "name": "上汽集团官网转载证券时报·上汽的变与不变（品牌沿革）", "url": "https://www.saicmotor.com/m/xwzx/mtbd/2026/64537.shtml", "date": "2026-05-24", "tier": "B" },
+    { "id": "s14", "name": "智己汽车官网·企业基本信息", "url": "https://www.immotors.com/website/news_detail/42", "date": "2022-01-14", "tier": "A" },
+    { "id": "s15", "name": "通用汽车中国官网·在华业务", "url": "https://www.gm.com.cn/zh/home/company/operations.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s16", "name": "上海市国资委·上汽集团2025年销售整车450.7万辆", "url": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260106/cbf8685a9dc0475480c55228cf715527.html", "date": "2026-01-06", "tier": "A" },
+    { "id": "s17", "name": "中国经济网·上汽集团完成换帅，王晓秋掌舵、贾健旭升任总裁", "url": "https://auto.ce.cn/auto/gundong/202407/11/t20240711_39066877.shtml", "date": "2024-07-11", "tier": "B" },
+    { "id": "s18", "name": "上海证券报·中国证券网《4月1日晚间重要公告集锦》（所引条目：上汽集团2025年度业绩）", "url": "https://www.cnstock.com/commonDetail/663847", "date": "2026-04-01", "tier": "B" },
+    { "id": "s19", "name": "中国青年报（中青在线）·中国汽车60年简史", "url": "https://auto.cyol.com/content/2009-09/24/content_2869276.htm", "date": "2009-09-24", "tier": "B" },
+    { "id": "s20", "name": "中国新闻网·发改委主持国内最大车企并购 南汽资产融入上汽", "url": "https://www.chinanews.com.cn/auto/cqdt/news/2007/12-27/1116437.shtml", "date": "2007-12-27", "tier": "B" },
+    { "id": "s21", "name": "中国金融信息网·荣威飞凡、MG环比双涨 上汽乘用车2024年销81万辆", "url": "https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html", "date": "2025-01-07", "tier": "B" },
+    { "id": "s22", "name": "中工网·从品牌“多子化”到加速整合", "url": "https://www.workercn.cn/c/2024-11-21/8397853.shtml", "date": "2024-11-21", "tier": "B" },
+    { "id": "s23", "name": "人民网上海频道·五菱宏光MINIEV：领跑全球的中国汽车新物种", "url": "https://sh.people.com.cn/n2/2023/0202/c134768-40286576.html", "date": "2023-02-02", "tier": "B" },
+    { "id": "s24", "name": "中国青年网·上汽乘用车63位干部任免大动作", "url": "https://auto.youth.cn/xw/202502/t20250220_15837767.htm", "date": "2025-02-20", "tier": "B" },
+    { "id": "s25", "name": "上汽集团官网转载上海汽车报·上汽集团发布2026年半年报 核心归母净利润同比增长72%", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml", "date": "2026-08-31", "tier": "A" },
+    { "id": "s26", "name": "上汽集团官网·上汽集团6月五款智电SUV齐发", "url": "https://www.saicmotor.com/m/xwzx/xwk/2026/64856.shtml", "date": "2026-07-06", "tier": "A" },
+    { "id": "s27", "name": "上汽集团官网·2025年整车销售数据", "url": "https://www.saicmotor.com/chinese/tzzgx/jbqk/xssj/63718.shtml", "date": "2026-01-06", "tier": "A" },
+    { "id": "s28", "name": "上海汽车集团股份有限公司七届六次董事会会议决议公告（2019年7月）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2019nlsgg/2019/7/22/76A6F9B53D77424F833E7249636A5A37.pdf", "date": "2019-07-23", "tier": "A" },
+    { "id": "s29", "name": "英国贸工部提交下议院贸易与工业委员会关于MG Rover的备忘录", "url": "https://publications.parliament.uk/pa/cm200506/cmselect/cmtrdind/1075/ucm202.htm", "date": "2006-03-22", "tier": "A" },
+    { "id": "s30", "name": "上海汽车集团股份有限公司第八届董事会第二十三次会议决议公告（2024年7月）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf", "date": "2024-07-11", "tier": "A" },
+    { "id": "s32", "name": "比亚迪官网新闻·比亚迪正式加入国际汽车工作组（IATF）", "url": "https://www.bydglobal.com/cn/news/2026-03-13/1617162764900", "date": "2026-03-13", "tier": "A" },
+    { "id": "s33", "name": "上汽集团官网·新一代智己LS6预售新闻稿", "url": "https://www.saicmotor.com/m/xwzx/xwk/2025/62441.shtml", "date": "2025-08-15", "tier": "A" },
+    { "id": "s34", "name": "上汽集团官网·发展历程：形成专业体系（无发布日期，日期为核查访问日）", "url": "https://www.saicmotor.com/chinese/history/c1.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s35", "name": "华域汽车官网·上海中国弹簧制造有限公司：历史沿革（无发布日期，日期为核查访问日）", "url": "https://www.hasco-group.com/information-26.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s36", "name": "上海汽车集团股份有限公司2024年年度报告（公告原始PDF，新浪财经存档）", "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-30/11071783.PDF", "date": "2025-04-30", "tier": "A" }
+  ]
+}

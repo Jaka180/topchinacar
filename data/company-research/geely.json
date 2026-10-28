@@ -1,0 +1,508 @@
+{
+  "id": "geely",
+  "name_en": "Zhejiang Geely Holding Group Co., Ltd.",
+  "name_zh": "浙江吉利控股集团有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1986 (group origin); entered the automobile industry in 1997",
+      "value_zh": "1986 年（集团起源）；1997 年进入汽车行业",
+      "period": null,
+      "source_ids": ["s6", "s8"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Hangzhou, Zhejiang",
+      "value_zh": "浙江省杭州市",
+      "period": null,
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private",
+      "value_zh": "民营",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Li Shufu (ultimate controlling person per company disclosure)",
+      "value_zh": "李书福（据公司披露为最终实际控制人）",
+      "period": null,
+      "source_ids": ["s5", "s17"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点和代码",
+      "value_en": "Geely Auto 0175.HK (HKD counter) / 80175.HK (RMB counter); Volvo Cars (Nasdaq Stockholm); Polestar PSNY and Lotus Technology LOT (Nasdaq); Zeekr delisted from NYSE in Dec 2025",
+      "value_zh": "吉利汽车 0175.HK（港币柜台）/ 80175.HK（人民币柜台）；沃尔沃汽车（纳斯达克斯德哥尔摩）；极星 PSNY、路特斯科技 LOT（纳斯达克）；极氪 2025 年 12 月自纽交所退市",
+      "period": null,
+      "source_ids": ["s1", "s15", "s16", "s19", "s20"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "More than 120,000 (group); 73,000 at Geely Auto (0175) at end-2025",
+      "value_zh": "集团超 12 万人；上市公司吉利汽车 2025 年末 7.3 万人",
+      "period": null,
+      "source_ids": ["s5", "s9"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "RMB 631.56 billion (group, FY2025); RMB 345.23 billion at listed Geely Auto (0175.HK)",
+      "value_zh": "6315.55 亿元（集团，2025 财年）；上市子公司吉利汽车（0175.HK）3452.32 亿元",
+      "period": "FY2025",
+      "source_ids": ["s27", "s1"]
+    },
+    {
+      "label_en": "Net profit attributable to shareholders (latest fiscal year)",
+      "label_zh": "最近财年归母净利润",
+      "value_en": "RMB -6.44 billion net loss attributable to parent (group, FY2025); RMB 16.85 billion at listed Geely Auto (0175.HK)",
+      "value_zh": "归母净利润 -64.44 亿元（集团，2025 财年）；上市子公司吉利汽车（0175.HK）168.52 亿元",
+      "period": "FY2025",
+      "source_ids": ["s27", "s1"]
+    },
+    {
+      "label_en": "Total assets (end of latest fiscal year)",
+      "label_zh": "最近财年末总资产",
+      "value_en": "RMB 783.37 billion (group, end-2025)",
+      "value_zh": "7833.69 亿元（集团，2025 年末）",
+      "period": "FY2025",
+      "source_ids": ["s41"]
+    },
+    {
+      "label_en": "Debt-to-asset ratio (end of latest fiscal year)",
+      "label_zh": "最近财年末资产负债率",
+      "value_en": "69.90% (group, end-2025)",
+      "value_zh": "69.90%（集团，2025 年末）",
+      "period": "FY2025",
+      "source_ids": ["s41"]
+    },
+    {
+      "label_en": "Sales (latest year)",
+      "label_zh": "最近一年销量",
+      "value_en": "4,116,321 vehicles (group, 2025)",
+      "value_zh": "411.63 万辆（集团，2025 年）",
+      "period": "2025",
+      "source_ids": ["s7", "s12"]
+    },
+    {
+      "label_en": "Overseas sales (latest year)",
+      "label_zh": "最近一年海外销量",
+      "value_en": "Geely Auto (0175.HK) exported 420,097 units in 2025 and 474,228 units in H1 2026; Volvo Cars and Proton are largely overseas/domestic respectively",
+      "value_zh": "吉利汽车（0175.HK）2025 年出口 420,097 辆，2026 年上半年出口 474,228 辆；沃尔沃、宝腾分别以海外、本土市场为主",
+      "period": "2025 / H1 2026",
+      "source_ids": ["s30", "s31"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1986",
+      "event_en": "Li Shufu starts a refrigerator and refrigerator-parts business in Taizhou, Zhejiang, the origin of the group.",
+      "event_zh": "李书福在浙江台州以冰箱及冰箱零配件制造起家，为集团前身。",
+      "source_ids": ["s6", "s25"]
+    },
+    {
+      "date": "1997",
+      "event_en": "Enters the automobile industry; Geely Auto is established in Taizhou, Zhejiang.",
+      "event_zh": "进入汽车行业，吉利汽车在浙江台州成立。",
+      "source_ids": ["s8", "s25"]
+    },
+    {
+      "date": "1998-08",
+      "event_en": "The first Geely car, the self-developed Haoqing sedan, rolls off the line in Linhai, Taizhou.",
+      "event_zh": "吉利自主研发的首款轿车「豪情」在台州临海基地下线。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2001",
+      "event_en": "Obtains a national car-production licence, becoming the first private Chinese automaker allowed to make cars.",
+      "event_zh": "获得国家轿车生产资质，成为中国首家获准生产轿车的民营企业。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2003-03",
+      "event_en": "Zhejiang Geely Holding Group Co., Ltd. is established.",
+      "event_zh": "浙江吉利控股集团有限公司成立。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2005-05",
+      "event_en": "Geely Automobile Holdings lists on the Hong Kong Stock Exchange (0175.HK).",
+      "event_zh": "吉利汽车在香港联交所上市（0175.HK）。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2010-08",
+      "event_en": "Completes the acquisition of Volvo Cars from Ford (agreement signed 28 March 2010).",
+      "event_zh": "从福特汽车手中完成对沃尔沃汽车的全资收购（协议于 2010 年 3 月 28 日签署）。",
+      "source_ids": ["s8", "s25"]
+    },
+    {
+      "date": "2016-10",
+      "event_en": "Launches the premium brand Lynk & Co in Berlin.",
+      "event_zh": "在德国柏林发布高端品牌领克。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2017-06",
+      "event_en": "Acquires 49.9% of Proton and 51% of Lotus from Malaysia's DRB-HICOM.",
+      "event_zh": "收购马来西亚 DRB-HICOM 旗下宝腾汽车 49.9% 股权及路特斯 51% 股权。",
+      "source_ids": ["s22", "s23"]
+    },
+    {
+      "date": "2017-10",
+      "event_en": "Fully acquires US flying-car company Terrafugia.",
+      "event_zh": "全资收购美国飞行汽车公司 Terrafugia。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2017-12",
+      "event_en": "Takes a stake in AB Volvo (commercial vehicles), becoming its largest shareholder with about 15.6% of voting rights.",
+      "event_zh": "参股沃尔沃集团（AB Volvo，商用车），成为其第一大股东，拥有约 15.6% 投票权。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2018-02",
+      "event_en": "Acquires about 9.69% of Daimler AG (now Mercedes-Benz Group), becoming its then-largest shareholder.",
+      "event_zh": "收购戴姆勒约 9.69% 具有表决权的股份，成为其当时第一大股东。",
+      "source_ids": ["s22", "s23"]
+    },
+    {
+      "date": "2018",
+      "event_en": "Invests in Saxo Bank.",
+      "event_zh": "投资盛宝银行。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2019-03",
+      "event_en": "Announces a 50/50 joint venture with Daimler to run the smart brand globally.",
+      "event_zh": "与戴姆勒宣布成立股比对等合资公司，在全球共同运营 smart 品牌。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2020-01",
+      "event_en": "Formally establishes the smart brand global joint venture with Mercedes-Benz.",
+      "event_zh": "与梅赛德斯-奔驰正式成立 smart 品牌全球合资公司。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2021-04",
+      "event_en": "Launches the luxury new-energy brand Zeekr.",
+      "event_zh": "发布豪华智能纯电品牌极氪。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2021-10",
+      "event_en": "Volvo Cars lists on Nasdaq Stockholm.",
+      "event_zh": "沃尔沃汽车在纳斯达克斯德哥尔摩交易所上市。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2022-05",
+      "event_en": "Acquires a 34.02% stake (on a fully diluted basis) in Renault Korea Motors.",
+      "event_zh": "收购雷诺韩国汽车 34.02% 股份（按悉数摊薄基准）。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2022-06",
+      "event_en": "Polestar lists on Nasdaq via a SPAC merger with Gores Guggenheim.",
+      "event_zh": "极星通过 SPAC 合并在纳斯达克上市。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "Acquires a 7.60% stake in Aston Martin.",
+      "event_zh": "收购阿斯顿·马丁 7.60% 股份。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2023-05",
+      "event_en": "Raises its Aston Martin stake to about 17%.",
+      "event_zh": "将阿斯顿·马丁持股提高至约 17%。",
+      "source_ids": ["s41"]
+    },
+    {
+      "date": "2024-02",
+      "event_en": "Lotus Technology lists on Nasdaq via a SPAC merger with LCAA.",
+      "event_zh": "路特斯科技通过 SPAC 合并在纳斯达克上市。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2024-05",
+      "event_en": "Zeekr lists on the NYSE (ticker ZK).",
+      "event_zh": "极氪在纽约证券交易所上市（代码 ZK）。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2024-09",
+      "event_en": "Li Shufu announces the Taizhou Declaration, launching a streamlining of Geely's multi-brand structure.",
+      "event_zh": "李书福发布《台州宣言》，启动集团多品牌梳理与整合。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "Zeekr acquires 50% of Lynk & Co (30% from Volvo Cars China and 20% from Geely Holding) and subscribes about RMB367 million of new capital, taking its stake to 51%; Zeekr Group is formed.",
+      "event_zh": "极氪收购领克 50% 旧股（沃尔沃汽车中国 30%、吉利控股 20%），再认购约 3.67 亿元新增资本，最终持股 51%，组建极氪科技集团。",
+      "source_ids": ["s16", "s24"]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "Zeekr merges into Geely Automobile Holdings and delists from the NYSE.",
+      "event_zh": "极氪并入吉利汽车（0175.HK）并自纽交所退市。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2026-08",
+      "event_en": "Li Shufu steps down as Geely Auto chairman (becoming honorary life chairman); An Conghui becomes chairman and Gan Jiayue becomes CEO.",
+      "event_zh": "李书福卸任吉利汽车董事会主席（获终身荣誉主席），安聪慧接任主席、淦家阅接任行政总裁。",
+      "source_ids": ["s17"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Geely Auto (Geely)",
+      "name_zh": "吉利汽车",
+      "role_en": "Mainstream mass-market passenger-car brand covering sedans, SUVs and MPVs; the China Star series is its fuel-vehicle line.",
+      "role_zh": "主流大众乘用车品牌，覆盖轿车、SUV、MPV；中国星系列为其燃油车主力。",
+      "price_band": "Roughly RMB 50,000–250,000",
+      "founded": 1997,
+      "owner_note_en": "Core brand of Geely Automobile Holdings (0175.HK). China Star series sold 1.21 million units in 2025 (+3%).",
+      "owner_note_zh": "吉利汽车控股有限公司（0175.HK）核心品牌。中国星系列 2025 年销量 121 万辆（同比 +3%）。",
+      "status": "active",
+      "source_ids": ["s5", "s12"]
+    },
+    {
+      "name_en": "Geely Galaxy",
+      "name_zh": "吉利银河",
+      "role_en": "Mainstream new-energy brand, upgraded from a Geely series to a standalone brand in March 2025.",
+      "role_zh": "主流新能源品牌，2025 年 3 月由吉利系列升级为独立品牌。",
+      "price_band": "Roughly RMB 70,000–250,000",
+      "founded": 2023,
+      "owner_note_en": "Brand of Geely Auto (0175.HK); sold 1.24 million units in 2025 (+150%). It absorbed the Geometry brand in October 2024.",
+      "owner_note_zh": "吉利汽车（0175.HK）旗下品牌；2025 年销量 124 万辆（同比 +150%）。2024 年 10 月合并几何品牌。",
+      "status": "active",
+      "source_ids": ["s12", "s16"]
+    },
+    {
+      "name_en": "Lynk & Co",
+      "name_zh": "领克",
+      "role_en": "Global premium brand, increasingly electrified.",
+      "role_zh": "全球高端品牌，加速电动化。",
+      "price_band": "Roughly RMB 150,000–350,000",
+      "founded": 2016,
+      "owner_note_en": "Launched in Berlin in October 2016; from February 2025 held 51% by Zeekr (Zeekr Group), and consolidated into Geely Auto (0175.HK) after the December 2025 merger. Sold 350,000 units in 2025 (+23%).",
+      "owner_note_zh": "2016 年 10 月在柏林发布；2025 年 2 月起由极氪（极氪科技集团）持股 51%，2025 年 12 月极氪并入后归于吉利汽车（0175.HK）。2025 年销量 35 万辆（同比 +23%）。",
+      "status": "active",
+      "source_ids": ["s16", "s24", "s26"]
+    },
+    {
+      "name_en": "Zeekr",
+      "name_zh": "极氪",
+      "role_en": "Luxury new-energy brand positioned in the premium-to-luxury segment.",
+      "role_zh": "豪华智能新能源品牌，定位高端。",
+      "price_band": "From about RMB 200,000 upward",
+      "founded": 2021,
+      "owner_note_en": "Launched April 2021, listed on NYSE in May 2024, and merged into Geely Auto (0175.HK) as a wholly-owned subsidiary in December 2025. Sold 224,000 units in 2025.",
+      "owner_note_zh": "2021 年 4 月发布，2024 年 5 月纽交所上市，2025 年 12 月并入吉利汽车（0175.HK）成为全资附属公司。2025 年销量 22.4 万辆。",
+      "status": "active",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "name_en": "Volvo Cars",
+      "name_zh": "沃尔沃汽车",
+      "role_en": "Swedish premium car brand, electrifying across BEV and PHEV.",
+      "role_zh": "瑞典豪华汽车品牌，全面电动化转型。",
+      "price_band": "Premium segment",
+      "founded": 1927,
+      "owner_note_en": "Acquired by Geely Holding in 2010 and listed on Nasdaq Stockholm in October 2021. Geely Holding's total holding is 78.87% (Geely Sweden Holdings AB about 78.65%, plus Geely International Hong Kong about 0.22%). Sold 710,042 units in 2025.",
+      "owner_note_zh": "2010 年被吉利控股收购，2021 年 10 月在纳斯达克斯德哥尔摩上市。吉利控股合计持股 78.87%（Geely Sweden Holdings AB 约 78.65%，加 Geely International Hong Kong 约 0.22%）。2025 年销量 710,042 辆。",
+      "status": "active",
+      "source_ids": ["s10", "s32"]
+    },
+    {
+      "name_en": "Polestar",
+      "name_zh": "极星",
+      "role_en": "Performance electric-vehicle brand rooted in Sweden.",
+      "role_zh": "源自瑞典的高性能纯电品牌。",
+      "price_band": "Premium EV segment",
+      "founded": 1996,
+      "owner_note_en": "Swedish brand founded 1996, acquired by Volvo Cars in 2015, independent since 2017; listed on Nasdaq (PSNY) in June 2022. Sold over 60,000 units in 2025 across 28 markets.",
+      "owner_note_zh": "1996 年创立的瑞典品牌，2015 年被沃尔沃收购，2017 年独立；2022 年 6 月在纳斯达克上市（PSNY）。2025 年销量超 6 万辆，覆盖 28 个市场。",
+      "status": "active",
+      "source_ids": ["s12", "s20"]
+    },
+    {
+      "name_en": "Lotus",
+      "name_zh": "路特斯（莲花跑车）",
+      "role_en": "Super-luxury sports and electric-vehicle brand.",
+      "role_zh": "超豪华跑车与纯电品牌。",
+      "price_band": "Above roughly RMB 600,000",
+      "founded": 1948,
+      "owner_note_en": "Founded 1948; Geely Holding acquired a 51% controlling stake in Lotus Group via the 2017 Proton deal. Lotus Technology (Lotus Tech) listed on Nasdaq (LOT) in February 2024.",
+      "owner_note_zh": "1948 年创立；吉利控股 2017 年通过收购宝腾取得路特斯集团 51% 控制权。路特斯科技 2024 年 2 月在纳斯达克上市（LOT）。",
+      "status": "active",
+      "source_ids": ["s19", "s22"]
+    },
+    {
+      "name_en": "smart",
+      "name_zh": "smart",
+      "role_en": "Urban premium electric-vehicle brand run as a Geely–Mercedes-Benz joint venture.",
+      "role_zh": "吉利与梅赛德斯-奔驰合资运营的城市高端纯电品牌。",
+      "price_band": "Roughly RMB 150,000–300,000",
+      "founded": 1994,
+      "owner_note_en": "Brand born in 1994; a 50/50 joint venture with Mercedes-Benz (smart Automobile Co., Ltd.) was announced in March 2019 and set up in early 2020.",
+      "owner_note_zh": "品牌诞生于 1994 年；2019 年 3 月与梅赛德斯-奔驰宣布成立 50:50 合资公司（智马达汽车），2020 年初组建。",
+      "status": "active",
+      "source_ids": ["s22", "s23"]
+    },
+    {
+      "name_en": "Proton",
+      "name_zh": "宝腾",
+      "role_en": "Malaysian national car brand jointly developed with Geely for Southeast Asia.",
+      "role_zh": "马来西亚国民汽车品牌，与吉利共同开拓东南亚市场。",
+      "price_band": "Malaysia mainstream market",
+      "founded": 1983,
+      "owner_note_en": "Geely Holding acquired 49.9% in 2017 (DRB-HICOM 50.1%); in 2023 this 49.9% stake was transferred to listed Geely Automobile Holdings (0175.HK). Proton sold 162,601 units in 2025 (+6.5%), ranking second in Malaysia.",
+      "owner_note_zh": "2017 年吉利控股收购 49.9% 股权（DRB-HICOM 50.1%）；2023 年该 49.9% 股权转入上市子公司吉利汽车控股（0175.HK）。2025 年销量 162,601 辆（同比 +6.5%），居马来西亚第二。",
+      "status": "active",
+      "source_ids": ["s3", "s12", "s22"]
+    },
+    {
+      "name_en": "Radar",
+      "name_zh": "雷达",
+      "role_en": "New-energy pickup brand.",
+      "role_zh": "新能源皮卡品牌。",
+      "price_band": "Roughly RMB 100,000–200,000",
+      "founded": 2022,
+      "owner_note_en": "Launched by Geely Holding in July 2022; acquired by Geely Auto (0175.HK) in May 2026 for about RMB 218 million.",
+      "owner_note_zh": "2022 年 7 月由吉利控股发布；2026 年 5 月被吉利汽车（0175.HK）以约 2.18 亿元收购。",
+      "status": "active",
+      "source_ids": ["s18"]
+    },
+    {
+      "name_en": "Farizon (Geely New Energy Commercial Vehicle Group)",
+      "name_zh": "远程新能源商用车",
+      "role_en": "New-energy commercial-vehicle brand (vans, trucks and buses).",
+      "role_zh": "新能源商用车品牌（客车、货车、专用车）。",
+      "price_band": "Commercial vehicles",
+      "founded": 2016,
+      "owner_note_en": "Commercial-vehicle brand of Geely Holding, launched in 2016; sold 162,019 units in 2025, ranked first in China's new-energy commercial-vehicle market for four consecutive years.",
+      "owner_note_zh": "吉利控股旗下商用车品牌，2016 年发布；2025 年销量 162,019 辆，连续四年居中国新能源商用车行业第一。",
+      "status": "active",
+      "source_ids": ["s8", "s12"]
+    },
+    {
+      "name_en": "Geometry",
+      "name_zh": "几何",
+      "role_en": "Former mass-market new-energy brand, merged into Geely Galaxy.",
+      "role_zh": "原大众新能源品牌，已并入吉利银河。",
+      "price_band": "Roughly RMB 60,000–200,000 (historic)",
+      "founded": 2019,
+      "owner_note_en": "Merged into the Geely Galaxy series in October 2024 as part of the group's brand streamlining.",
+      "owner_note_zh": "2024 年 10 月并入吉利银河系列，是集团品牌整合的一部分。",
+      "status": "discontinued",
+      "source_ids": ["s16"]
+    },
+    {
+      "name_en": "LEVC (London Electric Vehicle Company)",
+      "name_zh": "英伦电动汽车（LEVC）",
+      "role_en": "Electric taxis and commercial vehicles, successor to the London black cab maker Manganese Bronze.",
+      "role_zh": "电动出租车与商用车品牌，源自伦敦经典黑色出租车制造商锰铜。",
+      "price_band": "Commercial / taxi",
+      "founded": 2013,
+      "owner_note_en": "Geely Holding acquired Manganese Bronze in 2013 and renamed it the London Taxi Company (later LEVC).",
+      "owner_note_zh": "吉利控股 2013 年收购英国锰铜并更名伦敦出租车公司（后为 LEVC）。",
+      "status": "active",
+      "source_ids": ["s8", "s22"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (China Accounting Standards)",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 498627, "gross_margin_pct": 19.84, "net_profit": 5750, "rnd": 22931, "source_ids": ["s28"] },
+      { "fiscal_year": 2024, "revenue": 574930, "gross_margin_pct": 19.79, "net_profit": 6068, "rnd": 26670, "source_ids": ["s27", "s28"] },
+      { "fiscal_year": 2025, "revenue": 631555, "gross_margin_pct": 18.56, "net_profit": -6444, "rnd": 32832, "source_ids": ["s27"] }
+    ],
+    "note_en": "This table presents Zhejiang Geely Holding Group Co., Ltd. (the group, the subject of this research) on a consolidated basis. Unit: RMB million; standard: PRC GAAP (China Accounting Standards); sources: the group's corporate bond annual reports filed with the Shanghai Stock Exchange (s27 for 2025 and restated 2024; s28 for 2023 and 2024). Net profit is profit attributable to owners of the parent (归母净利润). Figures are taken from the consolidated income statement (including comparatives); the bond report's business-segment analysis table differs slightly in individual items from the consolidated income statement, and this table follows the income statement. In 2025 the group reported revenue of RMB631.56 billion, consolidated net profit of RMB3.03 billion and a net loss attributable to the parent of RMB6.44 billion, the difference being minority interests; attributable profit was RMB6.07 billion in 2024 and RMB5.75 billion in 2023. 2023 is on the 2024 bond-report basis, and 2024–2025 are on the 2025 bond-report basis (2024 restated), so the 2023 figures are not fully comparable with 2024–2025. Gross margin equals gross profit divided by revenue. The R&D column uses R&D expenses charged to profit or loss (expensed basis): RMB22.93 billion (2023), RMB26.67 billion (2024) and RMB32.83 billion (2025). Per the group's 2026 corporate bond prospectus (s41), at end-2025 the group had total assets of RMB783.37 billion, net assets of RMB235.76 billion and a debt-to-asset ratio of 69.90%; in Q1 2026 it reported revenue of RMB148.86 billion and net profit of RMB4.48 billion. For comparison, the core listed subsidiary Geely Automobile Holdings Ltd (0175.HK) reports under HKFRS: 2025 revenue RMB345,232 million and attributable profit RMB16,852 million (expensed R&D RMB17,624 million); 2024 restated revenue RMB275,910 million and attributable profit RMB16,812 million; 2023 restated revenue RMB224,823 million and attributable profit RMB5,494 million. This page is financial disclosure only and does not constitute any trading recommendation.",
+    "note_zh": "本表为研究对象浙江吉利控股集团有限公司（集团）合并口径。单位：百万元人民币；准则：中国会计准则；来源为集团在上交所披露的公司债券年度报告（s27 为 2025 年及重列的 2024 年数据，s28 为 2023 年与 2024 年数据）。净利润为「归属于母公司所有者的净利润」（归母净利润）。本表取数以合并利润表（含比较数）为准；债券年报中「经营情况分析」的业务分部表个别项目与合并利润表存在尾差，本文统一以合并利润表为准。2025 年集团营收 6315.55 亿元、合并净利润 30.30 亿元，归母净利润为 -64.44 亿元（差额为少数股东损益）；2024 年归母净利润 60.68 亿元、2023 年 57.50 亿元。2023 年为 2024 年债券年报口径，2024、2025 年为 2025 年债券年报口径（2024 年数据经重列），2023 年与 2024、2025 年不完全可比。毛利率＝毛利÷收入。研发投入列采用「计入损益的研发费用」（费用化口径）：2023 年 229.31 亿元、2024 年 266.70 亿元、2025 年 328.32 亿元。另据集团 2026 年公司债券募集说明书（s41），截至 2025 年末集团总资产 7,833.69 亿元、净资产 2,357.58 亿元、资产负债率 69.90%；2026 年一季度合并口径营业收入 1,488.62 亿元、净利润 44.77 亿元。对照：集团核心上市子公司吉利汽车控股有限公司（0175.HK）按香港财务报告准则（HKFRS）编制，2025 年营收 3452.32 亿元、归母净利润 168.52 亿元（计入损益的研发费用 176.24 亿元）；2024 年（经重列）营收 2759.10 亿元、归母净利润 168.12 亿元；2023 年（经重列）营收 2248.23 亿元、归母净利润 54.94 亿元。以上仅为财务披露数据，本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Zhejiang Geely Holding Group Co., Ltd. is a privately owned, Hangzhou-headquartered automotive group founded by Li Shufu, which started in 1986 and entered the car industry in 1997. Its portfolio spans Geely Auto (0175.HK), Volvo Cars, Zeekr, Lynk &amp; Co, Polestar, Lotus, smart, Proton, Radar and Farizon, together with ride-hailing (Cao Cao Mobility), methanol energy and satellite businesses; it aims to lead a green intelligent mobility ecosystem by 2030 and reach carbon neutrality across the value chain by 2045. <a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><p>In 2025 the group sold 4.12 million vehicles worldwide (+26% year on year), ranking eighth among global automakers, with new-energy vehicles at 2.29 million units (56% of the total). On a consolidated basis the group reported 2025 revenue of RMB631.56 billion and a net loss attributable to the parent of RMB6.44 billion; its core listed subsidiary Geely Automobile Holdings reported 2025 revenue of RMB345.23 billion and attributable profit of RMB16.85 billion. In the first half of 2026, Geely Automobile Holdings reported revenue of RMB173.60 billion (+15%) and exports of 474,228 units (+158%). <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800370_c.pdf\">[s1]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml\">[s12]</a></p><p>Geely stands out for combining a broad multi-brand portfolio with vertical integration in vehicle architectures and electrified powertrains, assembled through a series of overseas acquisitions: Volvo Cars (2010), the London Taxi Company (2013), Proton and Lotus (2017), a stake in Mercedes-Benz (2018) and the smart joint venture (2019). In 2025 it folded Zeekr and Lynk &amp; Co into the listed Geely Automobile Holdings, concentrating its China passenger-car brands under a single listed entity. <a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a><a href=\"https://www.hunantoday.cn/news/xhn/201904/15395053.html\">[s22]</a></p>",
+      "zh": "<p>浙江吉利控股集团有限公司是一家总部位于杭州的民营汽车集团，由李书福创立，1986 年起家、1997 年进入汽车行业，旗下拥有吉利汽车（0175.HK）、沃尔沃汽车、极氪、领克、极星、路特斯、smart、宝腾、雷达、远程等乘用车与商用车品牌，并涉足出行服务（曹操出行）、甲醇生态与卫星业务，并提出 2030 年「引领绿色智能通行生态」愿景、计划 2045 年实现全产业链碳中和。 <a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><p>2025 年集团全球总销量 411.63 万辆，同比增长 26%，首次突破 400 万辆、居全球车企销量第八；其中新能源汽车 229.31 万辆、渗透率 56%。集团合并口径 2025 年营收 6315.55 亿元、归母净利润 -64.44 亿元；其核心上市子公司吉利汽车控股有限公司 2025 年营收 3452.32 亿元、归母净利润 168.52 亿元。2026 年上半年，吉利汽车控股营收 1736.00 亿元（同比 +15%）、出口 474,228 辆（同比 +158%）。 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800370_c.pdf\">[s1]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml\">[s12]</a></p><p>吉利的特点在于，通过一连串海外并购——2010 年收购沃尔沃汽车、2013 年收购伦敦出租车公司、2017 年收购宝腾与路特斯、2018 年入股梅赛德斯-奔驰、2019 年组建 smart 合资公司——形成了覆盖大众到超豪华的多品牌矩阵，并在整车架构与电动化动力系统上实现垂直整合。2025 年集团将极氪、领克并入上市公司吉利汽车（0175.HK），把自主乘用车品牌集中到单一上市主体之下。 <a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a><a href=\"https://www.hunantoday.cn/news/xhn/201904/15395053.html\">[s22]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Geely Holding's core business is passenger vehicles, carried mainly by the Hong Kong-listed Geely Automobile Holdings (0175.HK) together with Volvo Cars, Polestar, Lotus and the smart and Proton joint ventures; it also runs the Farizon new-energy commercial-vehicle unit, Cao Cao Mobility and digital and satellite operations. Farizon sold 162,000 commercial vehicles in 2025, ranking first in China's new-energy commercial-vehicle market for four straight years. On the group's own consolidated accounts, the Geely series (Geely Auto) contributed RMB345.23 billion and the Volvo Cars series RMB259.34 billion of 2025 revenue. <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a><a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><p>In 2025 Geely concentrated its self-owned passenger-car brands under a single listed entity: in February 2025 Zeekr acquired 50% of Lynk &amp; Co (30% from Volvo Cars China and 20% from Geely Holding) and subscribed about RMB367 million of new capital to reach 51%, forming Zeekr Group; Geely Galaxy was upgraded from a series to a standalone brand in March 2025; and in December 2025 Geely Automobile Holdings merged with Zeekr, which then delisted from the NYSE. This left Geely Auto with four self-owned passenger brands: Geely Galaxy, Geely (fuel series), Zeekr and Lynk &amp; Co. After the integration, the two brands expect to save 10–20% of R&amp;D spending through joint development. <a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a><a href=\"https://news.qq.com/rain/a/LNK2025040100770300\">[s24]</a></p><h3>Technology and platforms</h3><p>Geely's technology base is built around the SEA (Sustainable Experience Architecture) scalable electric architecture, plus the CMA and BMA modular architectures and the Volvo-led SPA platform, spanning battery-electric, super-hybrid (PHEV/EREV) and methanol-hydrogen powertrains. Under its 2021 \"Smart Geely 2025\" strategy the group has built a system covering intelligent driving, smart cockpits, electronic architecture, vehicle architecture, batteries, electric drives and super-hybrid powertrains, and deployed the G-ASD assisted-driving system and a computing centre. Geely Automobile Holdings' expensed R&amp;D was RMB17.62 billion in 2025, and the group has invested over RMB250 billion in R&amp;D over the past decade with more than 30,000 R&amp;D staff. <a href=\"https://www.geelyauto.com.hk/company-brief/\">[s5]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202403/t20240320_6395875.html\">[s14]</a><a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><h3>Plants and capacity</h3><p>Geely Automobile Holdings operates 13 vehicle bases in China (Chunxiao, Xiangtan, Baoji, Linhai, Jinzhong, Qiantang, Hangzhou Bay, Guiyang, Changxing, Xi'an, Yuyao, Chengdu and Zhangjiakou) with double-shift annual capacity of about 2.61 million units at end-2025. Volvo Cars builds cars in Gothenburg (Sweden), Ghent (Belgium), South Carolina (US) and Chengdu, Daqing and Taizhou (China); Proton produces at Tanjung Malim in Malaysia; Lotus has a global smart factory in Wuhan. The group has more than 10 R&amp;D and design centres and over 7,000 sales outlets worldwide, with vehicle and powertrain plants in China, the US, the UK, Sweden, Belgium and Malaysia. <a href=\"https://www.geelyauto.com.hk/company-brief/\">[s5]</a><a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><h3>Market position and sales</h3><p>In 2025 Geely Holding sold 4.12 million vehicles worldwide, ranking eighth among global automakers, with a 56% new-energy share. Geely Automobile Holdings sold 3.02 million vehicles (+39%), including 1.69 million new-energy vehicles (+90%) and exports of 420,097 units. By brand in 2025: Geely Galaxy 1.24 million (+150%), Lynk &amp; Co 350,000 (+23%), Zeekr 224,000, and Geely China Star 1.21 million (+3%); Volvo Cars 710,042 units; Proton 162,601 (+6.5%); Polestar over 60,000; Farizon 162,019. For 2026, the group plans to build three 150,000-unit-scale overseas markets in Europe, Eastern Europe and ASEAN, plus two 100,000-unit-scale markets in Latin America &amp; Africa and Central/West Asia. In H1 2026 Geely Automobile Holdings sold 1.42 million units (+1%), with new-energy vehicles at 56.2% of the total, and exported 474,228 units (+158%). <a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/03/c_20260318_Press-Release_Geely_2025-Annual-Results.pdf\">[s30]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml\">[s12]</a></p>",
+      "zh": "<h3>业务结构</h3><p>吉利控股以乘用车为核心，主要由香港上市的吉利汽车控股有限公司（0175.HK）连同沃尔沃汽车、极星、路特斯以及 smart、宝腾合资公司承担，另经营远程新能源商用车、曹操出行及数字科技、卫星等业务，其中远程新能源商用车 2025 年销量 16.2 万辆、连续四年居中国新能源商用车行业第一。按集团合并口径，2025 年吉利系列（吉利汽车）贡献收入 3452.32 亿元、沃尔沃汽车系列贡献 2593.37 亿元。 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a><a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><p>2025 年吉利将自主乘用车品牌集中到单一上市主体：2 月极氪收购领克 50% 旧股（沃尔沃汽车中国 30%、吉利控股 20%），再认购约 3.67 亿元新增资本、最终持股 51%，组建极氪科技集团；3 月吉利银河由系列升级为独立品牌；12 月吉利汽车控股与极氪合并，极氪自纽交所退市。至此吉利汽车形成吉利银河、吉利（燃油系列）、极氪、领克四大自主乘用车品牌。极氪与领克整合后，双品牌协同研发预计可节省 10%–20% 的研发投入。 <a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a><a href=\"https://news.qq.com/rain/a/LNK2025040100770300\">[s24]</a></p><h3>技术与平台</h3><p>吉利技术体系以 SEA 浩瀚智能进化体验架构为核心，辅以 CMA、BMA 模块化架构和沃尔沃主导的 SPA 平台，动力路线覆盖纯电、超级混动（插混/增程）与醇氢电动。2021 年发布「智能吉利 2025」战略后，逐步构建智能驾驶、智能座舱、电子架构、整车架构、电池、电驱、超级混动的技术体系，部署 G-ASD 辅助驾驶系统与智算中心；吉利汽车控股 2025 年计入损益的研发费用 176.24 亿元，集团近 10 年累计研发投入超 2500 亿元、研发设计人员超 3 万人。 <a href=\"https://www.geelyauto.com.hk/company-brief/\">[s5]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202403/t20240320_6395875.html\">[s14]</a><a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><h3>工厂与产能</h3><p>吉利汽车控股在中国拥有 13 座整车基地（春晓、湘潭、宝鸡、临海、晋中、钱塘、杭州湾、贵阳、长兴、西安、余姚、成都、张家口），2025 年末双班年产能约 261 万辆。沃尔沃汽车在瑞典哥德堡、比利时根特、美国南卡罗来纳及中国成都、大庆、台州设厂；宝腾在马来西亚丹绒马林生产，路特斯全球智能工厂位于武汉；集团在全球建有超 10 个研发与设计中心，并拥有各类销售网点超 7000 家，在中国、美国、英国、瑞典、比利时、马来西亚建有整车与动力总成制造工厂。 <a href=\"https://www.geelyauto.com.hk/company-brief/\">[s5]</a><a href=\"https://zgh.com/?p=1181&lang=zh-hans\">[s6]</a></p><h3>市场地位与销量</h3><p>2025 年吉利控股全球总销量 411.63 万辆，为全球第八大车企，新能源渗透率 56%。吉利汽车控股 2025 年销量 302.46 万辆（同比 +39%），其中新能源汽车 168.78 万辆（同比 +90%）、出口 420,097 辆。分品牌看，吉利银河 124 万辆（同比 +150%）、领克 35 万辆（同比 +23%）、极氪 22.4 万辆、吉利中国星 121 万辆（同比 +3%）；沃尔沃汽车 710,042 辆、宝腾 162,601 辆（同比 +6.5%）、极星超 6 万辆、远程新能源商用车 162,019 辆。在海外，吉利汽车 2026 年将重点攻坚欧洲、东欧、东盟三个「15 万级」市场，以及拉美非、中东亚两个「10 万级」市场。2026 年上半年，吉利汽车控股销量 142.3 万辆（同比 +1%），新能源汽车占比 56.2%，出口 474,228 辆（同比 +158%）。 <a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/03/c_20260318_Press-Release_Geely_2025-Annual-Results.pdf\">[s30]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml\">[s12]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Li Shufu was born in 1963 in Taizhou, Zhejiang, started a refrigerator and refrigerator-parts business in 1986, moved into motorcycles around 1993, and entered the car industry in 1997; he led the 2010 acquisition of Volvo Cars. He is chairman of Zhejiang Geely Holding Group and long served as chairman of Geely Automobile Holdings (0175.HK). In August 2026 he stepped down from the Geely Auto chairmanship, becoming honorary life chairman, while remaining the controlling shareholder. Beyond Geely's own brands, he has also taken stakes in Mercedes-Benz, Aston Martin, AB Volvo and Renault Korea. <a href=\"https://www.ce.cn/cysc/ztpd/2011/lhft/lsf/datu/201103/03/t20110303_20890619.shtml\">[s25]</a><a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a><a href=\"https://thepaper.cn/newsDetail_forward_20129914\">[s23]</a></p><h3>Current management</h3><ul><li><strong>Li Shufu</strong> — chairman of Zhejiang Geely Holding Group; honorary life chairman of Geely Auto (0175.HK) since August 2026. <a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a></li><li><strong>An Conghui</strong> — CEO of Geely Holding Group; chairman of Geely Automobile Holdings (0175.HK) since 18 August 2026; CEO of Zeekr Group. He previously served as CEO of Geely Auto Group and CEO of Zeekr Intelligent Technology. <a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a><a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a></li><li><strong>Gan Jiayue</strong> — CEO (chief executive) of Geely Automobile Holdings (0175.HK) since 18 August 2026; previously CEO of Geely Auto Group. <a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a></li><li><strong>Gui Shengyue</strong> — vice chairman of the board of Geely Automobile Holdings (0175.HK) since August 2026, previously its chief executive. <a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a></li><li><strong>Li Donghui</strong> — executive director of Geely Automobile Holdings (0175.HK); vice chairman of Geely Holding Group (formerly its CEO). He stepped down as Geely Auto vice chairman in August 2026 and remains an executive director. <a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a></li></ul><h3>Shareholding and governance</h3><p>As of 30 June 2026, according to the Geely Automobile Holdings 2026 interim report, Li Shufu directly holds 0.21% and holds 41.42% through controlled corporations; Zhejiang Geely Holding Group directly holds 2.41% and holds 34.68% through controlled corporations. Geely Holding also holds about 78.87% of Volvo Cars (Geely Sweden Holdings AB about 78.65% plus Geely International Hong Kong about 0.22%). <a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a><a href=\"https://mb.cision.com/Main/20685/4375596/4197338.pdf\">[s32]</a></p>",
+      "zh": "<h3>创始人</h3><p>李书福 1963 年出生于浙江台州，1986 年以冰箱及零配件制造起家，1993 年前后进入摩托车行业，1997 年进入汽车行业，并主导 2010 年收购沃尔沃汽车。他现任浙江吉利控股集团董事长，2005 年后长期担任吉利汽车控股（0175.HK）董事会主席，2026 年 8 月卸任该职务、获「终身荣誉主席」称号，仍为控股股东。除吉利自有品牌外，他还入股梅赛德斯-奔驰、阿斯顿·马丁、沃尔沃集团与雷诺韩国等。 <a href=\"https://www.ce.cn/cysc/ztpd/2011/lhft/lsf/datu/201103/03/t20110303_20890619.shtml\">[s25]</a><a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a><a href=\"https://thepaper.cn/newsDetail_forward_20129914\">[s23]</a></p><h3>现任核心管理层</h3><ul><li><strong>李书福</strong>——浙江吉利控股集团董事长；2026 年 8 月起任吉利汽车（0175.HK）终身荣誉主席。 <a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a></li><li><strong>安聪慧</strong>——吉利控股集团 CEO；2026 年 8 月 18 日起任吉利汽车（0175.HK）董事会主席；极氪科技集团 CEO。此前曾任吉利汽车集团 CEO、极氪智能科技 CEO。 <a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a><a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a></li><li><strong>淦家阅</strong>——2026 年 8 月 18 日起任吉利汽车（0175.HK）行政总裁；此前任吉利汽车集团 CEO。 <a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a></li><li><strong>桂生悦</strong>——2026 年 8 月起任吉利汽车（0175.HK）董事会副主席，曾任行政总裁。 <a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a></li><li><strong>李东辉</strong>——吉利汽车（0175.HK）执行董事；吉利控股集团副董事长（曾任控股集团 CEO）。2026 年 8 月辞任吉利汽车董事会副主席、继续担任执行董事。 <a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a></li></ul><h3>股权与治理</h3><p>截至 2026 年 6 月 30 日，据吉利汽车控股（0175.HK）2026 年中期报告披露，李书福个人直接持有权益 0.21%、通过受控公司持有权益 41.42%；浙江吉利控股集团直接持有权益 2.41%、通过受控公司持有权益 34.68%。吉利控股另持有沃尔沃汽车约 78.87% 股权（Geely Sweden Holdings AB 约 78.65%，加 Geely International Hong Kong 约 0.22%）。 <a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://news.qq.com/rain/a/20260818A035RG00\">[s17]</a><a href=\"https://mb.cision.com/Main/20685/4375596/4197338.pdf\">[s32]</a></p>"
+    },
+    "competition": {
+      "en": "<p>In China, Geely Auto, Galaxy, Lynk &amp; Co and Zeekr compete directly with BYD, Chery, Changan, Great Wall Motor and newer entrants such as Xiaomi; Volvo Cars, Zeekr and Lynk &amp; Co contest the premium segment against Mercedes-Benz, BMW, Audi and Tesla. Geely's advantages are a multi-brand portfolio spanning mass-market to super-luxury, a global footprint (Volvo, Proton, Lotus, Polestar), and in-house architectures and powertrains; the group ranked eighth globally by 2025 volume. In H1 2026 China's domestic passenger-car sales fell 24.3% year on year and domestic NEV passenger-car sales fell 16.8%, pushing the domestic market into stock-based competition. On exports, Chery sold 1.344 million units overseas and BYD 1.05 million in 2025, keeping Geely Auto in the second tier of Chinese exporters; in H1 2026 Geely Auto's NEV sales of 799,500 units kept it second among China's NEV makers. <a href=\"https://news.qq.com/rain/a/20260819A0CGR600\">[s42]</a><a href=\"https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml\">[s12]</a></p><p>Our judgment: Geely's main weakness is scale and profitability relative to China's most vertically integrated rival. In 2025 BYD sold 4,602,436 vehicles, above Geely Holding's 4,116,321, and Geely Automobile Holdings' new-energy scale (1.69 million units) trails the domestic leader. At the listed-company level, 2025 gross margin was 16.61% and attributable profit rose only 0.2%, although core attributable profit (excluding forex, impairments and disposal gains) rose 36% to RMB14.41 billion, which the company cites as evidence of improving quality. The multi-brand integration and the losses at associates such as Polestar and Lotus Technology add management and financing burdens. This is our assessment, based on the reported figures above. <a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800370_c.pdf\">[s1]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/03/c_20260318_Press-Release_Geely_2025-Annual-Results.pdf\">[s30]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100423.pdf\">[s34]</a></p>",
+      "zh": "<p>在中国市场，吉利汽车、银河、领克与极氪直接面对比亚迪、奇瑞、长安、长城以及小米等新进入者的竞争；沃尔沃、极氪、领克则在豪华与高端新能源市场与奔驰、宝马、奥迪及特斯拉角力。吉利的优势在于覆盖大众到超豪华的多品牌矩阵、全球化布局（沃尔沃、宝腾、路特斯、极星）以及自研整车架构与动力系统，2025 年集团销量位居全球第八。2026 年上半年中国乘用车国内销量同比下降 24.3%、新能源乘用车国内销量同比下降 16.8%，国内市场转入存量竞争。在出口方面，2025 年奇瑞海外销量 134.4 万辆、比亚迪 105 万辆，吉利汽车海外规模仍处第二梯队；2026 年上半年吉利汽车新能源汽车销量 79.95 万辆，连续位居中国新能源车企销量第二。 <a href=\"https://news.qq.com/rain/a/20260819A0CGR600\">[s42]</a><a href=\"https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml\">[s12]</a></p><p>我们的判断：吉利的短板在于规模与盈利相对国内垂直整合程度最高的对手仍有差距。2025 年比亚迪销量 460.24 万辆，高于吉利控股的 411.63 万辆；吉利汽车控股的新能源销量（168.78 万辆）也落后于国内龙头。在上市公司层面，2025 年毛利率 16.61%、归母净利润仅 +0.2%，但扣除汇兑、减值及出售收益后的核心归母净利润同比增长 36% 至 144.1 亿元，公司以此作为盈利质量改善的依据。多品牌整合以及极星、路特斯科技等联营企业的亏损也带来管理与融资负担。以上为我们的判断，依据为前述披露的财务与销量数据。 <a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800370_c.pdf\">[s1]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/03/c_20260318_Press-Release_Geely_2025-Annual-Results.pdf\">[s30]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100423.pdf\">[s34]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company targets.</strong> Geely Automobile Holdings set a 2026 sales target of 3.45 million vehicles, including 2.22 million new-energy vehicles; by brand, the 2026 goals are 300,000 for Zeekr, 400,000 for Lynk &amp; Co, 1.55 million for Geely Galaxy and 1.2 million for the China Star series, with an export target of 640,000 units. Geely Holding CEO An Conghui said the group aims to exceed 6.5 million global sales (including commercial vehicles) and RMB 1 trillion in revenue by 2030, ranking among the top five global automakers. In the first half of 2026, Geely Automobile Holdings reported revenue of RMB173.60 billion (+15%), core attributable profit of RMB9.68 billion (+46%), and exports of 474,228 units (+158%), and raised its full-year export target to 920,000 units. In H1 2026 it sold 949,000 vehicles in China, lifting its domestic passenger-car market share to 11.4%; NEV sales were 799,500 units (+10%, 56.2% of the total) and NEV exports 277,200 units (+585%). Volvo Cars plans year-on-year volume growth in 2026 and stronger cash flow than in 2025. <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32795166\">[s13]</a><a href=\"https://auto.cctv.com/2026/01/23/ARTIOLUbn1WV38R3CiGKovLM260123.shtml\">[s35]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-08/21/nw.D110000zgzqb_20260821_1-A07.htm\">[s36]</a></p><p><strong>Our analysis.</strong> These targets rest on three premises: that the Zeekr–Lynk &amp; Co integration delivers the planned R&amp;D and channel synergies; that exports and overseas local production keep ramping; and that new-energy profitability continues to improve. The main alternatives are a prolonged domestic price war, tariff measures in the EU and elsewhere, and slower-than-expected consolidation of the newly merged brands. This is our judgment, not a forecast of share-price performance. <a href=\"https://www.thepaper.cn/newsDetail_forward_32795166\">[s13]</a><a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a></p>",
+      "zh": "<p><strong>公司公开目标。</strong>吉利汽车控股将 2026 年销量目标定为 345 万辆，其中新能源汽车 222 万辆；分品牌看，2026 年目标为极氪 30 万辆、领克 40 万辆、吉利银河 155 万辆、吉利中国星 120 万辆，出口目标 64 万辆。吉利控股集团 CEO 安聪慧表示，预计 2030 年集团全球销量（含商用车）有望突破 650 万辆、营收超 1 万亿元，跻身全球车企销量前五。2026 年上半年，吉利汽车控股营收 1736.00 亿元（同比 +15%）、核心归母净利润 96.8 亿元（同比 +46%）、出口 474,228 辆（同比 +158%），并上调全年出口目标至 92 万辆。2026 年上半年国内销量 94.9 万辆、国内乘用车市占率 11.4%，新能源汽车 79.95 万辆（同比 +10%、占总销量 56.2%），新能源出口 27.72 万辆（同比 +585%）。沃尔沃汽车计划 2026 年全年销量同比增长、现金流优于 2025 年水平。 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32795166\">[s13]</a><a href=\"https://auto.cctv.com/2026/01/23/ARTIOLUbn1WV38R3CiGKovLM260123.shtml\">[s35]</a><a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://www.cnstock.com/commonDetail/761830\">[s33]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-08/21/nw.D110000zgzqb_20260821_1-A07.htm\">[s36]</a></p><p><strong>我们的分析。</strong>上述目标依赖三个前提：一是极氪、领克整合后研发与渠道协同如期兑现，二是出口与海外本地化生产持续放量，三是新能源盈利持续改善。主要变数在于国内价格战延续、欧盟等地的关税政策，以及新并入品牌的整合慢于预期。以上为我们的判断，不构成任何股价预测。 <a href=\"https://www.thepaper.cn/newsDetail_forward_32795166\">[s13]</a><a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Profitability and margin pressure.</strong> At group level, 2025 revenue rose 9.87% but attributable profit was a loss of RMB6.44 billion (consolidated net profit RMB3.03 billion, the difference being minority interests), with gross margin down 1.23 percentage points to 18.56%; at the listed level, gross margin was 16.61%. <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a></li><li><strong>Integration execution.</strong> Folding Zeekr, Lynk &amp; Co and Galaxy into Geely Auto (0175.HK) requires organisational and channel integration that may take time. <a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a></li><li><strong>Overseas and tariff exposure.</strong> Export growth and localised production in Europe and Southeast Asia are exposed to import tariffs and policy changes; under the EU's October 2024 definitive countervailing duties on China-made battery-electric vehicles, Geely faces an additional 18.8% duty (a combined rate of 28.8%). <a href=\"https://www.thepaper.cn/newsDetail_forward_32795166\">[s13]</a><a href=\"https://news.qq.com/rain/a/20260819A0CGR600\">[s42]</a></li><li><strong>Losses and financing needs of associates.</strong> Polestar, which the group's financial-statement notes classify as an associate under the same ultimate controlling person, reported a 2025 net loss of USD 2,357 million; Lotus Technology, an associate, reported a 2025 net loss of USD 464 million. Both require ongoing funding. <a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s38]</a><a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1\">[s39]</a><a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_TNVV.pdf\">[s40]</a></li><li><strong>Foreign-exchange and impairment.</strong> In H1 2026, attributable profit under HKFRS fell 1.8% year on year, partly on foreign-exchange losses. <a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s37]</a></li><li><strong>Technology-route competition.</strong> Rivalry in assisted driving, batteries and solid-state technology could erode Geely's technology position. <a href=\"https://www.cs.com.cn/ssgs/gsxw/202403/t20240320_6395875.html\">[s14]</a></li><li><strong>Leverage and debt.</strong> At end-2025 the group's consolidated debt-to-asset ratio was 69.90% and interest-bearing debt was RMB154.36 billion, with the parent company's ratio at 86.81%. <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-06-15/245398_20260615_HCUO.pdf\">[s41]</a></li></ul>",
+      "zh": "<ul><li><strong>盈利与利润率压力。</strong>集团层面，2025 年营收同比增长 9.87%，归母净利润为 -64.44 亿元（合并净利润 30.30 亿元，差额为少数股东损益），毛利率同比下降 1.23 个百分点至 18.56%；上市公司层面毛利率 16.61%。 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf\">[s27]</a></li><li><strong>整合执行风险。</strong>极氪、领克、银河并入吉利汽车（0175.HK）后的组织与渠道整合仍需时间。 <a href=\"https://www.cnenergynews.cn/article/4PewwD8kbXq\">[s16]</a></li><li><strong>海外与关税风险。</strong>出口增长与欧洲、东南亚本地化布局面临进口关税与政策变化；欧盟 2024 年 10 月终裁对中国产纯电动车加征反补贴税，吉利被加征 18.8%（综合税率 28.8%）。 <a href=\"https://www.thepaper.cn/newsDetail_forward_32795166\">[s13]</a><a href=\"https://news.qq.com/rain/a/20260819A0CGR600\">[s42]</a></li><li><strong>联营企业的亏损与融资需求。</strong>极星在集团财务附注中列为「联营企业且同一最终控制人」、路特斯科技列为联营企业；极星 2025 年净亏损 23.57 亿美元、路特斯科技 2025 年净亏损约 4.64 亿美元，均存在持续融资需求。 <a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s38]</a><a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1\">[s39]</a><a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_TNVV.pdf\">[s40]</a></li><li><strong>汇率与减值风险。</strong>2026 年上半年按香港财务报告准则核算的归母净利润同比下降 1.8%，部分受汇兑损失影响。 <a href=\"https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf\">[s31]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s37]</a></li><li><strong>技术路线竞争。</strong>辅助驾驶、电池、固态电池等领域的竞争可能削弱其技术优势。 <a href=\"https://www.cs.com.cn/ssgs/gsxw/202403/t20240320_6395875.html\">[s14]</a></li><li><strong>杠杆与债务风险。</strong>截至 2025 年末集团合并资产负债率 69.90%、有息负债 1,543.58 亿元，母公司口径资产负债率 86.81%，债务规模较高。 <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-06-15/245398_20260615_HCUO.pdf\">[s41]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "Geely Automobile Holdings 2025 Annual Results Announcement (HKEX)", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800370_c.pdf", "date": "2026-03-18", "tier": "A" },
+    { "id": "s2", "name": "Geely Automobile Holdings 2025 Annual Results Presentation", "url": "https://www.geelyauto.com.hk/wp-content/uploads/2026/03/c_2025-annual-results-presentation_20260318.pdf", "date": "2026-03-18", "tier": "A" },
+    { "id": "s3", "name": "Geely Automobile Holdings 2023 Annual Results Announcement", "url": "https://www.geelyauto.com.hk/wp-content/uploads/2024/03/2024032000338_c.pdf", "date": "2024-03-20", "tier": "A" },
+    { "id": "s4", "name": "Geely Automobile Holdings 2023 Annual Results Presentation", "url": "https://www.geelyauto.com.hk/wp-content/uploads/2024/03/c_20240320-Annual-Results-PPT.pdf", "date": "2024-03-20", "tier": "A" },
+    { "id": "s5", "name": "Geely Automobile Holdings Company Brief (0175.HK)", "url": "https://www.geelyauto.com.hk/company-brief/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "Geely Holding Group company profile", "url": "https://zgh.com/?p=1181&lang=zh-hans", "date": "2026-10-29", "tier": "A" },
+    { "id": "s7", "name": "Geely Holding Group official site (2025 annual sales)", "url": "https://zgh.com/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s8", "name": "Geely Holding Group development history", "url": "https://zgh.com/?p=2246", "date": "2026-10-29", "tier": "A" },
+    { "id": "s9", "name": "Geely Holding Group recruitment page (group overview)", "url": "https://job.geely.com/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s10", "name": "Geely Holding news release: Volvo Cars IPO on Nasdaq Stockholm", "url": "https://zgh.com/media-center/news/2021-10-29?lang=en", "date": "2021-10-29", "tier": "A" },
+    { "id": "s11", "name": "Geely Auto 2023 Financial Results press release", "url": "https://global.geely.com/en/news/2024/geely-auto-financial-results-2023", "date": "2024-03-20", "tier": "A" },
+    { "id": "s12", "name": "CCTV: Geely Holding 2025 sales exceed 4.1 million vehicles", "url": "https://auto.cctv.com/2026/01/09/ARTIxph3PN0caPYQ6mHecvAv260109.shtml", "date": "2026-01-09", "tier": "B" },
+    { "id": "s13", "name": "The Paper: Geely 2025 results and 2026 targets", "url": "https://www.thepaper.cn/newsDetail_forward_32795166", "date": "2026-03-18", "tier": "B" },
+    { "id": "s14", "name": "China Securities Journal (cs.com.cn): Geely Auto 2023 annual report", "url": "https://www.cs.com.cn/ssgs/gsxw/202403/t20240320_6395875.html", "date": "2024-03-20", "tier": "B" },
+    { "id": "s15", "name": "Xinhua Finance: Zeekr lists on NYSE", "url": "https://www.toutiao.com/article/7367661808297050659", "date": "2024-05-11", "tier": "B" },
+    { "id": "s16", "name": "China Energy News: Zeekr merges back into Geely Auto", "url": "https://www.cnenergynews.cn/article/4PewwD8kbXq", "date": "2025-12-23", "tier": "B" },
+    { "id": "s17", "name": "Tencent News: Li Shufu steps down as Geely Auto chairman", "url": "https://news.qq.com/rain/a/20260818A035RG00", "date": "2026-08-18", "tier": "B" },
+    { "id": "s18", "name": "Guancha: Geely Auto acquires Radar for over RMB200 million", "url": "https://www.guancha.cn/qiche/2026_05_19_817575.shtml", "date": "2026-05-19", "tier": "B" },
+    { "id": "s19", "name": "China Securities Journal (cnstock.com): Lotus Technology lists on Nasdaq", "url": "https://m.cnstock.com/commonDetail/42999", "date": "2024-02-23", "tier": "B" },
+    { "id": "s20", "name": "China Economic Net: Polestar lists on Nasdaq", "url": "https://finance.ce.cn/stock/gsgdbd/202206/30/t20220630_37820274.shtml", "date": "2022-06-30", "tier": "B" },
+    { "id": "s22", "name": "Hunan Today: Geely's acquisition history", "url": "https://www.hunantoday.cn/news/xhn/201904/15395053.html", "date": "2019-04-25", "tier": "B" },
+    { "id": "s23", "name": "The Paper: Geely's global acquisitions (Proton, Lotus, Daimler, smart)", "url": "https://thepaper.cn/newsDetail_forward_20129914", "date": "2022-09-30", "tier": "B" },
+    { "id": "s24", "name": "Tencent News: Zeekr Group 500,000 sales and RMB113.9 billion revenue", "url": "https://news.qq.com/rain/a/LNK2025040100770300", "date": "2025-04-01", "tier": "B" },
+    { "id": "s25", "name": "China Economic Net: Li Shufu profile", "url": "https://www.ce.cn/cysc/ztpd/2011/lhft/lsf/datu/201103/03/t20110303_20890619.shtml", "date": "2011-03-03", "tier": "B" },
+    { "id": "s26", "name": "Lynk & Co official news: brand history", "url": "https://www.lynkco.com.cn/brand/news/newslist/2022/news02", "date": "2023-01-11", "tier": "A" },
+    { "id": "s27", "name": "Zhejiang Geely Holding Group 2025 Corporate Bond Annual Report (SSE)", "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_0N17.pdf", "date": "2026-04-30", "tier": "A" },
+    { "id": "s28", "name": "Zhejiang Geely Holding Group 2024 Corporate Bond Annual Report (SSE)", "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2025-04-30/115886_20250430_AS3D.pdf", "date": "2025-04-30", "tier": "A" },
+    { "id": "s29", "name": "Geely Automobile Holdings 2025 Annual Report (HKEX)", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0427/2026042700757_c.pdf", "date": "2026-04-27", "tier": "A" },
+    { "id": "s30", "name": "Geely Automobile Holdings 2025 Annual Results Press Release", "url": "https://www.geelyauto.com.hk/wp-content/uploads/2026/03/c_20260318_Press-Release_Geely_2025-Annual-Results.pdf", "date": "2026-03-18", "tier": "A" },
+    { "id": "s31", "name": "Geely Automobile Holdings 2026 Interim Report", "url": "https://www.geelyauto.com.hk/wp-content/uploads/2026/08/e00175_2026-interim-report.pdf", "date": "2026-08-17", "tier": "A" },
+    { "id": "s32", "name": "Volvo Cars Q2 2026 Interim Report (General definitions)", "url": "https://mb.cision.com/Main/20685/4375596/4197338.pdf", "date": "2026-07-17", "tier": "A" },
+    { "id": "s33", "name": "China Securities Net (cnstock.com): Geely Auto H1 2026 results and management changes", "url": "https://www.cnstock.com/commonDetail/761830", "date": "2026-08-17", "tier": "B" },
+    { "id": "s34", "name": "BYD 2025 full-year production and sales announcement (HKEX)", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100423.pdf", "date": "2026-01-01", "tier": "A" },
+    { "id": "s35", "name": "CCTV: Geely Holding 2030 strategy target (6.5 million sales, RMB1 trillion revenue)", "url": "https://auto.cctv.com/2026/01/23/ARTIOLUbn1WV38R3CiGKovLM260123.shtml", "date": "2026-01-23", "tier": "B" },
+    { "id": "s36", "name": "China Securities Journal (epaper): Geely Auto H1 2026 results and export target", "url": "https://epaper.cs.com.cn/zgzqb/html/2026-08/21/nw.D110000zgzqb_20260821_1-A07.htm", "date": "2026-08-21", "tier": "B" },
+    { "id": "s37", "name": "China Securities Net (cs.com.cn): Geely Auto H1 2026 revenue and profit", "url": "https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html", "date": "2026-08-17", "tier": "B" },
+    { "id": "s38", "name": "Polestar Q4 and Full-Year 2025 Financial Results (press release)", "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025", "date": "2026-04-17", "tier": "A" },
+    { "id": "s39", "name": "Lotus Technology Q4 and Full-Year 2025 Financial Results (press release)", "url": "https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1", "date": "2026-04-10", "tier": "A" },
+    { "id": "s40", "name": "Zhejiang Geely Holding Group 2025 Financial Statements Notes (SSE)", "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-30/243188_20260430_TNVV.pdf", "date": "2026-04-30", "tier": "A" },
+    { "id": "s41", "name": "Zhejiang Geely Holding Group 2026 Corporate Bond Prospectus (SSE)", "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-06-15/245398_20260615_HCUO.pdf", "date": "2026-06-15", "tier": "A" },
+    { "id": "s42", "name": "21st Century Business Herald via Tencent News: Geely Auto H1 2026 results and EU tariff exposure", "url": "https://news.qq.com/rain/a/20260819A0CGR600", "date": "2026-08-19", "tier": "B" }
+  ]
+}
