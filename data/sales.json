@@ -1,0 +1,599 @@
+{
+  "generated_at": "2026-10-28T15:55:04.443Z",
+  "companies": [
+    {
+      "id": "saic",
+      "en": "SAIC Motor",
+      "zh": "上汽"
+    },
+    {
+      "id": "changan",
+      "en": "Changan",
+      "zh": "长安"
+    },
+    {
+      "id": "gwm",
+      "en": "Great Wall Motor",
+      "zh": "长城"
+    },
+    {
+      "id": "geely",
+      "en": "Geely",
+      "zh": "吉利"
+    },
+    {
+      "id": "chery",
+      "en": "Chery",
+      "zh": "奇瑞"
+    },
+    {
+      "id": "byd",
+      "en": "BYD",
+      "zh": "比亚迪"
+    },
+    {
+      "id": "faw",
+      "en": "FAW",
+      "zh": "一汽"
+    },
+    {
+      "id": "gac",
+      "en": "GAC",
+      "zh": "广汽"
+    },
+    {
+      "id": "dongfeng",
+      "en": "Dongfeng",
+      "zh": "东风"
+    },
+    {
+      "id": "baic",
+      "en": "BAIC",
+      "zh": "北汽"
+    },
+    {
+      "id": "nio",
+      "en": "NIO",
+      "zh": "蔚来"
+    },
+    {
+      "id": "liauto",
+      "en": "Li Auto",
+      "zh": "理想"
+    },
+    {
+      "id": "xpeng",
+      "en": "XPeng",
+      "zh": "小鹏"
+    },
+    {
+      "id": "leapmotor",
+      "en": "Leapmotor",
+      "zh": "零跑"
+    },
+    {
+      "id": "xiaomi",
+      "en": "Xiaomi EV",
+      "zh": "小米汽车"
+    }
+  ],
+  "monthly": [
+    {
+      "company_id": "byd",
+      "period": "2026-09",
+      "month_total": 463561,
+      "month_overseas": 180700,
+      "ytd_total": 3131576,
+      "ytd_overseas": 1342960,
+      "basis": "company_report",
+      "source_name": "比亚迪 2026年9月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "changan",
+      "period": "2026-09",
+      "month_total": 228900,
+      "month_overseas": 96200,
+      "ytd_total": 1706100,
+      "ytd_overseas": 729700,
+      "basis": "company_report",
+      "source_name": "长安汽车 2026年9月交付公告交付口径，万辆换算；1–9月累计据界面新闻10月17日报道交付口径，万辆换算",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "chery",
+      "period": "2026-09",
+      "month_total": 292308,
+      "month_overseas": 207814,
+      "ytd_total": 2206789,
+      "ytd_overseas": 1551178,
+      "basis": "company_report",
+      "source_name": "奇瑞集团 2026年9月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gac",
+      "period": "2026-09",
+      "month_total": 128634,
+      "month_overseas": null,
+      "ytd_total": 1141237,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "广汽集团 2026年9月产销快报10月9日公告，界面新闻转引",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "geely",
+      "period": "2026-09",
+      "month_total": 292168,
+      "month_overseas": 106685,
+      "ytd_total": 2235481,
+      "ytd_overseas": 797670,
+      "basis": "company_report",
+      "source_name": "吉利汽车0175.HK 2026年9月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gwm",
+      "period": "2026-09",
+      "month_total": 114944,
+      "month_overseas": 60019,
+      "ytd_total": 920302,
+      "ytd_overseas": 475977,
+      "basis": "company_report",
+      "source_name": "长城汽车 2026年9月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "leapmotor",
+      "period": "2026-09",
+      "month_total": 105656,
+      "month_overseas": null,
+      "ytd_total": 666539,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "零跑汽车 2026年9月交付公告交付口径",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "liauto",
+      "period": "2026-09",
+      "month_total": 31817,
+      "month_overseas": null,
+      "ytd_total": 293436,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "理想汽车 2026年9月交付公告交付口径",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "nio",
+      "period": "2026-09",
+      "month_total": 37408,
+      "month_overseas": null,
+      "ytd_total": 300301,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "蔚来 2026年9月交付公告交付口径",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "saic",
+      "period": "2026-09",
+      "month_total": 406051,
+      "month_overseas": 150008,
+      "ytd_total": 3147080,
+      "ytd_overseas": 1165588,
+      "basis": "company_report",
+      "source_name": "上汽集团 2026年9月份产销快报10月8日公告，出口及海外基地口径",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "xpeng",
+      "period": "2026-09",
+      "month_total": 41256,
+      "month_overseas": 10055,
+      "ytd_total": 284367,
+      "ytd_overseas": 59479,
+      "basis": "company_report",
+      "source_name": "小鹏汽车 2026年9月交付公告交付口径；海外数据据CnEVPost 10月12日报道",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "byd",
+      "period": "2026-08",
+      "month_total": 440293,
+      "month_overseas": 189466,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "比亚迪8月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "changan",
+      "period": "2026-08",
+      "month_total": 196788,
+      "month_overseas": 88507,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长安汽车8月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "chery",
+      "period": "2026-08",
+      "month_total": 280128,
+      "month_overseas": 196984,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "奇瑞集团8月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "dongfeng",
+      "period": "2026-08",
+      "month_total": 109000,
+      "month_overseas": null,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "中汽协8月集团销量万辆换算",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gac",
+      "period": "2026-08",
+      "month_total": 126584,
+      "month_overseas": null,
+      "ytd_total": 1012600,
+      "ytd_overseas": 172000,
+      "basis": "company_report",
+      "source_name": "广汽集团 2026年8月产销快报累计为万辆换算",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "geely",
+      "period": "2026-08",
+      "month_total": 270194,
+      "month_overseas": 110094,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "吉利汽车8月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gwm",
+      "period": "2026-08",
+      "month_total": 113396,
+      "month_overseas": 62517,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长城汽车8月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "saic",
+      "period": "2026-08",
+      "month_total": 357007,
+      "month_overseas": 139207,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "上汽集团8月销售数据",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "byd",
+      "period": "2026-07",
+      "month_total": 419211,
+      "month_overseas": 179841,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "比亚迪7月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "changan",
+      "period": "2026-07",
+      "month_total": 161557,
+      "month_overseas": 89879,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长安汽车7月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "chery",
+      "period": "2026-07",
+      "month_total": 276820,
+      "month_overseas": 202533,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "奇瑞集团7月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "geely",
+      "period": "2026-07",
+      "month_total": 250161,
+      "month_overseas": 106663,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "吉利汽车7月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gwm",
+      "period": "2026-07",
+      "month_total": 108067,
+      "month_overseas": 62015,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长城汽车7月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "saic",
+      "period": "2026-07",
+      "month_total": 338606,
+      "month_overseas": 141656,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "上汽集团7月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "byd",
+      "period": "2026-06",
+      "month_total": 403472,
+      "month_overseas": 175349,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "比亚迪6月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "changan",
+      "period": "2026-06",
+      "month_total": 201976,
+      "month_overseas": 91065,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长安汽车6月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "chery",
+      "period": "2026-06",
+      "month_total": 256612,
+      "month_overseas": 191062,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "奇瑞集团6月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "geely",
+      "period": "2026-06",
+      "month_total": 240799,
+      "month_overseas": 102874,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "吉利汽车6月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gwm",
+      "period": "2026-06",
+      "month_total": 108080,
+      "month_overseas": 60168,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长城汽车6月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "saic",
+      "period": "2026-06",
+      "month_total": 394839,
+      "month_overseas": 145935,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "上汽集团6月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "byd",
+      "period": "2026-05",
+      "month_total": 383453,
+      "month_overseas": 160644,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "比亚迪5月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "changan",
+      "period": "2026-05",
+      "month_total": 180103,
+      "month_overseas": null,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长安汽车5月产销快报批发口径",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "chery",
+      "period": "2026-05",
+      "month_total": 247823,
+      "month_overseas": 181871,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "奇瑞集团5月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "geely",
+      "period": "2026-05",
+      "month_total": 237637,
+      "month_overseas": 85144,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "吉利汽车5月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gwm",
+      "period": "2026-05",
+      "month_total": 100399,
+      "month_overseas": 50688,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长城汽车5月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "saic",
+      "period": "2026-05",
+      "month_total": 348988,
+      "month_overseas": 129541,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "上汽集团5月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "byd",
+      "period": "2026-04",
+      "month_total": 321123,
+      "month_overseas": 134542,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "比亚迪4月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "changan",
+      "period": "2026-04",
+      "month_total": 179314,
+      "month_overseas": 77659,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长安汽车4月产销快报批发口径",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "chery",
+      "period": "2026-04",
+      "month_total": 251386,
+      "month_overseas": 177573,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "奇瑞集团4月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "geely",
+      "period": "2026-04",
+      "month_total": 235164,
+      "month_overseas": 83186,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "吉利汽车4月销量公告",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "gwm",
+      "period": "2026-04",
+      "month_total": 106312,
+      "month_overseas": 50475,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "长城汽车4月产销快报",
+      "source_url": null,
+      "preliminary": false
+    },
+    {
+      "company_id": "saic",
+      "period": "2026-04",
+      "month_total": 328841,
+      "month_overseas": 134301,
+      "ytd_total": null,
+      "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "上汽集团4月产销快报",
+      "source_url": null,
+      "preliminary": false
+    }
+  ],
+  "rankings": []
+}
