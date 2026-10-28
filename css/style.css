@@ -121,14 +121,15 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 700; letter-spacing: -0
 }
 .main-nav {
   display: flex;
-  gap: 20px;
-  font-size: 14px;
+  gap: 14px;
+  font-size: 13.5px;
   font-weight: 500;
 }
 .main-nav a {
   position: relative;
   padding: 4px 0;
   color: var(--ink-soft);
+  white-space: nowrap;
 }
 .main-nav a.active { color: var(--ink); }
 .main-nav a.active::after {
@@ -1731,8 +1732,8 @@ section { padding: clamp(64px, 8vw, 120px) 0; }
 }
 .footer-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
-  gap: 48px;
+  grid-template-columns: 1.4fr 1fr 1fr 1fr 0.9fr;
+  gap: 32px;
   padding-bottom: 48px;
   border-bottom: 1px solid rgba(255,255,255,0.12);
 }
@@ -1766,7 +1767,7 @@ section { padding: clamp(64px, 8vw, 120px) 0; }
 @media (max-width: 1320px) {
   .main-nav { gap: 12px; font-size: 13px; }
 }
-@media (max-width: 1180px) {
+@media (max-width: 1240px) {
   .header-inner { gap: 16px; }
   .main-nav { display: none; font-size: 14px; gap: 16px; }
   .menu-btn { display: flex; }
@@ -2606,4 +2607,116 @@ html[lang="zh"] .hero-title { letter-spacing: 0; }
   color: var(--ink-soft);
   font-size: 14px;
   margin-bottom: 8px;
+}
+
+/* ============ BRIEFINGS (/news) ============ */
+.briefing-boards { padding: clamp(28px, 4vw, 48px) 0 8px; }
+.briefing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+}
+@media (max-width: 960px) {
+  .briefing-grid { grid-template-columns: 1fr; }
+}
+.briefing-panel {
+  border: 1px solid var(--line);
+  background: var(--white);
+  border-radius: 10px;
+  padding: 22px 22px 8px;
+}
+.briefing-panel h2 {
+  font-size: clamp(26px, 3vw, 34px);
+  margin: 0 0 16px;
+}
+.briefing-kicker,
+.briefing-recent-label,
+.briefing-tag {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.briefing-date {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--muted);
+}
+.briefing-lead h3,
+.briefing-archive-item h3 {
+  font-size: 22px;
+  line-height: 1.3;
+  margin: 8px 0;
+}
+.briefing-excerpt {
+  margin: 0 0 12px;
+  color: var(--ink-soft);
+  font-size: 15px;
+  line-height: 1.6;
+}
+.briefing-read {
+  display: inline-block;
+  margin: 4px 0 16px;
+  color: var(--accent);
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.briefing-recent {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.briefing-recent li {
+  border-top: 1px solid var(--line);
+}
+.briefing-recent a {
+  display: grid;
+  gap: 4px;
+  padding: 12px 0;
+}
+.briefing-recent-title {
+  font-family: var(--serif);
+  font-size: 17px;
+  line-height: 1.35;
+  color: var(--ink);
+}
+.briefing-empty {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 15px;
+}
+.briefing-archive-section { padding: 12px 0 clamp(28px, 4vw, 48px); }
+.briefing-archive-section h2 { font-size: clamp(28px, 3vw, 40px); margin-bottom: 16px; }
+.briefing-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 18px;
+}
+.briefing-filters button {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 8px 14px;
+  background: var(--white);
+  font-size: 13px;
+}
+.briefing-filters button.is-active {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+.briefing-archive-item {
+  padding: 8px 0 16px;
+  border-bottom: 1px solid var(--line);
+}
+.briefing-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: baseline;
+  margin: 0;
 }

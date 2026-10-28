@@ -9,7 +9,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "XPeng began global shipments of the Mona L05, targeting 65 countries and regions, Chery's Luxeed plans six NEV models abroad, GAC and Changan aim to take driver assistance overseas in 2027, and BYD passed 150,000 deliveries in Australia.",
     "excerpt_zh": "小鹏 MONA L05 在国内上市前开启全球发运，计划销往 65 个国家和地区；奇瑞旗下智界将在海外推出 6 款新能源车型；广汽、长安都把 2027 年定为智能辅助驾驶出海的关键一年；比亚迪在澳大利亚累计交付突破 15 万辆。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "2026-08-14-china-auto-daily",
@@ -20,7 +21,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Chery hit 202,533 exports in July (+70.1% YoY), BYD set a record 179,841 overseas deliveries (+124.3%), and SAIC-GM renewed their JV to 2047 with a Buick Electra E7 export mandate starting October.",
     "excerpt_zh": "奇瑞7月出口202,533辆（同比+70.1%）创历史纪录，比亚迪海外交付179,841辆（+124.3%）再创新高，上汽通用合资续约至2047年并将于10月启动别克Electra E7出口。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "google-maps-agentic-commerce",
@@ -31,7 +33,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Google Maps can now turn local intent into food orders, hotel choices and event tickets. For Chinese automakers going global, the strategic question is who owns the transaction layer on the dashboard.",
     "excerpt_zh": "Google Maps正把本地意图转化为餐饮订单、酒店选择和门票交易。对出海中国车企，真正的问题是谁掌握中控屏上的交易层。",
     "tag_en": "Analysis",
-    "tag_zh": "深度分析"
+    "tag_zh": "深度分析",
+    "edition": "global"
   },
   {
     "slug": "china-auto-exports-seven-months-2026",
@@ -42,7 +45,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China exported 6.40 million vehicles in the first seven months of 2026, matching its full-year 2024 volume. Export value rose even faster as the electric-vehicle and higher-priced mix strengthened.",
     "excerpt_zh": "2026年前7个月，中国汽车出口640万辆，几乎追平2024年全年。出口额增速还略高于出口量，新能源汽车和更高价格车型正在支撑出口价值。",
     "tag_en": "Data Note",
-    "tag_zh": "数据观察"
+    "tag_zh": "数据观察",
+    "edition": "global"
   },
   {
     "slug": "china-vehicle-exports-h1-2026-powertrain-market-shift",
@@ -53,7 +57,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China’s vehicle exports crossed 5.31 million units in the customs-based series, but the most important change is beneath the headline: plug-in hybrids supplied almost half of the increase in new-energy vehicle exports, while growth spread across Europe, Latin America and Asia.",
     "excerpt_zh": "按海关口径整理的数据，2026年上半年中国汽车出口突破531万辆。真正重要的变化不只是规模：插混贡献了新能源出口增量的近一半，增长也同时向欧洲、拉美与亚洲扩散。",
     "tag_en": "Analysis",
-    "tag_zh": "深度分析"
+    "tag_zh": "深度分析",
+    "edition": "global"
   },
   {
     "slug": "tomtom-here-forty-years-mapmaking-convergence",
@@ -64,7 +69,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Field-survey sect versus probe sect: after forty years the two mapmakers' technology converged, leaving only a choice of commercial philosophy.",
     "excerpt_zh": "实测派对探针派，四十年后两家图厂的技术PPT可以互换了——剩下的只是一道商业哲学的选择题。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "overture-anti-google-alliance-now-ai-infrastructure",
@@ -75,7 +81,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Three and a half years on, Overture dropped 'anti-Google' and made AI the subject — buying what the old story couldn't.",
     "excerpt_zh": "成立三年半后，Overture删掉了\"反谷歌\"，把主语换成了AI。组织改故事，是因为新故事能买到旧故事买不到的东西。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "no-new-stories-in-the-map-industry",
@@ -86,7 +93,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Every 2026 map-industry headline is a rerun of scripts Tele Atlas played out forty years ago.",
     "excerpt_zh": "2026年地图行业的每条新闻都是重播：心跳信号、拆绑案、HERE待处置、平台自建，四十年前Tele Atlas都完整演过一遍。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "navteq-first-company-to-drive-every-street-in-america",
@@ -97,7 +105,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "From a 1984 wrong turn to Nokia's $8.1B at the top: Navteq's forty-year parabola contains every commercial law the map industry ever learned.",
     "excerpt_zh": "从1984年的一次迷路到诺基亚81亿美元的顶部买单，Navteq的四十年抛物线写下了地图行业的全部商业规律。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "here-wont-go-bankrupt-it-will-disappear",
@@ -108,7 +117,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Company and assets parting ways is not a new script. HERE as an independent pole vanishes — in four possible forms.",
     "excerpt_zh": "公司与资产分开走，不是新剧本。HERE作为独立一极会消失，资产流入别人的答案——四种可能的形态。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "here-tomtom-one-waits-for-a-buyer-one-waits-for-orders",
@@ -119,7 +129,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Neither HERE nor TomTom will die — but their survival odds differ by an order of magnitude, for reasons no income statement records.",
     "excerpt_zh": "HERE和TomTom都不会死，但作为独立公司，生存机会差一个数量级——原因在三样财报不记录的东西里。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "google-maps-the-king-who-never-sold-maps",
@@ -130,7 +141,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Everyone sells maps as a product; Google raises the map as an organ of Search. Forty years of map wars are a war between two valuation functions — and the space beyond Google's.",
     "excerpt_zh": "别人把地图当产品卖，谷歌把地图当搜索的器官养。四十年地图战争，打到最后是两个估值函数的战争——以及谷歌引力场之外的空间。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "gers-a-registry-for-places-ai-agents",
@@ -141,7 +153,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "AI has no stable way to refer to a place. GERS wants to be the DNS of the physical world — the grounding layer agents are missing.",
     "excerpt_zh": "AI没有一种稳定的方式指代\"地点\"。GERS想做物理世界的DNS——Agent经济缺的那层空间接地。",
     "tag_en": "Map Wars",
-    "tag_zh": "地图战争"
+    "tag_zh": "地图战争",
+    "edition": "global"
   },
   {
     "slug": "google-oem-partnership-four-layer-stack-2026",
@@ -152,7 +165,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "An updated strategy analysis: Google's automaker cooperation splits into four independently purchasable layers — Android Auto projection, the open-source AAOS kernel, the Google built-in service pack, and the Google Maps Auto SDK data layer. We re-sort Volvo, GM, BMW, Toyota, Mercedes-Benz plus XPeng, BYD, Zeekr and Xiaomi by how much OS sovereignty each cedes, and correct the nature of the XPeng and Rivian deals.",
     "excerpt_zh": "更新版战略分析：Google 与车企的合作已分化为四个可独立采购的层级——Android Auto 投屏、AAOS 开源内核、Google built-in 服务包、Google Maps Auto SDK 数据层。本文按\"操作系统主权让渡程度\"重新梳理沃尔沃、通用、宝马、丰田、奔驰及小鹏、比亚迪、极氪、小米等案例，并修正小鹏 / Rivian 的合作性质。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "2026-07-22-china-auto-daily",
@@ -163,7 +177,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "BYD built its 100,000th EV in Brazil on July 16, signed a PSG sponsorship and will enter Japan's kei-car market with the Racco on July 28, while XPeng launched the L03 globally from Munich and the EU moved closer to taxing Chinese PHEVs.",
     "excerpt_zh": "7月16日比亚迪巴西工厂第10万辆EV下线,签约冠名PSG,并将于7月28日以Racco微型车进军日本K-car市场;小鹏L03慕尼黑全球首发;欧盟对华插混反补贴税迫近。",
     "tag_en": "China Auto Overseas Daily",
-    "tag_zh": "中国车企出海日报"
+    "tag_zh": "中国车企出海日报",
+    "edition": "global"
   },
   {
     "slug": "chery-automobile-stock-shareholder-structure-2026",
@@ -174,7 +189,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Chery’s export engine is accelerating while its domestic brands diverge. An ownerless governance structure, a roughly 7x trailing earnings multiple and a large September lock-up expiry frame the investment debate.",
     "excerpt_zh": "奇瑞的出口引擎正在加速，国内品牌却明显分化。无实控人的治理结构、约7倍静态市盈率，以及9月大规模限售股解禁，共同构成当前投资判断的主线。",
     "tag_en": "Analysis",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "google-in-cars-from-suitcase-to-landlord",
@@ -185,7 +201,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "GM is removing phone projection while deepening its use of Google's embedded stack. The apparent contradiction explains how Google moved from a guest on the screen to infrastructure inside the cockpit—and why Chinese automakers are becoming the next growth vector.",
     "excerpt_zh": "GM一边取消手机投屏，一边加深对Google嵌入式技术栈的使用。这组悖论解释了Google如何从屏幕上的住客变成座舱基础设施，也解释了中国车企出海为何成为它的新增长变量。",
     "tag_en": "Analysis",
-    "tag_zh": "深度分析"
+    "tag_zh": "深度分析",
+    "edition": "global"
   },
   {
     "slug": "in-car-ai-assistants-win-on-need-not-model",
@@ -196,7 +213,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Google's advantage in the third generation of in-car assistants is not Gemini alone. It is the ability to anchor conversational AI to a hard-to-cut requirement: global maps and navigation.",
     "excerpt_zh": "第三代车载助手的胜负手，不是谁的模型跑分更高，而是谁能把AI长在地图、导航等砍不掉的需求上。",
     "tag_en": "Analysis",
-    "tag_zh": "深度分析"
+    "tag_zh": "深度分析",
+    "edition": "global"
   },
   {
     "slug": "2026-07-12-china-auto-daily",
@@ -207,7 +225,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China exported a record 1.037M vehicles in June (+75.1% YoY), with NEVs topping 50% of the total for the first time, as BYD overseas sales hit 175,349 units and Geely crossed 100,000 exports in a single month.",
     "excerpt_zh": "中国6月整车出口首破百万辆（103.7万辆，同比+75.1%），新能源车占比首超50%；比亚迪海外交付175,349辆，吉利单月出口首次破10万辆。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "2026-07-11-china-auto-daily",
@@ -218,7 +237,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Chery, BYD, and Geely collectively posted record H1 2026 export figures—943,817, 792,256, and 474,228 units respectively—as Leapmotor entered Mexico and GAC, Changan, SAIC, GWM, and FAW all hit new overseas milestones.",
     "excerpt_zh": "奇瑞、比亚迪、吉利2026年上半年出口分别达943,817辆、792,256辆及474,228辆，零跑进入墨西哥，广汽、长安、上汽、长城、一汽同步创下出海新纪录。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "2026-07-10-china-auto-daily",
@@ -229,7 +249,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "BYD hit a record 175,349 overseas units in June (+94.7%), Chery posted 191,062 (+79.7%), and Geely broke 100k for the first time, as China's export boom spreads beyond its traditional duopoly.",
     "excerpt_zh": "比亚迪6月海外销量创纪录达175,349辆（+94.7%），奇瑞191,062辆（+79.7%），吉利首破10万辆，中国车企出口正式进入多强并跑新阶段。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "twenty-points-euro-ncap-2026-speed-assistance",
@@ -240,7 +261,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Euro NCAP's 2026 Speed Assistance rules turn speed-limit knowledge into a measurable safety function, testing camera-map fusion, data freshness, V2X and iACC execution.",
     "excerpt_zh": "Euro NCAP 2026 速度辅助规则把“车是否知道限速”变成可量化安全能力，考验摄像头与地图融合、数据鲜度、V2X 和 iACC 工程执行。",
     "tag_en": "Safety Regulation",
-    "tag_zh": "安全法规"
+    "tag_zh": "安全法规",
+    "edition": "global"
   },
   {
     "slug": "momenta-deep-dive-technology-global-clients-china-overseas-adas-2026",
@@ -251,7 +273,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A full research report on Momenta's HKEX listing, technology roadmap, global OEM clients, map-free ADAS architecture, overseas deployment and the globalization of China's advanced driver-assistance software.",
     "excerpt_zh": "本报告完整梳理 Momenta 港交所上市、技术路线、全球客户矩阵、无图高阶智驾架构、海外部署路径，以及中国高阶智驾软件出海的产业意义。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "automotive-cybersecurity-regulation-unece-r155-china-export-implications-2026",
@@ -262,7 +285,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A full regulatory deep dive on UNECE R155, ISO/SAE 21434, China's GB 44495/44496 framework, US connected-vehicle restrictions and cybersecurity implications for Chinese automakers overseas.",
     "excerpt_zh": "本报告完整梳理 UNECE R155、ISO/SAE 21434、中国 GB 44495/44496、美国互联汽车限制，以及中国车企出海面临的网络安全合规影响。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "2026-07-09-china-auto-daily",
@@ -273,7 +297,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China exported 877,000 vehicles in June as domestic demand stayed weak; in the UK, MG HS and Jaecoo 7 entered June's top-10 registrations while Finland showed BYD's trust barrier.",
     "excerpt_zh": "6月中国汽车出口达87.7万辆，继续对冲国内需求疲弱；英国6月榜单中MG HS与Jaecoo 7进入前十，芬兰则暴露比亚迪在西欧面临的信任门槛。",
     "tag_en": "China Auto Overseas Daily",
-    "tag_zh": "中国车企出海日报"
+    "tag_zh": "中国车企出海日报",
+    "edition": "global"
   },
   {
     "slug": "mazda-ez60-cx6e-global-sales-market-strategy-2026",
@@ -284,7 +309,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A full research report on Mazda EZ-60 / CX-6e global sales, covering China sales data, Europe and Australia launch strategy, overseas forecasts, manufacturing, supply chain and strategic risks.",
     "excerpt_zh": "本报告完整梳理 Mazda EZ-60 / CX-6e 全球销量与市场战略，覆盖中国销量数据、欧洲与澳洲上市策略、海外销量预测、制造供应链与关键风险。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "mazda-ev-strategy-deep-research-report-2026",
@@ -295,7 +321,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A full research report on Mazda's EV strategy, covering the MX-30 lessons, Lean Asset Strategy, Changan Mazda EZ-6/EZ-60 track, Skyactiv EV platform delay, hybrid strategy, market layout and risks.",
     "excerpt_zh": "本报告完整梳理马自达电动车战略，覆盖 MX-30 经验、轻资产战略、长安马自达 EZ-6/EZ-60 合作轨道、自研 Skyactiv EV 平台延期、混合动力路线、市场布局与风险。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "2026-07-08-china-auto-daily",
@@ -306,7 +333,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Leapmotor becomes first Chinese EV startup in North America via Stellantis, as BYD hits 792,256 overseas units in H1 2026 (+70.7%) and XPeng prepares a 64-market L03 global launch.",
     "excerpt_zh": "零跑借道Stellantis成为首家进入北美的中国新势力，比亚迪上半年海外累计79.2万辆（+70.7%），小鹏L03即将在64个国家及地区全球发布。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "delivan-chery-commercial-vehicle-europe-strategy",
@@ -317,7 +345,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A structured research brief on DELIVAN, Chery Commercial Vehicle's new electric light-commercial-vehicle brand, covering brand strategy, product technology, Europe entry, partners, manufacturing, tariffs and competition.",
     "excerpt_zh": "本报告聚焦奇瑞商用车旗下全新纯电轻型商用车品牌 DELIVAN（得利凡），从品牌战略、产品技术、欧洲市场进入、关键合作伙伴、制造与关税、竞争格局及展望七个维度展开分析。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "chery-overseas-full-value-chain-layout-2026",
@@ -328,7 +357,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A structured research report on Chery Automobile’s overseas value-chain layout, covering R&D, manufacturing, brands, supply chain, channels, local talent, ESG, capital markets and strategic risks.",
     "excerpt_zh": "本报告系统梳理奇瑞汽车海外全产业链布局，覆盖研发、制造、品牌矩阵、供应链出海、渠道服务、人才本地化、ESG、港股 IPO 与风险研判。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "chery-cv-overseas-sales-forecast-2025-2030",
@@ -339,7 +369,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A bilingual forecast model for Chery Commercial Vehicle's overseas sales path from roughly 40,000 units in 2026 to a 400,000-unit overseas target by 2030.",
     "excerpt_zh": "本报告基于奇瑞商用车公开目标与当前销量轨迹，构建 2025-2030 年海外销量预测模型，核心路径为 2026 年约 4 万辆海外销量提升至 2030 年约 40 万辆。",
     "tag_en": "Forecast",
-    "tag_zh": "预测"
+    "tag_zh": "预测",
+    "edition": "global"
   },
   {
     "slug": "byd-vs-tesla-global-ev-comparison-2026",
@@ -350,7 +381,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A full original research report comparing BYD and Tesla across sales, financials, batteries, autonomous driving, charging infrastructure, product portfolios, globalization, AI strategy, valuation and risks.",
     "excerpt_zh": "本报告完整对比比亚迪与特斯拉，覆盖销量、财务、核心技术、电池与智驾、补能网络、产品矩阵、全球化路径、未来战略、投资估值和竞争变量。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "byd-overseas-full-value-chain-layout-2026",
@@ -361,7 +393,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "A full original research report on BYD’s overseas value-chain strategy, covering manufacturing, vertical integration, logistics, charging infrastructure, brands, key markets, R&D, supply chain and risks.",
     "excerpt_zh": "本报告完整梳理比亚迪海外全产业链布局，覆盖全球制造网络、垂直整合、自有船队、闪充网络、品牌矩阵、关键市场、研发体系、供应链出海与风险研判。",
     "tag_en": "Research",
-    "tag_zh": "深度研究"
+    "tag_zh": "深度研究",
+    "edition": "global"
   },
   {
     "slug": "2026-07-07-china-auto-daily",
@@ -372,7 +405,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "BYD posted a record 175,349 overseas deliveries in June (+94.7%) even as South Korea stripped it of EV subsidies, while XPeng chose Munich for its first-ever overseas world premiere and Leapmotor set a new monthly record of 93,376 units.",
     "excerpt_zh": "比亚迪6月海外交付17.5万辆创纪录（同比+94.7%），同日韩国取消其EV补贴资格；小鹏首次在海外举行新车全球首发，零跑6月以93,376辆再破月度纪录。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "what-eu-tariffs-mean-for-chinese-ev-makers",
@@ -383,7 +417,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "The EU's anti-subsidy duties were meant to slow Chinese EVs. Eighteen months on, the real effect is visible: not retreat, but localisation, PHEV substitution and a premium pivot.",
     "excerpt_zh": "欧盟反补贴税本意是给中国电动车减速。十八个月过去，真实效果清晰可见：不是撤退，而是本地化、插混替代与高端化转向。",
     "tag_en": "Policy",
-    "tag_zh": "政策"
+    "tag_zh": "政策",
+    "edition": "global"
   },
   {
     "slug": "chinese-plug-in-hybrids-why-phevs-are-gaining-attention",
@@ -394,7 +429,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Pure EVs made the headlines, but plug-in hybrids and EREVs are becoming China's stealth export weapon: no charging anxiety, no EV tariffs in Europe, and 1,000-plus kilometres of combined range.",
     "excerpt_zh": "纯电抢走了头条，但插混和增程正在成为中国的隐形出口武器：没有补能焦虑、不在欧盟电动车关税范围内、综合续航动辄 1,000 公里以上。",
     "tag_en": "EV",
-    "tag_zh": "新能源"
+    "tag_zh": "新能源",
+    "edition": "global"
   },
   {
     "slug": "chinese-pickup-trucks-a-growing-export-segment",
@@ -405,7 +441,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Pickups are the most brand-loyal segment in the markets Chinese automakers covet — and the segment where they are advancing fastest, led by GWM's Poer, BYD's Shark 6 and a wave of PHEV utes.",
     "excerpt_zh": "皮卡是中国车企觊觎的市场里品牌忠诚度最高的细分——也是它们推进最快的细分：长城炮、比亚迪 Shark 6 和一波插混皮卡正在带队。",
     "tag_en": "Exports",
-    "tag_zh": "出口"
+    "tag_zh": "出口",
+    "edition": "global"
   },
   {
     "slug": "changan-overseas-strategy-from-suvs-to-smart-evs",
@@ -416,7 +453,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "The quietest of China's big state-owned groups is running one of the most methodical globalization plays: Thai-built EVs for Europe, 22 overseas manufacturing bases, and a 1.5–1.8 million overseas target by 2030.",
     "excerpt_zh": "中国大型国有集团里最低调的一家，正在执行最有章法的全球化打法之一：泰国造电动车供欧洲、22 个海外制造基地、2030 年海外 150-180 万辆目标。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "byd-vs-chery-overseas-two-different-globalization-models",
@@ -427,7 +465,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China's two biggest auto exporters got there by opposite routes — technology-led blitz versus market-led patience. Comparing them explains most of what is happening in China auto globalization.",
     "excerpt_zh": "中国两大汽车出口商走的是相反的路——技术驱动的闪电战对市场驱动的持久战。比较两者，就能读懂中国汽车全球化的大半逻辑。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "2026-07-06-china-auto-daily",
@@ -438,7 +477,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Chinese automakers logged a historic overseas half-year in 2026: BYD's H1 exports hit 792,256 units (+70.7%), GAC surged 132%, and XPeng chose Munich—not Beijing—for the Mona L03 world premiere.",
     "excerpt_zh": "2026年上半年中国车企出海创历史：BYD海外销量达79.2万辆（+70.7%），广汽出口激增132%，小鹏选择慕尼黑而非北京作为Mona L03全球首发地。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "why-chinese-automakers-are-expanding-faster-overseas",
@@ -449,7 +489,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Price war at home, fatter margins abroad, and a closing tariff window: the three forces pushing every major Chinese automaker to accelerate globalization at the same time.",
     "excerpt_zh": "国内价格战、海外高毛利、正在关闭的关税窗口：三股力量让所有主要中国车企同时踩下全球化油门。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "why-chinese-automakers-are-building-overseas-plants",
@@ -460,7 +501,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "From Thailand to Hungary to Brazil, Chinese automakers are racing to manufacture where they sell. The logic: get inside the tariff wall before it rises further.",
     "excerpt_zh": "从泰国到匈牙利再到巴西，中国车企正在赶工\"销地制造\"。逻辑只有一条：赶在关税墙进一步抬高前进到墙内。",
     "tag_en": "Exports",
-    "tag_zh": "出口"
+    "tag_zh": "出口",
+    "edition": "global"
   },
   {
     "slug": "geely-global-brand-portfolio-explained",
@@ -471,7 +513,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Volvo, Polestar, Lotus, Zeekr, Lynk & Co, Proton, the Galaxy line — no Chinese group globalized through ownership like Geely. Here is how the pieces fit, and why exports just hit a record.",
     "excerpt_zh": "沃尔沃、极星、路特斯、极氪、领克、宝腾、银河——没有哪家中国集团像吉利这样靠股权完成全球化。本文拆解各块拼图，以及出口为何刚创纪录。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "chinese-evs-in-europe-opportunity-tariffs-and-competition",
@@ -482,7 +525,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Europe is the hardest market Chinese EV makers have entered — and the one they refuse to give up. Tariffs reshaped the strategy from exporting cars to building them inside the wall.",
     "excerpt_zh": "欧洲是中国电动车企进入过的最难市场，也是它们拒绝放弃的市场。关税把战略从\"出口整车\"改写为\"墙内造车\"。",
     "tag_en": "Markets",
-    "tag_zh": "市场"
+    "tag_zh": "市场",
+    "edition": "global"
   },
   {
     "slug": "chinese-cars-in-the-middle-east-why-demand-is-rising",
@@ -493,7 +537,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "The Gulf went from skeptical to one of the fastest-adopting regions for Chinese cars in five years. Petrol SUVs opened the door; EVs and flagship showrooms are walking through it.",
     "excerpt_zh": "五年之间，海湾从怀疑者变成中国汽车渗透最快的区域之一。燃油 SUV 敲开了门，电动车和旗舰展厅正鱼贯而入。",
     "tag_en": "Markets",
-    "tag_zh": "市场"
+    "tag_zh": "市场",
+    "edition": "global"
   },
   {
     "slug": "chinese-cars-in-africa-suvs-pickups-and-commercial-vehicles",
@@ -504,7 +549,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Africa is the quietest front of China auto globalization — and possibly the most durable. The wedge is not EVs but affordable SUVs, working pickups and commercial vehicles, with local assembly starting to take root.",
     "excerpt_zh": "非洲是中国汽车全球化最安静的战线,也可能是最持久的一条。楔子不是电动车,而是平价 SUV、能干活的皮卡和商用车——本地组装也开始扎根。",
     "tag_en": "Markets",
-    "tag_zh": "市场"
+    "tag_zh": "市场",
+    "edition": "global"
   },
   {
     "slug": "chinas-car-exports-why-global-markets-are-paying-attention",
@@ -515,7 +561,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China has been the world's largest car exporter for three straight years, and the first half of 2026 shows the machine accelerating: record brand-level shipments, overseas plants multiplying, and exports becoming the industry's profit engine.",
     "excerpt_zh": "中国已连续三年蝉联全球第一大汽车出口国，2026 年上半年这台机器仍在加速：品牌出口纪录、海外工厂遍地开花、出口成为行业利润引擎。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "china-auto-export-data-what-global-dealers-should-watch",
@@ -526,7 +573,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "Wholesale vs retail, exports vs overseas sales, customs vs association data — China auto numbers confuse even professionals. A practical guide to reading them, and the five indicators that matter most.",
     "excerpt_zh": "批发与零售、出口与海外销量、海关与协会口径——中国汽车数据连专业人士都会看混。这是一份实用的阅读指南,以及最值得盯的五个指标。",
     "tag_en": "Data",
-    "tag_zh": "数据"
+    "tag_zh": "数据",
+    "edition": "global"
   },
   {
     "slug": "chery-overseas-growth-why-emerging-markets-matter",
@@ -537,7 +585,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "China's export champion for 23 straight years built its lead the unfashionable way: petrol SUVs, emerging markets, and local assembly — long before the EV wave. Now that base is funding a push into Europe.",
     "excerpt_zh": "连续 23 年的中国出口冠军用最不时髦的方式建立领先：燃油 SUV、新兴市场、本地组装——远早于电动车浪潮。如今这个基本盘正在为进军欧洲输血。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "byd-global-expansion-strategy-key-markets-to-watch",
@@ -548,7 +597,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "BYD went from exporting almost nothing in 2021 to targeting 1.5 million overseas sales in 2026. Its strategy rests on three pillars: ships, plants, and a product ladder from the Seagull to Yangwang.",
     "excerpt_zh": "比亚迪从 2021 年几乎零出口，到 2026 年瞄准 150 万辆海外销量。它的战略立于三根支柱：船队、工厂，和从海鸥到仰望的产品阶梯。",
     "tag_en": "Analysis",
-    "tag_zh": "分析"
+    "tag_zh": "分析",
+    "edition": "global"
   },
   {
     "slug": "2026-07-05-china-auto-daily",
@@ -559,7 +609,8 @@ const SITE_ARTICLES = [
     "excerpt_en": "BYD delivered 792,256 vehicles overseas in H1 2026 (+70.7%), Geely crossed 100K monthly exports for the first time, and XPeng will globally launch the Mona L03 in Munich on July 16 across 64 countries.",
     "excerpt_zh": "比亚迪2026年上半年海外交付79.23万辆（+70.7%），吉利6月出口首破10万辆，小鹏Mona L03定于7月16日在慕尼黑向64国同步全球首发。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   },
   {
     "slug": "2026-07-04-china-auto-daily",
@@ -570,6 +621,7 @@ const SITE_ARTICLES = [
     "excerpt_en": "BYD's June overseas deliveries hit an all-time high of 175,349 units (+94.7%), Geely first crossed 100,000 monthly exports (+157%), and XPeng will globally launch the Mona L03 in Munich on July 16 across 64 markets.",
     "excerpt_zh": "比亚迪6月海外交付17.53万辆创历史新高（+94.7%），吉利首破月度出口10万辆大关（+157%），小鹏Mona L03将于7月16日在慕尼黑向全球64国同步上市。",
     "tag_en": "Daily Briefing",
-    "tag_zh": "每日简报"
+    "tag_zh": "每日简报",
+    "edition": "global"
   }
 ];

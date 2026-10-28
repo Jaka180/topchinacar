@@ -101,8 +101,41 @@
     });
   }
 
+  // /news 下方文章列表按日报筛选。没有脚本时全部文章仍然可见。
+  function initBriefingFilter() {
+    const root = document.getElementById('briefingArchive');
+    if (!root || root.dataset.ready === '1') return;
+    root.dataset.ready = '1';
+    const buttons = root.querySelectorAll('[data-edition-filter]');
+    const items = root.querySelectorAll('[data-daily]');
+    const empty = document.getElementById('briefingFilterEmpty');
+    const notes = empty ? empty.querySelectorAll('[data-edition-empty]') : [];
+    const apply = (kind) => {
+      let shown = 0;
+      items.forEach(item => {
+        const match = kind === 'all' || item.getAttribute('data-daily') === kind;
+        item.hidden = !match;
+        if (match) shown += 1;
+      });
+      buttons.forEach(btn => {
+        const on = btn.getAttribute('data-edition-filter') === kind;
+        btn.classList.toggle('is-active', on);
+        btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+      if (!empty) return;
+      empty.hidden = shown !== 0 || kind === 'all';
+      notes.forEach(note => {
+        note.hidden = note.getAttribute('data-edition-empty') !== kind;
+      });
+    };
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => apply(btn.getAttribute('data-edition-filter')));
+    });
+  }
+
   function initPage(route) {
     if (route === '/models') initModelsFilter();
+    initBriefingFilter();
     if (route === '/quote') initQuoteForm();
     if (route === '/brands') {
       const focus = new URLSearchParams(location.search).get('focus');
@@ -120,6 +153,9 @@
     };
     let here = bareNavPath(location.pathname);
     if (here.startsWith('/news/')) here = '/news';
+    else if (here.startsWith('/chinese-car-brands/')) here = '/chinese-car-brands';
+    else if (here.startsWith('/people/')) here = '/people';
+    else if (here.startsWith('/sales/')) here = '/sales';
     else if (here.startsWith('/brands/')) here = '/brands';
     const navRoute = route || here;
     document.querySelectorAll('.main-nav a').forEach(a => {
