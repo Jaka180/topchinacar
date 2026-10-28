@@ -966,7 +966,7 @@ function staticExtraHead(route, meta, lang = 'en') {
 
 // ---- Source pool (/sources, /zh/sources) from data/source-pool.json ----
 const SOURCE_LINK_KINDS = new Set(['rss', 'html', 'hkex', 'cninfo']);
-const SOURCE_KIND_ORDER = ['rss', 'gnews', 'gnews_site', 'gnews_event', 'html', 'hkex', 'cninfo', 'wechat'];
+const SOURCE_KIND_ORDER = ['rss', 'gnews', 'gnews_site', 'gnews_event', 'tavily', 'html', 'hkex', 'cninfo', 'wechat'];
 // 网站评级的类别（数据里是中文），英文页用这里的译名；没有译名的原样显示
 const DOMAIN_LABEL_EN = {
   '通讯社/主流财经': 'Wire service / financial press', '官方/官媒': 'Official / state media', '官方/车企': 'Official / automaker',
@@ -984,6 +984,7 @@ const SOURCE_KIND_LABELS = {
   html: ['News list pages', '新闻列表页'],
   hkex: ['HKEX filings', '港交所公告'],
   cninfo: ['Cninfo filings', '巨潮资讯公告'],
+  tavily: ['LinkedIn (public posts, via Tavily search)', 'LinkedIn（公开帖子，经 Tavily 搜索）'],
   wechat: ['WeChat official accounts', '微信公众号']
 };
 const KEYWORD_KIND_ORDER = ['alias', 'overseas', 'noise', 'policy_china', 'policy_topic', 'policy_action', 'av_topic'];
