@@ -13,6 +13,7 @@ const { NAV, footerHTML } = require('./lib/site-chrome');
 const { articleEdition } = require('./lib/editions');
 const { briefingsMain } = require('./lib/briefings');
 const { writePlaceholderPages } = require('./lib/placeholders');
+const { writeMethodologyPages, methodologySitemapLines } = require('./lib/methodology');
 
 const ROOT = __dirname;
 const SITE = 'https://www.topchinacar.com';
@@ -1276,6 +1277,7 @@ for (const [route, meta] of Object.entries(PAGES)) {
 }
 
 writePlaceholderPages({ root: ROOT, pageHTML, writeZh, zhChrome });
+writeMethodologyPages({ root: ROOT, pageHTML, writeZh, zhChrome, webPageJsonLd });
 
 // ---- Brand detail pages (/chinese-car-brands/<id>) ----
 const BRANDS_OUT = path.join(ROOT, 'chinese-car-brands');
@@ -2775,7 +2777,7 @@ ${lines.join('\n')}
 `;
 
 // 子 sitemap 1：栏目/品牌/车型/市场等"页面"
-const pageLines = staticUrls.concat(sectionUrls, marketUrls, sourcePoolUrls, brandUrls, modelUrls);
+const pageLines = staticUrls.concat(sectionUrls, marketUrls, sourcePoolUrls, brandUrls, modelUrls, methodologySitemapLines(SITE));
 fs.writeFileSync(path.join(ROOT, 'sitemap-pages.xml'), urlset(pageLines.concat(zhMirror(pageLines))));
 
 // 子 sitemap 2：全部文章 + 深度故事（发布即随构建自动更新）

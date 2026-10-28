@@ -3,9 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Methodology | TopChinaCar</title>
-<meta name="description" content="The methodology page is not live yet." />
-<meta name="robots" content="noindex,follow" />
+<title>Methodology and Transparency | TopChinaCar</title>
+<meta name="description" content="How TopChinaCar collects public sources, writes with AI, checks drafts, publishes, and corrects the record for international readers of the China auto industry." />
 <meta name="author" content="TopChinaCar Editorial" />
 <meta name="theme-color" content="#1a1a1a" />
 <link rel="canonical" href="https://www.topchinacar.com/methodology" />
@@ -16,8 +15,8 @@
 <!-- Open Graph -->
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="TopChinaCar" />
-<meta property="og:title" content="Methodology | TopChinaCar" />
-<meta property="og:description" content="The methodology page is not live yet." />
+<meta property="og:title" content="Methodology and Transparency | TopChinaCar" />
+<meta property="og:description" content="How TopChinaCar collects public sources, writes with AI, checks drafts, publishes, and corrects the record for international readers of the China auto industry." />
 <meta property="og:url" content="https://www.topchinacar.com/methodology" />
 <meta property="og:image" content="https://www.topchinacar.com/images/hero-xiaomi.jpg" />
 <meta property="og:image:width" content="1400" />
@@ -28,17 +27,52 @@
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Methodology | TopChinaCar" />
-<meta name="twitter:description" content="The methodology page is not live yet." />
+<meta name="twitter:title" content="Methodology and Transparency | TopChinaCar" />
+<meta name="twitter:description" content="How TopChinaCar collects public sources, writes with AI, checks drafts, publishes, and corrects the record for international readers of the China auto industry." />
 <meta name="twitter:image" content="https://www.topchinacar.com/images/hero-xiaomi.jpg" />
 <link rel="alternate" type="application/rss+xml" title="TopChinaCar News" href="https://www.topchinacar.com/feed.xml" />
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.topchinacar.com/methodology#webpage",
+  "url": "https://www.topchinacar.com/methodology",
+  "name": "Methodology and Transparency",
+  "description": "How TopChinaCar collects public sources, writes with AI, checks drafts, publishes, and corrects the record for international readers of the China auto industry.",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://www.topchinacar.com/#website"
+  },
+  "publisher": {
+    "@id": "https://www.topchinacar.com/#organization"
+  },
+  "breadcrumb": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.topchinacar.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Methodology and Transparency",
+        "item": "https://www.topchinacar.com/methodology"
+      }
+    ]
+  }
+}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&amp;family=Inter:wght@400;500;600;700&amp;display=optional" as="style">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&amp;family=Inter:wght@400;500;600;700&amp;display=optional" rel="stylesheet" media="print" onload="this.media='all'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&amp;family=Inter:wght@400;500;600;700&amp;display=optional" rel="stylesheet"></noscript>
-<link rel="stylesheet" href="/css/style.css?v=202610281427" />
+<link rel="stylesheet" href="/css/style.css?v=202610281451" />
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%231a1a1a'/><text x='16' y='22' font-family='Playfair Display,serif' font-size='20' font-weight='900' text-anchor='middle' fill='%23d4302a'>T</text></svg>">
 </head>
 <body>
@@ -89,11 +123,150 @@
   </div>
 </header>
 
-<main id="app"><section class="page-header">
+<main id="app">
+<style>
+.method-wrap { padding: 8px 0 clamp(64px, 8vw, 96px); }
+.method-page { max-width: 860px; }
+.method-page h2 { font-size: clamp(28px, 3vw, 40px); margin: 56px 0 12px; }
+.method-page p, .method-page li { color: var(--ink-soft); font-size: 16px; line-height: 1.75; }
+.method-page a { color: var(--accent-deep); text-decoration: underline; text-underline-offset: 3px; }
+.method-toc { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 8px 0 0; padding: 0; list-style: none; }
+.method-toc a { font-size: 14px; }
+.method-figure { margin: 20px 0 4px; color: inherit; }
+.method-svg { width: 100%; height: auto; display: block; color: inherit; }
+.method-svg text { font-family: var(--sans); }
+.method-desks { display: grid; gap: 16px; margin-top: 8px; }
+.method-desk { border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px 18px; background: var(--paper-2); }
+.method-desk h3 { font-size: 22px; margin: 0 0 8px; }
+.method-desk p { margin: 0; }
+.method-desk dl { margin: 0; }
+.method-desk dt { margin-top: 10px; font-size: 12px; letter-spacing: 0.06em; color: var(--muted); }
+.method-desk dd { margin: 2px 0 0; color: var(--ink-soft); font-size: 14.5px; line-height: 1.6; }
+.method-links { margin: 8px 0 0; padding-left: 1.2em; }
+@media (min-width: 800px) {
+  .method-desks { grid-template-columns: 1fr 1fr; }
+}
+</style>
+<section class="page-header">
   <div class="container">
-    <div class="section-eyebrow">TopChinaCar</div>
-    <h1 class="page-title"><span data-lang="en">Methodology</span><span data-lang="zh" hidden>方法论与透明度</span></h1>
-    <p class="page-deck"><span data-lang="en">Coming soon</span><span data-lang="zh" hidden>即将上线</span></p>
+    <div class="section-eyebrow"><span data-lang="en">Transparency</span><span data-lang="zh" hidden>透明度</span></div>
+    <h1 class="page-title"><span data-lang="en">Methodology and Transparency</span><span data-lang="zh" hidden>方法论与透明度</span></h1>
+    <p class="page-deck"><span data-lang="en">How this site collects, writes, checks, publishes and corrects.</span><span data-lang="zh" hidden>这个站怎么采集、写稿、质检、发布和更正。</span></p>
+  </div>
+</section>
+<section class="method-wrap">
+  <div class="container method-page">
+    <ul class="method-toc">
+      <li><a href="#method-who"><span data-lang="en">Who it is for</span><span data-lang="zh" hidden>我们是谁、给谁看</span></a></li>
+      <li><a href="#method-flow"><span data-lang="en">Business flow</span><span data-lang="zh" hidden>业务流程</span></a></li>
+      <li><a href="#method-arch"><span data-lang="en">Technical architecture</span><span data-lang="zh" hidden>技术架构</span></a></li>
+      <li><a href="#method-desks"><span data-lang="en">Each section</span><span data-lang="zh" hidden>各栏目</span></a></li>
+      <li><a href="#method-ai"><span data-lang="en">Use of AI</span><span data-lang="zh" hidden>AI 使用说明</span></a></li>
+      <li><a href="#method-corrections"><span data-lang="en">Corrections</span><span data-lang="zh" hidden>更正政策</span></a></li>
+      <li><a href="#method-principles"><span data-lang="en">Editorial principles</span><span data-lang="zh" hidden>编辑原则</span></a></li>
+    </ul>
+
+    <h2 id="method-who"><span data-lang="en">Who we are, and who this is for</span><span data-lang="zh" hidden>我们是谁、给谁看</span></h2>
+    <p><span data-lang="en">TopChinaCar is an industry information site for international readers who follow China's auto industry. We write about the companies, the people, the sales and the overseas business, using the public record.</span><span data-lang="zh" hidden>TopChinaCar 是面向关注中国汽车产业的国际读者的行业信息站。我们根据公开记录，写中国车企、相关人事、销量和海外业务。</span></p>
+    <p><span data-lang="en">The collection stage watches 143 sources. The current list is on the <a href="/sources">sources</a> page. The rules for what we will and will not claim are in the <a href="/editorial-policy">editorial policy</a>.</span><span data-lang="zh" hidden>采集这一步看着 143 个信源。当前清单在<a href="/sources">信源池</a>。什么能写、什么不能写，写在<a href="/editorial-policy">编辑方针</a>里。</span></p>
+
+    <h2 id="method-flow"><span data-lang="en">Business flow</span><span data-lang="zh" hidden>业务流程</span></h2>
+    <p><span data-lang="en">A piece moves through six stages. The words on the arrows are the action between stages. After a correction is accepted, it is written back to the related pages.</span><span data-lang="zh" hidden>一条内容经过六个环节。箭头上写的是这一步在做什么。更正采纳之后，会写回相关页面。</span></p>
+    <figure class="method-figure">
+      <figcaption class="sr-only"><span data-lang="en">Business flow: source collection, hand off to AI, AI screening and writing, send to checks, programmatic checks, publish if it passes, publishing to the daily email and the website, readers send tips or corrections, reader tips and corrections, revise after a check, revision, then update the related pages.</span><span data-lang="zh" hidden>业务流程：信源采集，交给 AI，AI 筛选和写稿，送去质检，程序质检，通过后发布，发布到日报邮件和网站，读者提交线索或更正，读者线索和更正，核实后修订，修订，然后写回相关页面。</span></figcaption>
+      <svg class="method-svg" viewBox="0 0 760 704" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><rect x="48" y="8" width="500" height="104" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="64" y="34" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Source collection</text><text x="64" y="34" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>信源采集</text><text x="64" y="54" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">143 sources: RSS, Google News,</text><text x="64" y="54" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>143 个信源：RSS、Google News、</text><text x="64" y="72" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">exchange filings, WeChat accounts,</text><text x="64" y="72" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>交易所公告、公众号，</text><text x="64" y="90" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">public LinkedIn posts via Tavily</text><text x="64" y="90" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>LinkedIn 公开内容经 Tavily 搜索</text><line x1="298" y1="114" x2="298" y2="130" stroke="currentColor" stroke-width="1.5"/><line x1="298" y1="158" x2="298" y2="166" stroke="currentColor" stroke-width="1.5"/><polygon points="298,174 293,166 303,166" fill="currentColor"/><text x="298" y="148" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Hand off to AI</text><text x="298" y="148" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>交给 AI</text><rect x="48" y="176" width="500" height="48" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="64" y="206" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">AI screening and writing</text><text x="64" y="206" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>AI 筛选和写稿</text><line x1="298" y1="226" x2="298" y2="242" stroke="currentColor" stroke-width="1.5"/><line x1="298" y1="270" x2="298" y2="278" stroke="currentColor" stroke-width="1.5"/><polygon points="298,286 293,278 303,278" fill="currentColor"/><text x="298" y="260" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Send to checks</text><text x="298" y="260" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>送去质检</text><rect x="48" y="288" width="500" height="48" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="64" y="318" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Programmatic checks</text><text x="64" y="318" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>程序质检</text><line x1="298" y1="338" x2="298" y2="354" stroke="currentColor" stroke-width="1.5"/><line x1="298" y1="382" x2="298" y2="390" stroke="currentColor" stroke-width="1.5"/><polygon points="298,398 293,390 303,390" fill="currentColor"/><text x="298" y="372" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Publish if it passes</text><text x="298" y="372" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>通过后发布</text><rect x="48" y="400" width="500" height="68" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="64" y="426" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Publishing</text><text x="64" y="426" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>发布</text><text x="64" y="446" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">Daily email and the website</text><text x="64" y="446" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>日报邮件和网站</text><line x1="298" y1="470" x2="298" y2="486" stroke="currentColor" stroke-width="1.5"/><line x1="298" y1="514" x2="298" y2="522" stroke="currentColor" stroke-width="1.5"/><polygon points="298,530 293,522 303,522" fill="currentColor"/><text x="298" y="504" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Readers send tips or corrections</text><text x="298" y="504" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>读者提交线索或更正</text><rect x="48" y="532" width="500" height="48" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="64" y="562" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Reader tips and corrections</text><text x="64" y="562" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>读者线索和更正</text><line x1="298" y1="582" x2="298" y2="598" stroke="currentColor" stroke-width="1.5"/><line x1="298" y1="626" x2="298" y2="634" stroke="currentColor" stroke-width="1.5"/><polygon points="298,642 293,634 303,634" fill="currentColor"/><text x="298" y="616" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Revise after a check</text><text x="298" y="616" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>核实后修订</text><rect x="48" y="644" width="500" height="48" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="64" y="674" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Revision</text><text x="64" y="674" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>修订</text><path d="M 548 668 H 576 V 434 H 556" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="5 4"/><polygon points="548,434 556,429 556,439" fill="currentColor"/><text x="586" y="555" text-anchor="start" fill="currentColor" font-size="12" font-weight="600" data-lang="en">Update pages</text><text x="586" y="555" text-anchor="start" fill="currentColor" font-size="12" font-weight="600" data-lang="zh" hidden>写回页面</text></svg>
+    </figure>
+
+    <h2 id="method-arch"><span data-lang="en">Technical architecture</span><span data-lang="zh" hidden>技术架构</span></h2>
+    <p><span data-lang="en">The website, the daily briefing service, the scheduled writing jobs, the models and the email each run on a public service named below.</span><span data-lang="zh" hidden>网站、日报服务、定时写稿、写稿用的模型和邮件，各自落在下面这些公开服务上。</span></p>
+    <figure class="method-figure">
+      <figcaption class="sr-only"><span data-lang="en">Technical architecture: GitHub Actions runs scheduled jobs and drafting, then AI writing uses Claude, with DeepSeek and Tencent CodeBuddy cross-review as the alternative. The draft is saved to Cloudflare Workers and D1, the daily briefing service and database. Resend sends the email. Cloudflare Pages serves the website.</span><span data-lang="zh" hidden>技术架构：GitHub Actions 负责定时任务和写稿，AI 写稿使用 Claude，备选是 DeepSeek 与腾讯 CodeBuddy 互审。稿件保存到 Cloudflare Workers 和 D1，也就是日报服务和数据库。Resend 发送邮件。Cloudflare Pages 提供网站。</span></figcaption>
+      <svg class="method-svg" viewBox="0 0 760 516" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><rect x="120" y="8" width="520" height="68" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="136" y="34" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">GitHub Actions</text><text x="136" y="34" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>GitHub Actions</text><text x="136" y="54" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">Scheduled jobs and drafting</text><text x="136" y="54" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>定时任务和写稿</text><line x1="380" y1="78" x2="380" y2="94" stroke="currentColor" stroke-width="1.5"/><line x1="380" y1="122" x2="380" y2="130" stroke="currentColor" stroke-width="1.5"/><polygon points="380,138 375,130 385,130" fill="currentColor"/><text x="380" y="112" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Draft on a schedule</text><text x="380" y="112" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>定时写稿</text><rect x="120" y="140" width="520" height="86" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="136" y="166" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">AI writing</text><text x="136" y="166" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>AI 写稿</text><text x="136" y="186" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">Claude. Alternative: DeepSeek</text><text x="136" y="186" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>Claude；备选 DeepSeek</text><text x="136" y="204" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">and Tencent CodeBuddy cross-review</text><text x="136" y="204" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>与腾讯 CodeBuddy 互审</text><line x1="380" y1="228" x2="380" y2="244" stroke="currentColor" stroke-width="1.5"/><line x1="380" y1="272" x2="380" y2="280" stroke="currentColor" stroke-width="1.5"/><polygon points="380,288 375,280 385,280" fill="currentColor"/><text x="380" y="262" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Save the draft</text><text x="380" y="262" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>保存稿件</text><rect x="120" y="290" width="520" height="68" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="136" y="316" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Cloudflare Workers + D1</text><text x="136" y="316" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>Cloudflare Workers + D1</text><text x="136" y="336" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">Daily briefing service and database</text><text x="136" y="336" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>日报服务和数据库</text><line x1="380" y1="358" x2="380" y2="378" stroke="currentColor" stroke-width="1.5"/><line x1="216" y1="378" x2="544" y2="378" stroke="currentColor" stroke-width="1.5"/><line x1="216" y1="378" x2="216" y2="393" stroke="currentColor" stroke-width="1.5"/><line x1="216" y1="421" x2="216" y2="428" stroke="currentColor" stroke-width="1.5"/><polygon points="216,436 211,428 221,428" fill="currentColor"/><text x="216" y="411" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Send email</text><text x="216" y="411" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>发邮件</text><line x1="544" y1="378" x2="544" y2="393" stroke="currentColor" stroke-width="1.5"/><line x1="544" y1="421" x2="544" y2="428" stroke="currentColor" stroke-width="1.5"/><polygon points="544,436 539,428 549,428" fill="currentColor"/><text x="544" y="411" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="en">Publish the site</text><text x="544" y="411" text-anchor="middle" fill="currentColor" font-size="13" font-weight="600" data-lang="zh" hidden>发布网站</text><rect x="76" y="436" width="280" height="68" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="92" y="462" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Resend</text><text x="92" y="462" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>Resend</text><text x="92" y="482" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">Email</text><text x="92" y="482" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>邮件</text><rect x="404" y="436" width="280" height="68" rx="8" fill="currentColor" fill-opacity="0.06" stroke="currentColor" stroke-width="1.5"/><text x="420" y="462" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="en">Cloudflare Pages</text><text x="420" y="462" text-anchor="start" fill="currentColor" font-size="16" font-weight="700" data-lang="zh" hidden>Cloudflare Pages</text><text x="420" y="482" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="en">Website</text><text x="420" y="482" text-anchor="start" fill="currentColor" font-size="13" font-weight="400" data-lang="zh" hidden>网站</text></svg>
+    </figure>
+
+    <h2 id="method-desks"><span data-lang="en">How each section is produced</span><span data-lang="zh" hidden>各栏目怎么生产</span></h2>
+    <p><span data-lang="en">Frequency is how often a section is refreshed. Human check means whether a person has to approve it before it goes live.</span><span data-lang="zh" hidden>更新是这个栏目多久刷新一次。人工确认是指发布前要不要有人点头。</span></p>
+    <div class="method-desks">
+      <article class="method-desk">
+    <h3><a href="/news"><span data-lang="en">Briefings</span><span data-lang="zh" hidden>日报</span></a></h3>
+    <dl>
+      <div><dt><span data-lang="en">How it is made</span><span data-lang="zh" hidden>怎么生产</span></dt><dd><span data-lang="en">AI writes each briefing, including the China market daily and the overseas daily. A program checks the draft, then it publishes automatically.</span><span data-lang="zh" hidden>每份日报由 AI 撰写，包括中国汽车市场日报和中国汽车出海日报。程序质检通过后自动发布。</span></dd></div>
+      <div><dt><span data-lang="en">Updates</span><span data-lang="zh" hidden>更新</span></dt><dd><span data-lang="en">Every day</span><span data-lang="zh" hidden>每天</span></dd></div>
+      <div><dt><span data-lang="en">Human check</span><span data-lang="zh" hidden>人工确认</span></dt><dd><span data-lang="en">No editor confirmation. It publishes when the checks pass.</span><span data-lang="zh" hidden>不用人工确认。质检通过就发布。</span></dd></div>
+    </dl>
+  </article>
+      <article class="method-desk">
+    <h3><a href="/people"><span data-lang="en">People Intel</span><span data-lang="zh" hidden>人事情报</span></a></h3>
+    <dl>
+      <div><dt><span data-lang="en">How it is made</span><span data-lang="zh" hidden>怎么生产</span></dt><dd><span data-lang="en">Items are extracted from announcements and published automatically, with the original source attached.</span><span data-lang="zh" hidden>从公告里抽取，自动发布，并附上原文。</span></dd></div>
+      <div><dt><span data-lang="en">Updates</span><span data-lang="zh" hidden>更新</span></dt><dd><span data-lang="en">When a public announcement appears</span><span data-lang="zh" hidden>有公开公告就更新</span></dd></div>
+      <div><dt><span data-lang="en">Human check</span><span data-lang="zh" hidden>人工确认</span></dt><dd><span data-lang="en">Automatic. No item waits for an editor to click publish.</span><span data-lang="zh" hidden>自动发布，不逐条等人点发布。</span></dd></div>
+    </dl>
+  </article>
+      <article class="method-desk">
+    <h3><a href="/people"><span data-lang="en">Organization readings</span><span data-lang="zh" hidden>组织解读</span></a></h3>
+    <dl>
+      <div><dt><span data-lang="en">How it is made</span><span data-lang="zh" hidden>怎么生产</span></dt><dd><span data-lang="en">AI writes the reading. A second model checks each claim against its source. It then publishes automatically.</span><span data-lang="zh" hidden>AI 撰写。另一个模型逐条核对出处。核对后自动发布。</span></dd></div>
+      <div><dt><span data-lang="en">Updates</span><span data-lang="zh" hidden>更新</span></dt><dd><span data-lang="en">When a new reading passes the source check</span><span data-lang="zh" hidden>新稿核对出处通过后</span></dd></div>
+      <div><dt><span data-lang="en">Human check</span><span data-lang="zh" hidden>人工确认</span></dt><dd><span data-lang="en">Automatic after that source check. The editor does not approve each one.</span><span data-lang="zh" hidden>出处核对后自动发布，不用站长逐篇确认。</span></dd></div>
+    </dl>
+  </article>
+      <article class="method-desk">
+    <h3><a href="/people"><span data-lang="en">Contested readings</span><span data-lang="zh" hidden>争议解读</span></a></h3>
+    <dl>
+      <div><dt><span data-lang="en">How it is made</span><span data-lang="zh" hidden>怎么生产</span></dt><dd><span data-lang="en">AI may draft it. It is published only after the editor confirms it.</span><span data-lang="zh" hidden>可以由 AI 起草。站长确认后才发布。</span></dd></div>
+      <div><dt><span data-lang="en">Updates</span><span data-lang="zh" hidden>更新</span></dt><dd><span data-lang="en">Only after the editor confirms</span><span data-lang="zh" hidden>站长确认之后</span></dd></div>
+      <div><dt><span data-lang="en">Human check</span><span data-lang="zh" hidden>人工确认</span></dt><dd><span data-lang="en">The editor must confirm it. It never publishes on its own.</span><span data-lang="zh" hidden>必须站长确认，不会自动发布。</span></dd></div>
+    </dl>
+  </article>
+      <article class="method-desk">
+    <h3><a href="/sales"><span data-lang="en">Sales and rankings</span><span data-lang="zh" hidden>销量与排行</span></a></h3>
+    <dl>
+      <div><dt><span data-lang="en">How it is made</span><span data-lang="zh" hidden>怎么生产</span></dt><dd><span data-lang="en">Figures come from company announcements and public CPCA data. A program calculates the rankings. A period with no public figure is shown as no data, not as zero.</span><span data-lang="zh" hidden>数字来自公司公告和乘联分会的公开数据，排名由程序计算。没有公开数字就显示暂无数据，不写成 0。</span></dd></div>
+      <div><dt><span data-lang="en">Updates</span><span data-lang="zh" hidden>更新</span></dt><dd><span data-lang="en">Every month</span><span data-lang="zh" hidden>每月</span></dd></div>
+      <div><dt><span data-lang="en">Human check</span><span data-lang="zh" hidden>人工确认</span></dt><dd><span data-lang="en">The program publishes the calculated rankings. A person does not rewrite each rank by hand.</span><span data-lang="zh" hidden>程序算出排名后发布，不逐条人工改排名。</span></dd></div>
+    </dl>
+  </article>
+      <article class="method-desk">
+    <h3><a href="/sources"><span data-lang="en">Sources</span><span data-lang="zh" hidden>信源池</span></a></h3>
+    <dl>
+      <div><dt><span data-lang="en">How it is made</span><span data-lang="zh" hidden>怎么生产</span></dt><dd><span data-lang="en">A list of the sources in use: RSS, Google News, exchange filings, WeChat accounts, and public LinkedIn posts found through Tavily search.</span><span data-lang="zh" hidden>正在使用的信源清单：RSS、Google News、交易所公告、公众号，以及经 Tavily 搜索到的 LinkedIn 公开内容。</span></dd></div>
+      <div><dt><span data-lang="en">Updates</span><span data-lang="zh" hidden>更新</span></dt><dd><span data-lang="en">Every week</span><span data-lang="zh" hidden>每周</span></dd></div>
+      <div><dt><span data-lang="en">Human check</span><span data-lang="zh" hidden>人工确认</span></dt><dd><span data-lang="en">Refreshed from the source pool. Entries are not rewritten by hand into articles.</span><span data-lang="zh" hidden>按信源池更新，不逐条手改成文章。</span></dd></div>
+    </dl>
+  </article>
+    </div>
+
+    <h2 id="method-ai"><span data-lang="en">How we use AI</span><span data-lang="zh" hidden>AI 使用说明</span></h2>
+    <p><span data-lang="en">Daily briefings, organization readings and contested readings are written by AI. Those pages are labeled AI-generated. People-intel items are extracted from announcements and keep a link to the original text. Sales rankings are calculated by a program from public figures, and the page names the data and the basis.</span><span data-lang="zh" hidden>日报、组织解读和争议解读由 AI 写成，页面上标明「AI 生成」。人事情报从公告抽取，并附上原文链接。销量排名由程序根据公开数字计算，页面写明数据和口径。</span></p>
+    <p><span data-lang="en">AI can be wrong. Please check names, titles, dates and figures against the original source. Corrections are welcome.</span><span data-lang="zh" hidden>AI 会出错。人名、职务、日期和数字请以原文为准。欢迎来更正。</span></p>
+
+    <h2 id="method-corrections"><span data-lang="en">Corrections</span><span data-lang="zh" hidden>更正政策</span></h2>
+    <p><span data-lang="en">To ask for a correction, open <a href="/tips?kind=correction">the tip form for a correction</a>. Say what is wrong, what the public record says, and include the source link. We reply within 48 hours, the same commitment as the <a href="/editorial-policy">editorial policy</a>.</span><span data-lang="zh" hidden>申请更正请打开<a href="/tips?kind=correction">更正表单</a>。写清哪里错了、公开记录怎么说，并附上出处链接。我们按<a href="/editorial-policy">编辑方针</a>，在 48 小时内回复。</span></p>
+    <p><span data-lang="en">Once a correction is confirmed, it is applied on every related page, so the same fact is not left stale in a second place. The page keeps a note that it was corrected.</span><span data-lang="zh" hidden>核对成立后，更正会同步到所有相关页面，避免同一事实一处改了、另一处还是旧的。页面上会留下更正说明。</span></p>
+
+    <h2 id="method-principles"><span data-lang="en">Editorial principles</span><span data-lang="zh" hidden>编辑原则</span></h2>
+    <div class="method-desks">
+      <article class="method-desk">
+    <h3><span data-lang="en">Public sources only</span><span data-lang="zh" hidden>只写有公开出处的事实</span></h3>
+    <p><span data-lang="en">A factual sentence needs a public source a reader can open. We do not fill a gap with a made-up figure.</span><span data-lang="zh" hidden>事实句要有读者打得开的公开出处。空档不用编出来的数字去填。</span></p>
+  </article>
+      <article class="method-desk">
+    <h3><span data-lang="en">No rumors, factions or private lives</span><span data-lang="zh" hidden>不写传闻、派系、私生活</span></h3>
+    <p><span data-lang="en">We do not publish rumors, factional claims or details of private life.</span><span data-lang="zh" hidden>不刊登传闻，不写派系，不写私生活。</span></p>
+  </article>
+      <article class="method-desk">
+    <h3><span data-lang="en">Inference sits apart from fact</span><span data-lang="zh" hidden>推断和事实分开写</span></h3>
+    <p><span data-lang="en">A conclusion we draw is labeled as inference, separate from the sourced facts. A contested reading stays unpublished until the editor confirms it.</span><span data-lang="zh" hidden>我们自己做出的判断会标明是推断，和有出处的事实分开。争议解读在站长确认前不发布。</span></p>
+  </article>
+    </div>
+
+    <h2><span data-lang="en">Related pages</span><span data-lang="zh" hidden>相关页面</span></h2>
+    <ul class="method-links">
+      <li><a href="/editorial-policy"><span data-lang="en">Editorial policy</span><span data-lang="zh" hidden>编辑方针</span></a></li>
+      <li><a href="/sources"><span data-lang="en">Sources</span><span data-lang="zh" hidden>信源池</span></a></li>
+      <li><a href="/tips?kind=correction"><span data-lang="en">Ask for a correction</span><span data-lang="zh" hidden>申请更正</span></a></li>
+    </ul>
   </div>
 </section></main>
 
@@ -160,10 +333,10 @@
   </div>
 </footer>
 
-<script src="/js/data.js?v=202610281427"></script>
-<script src="/js/i18n.js?v=202610281427"></script>
-<script src="/js/articles-data.js?v=202610281427"></script>
-<script src="/js/pages.js?v=202610281427"></script>
-<script src="/js/app.js?v=202610281427"></script>
+<script src="/js/data.js?v=202610281451"></script>
+<script src="/js/i18n.js?v=202610281451"></script>
+<script src="/js/articles-data.js?v=202610281451"></script>
+<script src="/js/pages.js?v=202610281451"></script>
+<script src="/js/app.js?v=202610281451"></script>
 </body>
 </html>
