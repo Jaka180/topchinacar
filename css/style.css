@@ -2607,3 +2607,284 @@ html[lang="zh"] .hero-title { letter-spacing: 0; }
   font-size: 14px;
   margin-bottom: 8px;
 }
+
+/* ============ SALES & RANKINGS (/sales) ============ */
+.sales-page { padding-bottom: 64px; }
+.sales-lead,
+.sales-note {
+  max-width: 72ch;
+  color: var(--ink-soft);
+  font-size: 16px;
+  line-height: 1.75;
+  margin: 0 0 22px;
+}
+.sales-note { font-size: 15px; margin-bottom: 14px; }
+.sales-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0 0 12px;
+}
+.sales-stat {
+  min-width: 130px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: var(--white);
+}
+.sales-stat strong {
+  display: block;
+  font-family: var(--serif);
+  font-size: 28px;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.sales-stat span { color: var(--muted); font-size: 13px; }
+
+.sales-block { margin-top: 48px; }
+.sales-block h2 { font-size: clamp(26px, 3vw, 38px); margin-bottom: 12px; }
+.sales-block h3 { font-size: 21px; margin: 28px 0 10px; }
+
+.sales-basis { padding-left: 1.2em; margin: 0 0 4px; }
+.sales-basis li {
+  color: var(--ink-soft);
+  font-size: 15px;
+  line-height: 1.7;
+  margin-bottom: 8px;
+}
+
+.sales-empty {
+  margin-top: 32px;
+  padding: 28px 24px;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--gold);
+  border-radius: var(--r-md);
+  background: var(--white);
+}
+.sales-empty-title {
+  font-family: var(--serif);
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+.sales-empty .sales-note { margin-bottom: 0; }
+
+.sales-control {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 14px;
+}
+.sales-control-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.sales-select {
+  font: inherit;
+  font-size: 15px;
+  color: var(--ink);
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  background: var(--white);
+  min-width: 220px;
+}
+.sales-panels > .sales-panel[hidden] { display: none; }
+
+.sales-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  margin-top: 8px;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: var(--white);
+}
+.sales-table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+  font-size: 14px;
+  line-height: 1.45;
+}
+.sales-table--compact { min-width: 0; }
+.sales-table th,
+.sales-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.sales-table th {
+  background: var(--paper-2);
+  color: var(--ink-soft);
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.sales-table tr:last-child td { border-bottom: 0; }
+.sales-table td.sales-num,
+.sales-table th.sales-num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.sales-table td:first-child { font-weight: 600; }
+.sales-table a {
+  color: var(--accent-deep);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.sales-sort-btn {
+  font: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.sales-sort-btn::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  opacity: 0.35;
+}
+th[aria-sort='ascending'] .sales-sort-btn::after {
+  border-bottom: 5px solid var(--ink);
+  opacity: 1;
+}
+th[aria-sort='descending'] .sales-sort-btn::after {
+  border-top: 5px solid var(--ink);
+  opacity: 1;
+}
+.sales-tag {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--paper-2);
+  color: #8a5a12;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.sales-ranking { margin-top: 20px; }
+
+.sales-chart-wrap { margin-top: 8px; }
+.sales-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 220px;
+  padding: 0 4px;
+  border-bottom: 1px solid var(--line);
+}
+.sales-bar {
+  position: relative;
+  flex: 1 1 0;
+  min-width: 6px;
+  background: var(--accent);
+  border-radius: 2px 2px 0 0;
+  transition: background 0.2s var(--ease);
+}
+.sales-bar:hover { background: var(--accent-deep); }
+/* 零值柱仍为零高度；透明命中区让鼠标可以查看「0 辆」提示。 */
+.sales-bar--zero::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 12px;
+}
+.sales-bar--total-only,
+.sales-bar--total-only:hover { background: var(--gold); }
+.sales-bar-overseas {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--electric);
+  border-radius: 2px 2px 0 0;
+}
+.sales-bar--missing {
+  height: 5px;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--line),
+    var(--line) 4px,
+    transparent 4px,
+    transparent 8px
+  );
+}
+.sales-chart-x {
+  display: flex;
+  gap: 3px;
+  padding: 6px 4px 0;
+}
+.sales-chart-x span {
+  flex: 1 1 0;
+  min-width: 6px;
+  text-align: center;
+  font-size: 11px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.sales-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 16px;
+  font-size: 13px;
+  color: var(--ink-soft);
+  margin: 12px 0 8px;
+}
+.sales-key {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  margin-right: 5px;
+  vertical-align: -1px;
+}
+.sales-key--domestic { background: var(--accent); }
+.sales-key--total { background: var(--gold); }
+.sales-key--overseas { background: var(--electric); }
+.sales-key--missing {
+  background: repeating-linear-gradient(
+    45deg,
+    var(--line),
+    var(--line) 3px,
+    transparent 3px,
+    transparent 6px
+  );
+  border: 1px solid var(--line);
+}
+
+.sales-sources {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 14px;
+}
+.sales-sources li { margin-bottom: 6px; }
+.sales-sources a {
+  color: var(--accent-deep);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  word-break: break-word;
+}
+.sales-block--footer { padding-top: 24px; border-top: 1px solid var(--line); }
+.sales-company-block { margin-top: 40px; }
+.sales-company-block h3 { font-size: 22px; margin-bottom: 10px; }
+
+@media (max-width: 640px) {
+  .sales-chart { height: 160px; }
+  .sales-select { min-width: 0; width: 100%; }
+  .sales-control { flex-direction: column; align-items: flex-start; }
+}

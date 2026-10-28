@@ -359,6 +359,12 @@ function loadSourcePool() {
 const SOURCE_POOL = loadSourcePool();
 let SOURCE_POOL_BUILT = false;
 
+// ---- Sales & Rankings (/sales, /zh/sales) from data/sales.json (lib/sales.js) ----
+// Data file missing or malformed is handled inside the module (empty state), never stops the build.
+const sales = require('./lib/sales.js');
+const SALES_DATA = sales.loadSalesData();
+let SALES_BUILT = false;
+
 const NAV = [
   ['/news', 'nav.news', 'News'],
   ['/intelligence', 'nav.intelligence', 'Intelligence'],
@@ -369,6 +375,7 @@ const NAV = [
   ...(SOURCE_POOL ? [['/sources', 'nav.sources', 'Sources']] : []),
   ['/policy', 'nav.policy', 'Policy'],
   ['/data', 'nav.data', 'Data'],
+  ['/sales', 'nav.sales', 'Sales'],
   ['/analysis', 'nav.analysis', 'Analysis']
 ];
 
@@ -1292,6 +1299,17 @@ if (SOURCE_POOL) {
     const navIndex = NAV.findIndex(item => item[0] === '/sources');
     if (navIndex !== -1) NAV.splice(navIndex, 1);
   }
+}
+
+try {
+  const salesPages = sales.renderSalesPages(SALES_DATA, { pageHTML, zhChrome, version: BUILD_V });
+  fs.writeFileSync(path.join(ROOT, 'sales.html'), salesPages.en);
+  writeZh('sales.html', salesPages.zh);
+  SALES_BUILT = true;
+  console.log('✓ sales.html + zh');
+} catch (error) {
+  const message = String(error && error.message || error).replace(/\s+/g, ' ');
+  console.warn(`! sales skipped: failed to render (${message})`);
 }
 
 // ---- Generate pages (EN + /zh mirror) ----
@@ -2790,6 +2808,9 @@ const marketUrls = MARKETS.map(mk =>
 const sourcePoolUrls = SOURCE_POOL_BUILT
   ? [`  <url><loc>${SITE}/sources</loc><lastmod>${safeDate(dateInTimeZone(new Date(SOURCE_POOL.generated_at)))}</lastmod></url>`]
   : [];
+const salesUrls = SALES_BUILT
+  ? [`  <url><loc>${SITE}/sales</loc><lastmod>${safeDate(sales.salesGeneratedAt(SALES_DATA) || STATIC_LASTMOD)}</lastmod></url>`]
+  : [];
 const storyUrls = SITE_STORIES
   .filter(s => (SITE_DATA.features || []).some(f => f.slug === s.slug))
   .map(s => `  <url><loc>${SITE}/stories/${s.slug}</loc><lastmod>${safeDate(s.date)}</lastmod></url>`);
@@ -2808,7 +2829,7 @@ ${lines.join('\n')}
 `;
 
 // 子 sitemap 1：栏目/品牌/车型/市场等"页面"
-const pageLines = staticUrls.concat(sectionUrls, marketUrls, sourcePoolUrls, brandUrls, modelUrls);
+const pageLines = staticUrls.concat(sectionUrls, marketUrls, sourcePoolUrls, salesUrls, brandUrls, modelUrls);
 fs.writeFileSync(path.join(ROOT, 'sitemap-pages.xml'), urlset(pageLines.concat(zhMirror(pageLines))));
 
 // 子 sitemap 2：全部文章 + 深度故事（发布即随构建自动更新）

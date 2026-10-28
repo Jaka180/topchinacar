@@ -1,0 +1,77 @@
+{
+  "_comment": "SAMPLE DATA FOR LOCAL DEBUGGING ONLY — not the real dataset. The build only reads this file when the SALES_FILE environment variable points to it (e.g. SALES_FILE=tests/fixtures/sales.sample.json node build.js). Default builds always read data/sales.json instead. Do not ship these numbers.",
+  "generated_at": "2026-10-28T00:00:00.000Z",
+  "companies": [
+    { "id": "byd", "en": "BYD", "zh": "比亚迪" },
+    { "id": "geely", "en": "Geely", "zh": "吉利" },
+    { "id": "chery", "en": "Chery", "zh": "奇瑞" },
+    { "id": "sail", "en": "Sail Auto", "zh": "赛力斯" }
+  ],
+  "monthly": [
+    {
+      "company_id": "byd", "period": "2026-09",
+      "month_total": 400000, "month_overseas": 80000, "ytd_total": 3000000, "ytd_overseas": 600000,
+      "basis": "company_report",
+      "source_name": "BYD HKEX announcement", "source_url": "https://www.hkexnews.hk/", "preliminary": false
+    },
+    {
+      "company_id": "geely", "period": "2026-09",
+      "month_total": 250000, "month_overseas": 45000, "ytd_total": 1900000, "ytd_overseas": 320000,
+      "basis": "group_report",
+      "source_name": "Geely HKEX announcement", "source_url": "https://www.hkexnews.hk/", "preliminary": true
+    },
+    {
+      "company_id": "chery", "period": "2026-09",
+      "month_total": 210000, "month_overseas": 90000, "ytd_total": 1600000, "ytd_overseas": 700000,
+      "basis": "company_report",
+      "source_name": "Chery press release", "source_url": "https://www.cheryinternational.com/", "preliminary": false
+    },
+    {
+      "company_id": "sail", "period": "2026-09",
+      "month_total": 120000, "month_overseas": null, "ytd_total": 880000, "ytd_overseas": null,
+      "basis": "listed_company",
+      "source_name": "Seres announcement", "source_url": "https://www.sse.com.cn/", "preliminary": true
+    },
+    {
+      "company_id": "byd", "period": "2026-08",
+      "month_total": 385000, "month_overseas": 75000, "ytd_total": 2600000, "ytd_overseas": 520000,
+      "basis": "company_report",
+      "source_name": "BYD HKEX announcement", "source_url": "https://www.hkexnews.hk/", "preliminary": false
+    },
+    {
+      "company_id": "geely", "period": "2026-08",
+      "month_total": 235000, "month_overseas": null, "ytd_total": 1650000, "ytd_overseas": 280000,
+      "basis": "group_report",
+      "source_name": "Geely HKEX announcement", "source_url": "https://www.hkexnews.hk/", "preliminary": false
+    },
+    {
+      "company_id": "byd", "period": "2026-07",
+      "month_total": 0, "month_overseas": 0, "ytd_total": 0, "ytd_overseas": 0,
+      "basis": "company_report",
+      "source_name": "Zero-value test fixture", "source_url": "https://www.hkexnews.hk/", "preliminary": false
+    },
+    {
+      "company_id": "byd", "period": "2026-06",
+      "month_total": null, "month_overseas": null, "ytd_total": null, "ytd_overseas": null,
+      "basis": "company_report",
+      "source_name": "Missing-value test fixture", "source_url": "https://www.hkexnews.hk/", "preliminary": false
+    }
+  ],
+  "rankings": [
+    {
+      "period": "2026-09",
+      "list": "model_retail",
+      "basis_en": "Passenger car retail (CPCA)",
+      "basis_zh": "乘用车零售（乘联分会）",
+      "source_name": "CPCA",
+      "source_url": "https://www.cpcaauto.com/",
+      "rows": [
+        { "rank": 1, "model_en": "BYD Qin PLUS", "model_zh": "比亚迪秦PLUS", "maker_en": "BYD", "maker_zh": "比亚迪", "units": 45000 },
+        { "rank": 2, "model_en": "Tesla Model Y", "model_zh": "特斯拉 Model Y", "maker_en": "Tesla", "maker_zh": "特斯拉", "units": 41000 },
+        { "rank": 3, "model_en": "BYD Song PLUS", "model_zh": "比亚迪宋PLUS", "maker_en": "BYD", "maker_zh": "比亚迪", "units": 36000 },
+        { "rank": 4, "model_en": "Geely Galaxy E5", "model_zh": "吉利银河 E5", "maker_en": "Geely", "maker_zh": "吉利", "units": 28000 },
+        { "rank": 5, "model_en": "Chery Tiggo 8", "model_zh": "奇瑞瑞虎 8", "maker_en": "Chery", "maker_zh": "奇瑞", "units": 21000 }
+      ]
+    }
+  ]
+}
