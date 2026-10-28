@@ -41,7 +41,7 @@ const SITE_DATA = {
       colorA: '#0ea5e9', colorB: '#0a0a0a',
       desc_en: 'Vertically-integrated value EV maker. 51% owned by Stellantis since 2023 — the only Chinese new-energy startup with a Western OEM partner driving global rollout.',
       desc_zh: '垂直整合的高性价比新势力。2023 年起 Stellantis 持股 51%，是唯一与西方车企集团合资出海的中国新势力。',
-      image: 'images/leapmotor-c10.png', imageCredit: 'Stellantis'
+      image: 'images/leapmotor-c10.webp', imageCredit: 'Stellantis'
     },
     {
       id: 'zeekr', name: 'Zeekr', cn: '极氪', founded: 2021, hq: 'Hangzhou', focus: 'Performance EV',
@@ -628,7 +628,7 @@ const SITE_DATA = {
       tag_zh: 'Stellantis 加持的家用 SUV——欧洲市场的性价比标杆。',
       range: '530 km', accel: '~7 s', price: 'US$17,800', priceLocal: '¥128,800 China',
       colorA: '#0ea5e9', shape: 'suv',
-      image: 'images/leapmotor-c10.png', imageCredit: 'Leapmotor'
+      image: 'images/leapmotor-c10.webp', imageCredit: 'Leapmotor'
     },
     {
       id: 'leapmotor-b10', brand: 'Leapmotor', name: 'B10',

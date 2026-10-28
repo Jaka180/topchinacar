@@ -53,6 +53,22 @@ function imageDimensions(src) {
     const buffer = fs.readFileSync(file);
     if (buffer.length >= 24 && buffer.toString('ascii', 1, 4) === 'PNG') {
       result = { width: buffer.readUInt32BE(16), height: buffer.readUInt32BE(20) };
+    } else if (buffer.length >= 12 && buffer.toString('ascii', 0, 4) === 'RIFF' && buffer.toString('ascii', 8, 12) === 'WEBP') {
+      const chunk = buffer.toString('ascii', 12, 16);
+      if (chunk === 'VP8X' && buffer.length >= 30) {
+        result = { width: 1 + buffer.readUIntLE(24, 3), height: 1 + buffer.readUIntLE(27, 3) };
+      } else if (chunk === 'VP8 ' && buffer.length >= 30) {
+        result = { width: buffer.readUInt16LE(26) & 0x3fff, height: buffer.readUInt16LE(28) & 0x3fff };
+      } else if (chunk === 'VP8L' && buffer.length >= 25) {
+        const b0 = buffer[21];
+        const b1 = buffer[22];
+        const b2 = buffer[23];
+        const b3 = buffer[24];
+        result = {
+          width: 1 + (((b1 & 0x3f) << 8) | b0),
+          height: 1 + (((b3 & 0x0f) << 10) | (b2 << 2) | ((b1 & 0xc0) >> 6))
+        };
+      }
     } else if (buffer.length >= 4 && buffer[0] === 0xff && buffer[1] === 0xd8) {
       let offset = 2;
       const sofMarkers = new Set([0xc0, 0xc1, 0xc2, 0xc3, 0xc5, 0xc6, 0xc7, 0xc9, 0xca, 0xcb, 0xcd, 0xce, 0xcf]);
@@ -462,8 +478,152 @@ const JSONLD = `<script type="application/ld+json">
 }
 </script>`;
 
+// Plain-text escape for titles and excerpts. Existing entities such as &amp;
+// are left alone so they are not turned into &amp;amp;.
+function escapeHtmlText(value) {
+  return String(value ?? '')
+    .replace(/&(?!(?:#\d+|#x[0-9a-fA-F]+|amp|lt|gt|quot|apos);)/gi, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 function escAttr(s) {
-  return String(s || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+  return escapeHtmlText(s);
+}
+
+// Defensive filter for article HTML. Upstream copy is already reviewed;
+// this only keeps tags and attributes that published articles actually use.
+const ARTICLE_TAGS = new Set([
+  'a', 'blockquote', 'br', 'col', 'colgroup', 'div', 'em', 'h2', 'h3', 'h4', 'hr',
+  'li', 'ol', 'p', 'small', 'span', 'strong', 'sup',
+  'table', 'tbody', 'td', 'th', 'thead', 'tr', 'ul'
+]);
+const ARTICLE_DROP_WITH_CONTENT = new Set(['script', 'style', 'iframe', 'object', 'embed']);
+const ARTICLE_GLOBAL_ATTRS = new Set(['class', 'id', 'title', 'style']);
+const ARTICLE_TAG_ATTRS = {
+  a: new Set(['href', 'rel', 'target']),
+  td: new Set(['colspan', 'rowspan', 'scope']),
+  th: new Set(['colspan', 'rowspan', 'scope']),
+  ol: new Set(['type', 'start']),
+  col: new Set(['span'])
+};
+const ARTICLE_TARGETS = new Set(['_blank', '_self', '_parent', '_top']);
+
+function articleAttrAllowed(tag, name) {
+  if (ARTICLE_GLOBAL_ATTRS.has(name)) return true;
+  const extra = ARTICLE_TAG_ATTRS[tag];
+  return !!(extra && extra.has(name));
+}
+
+function decodeForSafetyCheck(value) {
+  return String(value ?? '')
+    .replace(/&amp;/gi, '&')
+    .replace(/&colon;/gi, ':')
+    .replace(/&#0*58;/g, ':')
+    .replace(/&#x0*3a;/gi, ':')
+    .replace(/&#0*40;/g, '(')
+    .replace(/&#x0*28;/gi, '(');
+}
+
+function isSafeArticleHref(value) {
+  const compact = decodeForSafetyCheck(value).replace(/[\u0000-\u0020]+/g, '');
+  const lower = compact.toLowerCase();
+  if (lower.startsWith('https://') || lower.startsWith('http://') || lower.startsWith('mailto:')) return true;
+  if (compact.startsWith('#')) return true;
+  if (compact.startsWith('/') && !compact.startsWith('//') && !compact.startsWith('/\\')) return true;
+  return !compact.includes(':') && !compact.startsWith('//') && !compact.startsWith('\\');
+}
+
+function articleStyleUnsafe(value) {
+  const decoded = decodeForSafetyCheck(value);
+  return /url\s*\(/i.test(decoded) || /expression\s*\(/i.test(decoded);
+}
+
+function parseArticleAttrs(attrSrc) {
+  const attrs = [];
+  const re = /([^\s=\/]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'>]+)))?/g;
+  let match;
+  while ((match = re.exec(attrSrc))) {
+    attrs.push({
+      raw: match[0],
+      name: match[1],
+      value: match[2] !== undefined ? match[2] : match[3] !== undefined ? match[3] : match[4],
+      hasValue: match[2] !== undefined || match[3] !== undefined || match[4] !== undefined,
+      quote: match[2] !== undefined ? '"' : match[3] !== undefined ? "'" : ''
+    });
+  }
+  return attrs;
+}
+
+function articleAttrsFullyParsed(attrSrc, attrs) {
+  let rest = attrSrc;
+  for (const attr of attrs) {
+    const index = rest.indexOf(attr.raw);
+    if (index === -1) return false;
+    rest = rest.slice(0, index) + ' ' + rest.slice(index + attr.raw.length);
+  }
+  return /^[\s/]*$/.test(rest);
+}
+
+function rebuildArticleTag(tagName, attrs, selfClosing) {
+  const rendered = attrs.map(attr => {
+    if (!attr.hasValue) return attr.name;
+    const quote = attr.quote || '"';
+    return `${attr.name}=${quote}${attr.value}${quote}`;
+  });
+  const body = rendered.length ? ` ${rendered.join(' ')}` : '';
+  return selfClosing ? `<${tagName}${body} />` : `<${tagName}${body}>`;
+}
+
+function sanitizeArticleTag(full) {
+  const match = /^<(\/?)([a-zA-Z][a-zA-Z0-9]*)\b([^>]*)>$/.exec(full);
+  if (!match) return '';
+  const isClose = match[1] === '/';
+  const tag = match[2].toLowerCase();
+  const attrSrc = match[3];
+  if (ARTICLE_DROP_WITH_CONTENT.has(tag)) return '';
+  if (!ARTICLE_TAGS.has(tag)) return '';
+  if (isClose) return /^[\s/]*$/.test(attrSrc) ? full : '';
+  const parsed = parseArticleAttrs(attrSrc);
+  const kept = [];
+  let dirty = !articleAttrsFullyParsed(attrSrc, parsed);
+  for (const attr of parsed) {
+    const name = attr.name.toLowerCase();
+    if (/^on/i.test(name) || !articleAttrAllowed(tag, name)) {
+      dirty = true;
+      continue;
+    }
+    if (name === 'href' && !isSafeArticleHref(attr.value)) {
+      dirty = true;
+      continue;
+    }
+    if (name === 'style' && articleStyleUnsafe(attr.value)) {
+      dirty = true;
+      continue;
+    }
+    if (name === 'target' && !ARTICLE_TARGETS.has(String(attr.value || '').toLowerCase())) {
+      dirty = true;
+      continue;
+    }
+    kept.push(attr);
+  }
+  if (!dirty) return full;
+  return rebuildArticleTag(match[2], kept, /\/\s*>$/.test(full));
+}
+
+function sanitizeHtml(html) {
+  let source = String(html ?? '').replace(/<!--[\s\S]*?-->/g, '');
+  const block = /<(script|style|iframe|object|embed)\b[^>]*>[\s\S]*?<\/\1\s*>/gi;
+  let previous;
+  do {
+    previous = source;
+    source = source.replace(block, '');
+  } while (source !== previous);
+  source = source.replace(/<(script|style|iframe|object|embed)\b[^>]*>[\s\S]*$/gi, '');
+  source = source.replace(/<\/?(?:script|style|iframe|object|embed)\b[^>]*>/gi, '');
+  return source.replace(/<\/?[a-zA-Z][a-zA-Z0-9]*\b[^>]*>/g, sanitizeArticleTag);
 }
 
 function xmlEscape(s) {
@@ -884,7 +1044,7 @@ function brandMain(b) {
       ${related.length ? `
       <h2 style="font-size:22px;margin:40px 0 20px;">${langSpan('Latest ' + b.name + ' news', b.name + ' 最新动态')}</h2>
       <ul style="list-style:none;padding:0;margin:0;">
-        ${related.map(a => `<li style="margin-bottom:14px;"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong>${a.title_en}</strong></a><br/><span style="font-size:13px;color:#9ca3af;">${a.date}</span></li>`).join('')}
+        ${related.map(a => `<li style="margin-bottom:14px;"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong>${escapeHtmlText(a.title_en)}</strong></a><br/><span style="font-size:13px;color:#9ca3af;">${a.date}</span></li>`).join('')}
       </ul>` : ''}
       <p style="margin-top:40px;"><a href="/chinese-car-brands" style="color:var(--accent, #d4302a);font-family:var(--mono);font-size:13px;">← All Chinese car brands</a></p>
     </div>
@@ -1026,7 +1186,7 @@ function modelMain(m, brand) {
       ${related.length ? `
       <h2 style="font-size:22px;margin:40px 0 20px;">${langSpan('Related news', '相关动态')}</h2>
       <ul style="list-style:none;padding:0;margin:0;">
-        ${related.map(a => `<li style="margin-bottom:14px;"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong>${a.title_en}</strong></a><br/><span style="font-size:13px;color:#9ca3af;">${a.date}</span></li>`).join('')}
+        ${related.map(a => `<li style="margin-bottom:14px;"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong>${escapeHtmlText(a.title_en)}</strong></a><br/><span style="font-size:13px;color:#9ca3af;">${a.date}</span></li>`).join('')}
       </ul>` : ''}
       <p style="margin-top:40px;">
         ${brand ? `<a href="/chinese-car-brands/${brand.id}" style="color:var(--accent, #d4302a);font-family:var(--mono);font-size:13px;">← ${m.brand} brand profile</a> · ` : ''}
@@ -1332,8 +1492,8 @@ function articleListHTML(list, emptyEn, emptyZh) {
   return `<ul style="list-style:none;padding:0;margin:0;">
     ${list.map(a => `<li style="margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #f3f4f6;">
       <div style="font-family:var(--mono, monospace);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#dc2626;margin-bottom:6px;">${a.date}</div>
-      <a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong style="font-family:var(--serif, Georgia, serif);font-size:19px;line-height:1.35;">${langSpan(a.title_en, a.title_zh || a.title_en)}</strong></a>
-      <p style="margin:6px 0 0;font-size:14px;color:#6b7280;line-height:1.6;">${langSpan(a.excerpt_en || '', a.excerpt_zh || a.excerpt_en || '')}</p>
+      <a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong style="font-family:var(--serif, Georgia, serif);font-size:19px;line-height:1.35;">${langSpan(escapeHtmlText(a.title_en), escapeHtmlText(a.title_zh || a.title_en))}</strong></a>
+      <p style="margin:6px 0 0;font-size:14px;color:#6b7280;line-height:1.6;">${langSpan(escapeHtmlText(a.excerpt_en || ''), escapeHtmlText(a.excerpt_zh || a.excerpt_en || ''))}</p>
     </li>`).join('\n    ')}
   </ul>`;
 }
@@ -1610,8 +1770,8 @@ function intelligenceCardHTML(item) {
               <span class="intel-chip">${langSpan('LIVE INTELLIGENCE STREAM', '实时情报流')}</span>
             </div>
           </div>
-          <h3 class="intel-card-title"><a href="/news/${a.slug}">${langSpan(a.title_en, a.title_zh || a.title_en)}</a></h3>
-          <p class="intel-card-summary">${langSpan(a.excerpt_en || '', a.excerpt_zh || a.excerpt_en || '')}</p>
+          <h3 class="intel-card-title"><a href="/news/${a.slug}">${langSpan(escapeHtmlText(a.title_en), escapeHtmlText(a.title_zh || a.title_en))}</a></h3>
+          <p class="intel-card-summary">${langSpan(escapeHtmlText(a.excerpt_en || ''), escapeHtmlText(a.excerpt_zh || a.excerpt_en || ''))}</p>
           <div class="intel-card-meta">
             <span>${langSpan('Company', '公司')}: ${intelCompanyHTML(item.company)}</span>
             <span>${langSpan('Market', '市场')}: ${langSpan(item.market_en, item.market_zh)}</span>
@@ -2052,8 +2212,8 @@ function relatedCoverageHTML(current) {
         <h2 style="font-size:18px;margin:0 0 16px;">${langSpan('Related coverage', '相关阅读')}</h2>
         <ul style="list-style:none;padding:0;margin:0;">
           ${related.map(a => `<li style="margin-bottom:16px;">
-            <a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong style="font-family:var(--serif, Georgia, serif);font-size:17px;line-height:1.35;">${langSpan(a.title_en, a.title_zh || a.title_en)}</strong></a>
-            <p style="margin:5px 0 0;font-size:13px;color:#6b7280;line-height:1.55;">${langSpan(a.excerpt_en || '', a.excerpt_zh || a.excerpt_en || '')}</p>
+            <a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong style="font-family:var(--serif, Georgia, serif);font-size:17px;line-height:1.35;">${langSpan(escapeHtmlText(a.title_en), escapeHtmlText(a.title_zh || a.title_en))}</strong></a>
+            <p style="margin:5px 0 0;font-size:13px;color:#6b7280;line-height:1.55;">${langSpan(escapeHtmlText(a.excerpt_en || ''), escapeHtmlText(a.excerpt_zh || a.excerpt_en || ''))}</p>
           </li>`).join('\n          ')}
         </ul>
       </div>`;
@@ -2072,11 +2232,13 @@ function bylineHTML(dateNice, dateIso) {
 
 function articleMain(a, primaryLang = 'en') {
   const dateNice = new Date(a.date + 'T00:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+  const htmlEn = sanitizeHtml(a.html_en);
+  const htmlZh = sanitizeHtml(a.html_zh || a.html_en);
   const langBlock = (lang, html) => {
     const body = lang === primaryLang ? html : namespaceFragmentIds(html, lang);
     return `<div data-lang="${lang}"${lang === 'zh' ? ' hidden' : ''}>${linkifyBrands(body, lang)}</div>`;
   };
-  const sources = extractSources(a.html_en);
+  const sources = extractSources(htmlEn);
   const seriesCallout = a.tag_en === 'Map Wars' ? `
       <aside style="display:flex;justify-content:space-between;gap:18px;align-items:center;flex-wrap:wrap;margin:0 0 28px;padding:16px 18px;border:1px solid #e5e7eb;border-left:4px solid #d4302a;background:#fafafa;">
         <div><strong>${langSpan('Map Wars · Eight-part series', '地图战争 · 八部曲')}</strong><br/><span style="font-size:13px;color:#6b7280;">${langSpan('How the global digital-map industry was built, consolidated and reopened by AI.', '全球数字地图产业如何形成、收敛，又如何被 AI 重新打开。')}</span></div>
@@ -2086,8 +2248,8 @@ function articleMain(a, primaryLang = 'en') {
   <section class="page-header">
     <div class="container">
       <div class="section-eyebrow"><span data-lang="en">${a.tag_en || 'Daily Briefing'} · ${dateNice}</span><span data-lang="zh" hidden>${a.tag_zh || '每日简报'} · ${a.date}</span></div>
-      <h1 class="page-title"><span data-lang="en">${a.title_en}</span><span data-lang="zh" hidden>${a.title_zh || a.title_en}</span></h1>
-      <p class="page-deck"><span data-lang="en">${a.excerpt_en || ''}</span><span data-lang="zh" hidden>${a.excerpt_zh || ''}</span></p>
+      <h1 class="page-title"><span data-lang="en">${escapeHtmlText(a.title_en)}</span><span data-lang="zh" hidden>${escapeHtmlText(a.title_zh || a.title_en)}</span></h1>
+      <p class="page-deck"><span data-lang="en">${escapeHtmlText(a.excerpt_en || '')}</span><span data-lang="zh" hidden>${escapeHtmlText(a.excerpt_zh || '')}</span></p>
     </div>
   </section>
   <section style="padding-top:0;">
@@ -2095,8 +2257,8 @@ function articleMain(a, primaryLang = 'en') {
       ${bylineHTML(dateNice, a.date)}
       ${seriesCallout}
       <article class="article-body" style="font-size:16px;line-height:1.8;">
-        ${langBlock('en', a.html_en)}
-        ${langBlock('zh', a.html_zh || a.html_en)}
+        ${langBlock('en', htmlEn)}
+        ${langBlock('zh', htmlZh)}
       </article>
       ${sourcesBlockHTML(sources)}
       ${relatedCoverageHTML(a)}
@@ -2105,8 +2267,22 @@ function articleMain(a, primaryLang = 'en') {
   </section>`;
 }
 
+function imageFromPrimaryBrands(article) {
+  if (!Array.isArray(article.primary_brands)) return '';
+  for (const value of article.primary_brands) {
+    const needle = String(value || '').trim().toLowerCase();
+    if (!needle) continue;
+    const brand = SITE_DATA.brands.find(item =>
+      [item.id, item.name, item.cn].some(label => label && String(label).toLowerCase() === needle));
+    if (brand && brand.image) return brand.image;
+  }
+  return '';
+}
+
 function articleImage(a) {
   if (a.image) return a.image;
+  const primaryImage = imageFromPrimaryBrands(a);
+  if (primaryImage) return primaryImage;
   if (a.tag_en === 'Map Wars') return DEFAULT_OG_IMAGE;
   const text = `${a.title_en || ''} ${a.excerpt_en || ''} ${a.title_zh || ''} ${a.excerpt_zh || ''}`.toLowerCase();
   const brand = SITE_DATA.brands.find(b => articleBrandRelevance(a, b) >= 3);
