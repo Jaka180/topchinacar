@@ -83,7 +83,7 @@ const I18N = {
     'home.news.title': 'News & Industry Pulse',
 
     'home.tech.eyebrow': 'Under The Hood',
-    'home.tech.title': 'Four Technologies<br/>That Tipped The Balance',
+    'home.tech.title': 'The Technologies<br/>That Tipped The Balance',
     'home.tech.deck': 'Why Chinese EVs are no longer playing catch-up — they\'re setting the pace.',
 
     'pullquote.text': 'In 2026, the world\'s most innovative cars no longer come from Stuttgart or Detroit. They come from Shenzhen, Hefei, and Hangzhou.',
@@ -105,7 +105,7 @@ const I18N = {
     'news.page.deck': 'Curated reporting on exports, launches, technology and policy — the stories driving China\'s automotive turn outwards.',
 
     'tech.page.title': 'Under The Hood',
-    'tech.page.deck': 'Deep dives into the technologies powering China\'s automotive lead — the battery chemistry, software architecture and silicon behind the headlines.',
+    'tech.page.deck': 'Deep dives into the technologies powering China\'s automotive lead: 800V platforms, LFP, semi-solid and solid-state batteries, megawatt flash charging, city NOA, smart cockpits and battery swapping.',
 
     'about.page.title': 'About TopChinaCar',
     'about.page.deck': 'An independent editorial project covering the rise of Chinese automakers, written in plain English for a global audience.',
@@ -240,7 +240,7 @@ const I18N = {
     'home.news.title': '新闻 & 行业脉动',
 
     'home.tech.eyebrow': '深入引擎舱',
-    'home.tech.title': '四项扭转格局的<br/>核心技术',
+    'home.tech.title': '扭转格局的<br/>核心技术',
     'home.tech.deck': '为什么中国电动车不再追赶，而是定义节奏。',
 
     'pullquote.text': '到 2026 年，世界上最具创新精神的汽车，不再来自斯图加特或底特律——而来自深圳、合肥与杭州。',
@@ -262,7 +262,7 @@ const I18N = {
     'news.page.deck': '关于出口、新车、技术与政策的精选报道——驱动中国汽车走向世界的故事。',
 
     'tech.page.title': '深入引擎舱',
-    'tech.page.deck': '解读中国汽车领先背后的核心技术——电池化学、软件架构与芯片。',
+    'tech.page.deck': '解读中国汽车领先背后的核心技术：800V 高压平台、磷酸铁锂、半固态与固态电池、兆瓦闪充、城市 NOA、智能座舱与换电。',
 
     'about.page.title': '关于 TopChinaCar',
     'about.page.deck': '一个独立编辑项目，用通俗的语言向全球读者介绍中国汽车的崛起。',
@@ -289,7 +289,7 @@ const I18N = {
     'about.principles.4.body': '出错时我们会在原位勘误，并标明修改日期。',
     'about.coverage.eyebrow': '覆盖范围',
     'about.coverage.title': '十家传统整车集团、五家造车新势力及其子品牌。',
-    'about.coverage.body': '传统整车集团：比亚迪、吉利、奇瑞、长安、上汽、一汽、长城、广汽、东风、北汽。造车新势力：蔚来、小鹏、理想、小米、零跑。华为鸿蒙智行体系单独跟踪，在影响问界、智界、享界、尊界、尚界时纳入报道。另含《中国车企出海日报》，工作日每天跟踪出口、上牌与政策信号。',
+    'about.coverage.body': '传统整车集团：比亚迪、吉利、奇瑞、长安、上汽、一汽、长城、广汽、东风、北汽。造车新势力：蔚来、小鹏、理想、小米、零跑。华为鸿蒙智行体系单独跟踪，在影响问界、智界、享界、尊界、尚界时纳入报道。另含《中国车企出海日报》，每天跟踪出口、上牌与政策信号。',
     'about.contact.eyebrow': '联系',
     'about.contact.title': '报料、勘误、合作。',
     'about.contact.body': '请发邮件至 hello@topchinacar.com。我们阅读每一封，并优先处理勘误、信源线索与研究咨询。',
