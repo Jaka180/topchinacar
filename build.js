@@ -13,6 +13,13 @@ const { NAV, footerHTML } = require('./lib/site-chrome');
 const { articleEdition } = require('./lib/editions');
 const { briefingsMain } = require('./lib/briefings');
 const { writePlaceholderPages } = require('./lib/placeholders');
+const {
+  companiesIndexHTML,
+  companyStructureHTML,
+  companyPeopleHTML,
+  companySalesHTML,
+  organizationLdNode
+} = require('./lib/companies');
 
 const ROOT = __dirname;
 const SITE = 'https://www.topchinacar.com';
@@ -236,7 +243,7 @@ const PAGES_ZH = {
   '/editorial-policy': { title: 'TopChinaCar 编辑方针与信源标准', desc: 'TopChinaCar 如何报道中国汽车全球化：内容主线、信源标准、文章结构、独立性与更正政策。' },
   '/contact': { title: '联系 TopChinaCar — 媒体、市场情报与合作', desc: '报道线索、勘误、媒体、市场情报与合作事宜，请联系 TopChinaCar。48 小时内回复。' },
   '/newsletter': { title: '中国车企出海日报 — 邮件订阅 | TopChinaCar', desc: '每天早晨发送的中国车企出海日报：新能源出口、海外工厂、经销网络、政策、ADAS 与市场进入信号。' },
-  '/chinese-car-brands': { title: '中国汽车品牌大全 | TopChinaCar', desc: '中国汽车品牌指南：比亚迪、吉利、奇瑞、长安、上汽、一汽、长城、广汽、东风、北汽，以及蔚来、小鹏、理想、小米、零跑等新势力。' },
+  '/chinese-car-brands': { title: '汽车公司：比亚迪、吉利、蔚来等 | TopChinaCar', desc: '中国汽车品牌指南：比亚迪、吉利、奇瑞、长安、上汽、一汽、长城、广汽、东风、北汽，以及蔚来、小鹏、理想、小米、零跑等新势力。' },
   '/models': { title: '中国电动车明星车型 — 续航、价格与参数 | TopChinaCar', desc: '定义新时代的中国电动车：比亚迪海豹、小米 SU7 Ultra、蔚来 ET9、小鹏 G6、理想 MEGA、极氪 001——真实续航、零百加速与美元指导价。' },
   '/news': { title: '日报 — 中国汽车市场日报与中国汽车出海日报 | TopChinaCar', desc: '中国汽车市场日报与中国汽车出海日报，以及 TopChinaCar 的全部文章。' },
   '/series/map-wars': { title: '地图战争：全球数字地图产业八部曲 | TopChinaCar', desc: '八篇连续深度文章，梳理 Navteq、HERE、TomTom、Google、Overture 与 AI 地理基础设施的产业演变。' },
@@ -265,7 +272,7 @@ const PAGES = {
   },
   '/chinese-car-brands': {
     file: 'chinese-car-brands.html',
-    title: 'Chinese Car Brands: BYD, Geely, NIO & More | TopChinaCar',
+    title: 'Companies: BYD, Geely, NIO & More | TopChinaCar',
     desc: 'A field guide to Chinese legacy auto groups, EV startups and sub-brands, with founding dates, headquarters, focus areas and export footprint.'
   },
   '/models': {
@@ -1258,6 +1265,15 @@ if (SOURCE_POOL) {
   }
 }
 
+// 列表页按集团分组。卡片和 FAQ 仍用 pages.js 里的现成函数，避免另做一套样式。
+sandbox.companiesIndexHTML = companiesIndexHTML;
+vm.runInContext(`
+  PAGE_ROUTES['/chinese-car-brands'] = function () {
+    const lang = getLang();
+    return companiesIndexHTML(SITE_DATA.brands, lang, brandCardHTML, faqSectionHTML('brands'));
+  };
+`, sandbox);
+
 // ---- Generate pages (EN + /zh mirror) ----
 const briefingHTML = briefingsMain(articles);
 let count = 0;
@@ -1371,46 +1387,51 @@ function brandMain(b) {
       <div style="font-size:16px;line-height:1.8;color:#374151;">
         <p>${langSpan(ctx.en, ctx.zh)}</p>
       </div>
+      ${companyStructureHTML(b)}
+      ${companyPeopleHTML(b)}
+      ${companySalesHTML(b)}
+      ${related.length ? `
+      <h2 style="font-size:22px;margin:40px 0 20px;">${langSpan('Related briefings and analysis', '相关日报与分析')}</h2>
+      <ul style="list-style:none;padding:0;margin:0;">
+        ${related.map(a => `<li style="margin-bottom:14px;"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong>${langSpan(escapeHtmlText(a.title_en), escapeHtmlText(a.title_zh || a.title_en))}</strong></a><br/><span style="font-size:13px;color:#9ca3af;">${a.date}</span></li>`).join('')}
+      </ul>` : ''}
       ${models.length ? `
       <h2 style="font-size:22px;margin:40px 0 20px;">${langSpan('Featured ' + b.name + ' models', b.name + ' 明星车型')}</h2>
       <div class="models-grid">
         ${models.map(m => modelCardHTML(m, 'en')).join('')}
       </div>` : ''}
-      ${related.length ? `
-      <h2 style="font-size:22px;margin:40px 0 20px;">${langSpan('Latest ' + b.name + ' news', b.name + ' 最新动态')}</h2>
-      <ul style="list-style:none;padding:0;margin:0;">
-        ${related.map(a => `<li style="margin-bottom:14px;"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;"><strong>${escapeHtmlText(a.title_en)}</strong></a><br/><span style="font-size:13px;color:#9ca3af;">${a.date}</span></li>`).join('')}
-      </ul>` : ''}
-      <p style="margin-top:40px;"><a href="/chinese-car-brands" style="color:var(--accent, #d4302a);font-family:var(--mono);font-size:13px;">← All Chinese car brands</a></p>
+      <p style="margin-top:40px;"><a href="/chinese-car-brands" style="color:var(--accent, #d4302a);font-family:var(--mono);font-size:13px;">${langSpan('← All companies', '← 全部汽车公司')}</a></p>
     </div>
   </section>`;
 }
 
 function brandJsonLd(b, isZh = false) {
   const route = `/chinese-car-brands/${b.id}`;
-  return `<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Brand",
-      "name": "${b.name}",
-      "alternateName": "${b.cn}",
-      "url": "${canonicalUrl(route, isZh)}",
-      "image": "${assetUrl(b.image)}",
-      "description": ${JSON.stringify(b.desc_en)}
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "${canonicalUrl('/', isZh)}"},
-        {"@type": "ListItem", "position": 2, "name": "Brands", "item": "${canonicalUrl('/chinese-car-brands', isZh)}"},
-        {"@type": "ListItem", "position": 3, "name": "${b.name}", "item": "${canonicalUrl(route, isZh)}"}
-      ]
-    }
-  ]
-}
-</script>`;
+  const pageUrl = canonicalUrl(route, isZh);
+  const organization = organizationLdNode(b, pageUrl);
+  organization.description = isZh ? (b.desc_zh || b.desc_en) : b.desc_en;
+  return jsonLdScript({
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Brand',
+        name: b.name,
+        alternateName: b.cn,
+        url: pageUrl,
+        image: assetUrl(b.image),
+        description: b.desc_en
+      },
+      organization,
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: isZh ? '首页' : 'Home', item: canonicalUrl('/', isZh) },
+          { '@type': 'ListItem', position: 2, name: isZh ? '汽车公司' : 'Companies', item: canonicalUrl('/chinese-car-brands', isZh) },
+          { '@type': 'ListItem', position: 3, name: b.name, item: pageUrl }
+        ]
+      }
+    ]
+  });
 }
 
 // ---- Brand auto-linker: first mention of each brand in article text → /chinese-car-brands/<id> ----
