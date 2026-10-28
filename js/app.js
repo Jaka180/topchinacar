@@ -67,26 +67,6 @@
   }
 
   // ---- Page-specific init ----
-  function initModelsFilter() {
-    const wrap = document.getElementById('modelsFilterChips');
-    const grid = document.getElementById('modelsGrid');
-    const empty = document.getElementById('modelsEmpty');
-    if (!wrap || !grid) return;
-    wrap.addEventListener('click', (e) => {
-      const btn = e.target.closest('[data-brand]');
-      if (!btn) return;
-      const brand = btn.getAttribute('data-brand');
-      wrap.querySelectorAll('.chip').forEach(c => c.classList.toggle('is-active', c === btn));
-      let visible = 0;
-      grid.querySelectorAll('.models-grid-item').forEach(item => {
-        const match = brand === 'all' || item.getAttribute('data-brand') === brand;
-        item.style.display = match ? '' : 'none';
-        if (match) visible++;
-      });
-      if (empty) empty.hidden = visible !== 0;
-    });
-  }
-
   function focusBrandCard(brandId) {
     requestAnimationFrame(() => {
       const card = document.getElementById('brand-' + brandId);
@@ -101,8 +81,41 @@
     });
   }
 
+  // /news 下方文章列表按日报筛选。没有脚本时全部文章仍然可见。
+  function initBriefingFilter() {
+    const root = document.getElementById('briefingArchive');
+    if (!root || root.dataset.ready === '1') return;
+    root.dataset.ready = '1';
+    const buttons = root.querySelectorAll('[data-edition-filter]');
+    const items = root.querySelectorAll('[data-daily]');
+    const empty = document.getElementById('briefingFilterEmpty');
+    const notes = empty ? empty.querySelectorAll('[data-edition-empty]') : [];
+    const apply = (kind) => {
+      let shown = 0;
+      items.forEach(item => {
+        const match = kind === 'all' || item.getAttribute('data-daily') === kind;
+        item.hidden = !match;
+        if (match) shown += 1;
+      });
+      buttons.forEach(btn => {
+        const on = btn.getAttribute('data-edition-filter') === kind;
+        btn.classList.toggle('is-active', on);
+        btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+      if (!empty) return;
+      empty.hidden = shown !== 0 || kind === 'all';
+      notes.forEach(note => {
+        note.hidden = note.getAttribute('data-edition-empty') !== kind;
+      });
+    };
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => apply(btn.getAttribute('data-edition-filter')));
+    });
+  }
+
   function initPage(route) {
-    if (route === '/models') initModelsFilter();
+    if (route === '/models' && typeof initModelsFilter === 'function') initModelsFilter();
+    initBriefingFilter();
     if (route === '/quote') initQuoteForm();
     if (route === '/brands') {
       const focus = new URLSearchParams(location.search).get('focus');
@@ -120,6 +133,9 @@
     };
     let here = bareNavPath(location.pathname);
     if (here.startsWith('/news/')) here = '/news';
+    else if (here.startsWith('/chinese-car-brands/')) here = '/chinese-car-brands';
+    else if (here.startsWith('/people/')) here = '/people';
+    else if (here.startsWith('/sales/')) here = '/sales';
     else if (here.startsWith('/brands/')) here = '/brands';
     const navRoute = route || here;
     document.querySelectorAll('.main-nav a').forEach(a => {
@@ -179,9 +195,9 @@
       });
     }
     function loadQuoteTurnstile() {
-      return loadTurnstileApi().then(renderQuoteTurnstile);
+      return window.tccLoadTurnstileApi().then(renderQuoteTurnstile);
     }
-    form.addEventListener('focusin', () => { loadQuoteTurnstile(); }, { once: true });
+    form.addEventListener('focusin', () => { loadQuoteTurnstile().catch(() => {}); }, { once: true });
 
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -247,28 +263,6 @@
   // Turnstile (bot check) loads only when the reader focuses the email field; interaction-only, so most readers never see it.
   const RADAR_SUBSCRIBE = 'https://radar.topchinacar.com/api/subscribe';
   const TURNSTILE_SITE_KEY = '0x4AAAAAAFOeyqZP39w8eCOI';
-  let turnstileApiPromise = null;
-  function loadTurnstileApi() {
-    if (window.turnstile) return Promise.resolve();
-    if (turnstileApiPromise) return turnstileApiPromise;
-    turnstileApiPromise = new Promise((resolve) => {
-      window.tccTurnstileReady = () => resolve();
-      if (document.querySelector('script[src*="challenges.cloudflare.com/turnstile"]')) {
-        const timer = setInterval(() => {
-          if (window.turnstile) { clearInterval(timer); resolve(); }
-        }, 50);
-        setTimeout(() => { clearInterval(timer); resolve(); }, 8000);
-        return;
-      }
-      const s = document.createElement('script');
-      s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=tccTurnstileReady&render=explicit';
-      s.async = true;
-      s.defer = true;
-      s.onerror = () => resolve();
-      document.head.appendChild(s);
-    });
-    return turnstileApiPromise;
-  }
   const waitTurnstileToken = async (readToken, ms) => {
     const t0 = Date.now();
     let value = readToken();
@@ -297,9 +291,9 @@
       });
     }
     function loadTurnstile() {
-      return loadTurnstileApi().then(renderNewsletterTurnstile);
+      return window.tccLoadTurnstileApi().then(renderNewsletterTurnstile);
     }
-    if (input) input.addEventListener('focus', () => { loadTurnstile(); }, { once: true });
+    if (input) input.addEventListener('focus', () => { loadTurnstile().catch(() => {}); }, { once: true });
     function message(text) { if (ok) { ok.hidden = false; ok.textContent = text; } }
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
