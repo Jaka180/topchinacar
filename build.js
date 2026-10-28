@@ -20,6 +20,7 @@ const {
   companySalesHTML,
   organizationLdNode
 } = require('./lib/companies');
+const { loadResearch, renderResearch, researchCompanies, removeStaleResearchPages } = require('./lib/company-research');
 const { writeMethodologyPages, methodologySitemapLines } = require('./lib/methodology');
 const { modelExtraHTML, modelHeaderPrice, modelPricePlain } = require('./lib/models-extra');
 
@@ -264,6 +265,10 @@ if (fs.existsSync(path.join(ROOT, 'js', 'stories-data.js'))) {
   SITE_STORIES = vm.runInContext('typeof SITE_STORIES !== "undefined" ? SITE_STORIES : []', sandbox);
 }
 const SITE_DATA = vm.runInContext('SITE_DATA', sandbox);
+// 正式公司路由固定保留；有效研究决定正文，缺失或失效时保留页面占位。
+const COMPANY_RESEARCH = loadResearch({ root: ROOT });
+const COMPANY_PAGES = researchCompanies(SITE_DATA.brands, COMPANY_RESEARCH);
+removeStaleResearchPages(ROOT, COMPANY_PAGES);
 
 // ---- Per-page metadata ----
 const PAGES = {
@@ -681,7 +686,7 @@ function assetUrl(asset) {
 }
 
 function jsonLdScript(data) {
-  return `<script type="application/ld+json">\n${JSON.stringify(data, null, 2)}\n</script>`;
+  return `<script type="application/ld+json">\n${JSON.stringify(data, null, 2).replace(/</g, '\\u003c')}\n</script>`;
 }
 
 function breadcrumbJsonLd(route, items, isZh = false) {
@@ -885,7 +890,7 @@ ${FOOTER}
 
 function staticCollectionItems(route) {
   if (route === '/chinese-car-brands') {
-    return SITE_DATA.brands.map(b => ({ route: `/chinese-car-brands/${b.id}`, name: b.name }));
+    return COMPANY_PAGES.map(b => ({ route: `/chinese-car-brands/${b.id}`, name: b.name }));
   }
   if (route === '/models') {
     return SITE_DATA.models.filter(m => m.id).map(m => ({ route: `/models/${m.id}`, name: `${m.brand} ${m.name}` }));
@@ -1277,7 +1282,11 @@ if (SOURCE_POOL) {
 }
 
 // 列表页按集团分组。卡片和 FAQ 仍用 pages.js 里的现成函数，避免另做一套样式。
-sandbox.companiesIndexHTML = companiesIndexHTML;
+sandbox.companiesIndexHTML = (_brands, lang, card, faq) => companiesIndexHTML(COMPANY_PAGES, lang, (b, language) => {
+  // 新研究名称来自 JSON，在卡片的 HTML 上下文逐字段转义。
+  const safe = b.researchOnly ? Object.fromEntries(Object.entries(b).map(([key, value]) => [key, typeof value === 'string' ? escapeHtmlText(value) : value])) : b;
+  return card(safe, language);
+}, faq);
 vm.runInContext(`
   PAGE_ROUTES['/chinese-car-brands'] = function () {
     const lang = getLang();
@@ -1396,7 +1405,7 @@ function rankedBrandArticles(brand, limit = 5, secondaryLimit = 1) {
 }
 
 function brandMain(b) {
-  const cat = CATEGORY_LABEL[b.category] || CATEGORY_LABEL.group;
+  const cat = b.researchOnly ? { en: 'Company research', zh: '公司研究' } : CATEGORY_LABEL[b.category] || CATEGORY_LABEL.group;
   const ctx = CATEGORY_CONTEXT[b.category] || CATEGORY_CONTEXT.group;
   const models = SITE_DATA.models.filter(m => m.brand === b.name);
   const related = rankedBrandArticles(b);
@@ -1405,16 +1414,16 @@ function brandMain(b) {
     <div class="brand-fact"><span class="spec-label">${langSpan(labelEn, labelZh)}</span><span class="spec-value">${val}</span></div>`;
 
   return `
-  <section class="page-header">
+  <section class="page-header"${b.researchOnly ? ' data-research-only="true"' : ''}>
     <div class="container">
       <div class="section-eyebrow">${langSpan(cat.en, cat.zh)}${b.parent_en ? ` · ${langSpan('Part of ' + b.parent_en, '隶属于' + (b.parent_zh || b.parent_en))}` : ''}</div>
-      <h1 class="page-title">${b.name} <span style="font-size:.55em;color:#9ca3af;font-weight:500;">${b.cn}</span></h1>
-      <p class="page-deck">${langSpan(b.desc_en, b.desc_zh)}</p>
+      <h1 class="page-title">${escapeHtmlText(b.name)} <span style="font-size:.55em;color:#9ca3af;font-weight:500;">${escapeHtmlText(b.cn)}</span></h1>
+      <p class="page-deck">${langSpan(escapeHtmlText(b.desc_en), escapeHtmlText(b.desc_zh))}</p>
     </div>
   </section>
   <section style="padding-top:0;">
     <div class="container" style="max-width:920px;">
-      <div class="brand-facts" style="display:flex;gap:36px;flex-wrap:wrap;margin-bottom:36px;">
+      ${!b.researchOnly ? `<div class="brand-facts" style="display:flex;gap:36px;flex-wrap:wrap;margin-bottom:36px;">
         ${fact('Founded', '创立', b.founded)}
         ${fact('HQ', '总部', b.hq)}
         ${fact('Focus', '主攻', b.focus)}
@@ -1423,7 +1432,8 @@ function brandMain(b) {
       <div style="font-size:16px;line-height:1.8;color:#374151;">
         <p>${langSpan(ctx.en, ctx.zh)}</p>
       </div>
-      ${companyStructureHTML(b)}
+      ${companyStructureHTML(b)}` : ''}
+      ${renderResearch(COMPANY_RESEARCH.get(b.id), { placeholder: b.researchOnly })}
       ${companyPeopleHTML(b)}
       ${companySalesHTML(b)}
       ${related.length ? `
@@ -1449,14 +1459,14 @@ function brandJsonLd(b, isZh = false) {
   return jsonLdScript({
     '@context': 'https://schema.org',
     '@graph': [
-      {
+      ...(!b.researchOnly ? [{
         '@type': 'Brand',
         name: b.name,
         alternateName: b.cn,
         url: pageUrl,
         image: assetUrl(b.image),
         description: b.desc_en
-      },
+      }] : []),
       organization,
       {
         '@type': 'BreadcrumbList',
@@ -1512,22 +1522,22 @@ function linkifyBrands(html, lang) {
 
 
 const modelCardHTML = vm.runInContext('modelCardHTML', sandbox);
-for (const b of SITE_DATA.brands) {
+for (const b of COMPANY_PAGES) {
   const catEn = (CATEGORY_LABEL[b.category] || CATEGORY_LABEL.group).en;
   const main = brandMain(b);
   const html = pageHTML(`/chinese-car-brands/${b.id}`, {
-    title: `${b.name} (${b.cn}): Models, Sub-brands & Global Footprint | TopChinaCar`,
-    desc: `${b.desc_en} ${catEn}, founded ${b.founded}, HQ ${b.hq} — brand profile, featured models and export news.`,
+    title: b.researchOnly ? `${b.name} (${b.cn}): Company Research & Deep Dive | TopChinaCar` : `${b.name} (${b.cn}): Models, Sub-brands & Global Footprint | TopChinaCar`,
+    desc: b.researchOnly ? truncateMeta(b.desc_en) : `${b.desc_en} ${catEn}, founded ${b.founded}, HQ ${b.hq} — brand profile, featured models and export news.`,
     image: b.image
   }, main).replace('</head>', brandJsonLd(b) + '\n</head>');
   fs.writeFileSync(path.join(BRANDS_OUT, `${b.id}.html`), html);
   writeZh(`chinese-car-brands/${b.id}.html`, zhChrome(pageHTML(`/chinese-car-brands/${b.id}`, {
-    title: `${b.name}（${b.cn}）：车型、子品牌与全球布局 | TopChinaCar`,
-    desc: `${b.desc_zh} 创立于 ${b.founded}，总部 ${b.hq}——品牌档案、明星车型与最新出海动态。`,
+    title: b.researchOnly ? `${b.name}（${b.cn}）：公司深度研究 | TopChinaCar` : `${b.name}（${b.cn}）：车型、子品牌与全球布局 | TopChinaCar`,
+    desc: b.researchOnly ? truncateMeta(b.desc_zh) : `${b.desc_zh} 创立于 ${b.founded}，总部 ${b.hq}——品牌档案、明星车型与最新出海动态。`,
     image: b.image
   }, main, { zh: true }).replace('</head>', brandJsonLd(b, true) + '\n</head>')));
 }
-console.log(`✓ ${SITE_DATA.brands.length} brand pages → brands/ + zh/chinese-car-brands/`);
+console.log(`✓ ${COMPANY_PAGES.length} company pages → brands/ + zh/chinese-car-brands/`);
 
 // ---- Model detail pages (/models/<id>) ----
 const MODELS_OUT = path.join(ROOT, 'models');
@@ -2811,8 +2821,8 @@ const staticUrls = Object.keys(PAGES).map(r =>
     ? null
     : `  <url><loc>${r === '/' ? SITE + '/' : SITE + r}</loc><lastmod>${PAGES[r].lastmod || (FRESH_ROUTES.has(r) ? latestArticleDate : STATIC_LASTMOD)}</lastmod></url>`
 ).filter(Boolean);
-const brandUrls = SITE_DATA.brands.map(b =>
-  `  <url><loc>${SITE}/chinese-car-brands/${b.id}</loc><lastmod>${STATIC_LASTMOD}</lastmod></url>`);
+const brandUrls = COMPANY_PAGES.map(b =>
+  `  <url><loc>${SITE}/chinese-car-brands/${b.id}</loc><lastmod>${COMPANY_RESEARCH.get(b.id)?.as_of || STATIC_LASTMOD}</lastmod></url>`);
 const modelUrls = SITE_DATA.models.filter(m => m.id).map(m =>
   `  <url><loc>${SITE}/models/${m.id}</loc><lastmod>${STATIC_LASTMOD}</lastmod></url>`);
 const sectionUrls = SECTIONS.map(s =>

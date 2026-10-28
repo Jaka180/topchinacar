@@ -1,0 +1,193 @@
+{
+  "id": "fixture-motors",
+  "name_en": "Fixture Motors (fictional example)",
+  "name_zh": "示例汽车 Fixture Motors（明显虚构示例）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded (fictional)",
+      "label_zh": "成立年份（虚构）",
+      "value_en": "2020 (fictional)",
+      "value_zh": "2020 年（虚构）",
+      "period": "2020",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2019",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2020",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2021",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2022",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2023",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2024",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2025",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2026",
+      "event_en": "Fictional demonstration milestone; this company does not exist.",
+      "event_zh": "虚构演示节点，该公司并不存在，不可作为事实引用。",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Fixture Example",
+      "name_zh": "示例品牌（虚构）",
+      "role_en": "Fictional demonstration brand",
+      "role_zh": "虚构演示品牌",
+      "price_band": null,
+      "founded": 2020,
+      "owner_note_en": "Fictional example ownership only",
+      "owner_note_zh": "仅用于演示的虚构归属",
+      "status": "fictional",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP",
+    "rows": [
+      {
+        "fiscal_year": 2023,
+        "revenue": null,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": null,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": null,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "note_en": "Fictional demonstration: all amounts are undisclosed and not real financial data.",
+    "note_zh": "虚构演示：金额均未公开披露，不是真实财务数据。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Fixture Motors is an explicitly fictional company used only to test this website. <a href=\"https://example.com/fixture-motors\">Fictional source placeholder</a>.</p>",
+      "zh": "<p>示例汽车 Fixture Motors 是明确虚构的公司，仅用于网站测试，不代表任何真实企业或商业事实。</p>",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    "current": {
+      "en": "<p>Fixture Motors is an explicitly fictional company used only to test this website. No business facts are asserted.</p>",
+      "zh": "<p>示例汽车 Fixture Motors 是明确虚构的公司，仅用于网站测试，不代表任何真实企业或商业事实。</p>",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    "leadership": {
+      "en": "<p>Fixture Motors is an explicitly fictional company used only to test this website. No business facts are asserted.</p>",
+      "zh": "<p>示例汽车 Fixture Motors 是明确虚构的公司，仅用于网站测试，不代表任何真实企业或商业事实。</p>",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    "competition": {
+      "en": "<p>Fixture Motors is an explicitly fictional company used only to test this website. No business facts are asserted.</p>",
+      "zh": "<p>示例汽车 Fixture Motors 是明确虚构的公司，仅用于网站测试，不代表任何真实企业或商业事实。</p>",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    "outlook": {
+      "en": "<p>Fixture Motors is an explicitly fictional company used only to test this website. No business facts are asserted.</p>",
+      "zh": "<p>示例汽车 Fixture Motors 是明确虚构的公司，仅用于网站测试，不代表任何真实企业或商业事实。</p>",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    "risks": {
+      "en": "<p>Fixture Motors is an explicitly fictional company used only to test this website. No business facts are asserted.</p>",
+      "zh": "<p>示例汽车 Fixture Motors 是明确虚构的公司，仅用于网站测试，不代表任何真实企业或商业事实。</p>",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Fictional source placeholder — example.com (test only, not evidence)",
+      "url": "https://example.com/fixture-motors",
+      "date": "2026-10-01",
+      "tier": "A"
+    }
+  ]
+}

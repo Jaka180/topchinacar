@@ -267,6 +267,7 @@ function brandCardHTML(b, lang) {
       <div class="brand-card-thumb${b.image ? ' has-photo' : ''}">${b.image ? `<img src="/${b.image}" alt="${b.name}" loading="lazy" decoding="async" />` : brandMarkSVG(b)}</div>
       <div class="brand-card-body">
         ${parentBadge}
+        ${b.hasResearch ? `<span class="research-badge">${lang === 'zh' ? '深度研究' : 'Deep dive'}</span>` : ''}
         <h3 class="brand-card-name"><a href="/chinese-car-brands/${b.id}" style="color:inherit;text-decoration:none;">${b.name}</a></h3>
         <div class="brand-card-cn">${b.cn}</div>
         <p class="brand-card-desc">${b['desc_' + lang]}</p>
