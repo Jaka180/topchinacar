@@ -894,7 +894,9 @@ ${FOOTER}
 <script src="/js/i18n.js?v=${BUILD_V}"></script>
 <script src="/js/articles-data.js?v=${BUILD_V}"></script>
 <script src="/js/pages.js?v=${BUILD_V}"></script>
+<script src="/js/turnstile.js?v=${BUILD_V}"></script>
 <script src="/js/app.js?v=${BUILD_V}"></script>
+<script src="/js/intel.js?v=${BUILD_V}"></script>
 </body>
 </html>
 `;
@@ -1293,6 +1295,15 @@ if (SOURCE_POOL) {
     if (navIndex !== -1) NAV.splice(navIndex, 1);
   }
 }
+
+// ---- People Intel & Tips pages (/people, /tips) ----
+const { registerPeoplePages } = require('./lib/people.js');
+registerPeoplePages({
+  pages: PAGES,
+  pagesZh: PAGES_ZH,
+  pageRoutes: PAGE_ROUTES,
+  getLang: vm.runInContext('getLang', sandbox)
+});
 
 // ---- Generate pages (EN + /zh mirror) ----
 let count = 0;
