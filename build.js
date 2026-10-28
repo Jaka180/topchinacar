@@ -13,7 +13,6 @@ const { NAV, footerHTML } = require('./lib/site-chrome');
 const { articleEdition } = require('./lib/editions');
 const { briefingsMain } = require('./lib/briefings');
 const { homeMain } = require('./lib/home');
-const { writePlaceholderPages } = require('./lib/placeholders');
 const {
   companiesIndexHTML,
   companyStructureHTML,
@@ -1328,7 +1327,6 @@ for (const [route, meta] of Object.entries(PAGES)) {
   count++;
 }
 
-writePlaceholderPages({ root: ROOT, pageHTML, writeZh, zhChrome });
 writeMethodologyPages({ root: ROOT, pageHTML, writeZh, zhChrome, webPageJsonLd });
 
 // ---- Brand detail pages (/chinese-car-brands/<id>) ----
