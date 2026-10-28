@@ -3169,3 +3169,40 @@ th[aria-sort='descending'] .sales-sort-btn::after {
   .sales-select { min-width: 0; width: 100%; }
   .sales-control { flex-direction: column; align-items: flex-start; }
 }
+
+/* 公司深度研究：正文宽度适合长文，移动端表格独立滚动。 */
+.company-research { margin: 40px 0; border-top: 2px solid var(--line); padding-top: 28px; color: var(--ink-soft); font-family: var(--sans); line-height: 1.85; overflow-wrap: anywhere; }
+.company-research h2 { color: var(--ink); font-size: 28px; margin-bottom: 16px; }
+.company-research h3 { color: var(--ink); font-size: 23px; margin: 0 0 20px; line-height: 1.4; }
+.company-research h4 { margin: 24px 0 14px; line-height: 1.5; }
+.company-research p, .company-research ul, .company-research ol { margin: 16px 0; }
+.company-research a { color: var(--accent-deep); text-decoration: underline; text-underline-offset: 3px; }
+.research-meta, .research-sources span { color: var(--muted); font-size: 13px; }
+.research-toc { display: flex; flex-wrap: wrap; gap: 10px 20px; background: var(--paper-2); padding: 20px; border-radius: var(--r-md); margin: 24px 0; }
+.research-toc a { font-size: 14px; padding: 4px 0; }
+.research-section { padding: 24px 0; scroll-margin-top: 100px; }
+.research-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; }
+.research-facts > div { background: var(--paper-2); padding: 18px; border-radius: var(--r-sm); }
+.research-facts dt { color: var(--muted); font-size: 13px; }
+.research-facts dd { margin: 8px 0 0; font-weight: 600; }
+.research-facts small { display: block; font-weight: 400; color: var(--muted); }
+.research-citation { font-size: 11px; margin-left: 3px; white-space: nowrap; }
+.research-timeline { padding-left: 24px; border-left: 2px solid var(--line); }
+.research-timeline li { padding: 8px 0 8px 12px; }
+.research-timeline time { font-family: var(--mono); color: var(--muted); }
+.research-table-scroll { max-width: 100%; overflow-x: auto; margin: 20px 0; border: 1px solid var(--line); }
+.company-research table { border-collapse: collapse; width: 100%; min-width: 680px; font-size: 14px; }
+.company-research caption { text-align: left; padding: 12px; color: var(--muted); }
+.company-research th, .company-research td { text-align: left; padding: 12px; border-bottom: 1px solid var(--line); vertical-align: top; min-width: 95px; }
+.company-research th { background: var(--paper-2); color: var(--ink); }
+.company-research blockquote { border-left: 3px solid var(--line); margin: 20px 0; padding-left: 20px; }
+.research-sources { padding-left: 28px; }
+.research-sources li { padding: 8px 0; scroll-margin-top: 100px; }
+.research-badge { display: inline-block; font: 12px var(--sans); color: var(--accent-deep); background: var(--paper-2); border: 1px solid var(--line); border-radius: var(--r-sm); padding: 4px 8px; margin-bottom: 12px; }
+@media (max-width: 640px) {
+  .company-research { font-size: 16px; line-height: 1.9; }
+  .company-research h2 { font-size: 25px; }
+  .research-section { padding: 20px 0; }
+  .research-toc { gap: 8px 16px; padding: 14px; }
+  .research-facts { grid-template-columns: 1fr; }
+}

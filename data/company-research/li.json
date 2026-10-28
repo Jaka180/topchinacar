@@ -1,0 +1,709 @@
+{
+  "id": "li",
+  "name_en": "Li Auto Inc.",
+  "name_zh": "理想汽车",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2015 (July 1), originally Chehejia",
+      "value_zh": "2015 年（7 月 1 日，前身车和家）",
+      "period": null,
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Beijing (Shunyi District), China",
+      "value_zh": "中国北京（顺义区）",
+      "period": null,
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (Cayman-incorporated, weighted voting rights)",
+      "value_zh": "民营（开曼注册，不同投票权）",
+      "period": null,
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "label_en": "Founder shareholding & voting power",
+      "label_zh": "创始人持股与投票权",
+      "value_en": "Li Xiang: 22.34% shareholding as of 2026-07-31; non-reserved matters: 68.87% total voting rights assuming all CEO Award Share performance conditions are met and all Award Premium is paid; 68.20% effective voting rights assuming no restrictions are released and no Award Premium is paid",
+      "value_zh": "李想：截至 2026-07-31 持股 22.34%；就非保留事项，68.87% 总投票权假设全部 CEO 奖励股份的业绩条件达成且奖励溢价全额支付；68.20% 有效投票权假设全部奖励股份限制均未解除且奖励溢价均未支付",
+      "period": "2026-07-31",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Nasdaq: LI; HKEX: 2015",
+      "value_zh": "纳斯达克：LI；港交所：2015",
+      "period": null,
+      "source_ids": [
+        "s12",
+        "s5"
+      ]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "30,728",
+      "value_zh": "30,728 人",
+      "period": "2025-12-31",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "RMB 112.3 billion",
+      "value_zh": "人民币 1,123 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Net income attributable to ordinary shareholders (FY2025)",
+      "label_zh": "净利润（归母，2025 财年）",
+      "value_en": "RMB 1,124.4 million",
+      "value_zh": "人民币 11.24 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "label_en": "Vehicle deliveries (2025)",
+      "label_zh": "销量（2025 年）",
+      "value_en": "406,343 units",
+      "value_zh": "40.63 万辆",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Overseas deliveries",
+      "label_zh": "海外销量",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": "2025",
+      "source_ids": [
+        "s5"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2015-07-01",
+      "event_en": "Li Xiang founds Chehejia (车和家), later renamed Li Auto, as a premium smart EV company headquartered in Beijing.",
+      "event_zh": "李想创立车和家（后更名为理想汽车），定位豪华智能电动汽车公司，总部位于北京。",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2018-10-18",
+      "event_en": "Li Auto unveils its first product, the Li ONE, an extended-range electric (EREV) large SUV.",
+      "event_zh": "发布首款产品理想 ONE，一款增程式电动大型 SUV。",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2019-04-10",
+      "event_en": "The Li ONE is launched at a national uniform retail price of RMB328,000 (post-subsidy); volume production starts in November 2019 and first deliveries begin in December 2019.",
+      "event_zh": "理想 ONE 上市，全国统一零售价 32.80 万元（补贴后）；同年 11 月启动量产，12 月起开始交付。",
+      "source_ids": [
+        "s8",
+        "s5"
+      ]
+    },
+    {
+      "date": "2020-07-30",
+      "event_en": "Li Auto prices its Nasdaq IPO at US$11.50 per ADS (95 million ADSs) and lists under the symbol LI.",
+      "event_zh": "在纳斯达克完成首次公开募股定价（每 ADS 11.5 美元，共 9,500 万股 ADS），代码 LI 挂牌。",
+      "source_ids": [
+        "s12",
+        "s8"
+      ]
+    },
+    {
+      "date": "2021-08-12",
+      "event_en": "Li Auto completes a dual primary listing on the Main Board of the Hong Kong Stock Exchange under code 2015 (issue price HK$118 per share).",
+      "event_zh": "在香港联交所主板完成双重主要上市（代码 2015），发售价每股 118 港元。",
+      "source_ids": [
+        "s24",
+        "s30"
+      ]
+    },
+    {
+      "date": "2022",
+      "event_en": "Li Auto launches the Li L9 and Li L8 six-seat EREV SUVs, moving to the L-series lineup; full-year deliveries reach 133,246 units.",
+      "event_zh": "推出理想 L9、理想 L8 增程 SUV，进入 L 系列多车型阶段；全年交付 133,246 辆。",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2023-02-08",
+      "event_en": "Li Auto officially launches the Li L7, a five-seat flagship family SUV.",
+      "event_zh": "正式上市理想 L7，一款五座旗舰家庭 SUV。",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2023",
+      "event_en": "Li Auto reports FY2023 deliveries of 376,030 vehicles and its first full-year profit, with consolidated net income of RMB11.81 billion.",
+      "event_zh": "2023 年交付 376,030 辆，首次实现全年盈利，合并净利润 118.1 亿元。",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2024-03",
+      "event_en": "Li Auto launches the Li MEGA, its first battery-electric model, a family flagship MPV.",
+      "event_zh": "推出首款纯电车型理想 MEGA，一款家庭科技旗舰 MPV。",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "date": "2024-04",
+      "event_en": "Li Auto launches the Li L6, a five-seat premium family SUV; full-year 2024 deliveries reach a record 500,508 units.",
+      "event_zh": "推出理想 L6 五座豪华家庭 SUV；2024 年全年交付 500,508 辆，创历史新高。",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "date": "2025-08",
+      "event_en": "Deliveries of the Li i8, the first BEV SUV built on the high-voltage platform, begin (standard version RMB339,800); the Li i6 (standard RMB249,800) follows on 2025-09-26.",
+      "event_zh": "纯电 SUV 理想 i8 开启交付（标配版 33.98 万元）；理想 i6（标配版 24.98 万元）于 2025-09-26 发布。",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2025",
+      "event_en": "Li Auto enters Uzbekistan, Kazakhstan, Azerbaijan and Egypt with L-series EREVs, and opens R&D centres in Germany and the United States.",
+      "event_zh": "正式进入乌兹别克斯坦、哈萨克斯坦、阿塞拜疆和埃及市场，销售 L 系列增程车型；并在德国、美国设立研发中心。",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "Li Auto launches the Livis AI glasses (from RMB1,999), extending into embodied-AI hardware.",
+      "event_zh": "发布 AI 眼镜 Livis（起售价 1,999 元），向具身智能硬件拓展。",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "event_en": "Li Auto announces a US$1.0 billion share repurchase program, its first buyback since listing.",
+      "event_zh": "宣布 10 亿美元股份回购计划，为上市以来首次回购。",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "event_en": "Li Auto launches the all-new Li L9 (Ultra RMB459,800, Livis RMB509,800), starting the L-series refresh.",
+      "event_zh": "发布全新一代理想 L9（Ultra 45.98 万元、Livis 50.98 万元），开启 L 系列换代。",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "event_en": "Li Auto launches the all-new Li L8, now a five-seat flagship SUV (Ultra RMB369,800, Livis RMB429,800).",
+      "event_zh": "发布全新理想 L8，改为五座旗舰 SUV（Ultra 36.98 万元、Livis 42.98 万元）。",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "event_en": "Li Auto launches the new Li L6, a versatile all-wheel-drive SUV priced at RMB249,800 (standard configuration).",
+      "event_zh": "发布新一代理想 L6，全轮驱动 SUV，标准配置售价 24.98 万元。",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "Li Auto launches the new-generation Li MEGA (2026-09-02, RMB509,800) and the all-new Li i9 six-seat BEV SUV (2026-09-16, RMB369,800).",
+      "event_zh": "发布新一代理想 MEGA（2026-09-02，50.98 万元）与全新六座纯电 SUV 理想 i9（2026-09-16，36.98 万元）。",
+      "source_ids": [
+        "s23",
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "event_en": "Li Auto makes its European debut at the Paris Motor Show, unveiling the European version Li 6; it plans to launch and begin deliveries in the Netherlands and Norway in Q1 2027.",
+      "event_zh": "在巴黎车展完成欧洲首秀，发布欧洲版 Li 6；公司计划 2027 年第一季度在荷兰、挪威上市并开始交付。",
+      "source_ids": [
+        "s19"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "event_en": "Li Auto launches the 2026 Li i6, priced at RMB249,800 for its standard configuration, with deliveries planned to commence within a week.",
+      "event_zh": "发布 2026 款理想 i6，标准配置售价 24.98 万元，公司计划一周内开始交付。",
+      "source_ids": [
+        "s16"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Li L series",
+      "name_zh": "理想 L 系列",
+      "role_en": "Extended-range electric (EREV) family SUVs.",
+      "role_zh": "增程式电动家庭 SUV 产品线。",
+      "price_band": "EREV SUVs; RMB249,800–509,800 (new Li L6 standard to all-new Li L9 Livis, October 2026)",
+      "founded": 2022,
+      "owner_note_en": "Wholly owned by Li Auto. Includes the Li L6 (five-seat), Li L7 (five-seat flagship), Li L8 (five-seat, refreshed 2026-06-23) and Li L9 (six-seat flagship, refreshed 2026-05-15). The all-new L9 is priced at RMB459,800 (Ultra) / RMB509,800 (Livis); the all-new L8 at RMB369,800 (Ultra) / RMB429,800 (Livis); the new L6 at RMB249,800.",
+      "owner_note_zh": "理想汽车全资持有。包括理想 L6（五座）、L7（五座旗舰）、L8（五座，2026-06-23 换代）与 L9（六座旗舰，2026-05-15 换代）。全新 L9 售价 Ultra 45.98 万元 / Livis 50.98 万元，全新 L8 售价 Ultra 36.98 万元 / Livis 42.98 万元，新一代 L6 售价 24.98 万元。",
+      "status": "active",
+      "source_ids": [
+        "s13",
+        "s14",
+        "s15",
+        "s5"
+      ]
+    },
+    {
+      "name_en": "Li i series",
+      "name_zh": "理想 i 系列",
+      "role_en": "Battery-electric (BEV) SUVs built on the high-voltage pure-electric platform.",
+      "role_zh": "基于高压纯电平台打造的纯电 SUV 产品线。",
+      "price_band": "BEV SUVs; i6 from RMB249,800, i8 from RMB339,800, i9 RMB369,800 (standard/Home versions)",
+      "founded": 2025,
+      "owner_note_en": "Wholly owned by Li Auto. Includes the Li i8 (six-seat BEV SUV, deliveries from August 2025, standard RMB339,800), the Li i6 (five-seat BEV SUV, launched 2025-09-26, standard RMB249,800; the 2026 Li i6 launched 2026-10-28 at RMB249,800) and the Li i9 (six-seat BEV SUV, launched 2026-09-16 at RMB369,800). The i8 has dual-motor all-wheel drive as standard; its 97.8 kWh battery provides 720 km of CLTC range. The original i6 has a CLTC range of 720 km in two-wheel-drive form. Both models use 5C super-charging batteries and can add about 500 km of range in 10 minutes of charging, according to the company.",
+      "owner_note_zh": "理想汽车全资持有。包括理想 i8（六座纯电 SUV，2025 年 8 月开启交付，标配版 33.98 万元）、理想 i6（五座纯电 SUV，2025-09-26 发布，标配版 24.98 万元；2026 款 i6 于 2026-10-28 上市，起售价 24.98 万元）与理想 i9（六座纯电 SUV，2026-09-16 上市，36.98 万元）。i8 标配双电机四驱，97.8 kWh 电池对应 CLTC 续航 720 公里；旧款 i6 的 720 公里 CLTC 续航对应两驱版。公司披露，两款车型均搭载 5C 超充电池，充电 10 分钟可补充约 500 公里续航。",
+      "status": "active",
+      "source_ids": [
+        "s5",
+        "s16",
+        "s21",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "name_en": "Li MEGA",
+      "name_zh": "理想 MEGA",
+      "role_en": "Battery-electric family flagship MPV, the company's super-flagship model.",
+      "role_zh": "纯电家庭科技旗舰 MPV，公司超级旗舰产品。",
+      "price_band": "BEV MPV; RMB509,800 (new-generation MEGA Home, launched 2026-09-02)",
+      "founded": 2024,
+      "owner_note_en": "Wholly owned by Li Auto. The company's first BEV model, launched March 2024. A new-generation Li MEGA (standard configuration) launched 2026-09-02 at RMB509,800. According to the 2025 annual report, the MEGA was the top-selling model in China's RMB500,000-and-above MPV and BEV markets in 2025.",
+      "owner_note_zh": "理想汽车全资持有。公司首款纯电车型，2024 年 3 月上市。新一代理想 MEGA（标准配置）于 2026-09-02 上市，售价 50.98 万元。据 2025 年年报，理想 MEGA 成为 2025 年人民币 50 万元及以上中国 MPV 市场和纯电市场的双料销量冠军。",
+      "status": "active",
+      "source_ids": [
+        "s5",
+        "s23"
+      ]
+    },
+    {
+      "name_en": "Livis",
+      "name_zh": "Livis（AI 眼镜）",
+      "role_en": "AI glasses product line, extending Li Auto's embodied-AI strategy beyond vehicles.",
+      "role_zh": "AI 眼镜产品线，将理想汽车的具身智能战略延伸至汽车之外。",
+      "price_band": "From RMB1,999",
+      "founded": 2025,
+      "owner_note_en": "Wholly owned by Li Auto. Launched December 2025 with Zeiss lenses, a 36-gram frame, the 'Li Xiang Tong Xue' (Ideal Companion) agent and the proprietary Livis OS, with integration with Li Auto's in-vehicle systems. The company reported that over 75% of users wear it daily.",
+      "owner_note_zh": "理想汽车全资持有。2025 年 12 月发布，标配蔡司镜片、镜架重 36 克，搭载「理想同学」智能体与自研 Livis OS，可与理想汽车车机系统联动。公司称超过 75% 的用户每天佩戴。",
+      "status": "active",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "name_en": "Li ONE",
+      "name_zh": "理想 ONE",
+      "role_en": "Extended-range electric large SUV, the company's first product.",
+      "role_zh": "增程式电动大型 SUV，公司首款产品。",
+      "price_band": null,
+      "founded": 2019,
+      "owner_note_en": "Discontinued. Unveiled 2018-10-18, launched 2019-04-10 at RMB328,000 (post-subsidy), with volume production from November 2019 and deliveries from December 2019. It was phased out as the L series took over the EREV SUV lineup.",
+      "owner_note_zh": "已停售。2018-10-18 发布，2019-04-10 上市（补贴后 32.80 万元），2019 年 11 月开始量产、2019 年 12 月起交付。后由 L 系列接替其增程 SUV 定位。",
+      "status": "discontinued",
+      "source_ids": [
+        "s8"
+      ]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "US GAAP",
+    "rows": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 27010,
+        "gross_margin_pct": 21.3,
+        "net_profit": -321,
+        "rnd": 3286,
+        "vehicle_sales": 26128,
+        "operating_cash_flow": 8340,
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 45287,
+        "gross_margin_pct": 19.4,
+        "net_profit": -2012,
+        "rnd": 6780,
+        "vehicle_sales": 44106,
+        "operating_cash_flow": 7380,
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 123851,
+        "gross_margin_pct": 22.2,
+        "net_profit": 11704,
+        "rnd": 10586,
+        "vehicle_sales": 120295,
+        "operating_cash_flow": 50694,
+        "source_ids": [
+          "s3",
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 144460,
+        "gross_margin_pct": 20.5,
+        "net_profit": 8032,
+        "rnd": 11071,
+        "vehicle_sales": 138538,
+        "operating_cash_flow": 15933,
+        "source_ids": [
+          "s2",
+          "s1"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 112313,
+        "gross_margin_pct": 18.7,
+        "net_profit": 1124,
+        "rnd": 11315,
+        "vehicle_sales": 106683,
+        "operating_cash_flow": -8611,
+        "source_ids": [
+          "s1",
+          "s5"
+        ]
+      }
+    ],
+    "note_en": "Fiscal year ends December 31. Figures are under U.S. GAAP, in RMB millions, taken from Li Auto's unaudited fourth-quarter and full-year earnings releases and consistent with the audited 2025 annual report (HKEX) and 2026 interim report. The 'net_profit' column is net income (loss) attributable to ordinary shareholders of Li Auto Inc., i.e. the figure attributable to the parent company (the '归母' figure, which for Li Auto equals the amount attributable to the company's ordinary shareholders). Because of noncontrolling interests, this attributable figure is slightly lower than consolidated net income (loss): FY2025 consolidated net income RMB1,139.4 million versus RMB1,124.4 million attributable; FY2024 RMB8,045.3 million versus RMB8,032.4 million; FY2023 RMB11,809.1 million versus RMB11,704 million; FY2022 consolidated net loss RMB2,032.3 million versus RMB2,012 million attributable. Values are converted from the RMB-thousand figures in the original statements (divided by 1,000) and rounded to the nearest million. Optional columns are vehicle sales (汽车业务收入) and net cash from operating activities (经营现金流).",
+    "note_zh": "财年截至 12 月 31 日。数据按美国通用会计准则（US GAAP）、人民币百万元计，取自理想汽车未经审计的第四季度及全年业绩公告，并与经审计的 2025 年年报（港交所）及 2026 年半年报一致。「net_profit」列为归属于理想汽车普通股股东（即归属于母公司股东，归母口径，对理想汽车而言即归属于公司普通股股东的金额）的净利润/净亏损。因存在少数股东损益，该口径略低于合并净利润（亏损）：2025 财年合并净利润 11.39 亿元、归母 11.24 亿元；2024 财年合并 80.45 亿元、归母 80.32 亿元；2023 财年合并 118.09 亿元、归母 117.04 亿元；2022 财年合并净亏损 20.32 亿元、归母 20.12 亿元。数值由原始报表（人民币千元）除以 1,000 后四舍五入至百万元。可选列为汽车业务收入（vehicle_sales）与经营活动现金流量净额（operating_cash_flow）。"
+  },
+  "sections": {
+    "overview": {
+      "source_ids": [
+        "s8",
+        "s5",
+        "s1",
+        "s19",
+        "s12",
+        "s30"
+      ],
+      "en": "<p>Li Auto Inc. (Nasdaq: LI; HKEX: 2015) is a Beijing-headquartered company that designs, develops, manufactures and sells premium smart electric vehicles. It was founded by Li Xiang on 1 July 2015 (originally as Chehejia).<a href=\"https://www.lixiang.com/news/lixiangbaike/318.html\">[s8]</a> It priced its Nasdaq IPO in July 2020.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-pricing-initial-public-offering\">[s12]</a> On 12 August 2021, it completed a dual primary listing on the Main Board of the Hong Kong Stock Exchange.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2021-financial/\">[s30]</a> The company earns most of its revenue from vehicle sales, with the remainder from other sales and services, and it pioneered the commercialisation of extended-range electric vehicles (EREVs) in China.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><p>Li Auto is a major participant in China's new-energy vehicle market. It posted its first full-year profit in 2023 and delivered over 500,000 vehicles in 2024. In 2025, deliveries and revenue declined year over year, but the company remained profitable, with full-year revenue of RMB112.3 billion and attributable net income of RMB1.1 billion.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a> Its products are concentrated in the RMB200,000-and-above mid-to-high-end family market.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><p>The company has extended its lineup from EREV SUVs into battery-electric SUVs and an MPV, and in December 2025 began selling the Livis AI glasses; it unveiled its first Europe-bound model, the Li 6, at the Paris Motor Show in October 2026.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a></p>",
+      "zh": "<p>理想汽车（Li Auto Inc.，纳斯达克：LI；港交所：2015）是一家总部位于北京的公司，设计、研发、制造并销售豪华智能电动汽车。公司由李想于 2015 年 7 月 1 日创立（前身车和家）。<a href=\"https://www.lixiang.com/news/lixiangbaike/318.html\">[s8]</a> 2020 年 7 月完成纳斯达克 IPO 定价。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-pricing-initial-public-offering\">[s12]</a> 2021 年 8 月 12 日在香港联交所主板完成双重主要上市。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2021-financial/\">[s30]</a> 公司收入主要来自整车销售，其余来自其他销售与服务，是中国增程式电动汽车（EREV）商业化的先行者。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><p>理想汽车是中国新能源汽车市场的主要参与者之一，2023 年首次实现全年盈利，2024 年交付突破 50 万辆。2025 年交付量与营收同比下滑，但全年仍保持盈利：全年营收 1,123 亿元、归母净利润 11 亿元。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a> 其产品集中在人民币 20 万元及以上的中高端家庭市场。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><p>公司产品线已从增程 SUV 扩展到纯电 SUV 与 MPV，并于 2025 年 12 月开始销售 Livis AI 眼镜；2026 年 10 月在巴黎车展发布面向欧洲的首款车型 Li 6。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a></p>"
+    },
+    "current": {
+      "source_ids": [
+        "s1",
+        "s6",
+        "s5",
+        "s21",
+        "s23",
+        "s9",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s7",
+        "s3",
+        "s2",
+        "s28",
+        "s29",
+        "s11",
+        "s19"
+      ],
+      "en": "<h3>Business structure</h3><p>Li Auto generates the bulk of its revenue from vehicle sales. In FY2025, vehicle sales were RMB106.7 billion of RMB112.3 billion total revenues; in Q2 2026, vehicle sales were RMB24.1 billion of RMB25.7 billion total revenues.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> Its portfolio spans three vehicle lines — the L series (EREV SUVs: L6, L7, L8, L9), the i series (BEV SUVs: i6, i8, i9) and the MEGA (BEV MPV) — plus the Livis AI glasses.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> As of 31 December 2025 the company had 30,728 employees, comprising 6,041 in R&D, 9,433 in production, 12,634 in sales and 2,620 in general and administrative functions.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> On product strategy, the company entered the family market with EREVs and became profitable first on that route, then accelerated its BEV push from 2025, launching the i8, i6 and i9 and the new-generation MEGA to form a dual EREV-BEV product structure.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-li-i9-pioneering-flagship-family-suv\">[s21]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-mega-high-tech-flagship-mpv\">[s23]</a></p><h3>Product lineup and deliveries</h3><p>As of October 2026 the in-market lineup comprises the EREV Li L6, L7, L8 and L9, the BEV Li i6, i8 and i9, and the Li MEGA.<a href=\"https://www.lixiang.com/news.html\">[s9]</a> 2026 has been a dense model-refresh year: the company completed the L9, L8 and L6 refreshes by July (15 May, 23 June and 16 July, respectively), and launched the i9, the new-generation MEGA and the 2026 i6 in the second half.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-all-new-li-l9-pioneering-embodied-ai\">[s13]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-all-new-li-l8-five-seat-flagship-suv\">[s14]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-l6-versatile-all-wheel-drive-suv\">[s15]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-li-i9-pioneering-flagship-family-suv\">[s21]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-mega-high-tech-flagship-mpv\">[s23]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-2026-li-i6-pioneering-five-seat-suv\">[s16]</a> Full-year 2025 deliveries of 406,343 broke down quarterly into 92,864, 111,074, 93,211 and 109,194 vehicles.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a> Deliveries were 95,142 vehicles in Q1 2026 and 98,330 in Q2 2026.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> Deliveries in the first nine months of 2026 were 293,436 vehicles, calculated as the 1,833,651 cumulative deliveries at 30 September 2026 less the 1,540,215 cumulative deliveries at the end of 2025.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf\">[s7]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> September 2026 deliveries were 31,817 vehicles, per the company's voluntary announcement.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf\">[s7]</a></p><h3>Domestic market position</h3><p>According to the 2025 annual report, Li Auto's full-year 2025 sales ranked among the top three in China's RMB200,000-and-above SUV market; per its Q2 2026 release, in the first half of 2026 it was the best-selling Chinese brand in China's RMB200,000-and-above NEV market.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p><h3>Profitability</h3><p>Li Auto reported its first full-year profit in 2023. Consolidated net income was RMB11.81 billion in 2023, RMB8.05 billion in 2024 and RMB1.14 billion in 2025, while gross margin declined from 22.2% in 2023 to 18.7% in 2025. The company attributed the decline in FY2025 gross margin from 20.5% in FY2024 to 18.7% to lower vehicle margin, which it said mainly reflected changes in product mix.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-2/\">[s3]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-3/\">[s2]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a> On cash flow, operating cash flow turned to a net outflow of RMB8.6 billion in FY2025, the first negative reading in recent years.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></p><h3>Core technology platforms</h3><p>Li Auto develops extended-range systems, high-voltage BEV platforms and 5C super-charging batteries. The i8 comes with dual-motor all-wheel drive as standard; its 97.8 kWh battery provides 720 km of CLTC range. The original i6 offers 720 km of CLTC range in two-wheel-drive form. The company says both models can add about 500 km of range in 10 minutes of charging.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-li-i8-six-seat-battery-electric-family-suv/\">[s28]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000318.pdf\">[s29]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> Its VLA driver model has been rolled out to Li Auto AD Max vehicles since September 2025.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> Its in-house 5nm Mach M100 driver-assistance chip (1,280 TOPS) was already in mass production and deployed in vehicles in the first half of 2026. The new L9 and L8, whose deliveries began in May and June respectively, use one M100 chip in Ultra trim and two in Livis trim.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> In 2025 the company added 3.07 billion kilometres of assisted-driving mileage, and its super-charging network expanded through the year.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> On R&D spending, the company invested RMB10.59 billion in 2023, RMB11.07 billion in 2024 and RMB11.32 billion in 2025.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-2/\">[s3]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-3/\">[s2]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></p><h3>Sales and service network</h3><p>Li Auto operates a direct sales and after-sales service system and continues to expand its own 5C super-charging network, complementing the charging experience of its high-voltage BEV models.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> It also upgrades its intelligent cockpit and assisted-driving functions through OTA updates, and offers separate charging solutions for its EREV and BEV users.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><h3>Manufacturing and capacity</h3><p>Li Auto operates two self-built production bases, in Changzhou and Beijing, as described in its 2025 annual report.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> The company's extended-range and battery-electric models are produced at these bases.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><h3>Overseas business</h3><p>Li Auto entered Uzbekistan, Kazakhstan, Azerbaijan and Egypt in 2025, selling L-series EREVs, and opened R&D centres in Germany and the United States.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> It does not separately disclose overseas deliveries.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> At the Paris Motor Show in October 2026 it unveiled the European version Li 6 and said it plans to launch and begin deliveries in the Netherlands and Norway in Q1 2027, adopting a dual-powertrain strategy (BEV and EREV), with at least one new model a year in Europe from 2027 to 2029.<a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a> The 2026 interim report disclosed that the new L9 launched in Kazakhstan and Uzbekistan in July 2026 and local production had commenced in Kazakhstan.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a></p>",
+      "zh": "<h3>业务结构</h3><p>理想汽车收入主要来自整车销售。2025 财年汽车销售收入 1,067 亿元、收入总额 1,123 亿元；2026 年第二季度汽车销售收入 241 亿元、收入总额 257 亿元。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> 产品矩阵覆盖三条汽车产品线——L 系列（增程 SUV：L6、L7、L8、L9）、i 系列（纯电 SUV：i6、i8、i9）与 MEGA（纯电 MPV）——以及 Livis AI 眼镜。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 截至 2025 年 12 月 31 日，公司共有员工 30,728 人，其中研发 6,041 人、生产 9,433 人、销售 12,634 人、一般及管理 2,620 人。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 在产品战略上，公司以增程车型切入家庭市场并率先实现盈利，2025 年起加快纯电布局，先后推出 i8、i6、i9 与新一代 MEGA，形成增程与纯电并行的产品结构。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-li-i9-pioneering-flagship-family-suv\">[s21]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-mega-high-tech-flagship-mpv\">[s23]</a></p><h3>产品矩阵与销量</h3><p>截至 2026 年 10 月，理想汽车在售车型包括增程的理想 L6、L7、L8、L9，纯电的理想 i6、i8、i9 与理想 MEGA。<a href=\"https://www.lixiang.com/news.html\">[s9]</a> 2026 年公司进入密集产品更新期：截至 7 月先后完成 L9、L8、L6 换代（分别于 5 月 15 日、6 月 23 日、7 月 16 日上市），下半年推出 i9、新一代 MEGA 与 2026 款 i6。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-all-new-li-l9-pioneering-embodied-ai\">[s13]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-all-new-li-l8-five-seat-flagship-suv\">[s14]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-l6-versatile-all-wheel-drive-suv\">[s15]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-li-i9-pioneering-flagship-family-suv\">[s21]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-mega-high-tech-flagship-mpv\">[s23]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-2026-li-i6-pioneering-five-seat-suv\">[s16]</a> 2025 年全年交付 406,343 辆，四个季度交付分别为 92,864、111,074、93,211、109,194 辆。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a> 2026 年第一季度交付 95,142 辆、第二季度 98,330 辆。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> 2026 年前九个月交付 293,436 辆，按截至 2026 年 9 月 30 日历史累计交付 1,833,651 辆减去 2025 年末累计交付 1,540,215 辆计算。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf\">[s7]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 据公司自愿性公告，2026 年 9 月交付 31,817 辆。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf\">[s7]</a></p><h3>国内市场地位</h3><p>据 2025 年年报，2025 年全年理想汽车在人民币 20 万元及以上中国 SUV 市场的销量位居行业前三；据公司 2026 年第二季度公告，2026 年上半年其在人民币 20 万元及以上中国新能源汽车市场位居中国品牌销量榜首。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p><h3>盈利能力</h3><p>盈利能力方面，理想汽车 2023 年首次实现全年盈利，2023、2024、2025 三个财年的合并净利润分别为 118.1 亿元、80.5 亿元、11.4 亿元，毛利率由 2023 年的 22.2% 降至 2025 年的 18.7%。公司披露，2025 年毛利率由 2024 年的 20.5% 降至 18.7%，主要由于汽车毛利率下降，而汽车毛利率下降主要受产品组合变化影响。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-2/\">[s3]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-3/\">[s2]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a> 现金流方面，2025 财年经营活动现金流转为净流出 86 亿元，为近年首次为负。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></p><h3>核心技术平台</h3><p>理想汽车研发增程系统、高压纯电平台与 5C 超充电池。i8 标配双电机四驱，97.8 kWh 电池对应 CLTC 续航 720 公里；旧款 i6 的 720 公里 CLTC 续航对应两驱版。公司披露，两款车型充电 10 分钟可补充约 500 公里续航。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-li-i8-six-seat-battery-electric-family-suv/\">[s28]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000318.pdf\">[s29]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 自研 VLA 司机大模型自 2025 年 9 月起向理想 AD Max 车型全量推送。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 自研 5 纳米智驾芯片马赫 M100（1,280 TOPS）已于 2026 年上半年量产装车。5 月和 6 月分别开始交付的全新 L9、L8，其 Ultra 版本搭载一颗 M100，Livis 版本搭载两颗。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> 2025 年公司新增智能辅助驾驶里程 30.7 亿公里，全年超充网络持续扩张。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 研发投入方面，2023、2024、2025 财年公司研发投入分别为 105.9 亿元、110.7 亿元、113.2 亿元。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-2/\">[s3]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-3/\">[s2]</a><a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></p><h3>销售与服务网络</h3><p>理想汽车以直营体系覆盖销售与售后服务，并持续扩建自营 5C 超充网络，与高压纯电车型的补能体验配套。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 同时，公司通过 OTA 持续升级智能座舱与辅助驾驶功能，并分别面向增程与纯电用户提供补能方案。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><h3>工厂与产能</h3><p>理想汽车在常州与北京设有两座自建生产基地，如 2025 年年报所述。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 公司的增程与纯电车型分别在这两座基地生产。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><h3>海外业务</h3><p>理想汽车 2025 年进入乌兹别克斯坦、哈萨克斯坦、阿塞拜疆和埃及市场，销售 L 系列增程车型，并在德国、美国设立研发中心。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 公司不单独披露海外交付量。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 2026 年 10 月巴黎车展上，公司发布欧洲版 Li 6，并宣布计划于 2027 年第一季度在荷兰、挪威上市并开始交付，采取纯电与增程并行的双动力策略，并计划 2027—2029 年每年在欧洲推出至少一款新车型。<a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a> 2026 年半年报披露，全新 L9 于 2026 年 7 月在哈萨克斯坦、乌兹别克斯坦上市，哈萨克斯坦本地生产已启动。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a></p>"
+    },
+    "leadership": {
+      "source_ids": [
+        "s10",
+        "s26",
+        "s27",
+        "s25",
+        "s22",
+        "s11",
+        "s5",
+        "s31"
+      ],
+      "en": "<h3>Founder</h3><p>Xiang Li (Li Xiang) is the founder, executive director, chairman and chief executive officer. He founded Autohome, a leading Chinese automotive consumer internet platform (NYSE: ATHM; HKEX: 2518). On his role at Autohome there is a discrepancy between sources: Li Auto's investor-relations page states that he served as Autohome's president from 1999 to June 2015, while Autohome's own disclosure states that he was appointed president in May 2013 and stepped down on 12 June 2015 while remaining a director, having previously been an executive vice president.<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1527636/000119312515109453/d856243d20f.htm\">[s26]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1527636/000119312515221232/d942247dex991.htm\">[s27]</a> He was a director of NIO Inc. from May 2015 to September 2018, and an independent director of NavInfo (SZSE: 002405) from May 2017 to December 2021.<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></p><h3>Key management</h3><ul><li><strong>Xiang Li (Li Xiang)</strong> — founder, executive director, chairman and CEO.<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></li><li><strong>Tie Li (Li Tie)</strong> — executive director and chief financial officer, CFO since July 2016. Before joining Li Auto he was at Autohome from March 2008 to June 2016 (last role vice president), and before that at PwC's Beijing office from August 2002 to February 2008. He was an independent non-executive director of Gushengtang (HKEX: 2273) from November 2021 to May 2026.<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></li><li><strong>Donghui Ma (Ma Donghui)</strong> — executive director and president, in these roles since 1 January 2023; he was the group's chief engineer from September 2015 to December 2022.<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a><a href=\"https://ir.lixiang.com/system/files-encrypted/nasdaq_kms/assets/2023/12/26/3-43-00/Circulars%20of%20Annual%20General%20Meet.pdf\">[s25]</a> Before Li Auto he was dean of the research institute at Sany Heavy Industry's body company from June 2011, and earlier worked at IAT Automobile Technology and Jian Shi International Auto Design.<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></li><li><strong>Yan Xie (Xie Yan)</strong> — chief technology officer. The 2025 annual report states that he became senior vice president on 18 July 2022 and CTO on 12 December 2022, after stints at Huawei, Alibaba (as AliOS chief architect) and Intel.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000366.pdf\">[s22]</a></li></ul><h3>Shareholding and governance</h3><p>Li Auto uses a weighted-voting-rights (WVR) structure: Class A ordinary shares carry one vote each and Class B ordinary shares ten votes each, except that each share carries one vote on reserved matters.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> According to the 2026 interim report, as of 31 July 2026 Li Xiang held 22.34% of the shares. For non-reserved matters, 68.87% total voting rights assumes all CEO Award Share performance conditions are met and all Award Premium is paid; 68.20% effective voting rights assumes no restrictions are released and no Award Premium is paid.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> The 2025 annual report defines the controlling shareholders as Li Xiang and his intermediate holding companies Amp Lee Ltd. and Cyric Point Enterprises Limited: the Class B shares are held through Amp Lee Ltd., which is wholly owned by Cyric Point Enterprises Limited, the entire interest of which is held by a trust established by Li Xiang.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><p>On directors' share interests, the 2026 interim report discloses (as of 30 June 2026) that executive director and CFO Tie Li held 14,373,299 shares through a controlled corporation, plus share options over 20,000,000 shares and 400,000 restricted share units (RSUs); executive director and president Donghui Ma held 407,680 shares, plus share options over 24,000,000 shares and 1,500,000 RSUs.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> For non-executive directors, the 2025 Form 20-F (pp. 137–139) reports beneficial ownership as of 18 March 2026: Xing Wang, 17.2% of total ordinary shares and 6.9% of voting power; Zheng Fan, 3.9% and 1.6%, respectively. Wang's reported interest includes 5.1% held by Zijin Global Inc. and 12.1% held by Inspired Elite Investments Limited. Inspired Elite is a wholly owned subsidiary of Meituan; Wang is deemed interested in its shares because he controls Meituan. These are beneficial ownership figures, including deemed interests, rather than direct personal holdings, and use total ordinary shares rather than each share class as the ownership denominator.<a href=\"https://ir.lixiang.com/static-files/fb9e1598-72c6-4d7e-8a5a-b125a759104b\">[s31]</a> The board comprises three executive directors (Xiang Li, Tie Li, Donghui Ma), two non-executive directors (Xing Wang, Zheng Fan) and three independent non-executive directors (Xing Xiao, Hongqiang Zhao, Zhenyu Jiang).<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p>",
+      "zh": "<h3>创始人</h3><p>李想为理想汽车创始人、执行董事、董事长兼首席执行官。他创办了汽车之家这一中国领先的汽车消费者互联网平台（纽交所：ATHM；港交所：2518）。关于其在汽车之家的职务，各来源存在分歧：理想汽车投资者关系页面称其 1999 年至 2015 年 6 月担任汽车之家总裁；而汽车之家自身的披露显示，李想于 2013 年 5 月被任命为总裁、2015 年 6 月 12 日卸任并继续担任董事，此前为执行副总裁。<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1527636/000119312515109453/d856243d20f.htm\">[s26]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1527636/000119312515221232/d942247dex991.htm\">[s27]</a> 此外，李想于 2015 年 5 月至 2018 年 9 月担任蔚来汽车（NIO Inc.）董事，2017 年 5 月至 2021 年 12 月担任北京四维图新（深交所：002405）独立董事。<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></p><h3>核心管理层</h3><ul><li><strong>李想（Xiang Li）</strong> — 创始人、执行董事、董事长兼首席执行官。<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></li><li><strong>李铁（Tie Li）</strong> — 执行董事兼首席财务官，2016 年 7 月起任 CFO。加入理想前，2008 年 3 月至 2016 年 6 月任职汽车之家（最后职位副总裁），此前 2002 年 8 月至 2008 年 2 月任职普华永道北京办公室；2021 年 11 月至 2026 年 5 月任固生堂（港交所：2273）独立非执行董事。<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></li><li><strong>马东辉（Donghui Ma）</strong> — 执行董事兼总裁，自 2023 年 1 月 1 日起任现职；2015 年 9 月至 2022 年 12 月任集团总工程师。<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a><a href=\"https://ir.lixiang.com/system/files-encrypted/nasdaq_kms/assets/2023/12/26/3-43-00/Circulars%20of%20Annual%20General%20Meet.pdf\">[s25]</a> 此前自 2011 年 6 月起任三一重工车身有限公司研究院院长，更早任职于阿尔特汽车技术及简式国际汽车设计。<a href=\"https://ir.lixiang.com/zh-hans/node?mobile=1&amp;page=21\">[s10]</a></li><li><strong>谢炎（Yan Xie）</strong> — 首席技术官。据 2025 年年报，其于 2022 年 7 月 18 日起任高级副总裁、2022 年 12 月 12 日起任首席技术官，此前曾在华为、阿里巴巴（任 AliOS 首席架构师）、英特尔任职。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000366.pdf\">[s22]</a></li></ul><h3>股权与治理</h3><p>理想汽车采用不同投票权（WVR）架构：A 类普通股每股 1 票，B 类普通股每股 10 票，惟就保留事项每股 1 票。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> 据 2026 年半年报，截至 2026 年 7 月 31 日，李想持股 22.34%。就非保留事项，68.87% 总投票权假设全部 CEO 奖励股份的业绩条件达成且奖励溢价全额支付；68.20% 有效投票权假设全部奖励股份限制均未解除且奖励溢价均未支付。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> 2025 年年报将「控股股东」定义为李想及其中介控股公司 Amp Lee Ltd.、Cyric Point Enterprises Limited：B 类股份由 Amp Lee Ltd. 持有，后者由 Cyric Point Enterprises Limited 全资拥有，其全部权益由李想设立的信託持有。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p><p>董事持股方面，据 2026 年半年报（截至 2026 年 6 月 30 日），执行董事兼 CFO 李铁通过其控股公司持有 14,373,299 股，另持涉及 20,000,000 股的购股权及 400,000 份受限制股份单位（RSU）；执行董事兼总裁马东辉持有 407,680 股，另持涉及 24,000,000 股的购股权及 1,500,000 份 RSU。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a> 非执行董事方面，2025 年 Form 20-F 第 137—139 页披露截至 2026 年 3 月 18 日的实益拥有权益：王兴占普通股总数的 17.2%、投票权的 6.9%；樊铮分别为 3.9%、1.6%。王兴的披露权益包括 Zijin Global Inc. 持有的 5.1% 和 Inspired Elite Investments Limited 持有的 12.1%。Inspired Elite 是美团的全资附属公司，王兴因控制美团而被视为拥有该公司所持股份的权益。上述为包含视作拥有权益的实益拥有口径，并非个人直接持股；持股比例以普通股总数为分母，并非按各股份类别计算。<a href=\"https://ir.lixiang.com/static-files/fb9e1598-72c6-4d7e-8a5a-b125a759104b\">[s31]</a> 董事会由三名执行董事（李想、李铁、马东辉）、两名非执行董事（王兴、樊铮）与三名独立非执行董事（肖星、赵宏强、姜震宇）组成。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></p>"
+    },
+    "competition": {
+      "source_ids": [
+        "s5",
+        "s6",
+        "s1"
+      ],
+      "en": "<h3>Main competitors</h3><p>Li Auto competes in China's RMB200,000-and-above new-energy vehicle market against BYD, Tesla, Huawei-backed brands (such as AITO), NIO, XPeng, Leapmotor and Zeekr. Its EREV L series competes in the family SUV segment, while its i series and MEGA compete in the BEV SUV and MPV segments.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> In the EREV family-SUV segment, the Huawei-backed AITO brand is a direct competitor.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> According to the 2025 annual report, Li Auto's full-year 2025 sales remained among the top three in China's RMB200,000-and-above SUV market, and in the first half of 2026 it was the best-selling domestic (Chinese) brand in China's RMB200,000-and-above NEV market, per the company's Q2 2026 release.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> Its delivery trajectory rose from 133,246 units in 2022 to 376,030 in 2023 and a record 500,508 in 2024, before easing to 406,343 in 2025.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></p><h3>Strengths</h3><ul><li>Our judgment: First-mover position in EREVs and a clear family-user positioning, which supported profitability in 2023 and 2024 and record 2024 deliveries of 500,508 units.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></li><li>Our judgment: A large cash position (RMB87.5 billion as of 30 June 2026), funding R&amp;D and the share repurchase program.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li>Our judgment: In-house technology spanning EREV systems, 5C batteries, the VLA driver model and the Mach M100 chip, supporting the BEV transition and embodied AI.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></li><li>Our judgment: Product-definition strength for family scenarios and the maturity of its EREV technology have built a relatively clear brand position in the RMB200,000-and-above family-SUV market.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></li></ul><h3>Weaknesses</h3><ul><li>Our judgment: 2025 was a down year: deliveries fell 18.8% to 406,343 units, revenue fell 22.3%, and full-year operating cash flow turned to a net outflow of RMB8.6 billion.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></li><li>Our judgment: Gross margin is under pressure through the model-refresh cycle: 18.7% for FY2025, falling to 11.0% in Q2 2026.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li>Our judgment: the concurrent L-series refresh and expansion of the BEV lineup increase the importance of execution across both powertrains; the company completed the L-series upgrade in 2026 and was refreshing its BEV lineup as of its August results release.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li></ul><p>Our judgment: the fall in gross margin from 20.5% in FY2024 to 18.7% in FY2025 and 11.0% in Q2 2026 makes product mix and cost control central to the model transition. Price competition may constrain margin recovery, but the reported margin decline alone does not establish its contribution; the company attributed the FY2025 vehicle-margin decline mainly to product mix. A recovery therefore depends on demand for refreshed models and manufacturing efficiency, rather than on launches alone.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p>",
+      "zh": "<h3>主要对手</h3><p>理想汽车在中国 20 万元及以上新能源汽车市场与比亚迪、特斯拉、华为系品牌（如问界）、蔚来、小鹏、零跑、极氪竞争。其增程 L 系列主攻家庭 SUV 市场，i 系列与 MEGA 则进入纯电 SUV 与 MPV 市场。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 增程家庭 SUV 细分市场的直接竞品包括华为系问界（AITO）等品牌。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a> 据 2025 年年报，2025 年全年理想汽车在人民币 20 万元及以上中国 SUV 市场的销量仍位居行业前三；2026 年上半年在人民币 20 万元及以上中国新能源汽车市场位居中国品牌销量榜首（据公司第二季度公告）。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> 从交付轨迹看，公司交付量由 2022 年的 13.32 万辆增至 2023 年的 37.60 万辆、2024 年的 50.05 万辆，2025 年回落至 40.63 万辆。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></p><h3>优势</h3><ul><li>我们的判断：增程路线先发优势与清晰的家庭用户定位，支撑了 2023、2024 年盈利与 2024 年 500,508 辆的交付纪录。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></li><li>我们的判断：现金储备充裕（截至 2026 年 6 月 30 日为 875 亿元），支撑研发与股份回购。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li>我们的判断：自研技术覆盖增程系统、5C 电池、VLA 司机大模型与马赫 M100 芯片，支撑纯电与具身智能转型。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></li><li>我们的判断：面向家庭场景的产品定义能力与增程技术的成熟度，使其在 20 万元及以上家庭 SUV 市场建立了较清晰的品牌认知。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a></li></ul><h3>短板</h3><ul><li>我们的判断：2025 年业绩下滑：交付量下降 18.8% 至 406,343 辆，营收下降 22.3%，全年经营活动现金流转为净流出 86 亿元。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></li><li>我们的判断：换代周期中毛利率承压：2025 财年毛利率 18.7%，2026 年第二季度降至 11.0%。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li>我们的判断：L 系列换代与纯电产品线扩展同步推进，提高了两条动力路线协同执行的重要性；公司在 2026 年 8 月的业绩公告中称已完成 L 系列升级、正在焕新纯电产品线。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li></ul><p>我们的判断：毛利率由 2024 财年的 20.5% 降至 2025 财年的 18.7%、2026 年第二季度的 11.0%，使产品组合与成本控制成为换代期的重要变量。价格竞争可能制约毛利率修复，但仅凭毛利率下降无法确认其具体影响；公司对 2025 年汽车毛利率下降的解释主要是产品组合变化。盈利修复因此取决于换代车型的需求与制造效率，不能仅凭新品上市推定。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p>"
+    },
+    "outlook": {
+      "source_ids": [
+        "s6",
+        "s7",
+        "s16",
+        "s19",
+        "s1",
+        "s5"
+      ],
+      "en": "<h3>Company targets and latest results</h3><p>For Q3 2026, the company guided deliveries of 95,000–100,000 vehicles and total revenues of RMB26.6 billion to RMB28.0 billion, issued in the Q2 2026 release on 26 August 2026 and now historical.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> By the most recent disclosure before the as-of date, September 2026 deliveries were 31,817 vehicles.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf\">[s7]</a> The 2026 Li i6 was launched on 28 October 2026 at RMB249,800, with the company planning to commence deliveries within a week.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-2026-li-i6-pioneering-five-seat-suv\">[s16]</a> On 12 October 2026 the company announced its European entry plan: the European Li 6 will launch and begin deliveries in the Netherlands and Norway in Q1 2027, with a dual-powertrain strategy (BEV and EREV) and at least one new model a year in Europe from 2027 to 2029.<a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a> In the 26 August 2026 release, chairman and CEO Xiang Li said the company had completed the L-series upgrade and was refreshing its BEV lineup. CFO Tie Li separately discussed the sequential improvement in gross margin to 11.0% and expected further expansion in the second half as product mix improved.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p><h3>Our analysis</h3><p>Our judgment: the completion of the L-series refresh (all-new L9, L8 and L6) and the new BEV models (i9, 2026 i6) point to a stabilising second half of 2026, and CFO Tie Li said the company expects gross margin to recover in the second half as the product mix improves.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> This judgment rests on conditions that are not guaranteed: that refreshed models sustain orders without heavy discounting, that BEV capacity ramps smoothly, and that overseas expansion does not erode margins.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> An alternative outcome is that weak demand or further discounting offsets the benefit of refreshed models. Company guidance is a dated expectation rather than a confirmed result; neither the model launches nor management comments establish that a recovery has already occurred.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p><p>Our judgment: negative operating cash flow in FY2025 and negative free cash flow in Q2 2026 increase the importance of capital discipline while the company funds product development and buybacks. If production is disrupted or overseas sales and service systems take longer to establish, deliveries or cash conversion could weaken. These are conditional risks, based on the disclosed cash flows, manufacturing footprint and European rollout plan; they do not establish that such disruptions have occurred.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a></p>",
+      "zh": "<h3>公司目标与最新业绩</h3><p>对 2026 年第三季度，公司指引交付 9.5 万—10 万辆、收入总额 266 亿—280 亿元；该指引发布于 2026 年 8 月 26 日的第二季度业绩公告，现为历史信息。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> 截至研究截止日前最近一次披露，2026 年 9 月交付 31,817 辆。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf\">[s7]</a> 2026 款理想 i6 已于 2026 年 10 月 28 日上市，起售价 24.98 万元，公司计划一周内开始交付。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-2026-li-i6-pioneering-five-seat-suv\">[s16]</a> 2026 年 10 月 12 日，公司公布欧洲计划：欧洲版 Li 6 将于 2027 年第一季度在荷兰、挪威上市并开始交付，采取纯电与增程并行的双动力策略，2027—2029 年每年在欧洲推出至少一款新车型。<a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a> 在 2026 年 8 月 26 日的公告中，董事长兼 CEO 李想表示，公司已完成 L 系列升级，并正在焕新纯电产品线。CFO 李铁随后谈及毛利率环比提升至 11.0%，并预期随产品组合优化，下半年毛利率进一步提升。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p><h3>我们的分析</h3><p>我们的判断：L 系列换代（全新 L9、L8、L6）与纯电新车型（i9、2026 款 i6）的推进指向 2026 年下半年企稳，CFO 李铁亦表示随产品结构优化预期下半年毛利率提升。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> 但这一判断依赖若干并不必然成立的条件：换代车型在不大幅促销的前提下维持订单、纯电产能平稳爬坡、海外拓展不侵蚀毛利。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a> 另一种可能是需求偏弱或进一步促销抵消换代收益。公司的业绩指引是特定日期的预期，并非已实现结果；新品上市及管理层表态均不足以确认盈利已经修复。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></p><p>我们的判断：2025 财年经营现金流净流出、2026 年第二季度自由现金流为负，使公司在投入产品研发及实施回购时更需要控制资金使用节奏。若生产受到扰动，或海外销售与服务体系建设慢于计划，交付与现金回笼可能承压。这些是依据已披露现金流、生产布局和欧洲业务计划提出的条件性风险，并不表示相关扰动已经发生。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a></p>"
+    },
+    "risks": {
+      "source_ids": [
+        "s1",
+        "s6",
+        "s19",
+        "s5",
+        "s11"
+      ],
+      "en": "<ul><li><strong>Operating risk: </strong>In 2025 deliveries fell 18.8%, revenue fell 22.3% and operating cash flow was a net outflow of RMB8.6 billion.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></li><li><strong>Margins: </strong>Gross margin was 18.7% in FY2025 and 11.0% in Q2 2026. The company attributed the FY2025 decline mainly to lower vehicle margin resulting from product mix.<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li><strong>Financial risk: </strong>Q2 2026 free cash flow, a non-GAAP measure, was negative RMB1.3 billion. The company announced a US$1.0 billion share repurchase program in March 2026.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li><strong>Product and technology risk: </strong>The company identifies the development of appealing vehicles, product defects, competition and customer-order cancellations among the risks in its forward-looking-statement disclosure.<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li><strong>Overseas execution: </strong>The European Li 6 launch and first deliveries in the Netherlands and Norway were planned for Q1 2027 as of the October 2026 announcement. These remained future milestones at the research cutoff.<a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a></li><li><strong>Manufacturing footprint: </strong>The 2025 annual report describes two self-built production bases in China, in Changzhou and Beijing. The 2026 interim report subsequently disclosed the commencement of local production in Kazakhstan.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a></li><li><strong>Governance risk: </strong>The interim report warns that the WVR beneficiary's interests may differ from those of shareholders as a whole. As of 31 July 2026 Li Xiang held 22.34% of shares. On non-reserved matters, 68.87% total voting rights assumes all CEO Award Share performance conditions are met and all Award Premium is paid; 68.20% effective voting rights assumes no restrictions are released and no Award Premium is paid.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a></li></ul>",
+      "zh": "<ul><li><strong>经营风险：</strong>2025 年交付量下降 18.8%、营收下降 22.3%，经营活动现金流净流出 86 亿元。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a></li><li><strong>毛利率：</strong>2025 财年毛利率为 18.7%，2026 年第二季度为 11.0%。公司披露，2025 年毛利率下降主要由于汽车毛利率下降，后者主要受产品组合变化影响。<a href=\"https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/\">[s1]</a><a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li><strong>财务风险：</strong>2026 年第二季度自由现金流（非美国公认会计准则指标）为负 13 亿元；公司于 2026 年 3 月宣布 10 亿美元股份回购计划。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li><strong>产品与技术风险：</strong>公司在前瞻性陈述披露中将开发有吸引力的车型、产品缺陷、竞争及客户取消订单等列为风险因素。<a href=\"https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial\">[s6]</a></li><li><strong>海外执行：</strong>截至 2026 年 10 月公告，欧洲版 Li 6 计划于 2027 年第一季度在荷兰、挪威上市并开始交付。研究截止日时，这些仍属于未来计划。<a href=\"https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6\">[s19]</a></li><li><strong>生产布局：</strong>2025 年年报披露中国境内常州、北京两座自建生产基地；2026 年半年报随后披露哈萨克斯坦本地生产启动。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a></li><li><strong>治理风险：</strong>半年报提示，不同投票权受益人的利益可能与全体股东的利益不一致。截至 2026 年 7 月 31 日，李想持股 22.34%；就非保留事项，68.87% 总投票权假设全部 CEO 奖励股份的业绩条件达成且奖励溢价全额支付；68.20% 有效投票权假设全部奖励股份限制均未解除且奖励溢价均未支付。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf\">[s11]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Li Auto Inc. Announces Unaudited Fourth Quarter and Full Year 2025 Financial Results",
+      "url": "https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-4/",
+      "date": "2026-03-12",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "Li Auto Inc. Announces Unaudited Fourth Quarter and Full Year 2024 Financial Results",
+      "url": "https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-3/",
+      "date": "2025-03-14",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Li Auto Inc. Announces Unaudited Fourth Quarter and Full Year 2023 Financial Results",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-2/",
+      "date": "2024-02-26",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "Li Auto Inc. Announces Unaudited Fourth Quarter and Full Year 2022 Financial Results",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-fourth-quarter-and-full-year-1/",
+      "date": "2023-02-27",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "Li Auto Inc. 2025 Annual Report (HKEX)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000367_c.pdf",
+      "date": "2026-04-10",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Li Auto Inc. Announces Unaudited Second Quarter 2026 Financial Results",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial",
+      "date": "2026-08-26",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "Li Auto Inc. Voluntary Announcement — September 2026 Delivery Update (HKEX)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100038_c.pdf",
+      "date": "2026-10-01",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "Li Auto official company profile (关于理想汽车)",
+      "url": "https://www.lixiang.com/news/lixiangbaike/318.html",
+      "date": "2021-03-18",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "Li Auto official news and model lineup",
+      "url": "https://www.lixiang.com/news.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "Li Auto Board of Directors and Senior Management (IR)",
+      "url": "https://ir.lixiang.com/zh-hans/node?mobile=1&page=21",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s11",
+      "name": "Li Auto Inc. 2026 Interim Report (HKEX)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0908/2026090800186.pdf",
+      "date": "2026-09-08",
+      "tier": "A"
+    },
+    {
+      "id": "s12",
+      "name": "Li Auto Inc. Announces Pricing of Initial Public Offering",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-pricing-initial-public-offering",
+      "date": "2020-07-30",
+      "tier": "A"
+    },
+    {
+      "id": "s13",
+      "name": "Li Auto Inc. Launches the All-New Li L9, Pioneering Embodied AI in Mobility",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-all-new-li-l9-pioneering-embodied-ai",
+      "date": "2026-05-15",
+      "tier": "A"
+    },
+    {
+      "id": "s14",
+      "name": "Li Auto Inc. Launches the All-New Li L8, a Five-Seat Flagship SUV",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-all-new-li-l8-five-seat-flagship-suv",
+      "date": "2026-06-23",
+      "tier": "A"
+    },
+    {
+      "id": "s15",
+      "name": "Li Auto Inc. Launches the New Li L6, a Versatile All-Wheel Drive SUV",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-l6-versatile-all-wheel-drive-suv",
+      "date": "2026-07-16",
+      "tier": "A"
+    },
+    {
+      "id": "s16",
+      "name": "Li Auto Inc. Launches 2026 Li i6, a Pioneering Five-Seat SUV",
+      "url": "https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-2026-li-i6-pioneering-five-seat-suv",
+      "date": "2026-10-28",
+      "tier": "A"
+    },
+    {
+      "id": "s19",
+      "name": "Li Auto Makes European Premiere at Paris Motor Show, Unveils European Version Li 6 (press release)",
+      "url": "https://oilandgas.einnews.com/pr_news/949052895/li-auto-makes-european-premiere-at-paris-motor-show-unveils-european-version-li-6",
+      "date": "2026-10-12",
+      "tier": "A"
+    },
+    {
+      "id": "s21",
+      "name": "Li Auto Inc. Launches Li i9, a Pioneering Flagship Family SUV",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-li-i9-pioneering-flagship-family-suv",
+      "date": "2026-09-16",
+      "tier": "A"
+    },
+    {
+      "id": "s22",
+      "name": "Li Auto Inc. 2025 Annual Report (HKEX, English; directors and senior management)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000366.pdf",
+      "date": "2026-04-10",
+      "tier": "A"
+    },
+    {
+      "id": "s23",
+      "name": "Li Auto Inc. Launches the New Li MEGA, a High-Tech Flagship MPV",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-new-li-mega-high-tech-flagship-mpv",
+      "date": "2026-09-02",
+      "tier": "A"
+    },
+    {
+      "id": "s24",
+      "name": "Li Auto Inc. Announces Pricing of Global Offering",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-pricing-global-offering/",
+      "date": "2021-08-06",
+      "tier": "A"
+    },
+    {
+      "id": "s25",
+      "name": "Li Auto Inc. Circular of Annual General Meeting (April 24, 2023)",
+      "url": "https://ir.lixiang.com/system/files-encrypted/nasdaq_kms/assets/2023/12/26/3-43-00/Circulars%20of%20Annual%20General%20Meet.pdf",
+      "date": "2023-04-24",
+      "tier": "A"
+    },
+    {
+      "id": "s26",
+      "name": "Autohome Inc. 2014 Annual Report (Form 20-F)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1527636/000119312515109453/d856243d20f.htm",
+      "date": "2015-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s27",
+      "name": "Autohome Inc. Announces Management Change (Form 6-K, Exhibit 99.1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1527636/000119312515221232/d942247dex991.htm",
+      "date": "2015-06-12",
+      "tier": "A"
+    },
+    {
+      "id": "s28",
+      "name": "Li Auto Inc. Launches Li i8, a Six-Seat Battery Electric Family SUV",
+      "url": "https://ir.lixiang.com/zh-hans/news-releases/news-release-details/li-auto-inc-launches-li-i8-six-seat-battery-electric-family-suv/",
+      "date": "2025-07-29",
+      "tier": "A"
+    },
+    {
+      "id": "s29",
+      "name": "Li Auto Inc. 2025 Environmental, Social and Governance Report (HKEX), p. 41",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000318.pdf",
+      "date": "2026-04-10",
+      "tier": "A"
+    },
+    {
+      "id": "s30",
+      "name": "Li Auto Inc. Announces Unaudited Second Quarter 2021 Financial Results (Hong Kong Dual Primary Listing)",
+      "url": "https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2021-financial/",
+      "date": "2021-08-30",
+      "tier": "A"
+    },
+    {
+      "id": "s31",
+      "name": "Li Auto Inc. 2025 Annual Report (Form 20-F), pp. 137–139; beneficial ownership as of March 18, 2026",
+      "url": "https://ir.lixiang.com/static-files/fb9e1598-72c6-4d7e-8a5a-b125a759104b",
+      "date": "2026-04-10",
+      "tier": "A"
+    }
+  ]
+}

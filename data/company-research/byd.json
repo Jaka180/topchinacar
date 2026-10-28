@@ -1,0 +1,351 @@
+{
+  "id": "byd",
+  "name_en": "BYD Company Limited",
+  "name_zh": "比亚迪股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "18 Nov 1994 (company website) / Feb 1995 (Shenzhen BYD Industrial registered)",
+      "value_zh": "1994 年 11 月 18 日（官网口径）／1995 年 2 月注册比亚迪实业",
+      "period": null,
+      "source_ids": ["s10", "s29"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shenzhen, Guangdong, China",
+      "value_zh": "广东省深圳市",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private",
+      "value_zh": "民营",
+      "period": null,
+      "source_ids": ["s27"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Wang Chuanfu",
+      "value_zh": "王传福",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点和代码",
+      "value_en": "SZSE 002594 (A shares); HKEX 01211 (H shares)",
+      "value_zh": "深交所 002594（A 股）；港交所 01211（H 股）",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "869,622",
+      "value_zh": "86.96 万人",
+      "period": "2025-12-31",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "CNY 803.965 billion",
+      "value_zh": "8039.65 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1", "s34"]
+    },
+    {
+      "label_en": "Net profit attributable to owners of the parent (latest fiscal year)",
+      "label_zh": "最近财年归母净利润",
+      "value_en": "CNY 32.619 billion",
+      "value_zh": "326.19 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1", "s34"]
+    },
+    {
+      "label_en": "NEV sales (latest year)",
+      "label_zh": "最近一年销量",
+      "value_en": "4,602,436 new-energy vehicles",
+      "value_zh": "新能源汽车 460.24 万辆",
+      "period": "2025",
+      "source_ids": ["s3", "s2"]
+    },
+    {
+      "label_en": "Overseas sales (latest year)",
+      "label_zh": "最近一年海外销量",
+      "value_en": "Exceeded 1 million units (+145% year on year)",
+      "value_zh": "首次突破 100 万辆（同比 +145%）",
+      "period": "2025",
+      "source_ids": ["s9"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1995-02",
+      "event_en": "Wang Chuanfu and Lv Xiangyang register Shenzhen BYD Industrial Co., Ltd., starting with rechargeable batteries. The company website dates the founding to 18 November 1994.",
+      "event_zh": "王传福与吕向阳注册成立深圳市比亚迪实业有限公司，以二次充电电池起步（公司官网载成立日为 1994 年 11 月 18 日）。",
+      "source_ids": ["s10", "s29"]
+    },
+    {
+      "date": "2002-07-31",
+      "event_en": "Lists H shares on the Hong Kong Stock Exchange (01211.HK) at HK$10.95 per share.",
+      "event_zh": "在香港联交所主板上市（H 股，01211.HK），发行价 10.95 港元。",
+      "source_ids": ["s10", "s34"]
+    },
+    {
+      "date": "2003-01",
+      "event_en": "Acquires Xi'an Qinchuan Automobile and enters vehicle manufacturing.",
+      "event_zh": "收购西安秦川汽车有限责任公司，进入汽车制造行业。",
+      "source_ids": ["s10", "s27"]
+    },
+    {
+      "date": "2005-09",
+      "event_en": "Launches the F3, its first mass-market sedan.",
+      "event_zh": "首款主力轿车 F3 上市。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2008-09",
+      "event_en": "Berkshire Hathaway's MidAmerican Energy subscribes 225 million shares at HK$8 per share (about US$230 million).",
+      "event_zh": "伯克希尔·哈撒韦旗下中美能源控股公司以每股 8 港元认购 2.25 亿股（约 2.3 亿美元）。",
+      "source_ids": ["s10", "s27"]
+    },
+    {
+      "date": "2010-05",
+      "event_en": "Forms Shenzhen BYD Daimler New Technology, a 50/50 joint venture with Daimler (the predecessor of the Denza brand).",
+      "event_zh": "与戴姆勒成立深圳比亚迪戴姆勒新技术有限公司，双方各持 50%（腾势品牌前身）。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2011-06-30",
+      "event_en": "Lists A shares on the Shenzhen Stock Exchange (002594.SZ) at RMB18.00 per share.",
+      "event_zh": "在深圳证券交易所上市（A 股，002594.SZ），发行价 18.00 元人民币。",
+      "source_ids": ["s10", "s34"]
+    },
+    {
+      "date": "2020-03",
+      "event_en": "Releases the Blade Battery (lithium iron phosphate), first fitted to the Han EV.",
+      "event_zh": "发布刀片电池（磷酸铁锂），率先搭载于汉 EV。",
+      "source_ids": ["s33"]
+    },
+    {
+      "date": "2021-12",
+      "event_en": "Signs a restructuring agreement with Mercedes-Benz on Denza under which BYD would raise its stake to 90% and Mercedes-Benz would fall to 10%.",
+      "event_zh": "与梅赛德斯-奔驰就腾势签署股权重组协议，约定比亚迪持股提高至 90%、梅赛德斯-奔驰降至 10%。",
+      "source_ids": ["s24", "s32"]
+    },
+    {
+      "date": "2022-03",
+      "event_en": "Stops production of internal-combustion vehicles to focus on battery-electric and plug-in hybrid vehicles.",
+      "event_zh": "停止燃油汽车整车生产，专注纯电动和插电式混合动力汽车业务。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2022-06",
+      "event_en": "Completes the transfer of a 40% stake in Denza on 30 June 2022; BYD then holds 90% and Mercedes-Benz 10%.",
+      "event_zh": "6 月 30 日完成腾势 40% 股权转让，此后比亚迪持股 90%、梅赛德斯-奔驰持股 10%。",
+      "source_ids": ["s32"]
+    },
+    {
+      "date": "2023-01",
+      "event_en": "Officially launches the Yangwang ultra-luxury brand and the e4 (Yisifang) four-motor platform, unveiling the U8 and U9.",
+      "event_zh": "正式发布超豪华品牌仰望及易四方（e4）四电机平台，亮相 U8、U9。",
+      "source_ids": ["s23"]
+    },
+    {
+      "date": "2023-06",
+      "event_en": "Names the personalized brand Fangchengbao (formerly the 'F' brand).",
+      "event_zh": "个性化品牌定名方程豹（原「F」品牌）。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2023-08",
+      "event_en": "Fangchengbao holds its brand and technology launch, unveiling the DMO off-road platform and first model Bao 5.",
+      "event_zh": "方程豹举行品牌暨技术发布会，发布 DMO 电驱越野平台及首款车型豹 5。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2024-09",
+      "event_en": "Mercedes-Benz transfers its remaining 10% of Denza to BYD, making Denza wholly owned by BYD.",
+      "event_zh": "梅赛德斯-奔驰转让其持有的腾势剩余 10% 股权，比亚迪持股升至 100%，腾势成为比亚迪全资品牌。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Overseas sales exceed one million units for the first time (+145% year on year), and BYD enters the global top five automakers by volume.",
+      "event_zh": "海外销量首次突破 100 万辆（同比增长 145%），并首次进入全球车企销量前五。",
+      "source_ids": ["s9", "s21"]
+    },
+    {
+      "date": "2026-02",
+      "event_en": "Unveils Linghui, its fifth car brand, positioned for B-end fleet, ride-hailing and government procurement as well as C-end family use, with an independent channel system.",
+      "event_zh": "发布第五个汽车品牌领汇，面向 B 端对公营运（公务、网约车、租赁）与 C 端家用双场景，拥有独立渠道体系。",
+      "source_ids": ["s18", "s2"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "Releases the second-generation Blade Battery and megawatt flash-charging technology on 5 March 2026.",
+      "event_zh": "3 月 5 日发布第二代刀片电池及兆瓦闪充技术。",
+      "source_ids": ["s31", "s9"]
+    },
+    {
+      "date": "2026-07",
+      "event_en": "Produces its 17-millionth new-energy vehicle, a first among global automakers; on 28 July it ranks 91st on the Fortune Global 500 on its fifth consecutive appearance.",
+      "event_zh": "第 1700 万辆新能源汽车下线，成为首家达成这一里程碑的车企；7 月 28 日位列《财富》世界 500 强第 91 位（连续第 5 年上榜）。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-09-29",
+      "event_en": "The ninth board of directors elects Wang Chuanfu chairman, Lv Xiangyang vice chairman, and appoints Wang Chuanfu president for a three-year term.",
+      "event_zh": "第九届董事会选举王传福为董事长、吕向阳为副董事长，并聘任王传福为总裁，任期三年。",
+      "source_ids": ["s19", "s20", "s30"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "BYD (Dynasty / Ocean series)",
+      "name_zh": "比亚迪（王朝 / 海洋系列）",
+      "role_en": "Mainstream passenger-car brand covering sedans, SUVs and MPVs across mass-market price points; the group's volume base.",
+      "role_zh": "主流乘用车品牌，覆盖轿车、SUV、MPV 的大众市场，是集团的销量基本盘。",
+      "price_band": "Roughly RMB 70,000–350,000",
+      "founded": 1995,
+      "owner_note_en": "Core brand of BYD Company Limited. The Dynasty series (Qin, Han, Tang, Song, Yuan, Xia) and Ocean series (Seal, Dolphin, Seagull, Sealion, Destroyer 05, Frigate 07).",
+      "owner_note_zh": "比亚迪股份有限公司核心品牌。王朝系列（秦、汉、唐、宋、元、夏）与海洋系列（海豹、海豚、海鸥、海狮、驱逐舰 05、护卫舰 07）。",
+      "status": "active",
+      "source_ids": ["s10", "s27"]
+    },
+    {
+      "name_en": "Denza",
+      "name_zh": "腾势",
+      "role_en": "Premium new-energy brand; historically a BYD–Daimler/Mercedes-Benz joint venture, now wholly owned by BYD. In H1 2026 its average transaction price reached about RMB 360,000, and its monthly sales passed 20,000 units in June 2026.",
+      "role_zh": "高端新能源品牌，原为比亚迪与戴姆勒/梅赛德斯-奔驰合资，现为比亚迪全资品牌。2026 年上半年产品均价约 36 万元，6 月单月销量首次突破 2 万辆。",
+      "price_band": null,
+      "founded": 2010,
+      "owner_note_en": "Founded 2010 as a 50/50 joint venture with Daimler. In December 2021 the parties signed a restructuring agreement; the 40% transfer completed on 30 June 2022 left BYD with 90% and Mercedes-Benz 10%; in September 2024 Mercedes-Benz transferred its remaining 10%, making Denza wholly owned by BYD. Models include D9, N7, N8, N9, Z9 GT and Z.",
+      "owner_note_zh": "2010 年与戴姆勒 50:50 合资成立。2021 年 12 月签署重组协议，2022 年 6 月 30 日完成 40% 股权转让后比亚迪持股 90%、梅赛德斯-奔驰持股 10%；2024 年 9 月梅赛德斯-奔驰转让剩余 10%，腾势成为比亚迪全资品牌。车型：D9、N7、N8、N9、Z9 GT、Z。",
+      "status": "active",
+      "source_ids": ["s24", "s32", "s15"]
+    },
+    {
+      "name_en": "Fangchengbao",
+      "name_zh": "方程豹",
+      "role_en": "Personalized, hardcore-off-road and performance brand; its sales reached 160,000 units in H1 2026 (+163%) and 43,200 in September 2026 (+79%).",
+      "role_zh": "个性化、专业越野与性能品牌；2026 年上半年销量 16 万辆（同比 +163%），9 月单月 4.32 万辆（同比 +79%）。",
+      "price_band": "Roughly RMB 133,800–400,000",
+      "founded": 2023,
+      "owner_note_en": "Wholly owned BYD brand, named June 2023 and launched August 2023. Models: Bao 5, Bao 8, Titan 3 and Titan 7. The regular Titan 3 starts at RMB 133,800. Its flash-charging version was introduced in March 2026; a 510KM version was added in August 2026, priced from RMB 143,800.",
+      "owner_note_zh": "比亚迪全资品牌，2023 年 6 月定名、8 月发布。车型：豹 5、豹 8、钛 3、钛 7。钛 3 普通版起售价 13.38 万元；闪充版于 2026 年 3 月推出，2026 年 8 月加推 510KM 版，14.38 万元起。",
+      "status": "active",
+      "source_ids": ["s11", "s12", "s13", "s15", "s22", "s36"]
+    },
+    {
+      "name_en": "Yangwang",
+      "name_zh": "仰望",
+      "role_en": "Ultra-luxury brand spanning roughly the RMB 660,000 class to above one million yuan, built on the e4 (Yisifang) four-motor platform.",
+      "role_zh": "超豪华品牌，覆盖约 66 万元至百万元以上市场，搭载易四方四电机平台。",
+      "price_band": "From roughly RMB 658,000 to above RMB 1 million",
+      "founded": 2023,
+      "owner_note_en": "Wholly owned BYD brand, launched January 2023 with the e4 (Yisifang) four-motor platform. Models: U8, U9 and U7 (the 2026 U7 starts at RMB 658,000).",
+      "owner_note_zh": "比亚迪全资品牌，2023 年 1 月发布，搭载易四方四电机平台。车型：U8、U9、U7（2026 款 U7 起售价 65.8 万元）。",
+      "status": "active",
+      "source_ids": ["s17", "s23"]
+    },
+    {
+      "name_en": "Linghui",
+      "name_zh": "领汇",
+      "role_en": "Fifth BYD car brand (launched February 2026), positioned for B-end fleet, ride-hailing and government procurement as well as C-end family use, with an independent channel system.",
+      "role_zh": "比亚迪第五个汽车品牌（2026 年 2 月发布），面向 B 端对公营运（公务、网约车、租赁）与 C 端家用双场景，拥有独立渠道体系。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "Independent sub-brand of BYD Automobile Industry Co., Ltd., following Dynasty/Ocean, Denza, Fangchengbao and Yangwang. Models: e7 (A-class BEV, launched April 2026, from RMB 95,800), e9 (flash-charging C-class sedan, launched 9 May 2026, RMB 150,800–169,800), M9 (MPV).",
+      "owner_note_zh": "比亚迪汽车工业有限公司旗下独立子品牌，继王朝/海洋、腾势、方程豹、仰望之后的第五个品牌。车型：e7（A 级纯电轿车，2026 年 4 月上市，9.58 万元起）、e9（闪充 C 级轿车，2026 年 5 月 9 日上市，15.08 万–16.98 万元）、M9（MPV）。",
+      "status": "active",
+      "source_ids": ["s2", "s18", "s38"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (Chinese Accounting Standards)",
+    "rows": [
+      { "fiscal_year": 2021, "revenue": 216142, "gross_margin_pct": 12.5, "net_profit": 3045, "rnd": 10627, "source_ids": ["s1", "s34", "s7"] },
+      { "fiscal_year": 2022, "revenue": 424061, "gross_margin_pct": 15.5, "net_profit": 16622, "rnd": 20223, "source_ids": ["s1", "s34", "s7"] },
+      { "fiscal_year": 2023, "revenue": 602315, "gross_margin_pct": 18.6, "net_profit": 30041, "rnd": 39918, "source_ids": ["s1", "s34", "s6"] },
+      { "fiscal_year": 2024, "revenue": 777102, "gross_margin_pct": 19.4, "net_profit": 40254, "rnd": 54161, "source_ids": ["s1", "s34", "s5"] },
+      { "fiscal_year": 2025, "revenue": 803965, "gross_margin_pct": 17.7, "net_profit": 32619, "rnd": 63441, "source_ids": ["s1", "s34", "s2"] }
+    ],
+    "note_en": "Unit: million yuan (CNY), prepared under PRC GAAP (Chinese Accounting Standards). Revenue, gross profit and net profit are from the five-year key financial comparison in BYD's investor-relations financial summary and its 2025 annual results announcement on HKEX, with 2021–2023 figures restated. Net profit is profit attributable to owners of the parent. Gross margin is gross profit divided by revenue; precise values are 12.45% (2021), 15.50% (2022), 18.58% (2023), 19.44% (2024) and 17.74% (2025), shown here to one decimal place. R&D investment (研发投入, including capitalized development expenditure) is RMB10.627bn (2021, per the 2022 annual report comparative), RMB20.223bn (2022), RMB39.918bn (2023), RMB54.161bn (2024) and RMB63.441bn (2025). This page does not constitute any trading recommendation.",
+    "note_zh": "单位：百万元人民币，按中国企业会计准则编制。营收、毛利与归母净利润取自比亚迪官网「投资者关系—财务摘要」五年比较（2021–2023 年为经重述数据）及港交所 2025 年年度业绩公布。净利润口径为归属于上市公司股东的净利润（归母）。毛利率按「毛利 ÷ 营业收入」计算，精确值分别为 2021 年 12.45%、2022 年 15.50%、2023 年 18.58%、2024 年 19.44%、2025 年 17.74%，表中保留一位小数（12.5、15.5、18.6、19.4、17.7）。研发投入为比亚迪披露口径（含资本化研发支出）：2021 年 106.27 亿元（取自 2022 年年度报告同比数据）、2022 年 202.23 亿元、2023 年 399.18 亿元、2024 年 541.61 亿元、2025 年 634.41 亿元。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>BYD Company Limited (比亚迪股份有限公司) is a privately owned, Shenzhen-headquartered automaker and new-energy technology group founded by Wang Chuanfu. Its website dates the founding to 18 November 1994, while Wang Chuanfu's official biography states that Shenzhen BYD Industrial Co., Ltd. was registered jointly with Lv Xiangyang in February 1995 and renamed BYD Company Limited on 11 June 2002; both dates are reported here. <a href=\"https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html\">[s10]</a> <a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm\">[s29]</a> It listed in Hong Kong in 2002 and Shenzhen in 2011, and its businesses span new-energy vehicles, handset components and assembly, rechargeable batteries and photovoltaics, and urban rail transit. <a href=\"https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html\">[s10]</a> In 2025 the automobile and related products segment recorded revenue of RMB648.65 billion, about 80.7% of the total. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><p>In 2025 BYD sold 4.60 million new-energy vehicles, keeping its position as the world's largest NEV maker and China's best-selling automaker and brand, and entering the global top five by group volume for the first time; overseas sales passed one million for the first time, up 145% year on year. <a href=\"https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-01-05/5e8359f5-1505-4050-9e32-fd46a356406b.pdf\">[s3]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> <a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a> Its pure-electric passenger-car sales of about 2.257 million in 2025 overtook Tesla's for the first time. <a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a> Its operations combine whole-vehicle manufacturing with in-house batteries, electric drives and power semiconductors. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> R&D investment was RMB63.44 billion in 2025 (+17%), ranking first among A-share listed companies for a second consecutive year. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> Annual sales rose from about 496,700 in 2016 to 4.60 million in 2025, passing 730,100 (2021), 1.8685 million (2022), 3.0244 million (2023) and 4.2721 million (2024). <a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a></p><p>In the six months ended 30 June 2026, revenue was RMB344.82 billion (−7.13% year on year) and profit attributable to owners of the parent was RMB12.33 billion (−20.54%); overseas revenue of RMB181.3 billion exceeded domestic revenue for the first time at 52.57% of the total. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s15]</a> In July 2026 the company ranked 91st on the Fortune Global 500, its fifth consecutive year on the list. <a href=\"https://www.byd.com/cn/detail631\">[s9]</a></p>",
+      "zh": "<p>比亚迪股份有限公司是一家总部位于广东深圳的民营整车制造与新能源科技集团，由王传福创立。公司官网载其成立于 1994 年 11 月 18 日；王传福官方履历载其于 1995 年 2 月与吕向阳共同注册成立深圳市比亚迪实业有限公司，2002 年 6 月 11 日变更为比亚迪股份有限公司，本文并列两种口径。<a href=\"https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html\">[s10]</a> <a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm\">[s29]</a> 公司先后于 2002 年、2011 年分别在港交所与深交所上市，业务覆盖新能源汽车、手机部件及组装、二次充电电池及光伏、城市轨道交通。<a href=\"https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html\">[s10]</a> 2025 年汽车及相关产品业务收入 6486.46 亿元，约占总营收的 80.7%。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><p>2025 年比亚迪销售新能源汽车 460.24 万辆，蝉联全球新能源汽车销量冠军与中国市场车企/品牌销量冠军，并首次进入全球车企销量前五；海外销量首次突破 100 万辆，同比增长 145%。<a href=\"https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-01-05/5e8359f5-1505-4050-9e32-fd46a356406b.pdf\">[s3]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> <a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a> 其纯电动乘用车销量约 225.7 万辆，首次超越特斯拉。<a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a> 公司同时具备整车制造与自产动力电池、电驱、功率半导体能力。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> 2025 年研发投入 634.41 亿元（同比 +17%），连续两年居 A 股上市公司研发投入第一。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 年度销量由 2016 年约 49.67 万辆增至 2025 年 460.24 万辆，其间依次越过 73.01 万辆（2021）、186.85 万辆（2022）、302.44 万辆（2023）、427.21 万辆（2024）。<a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a></p><p>截至 2026 年 6 月 30 日止六个月，公司营业收入 3448.15 亿元（同比 −7.13%），归属于上市公司股东的净利润 123.25 亿元（同比 −20.54%）；同期境外收入 1813 亿元、占总营收 52.57%，首次超过国内。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s15]</a> 2026 年 7 月，公司位列《财富》世界 500 强第 91 位（连续第 5 年上榜）。<a href=\"https://www.byd.com/cn/detail631\">[s9]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>BYD's main businesses are new-energy vehicles, handset components and assembly, and rechargeable batteries &amp; photovoltaics, plus urban rail transit. In 2025 the automobile and related products segment recorded revenue of RMB648.65 billion (+5.06% year on year, about 80.68% of the total), while handset components, assembly and other products recorded RMB155.24 billion (−2.74%, about 19.31%). <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> In H1 2026 the automobile segment recorded about RMB275.34 billion (−8.98%) at a 22.33% gross margin (+1.98 percentage points), while the electronic and other products segment recorded RMB69.41 billion (+0.96%, 20.13% of revenue) at a 5.04% margin. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cnstock.com/commonDetail/780233\">[s16]</a> By region, 2025 revenue from China (including Hong Kong, Macau and Taiwan) was RMB493.22 billion (−11.17%) and overseas revenue RMB310.74 billion (+40.05%), or 38.65% of the total; in H1 2026 overseas revenue rose to RMB181.3 billion, exceeding domestic revenue for the first time at 52.57%. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s15]</a> At 31 December 2025 total assets were RMB883.73 billion and equity attributable to owners of the parent RMB246.27 billion; by 30 June 2026 total assets had risen to RMB941.28 billion and equity attributable to owners of the parent to RMB260.82 billion. <a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a> <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a></p><h3>Technology and platforms</h3><p>BYD's vertically integrated stack covers the Blade Battery (first generation in 2020; second generation and megawatt flash-charging released on 5 March 2026, charging from 10% to 70% in about five minutes at room temperature), DM-i/DM-p plug-in hybrid systems, e-Platform 3.0, the e4 (Yisifang) four-motor platform on Yangwang, the DMO off-road platform on Fangchengbao, and the DiPilot / God's Eye assisted-driving systems. <a href=\"https://m.cyol.com/gb/articles/2026-06/10/content_0zYBBwtN8l.html\">[s31]</a> R&amp;D investment was RMB63.44 billion in 2025 (+17%), with about 127,700 R&amp;D personnel (14.68% of staff); first-quarter 2026 R&amp;D investment was RMB11.3 billion. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> On the charging network, the 10,000th flash-charging station opened in Shenzhen Longhua on 28 August 2026, covering 332 cities; the company plans 20,000 stations in China by end-2026. Separately, it plans 6,000 overseas stations; the cited announcement gives no completion deadline for the overseas target. <a href=\"https://www.byd.com/cn/detail633\">[s35]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a></p><h3>Factories and capacity</h3><p>Domestic vehicle bases include Shenzhen (Pingshan, headquarters), Xi'an, Changsha, Zhengzhou, Hefei, Changzhou and Jinan. <a href=\"https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html\">[s10]</a> Overseas, passenger-car plants in Thailand, Uzbekistan and Brazil are in operation (the Camacari plant in Brazil started production in July 2025; the Thai plant's 100,000th NEV rolled off the line on 21 September 2026 and marked two years of production in July 2026), the Szeged plant in Hungary is scheduled to start production in Q4 2026, and further capacity is under construction or planned in Indonesia, Cambodia, Turkey and Malaysia. <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> At end-2025 BYD operated a fleet of eight self-owned ro-ro car carriers. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><h3>Overseas business</h3><p>As of mid-2026 BYD operated in 121 countries and regions, with an overseas strategy described as 'Latin America leading, Europe breaking through, Asia-Pacific expanding on multiple fronts'. <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> Overseas sales passed one million in 2025 (+145% year on year), and exceeded 780,000 in H1 2026. <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> In September 2026 BYD sold 463,561 vehicles in total (+17.0% year on year), of which 180,700 were exported; January–September cumulative sales were 3,131,576, with overseas cumulative sales of 1.3430 million (+92.7%) and domestic cumulative sales of 1.7886 million (−30.2%). <a href=\"https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-10-08/9839ea61-0e30-46d2-942f-65fc14e57ff5.PDF\">[s4]</a> <a href=\"https://www.byd.com/cn/detail635\">[s8]</a> <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> On 16 September it launched the Denza Z9GT in Bangkok, bringing the second-generation Blade Battery and flash charging to Thailand; Brazil's first flash-charging station opened on 1 October; Denza Z, Z9GT and D9 entered Europe, and the first overseas-dedicated model, the BYD RACCO (海獭), arrived in Japan. <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> In Brazil, BYD registered 22,200 units in September with an 8.5% market share (fourth overall), leading the BEV and PHEV segments with 65% and 39% shares respectively. <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> Company-wide, January–May 2026 cumulative sales were 1.4050 million (−20.32%), with May sales of 383,453 (+0.26%) including 160,644 exported (+80.4%). <a href=\"https://m.cyol.com/gb/articles/2026-06/10/content_0zYBBwtN8l.html\">[s31]</a></p>",
+      "zh": "<h3>业务结构</h3><p>比亚迪主营新能源汽车、手机部件及组装、二次充电电池及光伏，并拓展城市轨道交通。2025 年汽车及相关产品业务收入 6486.46 亿元（同比 +5.06%，约占总营收 80.68%），手机部件、组装及其他产品收入 1552.37 亿元（同比 −2.74%，约占 19.31%）。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> 2026 年上半年汽车业务收入约 2753.41 亿元（同比 −8.98%），毛利率 22.33%（同比 +1.98 个百分点）；电子及其他产品收入 694.05 亿元（同比 +0.96%，占 20.13%），毛利率 5.04%。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cnstock.com/commonDetail/780233\">[s16]</a> 分区域看，2025 年中国（含港澳台）营收 4932.24 亿元（同比 −11.17%），境外营收 3107.41 亿元（同比 +40.05%），占总营收 38.65%；2026 年上半年境外收入 1813 亿元，占总营收 52.57%，首次超过国内。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s15]</a> 截至 2025 年 12 月 31 日，公司总资产 8837.30 亿元、归属于上市公司股东的净资产 2462.75 亿元；2026 年 6 月末总资产升至 9412.78 亿元、归母净资产 2608.18 亿元。<a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a> <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a></p><h3>技术与平台</h3><p>比亚迪的垂直整合体系覆盖刀片电池（第一代 2020 年发布；2026 年 3 月 5 日发布第二代及兆瓦闪充，常温下 10% 充至 70% 约需 5 分钟）、DM-i/DM-p 插电混动系统、e 平台 3.0、仰望的易四方（e4）四电机平台、方程豹的 DMO 越野平台，以及 DiPilot / 天神之眼辅助驾驶系统。<a href=\"https://m.cyol.com/gb/articles/2026-06/10/content_0zYBBwtN8l.html\">[s31]</a> 2025 年研发投入 634.41 亿元（同比 +17%），研发人员约 12.77 万人、占员工总数 14.68%；2026 年一季度研发投入 113 亿元。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 补能网络方面，2026 年 8 月 28 日第 10000 座闪充站在深圳龙华落成，覆盖 332 座城市；公司计划 2026 年底前在国内建成 20000 座闪充站；另计划在海外建设 6000 座，所引公告未注明海外目标的完成期限。<a href=\"https://www.byd.com/cn/detail633\">[s35]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a></p><h3>工厂与产能</h3><p>国内整车基地包括深圳（坪山，总部）、西安、长沙、郑州、合肥、常州、济南等。<a href=\"https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html\">[s10]</a> 海外方面，泰国、乌兹别克斯坦、巴西乘用车工厂已投产（巴西卡马萨里工厂 2025 年 7 月投产；泰国工厂 2026 年 7 月迎来投产两周年，9 月 21 日第 10 万辆新能源汽车下线），匈牙利塞格德工厂计划 2026 年第四季度投产，印尼、柬埔寨、土耳其、马来西亚等市场另有在建或规划产能。<a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 截至 2025 年底自有滚装船队 8 艘。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><h3>海外业务</h3><p>截至 2026 年年中，比亚迪业务已遍布全球 121 个国家及地区，公司将出海格局概括为「拉美领跑、欧洲突破、亚太多点开花」。<a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 2025 年海外销量首次突破 100 万辆（同比 +145%），2026 年上半年海外销量超 78 万辆。<a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 2026 年 9 月整体销量 46.36 万辆（同比 +17.0%），其中出口 18.07 万辆；1–9 月累计销量 313.16 万辆，其中海外累计 134.30 万辆（同比 +92.7%）、国内累计 178.86 万辆（同比 −30.2%）。<a href=\"https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-10-08/9839ea61-0e30-46d2-942f-65fc14e57ff5.PDF\">[s4]</a> <a href=\"https://www.byd.com/cn/detail635\">[s8]</a> <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> 9 月 16 日在泰国曼谷发布腾势 Z9GT，首次将第二代刀片电池及闪充技术带入泰国；巴西首座闪充站 10 月 1 日投运；腾势 Z、Z9GT 与 D9 进入欧洲市场，首款海外专研车型海獭（BYD RACCO）落地日本。<a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 9 月比亚迪在巴西市场总注册量 2.22 万辆、市场份额 8.5% 排名第四，在巴西纯电/插混市场分别以 65%/39% 的份额保持领先。<a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> 整体销量方面，2026 年前 5 个月累计销量 140.50 万辆（同比 −20.32%），5 月销量 38.35 万辆（同比 +0.26%）、其中出口 16.06 万辆（同比 +80.4%）。<a href=\"https://m.cyol.com/gb/articles/2026-06/10/content_0zYBBwtN8l.html\">[s31]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Wang Chuanfu (born 1966) graduated from Central South University of Technology (now Central South University) in 1987 in metallurgical physical chemistry and earned a master's degree from the Beijing General Research Institute for Non-ferrous Metals in 1990. He served as deputy director of a research department there and as general manager of Shenzhen Bige Battery before registering Shenzhen BYD Industrial Co., Ltd. with Lv Xiangyang in February 1995. He is currently chairman, executive director and president, and also serves as non-executive director and chairman of BYD Electronic (International), chairman of BYD Semiconductor, and chairman of Shenzhen Denza New Energy Vehicle. <a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html\">[s20]</a> <a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm\">[s29]</a> He was named to Time's 2024 list of the world's 100 most influential people, to Fortune's 2024 and 2025 lists of the world's most influential business leaders, and to Forbes China's Best CEO list for five consecutive years. <a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html\">[s20]</a> <a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm\">[s29]</a></p><h3>Current management</h3><p>At the first meeting of the ninth board of directors on 29 September 2026, Wang Chuanfu was elected chairman and Lv Xiangyang vice chairman, each for a three-year term; the board appointed Wang Chuanfu president and 12 vice presidents — Li Ke, He Zhiqi, He Long, Luo Hongbin, Yang Dongsheng, Liu Huanming, Wang Chuanfang, Ren Lin, Zhao Jianping, Luo Zhongliang, Li Wei and Liu Xueliang — with Zhou Yalin as vice president and chief financial officer and Li Qian as board secretary and company secretary. <a href=\"https://static.nfnews.com/content/202609/29/c12866234.html\">[s19]</a> <a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html\">[s20]</a> <a href=\"https://api3.cls.cn/b/2495456\">[s30]</a></p><h3>Ownership and governance</h3><p>As of 30 June 2026, the largest shareholders were HKSCC Nominees Limited at 40.38% (nominee for H shares), Wang Chuanfu at 16.90%, Lv Xiangyang at 7.87%, Rongjie Investment Holding Group at 5.11% and Xia Zuoquan at 2.72%. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802178_c.pdf\">[s37]</a> At the period end there were 9,117,197,565 ordinary shares in issue and 755,097 shareholders in total (754,978 A-share holders and 119 H-share holders). <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802178_c.pdf\">[s37]</a> The 2025 annual report identifies Wang Chuanfu as the actual controller. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> The ninth board took office on 29 September 2026, setting the chairman, vice chairman and senior-management appointments. <a href=\"https://static.nfnews.com/content/202609/29/c12866234.html\">[s19]</a></p>",
+      "zh": "<h3>创始人</h3><p>王传福（1966 年生）1987 年毕业于中南工业大学（现中南大学）冶金物理化学专业，1990 年获北京有色金属研究总院硕士学位，历任该院科室副主任、深圳市比格电池有限公司总经理，1995 年 2 月与吕向阳共同注册成立深圳市比亚迪实业有限公司。现任董事长、执行董事兼总裁，并兼任比亚迪电子（国际）有限公司非执行董事及主席、比亚迪半导体股份有限公司董事长、深圳腾势新能源汽车有限公司董事长。<a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html\">[s20]</a> <a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm\">[s29]</a> 王传福入选 2024《时代》周刊全球最具影响力 100 人，以及 2024、2025 年《财富》全球最具影响力 100 位商界领袖，并连续五年进入福布斯中国最佳 CEO 榜单。<a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html\">[s20]</a> <a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm\">[s29]</a></p><h3>现任核心管理层</h3><p>2026 年 9 月 29 日第九届董事会第一次会议选举王传福为董事长、吕向阳为副董事长，任期三年；聘任王传福为总裁，聘任李柯、何志奇、何龙、罗红斌、杨冬生、刘焕明、王传方、任林、赵俭平、罗忠良、李巍、刘学亮等 12 人为副总裁，聘任周亚琳为副总裁兼财务总监，聘任李黔为董事会秘书及公司秘书。<a href=\"https://static.nfnews.com/content/202609/29/c12866234.html\">[s19]</a> <a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html\">[s20]</a> <a href=\"https://api3.cls.cn/b/2495456\">[s30]</a></p><h3>股权与治理</h3><p>截至 2026 年 6 月 30 日，前五大股东为：HKSCC NOMINEES LIMITED 持股 40.38%（H 股代持）、王传福 16.90%、吕向阳 7.87%、融捷投资控股集团有限公司 5.11%、夏佐全 2.72%。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802178_c.pdf\">[s37]</a> 报告期末发行在外普通股总数为 9,117,197,565 股，普通股股东总数 755,097 户（其中 A 股 754,978 户、H 股 119 户）。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802178_c.pdf\">[s37]</a> 2025 年年度报告认定实际控制人为王传福。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> 第九届董事会于 2026 年 9 月 29 日换届并确定董事长、副董事长及高级管理层人选。<a href=\"https://static.nfnews.com/content/202609/29/c12866234.html\">[s19]</a></p>"
+    },
+    "competition": {
+      "en": "<p>BYD's main competitors are Tesla globally and, in China, Geely, Changan, Chery, Great Wall Motor, SAIC and newer entrants such as Xiaomi. <a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a> In pure-electric passenger cars BYD overtook Tesla in 2025 with about 2.257 million units. <a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a></p><p><strong>Our judgment.</strong>  BYD's advantages are vertical integration (in-house batteries, motors and semiconductors), manufacturing scale and cost position, and a broad line-up spanning roughly RMB 70,000 to above one million yuan across five brands. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><p>In 2025 overall gross margin fell from 19.44% to 17.74%, and profit attributable to owners of the parent fell 18.97% year on year. <a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a> In January–September 2026 domestic cumulative sales were 1.7886 million (−30.2%) and overseas cumulative sales 1.3430 million (+92.7%); in September, Fangchengbao sold 43,200 units (+79%) and Denza 18,200 units (+47%). <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a></p><p><strong>Our judgment.</strong> The decline in reported gross margin and net profit indicates pressure on profitability. Those figures alone do not establish how much of the decline was caused by price competition. <a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a></p>",
+      "zh": "<p>比亚迪的主要竞争对手是全球范围内的特斯拉，以及中国市场的吉利、长安、奇瑞、长城、上汽和新进入者小米等。<a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a> 在纯电动乘用车领域，比亚迪 2025 年以约 225.7 万辆首次超越特斯拉。<a href=\"https://static.nfnews.com/content/202602/05/c12143208.html\">[s21]</a></p><p><strong>我们的判断。</strong> 比亚迪的优势在于垂直整合（自产电池、电机、半导体）、制造规模与成本控制，以及覆盖约 7 万元至百万元以上、横跨五个品牌的完整产品矩阵。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><p>2025 年综合毛利率由 19.44% 降至 17.74%，归母净利润同比下降 18.97%。<a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a> 2026 年 1–9 月国内累计销量 178.86 万辆（同比 −30.2%），海外累计 134.30 万辆（同比 +92.7%）；9 月方程豹销量 4.32 万辆（同比 +79%）、腾势 1.82 万辆（同比 +47%）。<a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a></p><p><strong>我们的判断。</strong>已披露的毛利率与归母净利润下降表明盈利能力承压；仅凭这些数字，无法确定价格竞争对下滑的贡献程度。<a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> In its record of the 9 June 2026 shareholder and management meeting, BYD said it was expanding second-generation Blade Battery capacity and expected its release in 2027 to support both domestic and international markets. It also expressed hopes for substantial growth in 2030 through domestic and overseas expansion. <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF\">[s40]</a> Its 28 August 2026 announcement set a target of 20,000 flash-charging stations in China by end-2026. Separately, BYD plans 6,000 overseas stations; the announcement gives no completion deadline for the overseas target. <a href=\"https://www.byd.com/cn/detail633\">[s35]</a></p><p><strong>Our judgment.</strong> These targets rest on two premises: sustained overseas demand supported by local capacity in Thailand, Brazil, Hungary and other markets, and continued cost and technology advantages. <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> The main alternative scenarios are that import-policy changes in the EU and other markets slow the overseas ramp, or that domestic price competition keeps eroding per-vehicle profit; in January–September 2026 domestic sales were still down about 30.2% year on year while overseas sales rose about 92.7%. <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> This is our judgment, not a forecast of share-price performance.</p><p><strong>Our judgment.</strong> Given the second-generation Blade Battery capacity shortage disclosed by the company, a slower-than-expected ramp-up could affect deliveries and the full-year sales target. <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF\">[s40]</a> Based on BYD's disclosed battery and assisted-driving technology activities, we judge that competition in these areas could erode its cost and technology advantages. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><p><strong>Our judgment.</strong> BYD reported operations in 121 countries and regions and overseas sales exceeding one million units in 2025; this international footprint makes changes in import policies a potential constraint on overseas growth. <a href=\"https://www.byd.com/cn/detail631\">[s9]</a> With the reported overall gross margin declining from 19.44% in 2024 to 17.74% in 2025, raw-material cost increases could add to margin pressure if selling prices and other costs do not offset them. This is a conditional risk assessment, not an explanation of the reported decline. <a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>比亚迪在 2026 年 6 月 9 日股东会及高管交流记录中表示，公司正在提升第二代刀片电池产能，预计 2027 年相关产能释放后，国内和国际市场将同时发力。公司还表示，希望通过国内国外双轮驱动，在 2030 年取得较大增长。<a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF\">[s40]</a> 比亚迪 2026 年 8 月 28 日公告提出，国内闪充站目标为 2026 年底建成 20000 座；另计划在海外建设 6000 座，公告未注明海外目标的完成期限。<a href=\"https://www.byd.com/cn/detail633\">[s35]</a></p><p><strong>我们的判断。</strong>上述目标依赖两个前提：一是海外需求持续增长，泰国、巴西、匈牙利等本地产能及时释放；二是成本与技术优势得以维持。<a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> 另一种可能情形是欧盟等市场的进口政策变化拖慢海外爬坡，或国内价格竞争继续侵蚀单车利润——2026 年 1–9 月国内销量同比约 −30.2%，而海外销量同比约 +92.7%。<a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a> 以上为我们的判断，不构成股价预测。</p><p><strong>我们的判断。</strong>基于公司披露的第二代刀片电池产能不足情况，若产能爬坡不及预期，可能影响交付与全年销量目标。<a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF\">[s40]</a> 结合公司披露的电池、辅助驾驶等技术布局，我们认为相关领域的竞争可能削弱其成本与技术优势。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a></p><p><strong>我们的判断。</strong>公司披露业务覆盖 121 个国家及地区，2025 年海外销量超过 100 万辆；在此国际业务布局下，进口政策变化可能制约海外增长。<a href=\"https://www.byd.com/cn/detail631\">[s9]</a> 公司综合毛利率由 2024 年的 19.44% 降至 2025 年的 17.74%；若原材料涨价且售价或其他成本无法抵消，毛利率可能进一步承压。这是附带条件的风险分析，并非对已披露毛利率下降原因的认定。<a href=\"https://www.bydglobal.com/cn/investor-relations\">[s34]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Price competition and margin pressure.</strong> In 2025 overall gross margin fell to 17.74% and profit attributable to owners of the parent fell 18.97% year on year. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702645_c.pdf\">[s1]</a></li><li><strong>Domestic demand weakness.</strong> China (including Hong Kong, Macau and Taiwan) revenue fell 11.17% in 2025, and domestic cumulative sales fell 30.2% year on year in January–September 2026. <a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a></li><li><strong>Foreign-exchange exposure.</strong> H1 2026 financial expenses reached RMB5.10 billion, partly on exchange-rate swings as overseas revenue's share rose. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cnstock.com/commonDetail/780233\">[s16]</a></li><li><strong>Leverage.</strong> The debt-to-asset ratio stood at 70.96% at end-June 2026. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a></li><li><strong>Technology ramp-up.</strong> In its record of the 9 June 2026 shareholder and management meeting, BYD reported that demand exceeded its second-generation Blade Battery capacity and that it was working to expand capacity. <a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF\">[s40]</a></li></ul>",
+      "zh": "<ul><li><strong>价格竞争与利润率压力。</strong>2025 年综合毛利率降至 17.74%、归母净利润同比 −18.97%。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702645_c.pdf\">[s1]</a></li><li><strong>国内需求承压。</strong>2025 年中国（含港澳台）营收同比 −11.17%，2026 年 1–9 月国内累计销量同比 −30.2%。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF\">[s2]</a> <a href=\"https://original.ifeng.com/c/8x1PF69o0qu\">[s22]</a></li><li><strong>汇率风险。</strong>2026 年上半年财务费用达 50.96 亿元，部分来自境外收入占比上升后的汇兑波动。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a> <a href=\"https://www.cnstock.com/commonDetail/780233\">[s16]</a></li><li><strong>杠杆水平。</strong>截至 2026 年 6 月末资产负债率为 70.96%。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf\">[s36]</a></li><li><strong>新产能与技术爬坡。</strong>比亚迪在 2026 年 6 月 9 日股东会及高管交流记录中称，第二代刀片电池产能供不应求，公司正努力提升产能。<a href=\"https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF\">[s40]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "BYD Company Limited 2025 Annual Results Announcement (HKEX)", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702645_c.pdf", "date": "2026-03-27", "tier": "A" },
+    { "id": "s2", "name": "BYD Company Limited 2025 Annual Report (cninfo)", "url": "https://static.cninfo.com.cn/finalpage/2026-03-27/1225046995.PDF", "date": "2026-03-27", "tier": "A" },
+    { "id": "s3", "name": "BYD December 2025 Production and Sales Report (SZSE)", "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-01-05/5e8359f5-1505-4050-9e32-fd46a356406b.pdf", "date": "2026-01-05", "tier": "A" },
+    { "id": "s4", "name": "BYD September 2026 Production and Sales Report (SZSE)", "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-10-08/9839ea61-0e30-46d2-942f-65fc14e57ff5.PDF", "date": "2026-10-08", "tier": "A" },
+    { "id": "s5", "name": "BYD Company Limited 2024 Annual Report (cninfo)", "url": "https://static.cninfo.com.cn/finalpage/2025-03-25/1222881496.PDF", "date": "2025-03-25", "tier": "A" },
+    { "id": "s6", "name": "BYD Company Limited 2023 Annual Report (cninfo)", "url": "https://static.cninfo.com.cn/finalpage/2024-03-26/1219413444.PDF", "date": "2024-03-26", "tier": "A" },
+    { "id": "s7", "name": "BYD Company Limited 2022 Annual Report (cninfo)", "url": "https://static.cninfo.com.cn/finalpage/2023-03-29/1216246589.PDF", "date": "2023-03-29", "tier": "A" },
+    { "id": "s8", "name": "BYD official news release: September 2026 sales (byd.com)", "url": "https://www.byd.com/cn/detail635", "date": "2026-10-01", "tier": "A" },
+    { "id": "s9", "name": "BYD official news release: 2026 Fortune Global 500 ranking and 2025 annual results (byd.com)", "url": "https://www.byd.com/cn/detail631", "date": "2026-07-28", "tier": "A" },
+    { "id": "s10", "name": "BYD official website: Company Introduction (bydglobal.com)", "url": "https://www.bydglobal.com/cn/AboutByd/CompanyIntro_mob.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s11", "name": "Fangchengbao official website: Titan 3 specification and price sheet", "url": "https://www.fangchengbao.com/disposition-tai3", "date": "2026-10-29", "tier": "A" },
+    { "id": "s12", "name": "Fangchengbao official website: Titan 3 adds a 510KM version, from RMB 143,800", "url": "https://www.fangchengbao.com/newsDetail-20260810", "date": "2026-08-10", "tier": "A" },
+    { "id": "s13", "name": "Fangchengbao official website: Brand history", "url": "https://www.fangchengbao.com/brand-center.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s15", "name": "China Securities Journal (cs.com.cn): BYD 2026 interim results", "url": "https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html", "date": "2026-08-28", "tier": "B" },
+    { "id": "s16", "name": "Shanghai Securities News / cnstock.com: BYD H1 2026 revenue, profit and R&D", "url": "https://www.cnstock.com/commonDetail/780233", "date": "2026-08-29", "tier": "B" },
+    { "id": "s17", "name": "CNR (cnr.cn): 2026 Yangwang U7 launch report", "url": "https://auto.cnr.cn/cz/20260306/t20260306_527544681.shtml", "date": "2026-03-06", "tier": "B" },
+    { "id": "s18", "name": "CCTV.com: Linghui e9 launch", "url": "https://5gai.cctv.com/2026/05/09/ARTIs87VmbP9O7w0N7Jc0Kcg260509.shtml", "date": "2026-05-09", "tier": "B" },
+    { "id": "s19", "name": "Nanfang Plus: Wang Chuanfu elected chairman of BYD's ninth board", "url": "https://static.nfnews.com/content/202609/29/c12866234.html", "date": "2026-09-29", "tier": "B" },
+    { "id": "s20", "name": "Shandian News (iqilu.com): ninth board resolution and Wang Chuanfu biography", "url": "https://sdxw.iqilu.com/share/YS0yMS0xNzQyMjg3NQ==.html", "date": "2026-09-29", "tier": "B" },
+    { "id": "s21", "name": "Nanfang Plus: BYD enters global top five; 2021–2025 annual sales", "url": "https://static.nfnews.com/content/202602/05/c12143208.html", "date": "2026-02-05", "tier": "B" },
+    { "id": "s22", "name": "ifeng Finance: BYD September 2026 sales and overseas localization", "url": "https://original.ifeng.com/c/8x1PF69o0qu", "date": "2026-10-07", "tier": "B" },
+    { "id": "s23", "name": "Xinhua Silk Road: BYD Yangwang launch and strategy", "url": "https://www.imsilkroad.com/news/p/501095.html", "date": "2023-01-16", "tier": "B" },
+    { "id": "s24", "name": "Beijing Youth Daily: Mercedes-Benz exits Denza, which becomes wholly owned by BYD", "url": "https://app.bjtitle.com/5620/newshow.php?newsid=6579565", "date": "2024-09-14", "tier": "B" },
+    { "id": "s26", "name": "People's Daily (peopleapp.com): BYD exits the fuel-vehicle market", "url": "https://www.peopleapp.com/rmharticle/30027312361", "date": "2022-04-03", "tier": "B" },
+    { "id": "s27", "name": "People's Daily (peopleapp.com): BYD's journey since reform and opening up", "url": "https://www.peopleapp.com/rmharticle/30012915361", "date": "2019-08-29", "tier": "B" },
+    { "id": "s29", "name": "China Securities Journal (epaper): BYD board announcement founder biography", "url": "https://epaper.cs.com.cn/zgzqb/html/2026-09/30/nw.D110000zgzqb_20260930_4-B066.htm", "date": "2026-09-30", "tier": "B" },
+    { "id": "s30", "name": "CLS (cls.cn): BYD completes ninth board election and executive appointments", "url": "https://api3.cls.cn/b/2495456", "date": "2026-09-29", "tier": "B" },
+    { "id": "s31", "name": "Beijing Business Today via cyol.com: BYD 2026 AGM targets and Blade Battery ramp-up", "url": "https://m.cyol.com/gb/articles/2026-06/10/content_0zYBBwtN8l.html", "date": "2026-06-10", "tier": "B" },
+    { "id": "s32", "name": "Mercedes-Benz Group Annual Report 2022 (Joint ventures section)", "url": "https://group.mercedes-benz.com/documents/investors/reports/annual-report/mercedes-benz/mercedes-benz-annual-report-2022-incl-combined-management-report-mbg-ag.pdf", "date": "2023-03-17", "tier": "A" },
+    { "id": "s33", "name": "China Securities Journal (cs.com.cn): Wang Chuanfu on Blade Battery", "url": "https://cs.com.cn/qc/202204/t20220402_6256958.html", "date": "2022-04-02", "tier": "B" },
+    { "id": "s34", "name": "BYD official website: Investor Relations five-year financial summary (bydglobal.com)", "url": "https://www.bydglobal.com/cn/investor-relations", "date": "2026-10-29", "tier": "A" },
+    { "id": "s35", "name": "BYD official news release: 10,000th flash-charging station (byd.com)", "url": "https://www.byd.com/cn/detail633", "date": "2026-08-28", "tier": "A" },
+    { "id": "s36", "name": "BYD 2026 Interim Report (HKEX overseas regulatory announcement)", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802154_c.pdf", "date": "2026-08-28", "tier": "A" },
+    { "id": "s37", "name": "BYD 2026 Interim Report Summary (HKEX, shareholding structure)", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802178_c.pdf", "date": "2026-08-28", "tier": "A" },
+    { "id": "s38", "name": "CNR (cnr.cn): Linghui M9 launch and price announcement", "url": "https://auto.cnr.cn/cz/20260629/t20260629_527681433.shtml", "date": "2026-06-29", "tier": "B" },
+    { "id": "s40", "name": "BYD Company Limited investor relations activity record, 9 June 2026 (company disclosure PDF mirrored by Sina Finance)", "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-6/2026-06-10/12385372.PDF", "date": "2026-06-10", "tier": "A" }
+  ]
+}

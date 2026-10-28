@@ -1,0 +1,753 @@
+{
+  "id": "xiaomi",
+  "name_en": "Xiaomi EV (Xiaomi Corporation's smart electric vehicle business)",
+  "name_zh": "小米汽车（小米集团智能电动汽车业务）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2021 (EV entry announced 2021-03-30; Xiaomi Automobile Co., Ltd. registered 2021-09-01)",
+      "value_zh": "2021 年（2021-03-30 宣布造车；小米汽车有限公司 2021-09-01 注册）",
+      "period": null,
+      "source_ids": [
+        "s13",
+        "s32"
+      ]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Beijing (Beijing Economic-Technological Development Area, Yizhuang), China",
+      "value_zh": "中国北京（北京经济技术开发区·亦庄）",
+      "period": null,
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private; a wholly-owned business of Xiaomi Corporation (Cayman-incorporated, HKEX-listed)",
+      "value_zh": "民营；小米集团（开曼注册、港交所上市）全资业务",
+      "period": null,
+      "source_ids": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "label_en": "Founder shareholding & voting power",
+      "label_zh": "创始人持股与投票权",
+      "value_en": "Lei Jun: deemed to hold 4,001,963,455 Class A and 2,054,816,183 Class B shares as of 2026-06-30; about 64.0% of total voting power (self-calculated; applies to resolutions other than reserved matters)",
+      "value_zh": "雷军：截至 2026-06-30 被视为持有 4,001,963,455 股 A 类及 2,054,816,183 股 B 类股份；合计投票权约 64.0%（自行计算，仅适用于保留事项以外的决议）",
+      "period": "2026-06-30",
+      "source_ids": [
+        "s25",
+        "s6"
+      ]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "HKEX: 1810 (Xiaomi Corporation; RMB counter 81810)",
+      "value_zh": "港交所：1810（小米集团；人民币柜台 81810）",
+      "period": null,
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Employees (R&D personnel)",
+      "label_zh": "员工数（研发人员）",
+      "value_en": "25,457 R&D personnel (Group-wide, as of 2025-12-31)",
+      "value_zh": "研发人员 25,457 人（集团口径，截至 2025-12-31）",
+      "period": "2025-12-31",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Group revenue (FY2025)",
+      "label_zh": "集团营收（2025 财年）",
+      "value_en": "RMB 457.3 billion",
+      "value_zh": "人民币 4,573 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Smart EV & AI segment revenue (FY2025)",
+      "label_zh": "汽车及 AI 分部营收（2025 财年）",
+      "value_en": "RMB 106.1 billion",
+      "value_zh": "人民币 1,061 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Group net profit attributable to owners (FY2025)",
+      "label_zh": "集团归母净利润（2025 财年）",
+      "value_en": "RMB 41.6 billion",
+      "value_zh": "人民币 416 亿元",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Smart EV & AI segment income from operations (FY2025)",
+      "label_zh": "汽车及 AI 分部经营收益（2025 财年）",
+      "value_en": "RMB 0.9 billion (first full-year positive)",
+      "value_zh": "人民币 9 亿元（首次年度转正）",
+      "period": "FY2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Vehicle deliveries (2025)",
+      "label_zh": "销量（2025 年）",
+      "value_en": "411,082 vehicles (up 200.4% YoY)",
+      "value_zh": "411,082 辆（同比 +200.4%）",
+      "period": "2025",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label_en": "Overseas deliveries",
+      "label_zh": "海外销量",
+      "value_en": "Not separately disclosed; no overseas sales at scale yet (company plans to enter Europe in 2027)",
+      "value_zh": "未单独披露；尚未大规模海外交付（公司计划 2027 年进入欧洲）",
+      "period": "2025",
+      "source_ids": [
+        "s1",
+        "s9"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2021-03-30",
+      "event_en": "Xiaomi announces plans for its smart electric vehicle business through a wholly-owned subsidiary, with Group CEO Lei Jun to serve concurrently as CEO of the EV business.",
+      "event_zh": "小米宣布开展智能电动汽车业务，计划设立全资子公司，由集团首席执行官雷军兼任该业务首席执行官。",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "date": "2021-09-01",
+      "event_en": "Xiaomi Automobile Co., Ltd. (小米汽车有限公司) is registered with RMB10 billion registered capital; Lei Jun serves as legal representative.",
+      "event_zh": "小米汽车有限公司注册成立，注册资本 100 亿元，雷军任法定代表人。",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2021-11-27",
+      "event_en": "Xiaomi signs an agreement to locate its automotive project in the Beijing Economic-Technological Development Area. The plan announced in 2021 envisages a two-phase plant with combined annual capacity of 300,000 vehicles.",
+      "event_zh": "小米汽车签约落户北京经济技术开发区；2021 年公布的整车工厂两期规划合计年产能为 30 万辆。",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2023-10",
+      "event_en": "Xiaomi upgrades its corporate strategy to 'Human x Car x Home' and launches the HyperOS operating system, with the car as a central pillar.",
+      "event_zh": "小米将集团战略升级为「人车家全生态」，发布澎湃 OS（HyperOS），汽车成为关键一环。",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2023-12",
+      "event_en": "Xiaomi unveils its first vehicle product, the Xiaomi SU7 series.",
+      "event_zh": "首款车型 Xiaomi SU7 系列首次亮相。",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "event_en": "The Xiaomi SU7 is launched, with the standard version priced from RMB215,900. First customer deliveries begin on 3 April 2024.",
+      "event_zh": "小米 SU7 正式上市，标准版 21.59 万元起。2024 年 4 月 3 日首次向用户交付。",
+      "source_ids": [
+        "s14",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-02-27",
+      "event_en": "The high-performance Xiaomi SU7 Ultra is launched at RMB529,900, RMB285,000 below its RMB814,900 pre-sale price; it has 1,548 PS (metric horsepower) and accelerates 0-100 km/h in 1.98 seconds.",
+      "event_zh": "高性能轿车小米 SU7 Ultra 上市，售价 52.99 万元（较 81.49 万元预售价下调 28.5 万元）；最大功率 1,548 PS（公制马力）、0-100 公里/小时 1.98 秒。",
+      "source_ids": [
+        "s2",
+        "s30",
+        "s14"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "event_en": "The SU7 Ultra (production model with the professional track package, carbon-fiber dual-vent front hood and aerodynamic underbody plate) completes a Nürburgring Nordschleife lap of 7:04.957, a production EV record; the SU7 Ultra Prototype posts 6:22.091.",
+      "event_zh": "小米 SU7 Ultra（量产车，配专业赛道套装、碳纤维双风道前舱盖及底部导流板）完成纽北圈速 7:04.957，刷新量产电动车纪录；SU7 Ultra Prototype 圈速 6:22.091。",
+      "source_ids": [
+        "s10",
+        "s20"
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "event_en": "The Xiaomi YU7 SUV is launched at RMB253,500-329,900; media reported 240,000+ locked-in orders within 18 hours.",
+      "event_zh": "小米首款 SUV YU7 上市（25.35 万-32.99 万元），媒体称开售 18 小时锁单超 24 万台。",
+      "source_ids": [
+        "s15",
+        "s20"
+      ]
+    },
+    {
+      "date": "2025-09",
+      "event_en": "Xiaomi recalls 116,887 SU7 standard-edition vehicles (produced 2024-02-06 to 2025-08-30) for an over-the-air update to the L2 highway pilot-assist system, with no hardware replacement.",
+      "event_zh": "小米召回 2024-02-06 至 2025-08-30 生产的部分 SU7 标准版共 116,887 辆，通过 OTA 升级 L2 高速领航辅助功能，不涉及硬件更换。",
+      "source_ids": [
+        "s18"
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "event_en": "On 18 November Xiaomi reports Q3 2025 results. In Q3 2025 the Group's 'smart EV, AI and other new initiatives' segment first achieved quarterly operating profitability, with income from operations of RMB0.7 billion; vehicle deliveries were 108,796 and smart EV revenue was RMB28.3 billion. Standalone net profit for the automotive business was not separately disclosed.",
+      "event_zh": "11 月 18 日小米发布 2025 年第三季度业绩。2025 年第三季度，集团「智能电动汽车及 AI 等创新业务」分部首次实现单季度经营盈利，经营收益 7 亿元；当季汽车交付 108,796 辆，智能电动汽车收入 283 亿元。汽车业务单体净利润未单独披露。",
+      "source_ids": [
+        "s28"
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "event_en": "The 500,000th Xiaomi vehicle rolls off the line in Beijing, 602 days after the first model's 2024-03-28 launch; Lei Jun says 2025 deliveries will exceed 400,000.",
+      "event_zh": "第 50 万辆小米汽车在北京下线（自 2024-03-28 首款车型发布起 602 天）；雷军称 2025 年交付将超 40 万辆。",
+      "source_ids": [
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "date": "2025",
+      "event_en": "Full-year 2025 deliveries reach 411,082 vehicles (up 200.4%); the smart EV, AI and other new initiatives segment reports its first full-year positive income from operations of RMB0.9 billion.",
+      "event_zh": "2025 年全年交付 411,082 辆（同比 +200.4%）；智能电动汽车及 AI 等创新业务分部首次实现年度经营收益转正（9 亿元）。",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2026-02",
+      "event_en": "Xiaomi delivers its 600,000th vehicle 22 months after its first delivery, and reveals the Xiaomi Vision Gran Turismo hypercar concept, the first Chinese tech brand to join the Vision Gran Turismo program.",
+      "event_zh": "小米汽车交付第 60 万辆（自首车交付 22 个月）；发布 Xiaomi Vision Gran Turismo 概念超跑，为首个受邀加入 Vision Gran Turismo 项目的中国科技品牌。",
+      "source_ids": [
+        "s16",
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "event_en": "The next-generation Xiaomi SU7 is launched (Standard RMB219,900 / Pro RMB249,900 / Max RMB303,900), with locked-in orders exceeding 15,000 units in the first 34 minutes and 30,000 in the first three days.",
+      "event_zh": "新一代小米 SU7 上市（标准版 21.99 万 / Pro 24.99 万 / Max 30.39 万），开售 34 分钟锁单超 1.5 万台、3 天锁单超 3 万台。",
+      "source_ids": [
+        "s1",
+        "s27"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "event_en": "Hu Zhengnan is appointed Group vice president and CTO of the auto division - Xiaomi Auto's first-ever CTO - and Song Gang is appointed vice president and chief of staff of the auto division.",
+      "event_zh": "胡峥楠出任小米集团副总裁、汽车部首席技术官（小米汽车首次设立 CTO 一职），宋钢出任汽车部副总裁兼参谋长。",
+      "source_ids": [
+        "s23",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "event_en": "Xiaomi launches the YU7 GT (positioned by Xiaomi as a \"sports-car-level SUV\", priced from RMB389,900) and the YU7 Standard edition (CLTC combined range 643 km, from RMB233,500); the YU7 GT is the first model developed with deep involvement from Xiaomi's European R&D centre team.",
+      "event_zh": "小米发布 YU7 GT（小米定位为「跑车级 SUV」，38.99 万元起）与 YU7 标准版（CLTC 综合续航 643 公里，23.35 万元起）；YU7 GT 为小米汽车欧洲研发中心团队深度参与研发的首款车型。",
+      "source_ids": [
+        "s25"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "event_en": "Xiaomi unveils the Kunlun Technical Architecture and the SkyNomad (澎程) extended-range SUV series (N90 Max pre-sale RMB299,900, N70 Max RMB259,900), entering the EREV market.",
+      "event_zh": "发布昆仑技术架构与「SKYNOMAD 小米澎程」增程 SUV 系列（N90 Max 预售 29.99 万元、N70 Max 25.99 万元），进军增程市场。",
+      "source_ids": [
+        "s17"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "event_en": "Xiaomi Auto signs an MoU with a first batch of leading German automotive dealer groups at IFA Berlin, confirming its plan to enter Europe in 2027.",
+      "event_zh": "小米汽车在柏林 IFA 与首批德国头部汽车经销商集团签署谅解备忘录，确认 2027 年进入欧洲市场。",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "event_en": "Xiaomi publishes its 2026 Interim Report: the smart EV, AI and other new initiatives segment recorded Q2 revenue of RMB24.9 billion, a gross margin of 19.2% and an operating loss of RMB2.6 billion.",
+      "event_zh": "小米刊发《2026 年中期报告》：「智能电动汽车及 AI 等创新业务」分部第二季度收入 249 亿元、毛利率 19.2%、经营亏损 26 亿元。",
+      "source_ids": [
+        "s5"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Xiaomi SU7 series",
+      "name_zh": "小米 SU7 系列",
+      "role_en": "Battery-electric mid-to-large sedan, the company's first model and volume leader.",
+      "role_zh": "纯电中大型轿车，公司首款车型与销量主力。",
+      "price_band": "BEV sedan; first generation 2024 from RMB215,900; 2026 next generation RMB219,900 / 249,900 / 303,900",
+      "founded": 2024,
+      "owner_note_en": "Wholly owned by Xiaomi Corporation (no joint venture). The first-generation SU7 launched 2024-03-28 from RMB215,900 with first deliveries from April 2024, recording 136,854 first-year deliveries. By official figures the SU7 was the No.1-selling sedan priced at RMB200,000 and above in the Chinese Mainland in 2025, with about 381,000 first-generation units delivered before production ended in February 2026. The high-performance SU7 Ultra (1,548 PS (metric horsepower), 0-100 km/h in 1.98 s, peak torque 1,770 Nm, 93.7 kWh ternary battery, 630 km CLTC range) launched 2025-02-27 at RMB529,900, RMB285,000 below its pre-sale price. The next-generation SU7 launched 2026-03-19 at RMB219,900 / 249,900 / 303,900.",
+      "owner_note_zh": "小米集团全资持有（无合资）。第一代 SU7 于 2024-03-28 上市（21.59 万元起）、2024 年 4 月起交付，首年交付 136,854 辆。据官方数据，SU7 位列 2025 年中国大陆 20 万元及以上轿车销量第一，第一代车型累计交付约 38.1 万辆后于 2026 年 2 月停产。高性能版 SU7 Ultra（1,548 PS（公制马力）、0-100 公里/小时 1.98 秒、峰值扭矩 1,770 牛·米、93.7 千瓦时三元电池、CLTC 续航 630 公里）于 2025-02-27 上市（52.99 万元，较预售价下调 28.5 万元）。新一代 SU7 于 2026-03-19 上市（21.99 万 / 24.99 万 / 30.39 万）。",
+      "status": "active",
+      "source_ids": [
+        "s1",
+        "s10",
+        "s14",
+        "s16",
+        "s27",
+        "s2",
+        "s30"
+      ]
+    },
+    {
+      "name_en": "Xiaomi YU7 series",
+      "name_zh": "小米 YU7 系列",
+      "role_en": "Battery-electric mid-to-large SUV, Xiaomi's first SUV.",
+      "role_zh": "纯电中大型 SUV，小米首款 SUV。",
+      "price_band": "BEV SUV; 2025 launch RMB253,500 / 279,900 / 329,900; 2026 YU7 Standard from RMB233,500 and YU7 GT from RMB389,900",
+      "founded": 2025,
+      "owner_note_en": "Wholly owned by Xiaomi Corporation. Launched 2025-06-26 (Standard RMB253,500 / Pro RMB279,900 / Max RMB329,900); media reported over 240,000 locked-in orders within 18 hours. The Standard and Pro use a 96.3 kWh LFP battery (CLTC 835 km and 770 km) and the Max a 101.7 kWh ternary battery (CLTC 760 km), on an 800-volt platform. On 2026-05-21 Xiaomi added the YU7 Standard edition (CLTC 643 km, from RMB233,500) and the YU7 GT (positioned by Xiaomi as a \"sports-car-level SUV\", from RMB389,900), the latter developed with deep involvement from the European R&D centre team. According to the July 2026 retention-rate report cited in the interim report, the YU7 ranked first among one-year-old main BEV models with a retention rate of 82.8%.",
+      "owner_note_zh": "小米集团全资持有。2025-06-26 上市（标准版 25.35 万 / Pro 27.99 万 / Max 32.99 万），媒体称开售 18 小时锁单超 24 万台。标准版与 Pro 搭载 96.3 千瓦时磷酸铁锂电池（CLTC 835/770 公里），Max 搭载 101.7 千瓦时三元电池（CLTC 760 公里），采用 800 伏平台。2026-05-21 小米新增 YU7 标准版（CLTC 643 公里，23.35 万元起）与 YU7 GT（小米定位为「跑车级 SUV」，38.99 万元起），后者由欧洲研发中心团队深度参与研发。据中期报告引用的 2026 年 7 月保值率报告，YU7 以 82.8% 的一年车龄保值率位列主要纯电车型第一。",
+      "status": "active",
+      "source_ids": [
+        "s15",
+        "s20",
+        "s25"
+      ]
+    },
+    {
+      "name_en": "Xiaomi SkyNomad series (澎程)",
+      "name_zh": "小米澎程（SKYNOMAD）系列",
+      "role_en": "Extended-range electric (EREV) large SUVs, Xiaomi's entry into the EREV segment, built on the Kunlun Technical Architecture.",
+      "role_zh": "增程式电动大型 SUV，小米进军增程赛道，基于昆仑技术架构打造。",
+      "price_band": "EREV SUVs; official launch 2026-09-07: N70 Pro RMB209,900 / N70 Max RMB239,900 / N90 Max RMB269,900 / N90 Max Studio RMB299,900",
+      "founded": 2026,
+      "owner_note_en": "Wholly owned by Xiaomi Corporation. The SkyNomad EREV SUV series officially launched on 2026-09-07 on the Xiaomi Kunlun Platform. Official launch prices were RMB209,900 for the five-seat N70 Pro, RMB239,900 for the five-seat all-wheel-drive N70 Max, RMB269,900 for the seven-seat N90 Max, and RMB299,900 for the N90 Max Studio, a mobile personal-space version with a factory-integrated electric lifting cabin roof.",
+      "owner_note_zh": "小米集团全资持有。基于小米昆仑平台的澎程增程 SUV 系列于 2026-09-07 正式上市：五座 N70 Pro 售 20.99 万元，五座四驱 N70 Max 售 23.99 万元，七座 N90 Max 售 26.99 万元，N90 Max 探索版（官方英文名 N90 Max Studio）售 29.99 万元；后者定位为移动个人空间，配备原厂集成的电动升顶座舱。",
+      "status": "active",
+      "source_ids": [
+        "s25",
+        "s31",
+        "s33"
+      ]
+    },
+    {
+      "name_en": "Xiaomi Vision Gran Turismo",
+      "name_zh": "Xiaomi Vision Gran Turismo",
+      "role_en": "Electric hypercar concept, a design and technology showcase.",
+      "role_zh": "纯电超跑概念车，设计与技术展示项目。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "A concept vehicle revealed in February 2026; Xiaomi describes itself as the first Chinese tech brand to join the Vision Gran Turismo program. Not a production model.",
+      "owner_note_zh": "2026 年 2 月发布的概念车；小米称其为首个受邀加入 Vision Gran Turismo 项目的中国科技品牌，非量产车型。",
+      "status": "concept",
+      "source_ids": [
+        "s10"
+      ]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "IFRS",
+    "rows": [
+      {
+        "fiscal_year": 2023,
+        "revenue": 270970,
+        "gross_margin_pct": 21.2,
+        "net_profit": 17475,
+        "rnd": 19097.7,
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 365906,
+        "gross_margin_pct": 20.9,
+        "net_profit": 23658,
+        "rnd": 24050.5,
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 457287,
+        "gross_margin_pct": 22.3,
+        "net_profit": 41643,
+        "rnd": 33132.2,
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "segment_rows": [
+      {
+        "fiscal_year": 2024,
+        "segment_revenue": 32753.6,
+        "segment_gross_margin_pct": 18.5,
+        "segment_operating_profit": null,
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "fiscal_year": 2025,
+        "segment_revenue": 106069.5,
+        "segment_gross_margin_pct": 24.3,
+        "segment_operating_profit": 900,
+        "source_ids": [
+          "s1"
+        ]
+      }
+    ],
+    "note_en": "Xiaomi Corporation's fiscal year ends 31 December; figures are under IFRS, in RMB millions. The research subject, Xiaomi EV, is a wholly-owned business of Xiaomi Corporation and is not separately listed, so the 'rows' table presents Xiaomi Corporation consolidated figures: revenue (total revenue), gross_margin_pct (Group gross margin), net_profit (profit attributable to owners of the Company, i.e. profit attributable to equity holders of the parent / 股东应占溢利, NOT profit for the year and NOT adjusted net profit) and rnd (Group research and development expenses). In FY2023 profit for the year was RMB17,474 million and profit attributable to owners was RMB17,475.2 million (shown as 17,475); in FY2025 profit for the year was RMB41,566.4 million and profit attributable to owners was RMB41,643 million. The separate 'segment_rows' table presents the Group's 'smart EV, AI and other new initiatives' segment: segment_revenue is segment revenue (RMB32,753.6 million in FY2024 and RMB106,069.5 million in FY2025; within it, smart EV alone was about RMB32.1 billion in FY2024 and about RMB103.3 billion in FY2025), segment_gross_margin_pct is the segment gross margin (18.5% in FY2024, 24.3% in FY2025), and segment_operating_profit is the segment income from operations (RMB900 million in FY2025, the first positive full year). In FY2023 the segment disclosed no revenue - the Group disclosed expenses related to the smart EV business and other new initiatives of RMB6.7 billion, excluding about RMB0.8 billion of share-based compensation - so no segment row is shown for FY2023; in FY2024 the segment disclosed an adjusted net loss of RMB6.2 billion but no separate operating profit/loss, so segment_operating_profit is null. Neither the RMB0.7 billion Q3 2025 segment income from operations nor the RMB0.9 billion FY2025 segment income from operations represents standalone automotive net profit, which was not separately disclosed.",
+    "note_zh": "财年截至 12 月 31 日；数据按国际财务报告准则（IFRS）、人民币百万元计。研究对象小米汽车为小米集团全资业务、未单独上市，故 rows 表为小米集团合并口径：revenue 为集团总收入、gross_margin_pct 为集团毛利率、net_profit 为归属本公司股东（即归属于母公司股东、股东应占溢利）的净利润（既非「年内利润」，也非经调整净利润）、rnd 为集团研发开支。2023 年集团年内利润 17,474 百万元、股东应占溢利 17,475.2 百万元（列 17,475）；2025 年年内利润 41,566.4 百万元、股东应占溢利 41,643 百万元。独立的 segment_rows 表为「智能电动汽车及 AI 等创新业务」分部口径：segment_revenue 为分部收入（2024 年 32,753.6 百万元、2025 年 106,069.5 百万元；其中智能电动汽车业务 2024 年约 321 亿元、2025 年约 1,033 亿元），segment_gross_margin_pct 为分部毛利率（2024 年 18.5%、2025 年 24.3%），segment_operating_profit 为分部经营收益（2025 年 900 百万元，首次转正）。2023 年该分部无披露收入，集团披露智能电动汽车等创新业务相关费用 67 亿元（不含约 8 亿元股份薪酬），故该年无分部行；2024 年分部披露经调整净亏损 62 亿元、未单独披露经营亏损，故 segment_operating_profit 为 null。2025 年第三季度分部经营收益 7 亿元、全年分部经营收益 9 亿元，均不代表汽车业务单体净利润；汽车业务单体净利润未单独披露。",
+    "source_ids": [
+      "s1",
+      "s2",
+      "s3",
+      "s28"
+    ]
+  },
+  "sections": {
+    "overview": {
+      "source_ids": [
+        "s13",
+        "s17",
+        "s9",
+        "s1",
+        "s2",
+        "s10",
+        "s3",
+        "s11",
+        "s31",
+        "s32"
+      ],
+      "en": "<p>Xiaomi EV is the smart electric-vehicle business of Xiaomi Corporation (HKEX: 1810). On 30 March 2021, the Group announced plans to establish a wholly-owned subsidiary for the EV business, with Group CEO Lei Jun to serve concurrently as its CEO.<a href=\"https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2021/12/22/4-01-53/2021092800380.pdf\">[s32]</a> Xiaomi Automobile Co., Ltd. (小米汽车有限公司) was registered on 1 September 2021 with RMB10 billion registered capital, and its automotive project was located in the Beijing Economic-Technological Development Area (Yizhuang). The two-phase plan announced in 2021 envisaged combined annual capacity of 300,000 vehicles; this is a historical plan, not a verified current capacity figure.<a href=\"https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html\">[s13]</a></p><p>The lineup spans a battery-electric sedan (SU7 and SU7 Ultra), a battery-electric SUV (YU7, including the YU7 GT) and an extended-range SUV series (SkyNomad / 澎程) built on the Kunlun Technical Architecture, and earns revenue from vehicle sales.<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www.xiaomiauto.com/global\">[s9]</a> In FY2025 the 'smart EV, AI and other new initiatives' segment reported revenue of RMB106.1 billion and its first full-year positive income from operations of RMB0.9 billion.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a></p><p>Xiaomi delivered its first model, the SU7, in 2024 (136,854 first-year deliveries) and 411,082 vehicles in 2025, up 200.4% year on year.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf\">[s2]</a> By 30 July 2026 cumulative deliveries had exceeded 700,000.<a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a> In October 2023 the Group upgraded its strategy to 'Human x Car x Home' and launched HyperOS, with the car as a central pillar.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2024/0319/2024031900547_c.pdf\">[s3]</a> In July 2026 Xiaomi unveiled the Kunlun Technical Architecture and the SkyNomad EREV series, which officially launched on 7 September 2026.<a href=\"https://www.xiaomiauto.com/global/newsroom/37?source=list\">[s31]</a> The company stated in its 24 March 2026 results announcement that it would target 550,000 vehicle deliveries in 2026, and the company plans to enter Europe in 2027.<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>",
+      "zh": "<p>小米汽车是小米集团（港交所：1810）旗下的智能电动汽车业务，集团于 2021 年 3 月 30 日宣布开展该业务并计划设立全资子公司，由集团首席执行官雷军兼任汽车业务首席执行官。<a href=\"https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2021/12/22/4-01-53/2021092800380.pdf\">[s32]</a>2021 年 9 月 1 日注册小米汽车有限公司（注册资本 100 亿元），汽车项目落户北京经济技术开发区（亦庄）。2021 年公布的工厂两期规划合计年产能为 30 万辆；这是历史规划，不代表已核实的现有产能。<a href=\"https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html\">[s13]</a></p><p>产品覆盖纯电轿车（SU7、SU7 Ultra）、纯电 SUV（YU7，含 YU7 GT）与增程 SUV（澎程/SkyNomad，基于昆仑技术架构）三条产品线，靠整车销售赚钱。<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www.xiaomiauto.com/global\">[s9]</a> 2025 财年「智能电动汽车及 AI 等创新业务」分部收入 1,061 亿元，首次实现年度经营收益转正至 9 亿元。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a></p><p>小米汽车 2024 年交付首款车型 SU7（首年 136,854 辆），2025 年交付 411,082 辆、同比增长 200.4%。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf\">[s2]</a> 截至 2026-07-30 累计交付已超 70 万辆。<a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a> 小米集团 2023 年 10 月将战略升级为「人车家全生态」并发布澎湃 OS（HyperOS），汽车是其中关键一环。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2024/0319/2024031900547_c.pdf\">[s3]</a> 2026 年 7 月小米发布昆仑技术架构与增程 SUV 系列「澎程」，该系列于 2026-09-07 正式上市。<a href=\"https://www.xiaomiauto.com/global/newsroom/37?source=list\">[s31]</a>公司在 2026-03-24 的业绩公告中提出 2026 年全年交付 55 万辆的目标，公司宣布将于 2027 年进入欧洲市场。<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>"
+    },
+    "current": {
+      "source_ids": [
+        "s1",
+        "s28",
+        "s25",
+        "s5",
+        "s23",
+        "s17",
+        "s16",
+        "s20",
+        "s10",
+        "s26",
+        "s15",
+        "s29",
+        "s13",
+        "s9",
+        "s11",
+        "s31",
+        "s33"
+      ],
+      "en": "<h3>Business structure</h3><p>Xiaomi EV's revenue sits in the Group's 'smart EV, AI and other new initiatives' segment. In FY2025 the segment reported revenue of RMB106.1 billion, of which smart EV alone was about RMB103.3 billion, and fourth-quarter segment revenue was RMB37.2 billion, or 31.8% of Group revenue.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a> In Q3 2025 the Group's 'smart EV, AI and other new initiatives' segment first achieved quarterly operating profitability, with income from operations of RMB0.7 billion; vehicle deliveries were 108,796 and smart EV revenue was RMB28.3 billion. Standalone net profit for the automotive business was not separately disclosed.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1118/2025111800683_c.pdf\">[s28]</a> In H1 2026 the segment reported revenue of RMB44.8 billion (up 12.3% year on year), of which smart EV was RMB42.9 billion and other related business (including AI revenue from the Xiaomi MiMo large-model series) RMB1.9 billion; the segment gross margin was 19.6% and the segment operating loss was RMB5.7 billion.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> In Q2 2026 the segment posted revenue of RMB24.9 billion (smart EV RMB23.9 billion), with gross margin falling to 19.2% from 26.4% a year earlier and an operating loss of RMB2.6 billion, narrowed from RMB3.1 billion in Q1 2026.<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a> Media reported that Xiaomi Auto's R&D team has grown to nearly 10,000 people.<a href=\"https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html\">[s23]</a></p><h3>Product lineup and deliveries</h3><p>As of October 2026 the in-market lineup comprises the BEV SU7, SU7 Ultra and YU7 (including the YU7 GT), plus the EREV SkyNomad series. SkyNomad officially launched on 2026-09-07, with official prices of RMB209,900 for the N70 Pro, RMB239,900 for the N70 Max, RMB269,900 for the N90 Max and RMB299,900 for the N90 Max Studio.<a href=\"https://www.xiaomiauto.com/global/newsroom/37?source=list\">[s31]</a> Full-year 2025 deliveries were 411,082 vehicles (Q4: 145,115); a media-compiled estimate put the SU7 at about 258,000 and the YU7 at about 153,000.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://cnevpost.com/2026/02/13/xiaomi-ev-reaches-600000-vehicle-delivery-milestone/\">[s16]</a> H1 2026 deliveries were 185,055 vehicles (up 17.7%).<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> By official milestones, the SU7 reached 100,000 units in 230 days in November 2024; the 500,000th vehicle rolled off the line on 2025-11-20 (602 days after the first model's launch); the 600,000th was delivered in February 2026; and cumulative deliveries exceeded 700,000 by 2026-07-30.<a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a><a href=\"https://cnevpost.com/2026/02/13/xiaomi-ev-reaches-600000-vehicle-delivery-milestone/\">[s16]</a><a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a></p><h3>Technology platforms</h3><p>Xiaomi EV runs two technical systems: the Modena battery-electric platform used by the SU7 and YU7, and the Kunlun Technical Architecture (unveiled 2026-07-30), covering the Kunlun platform, the Kunlun super EREV system and Kunlun all-domain safety, together with the Longjia battery system.<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a> For intelligent driving, Xiaomi uses its Xiaomi HAD (Hyper Assisted Driving, 辅助驾驶) system across its models.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800526.pdf\">[s26]</a> The YU7 Standard and Pro use a 96.3 kWh LFP battery (CLTC 835 km and 770 km) and the Max a 101.7 kWh ternary battery (CLTC 760 km) on an 800-volt platform.<a href=\"https://cnevpost.com/2025/06/26/xiaomi-launches-yu7-suv/\">[s15]</a></p><h3>Manufacturing and capacity</h3><p>Xiaomi's official factory page identifies its manufacturing campus in the Beijing Economic-Technological Development Area (Yizhuang), with dedicated NEV production workshops.<a href=\"https://www.xiaomiauto.com/global/factory\">[s29]</a> The plan announced in 2021 envisaged two phases with combined annual capacity of 300,000 vehicles, or 150,000 in each phase. A current installed annual capacity figure could not be verified from the primary sources reviewed as of 29 October 2026, so none is stated here.<a href=\"https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html\">[s13]</a><a href=\"https://www.xiaomiauto.com/global/factory\">[s29]</a> In early 2025 Xiaomi set up a European R&D and design centre in Munich, Germany, staffed by experts from international automakers; the YU7 GT is the first model developed with deep involvement from that team.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></p><h3>Domestic market position</h3><p>The interim report noted that in H1 2026 the China Mainland passenger-vehicle market was weak, with retail volume down 20% year on year, while the SU7 series ranked No.1 among battery-electric sedans priced at RMB200,000 and above sold in the Chinese Mainland.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> According to the July 2026 China Automobile Retention Rate Report jointly issued by the China Automobile Dealers Association and Jingzhengu, the YU7 series ranked first among one-year-old main BEV models with a retention rate of 82.8%, while the SU7 series ranked fourth at 75.3% and first among one-year-old main BEV sedans.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></p><h3>Overseas</h3><p>Xiaomi does not yet sell vehicles outside China at scale and does not separately disclose overseas deliveries. It plans to enter Europe in 2027 and signed a memorandum of understanding with a first batch of leading German dealer groups at IFA Berlin in September 2026.<a href=\"https://www.xiaomiauto.com/global\">[s9]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>",
+      "zh": "<h3>业务结构</h3><p>小米汽车收入归入集团「智能电动汽车及 AI 等创新业务」分部。2025 财年该分部收入 1,061 亿元（其中智能电动汽车约 1,033 亿元），第四季度分部收入 372 亿元，占集团总收入 31.8%。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a> 2025 年第三季度，集团「智能电动汽车及 AI 等创新业务」分部首次实现单季度经营盈利，经营收益 7 亿元；当季汽车交付 108,796 辆，智能电动汽车收入 283 亿元。汽车业务单体净利润未单独披露。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1118/2025111800683_c.pdf\">[s28]</a> 2026 年上半年分部收入 448 亿元（同比 +12.3%），其中智能电动汽车 429 亿元、其他相关业务（含小米 MiMo 大模型系列带来的 AI 收入）19 亿元；分部毛利率 19.6%、经营亏损 57 亿元。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> 第二季度分部收入 249 亿元（智能电动汽车 239 亿元），毛利率由上年同期 26.4% 降至 19.2%，经营亏损 26 亿元（较一季度 31 亿元收窄）。<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a> 据媒体报道，小米汽车研发团队已近万人。<a href=\"https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html\">[s23]</a></p><h3>产品矩阵与销量</h3><p>截至 2026 年 10 月，在售车型包括纯电 SU7、SU7 Ultra、YU7（含 YU7 GT）及增程澎程系列。澎程于 2026-09-07 正式上市，N70 Pro、N70 Max、N90 Max、N90 Max 探索版四款车型正式售价分别为 20.99 万、23.99 万、26.99 万、29.99 万元。<a href=\"https://www.xiaomiauto.com/global/newsroom/37?source=list\">[s31]</a><a href=\"https://www.xiaomiev.com/\">[s33]</a> 2025 年全年交付 411,082 辆（第四季度 145,115 辆）；据媒体统计，SU7 约 25.8 万辆、YU7 约 15.3 万辆。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://cnevpost.com/2026/02/13/xiaomi-ev-reaches-600000-vehicle-delivery-milestone/\">[s16]</a> 2026 年上半年交付 185,055 辆（同比 +17.7%）。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> 从官方里程碑看：SU7 于 2024 年 11 月用 230 天达成 10 万辆，2025-11-20 第 50 万辆下线（自首款车型发布起 602 天），2026 年 2 月交付第 60 万辆，截至 2026-07-30 累计交付超 70 万辆。<a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a><a href=\"https://cnevpost.com/2026/02/13/xiaomi-ev-reaches-600000-vehicle-delivery-milestone/\">[s16]</a><a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a></p><h3>核心技术平台</h3><p>小米汽车有两套技术体系：纯电平台「摩德纳」（用于 SU7/YU7）与「昆仑技术架构」（2026-07-30 发布，涵盖昆仑平台、昆仑超级增程、昆仑全域安全，并配套「龙甲电池体系」）。<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a> 智能驾驶方面，小米在其车型上搭载 Xiaomi HAD（Hyper Assisted Driving，辅助驾驶）系统。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800526.pdf\">[s26]</a> YU7 标准版与 Pro 搭载 96.3 千瓦时磷酸铁锂电池（CLTC 835/770 公里），Max 搭载 101.7 千瓦时三元电池（CLTC 760 公里），采用 800 伏平台。<a href=\"https://cnevpost.com/2025/06/26/xiaomi-launches-yu7-suv/\">[s15]</a></p><h3>工厂与产能</h3><p>小米汽车官方工厂介绍确认，其制造园区位于北京经济技术开发区（亦庄），设有新能源汽车生产车间。<a href=\"https://www.xiaomiauto.com/global/factory\">[s29]</a>2021 年公布的两期规划合计年产能为 30 万辆，每期各 15 万辆。截至 2026-10-29，本次查阅的一手资料未能核实当前已投产年产能，因此不列现有产能数字。<a href=\"https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html\">[s13]</a><a href=\"https://www.xiaomiauto.com/global/factory\">[s29]</a> 2025 年初，小米汽车在德国慕尼黑设立欧洲研发中心，汇聚国际车企人才；YU7 GT 是该团队深度参与研发的首款车型。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></p><h3>国内市场地位</h3><p>中期报告指出，2026 年上半年中国大陆乘用车大盘不景气、零售量同比下滑 20%，而 SU7 系列在中国大陆 20 万元以上纯电轿车中销量排名第一。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> 据中国汽车流通协会与精真估联合发布的《2026 年 7 月中国汽车保值率研究报告》，YU7 系列以 82.8% 的一年车龄保值率位列主要纯电车型第一，SU7 系列以 75.3% 位列第四、并在一年车龄主要纯电轿车中位列第一。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></p><h3>海外业务</h3><p>小米目前尚未在中国以外规模化销售，也未单独披露海外交付量；公司计划 2027 年进入欧洲，并于 2026 年 9 月柏林 IFA 与首批德国头部经销商集团签署谅解备忘录。<a href=\"https://www.xiaomiauto.com/global\">[s9]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>"
+    },
+    "leadership": {
+      "source_ids": [
+        "s10",
+        "s7",
+        "s12",
+        "s24",
+        "s23",
+        "s8",
+        "s6",
+        "s25"
+      ],
+      "en": "<h3>Founder</h3><p>Lei Jun is the founder, executive director, chairman and CEO of Xiaomi Corporation, and directly leads the Xiaomi EV business. Xiaomi Corporation was founded in April 2010 and listed on the HKEX Main Board on 9 July 2018.<a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a> He received a bachelor's degree in computer science from Wuhan University in July 1991 and joined Kingsoft in 1992, holding various senior positions there and serving as chairman since July 2011; he was a director of Beijing Kingsoft Office Software from December 2011 and chairman of Kingsoft Cloud Holdings from 2015 until he resigned as its non-executive director on 25 March 2026, stepping down at the same time as chairman, chairman of the nomination committee and member of the remuneration committee.<a href=\"https://www.mi.com/about/founder\">[s7]</a><a href=\"https://ir.ksyun.com/static-files/4ab7caf0-d55e-448f-babe-f7b942a6e15d\">[s12]</a><a href=\"https://www.cnstock.com/commonDetail/656552\">[s24]</a> He founded Joyo.com in 2000 (sold to Amazon in 2004) and was an angel investor in companies such as YY and UC.<a href=\"https://www.mi.com/about/founder\">[s7]</a></p><h3>Key management</h3><ul><li><strong>Lei Jun</strong> - founder, executive director, chairman and CEO, in charge of Xiaomi EV strategy and products.<a href=\"https://www.mi.com/about/founder\">[s7]</a></li><li><strong>Lin Bin</strong> - co-founder, executive director and vice chairman; co-founded the company with Lei Jun in 2010, served as president until 2019, then became vice chairman. Previously he worked at Microsoft from 1995 to 2006 in a series of positions including software design engineer, supervisor, manager and engineering director, and was engineering director at Google from 2006 to 2010.<a href=\"https://www.mi.com/about/founder\">[s7]</a></li><li><strong>Lu Weibing</strong> - partner, Group president and president of the smartphone department; joined Xiaomi in 2019. Previously founder and CEO of Shenzhen Chenyee Technology Co., Ltd. (2017-2018), president of Gionee (2010-2017), general manager of the overseas business unit of Beijing Tianyu Communication Equipment (2008-2010), and sales general manager of Konka Communications (1998-2007).<a href=\"https://www.mi.com/about/founder\">[s7]</a></li><li><strong>Hu Zhengnan</strong> - Group vice president and CTO of the auto division, appointed 2026-04-17 (Xiaomi Auto's first CTO). Previously a partner at Shunwei Capital and Xiaomi Auto consultant; he founded Longchuang automotive design and held posts at several automakers.<a href=\"https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html\">[s23]</a><a href=\"https://ir.mi.com/zh-hans/management/huzhengnan\">[s8]</a></li><li><strong>Alain Lam (林世伟)</strong> - vice president and chief financial officer, joined in 2020. Previously managing director and head of Asia technology, media and telecom investment banking at Credit Suisse Hong Kong (2016-2020), and at Morgan Stanley (1997-2015).<a href=\"https://www.mi.com/about/founder\">[s7]</a></li></ul><p>On 2026-04-17 Xiaomi also appointed Song Gang as vice president and chief of staff of the auto division, responsible for supply chain, production lines and capacity ramp-up.<a href=\"https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html\">[s23]</a></p><h3>Shareholding and governance</h3><p>Xiaomi uses a weighted voting rights (WVR) structure: each Class A share carries 10 votes and each Class B share one vote, except on a limited number of reserved matters where each share carries one vote.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042801081_c.pdf\">[s6]</a> As of 2026-06-30, Lei Jun was deemed to hold 4,001,963,455 Class A shares and 2,054,816,183 Class B shares, for total voting power of about 64.0% (self-calculated, applicable to resolutions other than reserved matters).<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> Lin Bin was deemed to hold 441,652,678 Class A shares and a total Class B interest of 1,888,267,532 shares (comprising 1,713,795,137 via Apex Star LLC, 93,438,272 via Apex Star FT LLC as trustee, 50,686,600 via the Bin Lin and Daisy Liu Family Foundation, and 30,347,523 as beneficial owner), for total voting power of about 9.6% (self-calculated, applicable to resolutions other than reserved matters).<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></p>",
+      "zh": "<h3>创始人</h3><p>雷军为小米集团创始人、执行董事、董事长兼首席执行官，并直接领导小米汽车业务。小米集团成立于 2010 年 4 月，2018 年 7 月 9 日在港交所主板上市。<a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a> 他 1991 年 7 月取得武汉大学计算机科学学士学位，1992 年加入金山软件并历任多个高级职位、自 2011 年 7 月起任董事长；自 2011 年 12 月起任北京金山办公软件董事，2015 年起任金山云控股董事长，直至 2026 年 3 月 25 日辞任金山云非执行董事，并同时卸任董事长、提名委员会主席及薪酬委员会成员。<a href=\"https://www.mi.com/about/founder\">[s7]</a><a href=\"https://ir.ksyun.com/static-files/4ab7caf0-d55e-448f-babe-f7b942a6e15d\">[s12]</a><a href=\"https://www.cnstock.com/commonDetail/656552\">[s24]</a> 他 2000 年创办卓越网（2004 年售予亚马逊），并曾以天使投资人身份投资 YY、UC 等企业。<a href=\"https://www.mi.com/about/founder\">[s7]</a></p><h3>核心管理层</h3><ul><li><strong>雷军</strong>——创始人、执行董事、董事长兼首席执行官，负责小米汽车战略与产品。<a href=\"https://www.mi.com/about/founder\">[s7]</a></li><li><strong>林斌</strong>——联合创始人、执行董事、副董事长，2010 年与雷军共同创办公司，出任总裁直至 2019 年后改任副董事长；此前 1995-2006 年在微软任职，历任软件设计工程师、主管、经理及工程总监等职位，2006-2010 年任谷歌工程总监。<a href=\"https://www.mi.com/about/founder\">[s7]</a></li><li><strong>卢伟冰</strong>——合伙人、集团总裁兼手机部总裁，2019 年加入。此前 2017-2018 年任深圳诚壹科技有限公司创始人兼 CEO，2010-2017 年任金立通信总裁，2008-2010 年任北京天宇朗通海外事业部总经理，1998-2007 年任康佳通信销售总经理。<a href=\"https://www.mi.com/about/founder\">[s7]</a></li><li><strong>胡峥楠</strong>——集团副总裁、汽车部首席技术官，2026-04-17 出任（小米汽车首次设立 CTO）。此前任顺为资本投资合伙人兼小米汽车顾问，曾创立龙创汽车设计公司并在多家车企任职。<a href=\"https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html\">[s23]</a><a href=\"https://ir.mi.com/zh-hans/management/huzhengnan\">[s8]</a></li><li><strong>林世伟（Alain Lam）</strong>——副总裁兼首席财务官，2020 年加入。此前 2016-2020 年任瑞信香港董事总经理、亚洲科技媒体电信投行部主管，1997-2015 年任职摩根士丹利。<a href=\"https://www.mi.com/about/founder\">[s7]</a></li></ul><p>2026-04-17 小米同时任命宋钢为汽车部副总裁兼参谋长，负责供应链、生产线与产能爬坡。<a href=\"https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html\">[s23]</a></p><h3>股权与治理</h3><p>小米采用不同投票权（WVR）架构：A 类普通股每股 10 票、B 类每股 1 票，唯就少数保留事项每股 1 票。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042801081_c.pdf\">[s6]</a> 截至 2026-06-30，雷军被视为持有 4,001,963,455 股 A 类及 2,054,816,183 股 B 类股份，合计拥有约 64.0% 投票权（自行计算，仅适用于保留事项以外的决议）。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> 林斌被视为持有 441,652,678 股 A 类及合计 1,888,267,532 股 B 类权益（其中经 Apex Star LLC 1,713,795,137 股、经 Apex Star FT LLC 作为受托人 93,438,272 股、经 Bin Lin and Daisy Liu Family Foundation 50,686,600 股、实益持有 30,347,523 股），合计拥有约 9.6% 投票权（自行计算，仅适用于保留事项以外的决议）。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></p>"
+    },
+    "competition": {
+      "source_ids": [
+        "s15",
+        "s17",
+        "s25",
+        "s10",
+        "s20",
+        "s1",
+        "s5",
+        "s2",
+        "s30",
+        "s11"
+      ],
+      "en": "<h3>Main competitors</h3><p>In China's RMB200,000-and-above NEV market, Xiaomi EV competes with Tesla, BYD, Huawei-backed brands (AITO and Luxeed), NIO, XPeng, Li Auto and Zeekr: the SU7 targets the Tesla Model 3, the YU7 targets the Model Y, and the SkyNomad series enters the EREV SUV segment dominated by Li Auto and AITO.<a href=\"https://cnevpost.com/2025/06/26/xiaomi-launches-yu7-suv/\">[s15]</a><a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a> Media coverage of the SkyNomad launch cited industry data showing China's NEV market growth slowed to 7.3% in H1 2026 (from 40.3% a year earlier), while the EREV segment contracted about 13% over the same period; the interim report separately noted China Mainland passenger-vehicle retail volume fell 20% year on year in H1 2026.<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> By official figures the SU7 was the No.1-selling sedan priced at RMB200,000 and above in the Chinese Mainland in 2025, and media-cited statistics put the YU7 at No.1 in mid-to-large SUV sales for several consecutive months.<a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a><a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a></p><h3>Strengths</h3><ul><li>Our view: Brand and ecosystem: Xiaomi's 'Human x Car x Home' ecosystem and large user base convert into orders quickly - the YU7 took over 240,000 locked-in orders within 18 hours,.<a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a></li><li>Our view: Fast scale-up: the segment reached positive income from operations (RMB0.9 billion) in only its second delivery year, with 411,082 deliveries in 2025 and over 700,000 cumulative by 2026-07-30.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a></li><li>Our view: Self-built plant and in-house technology: the Beijing plant plus the self-developed Xiaomi HAD system, the Modena and Kunlun platforms, and a Nürburgring production-EV lap record.<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a></li></ul><h3>Weaknesses</h3><ul><li>Our view: Capacity and delivery constraints: rapid order intake and long delivery lead times have been a recurring bottleneck mentioned by the company.<a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a></li><li>Our view: Narrow lineup: until July 2026 the business relied on only two BEV models, so brand concentration is high.<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a></li><li>Our view: Margin pressure: in Q2 2026 the segment gross margin fell from 26.4% to 19.2% and the segment recorded an operating loss of RMB2.6 billion.<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a></li></ul><p>Our view: the change from positive segment income from operations in FY2025 to an operating loss in Q2 2026 shows that delivery growth has not yet established sustained segment profitability. Product mix, realised selling prices and operating costs remain key variables. The SU7 Ultra's RMB285,000 gap between pre-sale and launch pricing is a verified pricing fact, but it does not establish that industry price competition caused that gap; identifying its causes would require further evidence.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf\">[s2]</a><a href=\"https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2024/11/18/6-11-14/Xiaomi%20Corp_24Q3_ER_ENG_vF.pdf\">[s30]</a></p><p>Our view: adding an EREV lineup increases the importance of development, production ramp-up and after-sales execution. Overseas entry adds a separate execution task, while concentrated voting power makes oversight arrangements material to governance. These are analytical implications of the disclosed product plan, European MoU and shareholdings, rather than evidence that any of these risks has already materialised.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>",
+      "zh": "<h3>主要对手</h3><p>在中国 20 万元及以上新能源市场，小米汽车与特斯拉、比亚迪、华为系品牌（问界、智界）、蔚来、小鹏、理想、极氪竞争：SU7 对标特斯拉 Model 3，YU7 对标 Model Y，澎程系列则进入理想、问界主导的增程 SUV 市场。<a href=\"https://cnevpost.com/2025/06/26/xiaomi-launches-yu7-suv/\">[s15]</a><a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a> 媒体引行业数据称，2026 年上半年新能源汽车市场整体增速由上年同期的 40.3% 降至 7.3%，同期增程市场同比下滑约 13%；中期报告则另指出 2026 年上半年中国大陆乘用车零售量同比下滑 20%。<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> 据官方数据，SU7 位列 2025 年中国大陆 20 万元及以上轿车销量第一；媒体引第三方统计显示 YU7 连续多月位居中大型 SUV 销量第一。<a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a><a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a></p><h3>优势</h3><ul><li>我们的判断：品牌与生态：依托小米「人车家全生态」与庞大用户群，订单转化快——YU7 开售 18 小时锁单超 24 万台。<a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a></li><li>我们的判断：规模爬坡快：交付第二年即实现分部经营收益转正（9 亿元），2025 年交付 411,082 辆、截至 2026-07-30 累计超 70 万辆。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a></li><li>我们的判断：自建工厂与自研技术：北京工厂加自研 Xiaomi HAD 智驾、摩德纳与昆仑两套平台，并刷新纽北量产电动车圈速纪录。<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a><a href=\"https://www.xiaomiauto.com/global/our-story\">[s10]</a></li></ul><h3>短板</h3><ul><li>我们的判断：产能与交付受限：订单快速积累、交付周期拉长，是公司反复提到的瓶颈。<a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=621784\">[s20]</a></li><li>我们的判断：产品线偏窄：2026 年 7 月前仅靠 SU7、YU7 两款纯电车型，品牌集中度高。<a href=\"https://www.cnstock.com/commonDetail/753246\">[s17]</a></li><li>我们的判断：毛利承压：2026 年第二季度分部毛利率由 26.4% 降至 19.2%，分部经营亏损 26 亿元。<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a></li></ul><p>我们的判断：分部从 2025 全年经营收益转正转为 2026 年第二季度经营亏损，说明交付增长尚未形成持续的分部盈利。产品结构、实际成交价与经营成本仍是关键变量。SU7 Ultra 预售价与上市价相差 28.5 万元是已核实的定价事实，但不能据此认定价差由行业价格竞争导致；识别其成因还需要其他证据。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf\">[s2]</a><a href=\"https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2024/11/18/6-11-14/Xiaomi%20Corp_24Q3_ER_ENG_vF.pdf\">[s30]</a></p><p>我们的判断：新增增程产品线使研发、量产爬坡与售后执行更为重要；进入欧洲带来另一项执行任务，投票权集中则使治理监督安排值得关注。这些是基于已披露产品计划、欧洲备忘录和股份结构的分析，不表示相关风险已经发生。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>"
+    },
+    "outlook": {
+      "source_ids": [
+        "s1",
+        "s25",
+        "s5",
+        "s11"
+      ],
+      "en": "<h3>Company targets and latest results</h3><p>In its 24 March 2026 annual results announcement, Xiaomi stated that it would strive to deliver 550,000 vehicles in 2026.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a> Official H1 2026 deliveries were 185,055 vehicles.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a> At Group level, H1 2026 revenue was RMB208.1 billion and adjusted net profit was RMB12.3 billion; the smart EV, AI and other new initiatives segment posted Q2 revenue of RMB24.9 billion and an operating loss of RMB2.6 billion, compared with an operating loss of RMB3.1 billion in Q1.<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a> The company plans to enter Europe in 2027 and signed an MoU with German dealer groups at IFA Berlin in September 2026.<a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p><h3>Our analysis</h3><p>Our view: FY2025 vehicle deliveries and positive segment income from operations show that Xiaomi has built sales scale, but the Q2 2026 segment loss makes sustained profitability an open question. Meeting the 550,000-vehicle target depends on demand, execution of new product plans and manufacturing ramp-up; weaker demand or a slower ramp could lower deliveries and profitability. The Europe plan is a longer-term project whose commercial results will depend on local sales and service execution.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>",
+      "zh": "<h3>公司目标与最新业绩</h3><p>小米在 2026-03-24 的全年业绩公告中提出，2026 年将全力冲刺交付 55 万辆汽车的目标。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a>官方上半年交付 185,055 辆。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a>集团层面，2026 年上半年收入 2,081 亿元、经调整净利润 123 亿元；「智能电动汽车及 AI 等创新业务」分部第二季度收入 249 亿元、经营亏损 26 亿元，第一季度经营亏损为 31 亿元。<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a>公司计划于 2027 年进入欧洲，并于 2026 年 9 月柏林 IFA 与德国经销商集团签署谅解备忘录。<a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p><h3>我们的分析</h3><p>我们的判断：2025 年的汽车交付量与分部经营收益转正表明小米已建立销售规模，但 2026 年第二季度分部亏损说明持续盈利仍待验证。全年 55 万辆目标取决于需求、新产品计划的执行与制造爬坡；需求减弱或爬坡慢于预期，可能影响交付和盈利。欧洲计划属于更长期项目，商业结果将取决于当地销售与服务执行。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf\">[s1]</a><a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a><a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></p>"
+    },
+    "risks": {
+      "source_ids": [
+        "s5",
+        "s2",
+        "s30",
+        "s18",
+        "s13",
+        "s29",
+        "s25",
+        "s11",
+        "s31",
+        "s33"
+      ],
+      "en": "<ul><li><strong>Operating performance:</strong> the Group's smart EV, AI and other new initiatives segment posted an operating loss of RMB2.6 billion and a gross margin of 19.2% in Q2 2026.<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a></li><li><strong>Pricing history:</strong> the SU7 Ultra standard version launched in February 2025 from RMB529,900, compared with its RMB814,900 pre-sale price in the 2024 Q3 presentation, a difference of RMB285,000.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf\">[s2]</a><a href=\"https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2024/11/18/6-11-14/Xiaomi%20Corp_24Q3_ER_ENG_vF.pdf\">[s30]</a></li><li><strong>Quality and safety record:</strong> in September 2025 Xiaomi recalled 116,887 SU7 standard-edition vehicles (produced between 2024-02-06 and 2025-08-30) for an OTA update to the L2 highway pilot-assist system, with no hardware replacement.<a href=\"https://auto.cnr.cn/hy/20250919/t20250919_527368761.shtml\">[s18]</a></li><li><strong>Manufacturing disclosure:</strong> the 2021 two-phase plant plan envisaged combined annual capacity of 300,000 vehicles. A current installed capacity figure could not be verified from the primary sources reviewed.<a href=\"https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html\">[s13]</a><a href=\"https://www.xiaomiauto.com/global/factory\">[s29]</a></li><li><strong>Product expansion:</strong> the SkyNomad EREV SUV series officially launched on 2026-09-07 with four versions: N70 Pro, N70 Max, N90 Max and N90 Max Studio.<a href=\"https://www.xiaomiauto.com/global/newsroom/37?source=list\">[s31]</a></li><li><strong>Overseas execution:</strong> Xiaomi plans to enter Europe in 2027 and signed an MoU with German dealer groups at IFA Berlin in September 2026.<a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></li><li><strong>Voting structure:</strong> Lei Jun holds about 64.0% of total voting power under the weighted voting rights structure (self-calculated from the 30 June 2026 shareholdings, for resolutions other than reserved matters).<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></li></ul>",
+      "zh": "<ul><li><strong>经营表现：</strong>集团「智能电动汽车及 AI 等创新业务」分部 2026 年第二季度经营亏损 26 亿元、毛利率 19.2%。<a href=\"https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df\">[s5]</a></li><li><strong>定价记录：</strong>SU7 Ultra 标准版于 2025 年 2 月上市，起售价 52.99 万元；2024 年第三季度业绩演示材料所列预售价为 81.49 万元，两者相差 28.5 万元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf\">[s2]</a><a href=\"https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2024/11/18/6-11-14/Xiaomi%20Corp_24Q3_ER_ENG_vF.pdf\">[s30]</a></li><li><strong>质量与安全记录：</strong>2025 年 9 月召回 2024-02-06 至 2025-08-30 生产的部分 SU7 标准版共 116,887 辆，通过 OTA 升级 L2 高速领航辅助功能，不涉及硬件更换。<a href=\"https://auto.cnr.cn/hy/20250919/t20250919_527368761.shtml\">[s18]</a></li><li><strong>产能披露：</strong>2021 年公布的工厂两期规划合计年产能为 30 万辆；本次查阅的一手资料未能核实当前已投产年产能。<a href=\"https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html\">[s13]</a><a href=\"https://www.xiaomiauto.com/global/factory\">[s29]</a></li><li><strong>产品扩展：</strong>澎程增程 SUV 系列已于 2026-09-07 正式上市，包括 N70 Pro、N70 Max、N90 Max、N90 Max 探索版四款车型。<a href=\"https://www.xiaomiauto.com/global/newsroom/37?source=list\">[s31]</a><a href=\"https://www.xiaomiev.com/\">[s33]</a></li><li><strong>海外执行：</strong>小米计划 2027 年进入欧洲，并于 2026 年 9 月在柏林 IFA 与德国经销商集团签署谅解备忘录。<a href=\"https://www.xiaomiauto.com/global/newsroom/36\">[s11]</a></li><li><strong>投票权结构：</strong>不同投票权架构下，雷军合计投票权约为 64.0%（根据 2026-06-30 股份数自行计算，仅适用于保留事项以外的决议）。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf\">[s25]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Xiaomi Corporation FY2025 Annual Results Announcement (HKEX)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0324/2026032400609_c.pdf",
+      "date": "2026-03-24",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "Xiaomi Corporation FY2024 Annual Results Announcement (HKEX)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0318/2025031801046_c.pdf",
+      "date": "2025-03-18",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Xiaomi Corporation FY2023 Annual Results Announcement (HKEX)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0319/2024031900547_c.pdf",
+      "date": "2024-03-19",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "Xiaomi Corporation 2025 Annual Report (HKEX, Chinese)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800527_c.pdf",
+      "date": "2026-04-28",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "小米集团 2026 年中期报告（ir.mi.com，127页；与s25为同一文献）",
+      "url": "https://ir.mi.com/static-files/6d468667-c943-4753-a0e0-2e5cb11575df",
+      "date": "2026-09-23",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Xiaomi Corporation HKEX circular re weighted voting rights (voting power)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042801081_c.pdf",
+      "date": "2026-04-28",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "Xiaomi Management Team (mi.com)",
+      "url": "https://www.mi.com/about/founder",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "Hu Zhengnan - Management profile (ir.mi.com)",
+      "url": "https://ir.mi.com/zh-hans/management/huzhengnan",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "Xiaomi Auto official global site",
+      "url": "https://www.xiaomiauto.com/global",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "Xiaomi Auto - Our Story (official)",
+      "url": "https://www.xiaomiauto.com/global/our-story",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s11",
+      "name": "Xiaomi Auto newsroom: Enters European market in 2027, MoU at IFA Berlin (official)",
+      "url": "https://www.xiaomiauto.com/global/newsroom/36",
+      "date": "2026-09-03",
+      "tier": "A"
+    },
+    {
+      "id": "s12",
+      "name": "Kingsoft Cloud Holdings announcement re Lei Jun's resignation (ir.ksyun.com)",
+      "url": "https://ir.ksyun.com/static-files/4ab7caf0-d55e-448f-babe-f7b942a6e15d",
+      "date": "2026-03-25",
+      "tier": "A"
+    },
+    {
+      "id": "s13",
+      "name": "Beijing E-Town government: 小米汽车签约落户北京经开区",
+      "url": "https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/cxfbqdkfq/xwfbt/wqxwhg/202112/t20211203_2589556.html",
+      "date": "2021-12-03",
+      "tier": "A"
+    },
+    {
+      "id": "s14",
+      "name": "CnEVPost: Xiaomi officially launches SU7 Ultra",
+      "url": "https://cnevpost.com/2025/02/27/xiaomi-launches-su7-ultra/",
+      "date": "2025-02-27",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "CnEVPost: Xiaomi launches YU7 SUV",
+      "url": "https://cnevpost.com/2025/06/26/xiaomi-launches-yu7-suv/",
+      "date": "2025-06-26",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "CnEVPost: Xiaomi EV reaches 600,000 vehicle delivery milestone",
+      "url": "https://cnevpost.com/2026/02/13/xiaomi-ev-reaches-600000-vehicle-delivery-milestone/",
+      "date": "2026-02-13",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "中国证券网：小米汽车正式入局增程赛道（昆仑技术架构与澎程系列）",
+      "url": "https://www.cnstock.com/commonDetail/753246",
+      "date": "2026-07-30",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "央广网：召回超11万辆SU7标准版 小米汽车回应",
+      "url": "https://auto.cnr.cn/hy/20250919/t20250919_527368761.shtml",
+      "date": "2025-09-19",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "央广网：20个月达成50万辆交付 雷军称今年交付将超40万辆",
+      "url": "https://auto.cnr.cn/hy/20251120/t20251120_527435879.shtml",
+      "date": "2025-11-20",
+      "tier": "B"
+    },
+    {
+      "id": "s20",
+      "name": "经济日报：小米汽车第50万辆整车下线 雷军称2025年预计交付超40万辆",
+      "url": "https://www.jingjiribao.cn/static/detail.jsp?id=621784",
+      "date": "2025-11-20",
+      "tier": "B"
+    },
+    {
+      "id": "s23",
+      "name": "中证网：小米汽车首设CTO职位 产能技术双线攻坚",
+      "url": "https://www.cs.com.cn/ssgs/01/2026/04/20/detail_2026042010005225.html",
+      "date": "2026-04-20",
+      "tier": "B"
+    },
+    {
+      "id": "s24",
+      "name": "中国证券网：雷军不再担任金山云董事长",
+      "url": "https://www.cnstock.com/commonDetail/656552",
+      "date": "2026-03-25",
+      "tier": "B"
+    },
+    {
+      "id": "s25",
+      "name": "小米集团 2026 年中期报告 (HKEX)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300297_c.pdf",
+      "date": "2026-09-23",
+      "tier": "A"
+    },
+    {
+      "id": "s26",
+      "name": "Xiaomi Corporation 2025 Annual Report (English, HKEX)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800526.pdf",
+      "date": "2026-04-28",
+      "tier": "A"
+    },
+    {
+      "id": "s27",
+      "name": "界面新闻：雷军直播拆新一代SU7，透露其锁单量已超4万辆（原始报道）",
+      "url": "https://www.jiemian.com/article/14205052.html",
+      "date": "2026-04-03",
+      "tier": "B"
+    },
+    {
+      "id": "s28",
+      "name": "小米集团：截至2025年9月30日止三个月及九个月之业绩公告（HKEX，第6页）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1118/2025111800683_c.pdf",
+      "date": "2025-11-18",
+      "tier": "A"
+    },
+    {
+      "id": "s29",
+      "name": "Xiaomi Auto Factory（小米汽车官方工厂介绍；截至研究日查阅）",
+      "url": "https://www.xiaomiauto.com/global/factory",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s30",
+      "name": "Xiaomi Corporation Q3 2024 Results Presentation（第31页：SU7 Ultra预售价及1,548 PS公制马力）",
+      "url": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2024/11/18/6-11-14/Xiaomi%20Corp_24Q3_ER_ENG_vF.pdf",
+      "date": "2024-11-18",
+      "tier": "A"
+    },
+    {
+      "id": "s31",
+      "name": "Xiaomi SkyNomad Family Unveiled: Four Intelligent, Reconfigurable, Large-Space SUVs Starting from RMB 209,900（官方上市稿；正文上市日2026-09-07，页面发布日期2026-09-11）",
+      "url": "https://www.xiaomiauto.com/global/newsroom/37?source=list",
+      "date": "2026-09-11",
+      "tier": "A"
+    },
+    {
+      "id": "s32",
+      "name": "Xiaomi Corporation 2021 Interim Report（第14页：2021-03-30宣布智能电动汽车业务；第15页：2021-09-01完成注册）",
+      "url": "https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2021/12/22/4-01-53/2021092800380.pdf",
+      "date": "2021-09-28",
+      "tier": "A"
+    },
+    {
+      "id": "s33",
+      "name": "小米汽车中国官网（车型导航：N90 Max 探索版；截至研究日查阅）",
+      "url": "https://www.xiaomiev.com/",
+      "date": "2026-10-29",
+      "tier": "A"
+    }
+  ]
+}
