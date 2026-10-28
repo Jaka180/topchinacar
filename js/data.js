@@ -868,22 +868,29 @@ const SITE_DATA = {
       id: 'byd-seal', brand: 'BYD', name: 'Seal',
       tag_en: 'The Tesla Model 3 challenger that\'s winning Europe',
       tag_zh: '正在赢得欧洲市场的特斯拉 Model 3 挑战者',
-      range: '550–650 km CLTC', accel: '3.8–7.5 s', price: 'US$24,800', priceLocal: '¥179,800 China',
+      range: '510–650 km CLTC', accel: '3.8–7.5 s', price: 'US$24,800', priceLocal: '¥179,800 China',
       specNote_en: 'China-market trim range; export WLTP figures differ by market.',
       specNote_zh: '中国市场配置区间；出口版 WLTP 数据因市场而异。',
       body_en: 'Seal is BYD\'s global mid-size electric sedan and the brand\'s most direct answer to the Tesla Model 3. It matters because BYD uses Seal to prove that its Blade Battery, CTB body integration and Ocean-series design can compete in mainstream export markets, not only in China. Specifications vary sharply between entry rear-drive cars and the all-wheel-drive Performance version, so range, acceleration and price should be read as a trim range rather than one combined configuration.',
       body_zh: '海豹是比亚迪面向全球市场的中型纯电轿车，也是比亚迪对标 Tesla Model 3 最直接的车型。它的重要性在于，比亚迪用海豹证明刀片电池、CTB 电池车身一体化和海洋网设计语言不仅能在中国市场成立，也能进入主流出口市场。入门后驱版与四驱性能版的续航、加速和价格差异很大，因此本页参数按配置区间理解，而不是单一车型配置。',
       colorA: '#d4302a', shape: 'sedan',
       image: 'images/byd-seal.jpg', imageCredit: 'BYD',
-      names: { cn: null, overseas: [{ name: 'BYD SEAL', markets: ['Europe', 'Netherlands', 'Australia', 'Thailand', 'Singapore'] }] },
+      names: { cn: '海豹', overseas: [{ name: 'BYD SEAL', markets: ['Europe', 'Netherlands', 'Australia', 'Thailand', 'Singapore'] }] },
       markets: ['Europe', 'Netherlands', 'Australia', 'Thailand', 'Singapore'],
-      price_cn: null,
+      price_cn: {
+        min_cny: 175800,
+        max_cny: 239800,
+        as_of: '2024-08-08',
+        note_en: '2025-model Seal EV, four trims: ¥175,800, ¥189,800, ¥216,800 and ¥239,800.',
+        note_zh: '2025 款海豹 EV 共 4 款：17.58 万、18.98 万、21.68 万、23.98 万元。'
+      },
       range_note: {
-        cltc: null,
+        cltc: { en: '2025-model trims: 510 km (510 Standard), 650 km (650 Long Range / 650 Smart Drive), 600 km (600 AWD Smart Drive).', zh: '2025 款：CLTC 510 km（510 标准版）、650 km（650 长续航版/智驾版）、600 km（600 四驱智驾版）。' },
         wltp: { en: '61.4 kWh rear-wheel drive: 460 km. 82.5 kWh rear-wheel drive: 570 km. All-wheel drive: 520 km. BYD Netherlands price list, May 2026.', zh: '61.4 kWh 后驱 460 km，82.5 kWh 后驱 570 km，四驱 520 km。比亚迪荷兰 2026 年 5 月价格表。' },
         epa: null
       },
       sources: [
+        { name: '中国青年网: 比亚迪2025款海豹/海豹07 DM-i上市, 9 August 2024', url: 'https://auto.youth.cn/xw/202408/t20240809_15437236.htm' },
         { name: 'BYD Netherlands SEAL price list, May 2026', url: 'https://www.byd.com/material/byd-site/nl/pdfs/pricelist-may-2026/Prijslijst%20BYD%20SEAL%202026%20per%20Mei%202026%20-%20V1.0.pdf' },
         { name: 'BYD Europe: DOLPHIN and SEAL introduction, 14 April 2023', url: 'https://www.byd.com/eu/news-list/BYD_Introduces_Two_New_Full-electric_Vehicles_in_Europe_BYD_DOLPHIN_and_BYD_SEAL.html' },
         { name: 'BYD Australia: SEAL', url: 'https://bydautomotive.com.au/seal' },
@@ -903,44 +910,73 @@ const SITE_DATA = {
       body_zh: '海鸥是比亚迪的小型纯电价格武器，在部分海外市场以 Dolphin Mini 名称销售。它的意义不在性能，而在成本结构：磷酸铁锂电池、紧凑封装与大规模制造，让它成为中国电动车价格优势最清晰的样本之一。阅读参数时不应把入门价与最长续航版本混用，因为 305 km 与 405 km 版本处在不同价格档。',
       colorA: '#0ea5e9', shape: 'suv',
       image: 'images/byd-seagull.jpg', imageCredit: 'User3204 / CC BY-SA 4.0',
-      names: { cn: null, overseas: [{ name: 'BYD Dolphin Surf', markets: ['Europe'] }] },
-      markets: ['Europe'],
-      price_cn: null,
+      names: {
+        cn: '海鸥',
+        overseas: [
+          { name: 'BYD Dolphin Surf', markets: ['Europe'] },
+          { name: 'BYD Dolphin Mini', markets: ['Brazil', 'Mexico'] }
+        ]
+      },
+      markets: ['Europe', 'Brazil', 'Mexico'],
+      price_cn: {
+        min_cny: 69800,
+        max_cny: 85800,
+        as_of: '2024-08-01',
+        note_en: '2025-model Seagull: ¥69,800–¥85,800 (305 km and 405 km versions).',
+        note_zh: '2025 款海鸥：6.98–8.58 万元（305 km 与 405 km 两个版本）。'
+      },
       range_note: {
-        cltc: null,
+        cltc: { en: '2025-model: 305 km and 405 km CLTC (two versions).', zh: '2025 款：CLTC 305 km 与 405 km（两个版本）。' },
         wltp: { en: 'Europe Dolphin Surf Boost (43.2 kWh): 322 km WLTP combined and 502 km WLTP city. BYD, 30 June 2025. Other trims were not stated in that release.', zh: '欧洲 Dolphin Surf Boost（43.2 kWh）：WLTP 综合 322 km，WLTP 城市 502 km。比亚迪 2025-06-30 新闻稿。该稿未给出其他配置。' },
         epa: null
       },
       sources: [
+        { name: '中国质量新闻网: 2025款比亚迪海鸥上市, 1 August 2024', url: 'https://m.cqn.com.cn/auto/content/2024-08/01/content_9058992.htm' },
+        { name: 'BYD: DOLPHIN MINI launched in Brazil and Mexico', url: 'https://www.byd.com/us/news-list/BYD-DOLPHIN-MINI-Launched-in-Brazil-and-Mexico.html' },
         { name: 'BYD: millionth Dolphin Surf, 30 June 2025', url: 'https://media.byd.com/byd-celebrates-production-of-millionth-record-breaking-dolphin-surf' }
       ],
       powertrain: ['bev']
     },
     {
       id: 'byd-atto-3', brand: 'BYD', name: 'Atto 3',
-      tag_en: 'BYD\'s global bestseller — the compact SUV that opened 70+ export markets.',
-      tag_zh: '比亚迪全球出口主力——打开 70 多个海外市场的紧凑型 SUV。',
-      range: '430–510 km CLTC', accel: '~7.3 s', price: 'US$16,500', priceLocal: '¥119,800 China',
-      specNote_en: 'China-market range differs from WLTP figures used in many export markets.',
-      specNote_zh: '中国市场 CLTC 续航与多数出口市场 WLTP 口径不同。',
+      tag_en: 'Current export name of this compact SUV. The newer China model is a different car.',
+      tag_zh: '这台紧凑型 SUV 的现款出口名。国内新一代是另一台车。',
+      range: '暂无数据', accel: '~7.3 s', price: '暂无数据', priceLocal: '',
+      specNote_en: 'No verified range or price for the Atto 3 still on sale. The 21 May 2026 China price and the 540 km / 630 km versions belong to the third-generation Yuan Plus, which has not replaced this car.',
+      specNote_zh: '仍在售的 Atto 3 没有核实到的续航和价格。2026-05-21 的国内价格，以及 540 km、630 km 两个版本，属于第三代元 PLUS，还没有替换这台车。',
       body_en: 'Atto 3 is BYD\'s most important global compact SUV and one of the first models that made BYD visible to mainstream buyers outside China. It packages the e-Platform 3.0, Blade Battery and a practical crossover body in a format that works for Europe, Southeast Asia, Australia and Latin America. Export-market battery packs, safety equipment and range ratings can differ from China-market data.',
       body_zh: 'Atto 3 是比亚迪最重要的全球紧凑型 SUV，也是比亚迪最早让海外主流消费者感知到的车型之一。它把 e-Platform 3.0、刀片电池和实用跨界车身整合到适合欧洲、东南亚、澳洲和拉美的产品形态中。出口市场的电池包、安全配置与续航测试标准可能与中国市场不同。',
       colorA: '#d4302a', shape: 'suv',
       image: 'images/byd-atto-3.jpg', imageCredit: 'Calreyn88 / CC BY-SA 4.0',
       names: {
-        cn: 'Yuan Plus',
+        cn: '元PLUS',
         overseas: [
           { name: 'BYD Atto 3', markets: ['New Zealand'] },
           { name: 'BYD Atto 5', markets: ['New Zealand'], status: 'planned-next' }
         ]
       },
       markets: ['New Zealand'],
-      price_cn: null,
-      range_note: null,
+      price_cn: {
+        min_cny: null,
+        max_cny: null,
+        as_of: null,
+        note_en: 'Caijing, via Sina on 22 May 2026: the third-generation Yuan Plus launched in China on 21 May 2026 at ¥119,900–¥149,900. That price is not used here as the Atto 3 guide price. Auto Trader New Zealand says the new car reaches New Zealand in 2027 as the Atto 5.',
+        note_zh: '新浪 2026-05-22 转财经网：第三代元 PLUS 于 2026-05-21 在国内上市，官方指导价 11.99–14.99 万元。这个价格不写成 Atto 3 的指导价。Auto Trader 新西兰稿称新车 2027 年以 Atto 5 到新西兰。'
+      },
+      range_note: {
+        cltc: null,
+        wltp: null,
+        epa: null
+      },
       sources: [
+        { name: '新浪财经: 比亚迪第三代元PLUS 上市, 22 May 2026', url: 'https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytkat5913725.shtml' },
         { name: 'Auto Trader NZ: new Yuan Plus confirmed as Atto 5 for 2027, 25 April 2026', url: 'https://autotrader.co.nz/news/exclusive-byds-new-yuan-plus-to-arrive-in-nz-as-atto-5-in-2027' },
         { name: 'electrive: BYD plans overseas Yuan Plus launch as Atto 5, 13 May 2026', url: 'https://www.electrive.com/2026/05/13/byd-plans-to-launch-new-yuan-plus-overseas-as-atto-5/' }
       ],
+      status: {
+        en: 'The car on this page is still the Atto 3. Caijing, via Sina, says the third-generation Yuan Plus launched in China on 21 May 2026 at ¥119,900–¥149,900, with 540 km and 630 km versions. That article does not name a test cycle, and it does not mention Atto 3 or Atto 5. Auto Trader New Zealand (25 April 2026) says the new car is planned for New Zealand in 2027 as the Atto 5, replacing the current Atto 3, and it calls the 540 km version CLTC.',
+        zh: '本页这台车仍是 Atto 3。新浪转财经网称，第三代元 PLUS 于 2026-05-21 在国内上市，官方指导价 11.99–14.99 万元，两个续航版本为 540 km 和 630 km。该稿没有写测试工况，也没有写 Atto 3 或 Atto 5。Auto Trader 新西兰 2026-04-25 稿称，新车计划 2027 年在新西兰以 Atto 5 销售并替换现款 Atto 3，并把 540 km 版本写成 CLTC。'
+      },
       powertrain: ['bev']
     },
     {
@@ -959,12 +995,12 @@ const SITE_DATA = {
       price_cn: {
         min_cny: 189800,
         max_cny: 239800,
-        as_of: null,
-        note_en: '2025-model trims still listed as on sale: ¥189,800, ¥199,800, ¥219,800 and ¥239,800. The page does not give an official price date, so none is shown.',
-        note_zh: '页面仍标为在售的 2025 款：18.98 万、19.98 万、21.98 万、23.98 万元。页面没有给出官方价格日期，所以不写日期。'
+        as_of: '2025-02-10',
+        note_en: '2025-model Smart Drive trims: 550 Smart Cruise ¥189,800, 610 Smart Cruise ¥199,800, 610 Smart Drive ¥219,800, 550 AWD Smart Drive ¥239,800.',
+        note_zh: '2025 款智驾版：550 智航版 18.98 万、610 智航版 19.98 万、610 智驾版 21.98 万、550 四驱智驾版 23.98 万元。'
       },
       range_note: {
-        cltc: { en: '2025 China trims still listed in 2026: 550 km or 610 km CLTC.', zh: '2025 款在 2026 年仍列出的中国在售配置：CLTC 550 km 或 610 km。' },
+        cltc: { en: '2025-model trims: 550 km (550 Smart Cruise, 550 AWD) or 610 km (610 Smart Cruise, 610 Smart Drive) CLTC.', zh: '2025 款：CLTC 550 km（550 智航版/四驱）或 610 km（610 智航版/智驾版）。' },
         wltp: { en: 'Comfort rear-wheel drive: 482 km. Design all-wheel drive: 456 km. Excellence all-wheel drive: 502 km.', zh: 'Comfort 后驱 482 km，Design 四驱 456 km，Excellence 四驱 502 km。' },
         epa: null
       },
@@ -978,18 +1014,32 @@ const SITE_DATA = {
       id: 'byd-han', brand: 'BYD', name: 'Han',
       tag_en: 'The flagship sedan that proved a Chinese brand could sell above ¥200K.',
       tag_zh: '证明中国品牌能站稳 20 万元以上市场的旗舰轿车。',
-      range: '506–715 km CLTC', accel: '3.9–7.9 s', price: 'US$29,000', priceLocal: '¥209,800 China',
+      range: '506–701 km CLTC', accel: '3.9–7.9 s', price: 'US$29,000', priceLocal: '¥209,800 China',
       specNote_en: 'Han EV trim range; DM-i/PHEV variants use different powertrain figures.',
       specNote_zh: '此处为汉 EV 配置区间；DM-i/插混版本动力与续航口径不同。',
       body_en: 'Han is BYD\'s flagship sedan family and one of the models that moved the brand above the budget-EV conversation. It combines executive-sedan dimensions with Blade Battery and high-output electric-drive options, while different EV and plug-in-hybrid versions serve different buyers. The figures here refer to the Han EV range and should not be blended with DM-i/PHEV specifications.',
       body_zh: '汉是比亚迪旗舰轿车家族，也是推动比亚迪跳出低价电动车叙事的关键车型之一。它以行政级轿车尺寸结合刀片电池和高功率电驱，不同纯电与插混版本服务不同用户。本页数据指汉 EV 配置区间，不与 DM-i/插混版本参数混用。',
       colorA: '#111827', shape: 'sedan-long',
       image: 'images/byd-han.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: null,
+      names: { cn: '汉', overseas: [] },
       markets: null,
-      price_cn: null,
-      range_note: null,
-      sources: null,
+      price_cn: {
+        min_cny: 179800,
+        max_cny: 235800,
+        as_of: '2024-09-09',
+        note_en: '2025-model Han EV, four trims: 506 KM ¥179,800, 605 KM ¥195,800, 701 KM ¥209,800, 701 KM LiDAR Smart Drive ¥235,800. Pure-electric Han only; DM-i/PHEV prices differ.',
+        note_zh: '2025 款汉 EV 共 4 款：506KM 17.98 万、605KM 19.58 万、701KM 20.98 万、701KM 激光雷达智驾 23.58 万元。仅纯电版，DM-i 插混价格不同。'
+      },
+      range_note: {
+        cltc: { en: '2025-model Han EV: 506 km, 605 km and 701 km CLTC.', zh: '2025 款汉 EV：CLTC 506 km、605 km、701 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '中国青年网: 2025款比亚迪汉EV 上市, 9 September 2024', url: 'https://auto.youth.cn/xw/202409/t20240910_15508741.htm' },
+        { name: '汽车之家: 2025款比亚迪汉 上市, 9 September 2024', url: 'https://m.autohome.com.cn/drive/202409/1300297.html' },
+        { name: 'BYD: HAN EV debuts in Brazil', url: 'https://www.byd.com/za/news-list/BYDs-Flagship-HAN-EV-Debuts-in-Brazil' }
+      ],
       powertrain: ['bev']
     },
     {
@@ -999,28 +1049,47 @@ const SITE_DATA = {
       range: '100 km EV / 800+ km', accel: '5.7 s', price: 'US$38,200', priceLocal: 'A$57,900 AU',
       colorA: '#374151', shape: 'suv',
       image: 'images/byd-shark-6.jpg', imageCredit: 'Ethan Llamas / CC BY-SA 4.0',
-      names: { cn: null, overseas: [{ name: 'BYD Shark 6', markets: ['Australia'] }] },
+      names: { cn: '鲨鱼', overseas: [{ name: 'BYD Shark 6', markets: ['Australia'] }] },
       markets: ['Australia'],
-      price_cn: null,
+      price_cn: {
+        min_cny: null,
+        max_cny: null,
+        as_of: null,
+        note_en: 'Export-first pickup: no China official guide price as of the 29 October 2026 research cutoff.',
+        note_zh: '出口优先的皮卡：截至 2026-10-29 研究截止日，中国无官方指导价。'
+      },
       range_note: null,
       sources: [
-        { name: 'CarExpert: 2026 BYD Shark 6 price and specs, 20 April 2026', url: 'https://www.carexpert.com.au/car-news/2026-byd-shark-6-price-and-specs' }
+        { name: 'CarExpert: 2026 BYD Shark 6 price and specs, 20 April 2026', url: 'https://www.carexpert.com.au/car-news/2026-byd-shark-6-price-and-specs' },
+        { name: 'BYD: Shark 6 official page', url: 'https://www.byd.com/en-kh/car/shark6' }
       ],
       powertrain: ['phev']
     },
     // ---- Xiaomi ----
     {
       id: 'xiaomi-su7', brand: 'Xiaomi', name: 'SU7',
-      tag_en: 'The phone-maker\'s first car — 700 km of range and a cult following overnight.',
-      tag_zh: '手机厂商的第一台车——700 公里续航，一夜之间成为现象级爆款。',
-      range: '700 km', accel: '5.28 s', price: 'US$29,800', priceLocal: '¥215,900 China',
+      tag_en: 'The phone-maker\'s first car — 720 km of range and a cult following overnight.',
+      tag_zh: '手机厂商的第一台车——720 公里续航，一夜之间成为现象级爆款。',
+      range: '720–902 km', accel: '5.28 s', price: 'US$29,800', priceLocal: '¥219,900 China',
       colorA: '#f97316', shape: 'sedan',
       image: 'images/xiaomi-su7.jpg', imageCredit: 'Benlisquare / CC BY-SA 4.0',
       names: { cn: '小米SU7', overseas: [] },
       markets: null,
-      price_cn: null,
-      range_note: null,
+      price_cn: {
+        min_cny: 219900,
+        max_cny: 303900,
+        as_of: '2026-03-19',
+        note_en: 'New-generation SU7 (launched 19 March 2026): Standard ¥219,900, Pro ¥249,900, Max ¥303,900.',
+        note_zh: '新一代 SU7（2026-03-19 上市）：标准版 21.99 万、Pro 24.99 万、Max 30.39 万元。'
+      },
+      range_note: {
+        cltc: { en: 'Standard 720 km, Pro 902 km, Max 835 km CLTC.', zh: '标准版 720 km、Pro 902 km、Max 835 km（CLTC）。' },
+        wltp: null,
+        epa: null
+      },
       sources: [
+        { name: '小米官网: 新一代SU7 配置表', url: 'https://www.xiaomiev.com/xiaomi/car-config' },
+        { name: '央广网: 小米新一代SU7 上市, 20 March 2026', url: 'https://www.cnr.cn/2013qcpd/hy/20260320/t20260320_527557055.shtml' },
         { name: 'CnEVPost: Xiaomi Auto global site ahead of 2027 Europe entry, 26 August 2026', url: 'https://cnevpost.com/2026/08/26/xiaomi-auto-launches-global-website-social-channels/' }
       ],
       powertrain: ['bev']
@@ -1035,9 +1104,21 @@ const SITE_DATA = {
       imageCredit: 'Daniel Lu (User:dllu) / CC BY-SA 4.0',
       names: { cn: '小米SU7 Ultra', overseas: [] },
       markets: null,
-      price_cn: null,
-      range_note: null,
+      price_cn: {
+        min_cny: 529900,
+        max_cny: 814900,
+        as_of: '2025-02-27',
+        note_en: 'Standard edition ¥529,900; Nürburgring limited edition ¥814,900.',
+        note_zh: '标准版 52.99 万，纽北限量版 81.49 万元。'
+      },
+      range_note: {
+        cltc: { en: '630 km CLTC (standard edition); 520 km CLTC (Nürburgring limited edition).', zh: '标准版 CLTC 630 km；纽北限量版 CLTC 520 km。' },
+        wltp: null,
+        epa: null
+      },
       sources: [
+        { name: '汽车之家: 小米SU7 Ultra 2025款 参数配置', url: 'https://www.autohome.com.cn/config/series/7915.html' },
+        { name: '新浪看点: 小米SU7 Ultra 导购（日常摸鱼bot）, 26 October 2026', url: 'https://auto.sina.cn/2026-10-26/detail-iniwpwiv2241307.d.html' },
         { name: 'CnEVPost: Xiaomi Auto global site ahead of 2027 Europe entry, 26 August 2026', url: 'https://cnevpost.com/2026/08/26/xiaomi-auto-launches-global-website-social-channels/' }
       ],
       powertrain: ['bev']
@@ -1047,18 +1128,26 @@ const SITE_DATA = {
       id: 'nio-et5', brand: 'NIO', name: 'ET5',
       tag_en: 'The volume NIO — swap-capable compact sedan sold across Europe.',
       tag_zh: '蔚来走量担当——支持换电、已进入欧洲多国的中型轿车。',
-      range: '560 km', accel: '4.0 s', price: 'US$41,100', priceLocal: '¥298,000 China',
+      range: '585–740 km CLTC', accel: '4.0 s', price: 'US$41,100', priceLocal: '¥298,000 China',
       colorA: '#1d4ed8', shape: 'sedan',
       image: 'images/nio-et5.jpg', imageCredit: 'conceptphoto.info / CC BY 2.0',
       names: { cn: '蔚来ET5', overseas: [{ name: 'NIO ET5', markets: ['Germany'] }] },
       markets: ['Germany'],
-      price_cn: null,
+      price_cn: {
+        min_cny: 298000,
+        max_cny: 356000,
+        as_of: '2025-05-25',
+        note_en: 'New ET5 (2025): whole-vehicle purchase ¥298,000 (75 kWh) or ¥356,000 (100 kWh); BaaS battery rental ¥228,000 (75 kWh) or ¥286,000 (100 kWh).',
+        note_zh: '新 ET5（2025 款）整车购买：75 kWh 29.8 万、100 kWh 35.6 万元；BaaS 租电：22.8 万（75 kWh）、28.6 万（100 kWh）。'
+      },
       range_note: {
-        cltc: null,
+        cltc: { en: '2025-model: 75 kWh 585 km; 100 kWh 740 km CLTC.', zh: '2025 款：75 kWh CLTC 585 km；100 kWh CLTC 740 km。' },
         wltp: { en: 'Standard Range: 456 km WLTP. Long Range: 590 km WLTP. Reported in October 2026 from a German NIO price list.', zh: '标准续航 456 km WLTP，长续航 590 km WLTP。2026 年 10 月报道转述的蔚来德国价格表。' },
         epa: null
       },
       sources: [
+        { name: 'NIO 官方: 新ET5/新ET5T 上市, 25 May 2025', url: 'https://www.nio.cn/news/20250525001' },
+        { name: '易车: 蔚来ET5 2025款 参数配置', url: 'https://car.m.yiche.com/weilaiet5/m187834/' },
         { name: 'Rouleur Électrique: NIO ET5, updated October 2026', url: 'https://rouleur-electrique.fr/nio/et5/' }
       ],
       powertrain: ['bev']
@@ -1070,16 +1159,52 @@ const SITE_DATA = {
       range: '650 km', accel: '4.3 s', price: 'US$108,700', priceLocal: '¥788,000 China',
       colorA: '#1d4ed8', shape: 'sedan-long',
       image: 'images/nio-et9.jpg', imageCredit: 'S5A-0043 / CC BY 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '蔚来ET9', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 768000,
+        max_cny: 838000,
+        as_of: '2024-12-21',
+        note_en: 'Launched 21 December 2024 from ¥788,000 (BaaS from ¥660,000); first limited edition ¥818,000. Later on-sale range ¥768,000–¥838,000.',
+        note_zh: '2024-12-21 上市，78.8 万起（BaaS 66 万起），首发限量版 81.8 万；后续在售区间 76.80–83.80 万元。'
+      },
+      range_note: {
+        cltc: { en: '650 km CLTC (102 kWh standard/signature); 620 km CLTC (first limited edition).', zh: 'CLTC 650 km（102 kWh 标准/签名版）；首发限量版 CLTC 620 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: 'NIO 官方: ET9 正式上市, 21 December 2024', url: 'https://www.nio.cn/news/20241221003' },
+        { name: '汽车之家: 蔚来ET9 参数配置', url: 'https://www.autohome.com.cn/config/series/7546.html' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'nio-onvo-l60', brand: 'NIO', name: 'Onvo L60',
       tag_en: 'NIO\'s family-SUV sub-brand debut, priced under the Model Y.',
       tag_zh: '蔚来子品牌乐道首款家用 SUV，定价低于 Model Y。',
-      range: '555 km', accel: '5.9 s', price: 'US$28,600', priceLocal: '¥206,900 China',
+      range: '525–740 km CLTC', accel: '5.9 s', price: 'US$28,600', priceLocal: '¥206,900 China',
       colorA: '#0ea5e9', shape: 'suv',
       image: 'images/nio-onvo-l60.jpg', imageCredit: 'Tim Wu / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '乐道L60', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 206900,
+        max_cny: null,
+        as_of: '2025-09-19',
+        note_en: 'Whole-vehicle purchase from ¥206,900; BaaS battery rental from ¥149,900 (19 September 2025 release; prices unchanged).',
+        note_zh: '整车购买 20.69 万起；BaaS 租电 14.99 万起（2025-09-19 官方稿确认价格保持不变）。'
+      },
+      range_note: {
+        cltc: { en: 'By trim (official config page): 60 kWh 525–560 km; 85 kWh 700–740 km CLTC.', zh: 'CLTC（官方配置表，视配置）：60 kWh 525–560 km；85 kWh 700–740 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '乐道官网: 乐道L60 售价与升级, 19 September 2025', url: 'https://www.onvo.cn/news/20250919001' },
+        { name: '乐道官网: L60 详细配置表', url: 'https://configuration.onvo.cn/alpsConfigList?carType=L60' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'nio-firefly', brand: 'NIO', name: 'Firefly',
@@ -1093,9 +1218,9 @@ const SITE_DATA = {
       price_cn: {
         min_cny: 119800,
         max_cny: null,
-        as_of: null,
-        note_en: 'Vehicle purchase price, not battery lease. The 42 kWh version starts at ¥119,800. The 60 kWh version starts at ¥136,800. A full top price was not stated. The IT之家 article date is not treated as the official price date.',
-        note_zh: '整车购买价，不是 BaaS 租电价。42 kWh 版本 11.98 万元起，60 kWh 版本 13.68 万元起。未见顶配封顶价。IT之家的发稿日期不当作官方价格日期。'
+        as_of: '2025-04-19',
+        note_en: 'Vehicle purchase price, not battery lease. Launched 19 April 2025: 42 kWh 自在版 ¥119,800, 发光版 ¥125,800. A 60 kWh version later started at ¥136,800; no full top price was stated.',
+        note_zh: '整车购买价，不是 BaaS 租电价。2025-04-19 上市：42 kWh 自在版 11.98 万、发光版 12.58 万元；后续 60 kWh 版本 13.68 万元起，未见顶配封顶价。'
       },
       range_note: {
         cltc: { en: '42 kWh: 420 km CLTC. 60 kWh: 560 km CLTC.', zh: '42 kWh：CLTC 420 km。60 kWh：CLTC 560 km。' },
@@ -1103,6 +1228,7 @@ const SITE_DATA = {
         epa: null
       },
       sources: [
+        { name: 'firefly 萤火虫官方: 首款车型上市, 19 April 2025', url: 'https://firefly.com.cn/news/20250419001' },
         { name: 'IT之家: firefly 60 kWh battery, 23 October 2026', url: 'https://www.ithome.com/1/016/840.htm' }
       ],
       powertrain: ['bev']
@@ -1112,19 +1238,55 @@ const SITE_DATA = {
       id: 'xpeng-g6', brand: 'Xpeng', name: 'G6',
       tag_en: 'Coupe-SUV with industry-leading 800V architecture and XNGP city autonomy.',
       tag_zh: '搭载行业领先 800V 高压架构与 XNGP 城市智驾的轿跑 SUV。',
-      range: '755 km', accel: '3.9 s', price: 'US$27,600', priceLocal: '¥199,800 China',
+      range: '625–725 km CLTC', accel: '6.3–6.4 s', price: 'US$27,600', priceLocal: '¥199,800 China',
       colorA: '#22c55e', shape: 'suv',
       image: 'images/xpeng-g6.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '小鹏G6', overseas: [{ name: 'XPENG G6', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 176800,
+        max_cny: 198800,
+        as_of: '2025-03-13',
+        note_en: '2025-model G6, three trims: 625 Long Range Max Tech ¥176,800, 625 Long Range Max Flagship ¥186,800, 725 Ultra Long Range Max Flagship ¥198,800.',
+        note_zh: '2025 款 G6 共 3 款：625 长续航 Max 科技版 17.68 万、625 长续航 Max 旗舰版 18.68 万、725 超长续航 Max 旗舰版 19.88 万元。'
+      },
+      range_note: {
+        cltc: { en: '2025-model: 625 km or 725 km CLTC.', zh: '2025 款：CLTC 625 km 或 725 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '小鹏官方: 2025款G6/G9 上市, 13 March 2025', url: 'https://www.xiaopeng.com/news/company_news/5450.html' },
+        { name: '小鹏官方: 2025款G6 配置表', url: 'https://www.xiaopeng.com/g6_2025/configuration.html' },
+        { name: '小鹏官方: 2025款G6/G9 欧洲上市, 2025', url: 'https://xiaopeng.com/news/company_news/5483.html' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'xpeng-mona-m03', brand: 'Xpeng', name: 'Mona M03',
       tag_en: 'The sub-¥120K smart sedan that made city-level ADAS affordable.',
       tag_zh: '不到 12 万元的智能轿车，让城市级智驾走进大众市场。',
-      range: '515 km', accel: '~7.5 s', price: 'US$16,500', priceLocal: '¥119,800 China',
+      range: '510–640 km CLTC', accel: '~7.5 s', price: 'US$16,500', priceLocal: '¥119,800 China',
       colorA: '#22c55e', shape: 'sedan',
       image: 'images/xpeng-mona-m03.jpg', imageCredit: 'S5A-0043 / CC BY 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '小鹏MONA M03', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 119800,
+        max_cny: 151800,
+        as_of: '2026-04-02',
+        note_en: '2026-model MONA M03, six trims from ¥119,800 (540 Long Range Plus) to ¥151,800 (610 Ultra Long Range Ultra SE).',
+        note_zh: '2026 款 MONA M03 共 6 款，11.98 万（540 长续航 Plus）至 15.18 万元（610 超长续航 Ultra SE）。'
+      },
+      range_note: {
+        cltc: { en: '2026-model: 510 km, 540 km, 610 km or 640 km CLTC depending on trim.', zh: '2026 款：CLTC 510 km、540 km、610 km 或 640 km（视配置）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '小鹏官方: 2026款MONA M03 上市, 2 April 2026', url: 'https://xiaopeng.com/news/company_news/5551.html' }
+      ],
+      powertrain: ['bev']
     },
     // ---- Li Auto ----
     {
@@ -1134,7 +1296,25 @@ const SITE_DATA = {
       range: '710 km', accel: '5.5 s', price: 'US$77,300', priceLocal: '¥559,800 China',
       colorA: '#f59e0b', shape: 'mpv',
       image: 'images/liauto-mega.jpg', imageCredit: '4300streetcar / CC BY 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '理想MEGA', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 529800,
+        max_cny: 559800,
+        as_of: '2024-03-01',
+        note_en: 'Launched 1 March 2024 at ¥559,800 (single trim). Current on-sale range ¥529,800–¥559,800.',
+        note_zh: '2024-03-01 上市，单一配置 55.98 万；现售区间 52.98–55.98 万元。'
+      },
+      range_note: {
+        cltc: { en: '710 km CLTC (102.7 kWh).', zh: 'CLTC 710 km（102.7 kWh）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '理想汽车官方: 理想MEGA 发布, 1 March 2024', url: 'https://www.lixiang.com/news/93.html' },
+        { name: '人民网: 理想MEGA 上市, 13 March 2024', url: 'https://hi.people.com.cn/auto/BIG5/n2/2024/0313/c336668-40773606.html' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'li-l6', brand: 'Li Auto', name: 'L6',
@@ -1143,7 +1323,25 @@ const SITE_DATA = {
       range: '1,390 km (EREV)', accel: '5.4 s', price: 'US$34,500', priceLocal: '¥249,800 China',
       colorA: '#f59e0b', shape: 'suv',
       image: 'images/li-l6.jpg', imageCredit: 'Ethan Llamas / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['erev']
+      names: { cn: '理想L6', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 249800,
+        max_cny: 279800,
+        as_of: '2024-04-18',
+        note_en: 'Pro ¥249,800; Max ¥279,800. Range-extender (EREV).',
+        note_zh: 'Pro 24.98 万、Max 27.98 万元。增程式（EREV）。'
+      },
+      range_note: {
+        cltc: { en: '212 km CLTC electric; 1,390 km CLTC combined.', zh: 'CLTC 纯电 212 km；CLTC 综合 1,390 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '理想汽车官方: 理想L6 发布, 18 April 2024', url: 'https://www.lixiang.com/news/97.html' },
+        { name: 'Li Auto IR: Li L6 launch', url: 'https://ir.lixiang.com/news-releases/news-release-details/li-auto-inc-launches-li-l6-five-seat-premium-family-suv' }
+      ],
+      powertrain: ['erev']
     },
     // ---- Zeekr / Lynk & Co ----
     {
@@ -1153,15 +1351,22 @@ const SITE_DATA = {
       range: '750 km', accel: '3.3 s', price: 'US$37,100', priceLocal: '¥269,000 China',
       colorA: '#0ea5e9', shape: 'wagon',
       image: 'images/zeekr-001.jpg', imageCredit: 'Юрий Д.К. / CC BY 4.0',
-      names: { cn: null, overseas: [{ name: 'Zeekr 001', markets: ['Italy'] }] },
+      names: { cn: '极氪001', overseas: [{ name: 'Zeekr 001', markets: ['Italy'] }] },
       markets: ['Italy'],
-      price_cn: null,
+      price_cn: {
+        min_cny: 259000,
+        max_cny: 329000,
+        as_of: '2024-08-13',
+        note_en: '2025-model 001, five trims from ¥259,000 (WE 95 kWh RWD) to ¥329,000 (YOU 100 kWh AWD).',
+        note_zh: '2025 款 001 共 5 款，25.9 万（WE 95kWh 后驱）至 32.9 万元（YOU 100kWh 四驱）。'
+      },
       range_note: {
-        cltc: null,
+        cltc: { en: '2025-model: 722 km (95 kWh RWD), 675 km (95 kWh AWD), 750 km (100 kWh RWD), 705 km (100 kWh AWD) CLTC.', zh: '2025 款：CLTC 722 km（95kWh 后驱）、675 km（95kWh 四驱）、750 km（100kWh 后驱）、705 km（100kWh 四驱）。' },
         wltp: { en: 'Italy, 100 kWh gross: Long Range rear-wheel drive 620 km; Performance all-wheel drive 594 km; Privilege all-wheel drive 585 km WLTP.', zh: '意大利在售、100 kWh（总容量）：Long Range 后驱 WLTP 620 km；Performance 四驱 594 km；Privilege 四驱 585 km。' },
         epa: null
       },
       sources: [
+        { name: '太平洋汽车: 2025款极氪001 价格与续航', url: 'https://m.pcauto.com.cn/x/4538/45383039.html' },
         { name: 'Motor1 Italy: Zeekr 001 prices, 27 May 2026', url: 'https://it.motor1.com/news/796976/zeekr-001-prezzo-allestimenti/' }
       ],
       powertrain: ['bev']
@@ -1173,8 +1378,8 @@ const SITE_DATA = {
       range: '780 km', accel: '3.8 s', price: 'US$31,700', priceLocal: '¥229,900 China',
       colorA: '#0ea5e9', shape: 'suv',
       image: 'images/zeekr-7x.jpg', imageCredit: 'Ethan Llamas / CC BY-SA 4.0',
-      names: { cn: '极氪7X', overseas: [] },
-      markets: null,
+      names: { cn: '极氪7X', overseas: [{ name: 'Zeekr 7X', markets: ['Netherlands', 'Norway', 'Sweden'] }] },
+      markets: ['Netherlands', 'Norway', 'Sweden'],
       price_cn: {
         min_cny: 229800,
         max_cny: 269800,
@@ -1188,6 +1393,7 @@ const SITE_DATA = {
         epa: null
       },
       sources: [
+        { name: '环球网: 极氪7X 欧洲上市交付, 14 May 2025', url: 'https://tech.huanqiu.com/article/4MfwOZlDn48' },
         { name: 'ZOL Tianjin Zeekr 7X guide prices, collected 21 October 2026', url: 'https://auto.zol.com.cn/1264/12642140_all.html' },
         { name: 'Sina Auto: Zeekr 7X 2026 prices and CLTC', url: 'https://k.sina.cn/article_7857141524_1d452771401902type.html' }
       ],
@@ -1200,7 +1406,26 @@ const SITE_DATA = {
       range: '150 km EV / 1,400 km', accel: '~6 s', price: '~US$36,700', priceLocal: '¥265,900 China',
       colorA: '#111827', shape: 'suv',
       image: 'images/lynkco-09.jpg', imageCredit: 'Lynk & Co',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['phev']
+      names: { cn: '领克09 EM-P', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 275800,
+        max_cny: 275800,
+        as_of: '2025-05-16',
+        note_en: '2025-model 2.0TD EM-P AWD Max five-seater, single trim at ¥275,800 (limited-time renewal price from ¥235,800).',
+        note_zh: '2025 款 2.0TD EM-P 四驱 Max 五座，单一配置 27.58 万（限时焕新价 23.58 万起）。'
+      },
+      range_note: {
+        cltc: { en: '190 km CLTC electric; 1,430 km CLTC combined.', zh: 'CLTC 纯电 190 km；CLTC 综合 1,430 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '中关村在线: 领克09 EM-P 五座Max 上市, 16 May 2025', url: 'https://auto.zol.com.cn/985/9857639.html' },
+        { name: '东方汽车: 领克09 EM-P 四驱Max大五座 上市, 16 May 2025', url: 'https://auto.eastday.com/a/n250516163232954.html' },
+        { name: '汽车之家: 领克09 EM-P 参数配置', url: 'https://www.autohome.com.cn/config/series/6334.html' }
+      ],
+      powertrain: ['phev']
     },
     // ---- Geely Galaxy ----
     {
@@ -1212,36 +1437,49 @@ const SITE_DATA = {
       image: 'images/geely-galaxy-e5.jpg', imageCredit: 'JustAnotherCarDesigner / CC0',
       names: { cn: '银河E5', overseas: [{ name: 'Geely EX5', markets: ['New Zealand'] }] },
       markets: ['New Zealand'],
-      price_cn: null,
-      range_note: null,
+      price_cn: {
+        min_cny: 109800,
+        max_cny: 145800,
+        as_of: '2025-07-24',
+        note_en: '2026-model E5, five trims from ¥109,800 (530 km Qihang) to ¥145,800 (610 km Xingjian).',
+        note_zh: '2026 款 E5 共 5 款，10.98 万（530km 启航版）至 14.58 万元（610km 星舰版）。'
+      },
+      range_note: {
+        cltc: { en: '2026-model: 530 km or 610 km CLTC depending on trim.', zh: '2026 款：CLTC 530 km 或 610 km（视配置）。' },
+        wltp: null,
+        epa: null
+      },
       sources: [
+        { name: '汽车之家: 银河E5 2026款 参数配置', url: 'https://www.autohome.com.cn/config/series/7650.html' },
         { name: 'CarExpert New Zealand: 2026 Geely EX5 pricing', url: 'https://www.carexpert.co.nz/geely/ex5/2026/price-and-specs' }
       ],
       powertrain: ['bev']
     },
     {
       id: 'geely-starship-7', brand: 'Geely', name: 'Galaxy Starship 7',
-      tag_en: 'Super-hybrid SUV rolling out across 57 countries, Brazil assembly planned.',
-      tag_zh: '进入 57 国的超级混动 SUV，计划在巴西本地组装。',
-      range: '120 km EV / 1,400+ km', accel: '~8 s', price: 'US$13,800', priceLocal: '¥99,800 China',
+      tag_en: 'Geely Galaxy plug-in hybrid SUV, launched in China on 6 December 2024.',
+      tag_zh: '吉利银河插电混动 SUV，2024-12-06 在国内上市。',
+      range: '1,420 km', accel: '7.5 s', price: '~US$13,800', priceLocal: '¥99,800–¥132,800',
+      specNote_en: '1,420 km is the combined range in the 7 December 2024 China Quality News report. That report does not name a test cycle. 0–100 km/h is 7.5 seconds. ¥99,800–¥132,800 is the limited-time launch price in that report, not a confirmed official guide price.',
+      specNote_zh: '1,420 km 是中国质量新闻网 2024-12-07 稿里的综合续航，稿中没有写测试工况。零百加速 7.5 秒。9.98–13.28 万元是该稿的限时先享价，不是已核实的官方指导价。',
       colorA: '#7c3aed', shape: 'suv',
       image: 'images/geely-starship-7.jpg', imageCredit: 'Ethan Llamas / CC BY-SA 4.0',
-      names: { cn: '银河星舰7', overseas: [] },
+      names: { cn: '银河星舰7 EM-i', overseas: [] },
       markets: null,
       price_cn: {
         min_cny: null,
         max_cny: null,
         as_of: null,
-        note_en: 'One verified trim only: Youxing official guide price ¥105,800. The full lineup interval was not confirmed.',
-        note_zh: '只核实到优行版官方指导价 10.58 万元，全系价格区间未核实。'
+        note_en: 'Launched 6 December 2024 in five trims. China Quality News gives a limited-time launch price of ¥99,800–¥132,800 and does not give a separate official guide price. The 55 km and 120 km figures in that report are trim names. Combined range is 1,420 km, with no test cycle named.',
+        note_zh: '2024-12-06 上市，五个版型。中国质量新闻网写的是限时先享指导价 9.98–13.28 万元，没有另写官方指导价。稿中的 55 km、120 km 是版型名。综合续航 1,420 km，没有标明测试工况。'
       },
       range_note: {
-        cltc: { en: 'Youxing trim only: 130 km CLTC electric range with a 19.09 kWh battery. Not a full-lineup figure.', zh: '仅优行版：19.09 kWh 电池，CLTC 纯电 130 km。不是全系数字。' },
+        cltc: null,
         wltp: null,
         epa: null
       },
       sources: [
-        { name: '车质网 via NetEase: 银河星舰7优行版, 27 October 2026', url: 'https://www.163.com/dy/article/LA83C48D0527D0EQ.html' }
+        { name: '中国质量新闻网: 银河星舰7 EM-i 上市, 7 December 2024', url: 'https://m.cqn.com.cn/auto/content/2024-12/07/content_9081358.htm' }
       ],
       powertrain: ['phev']
     },
@@ -1253,7 +1491,20 @@ const SITE_DATA = {
       range: 'ICE · HEV · PHEV', accel: '~8 s', price: 'US$13,600', priceLocal: '¥98,900 China',
       colorA: '#374151', shape: 'suv',
       image: 'images/haval-brand.jpg', imageCredit: 'Nord794ub / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['ice', 'hev', 'phev']
+      names: { cn: '哈弗H6', overseas: [{ name: 'Haval H6', markets: ['Australia'] }] },
+      markets: ['Australia'],
+      price_cn: {
+        min_cny: 98900,
+        max_cny: 143900,
+        as_of: '2024-06-19',
+        note_en: '2024-model petrol H6 from ¥98,900 (Guochao) to ¥143,900 (2.0T AWD Max); HEV ¥149,800, PHEV ¥159,800–¥173,800.',
+        note_zh: '2024 款燃油 H6 约 9.89 万（国潮版）至 14.39 万（2.0T 四驱 Max）；HEV 14.98 万，PHEV 15.98–17.38 万元。'
+      },
+      range_note: null,
+      sources: [
+        { name: '太平洋汽车: 哈弗H6 车型与价格', url: 'https://m.pcauto.com.cn/x/4634/46349453.html' }
+      ],
+      powertrain: ['ice', 'hev', 'phev']
     },
     {
       id: 'tank-300', brand: 'Tank', name: '300',
@@ -1262,7 +1513,25 @@ const SITE_DATA = {
       range: 'ICE · Hi4-T PHEV', accel: '~9 s', price: 'US$27,600', priceLocal: '¥199,800 China',
       colorA: '#374151', shape: 'suv',
       image: 'images/tank-300.jpg', imageCredit: 'Jengtingchen / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['ice', 'phev']
+      names: { cn: '坦克300', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 199800,
+        max_cny: 249800,
+        as_of: '2025-03-10',
+        note_en: '2025-model Tank 300: Challenger ¥199,800, Conqueror ¥216,800, 2.4T diesel ¥234,800, Hi4-T PHEV ¥249,800.',
+        note_zh: '2025 款坦克300：挑战者 19.98 万、征服者 21.68 万、2.4T 柴油 23.48 万、Hi4-T 插混 24.98 万元。'
+      },
+      range_note: {
+        cltc: null,
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '央视网: 2025款坦克300 上市, 11 March 2025', url: 'https://auto.cctv.cn/2025/03/11/ARTIAJkExIytdAuVQ1W9MZLK250311.shtml' },
+        { name: '中国质量新闻网: 2025款坦克300 参数, 18 March 2025', url: 'https://m.cqn.com.cn/auto/content/2025-03/18/content_9097342.htm' }
+      ],
+      powertrain: ['ice', 'phev']
     },
     {
       id: 'ora-good-cat', brand: 'Ora', name: 'Good Cat',
@@ -1271,21 +1540,56 @@ const SITE_DATA = {
       range: '501 km', accel: '~8.5 s', price: '~US$14,300', priceLocal: '¥103,900 China',
       colorA: '#22c55e', shape: 'suv',
       image: 'images/ora-good-cat.jpg', imageCredit: 'Calreyn88 / CC BY-SA 4.0',
-      names: null,
-      markets: null,
-      price_cn: null,
-      range_note: null,
-      sources: null,
+      names: { cn: '欧拉好猫', overseas: [{ name: 'Ora Good Cat', markets: ['Thailand', 'Australia'] }] },
+      markets: ['Thailand', 'Australia'],
+      price_cn: {
+        min_cny: 105800,
+        max_cny: 135800,
+        as_of: '2024-04-26',
+        note_en: '2024-model Good Cat, ¥105,800–¥135,800 (GT Mulan edition ¥119,800–¥129,800).',
+        note_zh: '2024 款好猫 10.58–13.58 万元（GT 木兰版 11.98–12.98 万元）。'
+      },
+      range_note: {
+        cltc: { en: '401 km or 501 km CLTC.', zh: 'CLTC 401 km 或 501 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '欧拉官方: 2024款好猫 上市, 26 April 2024', url: 'https://www.oraev.com/news_3403334.html' },
+        { name: '太平洋汽车: 2024款欧拉好猫 上市', url: 'https://m.pcauto.com.cn/hj/article/2485659.html' }
+      ],
       powertrain: ['bev']
     },
     {
       id: 'wey-lanshan', brand: 'Wey', name: 'Blue Mountain',
       tag_en: 'Great Wall\'s premium PHEV flagship, gunning for Li Auto\'s family crown.',
       tag_zh: '长城高端插混旗舰蓝山，直指理想的家庭市场。',
-      range: '180 km EV / 1,200 km', accel: '4.9 s', price: 'US$37,800', priceLocal: '¥273,800 China',
+      range: '221–263 km EV CLTC', accel: '4.9 s', price: 'US$37,800', priceLocal: '¥299,800 China',
       colorA: '#111827', shape: 'suv',
       image: 'images/wey-lanshan.jpg', imageCredit: 'JustAnotherCarDesigner / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['phev']
+      names: { cn: '魏牌蓝山', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 299800,
+        max_cny: 326800,
+        as_of: '2025-05-20',
+        note_en: '2025-model Lanshan (焕新版), launched 20 May 2025: Max ¥299,800; Ultra ¥326,800.',
+        note_zh: '2025 款蓝山焕新版，2025-05-20 上市：Max 29.98 万、Ultra 32.68 万元。'
+      },
+      range_note: {
+        cltc: { en: '221 km CLTC electric (44.5 kWh Max); 263 km CLTC electric (52.3 kWh Ultra).', zh: 'CLTC 纯电 221 km（44.5 kWh Max）、263 km（52.3 kWh Ultra）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '易车: 魏牌蓝山焕新款 上市, 20 May 2025', url: 'https://www.bitauto.com/article/1003100684208/' },
+        { name: 'CarNewsChina: GWM releases new (second-gen) Wey Lanshan, 28 October 2026', url: 'https://carnewschina.com/2026/10/28/gwm-releases-new-wey-lanshan-as-a-luxury-version-of-the-haval-h10/' }
+      ],
+      status: {
+        en: 'Second generation released 28 October 2026 (a luxury version of the Haval H10); due to enter the Chinese market by end of 2026. New battery options: 53.6 kWh (220 km WLTC electric) or 66.6 kWh (270 km WLTC).',
+        zh: '第二代已于 2026-10-28 发布（哈弗 H10 的豪华版），预计 2026 年底进入中国市场。新电池 53.6 kWh（WLTC 纯电 220 km）或 66.6 kWh（WLTC 纯电 270 km）。'
+      },
+      powertrain: ['phev']
     },
     // ---- SAIC family ----
     {
@@ -1295,7 +1599,25 @@ const SITE_DATA = {
       range: '450 km (WLTP)', accel: '7.7 s', price: 'US$34,600', priceLocal: '£26,995 UK',
       colorA: '#d4302a', shape: 'suv',
       image: 'images/mg-mg4.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: 'MG4 EV', overseas: [{ name: 'MG4 EV', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 109800,
+        max_cny: 156800,
+        as_of: '2024-04-24',
+        note_en: '2024 China trims: Overseas Champion ¥109,800; 520 km Flagship ¥133,800; AWD Performance ¥156,800. A lower-cost 2026 line (¥68,800–¥102,800) launched 29 August 2025.',
+        note_zh: '2024 款：出海冠军版 10.98 万、520km 旗舰版 13.38 万、四驱性能版 15.68 万元。2025-08-29 另上市更低价的 2026 款（6.88–10.28 万元）。'
+      },
+      range_note: {
+        cltc: { en: '2024 China trims: 415 km, 520 km or 460 km CLTC.', zh: '2024 款：CLTC 415 km、520 km 或 460 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '上汽MG官方: MG4 EV 配置表, 24 April 2024', url: 'https://www.saicmg.com/mob/vehicles/sedan/mulan/mulan20240424.pdf' },
+        { name: '汽车之家: MG4 EV 2026款 上市与续航', url: 'https://www.autohome.com.cn/ask/24914879.html' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'mg-cyberster', brand: 'MG', name: 'Cyberster',
@@ -1304,7 +1626,25 @@ const SITE_DATA = {
       range: '580 km', accel: '3.2 s', price: 'US$44,100', priceLocal: '¥319,800 China',
       colorA: '#d4302a', shape: 'sedan',
       image: 'images/mg-cyberster.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: 'MG Cyberster', overseas: [{ name: 'MG Cyberster', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 319800,
+        max_cny: 359800,
+        as_of: '2023-11-17',
+        note_en: 'Three trims: Glamour Edition ¥319,800; Style Edition ¥339,800; Pioneer AWD Edition ¥359,800.',
+        note_zh: '三款：魅力心动版 31.98 万、超然致远版 33.98 万、传奇四驱版 35.98 万元。'
+      },
+      range_note: {
+        cltc: { en: '501 km (64 kWh), 580 km (77 kWh RWD) or 520 km (77 kWh AWD) CLTC.', zh: 'CLTC 501 km（64 kWh）、580 km（77 kWh 后驱）或 520 km（77 kWh 四驱）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '上汽MG官方: MG Cyberster 配置表', url: 'https://www.saicmg.com/pc/vehicles/concept/cyberster/js/MG_Cyberster%E9%85%8D%E7%BD%AE%E8%A1%A8.pdf' },
+        { name: '国际在线: MG Cyberster 上市, 9 January 2024', url: 'https://auto.cri.cn/20240109/e28de402-aef2-11ae-6f66-8bb1d0c663a8.html' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'maxus-mifa-9', brand: 'Maxus', name: 'Mifa 9',
@@ -1313,7 +1653,24 @@ const SITE_DATA = {
       range: '560 km', accel: '~8 s', price: 'US$37,200', priceLocal: '¥269,900 China',
       colorA: '#0ea5e9', shape: 'mpv',
       image: 'images/maxus-mifa9.jpg', imageCredit: 'Calreyn88 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '大家MIFA9', overseas: [{ name: 'MIFA 9', markets: ['Australia', 'Europe'] }] },
+      markets: ['Australia', 'Europe'],
+      price_cn: {
+        min_cny: 269900,
+        max_cny: 419900,
+        as_of: '2023-06-01',
+        note_en: 'June 2023 price list: from ¥269,900 (standard range, 77 kWh) to ¥419,900 (high flagship).',
+        note_zh: '2023 年 6 月价格表：26.99 万（标准续航 77 kWh）至 41.99 万元（高山旗舰版）。'
+      },
+      range_note: {
+        cltc: { en: '480 km (77 kWh) or 560 km (90 kWh) CLTC.', zh: 'CLTC 480 km（77 kWh）或 560 km（90 kWh）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '上汽大通官方: 大家MIFA9 配置表, June 2023', url: 'https://www.saicmaxus.com/uploads/month_202306/files/b1fb62e63137922cd9b3e26db6415882.pdf' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'im-ls6', brand: 'IM Motors', name: 'LS6',
@@ -1322,7 +1679,24 @@ const SITE_DATA = {
       range: '760 km', accel: '3.5 s', price: 'US$29,700', priceLocal: '¥214,900 China',
       colorA: '#7c3aed', shape: 'suv',
       image: 'images/im-ls6.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '智己LS6', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 212900,
+        max_cny: 284900,
+        as_of: '2025-09-10',
+        note_en: 'New LS6, nine trims, official guide price ¥212,900–¥284,900 (launch benefit price ¥197,900–¥269,900).',
+        note_zh: '全新 LS6 共 9 款，官方指导价 21.29–28.49 万（上市权益价 19.79–26.99 万元）。'
+      },
+      range_note: {
+        cltc: { en: 'Pure-electric: 650 km (76 kWh RWD) or 750 km (103 kWh AWD) CLTC; range-extender 450 km electric.', zh: '纯电版：CLTC 650 km（76 kWh 后驱）或 750 km（103 kWh 四驱）；增程版纯电 450 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '车质网: 全新智己LS6 上市, 16 September 2025', url: 'https://12365auto.com/xcdg/20250916/554953_5.shtml' }
+      ],
+      powertrain: ['bev']
     },
     // ---- Dongfeng family ----
     {
@@ -1332,20 +1706,49 @@ const SITE_DATA = {
       range: '106 km EV / 860 km', accel: '4.5 s', price: 'US$30,300', priceLocal: '¥219,900 China',
       colorA: '#1d4ed8', shape: 'suv',
       image: 'images/voyah-free.jpg', imageCredit: 'User3204 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['erev']
+      names: { cn: '岚图FREE', overseas: [{ name: 'Voyah Free', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 219900,
+        max_cny: 279900,
+        as_of: '2025-07-12',
+        note_en: '2025-model FREE+: RWD Qiankun ¥219,900; AWD Qiankun ¥249,900; AWD Sport Custom ¥279,900.',
+        note_zh: '2025 款 FREE+：后驱乾崑版 21.99 万、四驱乾崑版 24.99 万、四驱运动定制版 27.99 万元。'
+      },
+      range_note: {
+        cltc: { en: '318 km CLTC electric (RWD) / 259 km (AWD); combined up to 1,458 km.', zh: 'CLTC 纯电 318 km（后驱）/ 259 km（四驱）；综合最高 1,458 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '汽车之家: 岚图FREE 2025款 参数配置', url: 'https://www.autohome.com.cn/config/series/5924.html' },
+        { name: '太平洋汽车: 岚图FREE 价格与续航', url: 'https://www.pcauto.com.cn/gl/36988.html' }
+      ],
+      powertrain: ['erev']
     },
     {
       id: 'mhero-917', brand: 'M-Hero', name: '917',
       tag_en: '1,088 hp quad-motor electric off-roader with military DNA.',
       tag_zh: '1,088 马力四电机硬派越野，军车基因。',
-      range: '200 km EV / 800 km', accel: '4.2 s', price: 'US$88,000', priceLocal: '¥637,700 China',
+      range: '505 km (BEV) / 200 km EV + 1,026 km (EREV)', accel: '4.2 s', price: 'US$88,000', priceLocal: '¥637,700 China',
       colorA: '#374151', shape: 'suv',
       image: 'images/mhero-917.jpg', imageCredit: 'JustAnotherCarDesigner / CC BY-SA 4.0',
       names: { cn: '猛士917', overseas: [] },
       markets: null,
-      price_cn: null,
-      range_note: null,
+      price_cn: {
+        min_cny: 637700,
+        max_cny: null,
+        as_of: '2023-08-25',
+        note_en: 'From ¥637,700 (launch starting price). Founders editions: range-extender ¥678,000; pure-electric ¥739,000. The regular pure-electric price was not stated in the source.',
+        note_zh: '起售价 63.77 万元。创始版：增程 67.80 万、纯电 73.90 万元。常规纯电版价格出处未给出。'
+      },
+      range_note: {
+        cltc: { en: 'Pure-electric: 505 km CLTC. Range-extender: 200 km CLTC electric, 1,026 km CLTC combined.', zh: '纯电版：CLTC 505 km。增程版：CLTC 纯电 200 km，综合 1,026 km。' },
+        wltp: null,
+        epa: null
+      },
       sources: [
+        { name: '中国青年网: 猛士917 上市, 26 August 2023', url: 'https://auto.youth.cn/xw/202308/t20230826_14745551.htm' },
         { name: 'Dongfeng Motor: M-Hero 917 global debut, 19 April 2023', url: 'https://www.dfmc.com.cn/news/company/news_20230419_1141.html' }
       ],
       powertrain: ['bev', 'erev']
@@ -1358,25 +1761,64 @@ const SITE_DATA = {
       range: 'ICE · PHEV', accel: '~8 s', price: '~US$17,900', priceLocal: '¥129,900 China',
       colorA: '#d4302a', shape: 'suv',
       image: 'images/chery-tiggo-8.jpg', imageCredit: 'Matti Blume / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['ice', 'phev']
+      names: { cn: '瑞虎8 PRO', overseas: [{ name: 'Tiggo 8 Pro', markets: ['Russia', 'Latin America'] }] },
+      markets: ['Russia', 'Latin America'],
+      price_cn: {
+        min_cny: 126900,
+        max_cny: 166900,
+        as_of: '2023-08-08',
+        note_en: '2024-model Champion Edition: ¥126,900 (1.6T 2WD) to ¥166,900 (2.0T AWD).',
+        note_zh: '2024 款冠军版：12.69 万（1.6T 两驱）至 16.69 万元（2.0T 四驱）。'
+      },
+      range_note: null,
+      sources: [
+        { name: '太平洋汽车: 瑞虎8 PRO 2024款 冠军版 参数', url: 'https://price.pcauto.com.cn/car/sg28464/m124227/' }
+      ],
+      powertrain: ['ice', 'phev']
     },
     {
       id: 'omoda-e5', brand: 'Omoda', name: 'E5',
-      tag_en: 'Chery\'s global-first electric crossover for the UK, EU and Australia.',
-      tag_zh: '奇瑞全球化战略的纯电跨界车，主攻英国、欧盟与澳洲。',
-      range: '430 km (WLTP)', accel: '~7.5 s', price: 'US$42,300', priceLocal: '£33,055 UK',
+      tag_en: 'Electric crossover on sale in the UK with the Omoda 5 since August 2024.',
+      tag_zh: '2024 年 8 月起与 Omoda 5 一起在英国销售的纯电跨界车。',
+      range: '257 miles (WLTP)', accel: '~7.5 s', price: 'US$42,300', priceLocal: '£33,055 UK',
+      specNote_en: 'OMODA UK sales review, 8 January 2025: on sale in the UK from £33,055, WLTP range 257 miles. The same review says the UK launch with the Omoda 5 was in August 2024.',
+      specNote_zh: 'OMODA 英国官网 2025-01-08 销售回顾：英国在售，起价 33,055 英镑，WLTP 续航 257 英里。同一篇写明，与 Omoda 5 一起在英国开售是 2024 年 8 月。',
       colorA: '#22c55e', shape: 'suv',
       image: 'images/omoda-e5.jpg', imageCredit: 'User3204 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: null, overseas: [{ name: 'Omoda E5', markets: ['United Kingdom'] }] },
+      markets: ['United Kingdom'],
+      price_cn: {
+        min_cny: null,
+        max_cny: null,
+        as_of: null
+      },
+      range_note: null,
+      sources: [
+        { name: 'OMODA UK: UK sales review, 8 January 2025', url: 'https://omodaauto.co.uk/news/omoda-jaecoo-uk-powers-into-2025/' }
+      ],
+      powertrain: ['bev']
     },
     {
-      id: 'jaecoo-7', brand: 'Jaecoo', name: '7 PHEV',
-      tag_en: 'Rugged-design SUV with 1,200 km combined range — a UK breakout hit.',
-      tag_zh: '硬派设计 + 1,200 公里综合续航,在英国一炮而红。',
-      range: '90 km EV / 1,200 km', accel: '~8.5 s', price: 'US$44,900', priceLocal: '£35,065 UK',
+      id: 'jaecoo-7', brand: 'Jaecoo', name: '7 SHS-P',
+      tag_en: 'Plug-in hybrid on sale in the UK since January 2025. Official name: JAECOO 7 SHS-P.',
+      tag_zh: '2025 年 1 月起在英国销售的插电混动车。正式名称是 JAECOO 7 SHS-P。',
+      range: '暂无数据', accel: '8.5 s', price: 'US$44,900', priceLocal: '£35,170 UK',
+      specNote_en: 'JAECOO UK, 16 June 2026: on sale in the UK since January 2025, from £35,170 OTR, Black Luxury from £36,505 OTR. The release gives 0–62 mph in 8.5 seconds and an 18.4 kWh battery. It does not state an electric-only range or a combined range.',
+      specNote_zh: 'JAECOO 英国官网 2026-06-16：2025 年 1 月起在英国销售，起价 35,170 英镑（OTR），Black Luxury 36,505 英镑起。稿中写 0–62 mph 加速 8.5 秒、电池 18.4 kWh，没有写纯电续航或综合续航。',
       colorA: '#374151', shape: 'suv',
       image: 'images/jaecoo-7.jpg', imageCredit: 'Calreyn88 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['phev']
+      names: { cn: null, overseas: [{ name: 'JAECOO 7 SHS-P', markets: ['United Kingdom'] }] },
+      markets: ['United Kingdom'],
+      price_cn: {
+        min_cny: null,
+        max_cny: null,
+        as_of: null
+      },
+      range_note: null,
+      sources: [
+        { name: 'JAECOO UK: JAECOO 7 SHS-P on sale, 16 June 2026', url: 'https://jaecoo.co.uk/news/0-apr-pcp-finance-offers-june-2026/' }
+      ],
+      powertrain: ['phev']
     },
     // ---- Leapmotor ----
     {
@@ -1386,11 +1828,17 @@ const SITE_DATA = {
       range: '530 km', accel: '~7 s', price: 'US$17,800', priceLocal: '¥128,800 China',
       colorA: '#0ea5e9', shape: 'suv',
       image: 'images/leapmotor-c10.webp', imageCredit: 'Leapmotor',
-      names: { cn: null, overseas: [{ name: 'Leapmotor C10', markets: ['Germany'] }] },
+      names: { cn: '零跑C10', overseas: [{ name: 'Leapmotor C10', markets: ['Germany'] }] },
       markets: ['Germany'],
-      price_cn: null,
+      price_cn: {
+        min_cny: 128800,
+        max_cny: 168800,
+        as_of: '2024-03-02',
+        note_en: 'BEV ¥128,800–¥168,800; range-extender ¥135,800–¥165,800.',
+        note_zh: '纯电 12.88–16.88 万；增程 13.58–16.58 万元。'
+      },
       range_note: {
-        cltc: null,
+        cltc: { en: 'BEV: up to 530 km CLTC (69.9 kWh). Range-extender: up to 210 km CLTC electric, 1,190 km CLTC combined.', zh: '纯电：CLTC 最高 530 km（69.9 kWh）。增程：CLTC 纯电最高 210 km，综合 1,190 km。' },
         wltp: { en: 'MY27 BEV, Stellantis, 30 September 2026: 69.9 kWh Pro rear-wheel drive 430 km WLTP; 81.9 kWh ProMax rear-wheel drive 519 km WLTP. A range-extender version is also sold. Its 2024 Brussels WLTP figures were marked preliminary, so they are not listed.', zh: '2027 款纯电，Stellantis 2026-09-30：69.9 kWh Pro 后驱 WLTP 430 km；81.9 kWh ProMax 后驱 WLTP 519 km。另有增程版在售。2024 年布鲁塞尔稿把增程 WLTP 标成初步数据，这里不写。' },
         epa: null
       },
@@ -1407,11 +1855,22 @@ const SITE_DATA = {
       range: '600 km', accel: '~7 s', price: 'US$13,800', priceLocal: '¥99,800 China',
       colorA: '#0ea5e9', shape: 'suv',
       image: 'images/leapmotor-b10.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: { cn: null, overseas: [{ name: 'Leapmotor B10', markets: ['Spain'] }] },
+      names: { cn: '零跑B10', overseas: [{ name: 'Leapmotor B10', markets: ['Spain'] }] },
       markets: ['Spain'],
-      price_cn: null,
-      range_note: null,
+      price_cn: {
+        min_cny: 99800,
+        max_cny: 125800,
+        as_of: '2026-07-16',
+        note_en: 'New B10 (2026): ¥99,800–¥125,800, five trims.',
+        note_zh: '全新 B10 共 5 款，9.98–12.58 万元。'
+      },
+      range_note: {
+        cltc: { en: '540 km or 610 km CLTC (69.7 kWh).', zh: 'CLTC 540 km 或 610 km（69.7 kWh）。' },
+        wltp: null,
+        epa: null
+      },
       sources: [
+        { name: '汽车之家: 零跑B10 参数配置', url: 'https://www.autohome.com.cn/config/series/7877.html' },
         { name: 'Autonoción: Leapmotor B10 built in Spain, 22 October 2026', url: 'https://www.autonocion.com/motornocion/leapmotor-b10-fabricado-espana/' }
       ],
       powertrain: ['bev', 'erev']
@@ -1424,7 +1883,24 @@ const SITE_DATA = {
       range: '620 km', accel: '3.8 s', price: 'US$41,400', priceLocal: '¥299,900 China',
       colorA: '#111827', shape: 'suv',
       image: 'images/polestar-4.jpg', imageCredit: 'Polestar',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: 'Polestar 4', overseas: [{ name: 'Polestar 4', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 299900,
+        max_cny: 399900,
+        as_of: '2023-04-18',
+        note_en: 'Four trims from ¥299,900 (single-motor standard range) to ¥399,900 (dual-motor long range PLUS).',
+        note_zh: '四款车型，29.99 万（单电机标准续航）至 39.99 万元（双电机长续航 PLUS）。'
+      },
+      range_note: {
+        cltc: { en: 'Single-motor up to 755 km; dual-motor 682 km CLTC (official).', zh: '单电机最高 755 km；双电机 682 km（CLTC，官方）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: 'Polestar 中国官网: 极星4 技术规格与续航', url: 'https://www.polestar.cn/zh-cn/polestar-4/range-and-charging/' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'volvo-ex30', brand: 'Volvo', name: 'EX30',
@@ -1433,7 +1909,24 @@ const SITE_DATA = {
       range: '480 km (WLTP)', accel: '3.6 s', price: 'US$40,200', priceLocal: '€36,590 EU',
       colorA: '#1d4ed8', shape: 'suv',
       image: 'images/volvo-ex30.jpg', imageCredit: 'Alexander-93 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '沃尔沃EX30', overseas: [{ name: 'Volvo EX30', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 200800,
+        max_cny: 255800,
+        as_of: '2024-05-19',
+        note_en: 'RWD Core ¥200,800; RWD Long Range Plus ¥219,800; RWD Long Range Ultra ¥232,800; AWD Performance Ultra ¥255,800.',
+        note_zh: '后驱 Core 20.08 万、后驱长续航 Plus 21.98 万、后驱长续航 Ultra 23.28 万、四驱高性能 Ultra 25.58 万元。'
+      },
+      range_note: {
+        cltc: { en: '410 km (49 kWh) or 590 km (66 kWh long range) CLTC.', zh: 'CLTC 410 km（49 kWh）或 590 km（66 kWh 长续航）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '沃尔沃官方: EX30 上市, 19 May 2024', url: 'https://www.volvocars.com.cn/zh-cn/news/technology/Volvo-SUV-EX30/' }
+      ],
+      powertrain: ['bev']
     },
     {
       id: 'lotus-eletre', brand: 'Lotus', name: 'Eletre',
@@ -1442,7 +1935,24 @@ const SITE_DATA = {
       range: '650 km', accel: '2.95 s', price: 'US$92,200', priceLocal: '¥668,000 China',
       colorA: '#f59e0b', shape: 'suv',
       image: 'images/lotus-eletre.jpg', imageCredit: 'Alexander Migl / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['bev']
+      names: { cn: '路特斯Eletre', overseas: [{ name: 'Lotus Eletre', markets: ['Europe'] }] },
+      markets: ['Europe'],
+      price_cn: {
+        min_cny: 728000,
+        max_cny: 1028000,
+        as_of: '2024-01-18',
+        note_en: 'Entry ¥728,000 (added 18 January 2024); S+ ¥828,000; R+ ¥1,028,000.',
+        note_zh: '入门版 72.8 万（2024-01-18 新增）、S+ 82.8 万、R+ 102.8 万元。'
+      },
+      range_note: {
+        cltc: { en: '650 km CLTC (entry / S+, 112 kWh).', zh: 'CLTC 650 km（入门版 / S+，112 kWh）。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '汽车之家: 路特斯ELETRE 新增入门版, 18 January 2024', url: 'https://www.autohome.com.cn/article?id=-EHoHd2ZsNU=' }
+      ],
+      powertrain: ['bev']
     },
     // ---- BYD premium brands ----
     {
@@ -1504,7 +2014,25 @@ const SITE_DATA = {
       range: '125 km EV / 1,200 km', accel: '4.8 s', price: 'US$33,100', priceLocal: '¥239,800 China',
       colorA: '#374151', shape: 'suv',
       image: 'images/fangchengbao-5.jpg', imageCredit: 'User3204 / CC BY-SA 4.0',
-      names: null, markets: null, price_cn: null, range_note: null, sources: null, powertrain: ['phev']
+      names: { cn: '方程豹豹5', overseas: [] },
+      markets: null,
+      price_cn: {
+        min_cny: 239800,
+        max_cny: 329800,
+        as_of: null,
+        note_en: '2025-model Bao 5: ¥239,800–¥329,800 (per a 27 October 2025 report). Official price date not confirmed.',
+        note_zh: '2025 款豹5：23.98–32.98 万元（据 2025-10-27 报道）。官方价格日期未确认。'
+      },
+      range_note: {
+        cltc: { en: '125 km or 210 km CLTC electric; combined over 1,200 km.', zh: 'CLTC 纯电 125 km 或 210 km；综合续航超 1,200 km。' },
+        wltp: null,
+        epa: null
+      },
+      sources: [
+        { name: '汽车之家: 方程豹豹5 2025款 参数配置', url: 'https://www.autohome.com.cn/config/series/7177.html' },
+        { name: '腾讯新闻: 方程豹累计销量与豹5售价, 27 October 2025', url: 'https://news.qq.com/rain/a/20251027A03G8T00' }
+      ],
+      powertrain: ['phev']
     }
   ],
 
