@@ -1,0 +1,531 @@
+{
+  "id": "ora",
+  "name_en": "ORA (GWM)",
+  "name_zh": "欧拉（长城汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "2018-08-20",
+      "value_zh": "2018-08-20",
+      "period": null,
+      "source_ids": ["s3", "s1", "s6"]
+    },
+    {
+      "label_en": "Parent company",
+      "label_zh": "所属集团",
+      "value_en": "Great Wall Motor Company Limited",
+      "value_zh": "长城汽车股份有限公司",
+      "period": null,
+      "source_ids": ["s3", "s5"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Baoding, Hebei (same as parent)",
+      "value_zh": "河北省保定市（与母公司同址）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (brand of a private automaker)",
+      "value_zh": "民营（民营车企旗下品牌）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Wei Jianjun (actual controller of Great Wall Motor)",
+      "value_zh": "魏建军（长城汽车实际控制人）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; part of Great Wall Motor (SSE 601633 / HKEX 02333)",
+      "value_zh": "未单独上市；属长城汽车（上交所 601633 / 港交所 02333）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收 / 净利润",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Vehicle sales (FY2025)",
+      "label_zh": "最近财年销量",
+      "value_en": "48,312 vehicles",
+      "value_zh": "48,312 辆",
+      "period": "2025",
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Vehicle sales (H1 2026)",
+      "label_zh": "2026 年上半年销量",
+      "value_en": "26,389 vehicles (+89.74% YoY)",
+      "value_zh": "26,389 辆（同比 +89.74%）",
+      "period": "2026 H1",
+      "source_ids": ["s16"]
+    },
+    {
+      "label_en": "Cumulative sales",
+      "label_zh": "累计销量",
+      "value_en": "Over 557,700 vehicles (by end-2025)",
+      "value_zh": "超 55.77 万辆（截至 2025 年末）",
+      "period": "2025-12-31",
+      "source_ids": ["s5"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2018-08-20",
+      "event_en": "Great Wall Motor launches the independent new-energy brand ORA; the company describes it as the first among mainstream Chinese automakers to manage its new-energy business as a separate brand. Its first model, the iQ, is announced for launch at the Chengdu Auto Show.",
+      "event_zh": "长城汽车发布独立新能源品牌欧拉，公司称其为主流中国车企中第一个将新能源汽车业务进行品牌化管理的独立品牌；首款车型 iQ 宣布将于成都车展上市。",
+      "source_ids": ["s3", "s1", "s6"]
+    },
+    {
+      "date": "2018-12-26",
+      "event_en": "The ORA R1 (later renamed Black Cat), aimed at the consumer market, is launched.",
+      "event_zh": "主打 C 端消费市场的欧拉 R1（后更名黑猫）上市。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2020-07-15",
+      "event_en": "The ORA White Cat is launched, the first of the cat-series models.",
+      "event_zh": "欧拉白猫上市，为「猫」系列家族首款车型。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2020-07-24",
+      "event_en": "The ORA R1 is officially renamed Black Cat.",
+      "event_zh": "欧拉 R1 正式更名黑猫。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2020-11",
+      "event_en": "Great Wall Motor completes the acquisition of General Motors' Rayong plant in Thailand, becoming the first Chinese automaker to enter Thailand with a wholly owned plant.",
+      "event_zh": "长城汽车完成收购通用汽车泰国罗勇工厂，成为首家全资进入泰国的中国汽车品牌。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2020-11-24",
+      "event_en": "The ORA Good Cat is launched, the first pure-electric model on GWM's LEMON platform.",
+      "event_zh": "欧拉好猫上市，为长城汽车柠檬平台纯电架构下的首款车型。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2021-03-20",
+      "event_en": "ORA announces its positioning as a car brand that loves women more.",
+      "event_zh": "欧拉发布「更爱女人的汽车品牌」品牌定位。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2021-10-29",
+      "event_en": "The ORA Good Cat is launched in Thailand.",
+      "event_zh": "欧拉好猫在泰国上市。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2021",
+      "event_en": "According to media reports, the Good Cat was involved in a dispute over its in-vehicle chip being inconsistent with marketing claims, and the company acknowledged that the relevant models were not fitted with the Qualcomm chip that had been promoted.",
+      "event_zh": "据媒体报道，欧拉好猫因车机芯片与宣传不符引发争议，公司承认相关车型未配置宣传所述的高通芯片。",
+      "source_ids": ["s11", "s14"]
+    },
+    {
+      "date": "2022-02",
+      "event_en": "ORA halts new orders for the Black Cat and White Cat; CEO Dong Yudong tells media that ORA has stopped taking orders but not production, with already accepted orders still to be delivered.",
+      "event_zh": "欧拉黑猫、白猫停止接受新订单；欧拉汽车 CEO 董玉东对媒体表示「停接单不停产」，已受理订单仍将生产交付。",
+      "source_ids": ["s17", "s11"]
+    },
+    {
+      "date": "2022-07-12",
+      "event_en": "The ORA Ballet Cat, positioned for women, is launched.",
+      "event_zh": "欧拉芭蕾猫上市，定位女性用户。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2022-10-17",
+      "event_en": "ORA appears at the Paris Motor Show and the Good Cat goes on sale in Europe.",
+      "event_zh": "欧拉亮相巴黎车展，欧拉好猫在欧洲上市。",
+      "source_ids": ["s6", "s1"]
+    },
+    {
+      "date": "2022-10-31",
+      "event_en": "The ORA Lightning Cat, a mid-size pure-electric sedan, is launched.",
+      "event_zh": "欧拉闪电猫上市，定位中型纯电动轿车。",
+      "source_ids": ["s1", "s6"]
+    },
+    {
+      "date": "2023-04-15",
+      "event_en": "ORA holds its 2023 brand night and enters brand 2.0 era.",
+      "event_zh": "2023 欧拉品牌之夜发布「将爱进行到底」，进入品牌 2.0 时代。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-01-12",
+      "event_en": "The first locally produced ORA Good Cat rolls off the line at GWM's Rayong plant in Thailand, the first locally mass-produced pure-electric vehicle in Thailand.",
+      "event_zh": "首台本地化量产欧拉好猫在长城汽车泰国罗勇工厂下线，为泰国本土生产的第一款量产纯电动汽车。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2025-02-08",
+      "event_en": "Haval brand general manager Zhao Yongpo is announced to concurrently manage the ORA brand.",
+      "event_zh": "长城汽车哈弗品牌总经理赵永坡宣布同时负责哈弗和欧拉两个品牌。",
+      "source_ids": ["s9", "s14"]
+    },
+    {
+      "date": "2025-06-20",
+      "event_en": "GWM appoints Lü Wenbin, previously Haval brand technical general manager, as ORA brand general manager.",
+      "event_zh": "长城汽车任命原哈弗品牌技术总经理吕文斌为欧拉品牌总经理。",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2025-12-16",
+      "event_en": "The ORA 5 pure-electric SUV is launched as the first production model on GWM's new global platform, with a suggested retail price of RMB 99,800-133,800.",
+      "event_zh": "全新 A 级纯电 SUV 欧拉 5 上市，为长城汽车全新全球平台首款量产车型，建议零售价 9.98 万至 13.38 万元。",
+      "source_ids": ["s4", "s6"]
+    },
+    {
+      "date": "2026-04-25",
+      "event_en": "The fuel and hybrid versions of the ORA 5 are launched.",
+      "event_zh": "欧拉 5 燃油版、混动版上市。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-09-29",
+      "event_en": "The 2027 ORA Good Cat is launched with a starting price of RMB 69,800.",
+      "event_zh": "2027 款长城欧拉好猫上市，起售价 6.98 万元。",
+      "source_ids": ["s8"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Good Cat (ORA 03 overseas)",
+      "name_zh": "好猫（海外名 ORA 03）",
+      "role_en": "A0-class pure-electric retro hatchback, the brand's best-selling model and its main export model.",
+      "role_zh": "A0 级纯电复古两厢车，品牌销量主力与主要出口车型。",
+      "price_band": "中国官网建议零售价（2026-10-29）：2027 款 6.98 万元起；China website suggested retail starting price (2026-10-29): RMB 69,800 for the 2027 model",
+      "founded": 2020,
+      "owner_note_en": "Launched 2020-11-24 as the first pure-electric model on GWM's LEMON platform. Overseas it is sold as ORA 03, GWM Ora or Funky Cat depending on the market. It went on sale in Thailand in October 2021, in Europe from October 2022, and in Malaysia from November 2022. It began CKD production at the Rayong plant in January 2024 and recorded 6,712 registrations in Thailand in 2023, ranking fourth among pure-electric models. The 2027 model launched 2026-09-29 from RMB 69,800.",
+      "owner_note_zh": "2020-11-24 上市，为柠檬平台纯电架构首款车型。海外视市场不同以 ORA 03、GWM Ora、Funky Cat 等名称销售；2021 年 10 月在泰国上市，2022 年 10 月在欧洲上市，2022 年 11 月在马来西亚上市。2024 年 1 月起在泰国罗勇工厂本地化（CKD）生产；2023 年泰国上牌量 6,712 辆，居当地纯电车型第四。2027 款于 2026-09-29 上市，起售价 6.98 万元。",
+      "status": "active",
+      "source_ids": ["s1", "s2", "s6", "s7", "s8", "s13"]
+    },
+    {
+      "name_en": "Good Cat GT (Mulan edition)",
+      "name_zh": "好猫 GT（木兰版）",
+      "role_en": "Performance variant of the Good Cat.",
+      "role_zh": "好猫的性能版本。",
+      "price_band": null,
+      "founded": 2021,
+      "owner_note_en": "Launched 2021-08-29 as a sportier variant of the Good Cat.",
+      "owner_note_zh": "2021-08-29 上市，为好猫的运动化版本。",
+      "status": "active",
+      "source_ids": ["s1"]
+    },
+    {
+      "name_en": "Ballet Cat",
+      "name_zh": "芭蕾猫",
+      "role_en": "Women-oriented retro-styled pure-electric car.",
+      "role_zh": "面向女性用户的复古风格纯电车型。",
+      "price_band": "中国官网建议零售价（2026-10-29）：14.98 万元起；China website suggested retail starting price (2026-10-29): RMB 149,800",
+      "founded": 2022,
+      "owner_note_en": "Launched 2022-07-12, positioned as the brand's women-focused model.",
+      "owner_note_zh": "2022-07-12 上市，定位品牌女性专属车型。",
+      "status": "active",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "name_en": "Lightning Cat",
+      "name_zh": "闪电猫",
+      "role_en": "Mid-size pure-electric sedan with a sporty coupe style.",
+      "role_zh": "中型纯电动轿车，轿跑风格。",
+      "price_band": "中国官网建议零售价（2026-10-29）：18.98 万元起；China website suggested retail starting price (2026-10-29): RMB 189,800",
+      "founded": 2022,
+      "owner_note_en": "Launched 2022-10-31, positioned as a mid-size pure-electric sedan.",
+      "owner_note_zh": "2022-10-31 上市，定位中型纯电动轿车。",
+      "status": "active",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "name_en": "ORA 5",
+      "name_zh": "欧拉 5",
+      "role_en": "A-class multi-powertrain SUV (pure-electric, hybrid and fuel), the first production model on GWM's new global platform.",
+      "role_zh": "A 级多动力 SUV（纯电、混动、燃油），长城汽车全新全球平台首款量产车型。",
+      "price_band": "纯电版上市建议零售价（2025-12-16）9.98 万–13.38 万元；中国官网（2026-10-29）标注纯电版「10 万级」、混动版「8 万级」、燃油版「7 万级」，燃油版起售价 7.98 万元。Pure-electric launch price (2025-12-16) RMB 99,800-133,800; the China website (2026-10-29) tags the BEV as 100k-class, hybrid as 80k-class and fuel as 70k-class, with the fuel version from RMB 79,800.",
+      "founded": 2025,
+      "owner_note_en": "The pure-electric version launched 2025-12-16 with five configurations and a limited-time price from RMB 91,800. The fuel and hybrid versions launched 2026-04-25. It is the first production model on GWM's new global platform supporting multiple powertrains and body styles; sport and GT derivatives followed.",
+      "owner_note_zh": "纯电版于 2025-12-16 上市，共 5 款配置，限时换新价 9.18 万元起；燃油版、混动版于 2026-04-25 上市。为长城汽车全新全球平台首款量产车型，支持多动力与多品类车身；后续推出运动款、GT 等版本。",
+      "status": "active",
+      "source_ids": ["s4", "s6", "s2", "s21"]
+    },
+    {
+      "name_en": "ORA 5 Sport / GT",
+      "name_zh": "欧拉 5 运动款 / GT",
+      "role_en": "Derivative versions of the ORA 5 covering sporty variants under the brand's multi-powertrain repositioning.",
+      "role_zh": "欧拉 5 的衍生版本，覆盖运动化版本，体现品牌多动力转型。",
+      "price_band": "中国官网建议零售价（2026-10-29）：欧拉 5 运动款 8.18 万元起、欧拉 5 GT 9.98 万元起；China website starting prices (2026-10-29): ORA 5 Sport RMB 81,800; ORA 5 GT RMB 99,800",
+      "founded": 2026,
+      "owner_note_en": "Listed on the official website as of 2026-10-29 alongside the ORA 5, reflecting the brand's expansion from a pure-BEV line-up to multiple powertrains.",
+      "owner_note_zh": "截至 2026-10-29 与欧拉 5 一同列示于官网，反映品牌由纯电向多动力扩展。",
+      "status": "active",
+      "source_ids": ["s2"]
+    },
+    {
+      "name_en": "Black Cat (formerly R1)",
+      "name_zh": "黑猫（原 R1）",
+      "role_en": "Entry-level pure-electric small car, the brand's early volume model.",
+      "role_zh": "入门级纯电小型车，品牌早期走量车型。",
+      "price_band": null,
+      "founded": 2018,
+      "owner_note_en": "Launched 2018-12-26 as the R1 and renamed Black Cat in July 2020. In February 2022 the company halted new orders, with the CEO saying orders were stopped but not production. The model is no longer in the current China line-up.",
+      "owner_note_zh": "2018-12-26 以 R1 之名上市，2020 年 7 月更名黑猫。2022 年 2 月公司停止接受新订单，CEO 称「停接单不停产」。现已不在当前中国官网在售车型之列。",
+      "status": "discontinued",
+      "source_ids": ["s1", "s17", "s2"]
+    },
+    {
+      "name_en": "White Cat",
+      "name_zh": "白猫",
+      "role_en": "Pure-electric small car launched alongside the cat series.",
+      "role_zh": "与猫系家族一同推出的纯电小型车。",
+      "price_band": null,
+      "founded": 2020,
+      "owner_note_en": "Launched 2020-07-15; in February 2022 the company halted new orders, with the CEO saying orders were stopped but not production. The model is no longer in the current China line-up.",
+      "owner_note_zh": "2020-07-15 上市；2022 年 2 月公司停止接受新订单，CEO 称「停接单不停产」。现已不在当前中国官网在售车型之列。",
+      "status": "discontinued",
+      "source_ids": ["s1", "s17", "s2"]
+    },
+    {
+      "name_en": "iQ",
+      "name_zh": "iQ",
+      "role_en": "The brand's first model, a pure-electric crossover.",
+      "role_zh": "品牌首款车型，纯电动跨界车。",
+      "price_band": null,
+      "founded": 2018,
+      "owner_note_en": "Announced at the brand launch in 2018 for the Chengdu Auto Show, as one of the three products built on the ME platform. It is no longer in the current China line-up.",
+      "owner_note_zh": "2018 年品牌发布会上宣布将于成都车展上市，为 ME 平台三款产品之一。现已不在当前中国官网在售车型之列。",
+      "status": "discontinued",
+      "source_ids": ["s3", "s2"]
+    },
+    {
+      "name_en": "R2",
+      "name_zh": "R2",
+      "role_en": "A model shown at the 2018 launch, positioned as a smarter electric small car.",
+      "role_zh": "2018 年发布时亮相的车型，定位更智能电动小车。",
+      "price_band": null,
+      "founded": 2018,
+      "owner_note_en": "At the 2018 launch, ORA said it had built three products on the ME platform: the iQ, R1 and R2, describing the R2 as a cuter, smarter electric small car. It does not appear in the current China line-up.",
+      "owner_note_zh": "2018 年发布时，欧拉称已基于 ME 平台打造 iQ、R1、R2 三款产品，其中 R2 为「太空萌物」、定位更智能电动小车。截至研究截止日未出现在中国官网在售车型中。",
+      "status": "discontinued",
+      "source_ids": ["s3", "s2"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not separately disclosed (ORA is a brand of Great Wall Motor)",
+    "rows": [],
+    "note_en": "ORA is a new-energy vehicle brand of Great Wall Motor and does not publish separate financial statements (revenue, gross margin, net profit, R&D or cash flow) for the brand, so this table contains no financial figures. The parent Great Wall Motor reported 2025 operating revenue of RMB 222.824 billion and net profit attributable to shareholders of the listed company (i.e. attributable to the parent company, under PRC GAAP) of RMB 9.865 billion, in units of RMB 100 million; see the Great Wall Motor (gwm) deep research. This page does not constitute any trading recommendation.",
+    "note_zh": "欧拉为长城汽车旗下新能源品牌，未单独披露品牌层面的财务数据（营收、毛利率、净利润、研发投入、现金流等），故本表不列财务数字。母公司长城汽车 2025 年营业收入 2,228.24 亿元、归属于上市公司股东的净利润（即归母净利润，按中国企业会计准则）98.65 亿元，单位均为亿元人民币，详见长城汽车（gwm）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>ORA is the new-energy vehicle brand of Great Wall Motor Company Limited, launched on 20 August 2018. Great Wall Motor describes it as the first independent new-energy brand among mainstream Chinese automakers, created by managing the company's new-energy business as a separate brand.<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a><a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> The name ORA honours the mathematician Leonhard Euler and stands for Open, Reliable and Alternative; the logo derives from an exclamation mark.<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> At launch, Great Wall Motor said ORA was positioned as a new-generation electric small car for young urban consumers, that its first model, the iQ, would go on sale at the Chengdu Auto Show, and that the group had researched new energy for a decade and would do forward engineering rather than oil-to-electric conversions or policy-driven cars.<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> ORA began as a pure-battery-electric brand, adopted the positioning of a car brand that loves women more in 2021, and in 2025 repositioned from refined female users to global young urban consumers, expanding from a single pure-electric line-up to a multi-powertrain brand.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></p><p>At the end of 2025, the ORA line-up comprised the Good Cat, Lightning Cat and Ballet Cat, plus the ORA 5 A-class SUV launched in December 2025 and its hybrid and sporty derivatives. Per the Great Wall Motor 2025 annual report, ORA sold 48,312 vehicles in 2025 and cumulative sales exceeded 557,700 units; per the company's production and sales brief, ORA sold 26,389 vehicles in the first half of 2026, up 89.74% year on year.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a> Per the ORA 5 launch materials, by December 2025 ORA had entered more than 50 countries and regions, with about 600,000 cumulative users.<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a></p><p>Sales peaked at about 135,000 vehicles in 2021, then fell before a slight recovery in 2023 and renewed declines from 2024: about 104,000 in 2022, about 108,500 in 2023 (above 2022), about 63,300 in 2024 (down 41.69% year on year, per media), and 48,312 in 2025, before recovering to 26,389 in the first half of 2026 as the ORA 5 ramped up. The 2022 and 2023 figures are approximations derived by subtracting cumulative-sales figures in the brand book.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a></p><p>ORA is a brand of Great Wall Motor and does not publish brand-level financials. The parent reported 2025 operating revenue of RMB 222.824 billion and net profit attributable to shareholders of the listed company of RMB 9.865 billion; see the Great Wall Motor (gwm) deep research. This page does not constitute any trading recommendation.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></p>",
+      "zh": "<p>欧拉（ORA）是长城汽车股份有限公司旗下的新能源汽车品牌，2018 年 8 月 20 日发布。长城汽车称其为主流中国车企中第一个将新能源汽车业务进行品牌化管理的独立品牌。<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a><a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> 品牌名取自数学家莱昂哈德·欧拉，ORA 为 Open（开放）、Reliable（可靠）、Alternative（非传统）的首字母组合，品牌标识由感叹号衍生而来。<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> 发布时，长城汽车称欧拉定位「新一代电动小车」、面向城市新青年，首款车型 iQ 宣布将于成都车展上市；并称集团在新能源领域「十年布局、潜心研发」，坚持正向研发，不做「油改电」、不做「政策车」。<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> 欧拉最初聚焦纯电动，2021 年确立「更爱女人的汽车品牌」定位，2025 年转型为面向「全球年轻的都市生活家」、由单一纯电拓展为多动力品牌。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></p><p>截至 2025 年末，欧拉在售车型包括好猫、闪电猫、芭蕾猫，以及 2025 年 12 月上市的全新 A 级 SUV 欧拉 5（及混动、运动款等衍生版本）。据长城汽车 2025 年年度报告，欧拉 2025 年销售 48,312 辆，历史累计销量超 55.77 万辆；据公司产销快报，2026 年上半年欧拉销售 26,389 辆，同比增长 89.74%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a> 据欧拉 5 上市材料，截至 2025 年 12 月欧拉已进入全球 50 多个国家和地区，累计用户约 60 万。<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a></p><p>从销量走势看，欧拉 2021 年达到约 13.5 万辆的峰值，此后先回落、2023 年小幅回升、2024 年起再度下滑：2022 年约 10.4 万辆、2023 年约 10.85 万辆（高于 2022 年）、2024 年约 6.33 万辆（据媒体，同比 -41.69%）、2025 年 48,312 辆；2026 年上半年因欧拉 5 等新车投放回升至 26,389 辆。其中 2022、2023 年数字系按品牌书累计销量相减所得近似值。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a></p><p>欧拉为长城汽车旗下品牌，未单独披露品牌层面财务数据。母公司长城汽车 2025 年营业收入 2,228.24 亿元、归属于上市公司股东的净利润 98.65 亿元，详见长城汽车（gwm）深度研究。本页不构成任何交易推荐。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Current line-up and prices</h3><p>As of the research cut-off date (2026-10-29), the ORA China website lists the 2027 Good Cat (from RMB 69,800), ORA 5 (from RMB 79,800), ORA 5 Sport (from RMB 81,800), ORA 5 GT (from RMB 99,800), Lightning Cat (from RMB 189,800) and Ballet Cat (from RMB 149,800) as suggested retail starting prices. The website tags them respectively as a new-generation smart beauty coupe (Good Cat), an intelligent fun global SUV (ORA 5), an ultra-cool small performance car (ORA 5 GT / Sport), a safe high-value pure-electric coupe (Lightning Cat) and a car dedicated to women (Ballet Cat).<a href=\"https://www.oraev.com/\">[s2]</a> Note that the ORA 5 is no longer a single pure-electric model: its model page tags the pure-electric version as 100k-class, the hybrid as 80k-class and the fuel version as 70k-class, so the RMB 79,800 starting price on the homepage is the fuel version, not a price cut to the pure-electric version.<a href=\"https://www.oraev.com/EC15S.html\">[s21]</a><a href=\"https://www.oraev.com/\">[s2]</a></p><h3>The ORA 5 and the multi-powertrain shift</h3><p>The pure-electric ORA 5 launched on 2025-12-16 with five configurations and a suggested retail price of RMB 99,800-133,800, plus a limited-time price from RMB 91,800; it is the first production model on GWM's new global platform (named Guiyuan on 2026-01-06).<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> The fuel and hybrid versions launched on 2026-04-25.<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> At the launch, the company described the ORA 5 as a young people's fashion tech SUV with a natural-aesthetics design and six colour options inspired by landscapes such as the Norwegian aurora, the banks of the Seine and the snow mountains of Nyingchi, and advocated technology for all.<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a></p><h3>Evolution of positioning</h3><p>The brand's positioning changed over time: at launch in 2018 it was a new-generation electric small car for urban young people; in March 2021 it announced a women-focused positioning; and per the 2025 annual report it was repositioned toward global young urban consumers, expanding from the group's former single pure-electric brand to a brand compatible with pure-electric, fuel and hybrid powertrains.<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a><a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a> According to The Paper, after 2023 and until the end of 2025 ORA did not introduce a new model, and sales declined until the ORA 5 arrived.<a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a></p><h3>Technology and platforms</h3><p>At the 2018 launch, Great Wall Motor unveiled the ME dedicated pure-electric platform as the technical base for ORA products.<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> The Good Cat is built on the LEMON platform's pure-electric architecture.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> From late 2025, ORA moved onto GWM's new global platform, which the company says supports one car with multiple powertrains, categories and postures, with the ORA 5 as its first production model.<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a> The ORA 5 carries GWM's third-generation driving-assistance system Coffee Pilot Ultra, enabling city NOA without high-definition maps and 3 km memory parking with lidar; its cockpit uses the Coffee OS3 system with a 4 nm chip integrating the Coffee GPT and DeepSeek large models; and it uses the second-generation short-blade battery with 24-hour advance anomaly warning and a 2025 five-star healthy car certification from CATARC.<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a></p><h3>Domestic sales</h3><p>By subtracting cumulative-sales figures in the ORA brand book (approximations) and using the annual report and production and sales briefs, ORA's annual sales were roughly: about 38,900 in 2019, about 56,300 in 2020, about 135,000 in 2021 (the peak), about 104,000 in 2022, about 108,500 in 2023, about 63,300 in 2024 (down 41.69% year on year, per media), 48,312 in 2025, and 26,389 in the first half of 2026 (up 89.74% year on year).<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a> Per China Telecom Finance citing GWM's production and sales briefs, ORA sold 11,018 vehicles in August 2026 (up 110.95% year on year), the third consecutive month above 10,000, and 48,227 units in January-August 2026 (up 105.83% year on year).<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqve3333615.shtml\">[s23]</a> The 2021 peak came mainly from low-priced models such as the Black Cat and White Cat, whose halt weighed on sales.<a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a></p><h3>Overseas business</h3><p>The Good Cat went on sale in Thailand in October 2021, appeared at the Paris Motor Show and went on sale in Europe in October 2022, and went on sale in Malaysia in November 2022.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> In November 2020, Great Wall Motor completed the acquisition of General Motors' Rayong plant in Thailand, becoming the first Chinese automaker to enter Thailand with a wholly owned plant; on 12 January 2024 the first locally produced Good Cat rolled off the line there, the first locally mass-produced pure-electric vehicle in Thailand.<a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a> The Good Cat recorded 6,712 registrations in Thailand in 2023, ranking fourth among pure-electric models.<a href=\"https://www.jjckb.cn/2024-01/12/c_1310759876.htm\">[s13]</a> In Malaysia, Great Wall Motor assembles vehicles through the parts maker EPMB, with the first WEY G9 rolling off the line at EPMB's Melaka plant in December 2025; that plant currently assembles the Haval H6 and WEY G9, and ORA-specific local assembly has not been disclosed.<a href=\"https://www.gwm.com.my/en/news-list/2025/52-release\">[s19]</a><a href=\"https://www.marklines.com/en/news/352794\">[s20]</a> Per MarkLines, in October 2026 Great Wall Motor announced plans to start serial production of the all-electric ORA 5 for Europe in January 2027 at its plant near Lovech, Bulgaria.<a href=\"https://www.marklines.com/en/news/353187\">[s22]</a></p>",
+      "zh": "<h3>在售车型与价格</h3><p>截至研究截止日（2026-10-29），欧拉中国官网在售车型及建议零售起售价为：2027 款好猫 6.98 万元起、欧拉 5 7.98 万元起、欧拉 5 运动款 8.18 万元起、欧拉 5 GT 9.98 万元起、闪电猫 18.98 万元起、芭蕾猫 14.98 万元起；官网分别以「新世代智美潮跑」（好猫）、「智能潮玩全球 SUV」（欧拉 5）、「超拉风小钢炮」（欧拉 5 GT/运动款）、「超安全高颜值纯电轿跑」（闪电猫）、「女性专属座驾」（芭蕾猫）标注定位。<a href=\"https://www.oraev.com/\">[s2]</a> 需要说明的是，欧拉 5 已非单一纯电车型：其车型页将纯电版标为「10 万级」、混动版标为「8 万级」、燃油版标为「7 万级」，故官网首页「7.98 万元起」对应的是燃油版起售价，并非纯电版降价后的价格。<a href=\"https://www.oraev.com/EC15S.html\">[s21]</a><a href=\"https://www.oraev.com/\">[s2]</a></p><h3>欧拉 5 与多动力转型</h3><p>欧拉 5 纯电版于 2025-12-16 上市，共 5 款配置，建议零售价 9.98 万至 13.38 万元，限时换新价 9.18 万元起；为长城汽车全新全球平台（2026-01-06 官宣命名「归元」）的首款量产车型。<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 2026-04-25，欧拉 5 燃油版、混动版上市。<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 发布会上，公司称欧拉 5 为年轻人的新一代时尚科技 SUV，采用「自然美学」设计、6 款灵感源自挪威极光、塞纳河畔、林芝雪山等风景的车色，并倡导「科技平权」。<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a></p><h3>品牌定位演变</h3><p>欧拉定位随时代调整：2018 年发布时定位「新一代电动小车」、面向城市新青年。<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> 2021 年 3 月确立「更爱女人的汽车品牌」定位。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> 据 2025 年年报，其已升级为面向「全球年轻的都市生活家」的多动力品牌；年报记载欧拉由集团曾经的单一纯电品牌，扩展为可兼容纯电、燃油、混动的品牌。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a> 据澎湃新闻报道，2023 年之后至 2025 年末，欧拉未再推出全新车型，销量下滑，直至欧拉 5 上市。<a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a></p><h3>技术与平台</h3><p>2018 年发布时，长城汽车同步推出 ME 专属纯电动平台，作为欧拉产品的技术基础。<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a> 好猫基于柠檬平台纯电架构打造。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> 2025 年末起，欧拉转入长城汽车全新全球平台，公司称该平台支持「一车多动力、多品类、多姿态」，欧拉 5 为其首款量产车型。<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a> 欧拉 5 搭载第三代辅助驾驶系统 Coffee Pilot Ultra，配合激光雷达可实现不依赖高精地图的城市 NOA 与 3 公里记忆泊车；座舱采用 Coffee OS3 智慧空间系统与 4 纳米芯片，集成 Coffee GPT 与 DeepSeek 双大模型；电池采用二代短刀电池，可提前 24 小时预警异常，并获中汽研 2025 年度「五星健康车」认证。<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a></p><h3>国内销量表现</h3><p>按欧拉品牌书累计销量相减（近似值）并结合年报与产销快报，欧拉历年销量约为：2019 年约 3.89 万辆、2020 年约 5.63 万辆、2021 年约 13.5 万辆（峰值）、2022 年约 10.4 万辆、2023 年约 10.85 万辆、2024 年约 6.33 万辆（据媒体，同比 -41.69%）、2025 年 48,312 辆；2026 年上半年 26,389 辆，同比增长 89.74%。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a> 据运营商财经网援引长城汽车产销快报，2026 年 8 月欧拉销量 11,018 辆、同比增长 110.95%，连续三个月单月破万；2026 年 1—8 月累计 48,227 辆、同比增长 105.83%。<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqve3333615.shtml\">[s23]</a> 2021 年峰值主要由黑猫、白猫等低价车型贡献，其后停售使品牌销量承压。<a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a></p><h3>海外业务</h3><p>好猫于 2021 年 10 月在泰国上市，2022 年 10 月亮相巴黎车展并在欧洲上市，2022 年 11 月在马来西亚上市。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.gwm.com.cn/history.html\">[s6]</a> 2020 年 11 月，长城汽车完成收购通用汽车泰国罗勇工厂，成为首家全资进入泰国的中国汽车品牌；2024 年 1 月 12 日，首台本地化量产欧拉好猫在该厂下线，为泰国本土生产的第一款量产纯电动汽车。<a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a> 2023 年好猫在泰国上牌 6,712 辆，居当地纯电车型第四。<a href=\"https://www.jjckb.cn/2024-01/12/c_1310759876.htm\">[s13]</a> 在马来西亚，长城汽车通过零部件企业 EPMB 进行 CKD 组装，2025 年 12 月首台魏牌 G9 在 EPMB 马六甲工厂下线；该厂当前组装的是哈弗 H6、魏牌 G9 等车型，欧拉车型的本地化组装未见公开披露。<a href=\"https://www.gwm.com.my/en/news-list/2025/52-release\">[s19]</a><a href=\"https://www.marklines.com/en/news/352794\">[s20]</a> 据 MarkLines 报道，长城汽车 2026 年 10 月宣布计划 2027 年 1 月起在保加利亚 Lovech 工厂为欧洲市场量产欧拉 5 纯电车型。<a href=\"https://www.marklines.com/en/news/353187\">[s22]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Brand ownership and governance</h3><p>ORA is not a separate listed company; it is a brand operated within Great Wall Motor Company Limited. Per Great Wall Motor's 2025 annual report, the controlling shareholder is Baoding Innovation Great Wall Asset Management Co., Ltd. (holding 59.77%), whose controlling shareholder Baoding Great Wall Holdings Group Co., Ltd. holds 62.854% of Innovation Great Wall; Wei Jianjun controls Great Wall Holdings and is the company's actual controller. The parent's brands include Haval, WEY, Tank, ORA and Great Wall Pickup.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></p><h3>First brand general manager</h3><p>At the 2018 launch, the first ORA brand general manager was Ning Shuyong, then a Great Wall Motor vice president, who said the group had set up a new-energy research group a decade earlier and would do forward engineering rather than oil-to-electric conversions or policy-driven cars.<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a></p><h3>Successive brand general managers</h3><p>According to the 21st Century Business Herald (2025-06-30), ORA had its seventh general manager within seven years, with the first six averaging under 14 months in the role.<a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a> Around the time the Black Cat and White Cat stopped taking orders in February 2022, China Economic Net reported that Dong Yudong was ORA's CEO, explaining that orders were stopped but not production.<a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a> On 8 February 2025, Haval brand general manager Zhao Yongpo was announced to concurrently manage the Haval and ORA brands.<a href=\"https://www.stcn.com/article/detail/2326827.html\">[s9]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a></p><h3>Current management</h3><p>On 20 June 2025, Great Wall Motor appointed Lü Wenbin, previously Haval brand technical general manager, as ORA brand general manager. Lü Wenbin joined Great Wall Motor after graduation, worked long-term in technology and R&amp;D, and was promoted to Haval brand technical general manager in 2020.<a href=\"https://auto.cri.cn/20250630/24fe1b58-9ce3-3e12-39a6-3cfc1027a582.html\">[s10]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a> According to a Sina Finance report, in December 2025 Zhao Yongpo became WEY CEO and no longer managed Haval; in May 2026, Great Wall Motor issued personnel appointments making Lü Wenbin general manager of the marketing centre's Haval-ORA brand, responsible for both the Haval and ORA brands.<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhysaip8165298.shtml\">[s18]</a> According to a 2026-09-16 report (Sina Tech, reposting China Telecom Finance), Lü Wenbin currently serves as Haval-ORA brand general manager, overseeing both the Haval and ORA brands.<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqve3333615.shtml\">[s23]</a> The above covers public roles and business experience only.</p>",
+      "zh": "<h3>品牌归属与治理</h3><p>欧拉并非独立上市公司，而是长城汽车股份有限公司旗下的品牌。据长城汽车 2025 年年报，公司控股股东为保定创新长城资产管理有限公司（持股 59.77%），该公司的控股股东保定市长城控股集团有限公司持有创新长城 62.854% 股权，魏建军通过控制长城控股成为公司实际控制人；公司旗下品牌包括哈弗、魏牌、坦克、欧拉、长城皮卡等。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></p><h3>首任品牌总经理</h3><p>2018 年品牌发布时，首任欧拉品牌总经理为时任长城汽车股份有限公司副总裁宁述勇，他当时表示长城汽车十年前成立新能源汽车研究小组、坚持正向研发，不做「油改电」、不做「政策车」。<a href=\"https://www.oraev.com/newsinfo-15885.html\">[s3]</a></p><h3>历任品牌总经理</h3><p>据 21 世纪经济报道（2025-06-30），欧拉品牌成立七年已历经 7 任总经理，前 6 任平均任期不足 14 个月。<a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a> 2022 年 2 月黑猫、白猫停止接单前后，据中国经济网报道，董玉东担任欧拉汽车 CEO，并解释「停接单不停产」。<a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a> 2025 年 2 月 8 日，哈弗品牌总经理赵永坡宣布同时负责哈弗和欧拉两个品牌。<a href=\"https://www.stcn.com/article/detail/2326827.html\">[s9]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a></p><h3>现任管理层</h3><p>2025 年 6 月 20 日，长城汽车任命原哈弗品牌技术总经理吕文斌为欧拉品牌总经理。吕文斌毕业后加入长城汽车，长期从事技术与研发工作，2020 年升任哈弗品牌技术总经理。<a href=\"https://auto.cri.cn/20250630/24fe1b58-9ce3-3e12-39a6-3cfc1027a582.html\">[s10]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a> 据新浪财经转述的报道，2025 年 12 月赵永坡出任魏牌 CEO、不再负责哈弗；2026 年 5 月，长城汽车发布人事任免，吕文斌拟任营销中心哈弗欧拉品牌总经理，同时负责哈弗、欧拉两个品牌。<a href=\"https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhysaip8165298.shtml\">[s18]</a> 据运营商财经网（新浪科技转载，2026-09-16）报道，吕文斌目前担任哈弗欧拉品牌总经理，主管哈弗、欧拉两大品牌。<a href=\"https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqve3333615.shtml\">[s23]</a> 以上均为公开职务与商业履历，不涉及个人私生活。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: the competitive field.</strong> Based on ORA's small and mid-size electric and multi-powertrain passenger-vehicle line-up, the main domestic competitors are small battery-electric models such as BYD's Seagull and Dolphin, SAIC-GM-Wuling's Bingo and Geely's small NEVs, while in Europe the field includes small EVs such as the Dacia Spring. This is our analytical selection, not a sales ranking.<a href=\"https://www.oraev.com/\">[s2]</a></p><p><strong>Our judgment: strengths.</strong> ORA's differentiation rests on retro design and, historically, a women-focused positioning; the Good Cat is built on Great Wall Motor's LEMON platform and benefits from the group's manufacturing and overseas network.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> The Good Cat recorded 6,712 registrations in Thailand in 2023, ranking fourth among pure-electric models, and in January 2024 became the first locally mass-produced pure-electric vehicle in Thailand.<a href=\"https://www.jjckb.cn/2024-01/12/c_1310759876.htm\">[s13]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a></p><p><strong>Our judgment: weaknesses and uncertainties.</strong> ORA's annual sales fell from a 2021 peak of about 135,000 vehicles to 48,312 in 2025, before recovering to 26,389 in the first half of 2026 as the ORA 5 ramped up; per The Paper, after 2023 and until late 2025 the brand did not introduce a new model, and its general manager changed several times.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a> The late-2021 chip dispute and the early-2022 halt of Black Cat and White Cat orders were reported setbacks; whether the multi-powertrain repositioning restores scale still needs evidence.<a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a><a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>按欧拉的小型与中型纯电/多动力乘用车产品线，国内主要竞争对手为比亚迪海鸥、海豚，上汽通用五菱缤果、吉利旗下小型新能源车型等，欧洲市场则面对 Dacia Spring 等小型电动车。此为分析所选的竞争范围，不是销量排名。<a href=\"https://www.oraev.com/\">[s2]</a></p><p><strong>我们的判断：优势。</strong>欧拉的差异化在于复古设计与早期「更爱女人」定位积累的用户基础；好猫基于长城汽车柠檬平台打造，并受益于集团制造体系与海外渠道。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> 2023 年好猫在泰国上牌 6,712 辆、居当地纯电车型第四，2024 年 1 月成为泰国本土生产的第一款量产纯电动汽车。<a href=\"https://www.jjckb.cn/2024-01/12/c_1310759876.htm\">[s13]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a></p><p><strong>我们的判断：短板与不确定性。</strong>欧拉年销量由 2021 年约 13.5 万辆的峰值降至 2025 年的 48,312 辆，2026 年上半年因欧拉 5 爬坡回升至 26,389 辆；据澎湃新闻报道，2023 年之后至 2025 年末欧拉未再推出全新车型，品牌总经理也多次更替。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a><a href=\"https://static.nfnews.com/content/202506/30/c11458514.html\">[s14]</a> 2021 年底的芯片争议与 2022 年初黑猫、白猫停止接单为媒体记载的挫折；「多动力」转型能否恢复规模仍需进一步验证。<a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a><a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Great Wall Motor's 2025 annual report states that ORA has repositioned from refined female users to global young urban consumers and expanded from a single pure-electric brand to a multi-powertrain brand.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a> The ORA 5 launch materials describe a follow-up line-up of SUVs, sedans and personalised multi-category products, positioning the brand as a multi-powertrain global fashion boutique brand; at the launch, chairman Wei Jianjun said the company would keep technology for good and publish a purchase guide explaining common technical routines in plain language.<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a> Media reported that Great Wall Motor set a 2025 sales target of 50,000 vehicles for ORA at home and abroad and planned a separate sales channel expanding to 400 stores; these are disclosed plans and targets, not completed results.<a href=\"https://www.stcn.com/article/detail/2326827.html\">[s9]</a> The brand book also describes an overseas model advancing from single-model exports to a full value system of global production and global sales.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> Per MarkLines, in October 2026 Great Wall Motor announced plans to start serial production of the all-electric ORA 5 for European markets in January 2027 at its plant near Lovech, Bulgaria.<a href=\"https://www.marklines.com/en/news/353187\">[s22]</a></p><p><strong>Our judgment.</strong> The ORA 5 and its hybrid, fuel and sporty derivatives give the brand new volume drivers, and first-half 2026 sales grew 89.74% year on year, which supports a short-term recovery in scale.<a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a> Whether the recovery is durable depends on demand for the new models, the pace of channel expansion, and overseas conditions such as tariffs and localisation.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.marklines.com/en/news/353187\">[s22]</a> The brand book's stated plan to expand to about 92 countries and regions remains a target, and actual progress should be tracked market by market. Overall, whether ORA can return to annual sales above 100,000 vehicles is a key indicator of whether the brand's transformation is working.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>长城汽车 2025 年年报称，欧拉由面向「精致女性」升级为面向「全球年轻的都市生活家」，并由单一纯电品牌拓展为多动力覆盖品牌。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a> 欧拉 5 上市材料称，后续将推出 SUV、轿车及个性化多品类、多姿态产品，将品牌打造为「多动力全球时尚精品汽车品牌」；发布会上董事长魏建军表示要坚持「技术本善」，并将推出「购车防忽悠指南」以通俗语言拆解常见技术套路。<a href=\"https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html\">[s4]</a> 据媒体报道，长城汽车曾为欧拉 2025 年在国内外定下 5 万辆销量目标，计划单独建立渠道并扩大招商、门店扩张至 400 家；以上为披露的计划与目标，不是已实现的业绩。<a href=\"https://www.stcn.com/article/detail/2326827.html\">[s9]</a> 品牌书还描述其出海模式由单品出海向全球生产、全球销售的全价值体系进阶。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a> 据 MarkLines 报道，长城汽车 2026 年 10 月宣布计划 2027 年 1 月起在保加利亚 Lovech 工厂为欧洲市场量产欧拉 5 纯电车型。<a href=\"https://www.marklines.com/en/news/353187\">[s22]</a></p><p><strong>我们的判断。</strong>欧拉 5 及其混动、燃油、运动款等版本为品牌带来新的增量，2026 年上半年销量同比增长 89.74%，支持短期的规模回升。<a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a> 但回升能否持续，取决于新车型需求、渠道扩张节奏以及关税与本地化等海外环境；品牌书所列拓展至约 92 个国家和地区的计划仍属目标，实际进展应分市场跟踪。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.marklines.com/en/news/353187\">[s22]</a> 整体来看，欧拉能否回到年销 10 万辆以上的规模，是观察品牌转型成效的关键指标。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Domestic competition.</strong> Small battery-electric vehicles in China are highly price-competitive; ORA's annual sales fell from a 2021 peak of about 135,000 vehicles to 48,312 in 2025 before recovering in the first half of 2026.<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a></li><li><strong>Brand-transition risk.</strong> The shift from a women-focused pure-electric brand to a multi-powertrain brand is a disclosed repositioning; its commercial effect is not yet established.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></li><li><strong>No separate financial disclosure.</strong> ORA does not publish brand-level revenue or profit, so the brand's standalone profitability cannot be assessed from public filings.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></li><li><strong>Management turnover.</strong> Media reported multiple changes of ORA brand manager, including in February 2025, June 2025 and May 2026, which adds execution uncertainty.<a href=\"https://www.stcn.com/article/detail/2326827.html\">[s9]</a><a href=\"https://auto.cri.cn/20250630/24fe1b58-9ce3-3e12-39a6-3cfc1027a582.html\">[s10]</a><a href=\"https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhysaip8165298.shtml\">[s18]</a></li><li><strong>Overseas risks.</strong> The brand depends partly on overseas markets such as Thailand; trade barriers and local demand shifts can affect sales and local production.<a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a><a href=\"https://www.marklines.com/en/news/353187\">[s22]</a></li><li><strong>Product and reputation events.</strong> Media reported a late-2021 dispute over the Good Cat's in-vehicle chip not matching marketing claims, which the company acknowledged, and the early-2022 halt of Black Cat and White Cat orders (which the company said was a halt of orders, not of production).<a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a><a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a></li><li><strong>Overseas localisation.</strong> GWM's Thailand Rayong plant has produced the Good Cat since January 2024; the EPMB plant in Malaysia currently assembles the WEY G9 and Haval H6 rather than ORA models, and ORA-specific local assembly there has not been disclosed. Capacity ramp-up and local policy changes may affect deliveries.<a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a><a href=\"https://www.gwm.com.my/en/news-list/2025/52-release\">[s19]</a><a href=\"https://www.marklines.com/en/news/352794\">[s20]</a></li></ul>",
+      "zh": "<ul><li><strong>国内竞争。</strong>中国小型新能源车价格竞争激烈；欧拉年销量由 2021 年约 13.5 万辆的峰值降至 2025 年的 48,312 辆，2026 年上半年才回升。<a href=\"https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a><a href=\"https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf\">[s16]</a></li><li><strong>品牌转型风险。</strong>由女性向纯电品牌转向多动力品牌，是已披露的重新定位，其商业效果尚待验证。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></li><li><strong>无单独财务披露。</strong>欧拉未披露品牌层面营收与利润，无法从公开文件评估品牌独立盈利能力。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s5]</a></li><li><strong>管理层更替。</strong>媒体多次报道欧拉品牌负责人变更，含 2025 年 2 月、6 月与 2026 年 5 月的变动，带来执行层面的不确定性。<a href=\"https://www.stcn.com/article/detail/2326827.html\">[s9]</a><a href=\"https://auto.cri.cn/20250630/24fe1b58-9ce3-3e12-39a6-3cfc1027a582.html\">[s10]</a><a href=\"https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhysaip8165298.shtml\">[s18]</a></li><li><strong>海外风险。</strong>品牌部分依赖泰国等海外市场，贸易壁垒与当地需求变化可能影响销售与本地生产。<a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a><a href=\"https://www.marklines.com/en/news/353187\">[s22]</a></li><li><strong>产品与品牌声誉事件。</strong>据媒体报道，2021 年底欧拉好猫因车机芯片与宣传不符引发争议并获公司确认；2022 年初黑猫、白猫停止接单（公司称「停接单不停产」）。<a href=\"https://www.thepaper.cn/newsDetail_forward_31032532\">[s11]</a><a href=\"https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml\">[s17]</a></li><li><strong>海外本地化生产。</strong>长城汽车泰国罗勇工厂已于 2024 年 1 月量产好猫；马来西亚 EPMB 工厂当前组装的是魏牌 G9、哈弗 H6 等车型，欧拉车型在该厂的本地化未公开披露。海外产能爬坡与当地政策变化可能影响交付。<a href=\"https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm\">[s7]</a><a href=\"https://www.gwm.com.my/en/news-list/2025/52-release\">[s19]</a><a href=\"https://www.marklines.com/en/news/352794\">[s20]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "ORA Brand Book 2024 (official PDF, brand milestones and cumulative sales) — 欧拉品牌书 2024（官网 PDF，品牌大事记与累计销量）",
+      "url": "https://www.oraev.com/dist/statics/images/brand/ORA_2024.pdf",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "ORA official China website (model line-up and suggested retail prices, accessed 2026-10-29) — 欧拉中国官网（车型与建议零售价，访问日 2026-10-29）",
+      "url": "https://www.oraev.com/",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "ORA official news: Great Wall Motor launches the ORA brand (2018-12-28) — 欧拉官网新闻·长城发布欧拉品牌",
+      "url": "https://www.oraev.com/newsinfo-15885.html",
+      "date": "2018-12-28",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "Xinhuanet: Great Wall ORA 5 officially launched (2025-12-16) — 新华网·长城欧拉5正式上市",
+      "url": "https://www.news.cn/auto/20251218/52f61de65e4f4be296c233fdab6bec38/c.html",
+      "date": "2025-12-18",
+      "tier": "B"
+    },
+    {
+      "id": "s5",
+      "name": "Great Wall Motor 2025 Annual Report, HKEX filing — 长城汽车 2025 年年度报告·港交所",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Great Wall Motor official website: development history — 长城汽车官网·发展历程",
+      "url": "https://www.gwm.com.cn/history.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "People's Daily: first locally produced pure-electric vehicle rolls off the line in Thailand (2024-01-14) — 人民日报·中企在泰下线首款本土化生产纯电动汽车",
+      "url": "https://paper.people.com.cn/rmrb/html/2024-01/14/nw.D110000renmrb_20240114_6-03.htm",
+      "date": "2024-01-14",
+      "tier": "B"
+    },
+    {
+      "id": "s8",
+      "name": "ORA official news: 2027 ORA Good Cat launched from RMB 69,800 (2026-09-29) — 欧拉官网新闻·2027款长城欧拉好猫 6.98万元起",
+      "url": "https://www.oraev.com/news_3404016.html",
+      "date": "2026-09-29",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "Securities Times Online: Wei Jianjun revives ORA, targeting 50,000 sales and two new models — 证券时报网·魏建军复兴欧拉",
+      "url": "https://www.stcn.com/article/detail/2326827.html",
+      "date": "2025-06-27",
+      "tier": "B"
+    },
+    {
+      "id": "s10",
+      "name": "CRI Online (auto channel): ORA and other brands change general managers — 国际在线汽车频道·欧拉等品牌更换负责人",
+      "url": "https://auto.cri.cn/20250630/24fe1b58-9ce3-3e12-39a6-3cfc1027a582.html",
+      "date": "2025-06-30",
+      "tier": "B"
+    },
+    {
+      "id": "s11",
+      "name": "The Paper: ORA changes general manager — 澎湃新闻·欧拉换帅",
+      "url": "https://www.thepaper.cn/newsDetail_forward_31032532",
+      "date": "2025-06-24",
+      "tier": "B"
+    },
+    {
+      "id": "s12",
+      "name": "Phoenix Auto: dialogue with ORA's Yu Fei on sales targets — 凤凰网汽车·对话欧拉汽车余飞",
+      "url": "https://auto.ifeng.com/quanmeiti/20210723/1611195.shtml",
+      "date": "2021-07-23",
+      "tier": "B"
+    },
+    {
+      "id": "s13",
+      "name": "Economic Information Network: Chinese automakers expand the global NEV market (Thailand 2023 data) — 经济参考网·中国车企合力做大全球新能源汽车市场",
+      "url": "https://www.jjckb.cn/2024-01/12/c_1310759876.htm",
+      "date": "2024-01-12",
+      "tier": "B"
+    },
+    {
+      "id": "s14",
+      "name": "21st Century Business Herald (South+): Wei Jianjun revives ORA, locking in 50,000 sales — 21世纪经济报道（南方+）·魏建军复兴欧拉",
+      "url": "https://static.nfnews.com/content/202506/30/c11458514.html",
+      "date": "2025-06-30",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "Great Wall Motor June 2026 production and sales brief (overseas regulatory announcement) — 长城汽车 2026 年 6 月产销快报（海外监管公告）",
+      "url": "https://res.gwm.com.cn/2026/07/01/1854267_126_C-2.pdf",
+      "date": "2026-07-01",
+      "tier": "A"
+    },
+    {
+      "id": "s17",
+      "name": "China Economic Net: CEO Dong Yudong on halting Black Cat and White Cat orders but not production — 中国经济网·董玉东：黑、白猫停接单不停产",
+      "url": "https://auto.ce.cn/auto/gundong/202202/25/t20220225_37356863.shtml",
+      "date": "2022-02-25",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "Sina Finance: Lü Wenbin appointed general manager of the Haval-ORA brand (2026-05-21) — 新浪财经·吕文斌出任营销中心哈弗欧拉品牌总经理",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-21/doc-inhysaip8165298.shtml",
+      "date": "2026-05-21",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "GWM Malaysia official news: first WEY G9 rolls out at EPMB Melaka plant (2025-12-11) — 长城汽车马来西亚官网·首台WEY G9于EPMB马六甲工厂下线",
+      "url": "https://www.gwm.com.my/en/news-list/2025/52-release",
+      "date": "2025-12-11",
+      "tier": "A"
+    },
+    {
+      "id": "s20",
+      "name": "MarkLines: GWM WEY G9 Hi4 HEV launched in Malaysia — MarkLines·长城WEY G9 Hi4 HEV在马来西亚上市",
+      "url": "https://www.marklines.com/en/news/352794",
+      "date": "2026-10-22",
+      "tier": "B"
+    },
+    {
+      "id": "s21",
+      "name": "ORA official ORA 5 model page (three powertrain price tiers) — 欧拉官网·欧拉5车型页（三种动力价格档位）",
+      "url": "https://www.oraev.com/EC15S.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s22",
+      "name": "MarkLines: GWM plans to start ORA 5 EV production in Bulgaria — MarkLines·长城计划在保加利亚量产欧拉5纯电",
+      "url": "https://www.marklines.com/en/news/353187",
+      "date": "2026-10-22",
+      "tier": "B"
+    },
+    {
+      "id": "s23",
+      "name": "Sina Tech (reposting China Telecom Finance): Lü Wenbin serves as Haval-ORA brand general manager; August 2026 ORA sales (2026-09-16) — 新浪科技转运营商财经网·吕文斌任哈弗欧拉品牌总经理与2026年8月欧拉销量",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-16/doc-iniryqve3333615.shtml",
+      "date": "2026-09-16",
+      "tier": "B"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "id": "mg",
+  "name_en": "MG (Morris Garages)",
+  "name_zh": "名爵（MG）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1924 (Oxford, United Kingdom)",
+      "value_zh": "1924 年（英国牛津）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Brand ownership",
+      "label_zh": "品牌归属",
+      "value_en": "SAIC Motor Corporation (state-owned; ultimate controller Shanghai SASAC), operated by SAIC Motor Passenger Vehicle",
+      "value_zh": "上汽集团（国有，实际控制人为上海市国资委），由上汽乘用车运营",
+      "period": null,
+      "source_ids": ["s7", "s3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai, China",
+      "value_zh": "中国上海",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; parent SAIC Motor is listed on SSE (600104)",
+      "value_zh": "未单独上市；母公司上汽集团在上交所上市（600104）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed (brand level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "Not separately disclosed (brand level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Net profit (latest fiscal year)",
+      "label_zh": "最近财年净利润",
+      "value_en": "Not separately disclosed (brand level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Sales in Europe (2025)",
+      "label_zh": "2025 年欧洲销量",
+      "value_en": "Over 300,000 units (up nearly 30% YoY)",
+      "value_zh": "超 30 万辆（同比近 +30%）",
+      "period": "2025",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Sales in Europe (H1 2026)",
+      "label_zh": "2026 年上半年欧洲销量",
+      "value_en": "Over 190,000 units (up over 20% YoY)",
+      "value_zh": "超 19 万辆（同比 +20% 以上）",
+      "period": "2026-H1",
+      "source_ids": ["s35"]
+    },
+    {
+      "label_en": "Overseas retail sales (2025)",
+      "label_zh": "2025 年海外零售销量",
+      "value_en": "About 591,000 units (media-reported)",
+      "value_zh": "约 59.1 万辆（媒体报道口径）",
+      "period": "2025",
+      "source_ids": ["s19"]
+    },
+    {
+      "label_en": "Sales in India (2025)",
+      "label_zh": "2025 年印度销量",
+      "value_en": "About 70,000 units (up 17.8% YoY)",
+      "value_zh": "约 7 万辆（同比 +17.8%）",
+      "period": "2025",
+      "source_ids": ["s18"]
+    },
+    {
+      "label_en": "Sales in Thailand (2025)",
+      "label_zh": "2025 年泰国销量",
+      "value_en": "35,872 units (domestic sales plus exports, up 44% YoY)",
+      "value_zh": "35,872 辆（国内销量加出口合计，同比 +44%）",
+      "period": "2025",
+      "source_ids": ["s18"]
+    },
+    {
+      "label_en": "Cumulative sales in Europe",
+      "label_zh": "欧洲累计销量",
+      "value_en": "First Chinese brand to surpass one million cumulative deliveries in Europe",
+      "value_zh": "首个在欧洲累计交付突破 100 万辆的中国品牌",
+      "period": "as of 2026-04",
+      "source_ids": ["s13"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1924",
+      "event_en": "MG is founded at Morris Garages in Oxford, United Kingdom, by Cecil Kimber alongside founder William Morris; the first production model is the MG 14/28.",
+      "event_zh": "MG 在英国牛津的 Morris Garages 工坊诞生，由塞西尔·金伯与创始人威廉·莫里斯共同打造，首款量产车为 MG 14/28。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1929",
+      "event_en": "The MG M-Type Midget is launched as the brand's first small 'people's sports car'.",
+      "event_zh": "MG M-Type 问世，是 MG 首款小型「国民跑车」。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1933",
+      "event_en": "The MG K3 Magnette wins its class at the Mille Miglia in Italy, making MG the first foreign marque to win the race.",
+      "event_zh": "MG K3 Magnette 在意大利 Mille Miglia 一千英里耐力赛夺冠，成为第一个在该赛事夺冠的外国品牌。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1962",
+      "event_en": "The MGB roadster is launched; it goes on to sell 512,000 units over 18 years as the brand's best-seller.",
+      "event_zh": "MGB 敞篷跑车上市，其后 18 年累计销售 51.2 万辆，成为品牌史上最畅销车型。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1995",
+      "event_en": "The MGF mid-engined roadster debuts at the Geneva motor show.",
+      "event_zh": "MGF 中置后驱敞篷跑车于日内瓦车展首发。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2004-06",
+      "event_en": "On 16 June 2004 SAIC signs a cooperation agreement with Britain's MG Rover and acquires Rover intellectual property in stages (GBP 37 million in 2004 for other Rover models and the K-series engine, and GBP 30 million on 13 January 2005 for the Rover 25).",
+      "event_zh": "2004 年 6 月 16 日，上汽与英国 MG 罗孚签署合作协议，并分阶段取得罗孚知识产权（2004 年 3700 万英镑取得其他罗孚车型及 K 系列发动机权利，2005 年 1 月 13 日另付 3000 万英镑取得罗孚 25 知识产权）。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2005-04",
+      "event_en": "MG Rover collapses and enters administration.",
+      "event_zh": "MG 罗孚破产，进入破产管理程序。",
+      "source_ids": ["s15", "s20"]
+    },
+    {
+      "date": "2005-07",
+      "event_en": "Nanjing Automobile (NAC) acquires the MG brand and remaining MG Rover assets for about GBP 53 million.",
+      "event_zh": "南京汽车（南汽）以约 5300 万英镑收购 MG 品牌及罗孚破产后的剩余资产。",
+      "source_ids": ["s15", "s20"]
+    },
+    {
+      "date": "2007-12",
+      "event_en": "NAC merges into SAIC under the SAIC-Nanjing restructuring; SAIC pays about RMB2.095 billion for the Yuejin vehicle and parts assets, and the MG brand passes to SAIC.",
+      "event_zh": "上南合作落地，上汽出资约 20.95 亿元收购跃进整车及零部件资产，MG 品牌并入上汽。",
+      "source_ids": ["s21", "s20"]
+    },
+    {
+      "date": "2011",
+      "event_en": "The MG6, the first all-new MG model in 16 years, is produced at the Longbridge plant in the UK.",
+      "event_zh": "十六年来首款全新 MG 车型 MG6 在英国长桥工厂投产。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2016-09",
+      "event_en": "MG Motor announces on 23 September 2016 that all vehicle production has ceased at Longbridge; from then on MG vehicles are imported from China.",
+      "event_zh": "2016 年 9 月 23 日 MG 宣布长桥工厂停止整车生产，此后 MG 车型全部由中国工厂生产并进口到英国。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2019",
+      "event_en": "The MG ZS EV (EZS), a Euro NCAP five-star small pure-electric SUV, launches in Europe, marking MG's return to the European market.",
+      "event_zh": "欧洲首款 Euro NCAP 五星安全纯电动小型 SUV MG ZS EV（EZS）上市，MG 重返欧洲。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "The MG4 EV (MG MULAN in China) is launched globally on 13 September 2022, priced at RMB129,800-186,800 in China (after subsidy) and EUR31,990-37,990 in Europe.",
+      "event_zh": "2022 年 9 月 13 日，MG4 EV（国内名 MG MULAN）全球上市，国内补贴后售价 12.98 万–18.68 万元，欧洲售价 31,990–37,990 欧元。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2023-03",
+      "event_en": "The MG7, the first flagship of the MG Black Label series, is launched on 29 March 2023 priced at RMB119,800-169,800.",
+      "event_zh": "2023 年 3 月 29 日，MG 黑标首款旗舰车型 MG7 上市，售价 11.98 万–16.98 万元。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2023-11",
+      "event_en": "The MG Cyberster, a pure-electric convertible roadster, is launched at the Guangzhou auto show on 17 November 2023, priced at RMB319,800-359,800.",
+      "event_zh": "2023 年 11 月 17 日，纯电敞篷跑车 MG Cyberster 于广州车展上市，售价 31.98 万–35.98 万元。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2024-03",
+      "event_en": "SAIC Motor India is restructured into the JSW MG Motor India joint venture (announced March 2024, after JSW acquired a 35% stake in November 2023); after the transaction SAIC HK holds 49%, JSW 35%, a financial investor 8%, a dealer trust 3% and an employee share plan 5%.",
+      "event_zh": "名爵印度公司重组为 JSW MG Motor India 合资公司（2024 年 3 月官宣，此前 JSW 已于 2023 年 11 月收购 35% 股权）；交易完成后上汽香港持股 49%、JSW 35%、财务投资者 8%、经销商信托 3%、员工激励计划信托 5%。",
+      "source_ids": ["s8", "s34"]
+    },
+    {
+      "date": "2025-06",
+      "event_en": "Chen Cui becomes general manager of the MG brand business unit, announcing an 'All in new energy' plan to invest over RMB10 billion and launch 13 new-energy models within two years.",
+      "event_zh": "陈萃出任 MG 品牌事业部总经理，宣布「All in 新能源」，两年内投入超 100 亿元、推出 13 款新能源车型。",
+      "source_ids": ["s9", "s10"]
+    },
+    {
+      "date": "2025-08",
+      "event_en": "The new-generation MG4 is launched on 29 August 2025 with a guide price of RMB68,800-102,800 and a limited-time subsidised price of RMB65,800-99,800; the semi-solid-state battery version enters the sub-RMB100,000 segment.",
+      "event_zh": "2025 年 8 月 29 日全新 MG4 上市，官方指导价 6.88 万–10.28 万元、限时补贴价 6.58 万–9.98 万元，半固态电池版本进入 10 万元以内。",
+      "source_ids": ["s11", "s3"]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "MG's 2025 sales in Europe exceed 300,000 units, up nearly 30% year-on-year, keeping MG the top-selling Chinese brand in Europe for the 11th consecutive year.",
+      "event_zh": "2025 年 MG 欧洲销量突破 30 万辆、同比增长近 30%，连续 11 年蝉联中国汽车品牌欧洲销量冠军。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2026-08",
+      "event_en": "The MG 07 mid-size new-energy coupe is launched at the Chengdu auto show on 21 August 2026 in seven variants priced at RMB108,900-159,900 (limited-time subsidised price RMB105,900-156,900); the 610km pure-electric version uses SAIC QingTao semi-solid-state batteries.",
+      "event_zh": "2026 年 8 月 21 日，中型新能源轿跑 MG 07 于成都车展上市，共七款车型，官方指导价 10.89 万–15.99 万元（限时补贴价 10.59 万–15.69 万元）；其中纯电 610km 版搭载上汽清陶半固态电池。",
+      "source_ids": ["s26", "s27"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "MG4 EV",
+      "name_zh": "MG4 EV",
+      "role_en": "Compact pure-electric hatchback/crossover and MG's first 'global car'.",
+      "role_zh": "紧凑型纯电两厢/跨界车，MG 首款「全球车」。",
+      "price_band": "RMB 129,800-186,800 (China, after subsidy, 2022 launch); new-gen guide price RMB 68,800-102,800, limited-time subsidised price RMB 65,800-99,800 (China, Aug 2025)",
+      "founded": 2022,
+      "owner_note_en": "The first generation (MG MULAN) launched globally on 13 September 2022 on SAIC's Nebula pure-electric platform, priced at RMB129,800-186,800 (after subsidy) in China and EUR31,990-37,990 in Europe; it was the best-selling compact pure-electric car in Europe for full-year 2023. The new-generation MG4 launched on 29 August 2025 with a guide price of RMB68,800-102,800 and a limited-time subsidised price of RMB65,800-99,800; the semi-solid-state version (RMB99,800 after subsidy) is the brand's first volume semi-solid-state model. SAIC said the new MG4 has sold over 10,000 units a month in China since September 2025, and the MG4 family delivered over 18,000 units in June 2026, its ninth straight month above 10,000.",
+      "owner_note_zh": "第一代（MG MULAN）2022 年 9 月 13 日全球上市，基于上汽星云纯电专属平台打造，国内补贴后 12.98 万–18.68 万元、欧洲 31,990–37,990 欧元，2023 年全年为欧洲紧凑型纯电销量第一。全新 MG4 于 2025 年 8 月 29 日上市，官方指导价 6.88 万–10.28 万元、限时补贴价 6.58 万–9.98 万元，其中半固态安芯版补贴后 9.98 万元，为品牌首款批量装车的半固态电池车型。上汽称全新 MG4 自 2025 年 9 月起国内月销破万，MG4 家族 2026 年 6 月交车超 1.8 万辆、已实现 9 个月稳态破万。",
+      "status": "active",
+      "source_ids": ["s4", "s11", "s3", "s35"]
+    },
+    {
+      "name_en": "MG 07",
+      "name_zh": "MG 07",
+      "role_en": "Mid-size new-energy coupe positioned at the RMB100,000-160,000 segment; the brand's 2.0-generation model to broaden the domestic lineup beyond the MG4.",
+      "role_zh": "中型新能源轿跑，定位 10 万–16 万元级，是品牌拓宽国内产品线、降低单一车型依赖的 2.0 世代车型。",
+      "price_band": "RMB 108,900-159,900 guide price; RMB 105,900-156,900 limited-time subsidised price (China, Aug 2026)",
+      "founded": 2026,
+      "owner_note_en": "Launched at the Chengdu auto show on 21 August 2026 in seven variants across pure-electric and plug-in hybrid (DMH) powertrains. The pure-electric 610km version uses SAIC QingTao semi-solid-state batteries, the 845km version uses a 91kWh CATL ternary battery on an 800V platform with 5C fast charging, and the plug-in hybrid uses the DMH system with a combined range of 1,745km; all variants come with mCDC intelligent electromagnetic suspension as standard. MG disclosed pre-sale orders exceeded 59,000 within 24 days.",
+      "owner_note_zh": "2026 年 8 月 21 日于成都车展上市，共七款车型，覆盖纯电与 DMH 插电混动。纯电 610km 版搭载上汽清陶半固态电池，845km 版搭载 91 度宁德时代三元锂电池、基于 800V 高压平台并支持 5C 快充，插混版搭载 DMH 全域超混系统、综合续航 1745 公里；全系标配 mCDC 智能电磁悬架。MG 披露预售 24 天小订订单突破 5.9 万台。",
+      "status": "active",
+      "source_ids": ["s26", "s27"]
+    },
+    {
+      "name_en": "MG Cyberster",
+      "name_zh": "MG Cyberster",
+      "role_en": "Pure-electric two-seat convertible roadster, the brand's centenary tribute model.",
+      "role_zh": "纯电两座敞篷跑车，MG 品牌百年献礼车型。",
+      "price_band": "RMB 319,800-359,800 (China, Nov 2023 launch)",
+      "founded": 2023,
+      "owner_note_en": "Launched at the Guangzhou auto show on 17 November 2023 in three configurations (RMB319,800/339,800/359,800), combining scissor doors with a soft-top convertible; MG described it as the world's first pure-electric convertible roadster of its kind.",
+      "owner_note_zh": "2023 年 11 月 17 日于广州车展上市，三个配置（31.98 万/33.98 万/35.98 万元），采用电动剪刀门加软顶敞篷组合，MG 称之为全球首款纯电敞篷跑车。",
+      "status": "active",
+      "source_ids": ["s5"]
+    },
+    {
+      "name_en": "MG7",
+      "name_zh": "MG7",
+      "role_en": "Midsize sporty sedan/coupe and the first flagship of the MG Black Label series.",
+      "role_zh": "中级轿跑，MG 黑标系列首款旗舰车型。",
+      "price_band": "RMB 119,800-169,800 (China, Mar 2023 launch)",
+      "founded": 2023,
+      "owner_note_en": "Launched on 29 March 2023 in 1.5T and 2.0T variants priced at RMB119,800-169,800, with a 2.0T 'black label' engine and a nine-speed automatic transmission. The MG7 nameplate dates back to the 2007 NAC-era model.",
+      "owner_note_zh": "2023 年 3 月 29 日上市，1.5T/2.0T 车型售价 11.98 万–16.98 万元，搭载上汽蓝芯第三代 2.0T 黑标发动机与 9 速手自一体变速箱。MG7 车系最早可追溯至 2007 年南汽时代的初代车型。",
+      "status": "active",
+      "source_ids": ["s14"]
+    },
+    {
+      "name_en": "MG5",
+      "name_zh": "MG5",
+      "role_en": "Compact sedan.",
+      "role_zh": "紧凑级轿车。",
+      "price_band": "RMB 59,900-69,900 (China, 2026 model, Jun 2025 launch)",
+      "founded": null,
+      "owner_note_en": "The 2026 MG5 was launched on 30 June 2025 in four configurations priced at RMB59,900-69,900, with a claimed 0-100 km/h time of 6.9 seconds.",
+      "owner_note_zh": "2026 款 MG5 于 2025 年 6 月 30 日上市，四款车型售价 5.99 万–6.99 万元，零百加速 6.9 秒。",
+      "status": "active",
+      "source_ids": ["s10"]
+    },
+    {
+      "name_en": "MG ZS / ZS EV (EZS)",
+      "name_zh": "MG ZS / ZS EV（EZS）",
+      "role_en": "Small SUV; the ZS EV (EZS) was the model that brought MG back to Europe in 2019.",
+      "role_zh": "小型 SUV；ZS EV（EZS）是 2019 年 MG 重返欧洲市场的车型。",
+      "price_band": null,
+      "founded": 2019,
+      "owner_note_en": "The MG EZS, a Euro NCAP five-star small pure-electric SUV, launched in Europe in 2019 and was among the earliest Chinese new-energy vehicles exported to Europe at scale. In Spain the MG ZS ranked third among all passenger cars in full-year 2025 with 23,731 registrations. In 2026 the strategic export model MG ZS HEV had sold over 27,000 units in Europe year-to-date.",
+      "owner_note_zh": "2019 年欧洲上市的 Euro NCAP 五星安全纯电动小型 SUV，是最早大规模出口欧洲的中国新能源车型之一。2025 年全年 MG ZS 以 23,731 辆的注册量位列西班牙乘用车销量第三。2026 年战略出口车型 MG ZS HEV 在欧洲累计销售超 2.7 万辆。",
+      "status": "active",
+      "source_ids": ["s1", "s38", "s35"]
+    },
+    {
+      "name_en": "MG HS / eHS",
+      "name_zh": "MG HS / eHS",
+      "role_en": "Compact SUV; the HS PHEV (eHS) has been among the top-selling plug-in hybrids in Spain.",
+      "role_zh": "紧凑型 SUV；HS PHEV（eHS）是西班牙插电混动市场的畅销车型之一。",
+      "price_band": null,
+      "founded": 2019,
+      "owner_note_en": "The MG eHS was exported to Europe from 2019 alongside the EZS. For full-year 2025, Spanish market data ranked the MG EHS second among plug-in hybrids in Spain with registrations slightly above 8,400 units, behind the BYD Seal U (about 9,300 units).",
+      "owner_note_zh": "MG eHS 自 2019 年起与 EZS 一同出口欧洲。据 2025 年全年西班牙市场数据，MG EHS 以略高于 8400 辆的注册量位居西班牙插电混动销量第二，仅次于比亚迪 Seal U（约 9300 辆）。",
+      "status": "active",
+      "source_ids": ["s1", "s38"]
+    },
+    {
+      "name_en": "JSW MG Motor India",
+      "name_zh": "JSW MG Motor India（名爵印度合资公司）",
+      "role_en": "Indian manufacturing and sales joint venture producing and selling MG vehicles (including EVs) in India.",
+      "role_zh": "在印度生产并销售 MG 品牌整车（含电动车）的合资公司。",
+      "price_band": null,
+      "founded": 2017,
+      "owner_note_en": "MG Motor India was set up in February 2017 as a wholly owned SAIC subsidiary after SAIC acquired General Motors' Halol plant in Gujarat. In March 2024 it was restructured into the JSW MG Motor India joint venture (JSW acquired 35% in November 2023); after the transaction SAIC HK holds 49%, JSW 35%, a financial investor 8%, a dealer trust 3% and an employee share plan 5%. SAIC's April 2025 announcement disclosed that the company had total assets of INR76.5 billion and total liabilities of INR73.1 billion at 31 December 2024, an asset-liability ratio of 95.5%. The MG Windsor was India's highest-selling EV in calendar 2025 with 46,735 units, and the JV sold 51,387 EV units in CY2025, up more than 135% from 21,814 units in FY2024 (FADA data). On capacity, director Parth Jindal said the Halol plant currently has about 110,000 units a year, rising to 220,000 by January 2028, with potential to reach about 400,000; the company said it does not see a need for a new plant site for at least the next three to four years.",
+      "owner_note_zh": "名爵印度公司（MG Motor India）2017 年 2 月由上汽设立，此前上汽收购了通用汽车位于古吉拉特邦的 Halol 工厂。2024 年 3 月重组为 JSW MG Motor India 合资公司（JSW 于 2023 年 11 月收购 35% 股权）；交易完成后上汽香港持股 49%、JSW 35%、财务投资者 8%、经销商信托 3%、员工激励计划信托 5%。上汽 2025 年 4 月公告披露，截至 2024 年 12 月 31 日该公司资产总额 765 亿卢比、负债总额 731 亿卢比、资产负债率 95.5%。MG Windsor 以 46,735 辆成为 2025 自然年印度最畅销电动车，合资公司 2025 年电动车销量 51,387 辆、较 FY2024 的 21,814 辆增长超 135%（FADA 数据）。产能方面，董事 Parth Jindal 称 Halol 工厂现产能约 11 万辆/年，2028 年 1 月扩至 22 万辆，并可扩至约 40 万辆；公司表示至少未来三到四年无需新厂址。",
+      "status": "active",
+      "source_ids": ["s8", "s34", "s36", "s37"]
+    },
+    {
+      "name_en": "SAIC Motor-CP",
+      "name_zh": "上汽正大（SAIC Motor-CP）",
+      "role_en": "Thailand manufacturing and sales joint venture producing and selling MG right-hand-drive vehicles for Thailand and ASEAN.",
+      "role_zh": "在泰国生产并销售 MG 右舵车、面向泰国及东盟市场的合资公司。",
+      "price_band": null,
+      "founded": 2012,
+      "owner_note_en": "Signed on 4 December 2012 between SAIC and Thailand's Charoen Pokphand (CP) Group; SAIC holds 51% (via SAIC Hong Kong and SAIC UK) and CP 49%, with an initial investment of about RMB1.8 billion and an initial annual capacity plan of 50,000 units, later up to 200,000. Production started in 2014; the second plant in Chonburi (about 700,000 sq m) was completed in 2017 with annual capacity of about 100,000 units and became MG's right-hand-drive production hub. SAIC opened Thailand's first EV battery plant at the Chonburi base in October 2023 (about 50,000 CTP battery packs a year), and the first locally produced pure-electric MG4 rolled off the line in November 2023.",
+      "owner_note_zh": "2012 年 12 月 4 日由上汽集团与泰国正大集团签约成立，上汽（经上汽香港、上汽英国）持股 51%、正大 49%，初期投资约 18 亿元，规划首期年产 5 万辆、后续最高 20 万辆。2014 年投产；2017 年位于春武里府的第二工厂（占地约 70 万平方米）竣工、年产能约 10 万辆，成为 MG 右舵车生产基地。2023 年 10 月上汽在泰国的首座电动汽车电池工厂投产（年产约 5 万块 CTP 电池），2023 年 11 月首款本地生产的纯电动车 MG4 下线。",
+      "status": "active",
+      "source_ids": ["s30", "s28", "s31"]
+    }
+  ],
+  "financials": {
+    "currency": "N/A",
+    "unit": "N/A",
+    "standard": "N/A",
+    "rows": [],
+    "note_en": "MG is a brand within SAIC Motor Corporation and is not separately listed, so it does not publish standalone financial statements; this table is therefore empty. MG's revenue and profit are consolidated within SAIC Motor Corporation Limited (Shanghai Stock Exchange 600104), which reports under Chinese Accounting Standards (PRC GAAP) in CNY, and are not split out at brand level <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>. For reference, in FY2025 SAIC reported consolidated total operating revenue of RMB656.24 billion and net profit attributable to owners of the parent (归属于上市公司股东的净利润, i.e. net profit attributable to shareholders of the parent company, not to ordinary shareholders only) of RMB10.11 billion <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>; in H1 2026 it reported consolidated total operating revenue of RMB298.65 billion and net profit attributable to owners of the parent of RMB5.15 billion, with core net profit (excluding foreign-exchange and impairment effects) of RMB7.87 billion <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s23]</a>. These parent-level figures are for context only and are not MG brand-level results. See the parent company deep-dive (data/company-research/saic.json) for the full financial table. This page presents only publicly disclosed brand-level information and does not constitute any trading recommendation.",
+    "note_zh": "MG 为上汽集团旗下品牌，未单独上市、不单独披露财务报表，故本表为空。MG 的营收与利润并入母公司上海汽车集团股份有限公司（上交所 600104，中国企业会计准则，人民币）合并报表，未单独拆分 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>。供参考：母公司上汽集团 2025 财年合并营业总收入 6562.44 亿元、归属于上市公司股东（母公司所有者）的净利润（即归母净利润，而非仅归属于普通股股东的净利润）101.06 亿元 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>；2026 年上半年合并营业总收入 2986.5 亿元、归母净利润 51.5 亿元，核心归母净利润（剔除汇兑及减值影响）78.7 亿元 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s23]</a>。以上为母公司层面数据，仅供背景参考，并非 MG 品牌层面业绩。母公司完整财务表见上汽集团深度研究（data/company-research/saic.json）。本页仅呈现品牌层面的公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>MG (Morris Garages, 名爵) is a British-origin car brand founded in 1924 at Morris Garages in Oxford by Cecil Kimber alongside William Morris, best known for its sports-car heritage and models such as the MGB. Today it is part of the state-owned SAIC Motor Corporation, whose ultimate controller is the Shanghai State-owned Assets Supervision and Administration Commission, and is operated by SAIC Motor Passenger Vehicle alongside the Roewe brand <a href=\"https://www.saicmg.com/brand/centurymg.html/embed/\">[s1]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>. MG is SAIC's flagship brand for overseas markets and the core growth pole of its international business <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a>.</p><p>In 2025 MG sold more than 300,000 vehicles in Europe, up nearly 30% year-on-year, and remained the best-selling Chinese car brand in Europe for the 11th consecutive year; it is described as the first Chinese brand to surpass a cumulative one million vehicles in Europe <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a><a href=\"https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm\">[s13]</a>. Within the group, SAIC Motor Passenger Vehicle (Roewe plus MG) sold 886,742 vehicles in 2025, up 25.42% year-on-year <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>. The MG4 EV, launched in 2022, is described by SAIC as the Chinese auto industry's first true 'global car' <a href=\"https://www.saicmotor.com/m/xwzx/xwk/2022/57969.shtml\">[s4]</a>.</p>",
+      "zh": "<p>MG（Morris Garages，名爵）是一个起源于英国的汽车品牌，1924 年由塞西尔·金伯与创始人威廉·莫里斯在牛津的 Morris Garages 创立，以跑车传统和 MGB 等车型闻名。如今它隶属于国有控股的上海汽车集团股份有限公司（实际控制人为上海市国有资产监督管理委员会），由上汽乘用车与荣威品牌一起运营 <a href=\"https://www.saicmg.com/brand/centurymg.html/embed/\">[s1]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>。MG 是上汽的海外主力品牌，也是其国际业务的核心增长极 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a>。</p><p>2025 年 MG 在欧洲销量超过 30 万辆、同比增长近 30%，连续 11 年蝉联中国汽车品牌欧洲销量冠军；据称是首个在欧洲累计交付突破 100 万辆的中国品牌 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a><a href=\"https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm\">[s13]</a>。集团层面，上汽乘用车（荣威与 MG 合计）2025 年销量 886,742 辆、同比增长 25.42% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>。2022 年上市的 MG4 EV 被上汽称为中国汽车工业首款真正意义上的「全球车」 <a href=\"https://www.saicmotor.com/m/xwzx/xwk/2022/57969.shtml\">[s4]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Positioning and business structure</h3><p>MG positions itself as a young-oriented brand for the RMB100,000-200,000 mainstream new-energy segment. Media reports put its 2025 domestic sales in China at about 137,000 units, up 59% year-on-year, driven mainly by the new MG4; SAIC said the new MG4 has sold over 10,000 units a month in China since September 2025 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a><a href=\"https://auto.ifeng.com/c/8rWR3fXqpWZ\">[s16]</a>. In sales structure, MG is heavily overseas-weighted: with about 137,000 domestic units (media-reported) and about 591,000 overseas retail units in 2025, overseas markets account for the large majority of volume, consistent with its role as SAIC's flagship export brand <a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzAxMjQzNw.html\">[s19]</a>. Strategically, management has framed fuel cars as 'the present' and electrification as 'the future', protecting the fuel-vehicle base while pushing the new-energy transition <a href=\"https://www.bjnews.com.cn/detail/1751288808129797.html\">[s10]</a>.</p><h3>Product lineup and technology platforms</h3><p>MG's lineup spans the pure-electric MG4 EV hatchback, the compact MG5 sedan, the midsize MG7 coupe, the Cyberster electric convertible, the MG 07 new-energy coupe, and export-focused SUVs such as the ZS and HS. Its technology stack includes SAIC's Nebula pure-electric platform, second-generation semi-solid-state batteries (the MG 07 610km version uses SAIC QingTao cells), the DMH hybrid system, mCDC intelligent electromagnetic suspension, and high-level driver assistance on the MG 07 based on Momenta <a href=\"https://www.saicmotor.com/m/xwzx/xwk/2022/57969.shtml\">[s4]</a><a href=\"https://www.163.com/dy/article/L4VBD9DN0514R9P4.html\">[s27]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>. SAIC said it was the first in China (在国内率先) to put second-generation semi-solid-state battery technology on the new MG4 and deliver it at scale <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a>.</p><h3>Plants and capacity</h3><p>MG's domestic production is integrated into SAIC Motor Passenger Vehicle's Chinese plants. Overseas, JSW MG Motor India produces at the former General Motors Halol plant in Gujarat; director Parth Jindal said current capacity is about 110,000 units a year, rising to 220,000 by January 2028, with potential to reach about 400,000, and that the company does not see a need for a new plant site for at least the next three to four years <a href=\"https://www.financialexpress.com/business/news/jsw-mg-seeks-fresh-capital-to-scale-beyond-2-2-lakh-units/4325753/\">[s37]</a>. In Thailand, SAIC Motor-CP (51% SAIC / 49% CP Group) has operated a Chonburi plant since 2014; its second Chonburi plant (completed 2017) has annual capacity of about 100,000 right-hand-drive units, and a battery plant producing about 50,000 CTP packs a year opened in October 2023 <a href=\"https://www.cs.com.cn/ssgs/gsxw/201212/t20121204_3762386.html\">[s30]</a><a href=\"https://www.cnfin.com/gs-lb/detail/20250412/4216289_1.html\">[s28]</a><a href=\"https://www.toutiao.com/article/7296375514711802418/\">[s31]</a>.</p><h3>Overseas business</h3><p>Europe is MG's largest overseas market: 2025 sales exceeded 300,000 units, with the MG Hybrid+ family at 137,000 units (up 300%) and the pure-electric family at 46,000 units under countervailing-duty pressure; cumulative sales in Italy, Spain and France each surpassed 100,000 units, and the UK surpassed 370,000 units <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>. In India, sales were about 70,000 units in 2025, up 17.8%; in Thailand, domestic sales plus exports reached 35,872 units, up 44% <a href=\"https://en.thairath.co.th/news/society/2906885\">[s18]</a>. SAIC's Glocal 3.0 overseas strategy plans 17 new overseas models over three years <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>.</p><h3>Latest results as of the cut-off date</h3><p>In H1 2026, MG sold over 190,000 vehicles in Europe, up over 20% year-on-year, keeping the title of China's best-selling brand in Europe for the 11th straight year; SAIC said MG aims to sprint toward 400,000 units in Europe for the full year <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64822.shtml\">[s35]</a>. In the first eight months of 2026, MG's cumulative sales in Europe reached 241,000 units, up 22.3% <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65382.shtml\">[s24]</a>. SAIC's H1 2026 report disclosed consolidated total operating revenue of RMB298.65 billion and net profit attributable to owners of the parent of RMB5.15 billion; core net profit (excluding foreign-exchange and impairment effects) was RMB7.87 billion, up 72% year-on-year <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s23]</a>.</p>",
+      "zh": "<h3>定位与业务结构</h3><p>MG 定位为面向年轻人的 10 万–20 万元级主流新能源品牌。据媒体报道，2025 年国内销量约 13.7 万辆、同比增长 59%，主要由全新 MG4 拉动；上汽称全新 MG4 自 2025 年 9 月起国内月销破万 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a><a href=\"https://auto.ifeng.com/c/8rWR3fXqpWZ\">[s16]</a>。从销量结构看，MG 呈现「海外为主、国内为辅」特征：2025 年国内约 13.7 万辆（媒体报道口径）、海外零售约 59.1 万辆，海外贡献了品牌绝大多数销量，与其作为上汽海外主力品牌的定位相符 <a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzAxMjQzNw.html\">[s19]</a>。经营策略上，品牌管理层提出「燃油车是现在、电动化是未来」，守住燃油车基本盘的同时推进新能源转型 <a href=\"https://www.bjnews.com.cn/detail/1751288808129797.html\">[s10]</a>。</p><h3>产品谱系与技术平台</h3><p>MG 的产品谱系覆盖纯电两厢 MG4 EV、紧凑级轿车 MG5、中级轿跑 MG7、纯电敞篷跑车 Cyberster、新能源轿跑 MG 07，以及以出口为主的 ZS、HS 等 SUV。技术栈包括上汽星云纯电专属平台、第二代半固态电池（MG 07 纯电 610km 版采用上汽清陶电芯）、DMH 超级混动系统、mCDC 智能电磁悬架，以及 MG 07 上基于 Momenta 的高阶辅助驾驶 <a href=\"https://www.saicmotor.com/m/xwzx/xwk/2022/57969.shtml\">[s4]</a><a href=\"https://www.163.com/dy/article/L4VBD9DN0514R9P4.html\">[s27]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>。上汽称在国内率先实现第二代半固态电池技术在全新 MG4 上搭载并批量交付 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a>。</p><h3>工厂与产能</h3><p>MG 的国内生产整合于上汽乘用车在华工厂。海外方面，JSW MG Motor India 在古吉拉特邦的原通用 Halol 工厂生产；董事 Parth Jindal 称现产能约 11 万辆/年，2028 年 1 月扩至 22 万辆，并可扩至约 40 万辆，公司表示至少未来三到四年无需新厂址 <a href=\"https://www.financialexpress.com/business/news/jsw-mg-seeks-fresh-capital-to-scale-beyond-2-2-lakh-units/4325753/\">[s37]</a>。泰国方面，上汽正大（上汽 51%／正大 49%）自 2014 年起运营春武里工厂；2017 年竣工的第二工厂年产能约 10 万辆右舵车，2023 年 10 月投产电池工厂、年产约 5 万块 CTP 电池 <a href=\"https://www.cs.com.cn/ssgs/gsxw/201212/t20121204_3762386.html\">[s30]</a><a href=\"https://www.cnfin.com/gs-lb/detail/20250412/4216289_1.html\">[s28]</a><a href=\"https://www.toutiao.com/article/7296375514711802418/\">[s31]</a>。</p><h3>海外业务</h3><p>欧洲是 MG 最大的海外市场：2025 年销量超 30 万辆，其中 MG Hybrid+ 家族 13.7 万辆（同比大涨 300%）、纯电家族在反补贴税压力下销售 4.6 万辆；在意大利、西班牙、法国的历史累计销量均破 10 万辆，英国历史累计破 37 万辆 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>。印度市场 2025 年销量约 7 万辆、同比增长 17.8%；泰国国内销量加出口合计 35,872 辆、同比增长 44% <a href=\"https://en.thairath.co.th/news/society/2906885\">[s18]</a>。上汽的海外 Glocal 3.0 战略计划三年内打造 17 款全新海外车型 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>。</p><h3>截至研究日的最新业绩</h3><p>2026 年上半年 MG 在欧洲销量超 19 万辆、同比增长 20% 以上，连续十一年蝉联中国品牌欧洲销量冠军；上汽称 MG 全年欧洲销量将冲刺 40 万辆 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64822.shtml\">[s35]</a>。2026 年 1–8 月 MG 欧洲累计销量 24.1 万辆、同比增长 22.3% <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65382.shtml\">[s24]</a>。上汽 2026 年半年报披露，合并营业总收入 2986.5 亿元、归母净利润 51.5 亿元；剔除汇兑及减值影响后的核心归母净利润 78.7 亿元、同比增长 72% <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s23]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founders</h3><p>MG's founding is credited to William Morris, the brand's 'father', and Cecil Kimber, the co-founder who shaped the brand at Morris Garages in Oxford from 1924; John Thornley is credited with globalising the brand through the MG Car Club <a href=\"https://www.saicmg.com/brand/centurymg.html/embed/\">[s1]</a>.</p><h3>Current management</h3><p>The MG brand is run by a brand business unit inside SAIC Motor Passenger Vehicle, which also operates Roewe. At a dealer meeting on 10 June 2025, SAIC's passenger-vehicle management line-up included general manager Wang Jun, executive deputy general manager Yu Jingmin, MG brand business unit general manager Chen Cui, and Roewe brand business unit general manager Qian Yang <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s6]</a>.</p><ul><li><strong>Chen Cui (陈萃)</strong> — general manager of the MG brand business unit, appointed in June 2025 (reported on 11 June 2025); he previously served as ID marketing senior director at SAIC Volkswagen and worked on the SAIC-Huawei Shangjie project <a href=\"https://www.bjnews.com.cn/detail/1749649154129034.html\">[s9]</a>. At his first public appearance on 30 June 2025 he announced the plan to invest over RMB10 billion and launch 13 new-energy models within two years <a href=\"https://www.bjnews.com.cn/detail/1751288808129797.html\">[s10]</a>.</li><li><strong>Yu Jingmin (俞经民)</strong> — executive deputy general manager of SAIC Motor Passenger Vehicle, appointed in August 2024 (announced 14 August 2024); he previously served as party secretary and executive vice president for sales and marketing at SAIC Volkswagen, and was a deputy general manager of SAIC Motor Passenger Vehicle from 2014 <a href=\"https://auto.ifeng.com/c/8c2oltt6mNg\">[s29]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s6]</a>.</li><li><strong>Wang Jun (王骏)</strong> — general manager of SAIC Motor Passenger Vehicle (appointment date not publicly disclosed) <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s6]</a>.</li><li><strong>Zhang Liang (张亮)</strong> — deputy general manager of SAIC Motor Passenger Vehicle and general manager of SAIC Motor Passenger Vehicle Sales Company <a href=\"https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm\">[s13]</a>. The previous MG brand business unit general manager, Zhou Xing (周钘), took the post on 9 December 2024 and stepped down in June 2025 <a href=\"https://www.nbd.com.cn/articles/2024-12-09/3678395.html\">[s32]</a><a href=\"https://www.bjnews.com.cn/detail/1749649154129034.html\">[s9]</a>.</li></ul><h3>Ownership and governance</h3><p>MG is not a separately listed entity and sits within SAIC Motor, which is listed on the Shanghai Stock Exchange (600104). According to SAIC's annual report, the group's ultimate actual controller is the Shanghai State-owned Assets Supervision and Administration Commission <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>MG 的创立归于「品牌之父」威廉·莫里斯与共同缔造者塞西尔·金伯，二人自 1924 年起在牛津 Morris Garages 打造 MG；约翰·索恩利则通过 MG Car Club 推动品牌走向全球 <a href=\"https://www.saicmg.com/brand/centurymg.html/embed/\">[s1]</a>。</p><h3>现任核心管理层</h3><p>MG 品牌由上汽乘用车旗下的品牌事业部运营，上汽乘用车同时运营荣威品牌。在 2025 年 6 月 10 日的经销商见面会上，上汽乘用车管理层阵容包括总经理王骏、常务副总经理俞经民，以及 MG 品牌事业部总经理陈萃、荣威品牌事业部总经理钱漾 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s6]</a>。</p><ul><li><strong>陈萃</strong>——MG 品牌事业部总经理，2025 年 6 月上任（2025 年 6 月 11 日报道），此前担任上汽大众品牌 ID 营销高级总监，并曾参与上汽与华为合作的尚界项目 <a href=\"https://www.bjnews.com.cn/detail/1749649154129034.html\">[s9]</a>。2025 年 6 月 30 日首次公开亮相，宣布两年内投入超 100 亿元、推出 13 款新能源车型 <a href=\"https://www.bjnews.com.cn/detail/1751288808129797.html\">[s10]</a>。</li><li><strong>俞经民</strong>——上汽乘用车常务副总经理，2024 年 8 月任命（8 月 14 日公告），此前任上汽大众党委书记、销售与市场执行副总经理，2014 年起曾任上汽乘用车副总经理 <a href=\"https://auto.ifeng.com/c/8c2oltt6mNg\">[s29]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s6]</a>。</li><li><strong>王骏</strong>——上汽乘用车总经理（上任日期未公开披露）<a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s6]</a>。</li><li><strong>张亮</strong>——上汽乘用车副总经理、上汽乘用车销售公司总经理 <a href=\"https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm\">[s13]</a>。前任 MG 品牌事业部总经理周钘于 2024 年 12 月 9 日到任、2025 年 6 月离任 <a href=\"https://www.nbd.com.cn/articles/2024-12-09/3678395.html\">[s32]</a><a href=\"https://www.bjnews.com.cn/detail/1749649154129034.html\">[s9]</a>。</li></ul><h3>股权与治理</h3><p>MG 并非独立上市主体，隶属在上交所上市（600104）的上汽集团；据上汽年报，集团最终实际控制人为上海市国有资产监督管理委员会 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p>In China, the new MG4 competes in the A0-segment pure-electric hatchback market against models such as the BYD Dolphin and Geely Xingyuan; it entered with a guide price from RMB68,800 and a limited-time subsidised starting price of RMB65,800, with a semi-solid-state battery version at RMB99,800 <a href=\"https://5gai.cctv.com/2025/08/29/ARTINqPlyzpo63X1g8LsYdQH250829.shtml\">[s11]</a>. The first-generation MG4 EV was the best-selling compact pure-electric car in Europe in 2023, and the Cyberster occupies a niche in the small pure-electric roadster segment <a href=\"https://www.saicmg.com/brand/centurymg.html/embed/\">[s1]</a><a href=\"https://www.saicmotor.com/m/xwzx/xwk/2023/59211.shtml\">[s5]</a>. In Europe, MG competes with mainstream and Chinese brands in the compact-EV and hybrid segments; SAIC attributed pressure on MG's pure-electric family to the European Union's countervailing measures, and the brand's general manager cited high EU tariffs as the reason the first-generation MG4 EV was temporarily overtaken in Europe <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>. Domestically, MG uses 'technology parity' as its differentiator, bringing semi-solid-state batteries and in-car connectivity down to mainstream price points <a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>.</p><p><strong>Our judgment.</strong> MG's competitive base rests on a century-old brand name, an established European dealer network (about 1,300 sales and service outlets across 34 European countries), and overseas scale, with Europe exceeding 300,000 units in 2025 and cumulative Europe deliveries passing one million <a href=\"https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm\">[s13]</a>. Its relative weakness is product concentration: media reports indicate the domestic lineup leaned heavily on the MG4 in early 2026, and the roughly 137,000-unit domestic scale in 2025 remains far smaller than its overseas business, so the domestic recovery still hinges on a single model <a href=\"https://auto.ifeng.com/c/8rWR3fXqpWZ\">[s16]</a><a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzAxMjQzNw.html\">[s19]</a>.</p>",
+      "zh": "<p>国内方面，全新 MG4 主攻 A0 级纯电两厢市场，与比亚迪海豚、吉利星愿等车型竞争，以官方指导价 6.88 万元起、限时补贴价 6.58 万元起入市，半固态电池版本 9.98 万元 <a href=\"https://5gai.cctv.com/2025/08/29/ARTINqPlyzpo63X1g8LsYdQH250829.shtml\">[s11]</a>。第一代 MG4 EV 曾获 2023 年欧洲紧凑型纯电销量第一，Cyberster 则占据纯电敞篷跑车这一小众细分市场 <a href=\"https://www.saicmg.com/brand/centurymg.html/embed/\">[s1]</a><a href=\"https://www.saicmotor.com/m/xwzx/xwk/2023/59211.shtml\">[s5]</a>。欧洲方面，MG 在紧凑型电动车与混动细分市场与主流及中国品牌竞争；上汽将纯电家族的压力归因于欧盟反补贴措施，MG 品牌总经理亦表示第一代 MG4 EV 在欧洲被短暂反超的原因是欧盟高额关税 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>。在国内，MG 以「技术平权」作为差异点，将半固态电池、手车互联等配置下放至主流价位 <a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>。</p><p><strong>我们的判断。</strong>MG 的竞争基础在于百年品牌、覆盖欧洲 34 国约 1300 个销售服务网点的成熟经销网络与海外规模，欧洲年销超 30 万辆、累计交付破百万 <a href=\"https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm\">[s13]</a>。相对短板是产品集中度：媒体报道显示 2026 年初国内产品线高度依赖 MG4，且 2025 年国内约 13.7 万辆的规模仍远小于其海外业务，国内回暖仍系于单一车型 <a href=\"https://auto.ifeng.com/c/8rWR3fXqpWZ\">[s16]</a><a href=\"https://sdxw.iqilu.com/share/YS0yMS0xNzAxMjQzNw.html\">[s19]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> MG has announced an 'All in new energy' strategy to invest more than RMB10 billion and launch 13 new-energy models within two years (by the end of 2027), covering pure-electric, plug-in hybrid and extended-range powertrains <a href=\"https://www.bjnews.com.cn/detail/1751288808129797.html\">[s10]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>. For 2026, SAIC listed the MG07 and MG4X among the new models to be launched; the MG 07 went on sale on 21 August 2026, and the brand plans to further expand domestic dealer coverage <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a><a href=\"https://www.saicmg.com/faq/mg-mg07-budget-pick-01.html\">[s26]</a>. Under the group's overseas 'Glocal 3.0' strategy, SAIC plans 17 new overseas models across SUV, sedan, MPV and pickup segments within three years, with new HEV systems and solid-state battery application <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>. In India, JSW MG Motor India is expanding the Halol plant toward 220,000 units a year by January 2028 <a href=\"https://www.financialexpress.com/business/news/jsw-mg-seeks-fresh-capital-to-scale-beyond-2-2-lakh-units/4325753/\">[s37]</a>.</p><p><strong>Our judgment.</strong> Whether MG can sustain its recovery depends on two premises: first, that the new-energy rollout (13 models by end-2027) broadens a domestic lineup that currently leans heavily on the MG4; second, that the brand manages trade barriers in Europe, its largest market, while the India and Thailand operations scale up. The semi-solid-state battery's safety and cost positioning is the brand's stated differentiator, but its contribution to profitability in the low-price mainstream segment remains to be seen <a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>MG 已宣布「All in 新能源」战略，两年内投入超 100 亿元、推出 13 款新能源车型（截至 2027 年底），动力形式覆盖纯电、插混、增程 <a href=\"https://www.bjnews.com.cn/detail/1751288808129797.html\">[s10]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>。2026 年，上汽将 MG07、MG4X 列入计划投放的新车型；MG 07 已于 2026 年 8 月 21 日上市，品牌并计划进一步扩充国内经销商覆盖 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s3]</a><a href=\"https://www.saicmg.com/faq/mg-mg07-budget-pick-01.html\">[s26]</a>。在集团海外「Glocal 3.0」战略下，上汽计划三年内打造 17 款全新海外车型，覆盖 SUV、轿车、MPV、皮卡，搭载全新 HEV 混动系统并落地固态电池技术 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>。印度方面，JSW MG Motor India 正将 Halol 工厂扩至 2028 年 1 月年产 22 万辆 <a href=\"https://www.financialexpress.com/business/news/jsw-mg-seeks-fresh-capital-to-scale-beyond-2-2-lakh-units/4325753/\">[s37]</a>。</p><p><strong>我们的判断。</strong>MG 能否延续回暖，取决于两个前提：其一，2027 年底前 13 款新能源产品能否拓宽目前高度依赖 MG4 的国内产品线；其二，在欧洲这一最大市场能否应对贸易壁垒，同时印度、泰国业务能否同步放量。半固态电池的安全与成本定位是其公开强调的差异化点，但它在低价主流区间对盈利的贡献仍有待观察 <a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Trade barriers and tariffs.</strong> SAIC disclosed that MG's pure-electric family in Europe sold 46,000 units in 2025 under the pressure of countervailing duties, and company statements attributed a temporary loss of ground in Europe to high EU tariffs <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>.</li><li><strong>Market concentration in Europe.</strong> Europe is MG's largest overseas market and main source of overseas scale; EU trade measures therefore weigh disproportionately on the brand, while India and Thailand remain smaller in absolute terms <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a><a href=\"https://en.thairath.co.th/news/society/2906885\">[s18]</a>.</li><li><strong>Domestic price competition.</strong> The new MG4 entered China at a limited-time subsidised price from RMB65,800, and the brand has positioned semi-solid-state technology at mainstream price points in a price-competitive market <a href=\"https://5gai.cctv.com/2025/08/29/ARTINqPlyzpo63X1g8LsYdQH250829.shtml\">[s11]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>.</li><li><strong>Product concentration.</strong> Domestic volume leans heavily on a single model; media reports indicate the MG4 contributed the majority of MG's domestic retail sales in early 2026, and SAIC said the MG4 family has maintained monthly deliveries above 10,000 units, concentrating risk in one product line <a href=\"https://auto.ifeng.com/c/8rWR3fXqpWZ\">[s16]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64822.shtml\">[s35]</a>.</li><li><strong>India joint-venture finances.</strong> SAIC's announcement disclosed that JSW MG Motor India had total assets of INR76.5 billion and total liabilities of INR73.1 billion at 31 December 2024, an asset-liability ratio of 95.5%, and that the company is working to improve its operating performance and cash flow <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2025nlsgg/2025/4/29/DAB19FAACBC54CAC9FCC8E9896188F19.pdf\">[s8]</a>.</li><li><strong>Management change and transition execution.</strong> MG changed its brand general manager in June 2025 and is accelerating its new-energy rollout; the delivery of the 13-model plan and channel build-out remains to be watched <a href=\"https://www.bjnews.com.cn/detail/1749649154129034.html\">[s9]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>.</li><li><strong>Currency and overseas operating risks.</strong> MG has a high overseas mix and is exposed to exchange-rate swings and regulatory and trade-policy changes in Europe, India and ASEAN; SAIC disclosed it has responded to EU countervailing measures by adding HEV models <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>.</li></ul>",
+      "zh": "<ul><li><strong>贸易与关税壁垒。</strong>上汽披露 2025 年 MG 纯电家族在欧洲于反补贴税压力下销售 4.6 万辆，公司亦将欧洲市场阶段性失守归因于欧盟高额关税 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>。</li><li><strong>欧洲市场集中。</strong>欧洲是 MG 最大的海外市场和海外规模的主要来源，欧盟贸易措施对品牌海外业务的影响因此更突出；相比之下，印度、泰国等市场的绝对体量仍较小 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a><a href=\"https://en.thairath.co.th/news/society/2906885\">[s18]</a>。</li><li><strong>国内价格竞争。</strong>全新 MG4 以限时补贴价 6.58 万元起入市，品牌并将半固态电池技术下放至主流价位，置身于价格竞争激烈的市场 <a href=\"https://5gai.cctv.com/2025/08/29/ARTINqPlyzpo63X1g8LsYdQH250829.shtml\">[s11]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>。</li><li><strong>产品结构集中。</strong>国内销量高度依赖单一车型，媒体报道显示 2026 年初全新 MG4 贡献了 MG 国内零售销量的多数份额，上汽亦披露 MG4 家族月交付持续破万，风险集中于单一产品线 <a href=\"https://auto.ifeng.com/c/8rWR3fXqpWZ\">[s16]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64822.shtml\">[s35]</a>。</li><li><strong>印度合资公司财务状况。</strong>上汽公告披露，截至 2024 年 12 月 31 日 JSW MG Motor India 资产总额 765 亿卢比、负债总额 731 亿卢比、资产负债率 95.5%，公司正努力改善经营绩效与现金流 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2025nlsgg/2025/4/29/DAB19FAACBC54CAC9FCC8E9896188F19.pdf\">[s8]</a>。</li><li><strong>管理层与转型执行。</strong>MG 于 2025 年 6 月更换品牌总经理，并加速推进新能源投放，13 款车型计划与渠道建设的落地成效需持续关注 <a href=\"https://www.bjnews.com.cn/detail/1749649154129034.html\">[s9]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html\">[s12]</a>。</li><li><strong>汇率与海外经营风险。</strong>MG 海外占比高，受汇率波动及欧洲、印度、东盟等地监管与贸易政策变化影响；上汽披露已就欧盟反补贴措施采取增加 HEV 车型等应对 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml\">[s2]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "上汽MG官网·百年MG（品牌历史）", "url": "https://www.saicmg.com/brand/centurymg.html/embed/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "上汽集团官网·2025年上汽MG欧洲销量突破30万辆", "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2025/63393.shtml", "date": "2025-12-20", "tier": "A" },
+    { "id": "s3", "name": "上汽集团官网·上汽集团发布2025年年报：筑底企稳显韧性", "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml", "date": "2026-04-01", "tier": "A" },
+    { "id": "s4", "name": "上汽集团官网·MG MULAN全球上市（MG4 ELECTRIC）", "url": "https://www.saicmotor.com/m/xwzx/xwk/2022/57969.shtml", "date": "2022-09-13", "tier": "A" },
+    { "id": "s5", "name": "上汽集团官网·2023广州车展上汽集团新光璀璨（MG Cyberster上市）", "url": "https://www.saicmotor.com/m/xwzx/xwk/2023/59211.shtml", "date": "2023-11-17", "tier": "A" },
+    { "id": "s6", "name": "上汽集团官网转载·改革再深化！上汽大乘用车（管理层介绍）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml", "date": "2025-06-10", "tier": "B" },
+    { "id": "s7", "name": "上海汽车集团股份有限公司2025年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s8", "name": "上汽集团公告·关于子公司2025年度提供财务资助事项的公告（JSW MGI股权）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2025nlsgg/2025/4/29/DAB19FAACBC54CAC9FCC8E9896188F19.pdf", "date": "2025-04-29", "tier": "A" },
+    { "id": "s9", "name": "新京报·陈萃将出任上汽MG品牌总经理", "url": "https://www.bjnews.com.cn/detail/1749649154129034.html", "date": "2025-06-11", "tier": "B" },
+    { "id": "s10", "name": "新京报·上汽MG陈萃：将投资超100亿元，两年推13款车", "url": "https://www.bjnews.com.cn/detail/1751288808129797.html", "date": "2025-06-30", "tier": "B" },
+    { "id": "s11", "name": "央视网·全新MG4售6.58万-9.98万元 半固态电池车型进入10万内", "url": "https://5gai.cctv.com/2025/08/29/ARTINqPlyzpo63X1g8LsYdQH250829.shtml", "date": "2025-08-29", "tier": "B" },
+    { "id": "s12", "name": "中证网·MG总经理陈萃：践行技术普惠 半固态电池下探至十万元级车型", "url": "https://www.cs.com.cn/ssgs/gsxw/202511/t20251124_6524819.html", "date": "2025-11-24", "tier": "B" },
+    { "id": "s13", "name": "中国证券报（中证网）·深度本土化经营 让中国车走向世界（MG名爵张亮）", "url": "https://app.cnstock.com/zzb/zgzqb/html/2026-04/27/nw.D110000zgzqb_20260427_10-A03.htm", "date": "2026-04-27", "tier": "B" },
+    { "id": "s14", "name": "中国江苏网·MG黑标首款旗舰轿跑MG7上市", "url": "https://auto.jschina.com.cn/jdtp/202303/t20230330_3190003.shtml", "date": "2023-03-30", "tier": "B" },
+    { "id": "s15", "name": "澎湃新闻·中资收购11年后：MG英国工厂正式停产，中国成唯一产地", "url": "https://m.thepaper.cn/newsDetail_forward_1533905", "date": "2016-09-23", "tier": "B" },
+    { "id": "s16", "name": "凤凰网大风号·上汽乘用车：不追逐时代，去定义时代", "url": "https://auto.ifeng.com/c/8rWR3fXqpWZ", "date": "2026-03-15", "tier": "C" },
+    { "id": "s18", "name": "Thairath English·MG Smiles Sweetly in 2025 as Global Vehicle Sales Soar", "url": "https://en.thairath.co.th/news/society/2906885", "date": "2026-01-10", "tier": "B" },
+    { "id": "s19", "name": "闪电新闻·不靠噱头看结果：MG品牌企稳回暖的一年", "url": "https://sdxw.iqilu.com/share/YS0yMS0xNzAxMjQzNw.html", "date": "2026-01-26", "tier": "B" },
+    { "id": "s20", "name": "中国青年报（中青在线）·中国汽车60年简史", "url": "https://auto.cyol.com/content/2009-09/24/content_2869276.htm", "date": "2009-09-24", "tier": "B" },
+    { "id": "s21", "name": "中国新闻网·发改委主持国内最大车企并购 南汽资产融入上汽", "url": "https://www.chinanews.com.cn/auto/cqdt/news/2007/12-27/1116437.shtml", "date": "2007-12-27", "tier": "B" },
+    { "id": "s22", "name": "英国贸工部提交下议院贸易与工业委员会关于MG Rover的备忘录", "url": "https://publications.parliament.uk/pa/cm200506/cmselect/cmtrdind/1075/ucm202.htm", "date": "2006-03-22", "tier": "A" },
+    { "id": "s23", "name": "上汽集团官网·上汽集团发布2026年半年报 核心归母净利润同比增长72%", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml", "date": "2026-08-31", "tier": "A" },
+    { "id": "s24", "name": "上汽集团官网转载·前行不止的上汽（2026半年报及1-8月海外数据）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65382.shtml", "date": "2026-09-14", "tier": "A" },
+    { "id": "s26", "name": "上汽MG官网·MG07官方指导价（FAQ）", "url": "https://www.saicmg.com/faq/mg-mg07-budget-pick-01.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s27", "name": "澎湃新闻（网易转载）·成都车展 比预售价直降两万，MG 07正式上市", "url": "https://www.163.com/dy/article/L4VBD9DN0514R9P4.html", "date": "2026-08-22", "tier": "B" },
+    { "id": "s28", "name": "新华财经·上汽马来西亚公司齐枫：东盟市场已成上汽出海重点", "url": "https://www.cnfin.com/gs-lb/detail/20250412/4216289_1.html", "date": "2025-04-12", "tier": "B" },
+    { "id": "s29", "name": "凤凰网汽车·时隔三年俞经民再回上汽乘用车", "url": "https://auto.ifeng.com/c/8c2oltt6mNg", "date": "2024-08-14", "tier": "B" },
+    { "id": "s30", "name": "中证网·上汽与正大集团共同进军东盟市场（2012年签约）", "url": "https://www.cs.com.cn/ssgs/gsxw/201212/t20121204_3762386.html", "date": "2012-12-04", "tier": "B" },
+    { "id": "s31", "name": "新华社（今日头条转载）·上汽正大在泰国电动汽车电池工厂投产", "url": "https://www.toutiao.com/article/7296375514711802418/", "date": "2023-11-01", "tier": "B" },
+    { "id": "s32", "name": "每日经济新闻·周钘调任上汽名爵品牌事业部总经理", "url": "https://www.nbd.com.cn/articles/2024-12-09/3678395.html", "date": "2024-12-09", "tier": "B" },
+    { "id": "s34", "name": "财经杂志·上汽印度工厂为何从独资变合资", "url": "https://www.mycaijing.com/article/detail/518434", "date": "2025-04-08", "tier": "B" },
+    { "id": "s35", "name": "上汽集团官网·半程收官 上汽集团销量率先突破200万辆（2026上半年）", "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2026/64822.shtml", "date": "2026-07-01", "tier": "A" },
+    { "id": "s36", "name": "The Hindu BusinessLine·JSW MG Windsor becomes highest selling EV in CY25", "url": "https://www.thehindubusinessline.com/companies/jsw-mg-windsor-becomes-highest-selling-ev-in-cy25/article70502252.ece", "date": "2026-01-12", "tier": "B" },
+    { "id": "s37", "name": "Financial Express·JSW MG seeks fresh capital to scale beyond 2.2 lakh units", "url": "https://www.financialexpress.com/business/news/jsw-mg-seeks-fresh-capital-to-scale-beyond-2-2-lakh-units/4325753/", "date": "2026-08-26", "tier": "B" },
+    { "id": "s38", "name": "ActualidadMotor（中文版）·西班牙最畅销的汽车：车型、品牌和市场趋势（2025年数据）", "url": "https://zh-cn.actualidadmotor.com/?p=399748", "date": "2026-10-29", "tier": "B" }
+  ]
+}

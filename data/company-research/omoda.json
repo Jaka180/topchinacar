@@ -1,0 +1,304 @@
+{
+  "id": "omoda",
+  "name_en": "OMODA (Chery Automobile)",
+  "name_zh": "欧萌达（奇瑞汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "2022 (first Omoda vehicle rolled off the line in March 2022; Omoda 5 launched in China in July 2022; OMODA & JAECOO made their independent-brand global debut in April 2023)",
+      "value_zh": "2022 年（2022 年 3 月首台欧萌达下线，2022 年 7 月欧萌达 5 在中国上市；2023 年 4 月 OMODA & JAECOO 以独立品牌全球首秀）",
+      "period": null,
+      "source_ids": ["a7", "a1", "a5"]
+    },
+    {
+      "label_en": "Parent company",
+      "label_zh": "所属集团",
+      "value_en": "Chery Automobile Co., Ltd. (HKEX: 9973.HK)",
+      "value_zh": "奇瑞汽车股份有限公司（港交所 9973.HK）",
+      "period": null,
+      "source_ids": ["a3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Wuhu, Anhui, China (same as parent)",
+      "value_zh": "中国安徽省芜湖市（与母公司同址）",
+      "period": null,
+      "source_ids": ["a3"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Chery Automobile's 2025 annual results announcement states that the downstream restructuring was completed on 20 January 2025, after which the company has neither a controlling company nor an ultimate controlling company",
+      "value_zh": "奇瑞汽车 2025 年度业绩公告称，下沉重组于 2025 年 1 月 20 日完成，之后公司既无控股公司，亦无最终控股公司",
+      "period": "2025",
+      "source_ids": ["a4"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; part of Chery Automobile (HKEX 9973.HK)",
+      "value_zh": "未单独上市；属奇瑞汽车（港交所 9973.HK）",
+      "period": null,
+      "source_ids": ["a3"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["a3"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收 / 净利润",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["a3"]
+    },
+    {
+      "label_en": "Brand positioning",
+      "label_zh": "品牌定位",
+      "value_en": "Global crossover brand ('The World's Leading Crossover Brand'), part of the OMODA & JAECOO (O&J) dual-brand family",
+      "value_zh": "全球跨界（Crossover）品牌，品牌自称「全球领先的跨界品牌」，属 OMODA & JAECOO（O&J）双品牌",
+      "period": null,
+      "source_ids": ["a6", "b2"]
+    },
+    {
+      "label_en": "Recent global sales (O&J combined)",
+      "label_zh": "近期全球销量（O&J 合计）",
+      "value_en": "September 2026: 73,421 units (+123% YoY); cumulative sales of about 1.4 million by October 2026 ('nearly 1.4 million' per CNR; 'exceeded 1.4 million' per 21st Century Business Herald citing CEO Xu Jun, confirmed by the brand's official press release)",
+      "value_zh": "2026 年 9 月 73,421 辆（同比 +123%）；截至 2026 年 10 月累计约 140 万辆（央广网称「近 140 万」，21 世纪经济报道引 CEO 徐军称「突破 140 万」，品牌官方新闻稿亦确认）",
+      "period": "2026-10",
+      "source_ids": ["b2", "b3", "a9"]
+    },
+    {
+      "label_en": "Omoda 5 cumulative sales",
+      "label_zh": "欧萌达 5 累计销量",
+      "value_en": "Over 250,000 units, sold in more than 40 countries",
+      "value_zh": "超 25 万辆，已在 40 多个国家销售",
+      "period": "2026-10",
+      "source_ids": ["b4"]
+    },
+    {
+      "label_en": "Markets covered",
+      "label_zh": "覆盖市场",
+      "value_en": "64 markets worldwide by end-2025; 79 markets and more than 1,700 showrooms by October 2026 (Europe, Asia, Australia, Africa, Latin America, the Middle East and more)",
+      "value_zh": "2025 年底进入全球 64 个市场；截至 2026 年 10 月进入 79 个市场、门店超 1,700 家（覆盖欧洲、亚洲、澳洲、非洲、拉美、中东等）",
+      "period": "2026-10",
+      "source_ids": ["a6", "a9"]
+    },
+    {
+      "label_en": "New-energy share (O&J combined)",
+      "label_zh": "新能源占比（O&J 合计）",
+      "value_en": "New-energy vehicles (HEV/PHEV/EV) accounted for 81% of OMODA & JAECOO's total sales as of October 2026",
+      "value_zh": "截至 2026 年 10 月，新能源车型（HEV/PHEV/EV）占 OMODA & JAECOO 总销量的 81%",
+      "period": "2026-10",
+      "source_ids": ["a9"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2022-03",
+      "event_en": "The first Omoda (欧萌达) vehicle rolls off the production line at Chery, recorded in Chery's official brand history.",
+      "event_zh": "奇瑞欧萌达首台车下线，此事记入奇瑞官网「品牌历程」。",
+      "source_ids": ["a7"]
+    },
+    {
+      "date": "2022-07-12",
+      "event_en": "The Omoda 5, the first model of Chery's global OMODA product series, launches in Shenzhen, making China the first market. It uses a 1.6 TGDI engine (197 PS / 290 Nm) with a seven-speed dual-clutch transmission and Chery's 'Lion 5.0' AI cockpit with a 24.6-inch screen.",
+      "event_zh": "奇瑞全球 OMODA 产品序列首款车型 OMODA 5 在深圳上市，中国成为首个上市市场；搭载 1.6TGDI 发动机（197 马力/290 牛·米）、7 速双离合变速箱与奇瑞「Lion 5.0」AI 智能座舱（24.6 英寸屏）。",
+      "source_ids": ["a1"]
+    },
+    {
+      "date": "2022-07",
+      "event_en": "The China-market Omoda 5 goes on sale in seven variants at an official guide price of RMB 92,900-126,900, as reported by Xinhua on the launch. The model was later discontinued in China as OMODA focused overseas.",
+      "event_zh": "欧萌达（OMODA 5 国内版）上市，推出 7 款车型，官方指导价 9.29 万至 12.69 万元（据新华网上市报道）。后因品牌聚焦海外，该车在国内已停售。",
+      "source_ids": ["b1", "b4"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "OMODA is introduced as a new brand in the high-middle segment; the first Omoda crossover, built on Chery's T1X modular platform (about 4,400 mm long, 2,630 mm wheelbase) and styled under the 'Art in Motion' design language, is to be presented in Russia that autumn.",
+      "event_zh": "OMODA 作为定位中高端的新品牌推出；首款跨界车基于奇瑞 T1X 模块化平台（车长约 4,400 毫米、轴距 2,630 毫米），设计语言为「Art in Motion」，当年秋季在俄罗斯发布。",
+      "source_ids": ["a2"]
+    },
+    {
+      "date": "2023-04-18",
+      "event_en": "OMODA & JAECOO make their debut as independent brands at the 20th Auto Shanghai 2023, unveiling the OMODA 5 e-QUA (OMODA's first pure-electric model) and the JAECOO 7 and JAECOO 9.",
+      "event_zh": "OMODA & JAECOO 在第 20 届上海车展以独立品牌首秀，发布 OMODA 首款纯电车型 OMODA 5 e-QUA，以及 JAECOO 7、JAECOO 9 两款车型。",
+      "source_ids": ["a5"]
+    },
+    {
+      "date": "2023-07",
+      "event_en": "The Omoda 5 launches in Malaysia, becoming one of Chery's core volume models after its return to the Malaysian market.",
+      "event_zh": "OMODA 5 马来西亚版上市，成为奇瑞重返马来西亚市场后的核心走量车型之一。",
+      "source_ids": ["b4"]
+    },
+    {
+      "date": "2024-05",
+      "event_en": "OMODA begins its European rollout starting with Spain: the petrol Omoda 5 is priced from about €22,990 in Spain and the electric Omoda E5 (204 PS, 61 kWh lithium-iron-phosphate battery, WLTP range of 267 miles) from €37,900, with the UK and Italy following in 2024.",
+      "event_zh": "OMODA 自西班牙起步进入欧洲市场：燃油版 Omoda 5 西班牙起售价约 22,990 欧元，纯电 Omoda E5（204 马力、61 千瓦时磷酸铁锂电池、WLTP 续航 267 英里）起售价 37,900 欧元；2024 年陆续进入英国、意大利。",
+      "source_ids": ["b9"]
+    },
+    {
+      "date": "2024-11-23",
+      "event_en": "Chery and Spain's Ebro start production of the first model, the S700 SUV, at their joint-venture Ebro plant in the Barcelona free-trade zone, with the S800 to follow in the coming weeks.",
+      "event_zh": "奇瑞与西班牙埃布罗公司在巴塞罗那自由贸易区合资建立的埃布罗工厂启动首款车型 SUV S700 的生产，随后数周生产 S800。",
+      "source_ids": ["b7"]
+    },
+    {
+      "date": "2025-08",
+      "event_en": "The Omoda 9, OMODA's flagship mid-to-large plug-in-hybrid SUV, launches in Australia from A$61,990 (before on-road costs), the first Omoda-branded model in the country.",
+      "event_zh": "OMODA 旗舰中大型插电混动 SUV Omoda 9 在澳大利亚上市，起售价 61,990 澳元（不含上路费），为 OMODA 品牌在澳洲的首款车型。",
+      "source_ids": ["a8", "b8"]
+    },
+    {
+      "date": "2026-10-12",
+      "event_en": "Chery apologises and recalls 8,878 Omoda 5 vehicles in Malaysia after a rear-axle welding defect caused a wheel detachment incident; Malaysia's JPJ suspended the model's type approval and new registrations. Chery had earlier recalled 600 Omoda 5 units in Malaysia in April 2024 over a similar rear-axle welding quality issue.",
+      "event_zh": "因后桥纵臂焊接缺陷导致车辆行驶中后轮脱落，奇瑞致歉并在马来西亚召回 8,878 辆 OMODA 5，马来西亚陆路交通局（JPJ）暂停该车型型式认证与新车上牌；此前奇瑞曾于 2024 年 4 月因类似后桥焊接品质问题在马来西亚召回 600 辆 OMODA 5。",
+      "source_ids": ["b4"]
+    },
+    {
+      "date": "2026-10-20",
+      "event_en": "At the 'OMODA X NIGHT' event in Wuhu, OMODA & JAECOO state cumulative global sales are nearly 1.4 million (21st Century Business Herald quotes CEO Xu Jun saying the figure has exceeded 1.4 million) with three consecutive years of doubling and Europe contributing about half of sales, and give the global debut of the new OMODA X model.",
+      "event_zh": "在芜湖举行的「OMODA X NIGHT」上，OMODA & JAECOO 宣布全球累计销量近 140 万辆（21 世纪经济报道引 CEO 徐军称已突破 140 万辆）、连续三年销量翻倍、欧洲贡献约一半销量，并全球首发全新车型 OMODA X。",
+      "source_ids": ["b2", "b3"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Omoda 5 / C5",
+      "name_zh": "欧萌达 5 / Omoda C5",
+      "role_en": "Compact crossover SUV, the brand's first and best-selling global model.",
+      "role_zh": "紧凑型跨界 SUV，品牌首款与全球销量主力车型。",
+      "price_band": "中国上市指导价 9.29–12.69 万元（2022-07，7 款，新华网）；西班牙约 22,990 欧元起（2024）",
+      "founded": 2022,
+      "owner_note_en": "Launched in Shenzhen in July 2022 as China's first OMODA market, with a 1.6 TGDI engine (197 PS / 290 Nm), a seven-speed dual-clutch transmission, the Lion 5.0 AI cockpit and a 24.6-inch display; Xinhua reported seven variants at RMB 92,900-126,900. Now discontinued in China as the brand focuses overseas. Built on Chery's T1X modular platform (about 4,400 mm long, 2,630 mm wheelbase). Sold in more than 40 countries with cumulative sales over 250,000 units. In October 2026 Chery recalled 8,878 units in Malaysia over a rear-axle welding defect.",
+      "owner_note_zh": "2022 年 7 月在深圳上市，中国为 OMODA 首个上市市场；搭载 1.6TGDI 发动机（197 马力/290 牛·米）与 7 速双离合变速箱，配备 Lion 5.0 AI 智能座舱与 24.6 英寸屏；新华网报道推出 7 款车型、指导价 9.29 万至 12.69 万元。后因品牌聚焦海外在国内停售。基于奇瑞 T1X 模块化平台（车长约 4,400 毫米、轴距 2,630 毫米）。已在 40 多个国家销售、累计销量超 25 万辆。2026 年 10 月因后桥焊接缺陷在马来西亚召回 8,878 辆。",
+      "status": "active",
+      "source_ids": ["a1", "a2", "b1", "b4"]
+    },
+    {
+      "name_en": "Omoda E5",
+      "name_zh": "欧萌达 E5",
+      "role_en": "Battery-electric version of the Omoda 5, aimed mainly at Europe.",
+      "role_zh": "欧萌达 5 的纯电版本，主要面向欧洲市场。",
+      "price_band": "西班牙 37,900 欧元起（2024）",
+      "founded": 2024,
+      "owner_note_en": "Launched in Europe from 2024. Uses a 61 kWh lithium-iron-phosphate battery and a 204 PS front-drive motor with a WLTP range of 267 miles (about 430 km); priced from €37,900 in Spain.",
+      "owner_note_zh": "2024 年起在欧洲上市，搭载 61 千瓦时磷酸铁锂电池与 204 马力前驱电机，WLTP 续航 267 英里（约 430 公里）；西班牙起售价 37,900 欧元。",
+      "status": "active",
+      "source_ids": ["b9"]
+    },
+    {
+      "name_en": "Omoda 7 / C7",
+      "name_zh": "欧萌达 7 / Omoda C7",
+      "role_en": "Plug-in-hybrid crossover. The global CEO listed it in June 2026 as a model for that year.",
+      "role_zh": "插电混动跨界车。全球 CEO 在 2026 年 6 月将其列为当年投放车型。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "Motor Trader's June 2026 interview with the global CEO lists the Omoda 7 as a 2026 launch model, alongside the Jaecoo 8 and the Omoda 4. Motor1 reported in May 2024 that a European debut was planned for 2025, describing a plug-in hybrid about 4.62 m long.",
+      "owner_note_zh": "Motor Trader 2026 年 6 月对全球 CEO 的专访将欧萌达 7 列为 2026 年投放车型，与杰酷 8、欧萌达 4 并列。Motor1 于 2024 年 5 月报道其欧洲首发原计划在 2025 年，并写为约 4.62 米的插电混动。",
+      "status": "announced",
+      "source_ids": ["b5", "b9"]
+    },
+    {
+      "name_en": "Omoda 9 / C9",
+      "name_zh": "欧萌达 9 / Omoda C9",
+      "role_en": "Flagship mid-to-large plug-in-hybrid SUV at the top of the OMODA range.",
+      "role_zh": "OMODA 谱系顶端的旗舰中大型插电混动 SUV。",
+      "price_band": "澳大利亚 61,990 澳元起（2025-08，不含上路费）",
+      "founded": 2025,
+      "owner_note_en": "Launched in Australia in August 2025 as the first Omoda-branded model there and the priciest Chery-group model offered in Australia to date. Uses a 1.5-litre turbo-petrol engine with three electric motors for 395 kW system output, a 34 kWh battery, about 169 km EV range (NEDC) and about 1,100 km combined range; 4,775 mm long with a 2,800 mm wheelbase, backed by an eight-year, unlimited-kilometre warranty.",
+      "owner_note_zh": "2025 年 8 月在澳大利亚上市，为 OMODA 品牌当地首款车型，也是奇瑞集团迄今在澳洲售价最高的车型。搭载 1.5 升涡轮增压发动机与三电机，系统功率 395 千瓦，34 千瓦时电池，纯电续航约 169 公里（NEDC）、综合约 1,100 公里；车长 4,775 毫米、轴距 2,800 毫米，并提供 8 年不限里程整车质保。",
+      "status": "active",
+      "source_ids": ["a8", "b8"]
+    },
+    {
+      "name_en": "Omoda 4",
+      "name_zh": "欧萌达 4",
+      "role_en": "Entry-level model. First revealed globally at Auto China 2026; UK launch set for 2027.",
+      "role_zh": "入门级车型。2026 年北京车展（Auto China）全球首发，英国上市定于 2027 年。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "The global CEO named it as a 2026 launch model alongside the Omoda 7 and Jaecoo 8. OMODA's UK site reported on 12 October 2026 that the Omoda 4 was first revealed globally at Auto China 2026 as a full hybrid with the SHS-H system, made its European motor show debut at the 2026 Paris Motor Show, and is scheduled to launch in the UK in 2027.",
+      "owner_note_zh": "全球 CEO 将其与欧萌达 7、杰酷 8 并列为 2026 年投放车型。OMODA 英国官网 2026 年 10 月 12 日称，欧萌达 4 已在 2026 年北京车展（Auto China）以 SHS-H 全混动全球首发，并在 2026 年巴黎车展完成欧洲车展首秀，英国上市定于 2027 年。",
+      "status": "announced",
+      "source_ids": ["b5", "a10"]
+    },
+    {
+      "name_en": "OMODA X",
+      "name_zh": "OMODA X",
+      "role_en": "New crossover model unveiled in October 2026 under the brand's CROSSVOLUTION design concept.",
+      "role_zh": "2026 年 10 月全球首发的全新跨界车型，延续品牌 CROSSVOLUTION 设计理念。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "Made its global debut at the 'OMODA X NIGHT' event in Wuhu in October 2026, described by the brand as combining futuristic mecha and geometric aesthetics.",
+      "owner_note_zh": "2026 年 10 月在芜湖「OMODA X NIGHT」全球首秀，品牌称其融合未来机甲与几何美学。",
+      "status": "announced",
+      "source_ids": ["b2"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not applicable (brand-level financials not disclosed)",
+    "rows": [],
+    "note_en": "OMODA is a passenger-vehicle brand of Chery Automobile Co., Ltd. (HKEX: 9973.HK) and does not publish separate financial statements (revenue, gross margin, net profit, R&D or cash flow) for the brand. In Chery's consolidated disclosures the OMODA & JAECOO brands are not broken out as a separate line, so brand-level financial figures are not publicly disclosed and this table lists no financial numbers. Chery Automobile's 2025 annual results announcement (HKEX, 18 March 2026) presents consolidated results in renminbi under Hong Kong Financial Reporting Standards (HKFRS) and the disclosure requirements of the Hong Kong Companies Ordinance. Profit attributable to owners of the company for 2025 was RMB 19.019 billion; the income statement records the same figure as profit attributable to owners of the parent. The parent's financial data is covered in the Chery Automobile deep research (chery). This page does not constitute any trading recommendation.",
+    "note_zh": "OMODA 为奇瑞汽车股份有限公司（港交所 9973.HK）旗下乘用车品牌，未单独披露品牌层面的财务数据（营收、毛利率、净利润、研发投入、现金流等）。在奇瑞的合并披露中，OMODA & JAECOO 未作为独立口径单列，品牌层面财务数据未公开披露，故本表不列财务数字。奇瑞汽车 2025 年度业绩公告（港交所，2026-03-18）按《香港财务报告准则》及《香港公司条例》的披露要求、以人民币列报合并业绩。2025 年「本公司拥有人应占利润」为人民币 190.19 亿元，利润表应占项目写为「母公司拥有人应占利润」。母公司财务数据见奇瑞汽车（chery）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>OMODA (欧萌达) is the export-focused global crossover brand of Chery Automobile Co., Ltd., created to serve young customers outside China. Together with its sister brand JAECOO it forms the OMODA &amp; JAECOO (O&amp;J) dual-brand family, whose vision is to co-create a beautiful life with young people; OMODA is positioned by the brand as the world's leading crossover brand, while JAECOO pursues the global elegant off-road segment.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a></p><p>The brand grew out of Chery's global OMODA product series: the first Omoda vehicle rolled off the line in March 2022, the Omoda 5 launched in Shenzhen in July 2022, and OMODA &amp; JAECOO made their debut as independent brands at Auto Shanghai in April 2023.<a href=\"https://www.chery.cn/brandshow/brandhistory\">[a7]</a><a href=\"https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml\">[a1]</a><a href=\"https://omodaauto.co.uk/news/the-global-debut-of-omodajaecoo-new-car-unveiled-at-the-shanghai-auto-show/\">[a5]</a> By 2025 the O&amp;J brands had expanded into 64 markets, and by October 2026 their combined cumulative global sales had reached about 1.4 million units, with Europe contributing roughly half of recent volume.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a></p><p>OMODA is not separately listed and does not publish standalone financials; in Chery's consolidated disclosures the O&amp;J brands are not broken out, so brand-level financial data is not publicly disclosed.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a> Its first model, the Omoda 5, has sold more than 250,000 units across over 40 countries.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><p>Beyond vehicles, the brand has built an O-Universe ecosystem comprising an O-CLUB user community, an O-Life low-carbon philosophy and an O-Lab co-creation platform, under the 'CROSS FROM FUTURE' proposition.<a href=\"https://www.cheryinternational.com/omoda/\">[a2]</a></p><p>The parent Chery Group sold 2,806,393 passenger vehicles globally in 2025 (up 7.8% year on year), ranked 233rd on the Fortune Global 500, and has been China's top passenger-vehicle exporter brand for 23 consecutive years.<a href=\"https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview\">[b6]</a><a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p>",
+      "zh": "<p>OMODA（欧萌达）是奇瑞汽车股份有限公司旗下主打海外市场的全球化跨界（Crossover）品牌，面向年轻用户。它与姊妹品牌 JAECOO 共同构成「OMODA &amp; JAECOO」（简称 O&amp;J）双品牌，愿景为「与年轻人共创美好生活」；其中 OMODA 被品牌定位为「全球领先的跨界品牌」，JAECOO 主攻全球精致越野市场。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a></p><p>品牌源自奇瑞全球 OMODA 产品序列：2022 年 3 月首台欧萌达下线，2022 年 7 月欧萌达 5 在深圳上市，2023 年 4 月 OMODA &amp; JAECOO 在上海车展以独立品牌全球首秀。<a href=\"https://www.chery.cn/brandshow/brandhistory\">[a7]</a><a href=\"https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml\">[a1]</a><a href=\"https://omodaauto.co.uk/news/the-global-debut-of-omodajaecoo-new-car-unveiled-at-the-shanghai-auto-show/\">[a5]</a> 到 2025 年，O&amp;J 已进入 64 个市场；截至 2026 年 10 月，其全球累计销量约 140 万辆，欧洲贡献了近期约一半的销量。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a></p><p>OMODA 未单独上市，也不单独披露财务数据；在奇瑞的合并披露中，O&amp;J 未作为独立口径单列，品牌层面财务数据未公开披露。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a> 其首款车型欧萌达 5 已在 40 多个国家销售、累计销量超 25 万辆。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><p>除产品外，品牌还构建了 O-Universe 用户生态，包括 O-CLUB 用户社群、O-Life 绿色低碳理念与 O-Lab 共创实验室，并以「CROSS FROM FUTURE」作为品牌主张。<a href=\"https://www.cheryinternational.com/omoda/\">[a2]</a></p><p>母公司奇瑞集团 2025 年全球销售乘用车 280.64 万辆（同比 +7.8%），位列《财富》世界 500 强第 233 位，并连续 23 年位居中国品牌乘用车出口第一。<a href=\"https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview\">[b6]</a><a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p>"
+    },
+    "current": {
+      "en": "<p>By October 2026 OMODA &amp; JAECOO had entered 79 markets with more than 1,700 showrooms; new-energy vehicles (HEV, PHEV and EV) accounted for 81% of total sales, and Europe contributed 48% of global sales. The brand reported strong regional momentum: ranking No. 2 in the UK overall market for two consecutive months (August and September 2026), monthly sales above 3,000 units in France, above 4,000 units in Spain and Italy, above 6,500 units in Brazil, a top-three brand position in Thailand, and a top-four position in Pakistan within six months of launch.<a href=\"https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html\">[a9]</a></p><h3>Model line-up</h3><p>As of the research cut-off, OMODA's line-up spans compact to mid-to-large crossovers: the Omoda 5/C5 (compact crossover, the volume model), the electric Omoda E5, the mid-size Omoda 7/C7, the flagship Omoda 9/C9 plug-in hybrid, the entry-level Omoda 4 (global premiere at Auto China 2026; UK launch in 2027) and the OMODA X unveiled in October 2026.<a href=\"https://omodaauto.co.uk/news/omoda-4-paris-motor-show-2026-debut/\">[a10]</a><a href=\"https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml\">[a1]</a><a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a><a href=\"https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs\">[b8]</a><a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> The brand offers petrol, plug-in hybrid and battery-electric powertrains, and markets the models overseas mainly under the C-series naming (C5, C7, C9).<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a><a href=\"https://www.cars.co.za/motoring-news/omoda-c7-2025-price-specs/325354\">[c1]</a> The European Omoda 5 uses a 1.6 TGDI engine (186 PS / 275 Nm) with a seven-speed dual-clutch gearbox and dual 10.25-inch screens, and the Omoda 7 is about 4.62 m long with plug-in hybrid power.<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a> By launch timing: the Omoda 5/C5 arrived in 2022, the electric E5 reached Europe in 2024, Motor Trader lists the Omoda 7 as a 2026 launch model, the flagship Omoda 9 launched in Australia in 2025, the Omoda 4 was revealed globally at Auto China 2026 with a UK launch in 2027, and the OMODA X debuted in October 2026.<a href=\"https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml\">[a1]</a><a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a><a href=\"https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs\">[b8]</a><a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a></p><h3>Technology and platforms</h3><p>OMODA's first model, the Omoda 5/C5, is built on Chery's T1X modular platform (about 4,400 mm long, 2,630 mm wheelbase), with the 'Art in Motion' design language.<a href=\"https://www.cheryinternational.com/omoda/\">[a2]</a> On electrification, O&amp;J relies on Chery's SHS super hybrid system, covering plug-in hybrid (SHS-P) and hybrid (SHS-H) routes, and is expanding battery-electric (BEV) and intelligent driving capability (SIVP valet parking, AI cockpit).<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> SHS centres on super power, super efficiency and super long combined range, achieved through a hybrid-dedicated high-efficiency engine, a DHT hybrid transmission and a high-performance battery pack working on an electricity-first, fuel-supplemented logic.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p><h3>Production and localisation</h3><p>OMODA does not disclose standalone capacity; production sits within the Chery system, with localisation overseas. On 23 November 2024, Chery and Spain's Ebro started production of the first model, the S700 SUV, at their joint-venture Ebro plant in the Barcelona free-trade zone, with the S800 to follow in the coming weeks.<a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[b7]</a> Jiemian also reported that the Omoda is planned to be produced in Vietnam and elsewhere to expand overseas.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><h3>Sales trend</h3><p>In September 2026 the brand sold 73,421 units (+123% year on year), and in the UK it ranked second in the overall market that month.<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> By October 2026 cumulative global sales stood at about 1.4 million units — CNR reported 'nearly 1.4 million', while 21st Century Business Herald quoted CEO Xu Jun saying the figure had exceeded 1.4 million — with Europe contributing about half of recent volume.<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a> For 2025, O&amp;J reported global sales of over 800,000 vehicles.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> New-energy sales exceeded 200,000 vehicles in 2025 (about five times the prior year), accounting for over half of annual sales.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p><h3>Brand recognition and safety</h3><p>In 2025 O&amp;J added 25 global awards across product, brand, technology and safety, and the brand says it holds five-star safety certifications in Europe, Australia and ASEAN, with O&amp;J named 'Brand of the Year' by Carwow in the UK; in Chile, both the OMODA O5 and the JAECOO J5 won Autocosmos's 'Most Recommended Vehicle of the Year' award as choices in their respective segments.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p><h3>Overseas markets</h3><p>O&amp;J had expanded into 64 markets by 2025, covering Europe, Asia, Australia, Africa, Latin America and the Middle East.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> In the UK, Omoda registered 12,324 vehicles in the first four months of 2026, ahead of Citroën, Dacia and Honda over the same period.<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a> In Southeast Asia the brand is anchored in Thailand, where it led both pure-electric sales and registrations in November 2025 (2,498 units), and in Latin America Brazil recorded monthly sales of over 1,600 units.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> In Turkey, Chery sold about 60,000 cars in under twelve months after its 2023 return, with the Omoda 5 among the best-sellers.<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a></p>",
+      "zh": "<p>截至 2026 年 10 月，OMODA &amp; JAECOO 已进入 79 个市场、门店超 1,700 家，新能源车型（HEV、PHEV、EV）占总销量 81%，欧洲占全球销量 48%。区域表现方面，2026 年 8 月与 9 月连续两个月在英国整体市场排名第二，法国月销超 3,000 辆，西班牙与意大利月销均超 4,000 辆，巴西月销超 6,500 辆，泰国进入品牌前三，巴基斯坦上市六个月内进入市场前四。<a href=\"https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html\">[a9]</a></p><h3>车型谱系</h3><p>截至研究截止日，OMODA 已形成以跨界车为主、覆盖紧凑型到中大型的谱系：欧萌达 5/C5（紧凑型跨界，销量主力）、纯电欧萌达 E5、中型欧萌达 7/C7、旗舰插混欧萌达 9/C9、入门级欧萌达 4（2026 年北京车展全球首发，英国上市定于 2027 年），以及 2026 年 10 月首发的 OMODA X。<a href=\"https://omodaauto.co.uk/news/omoda-4-paris-motor-show-2026-debut/\">[a10]</a><a href=\"https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml\">[a1]</a><a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a><a href=\"https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs\">[b8]</a><a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> 品牌覆盖燃油、插电混动与纯电多动力，海外市场多以 C 系列命名（C5、C7、C9）。<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a><a href=\"https://www.cars.co.za/motoring-news/omoda-c7-2025-price-specs/325354\">[c1]</a> 欧洲版欧萌达 5 搭载 1.6TGDI 发动机（186 马力/275 牛·米）配 7 速双离合，内饰为双 10.25 英寸屏；欧萌达 7 车长约 4.62 米、主打插电混动。<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a> 就投放节奏而言，欧萌达 5/C5 于 2022 年上市，纯电 E5 于 2024 年进入欧洲，Motor Trader 将欧萌达 7 列为 2026 年投放车型，旗舰欧萌达 9 于 2025 年在澳大利亚上市，欧萌达 4 已在 2026 年北京车展全球首发、英国上市定于 2027 年，OMODA X 于 2026 年 10 月首发。<a href=\"https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml\">[a1]</a><a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a><a href=\"https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs\">[b8]</a><a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a></p><h3>技术与平台</h3><p>OMODA 首款车型欧萌达 5/C5 基于奇瑞 T1X 模块化平台（车长约 4,400 毫米、轴距 2,630 毫米），设计语言为「Art in Motion」。<a href=\"https://www.cheryinternational.com/omoda/\">[a2]</a> 在新能源方面，O&amp;J 依托奇瑞 SHS 超级混动系统，覆盖插电混动（SHS-P）与混动（SHS-H）两条路线，并加速布局纯电（BEV）与智能驾驶能力（SIVP 智能代客泊车、AI 智能座舱）。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> SHS 以「超强动力、超低能耗、超长续航」为核心，通过混动专用高效发动机、DHT 混动变速箱与高性能电池包的协同，实现「电驱为主、燃油为辅」的运行逻辑。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p><h3>生产与本地化</h3><p>OMODA 未单独披露产能，生产依托奇瑞体系，并在海外推进本地化。2024 年 11 月 23 日，奇瑞与西班牙埃布罗公司在巴塞罗那自由贸易区合资建立的埃布罗工厂启动首款车型 SUV S700 的生产，随后数周生产 S800。<a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[b7]</a> 界面新闻还报道，欧萌达计划在越南等地生产以拓展海外市场。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><h3>销量走势</h3><p>2026 年 9 月品牌全球销量 73,421 辆（同比 +123%），当月在英国市场跻身全市场第二。<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> 截至 2026 年 10 月累计约 140 万辆——央广网称「近 140 万」，21 世纪经济报道引 CEO 徐军称「突破 140 万」——欧洲占近期全球销量约一半。<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a> 2025 年，O&amp;J 全球销量超 80 万辆。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> 其中新能源车型全年销量超 20 万辆（同比约 5 倍），新能源占全年销量过半。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p><h3>品牌认可与安全认证</h3><p>2025 年 O&amp;J 全年新增 25 项全球权威奖项，覆盖产品、品牌、技术与安全维度；品牌称在欧洲、澳大利亚与东盟获得全球五星安全认证，在英国获 Carwow「年度品牌」；在智利，OMODA O5 与 JAECOO J5 同时获得 Autocosmos「年度最推荐车型」，为各自细分市场的选择。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></p><h3>海外市场</h3><p>O&amp;J 截至 2025 年已进入 64 个市场，覆盖欧洲、亚洲、澳洲、非洲、拉美与中东。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> 在英国，2026 年前四个月欧萌达注册 12,324 辆，高于同期雪铁龙、达契亚与本田。<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a> 在东南亚，品牌以泰国为核心，2025 年 11 月纯电销量与上牌量双居第一（2,498 辆）；在拉美，巴西月销超 1,600 辆。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> 在土耳其，奇瑞自 2023 年重返后不足 12 个月即售出约 6 万辆，欧萌达 5 是当地畅销车型之一。<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Brand governance and position in the group</h3><p>OMODA is not a separate legal entity or listed company; it is a brand operated within Chery Automobile's international business. Chery's 2025 annual report describes its brand portfolio around Chery, Jetour, Exeed, iCAR and Luxeed, with OMODA &amp; JAECOO managed as export-oriented brands and not broken out as a separate line in the financials.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a> In October 2026 Chery adjusted the responsibilities of its business and brand heads: executive vice president Zhang Guibing now directly oversees the Chery brand's domestic business group while continuing to serve concurrently as general manager of the international business group, under which the overseas brands operate.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><h3>Key executives</h3><ul><li><strong>Xu Jun (referred to as Shawn Xu in English-language media)</strong> — CEO of OMODA &amp; JAECOO's international business / global CEO. At the October 2026 OMODA X NIGHT event he said O&amp;J had exceeded 1.4 million cumulative global sales in three and a half years, with Europe about half of recent volume.<a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> In an interview with UK trade publication Motor Trader he outlined a 2026 combined sales target of one million units (480,000 Omoda and 520,000 Jaecoo), said the Omoda line-up expands in the order of the Omoda 5 first then the 9, 7 and 2 series, and indicated small cars such as the Omoda 2 and Jaecoo 3 are planned.<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a> The specific date of his appointment is not publicly disclosed.</li><li><strong>Steve Eum</strong> — Chery's vice president of design, who oversees the design direction of Chery, OMODA, JAECOO, Freelander and Lepas. He joined Chery in 2017 after roles at Hyundai and General Motors (including the Chevrolet Cruze and the Cadillac El Miraj concept).<a href=\"https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview\">[b6]</a> From July 2026 he stepped back from day-to-day design management to become design master and expert executive advisor for Global Chery Design.<a href=\"https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview\">[b6]</a> Some Chery official pages spell his name 'Steve Hume'.<a href=\"https://www.cheryinternational.com/omoda/\">[a2]</a></li><li><strong>Roy Muñoz</strong> — Chief Commercial Officer of OMODA JAECOO Australia &amp; New Zealand, who presented the Omoda 9 at its 2025 Australian launch.<a href=\"https://www.omodajaecoo.com.au/articles/omoda-jaecoo-reveal-pricing-and-spec-omoda-9\">[a8]</a></li><li><strong>Zhang Guibing (张贵兵)</strong> — executive vice president of Chery Automobile, concurrently general manager of the international business group (see above).<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></li></ul>",
+      "zh": "<h3>品牌治理与集团位置</h3><p>OMODA 并非独立法人或上市公司，而是奇瑞汽车国际业务体系下运营的品牌。奇瑞 2025 年年报将品牌矩阵描述为奇瑞、捷途、星途、iCAR、智界，OMODA &amp; JAECOO 作为面向海外市场的品牌管理，财务上未单列披露。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a> 2026 年 10 月，奇瑞调整业务与品牌负责人分工：常务副总裁张贵兵直接分管奇瑞品牌国内事业群，同时继续兼任国际业务事业群总经理，海外品牌运营隶属该体系。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><h3>核心负责人</h3><ul><li><strong>徐军（海外媒体作 Shawn Xu）</strong> — OMODA &amp; JAECOO 国际业务 CEO / 全球 CEO。在 2026 年 10 月的「OMODA X NIGHT」活动上，他表示 O&amp;J 推出三年半、全球累计销量突破 140 万辆，欧洲占近期全球销量约一半。<a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> 在英国行业媒体 Motor Trader 的专访中，他介绍 2026 年全球合计 100 万辆的销量目标（欧萌达 48 万、杰酷 52 万），并称欧萌达产品谱系按「先欧萌达 5、再 9、7、2 系列」的顺序扩张，还规划欧萌达 2、杰酷 3 等小型车。<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a> 其具体上任日期未公开披露。</li><li><strong>Steve Eum</strong> — 奇瑞设计副总裁，负责奇瑞、OMODA、JAECOO、Freelander、Lepas 等品牌的设计方向。他 2017 年加入奇瑞，此前曾任职现代与通用（参与雪佛兰 Cruze、凯迪拉克 El Miraj 概念车等项目）。<a href=\"https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview\">[b6]</a> 2026 年 7 月起，他淡出设计日常管理，转任 Global Chery Design 的设计大师与专家执行顾问。<a href=\"https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview\">[b6]</a> 部分奇瑞官方页面将其拼作「Steve Hume」。<a href=\"https://www.cheryinternational.com/omoda/\">[a2]</a></li><li><strong>Roy Muñoz</strong> — OMODA JAECOO 澳大利亚与新西兰首席商务官，2025 年 Omoda 9 澳洲上市时对外介绍该车。<a href=\"https://www.omodajaecoo.com.au/articles/omoda-jaecoo-reveal-pricing-and-spec-omoda-9\">[a8]</a></li><li><strong>张贵兵</strong> — 奇瑞汽车常务副总裁，兼任国际业务事业群总经理（见上文）。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></li></ul>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: the competitive field.</strong> In export markets OMODA competes in the compact-to-mid-size crossover and hybrid segments against other Chinese brands such as BYD and MG, and in Europe against value-priced crossovers; Motor1 described the compact Omoda 5 as a rival to the Nissan Qashqai and Toyota C-HR, and its electric Omoda E5 competes in the European compact EV segment against models such as the BYD Atto 3 and MG ZS EV. This is an analytical selection of competitors, not a sales ranking.<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a></p><p><strong>Our judgment: strengths.</strong> OMODA benefits from Chery's manufacturing scale, sharp pricing and a fast product cadence; at a Wuhu event in late April 2026 the global CEO described a network of 1,364 dealers, and the brand's 22 October 2026 release reported 79 markets and more than 1,700 showrooms; its SHS plug-in hybrid and its design language provide differentiation, the Omoda 5 is a genuine volume model with over 250,000 cumulative units, and the brand backs models with long warranties (for example the Omoda 9 carries an eight-year, unlimited-kilometre warranty in Australia).<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a><a href=\"https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html\">[a9]</a><a href=\"https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs\">[b8]</a><a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a> In the UK, Omoda registered 12,324 units in the first four months of 2026, ahead of Citroën, Dacia and Honda over the same period.<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a></p><p><strong>Our judgment: weaknesses and uncertainties.</strong> The brand is young and its scale is concentrated in a few fast-growing export markets; brand recognition trails established rivals; and the October 2026 Malaysian recall of 8,878 Omoda 5 vehicles over a rear-axle welding defect, following a smaller 2024 recall, shows quality and regulatory risk in export markets.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a> Because OMODA does not disclose standalone financials, its profitability cannot be assessed separately from the group, and its volume still leans heavily on the Omoda 5.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a><a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><p><strong>Our judgment: overall.</strong> OMODA is the young, crossover-positioned brand in Chery's export strategy, scaling up quickly on price, design and hybrid technology, but it is still at an early stage of brand building, and quality, regulatory and trade conditions are the key variables in whether it can move from a fast-growing new brand to a sustainably profitable one. These are conditional assessments.<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>在海外市场，OMODA 在紧凑型到中大型跨界车与混动细分与比亚迪、MG 等中国品牌竞争，在欧洲还面对平价跨界车；Motor1 将紧凑型的欧萌达 5 描述为日产逍客（Qashqai）、丰田 C-HR 的竞品，其纯电欧萌达 E5 在欧洲紧凑型纯电细分对标比亚迪 Atto 3、MG ZS EV 等车型。此为分析所选的竞争范围，不是销量排名。<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a></p><p><strong>我们的判断：优势。</strong>OMODA 受益于奇瑞的制造规模、较激进的定价和较快的产品节奏；2026 年 4 月下旬的芜湖活动上，全球 CEO 称经销商网络为 1,364 家，品牌 2026 年 10 月 22 日的新闻稿则称已进入 79 个市场、门店超过 1,700 家；SHS 插电混动与设计语言带来差异化，欧萌达 5 是累计超 25 万辆的真实走量车型，品牌还配套较长质保（如欧萌达 9 在澳大利亚提供 8 年不限里程整车质保）。<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a><a href=\"https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html\">[a9]</a><a href=\"https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs\">[b8]</a><a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a> 在英国，2026 年前四个月欧萌达注册 12,324 辆，高于同期雪铁龙、达契亚与本田。<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a></p><p><strong>我们的判断：短板与不确定性。</strong>品牌成立时间短，规模集中于少数快速增长的出口市场，品牌认知度不及成熟对手；2026 年 10 月因后桥焊接缺陷在马来西亚召回 8,878 辆欧萌达 5，此前 2024 年还有一次小规模召回，显示出口市场面临质量与监管风险。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a> 因 OMODA 不单独披露财务，其盈利能力无法脱离集团单独评估；且品牌销量仍较依赖欧萌达 5 这一款走量车型。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a><a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p><p><strong>我们的判断：总体。</strong>OMODA 是奇瑞出口战略中定位年轻化、跨界化的品牌，凭借价格、设计与混动技术快速起量，但仍处于品牌建设早期，质量、监管与贸易环境是影响其能否从「快速增长的新品牌」走向「可持续盈利品牌」的关键变量。以上为有条件的判断。<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> For 2026 the global CEO outlined a combined sales target of one million units (480,000 Omoda and 520,000 Jaecoo) and product launches including the Omoda 7, Jaecoo 8 and Omoda 4; he also said an all-wheel-drive Omoda crossover (code T1QC) would be available in the first or second quarter of next year (i.e. 2027) and that a large pickup (code KP31) is planned. These are disclosed plans and targets, not completed results.<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a> The brand states a goal of becoming the world's number one hybrid brand and is expanding battery-electric and smart-driving capability; its expansion strategy is to establish a foothold in Europe, deepen its global presence and connect with young users, aiming to progress from a 'new force' to a 'mainstream player'.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> The brand's 22 October 2026 release said that, less than six months after its launch in France, monthly sales there exceeded 3,000 units and cumulative sales surpassed 10,000.<a href=\"https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html\">[a9]</a> OMODA's UK site reported on 12 October 2026 that the Omoda 4 was first revealed globally at Auto China 2026, made its European motor show debut at the Paris Motor Show, and is scheduled to launch in the UK in 2027.<a href=\"https://omodaauto.co.uk/news/omoda-4-paris-motor-show-2026-debut/\">[a10]</a> The brand also gave the global debut of the OMODA X in October 2026, carrying on the CROSSVOLUTION concept.<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a></p><p><strong>Our analysis.</strong> Our assessment: OMODA's disclosed trajectory is one of rapid export-driven volume growth, with Europe contributing about half of recent volume.<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a> Whether that pace continues depends on at least three conditions: demand for the new hybrid and electric models, the brand's ability to keep quality and regulatory incidents (such as the Malaysian recall) under control in markets with strict oversight, and the trade-policy environment in Europe and elsewhere.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[b7]</a> The 2026 one-million target is a management target rather than a completed result, and the brand's own headline figures have not always clearly separated annual and cumulative scope.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> OMODA's growth remains highly dependent on Chery's group capability and export channels, and its standalone profitability has no public data to support an assessment, so it needs to be tracked against future financial and sales disclosures.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>面向 2026 年，全球 CEO 提出合计 100 万辆的销量目标（欧萌达 48 万、杰酷 52 万），并计划推出欧萌达 7、杰酷 8 与欧萌达 4；他还表示一款四驱欧萌达跨界车（代号 T1QC）将于「明年一季度或二季度」（即 2027 年）上市，另有一款大型皮卡（代号 KP31）在规划中。以上为披露的计划与目标，不是已实现的业绩。<a href=\"https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026\">[b5]</a> 品牌提出成为全球第一混动品牌的目标，并加速布局纯电与智能驾驶；其扩张策略为「立足欧洲、深化全球、链接年轻用户」，目标从「新势力」迈向「主流玩家」。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a> 品牌 2026 年 10 月 22 日的新闻稿称，法国上市不足六个月，月销超过 3,000 辆、累计超过 10,000 辆。<a href=\"https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html\">[a9]</a> OMODA 英国官网 2026 年 10 月 12 日称，欧萌达 4 已在 2026 年北京车展（Auto China）全球首发，并在 2026 年巴黎车展完成欧洲车展首秀，英国上市定于 2027 年。<a href=\"https://omodaauto.co.uk/news/omoda-4-paris-motor-show-2026-debut/\">[a10]</a> 品牌还于 2026 年 10 月全球首发 OMODA X，该车延续 CROSSVOLUTION 理念。<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a></p><p><strong>我们的分析。</strong>我们的判断：OMODA 披露的轨迹是以出口驱动的快速放量，欧洲贡献近期约一半销量。<a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a> 这一节奏能否延续，取决于至少三个条件：混动与纯电新车型的需求、品牌能否在监管更严的市场控制质量与召回等事件（如马来西亚召回）、以及欧洲等地的贸易政策环境。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[b7]</a> 2026 年 100 万辆是管理层目标而非已完成结果，且品牌官方的部分销量数字未始终明确区分年度与累计口径。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a> OMODA 的成长高度依赖奇瑞集团的体系能力与出口渠道，其独立盈利能力尚无公开数据佐证，需持续跟踪后续财报与销售披露。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Quality and regulatory risk:</strong> in October 2026 Chery recalled 8,878 Omoda 5 vehicles in Malaysia after a rear-axle welding defect caused a wheel detachment, and Malaysia's JPJ suspended the model's type approval and new registrations; a smaller recall of 600 units took place in April 2024.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></li><li><strong>No separate financial disclosure:</strong> OMODA does not publish standalone revenue or profit, so its standalone profitability cannot be assessed from public filings.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a></li><li><strong>Concentration in fast-growing export markets:</strong> the brand's growth depends on markets such as Europe and Southeast Asia, where trade measures and local demand shifts can affect sales and local production.<a href=\"https://omodajaecoo-dubai.ae/en/blog/news-updates/omoda-jaecoo-global-sales-hit-new-record-as-march-2026-volume-exceeds-61000-units\">[b10]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[b7]</a></li><li><strong>Brand recognition and competition:</strong> OMODA is a young brand competing against established Chinese and non-Chinese rivals on price and features; recognition trails incumbents.<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a></li><li><strong>Statistical-scope ambiguity:</strong> the brand's own releases give headline figures whose annual-versus-cumulative scope is not always clearly stated (for example 'nearly 1.4 million' versus 'exceeded 1.4 million'), which complicates external verification.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a></li><li><strong>Technology and competition risk:</strong> the brand leans on hybrid (SHS) technology and a crossover positioning; intensifying EV and smart-driving competition or a shift in technology routes could dilute its differentiation.<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></li><li><strong>Currency and trade-policy exposure:</strong> OMODA's business is almost entirely outside China (the domestic Omoda 5 has been discontinued), so revenue and costs are denominated in multiple currencies and are exposed to exchange-rate swings and to tariffs and localisation requirements in Europe; because the brand does not disclose revenue, the share of overseas revenue cannot be quantified.<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a></li></ul>",
+      "zh": "<ul><li><strong>质量与监管风险：</strong>2026 年 10 月，奇瑞因后桥焊接缺陷导致车辆行驶中后轮脱落，在马来西亚召回 8,878 辆 OMODA 5，马来西亚陆路交通局（JPJ）暂停该车型型式认证与新车上牌；2024 年 4 月已有一次 600 辆的小规模召回。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a></li><li><strong>无单独财务披露：</strong>OMODA 不单独披露营收与利润，无法从公开文件评估品牌独立盈利能力。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a></li><li><strong>依赖快速增长的出口市场：</strong>品牌增长依赖欧洲、东南亚等市场，贸易措施与当地需求变化可能影响销售与本地生产。<a href=\"https://omodajaecoo-dubai.ae/en/blog/news-updates/omoda-jaecoo-global-sales-hit-new-record-as-march-2026-volume-exceeds-61000-units\">[b10]</a><a href=\"https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm\">[b7]</a></li><li><strong>品牌认知与竞争：</strong>OMODA 品牌成立时间短，凭借价格与配置同成熟对手竞争，品牌认知度不及在位者。<a href=\"https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe\">[b9]</a></li><li><strong>统计口径不清晰：</strong>品牌官方发布的部分销量数字未明确年度或累计口径（如「近 140 万」与「突破 140 万」并存），增加外部核验难度。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a><a href=\"https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml\">[b2]</a><a href=\"https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html\">[b3]</a></li><li><strong>技术路线与竞争风险：</strong>品牌高度依赖混动（SHS）与跨界定位，若纯电或智能驾驶竞争加剧、技术路线转向，其差异化可能被稀释。<a href=\"https://omodajaecoo.com.sg/news/power-in-motion-10-4/\">[a6]</a></li><li><strong>汇率与贸易政策敞口：</strong>OMODA 业务几乎全部在海外（国内欧萌达 5 已停售），收入与成本以多种货币计价，面临汇率波动及欧洲关税与本地化要求的影响；因品牌不披露收入，无法量化海外收入占比。<a href=\"https://www.jiemian.com/article/15181504.html\">[b4]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[a3]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "a1", "name": "Chery International official news: 'OMODA 5 officially launches in China' (Shenzhen, 12 July 2022) — 奇瑞国际官网·OMODA 5 中国上市", "url": "https://www.cheryinternational.com/my/news_my/news1_my/20220829/detail-2144.shtml", "date": "2022-08-29", "tier": "A" },
+    { "id": "a2", "name": "Chery International official OMODA brand page (positioning, Art in Motion, T1X platform) — 奇瑞国际官网 OMODA 品牌页", "url": "https://www.cheryinternational.com/omoda/", "date": "2022-09-01", "tier": "A" },
+    { "id": "a3", "name": "Chery Automobile 2025 Annual Report (HKEX 9973.HK) — 奇瑞汽车 2025 年度报告", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "a4", "name": "Chery Automobile 2025 Annual Results Announcement (HKEX 9973.HK) — 奇瑞汽车 2025 年度业绩公告", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800324_c.pdf", "date": "2026-03-18", "tier": "A" },
+    { "id": "a5", "name": "OMODA UK official news: 'OMODA presents new car with JAECOO in Shanghai' (Auto Shanghai 2023 independent-brand debut) — OMODA 英国官网·上海车展独立品牌首秀", "url": "https://omodaauto.co.uk/news/the-global-debut-of-omodajaecoo-new-car-unveiled-at-the-shanghai-auto-show/", "date": "2024-01-17", "tier": "A" },
+    { "id": "a6", "name": "OMODA & JAECOO Singapore official news: 'From Breaking Barriers to Leading the Way' (2025 review) — O&J 新加坡官网·2025 年度回顾", "url": "https://omodajaecoo.com.sg/news/power-in-motion-10-4/", "date": "2026-01-06", "tier": "A" },
+    { "id": "a7", "name": "Chery official brand history (chery.cn) — 奇瑞官网·品牌历程", "url": "https://www.chery.cn/brandshow/brandhistory", "date": "2026-10-29", "tier": "A" },
+    { "id": "a8", "name": "OMODA JAECOO Australia official news: 'OMODA JAECOO reveal pricing and spec for Omoda 9' — O&J 澳洲官网·Omoda 9 定价与规格", "url": "https://www.omodajaecoo.com.au/articles/omoda-jaecoo-reveal-pricing-and-spec-omoda-9", "date": "2025-07-21", "tier": "A" },
+    { "id": "a9", "name": "GlobeNewswire (OMODA & JAECOO press release): 'In Step with Global Users, Half a Step Ahead in Innovation: OMODA & JAECOO Harnesses User Insights to Drive Next-Generation Mobility' — O&J 官方新闻稿（GlobeNewswire 分发）", "url": "https://www.globenewswire.com/news-release/2026/10/22/3386685/0/en/in-step-with-global-users-half-a-step-ahead-in-innovation-omoda-jaecoo-harnesses-user-insights-to-drive-next-generation-mobility.html", "date": "2026-10-22", "tier": "A" },
+    { "id": "a10", "name": "OMODA UK official news: 'OMODA 4 Makes European Motor Show Debut In Paris Ahead Of 2027 UK Launch' — OMODA 英国官网·欧萌达 4 巴黎车展欧洲首秀", "url": "https://omodaauto.co.uk/news/omoda-4-paris-motor-show-2026-debut/", "date": "2026-10-12", "tier": "A" },
+    { "id": "b1", "name": "新华网 Xinhua: '售9.29万元-12.69万元，奇瑞欧萌达上市' — 新华网·欧萌达上市", "url": "https://www.news.cn/auto/20220713/4ab6a917582341cdaf0b231b9a0765ef/c.html", "date": "2022-07-13", "tier": "B" },
+    { "id": "b2", "name": "央广网 CNR Auto: '奇瑞汽车举办 OMODA X NIGHT 活动' — 央广网·OMODA X NIGHT", "url": "https://auto.cnr.cn/cz/20261021/t20261021_527848769.shtml", "date": "2026-10-21", "tier": "B" },
+    { "id": "b3", "name": "21 世纪经济报道: '徐军：OMODA & JAECOO 是全球增长速度最快的品牌' — 21 财经·徐军谈 O&J", "url": "https://m.21jingji.com/timeline/2dc47f65e9229afed8795ec7a62b8c88.html", "date": "2026-10-21", "tier": "B" },
+    { "id": "b4", "name": "界面新闻 Jiemian: '车辆行驶中后轮脱落！奇瑞致歉，召回8878辆OMODA 5' — 界面新闻·召回 8878 辆 OMODA 5", "url": "https://www.jiemian.com/article/15181504.html", "date": "2026-10-12", "tier": "B" },
+    { "id": "b5", "name": "Motor Trader (UK): 'MT Interview: Shawn Xu, global CEO of Omoda & Jaecoo' — Motor Trader 专访 O&J 全球 CEO", "url": "https://www.motortrader.com/motor-trader-news/automotive-news/mt-interview-shawn-xu-global-ceo-of-omoda-jaecoo-09-06-2026", "date": "2026-06-09", "tier": "B" },
+    { "id": "b6", "name": "CAR Magazine (UK): interview with Chery design VP Steve Eum — CAR 杂志专访设计副总裁 Steve Eum", "url": "https://www.carmagazine.co.uk/car-news/industry-news/jaecoo/designer-steve-eum-interview", "date": "2026-09-25", "tier": "B" },
+    { "id": "b7", "name": "人民日报 People's Daily: '奇瑞西班牙合资工厂启动首款车型生产' — 人民日报·奇瑞西班牙埃布罗工厂投产", "url": "https://paper.people.com.cn/rmrb/html/2024-11/25/nw.D110000renmrb_20241125_4-03.htm", "date": "2024-11-25", "tier": "B" },
+    { "id": "b8", "name": "CarExpert: '2025 Omoda 9 price and specs' (Australia) — CarExpert·Omoda 9 澳洲售价与规格", "url": "https://carexpert.com.au/car-news/2025-omoda-9-price-and-specs", "date": "2025-07-26", "tier": "B" },
+    { "id": "b9", "name": "Motor1: 'So Chery is ready to invade Europe with Omoda and Jaecoo SUVs' — Motor1·奇瑞欧萌达/杰酷欧洲上市", "url": "https://www.motor1.com/news/720362/omoda-jaecoo-suv-prices-europe", "date": "2024-05-21", "tier": "B" },
+    { "id": "b10", "name": "OMODA & JAECOO Dubai dealer blog: 'Global sales hit new record as March 2026 volume exceeds 61,000 units' — O&J 迪拜经销商站·2026 年 3 月销量稿（内容撰稿人 Alireza Karimiannasab，非权威媒体）", "url": "https://omodajaecoo-dubai.ae/en/blog/news-updates/omoda-jaecoo-global-sales-hit-new-record-as-march-2026-volume-exceeds-61000-units", "date": "2026-04-01", "tier": "C" },
+    { "id": "c1", "name": "Cars.co.za: 'Omoda C7 (2025) price and specs' (South Africa) — Cars.co.za·Omoda C7 南非", "url": "https://www.cars.co.za/motoring-news/omoda-c7-2025-price-specs/325354", "date": "2025-11-11", "tier": "C" }
+  ]
+}

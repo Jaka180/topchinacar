@@ -1,0 +1,506 @@
+{
+  "id": "lotus",
+  "name_en": "Lotus (Lotus Technology Inc.)",
+  "name_zh": "路特斯（莲花，Lotus Technology Inc.）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Brand origins 1948 (Colin Chapman's first car); Lotus name born 1952; Lotus Technology Inc. established 2021",
+      "value_zh": "品牌起源 1948 年（柯林·查普曼首辆赛车）；Lotus 品牌 1952 年诞生；路特斯科技 2021 年成立",
+      "period": null,
+      "source_ids": ["s12", "s1"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Brand heritage at Hethel, Norfolk, UK; principal executive office of the listed entity in Shanghai, China",
+      "value_zh": "品牌发源于英国诺福克郡海瑟尔（Hethel）；上市主体主要行政办公室位于中国上海",
+      "period": null,
+      "source_ids": ["s12", "s1"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private; controlled by Zhejiang Geely Holding Group; beneficial owner Li Shufu (Eric Li)",
+      "value_zh": "民营；由浙江吉利控股集团控制；最终受益人为李书福",
+      "period": null,
+      "source_ids": ["s1", "s11"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "NASDAQ: LOT (Lotus Technology Inc.; business combination closed 2024-02-22, ADSs trading from 2024-02-23)",
+      "value_zh": "纳斯达克：LOT（路特斯科技；2024 年 2 月 22 日完成业务合并，2 月 23 日起挂牌交易）",
+      "period": null,
+      "source_ids": ["s1", "s16"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "1,132 (Lotus Technology Inc., before the Aug 2026 Lotus UK integration)",
+      "value_zh": "1,132 人（路特斯科技，2026 年 8 月 Lotus UK 整合前）",
+      "period": "2025-12-31",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "US$519 million",
+      "value_zh": "5.19 亿美元",
+      "period": "FY2025",
+      "source_ids": ["s2", "s1"]
+    },
+    {
+      "label_en": "Net loss (FY2025)",
+      "label_zh": "净亏损（2025 财年）",
+      "value_en": "US$464 million (net loss attributable to ordinary shareholders)",
+      "value_zh": "4.64 亿美元（归属于普通股股东的净亏损）",
+      "period": "FY2025",
+      "source_ids": ["s2", "s1"]
+    },
+    {
+      "label_en": "Vehicle deliveries (2025)",
+      "label_zh": "交付量（2025 年）",
+      "value_en": "6,520 units",
+      "value_zh": "6,520 辆",
+      "period": "2025",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Deliveries outside China (2025)",
+      "label_zh": "中国以外市场交付（2025 年）",
+      "value_en": "3,560 units (Europe 2,198; North America 1,048; rest of world 314)",
+      "value_zh": "3,560 辆（欧洲 2,198 辆、北美 1,048 辆、其他市场 314 辆）",
+      "period": "2025",
+      "source_ids": ["s2"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1948",
+      "event_en": "Colin Chapman builds his first competition car (an Austin Seven special) in a garage; this is treated by the brand as the origin of Lotus.",
+      "event_zh": "柯林·查普曼在车库里打造自己的首辆赛车（一辆 Austin Seven 改装车），这被视为路特斯品牌的起点。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "1952",
+      "event_en": "The Lotus name is formally born; the Mark III becomes the first car to carry the Lotus name.",
+      "event_zh": "Lotus 品牌正式诞生，Mark III 成为首款冠以「Lotus」之名的车型。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "1958",
+      "event_en": "Lotus first races in Formula 1. By the company's own account the brand has recorded 79 Grand Prix wins, 7 constructors' championships and 6 drivers' championships over its F1 history.",
+      "event_zh": "路特斯首次参加 F1 大奖赛。按公司官网口径，品牌在 F1 历史上共取得 79 个分站冠军、7 次车队年度总冠军与 6 次车手总冠军。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "1982-12",
+      "event_en": "Colin Chapman dies of a heart attack on 16 December 1982, aged 54, leaving the company in financial difficulty.",
+      "event_zh": "1982 年 12 月 16 日，柯林·查普曼因心脏病突发去世，享年 54 岁，公司陷入财务困境。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "1986",
+      "event_en": "General Motors buys Group Lotus. (Toyota had earlier taken a 16.5% stake in 1983, per the company timeline.)",
+      "event_zh": "通用汽车收购 Group Lotus。（据公司时间线，丰田此前已于 1983 年取得 16.5% 股权。）",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "1993",
+      "event_en": "Bugatti owner Romano Artioli buys Group Lotus from General Motors and becomes acting CEO.",
+      "event_zh": "布加迪所有者罗马诺·阿蒂奥利（Romano Artioli）从通用手中收购 Group Lotus，并出任代理 CEO。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "1996",
+      "event_en": "Malaysian automaker Proton announces an 80% majority stake in Group Lotus.",
+      "event_zh": "马来西亚宝腾汽车宣布取得 Group Lotus 80% 多数股权。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2011-06-15",
+      "event_en": "Lotus formally enters the China market, adopting the transliterated Chinese name 路特斯.",
+      "event_zh": "路特斯正式进入中国市场，采用音译中文名「路特斯」。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2017-06-23",
+      "event_en": "Zhejiang Geely Holding Group signs a final agreement with Malaysia's DRB-HICOM to acquire 51% of Lotus, stating the transaction was expected to complete about three months later; Lotus's own timeline records the 51% purchase in November 2017.",
+      "event_zh": "浙江吉利控股集团与马来西亚 DRB-HICOM 签署最终协议，收购路特斯 51% 股权；吉利称交易预计约 3 个月后完成交割。路特斯官网时间线将该 51% 收购记为 2017 年 11 月。",
+      "source_ids": ["s28", "s12"]
+    },
+    {
+      "date": "2018",
+      "event_en": "In June Geely announces Feng Qingfeng's appointment as CEO of Group Lotus plc; the company launches the Vision80 ten-year revival plan targeting full electrification and intelligent transformation by the brand's 80th anniversary in 2028.",
+      "event_zh": "2018 年 6 月，吉利宣布任命冯擎峰为路特斯集团（Group Lotus plc）CEO；同年发布 Vision80 十年品牌复兴计划，目标在 2028 年品牌创立 80 周年之际完成电动化、智能化转型。",
+      "source_ids": ["s12", "s24"]
+    },
+    {
+      "date": "2019-07",
+      "event_en": "Lotus unveils the Evija, its first all-electric hypercar, with a target power output of 2,000 PS and production limited to 130 cars.",
+      "event_zh": "路特斯发布首款纯电超跑 Evija，目标 2,000 马力，全球限量 130 台。",
+      "source_ids": ["s12", "s23"]
+    },
+    {
+      "date": "2021-07",
+      "event_en": "Lotus reveals the Emira, described by the company at the time as its last petrol-powered sports car.",
+      "event_zh": "路特斯发布 Emira，公司当时将其描述为最后一款燃油跑车。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2021-08-31",
+      "event_en": "Lotus Technology (路特斯科技) is established in Wuhan, with its global headquarters and a new intelligent plant planned in the Wuhan Economic and Technological Development Zone.",
+      "event_zh": "路特斯科技在武汉成立，并将全球总部与全新智能工厂落户武汉经济技术开发区。",
+      "source_ids": ["s1", "s20"]
+    },
+    {
+      "date": "2022-07",
+      "event_en": "The Lotus Global Intelligent Factory in Wuhan is completed and enters production, making the Eletre and Emeya; Hubei media report total investment of over RMB8 billion on a 1,526-mu site with a designed annual capacity of about 150,000 units.",
+      "event_zh": "路特斯武汉全球智能工厂竣工投产，生产 Eletre 与 Emeya；据湖北媒体，该工厂占地 1,526 亩、总投资超 80 亿元，设计年产能约 15 万辆。",
+      "source_ids": ["s20", "s24", "s15"]
+    },
+    {
+      "date": "2023-03",
+      "event_en": "Deliveries of the Eletre, the first Wuhan-built pure-electric hyper-SUV, begin in China.",
+      "event_zh": "首款武汉造纯电超跑 SUV Eletre 在中国开启交付。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2023-09",
+      "event_en": "Lotus unveils the Emeya, its first electric hyper-grand tourer, with deliveries in China beginning the following year.",
+      "event_zh": "路特斯发布首款纯电超跑轿车 Emeya，次年在中国开启交付。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2024-02-22",
+      "event_en": "Lotus Technology Inc. completes its business combination with SPAC L Catterton Asia Acquisition Corp (a merger agreed in January 2023); its ADSs begin trading on Nasdaq under the ticker LOT on 2024-02-23.",
+      "event_zh": "路特斯科技与特殊目的收购公司 L Catterton Asia Acquisition Corp 完成业务合并（该合并方案于 2023 年 1 月签署）；其美国存托股票（ADS）于 2024 年 2 月 23 日在纳斯达克以代码 LOT 挂牌交易。",
+      "source_ids": ["s1", "s16"]
+    },
+    {
+      "date": "2025-01-02",
+      "event_en": "The company announces the return of the Chinese name 莲花, renaming the brand in China as 莲花跑车, after recovering the 莲花 trademark; media describe a five-year effort involving litigation.",
+      "event_zh": "公司宣布「莲花」中文名称回归，在华品牌正式更名为「莲花跑车」。此前因「莲花」中文商标长期为他方持有，品牌在华使用音译名「路特斯」约五年；据北京商报报道，夺回商标过程中打了 11 场官司。",
+      "source_ids": ["s24", "s23"]
+    },
+    {
+      "date": "2026-03-29",
+      "event_en": "Lotus launches the For Me plug-in hybrid SUV in China (named Eletre X in Europe), its first PHEV, built on the 900V 路遥 (X-Hybrid) architecture; first deliveries begin on 2026-03-30.",
+      "event_zh": "路特斯在中国上市首款插电混动车型 For Me（欧洲名 Eletre X），基于 900V 路遥（X-Hybrid）超混架构，3 月 30 日开启首批交付。",
+      "source_ids": ["s14", "s27"]
+    },
+    {
+      "date": "2026-05",
+      "event_en": "Lotus announces the Focus 2030 strategy, replacing the earlier all-electric goal with a fuel, hybrid and pure-electric powertrain mix.",
+      "event_zh": "路特斯发布 Focus 2030 战略，以燃油、混动、纯电多元动力布局替代此前的全面纯电化目标。",
+      "source_ids": ["s17", "s18"]
+    },
+    {
+      "date": "2026-08-21",
+      "event_en": "Lotus Technology completes the acquisition of 100% of Lotus Advance Technologies Sdn Bhd (Lotus UK), integrating the sports-car business, Hethel plant and Lotus Engineering under one company ('One Lotus').",
+      "event_zh": "路特斯科技完成对 Lotus Advance Technologies Sdn Bhd（Lotus UK）100% 股权的收购，将跑车业务、海瑟尔工厂与莲花工程并入同一主体（「One Lotus」）。",
+      "source_ids": ["s5", "s22"]
+    },
+    {
+      "date": "2026-08-31",
+      "event_en": "Lotus launches three updated flagship models in China: the Emira 420 Sport (from RMB988,000), Emeya 900 GOLD (from RMB918,000) and Eletre 900 GOLD (from RMB928,000).",
+      "event_zh": "路特斯在中国上市三款旗舰改款车型：Emira 420 Sport（98.8 万元起）、Emeya 900 GOLD（91.8 万元起）、Eletre 900 GOLD（92.8 万元起）。",
+      "source_ids": ["s19"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Emira",
+      "name_zh": "Emira",
+      "role_en": "Mid-engined combustion sports car; described at its 2021 reveal as the brand's last petrol-powered model, but the 2026 Focus 2030 pivot reopened petrol development (e.g. the Emira 420 Sport and the planned V8 hybrid Type 135).",
+      "role_zh": "中置发动机燃油跑车；2021 年发布时被描述为品牌最后一款燃油车型，但 2026 年 Focus 2030 战略后品牌重启燃油路线（如 Emira 420 Sport 与规划的 V8 混动跑车 Type 135）。",
+      "price_band": "Emira 420 Sport from RMB988,000 (China, 2026-08-31)",
+      "founded": 2021,
+      "owner_note_en": "Manufactured at the Hethel plant in the UK. In 2025 sports cars (Emira) accounted for 1,968 of Lotus Technology's 6,520 deliveries. The refreshed Emira 420 Sport launched on 2026-08-31 from RMB988,000.",
+      "owner_note_zh": "在英国海瑟尔工厂生产。2025 年跑车（Emira）占路特斯科技 6,520 辆交付量中的 1,968 辆。改款 Emira 420 Sport 于 2026 年 8 月 31 日上市，98.8 万元起。",
+      "status": "active",
+      "source_ids": ["s2", "s12", "s19"]
+    },
+    {
+      "name_en": "Evija",
+      "name_zh": "Evija",
+      "role_en": "Ultra-luxury all-electric hypercar, unveiled July 2019, targeting about 2,000 PS and limited to 130 units.",
+      "role_zh": "超豪华纯电超跑，2019 年 7 月发布，目标约 2,000 马力，全球限量 130 台。",
+      "price_band": "Limited run of 130 units (no unified public MSRP in China)",
+      "founded": 2019,
+      "owner_note_en": "Lotus's first all-electric hypercar; production was postponed from 2020 to 2021 by the Covid-19 pandemic, with the car built at Hethel.",
+      "owner_note_zh": "品牌首款纯电超跑；受疫情影响，投产由 2020 年推迟至 2021 年，在 Hethel 工厂制造。",
+      "status": "active",
+      "source_ids": ["s12"]
+    },
+    {
+      "name_en": "Eletre",
+      "name_zh": "Eletre",
+      "role_en": "Pure-electric hyper-SUV (lifestyle vehicle), the brand's first SUV and first mainstream EV, and the first model built in Wuhan; China deliveries began in March 2023.",
+      "role_zh": "纯电超跑 SUV（生活用车），品牌首款 SUV 与首款主流纯电车型，也是首款武汉造车型；2023 年 3 月起在中国交付。",
+      "price_band": "Eletre 900 GOLD from RMB928,000 (China, 2026-08-31)",
+      "founded": 2022,
+      "owner_note_en": "Produced at the Wuhan Global Intelligent Factory. In 2025 the Eletre (with the Emeya) drove the lifestyle-vehicle line of 4,552 deliveries. The Eletre 900 GOLD launched 2026-08-31 from RMB928,000.",
+      "owner_note_zh": "在武汉全球智能工厂生产。2025 年 Eletre 与 Emeya 共同构成 4,552 辆的生活用车交付。Eletre 900 GOLD 于 2026 年 8 月 31 日上市，92.8 万元起。",
+      "status": "active",
+      "source_ids": ["s2", "s20", "s19"]
+    },
+    {
+      "name_en": "Emeya",
+      "name_zh": "Emeya",
+      "role_en": "Pure-electric hyper-grand tourer sedan (lifestyle vehicle), unveiled September 2023, delivered in China from 2024.",
+      "role_zh": "纯电超跑轿车（生活用车），2023 年 9 月发布，2024 年起在中国交付。",
+      "price_band": "Emeya 900 GOLD from RMB918,000 (China, 2026-08-31)",
+      "founded": 2023,
+      "owner_note_en": "Produced at the Wuhan Global Intelligent Factory. The Emeya 900 GOLD launched 2026-08-31 from RMB918,000.",
+      "owner_note_zh": "在武汉全球智能工厂生产。Emeya 900 GOLD 于 2026 年 8 月 31 日上市，91.8 万元起。",
+      "status": "active",
+      "source_ids": ["s20", "s19"]
+    },
+    {
+      "name_en": "For Me (Eletre X)",
+      "name_zh": "For Me（欧洲名 Eletre X）",
+      "role_en": "Plug-in hybrid SUV, the brand's first PHEV, built on the 900V 路遥 (X-Hybrid) super-hybrid architecture; launched in China on 2026-03-29.",
+      "role_zh": "插电混动 SUV，品牌首款插混车型，基于 900V 路遥（X-Hybrid）超混架构；2026 年 3 月 29 日在中国上市。",
+      "price_band": "RMB508,000 (standard) and RMB558,000 (SE edition), China launch 2026-03-29",
+      "founded": 2026,
+      "owner_note_en": "Known as For Me in China and Eletre X in Europe; produced at the Wuhan Global Intelligent Factory. System output is 952 PS with 0-100 km/h in 3.3 seconds, 420 km pure-electric range and over 1,400 km combined range; first deliveries began 2026-03-30. The company does not disclose model-level deliveries; Jiemian reports that by end-June 2026 For Me had accumulated about 2,200 orders and more than 1,800 deliveries in China.",
+      "owner_note_zh": "中国名为 For Me、欧洲名为 Eletre X；在武汉全球智能工厂生产。系统总功率 952 马力，0-100km/h 加速 3.3 秒，纯电续航 420 公里、综合续航超 1,400 公里；2026 年 3 月 30 日开启首批交付。公司不按车型披露交付量；界面新闻报道，截至 2026 年 6 月底 For Me 在华累计订单约 2,200 辆、交付超 1,800 辆。",
+      "status": "active",
+      "source_ids": ["s14", "s27", "s17"]
+    }
+  ],
+  "financials": {
+    "currency": "USD",
+    "unit": "million",
+    "standard": "US GAAP",
+    "rows": [
+      { "fiscal_year": 2022, "revenue": 9.6, "gross_margin_pct": null, "net_profit": -723.9, "rnd": 445.8, "source_ids": ["s10"] },
+      { "fiscal_year": 2023, "revenue": 679.0, "gross_margin_pct": 15.0, "net_profit": -742.0, "rnd": 368.7, "source_ids": ["s1", "s3"] },
+      { "fiscal_year": 2024, "revenue": 924.3, "gross_margin_pct": 3.0, "net_profit": -1104.9, "rnd": 274.8, "source_ids": ["s1", "s2"] },
+      { "fiscal_year": 2025, "revenue": 519.1, "gross_margin_pct": 9.0, "net_profit": -464.2, "rnd": 171.0, "source_ids": ["s1", "s2"] }
+    ],
+    "note_en": "Fiscal year ends December 31. Figures are under US GAAP, in US dollars (millions), taken from Lotus Technology Inc.'s Forms 20-F filed with the US SEC (FY2022 from the FY2024 20-F; FY2023–FY2025 from the FY2025 20-F) and the FY2025 earnings release. 'revenue' is total revenue; 'gross_margin_pct' is gross profit divided by revenue (left null for FY2022, before bulk BEV deliveries made the margin not meaningful); 'rnd' is research and development expenses; 'net_profit' is the net loss attributable to ordinary shareholders, i.e. the parent-company (归母) measure after deducting noncontrolling interests, per the line 'Net loss attributable to ordinary shareholders' in the consolidated statement of comprehensive loss. For reference, the headline consolidated net loss shown in the earnings releases differs: FY2023 was US$750 million (including about US$8.3 million of noncontrolling interests) and FY2024 was US$1,107 million (including about US$2.4 million of noncontrolling interests). This table uses the attributable measure throughout for consistency.",
+    "note_zh": "财年截至 12 月 31 日。数据按美国通用会计准则（US GAAP）、以美元计（单位：百万），取自路特斯科技向美国证券交易委员会（SEC）提交的年度报告（Form 20-F）及 2025 财年业绩公告（2022 财年取自 2024 财年 20-F，2023—2025 财年取自 2025 财年 20-F）。「revenue」为总收入；「gross_margin_pct」为毛利／收入（2022 财年为纯电车型批量交付前，收入极小、毛利率不具可比性，故留空）；「rnd」为研发费用；「net_profit」为合并综合亏损表中「归属于普通股股东的净亏损」（Net loss attributable to ordinary shareholders），即归母口径、已扣除非控股权益。需说明的是，业绩公告标题中的合并净亏损口径在个别年份略有差异：2023 财年为 7.50 亿美元（含约 830 万美元非控股权益）、2024 财年为 11.07 亿美元（含约 240 万美元非控股权益）；本表统一采用归母（归属于普通股股东）净亏损口径。"
+  },
+  "sections": {
+    "overview": {
+      "source_ids": ["s1", "s2", "s5", "s12", "s16", "s17", "s18", "s23", "s24", "s28"],
+      "en": "<p>Lotus is a British performance and sports-car brand founded by engineer Colin Chapman, with origins in 1948 and the Lotus name formally born in 1952, known for lightweight construction, aerodynamics and chassis tuning, and for a racing record the company counts as 79 Formula 1 Grand Prix wins, 7 constructors' championships and 6 drivers' championships.<a href=\"https://www.lotuscars.com/en-AE/lotus-story\">[s12]</a> Since January 2025 the brand's Chinese name has been 莲花跑车 (Lotus), after the company recovered the 莲花 trademark; media describe a five-year effort that involved litigation.<a href=\"https://hb.people.com.cn/BIG5/n2/2025/0103/c192237-41096737.html\">[s24]</a><a href=\"https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml\">[s23]</a> The brand is controlled by China's Zhejiang Geely Holding Group, which signed a final agreement on 2017-06-23 to acquire a 51% stake from Malaysia's DRB-HICOM.<a href=\"https://zgh.com/media-center/news/20170623_1\">[s28]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a></p><p>The operating and listed entity is Lotus Technology Inc. (路特斯科技), which completed a business combination with SPAC L Catterton Asia Acquisition Corp on 2024-02-22 and listed on Nasdaq under the ticker LOT from 2024-02-23.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://paper.cnstock.com/html/2024-02/24/content_1879786.htm\">[s16]</a> Lotus makes two kinds of vehicles: the Emira combustion sports car and the limited-run Evija electric hypercar, and luxury lifestyle electric vehicles — the Eletre hyper-SUV and Emeya hyper-GT — plus the For Me plug-in hybrid SUV launched in March 2026.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> In August 2026 Lotus Technology completed the acquisition of 100% of Lotus Advance Technologies Sdn Bhd (Lotus UK), bringing the Hethel sports-car plant and Lotus Engineering under one company ('One Lotus').<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><p>The company is loss-making and shrinking: 2025 deliveries of 6,520 units fell 46% year on year, revenue was US$519 million and the net loss attributable to ordinary shareholders was US$464 million.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> After its earlier all-electric plan fell short, Lotus pivoted in May 2026 to the Focus 2030 strategy built on a fuel, hybrid and pure-electric powertrain mix.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></p>",
+      "zh": "<p>路特斯（Lotus，2025 年 1 月起中文名恢复为「莲花跑车」）是由英国工程师柯林·查普曼创立的高性能跑车品牌，品牌起源可追溯至 1948 年、Lotus 之名于 1952 年正式诞生，以轻量化、空气动力学与底盘调校著称；按公司官网口径，其赛车史共夺得 79 个 F1 分站冠军、7 次车队年度总冠军与 6 次车手总冠军。<a href=\"https://www.lotuscars.com/en-AE/lotus-story\">[s12]</a> 因「莲花」中文商标长期为他方持有，品牌在华使用音译名「路特斯」约五年；2025 年 1 月 2 日公司宣布「莲花」中文名称回归、更名「莲花跑车」，媒体称夺回商标的过程历经约五年并涉及诉讼。<a href=\"https://hb.people.com.cn/BIG5/n2/2025/0103/c192237-41096737.html\">[s24]</a><a href=\"https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml\">[s23]</a> 品牌现由中国浙江吉利控股集团控制——吉利 2017 年 6 月 23 日与马来西亚 DRB-HICOM 签署最终协议，收购路特斯 51% 股权。<a href=\"https://zgh.com/media-center/news/20170623_1\">[s28]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a></p><p>其运营与上市主体为路特斯科技（Lotus Technology Inc.），2024 年 2 月 22 日与特殊目的收购公司 L Catterton Asia Acquisition Corp 完成业务合并，2 月 23 日在纳斯达克以代码 LOT 挂牌。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://paper.cnstock.com/html/2024-02/24/content_1879786.htm\">[s16]</a> 产品分两类：Emira 燃油跑车与限量纯电超跑 Evija，以及 Eletre 超跑 SUV、Emeya 超跑轿车等纯电生活用车，外加 2026 年 3 月推出的插混 SUV For Me。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> 2026 年 8 月，公司完成对 Lotus Advance Technologies Sdn Bhd（Lotus UK）100% 股权的收购，将海瑟尔跑车工厂与莲花工程并入同一主体（「One Lotus」）。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><p>公司目前处于亏损与销量收缩阶段：2025 年交付 6,520 辆（同比下滑 46%）、营收 5.19 亿美元、归母净亏损 4.64 亿美元；此前全面纯电战略未达预期后，公司于 2026 年 5 月转向以燃油、混动、纯电多元动力为核心的「Focus 2030」战略。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a><a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></p>"
+    },
+    "current": {
+      "source_ids": ["s1", "s2", "s3", "s4", "s5", "s14", "s17", "s20", "s22", "s23", "s24", "s27"],
+      "en": "<h3>Business structure</h3><p>Revenue is dominated by vehicle sales, with a fast-growing services line: in FY2025 service revenues rose 69% year on year to US$56 million, driven mainly by R&D services and the commercialization of Lotus intellectual property through technical licensing.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> The company follows an asset-light model: its EV lifestyle models are produced under a contract-manufacturing arrangement using Geely Holding's Wuhan facilities, while the Emira sports car is built at the Hethel plant in the UK, which the company owns after the August 2026 Lotus UK acquisition.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><h3>Latest results (H1 2026)</h3><p>In the first half of 2026, unaudited total revenue was US$268 million, up 23% year on year; gross margin rose from 8% to 10%; the operating loss narrowed 63% to US$97 million; and the net loss narrowed 52% to US$151 million (net loss attributable to ordinary shareholders US$150.9 million).<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> The company notes that the operating-loss narrowing included a one-off refund of a license fee related to product-pipeline adjustments; excluding that refund, the H1 2026 operating loss was US$195 million, narrowed 26% year on year.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> Total deliveries rose 39% to 3,904 units (lifestyle vehicles 3,008, up 57%; sports cars 896, up 1%), with China deliveries up 60% to 2,248 units, or 58% of the total.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a></p><p>The company does not disclose deliveries by individual model. Media report the For Me PHEV as the main driver: Jiemian reports that by end-June 2026 For Me had accumulated about 2,200 orders and more than 1,800 deliveries in China, while 金融界 (via Tencent News) estimates For Me delivered more than 1,700 units in the second quarter, about 43.5% of the 3,904 global deliveries.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://news.qq.com/rain/a/20260828A0AFOA00\">[s22]</a> The Eletre X (For Me) has been delivered in China and six overseas markets, with mainland-Europe deliveries expected to commence in Q4 2026 and the UK in mid-2027.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> In H1 2026 the company also secured US$128 million in funding from Geely.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a></p><h3>Products, technology and Lotus Engineering</h3><p>The current line-up comprises the Emira combustion sports car, the Evija electric hypercar, the Eletre and Emeya pure-electric lifestyle vehicles, and the For Me plug-in hybrid SUV.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> Lotus has developed its own electric performance architecture (EPA), and since 2024 has promoted the 900V 路遥 (X-Hybrid) super-hybrid system; the first 路遥 model, For Me, has a system output of 952 PS, 0-100 km/h in 3.3 seconds, 420 km pure-electric range and over 1,400 km combined range.<a href=\"https://www.news.cn/auto/20260331/cf1c2ace24974e4e800489a1cf17d881/c.html\">[s14]</a><a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202604/t20260403_2749282.html\">[s27]</a> Alongside car-making, Lotus Engineering is an automotive engineering consultancy serving OEMs and Tier 1 suppliers, with long-standing expertise in lightweight structures, aerodynamics and chassis dynamics; after the One Lotus integration it sits within the same company as the car business.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><h3>Plants and capacity</h3><p>The Lotus Global Intelligent Factory in Wuhan (Wuhan Economic and Technological Development Zone) was completed and entered production in July 2022; it builds the Eletre, Emeya and For Me. Hubei media report a total investment of over RMB8 billion on a 1,526-mu (about 102-hectare) site and a designed annual capacity of about 150,000 units.<a href=\"https://news.hubeidaily.net/pc/c_2287115.html\">[s20]</a><a href=\"https://hb.people.com.cn/BIG5/n2/2025/0103/c192237-41096737.html\">[s24]</a> The Hethel plant in Norfolk, UK builds the Emira and Evija and is the home of Lotus Engineering; it joined the company through the August 2026 Lotus UK acquisition.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><h3>Domestic market position</h3><p>Lotus occupies a small, high-priced niche in China. Beijing Business Today reported 2024 China sales of about 2,300 units, down 24.3% year on year (Emeya about 1,200, Eletre about 1,000).<a href=\"https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml\">[s23]</a> In H1 2026 China deliveries rebounded to 2,248 units, up 60% year on year, helped by the For Me launch.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> By early 2024 the company had built 65 480kW supercharging stations in high-end areas of China and offered access to a public charging network of about 300,000 points across Europe and China; in March 2024 it launched the Lotus Chapman Bespoke personalisation service.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-year/\">[s3]</a></p><h3>Overseas business</h3><p>In 2025 Lotus delivered 3,560 vehicles outside China (Europe 2,198, North America 1,048, rest of world 314).<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> Europe was the largest single market in 2024, with deliveries up 179% year on year; in H1 2026 Europe delivered 716 units, down 17%.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> In the United States, tariffs lifted the Eletre's starting price from about US$107,000 to nearly US$230,000, and the Emira accounts for more than half of its sales there; the UK-built Emira faces lighter tariff pressure.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> In Canada, the company has used its existing dealers to launch the Wuhan-built Eletre from C$119,900, under a scheme allowing 49,000 Chinese-made EVs a year at a 6.1% tariff, and plans to grow Canadian dealers to 12 by end-2026.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></p>",
+      "zh": "<h3>业务结构</h3><p>收入以整车销售为主，服务收入快速增长：2025 财年服务收入 5,600 万美元、同比增长 69%，主要来自研发服务与通过技术许可实现的知识产权商业化。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> 公司采用轻资产模式：纯电生活车型通过代工安排由吉利控股位于武汉的工厂生产，Emira 燃油跑车则在英国海瑟尔工厂制造——该工厂于 2026 年 8 月完成 Lotus UK 收购后归入公司。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><h3>最新业绩（2026 上半年）</h3><p>2026 年上半年未经审计总营收 2.68 亿美元、同比增长 23%；毛利率由 8% 升至 10%；经营亏损收窄 63% 至 9,700 万美元；净亏损收窄 52% 至 1.51 亿美元（归母口径 1.509 亿美元）。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> 公司说明，经营亏损收窄包含一笔与产品线调整相关的一次性许可费返还；剔除该返还后，2026 上半年经营亏损为 1.95 亿美元、同比收窄 26%。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> 总交付量同比增长 39% 至 3,904 辆（生活用车 3,008 辆、同比增 57%；跑车 896 辆、同比增 1%），其中中国市场交付同比增长 60% 至 2,248 辆、占全球总量 58%。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a></p><p>公司不按车型披露交付量。媒体普遍将插混车型 For Me 视为主要增量：界面新闻报道，截至 2026 年 6 月底 For Me 在华累计订单约 2,200 辆、交付超 1,800 辆；金融界（转腾讯新闻）测算其二季度交付超 1,700 辆、约占上半年全球总交付 3,904 辆的 43.5%。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://news.qq.com/rain/a/20260828A0AFOA00\">[s22]</a> Eletre X（For Me）已在中国及 6 个海外市场交付，欧洲大陆交付预计 2026 年第四季度开始、英国预计 2027 年年中。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> 2026 上半年公司还获得吉利 1.28 亿美元资金支持。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a></p><h3>产品、技术与莲花工程</h3><p>当前产品线包括 Emira 燃油跑车、Evija 纯电超跑、Eletre 与 Emeya 纯电生活用车，以及插混 SUV For Me。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> 技术方面，路特斯自主研发电气化性能架构（EPA），并自 2024 年起推出 900V 路遥（X-Hybrid）超混系统；首款路遥车型 For Me 系统总功率 952 马力、0-100km/h 加速 3.3 秒、纯电续航 420 公里、综合续航超 1,400 公里。<a href=\"https://www.news.cn/auto/20260331/cf1c2ace24974e4e800489a1cf17d881/c.html\">[s14]</a><a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202604/t20260403_2749282.html\">[s27]</a> 除整车业务外，莲花工程（Lotus Engineering）是一家面向整车厂与一级供应商的汽车工程咨询公司，在轻量化结构、空气动力学与底盘动力学方面有数十年积累；One Lotus 整合后与整车业务归属同一主体。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><h3>工厂与产能</h3><p>路特斯武汉全球智能工厂（武汉经济技术开发区）于 2022 年 7 月竣工投产，生产 Eletre、Emeya 与 For Me；据湖北媒体，工厂占地 1,526 亩（约 102 公顷）、总投资超 80 亿元，设计年产能约 15 万辆。<a href=\"https://news.hubeidaily.net/pc/c_2287115.html\">[s20]</a><a href=\"https://hb.people.com.cn/BIG5/n2/2025/0103/c192237-41096737.html\">[s24]</a> 英国诺福克郡海瑟尔（Hethel）工厂生产 Emira 与 Evija，也是莲花工程所在地；该工厂于 2026 年 8 月 Lotus UK 收购后并入公司。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm\">[s5]</a></p><h3>国内市场地位</h3><p>路特斯在中国处于规模较小的高价位细分市场。北京商报报道，2024 年路特斯在华销量约 2,300 辆、同比下滑 24.3%（Emeya 约 1,200 辆、Eletre 约 1,000 辆）。<a href=\"https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml\">[s23]</a> 2026 上半年在华交付回升至 2,248 辆、同比增长 60%，得益于 For Me 上市。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> 截至 2024 年初，公司已在中国高端区域建成 65 座 480kW 超级充电站，并可接入覆盖欧洲与中国的约 30 万个公共充电桩网络；2024 年 3 月推出 Lotus Chapman Bespoke 高级定制服务。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-year/\">[s3]</a></p><h3>海外业务</h3><p>2025 年路特斯在中国以外市场交付 3,560 辆（欧洲 2,198 辆、北美 1,048 辆、其他市场 314 辆）。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> 2024 年欧洲是其最大单一市场、交付同比增长 179%；2026 上半年欧洲交付 716 辆、同比下降 17%。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> 在美国，关税使 Eletre 起售价由约 10.7 万美元升至近 23 万美元，Emira 则占其美国销量一半以上，英国产的 Emira 关税压力相对较轻。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> 在加拿大，公司利用原有经销商推出武汉制造的 Eletre，起售价 11.99 万加元，享受每年 4.9 万辆中国产电动车以 6.1% 关税进口的额度，并计划 2026 年底前将加拿大经销商增至 12 家。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></p>"
+    },
+    "leadership": {
+      "source_ids": ["s1", "s6", "s7", "s8", "s11", "s12"],
+      "en": "<h3>Founder</h3><p>The brand was founded by Colin Chapman (1928–1982), an English engineer known for lightweight construction, aerodynamics and chassis engineering, who led Lotus's long run of Formula 1 success and introduced road cars such as the Elite, Elan and Esprit.<a href=\"https://www.lotuscars.com/en-AE/lotus-story\">[s12]</a></p><h3>Key management (as of 2026-10-29)</h3><ul><li><strong>Joe Quan Zhang (张权)</strong> — chairman of the board of Lotus Technology Inc., appointed effective 2026-06-03, succeeding Daniel Donghui Li. He is Vice President and Chief Financial Officer of Zhejiang Geely Holding Group and joined Geely in 2014.<a href=\"https://ir.group-lotus.com/node/8736/html\">[s6]</a></li><li><strong>Qingfeng Feng (冯擎峰)</strong> — chief executive officer and a director of Lotus Technology, and CEO of Group Lotus plc since June 2018; he joined Geely Holding in 1999.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://www.lotuscars.com/en-AE/lotus-story\">[s12]</a></li><li><strong>Daxue Wang (王达学)</strong> — chief financial officer, appointed effective 2025-04-08, succeeding Alexious Lee; previously CFO of Radar Auto and previously held positions at financial institutions.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-announces-management-and-board-changes/\">[s7]</a></li></ul><h3>Board and ownership</h3><p>The board was refreshed through 2025–2026: independent directors Cai Hongjun and Yan Yunfeng joined, along with Jim Rowan (former Volvo Cars CEO), who became a director effective 2025-06-30; Daniel Donghui Li stepped down as chairman on 2026-05-31.<a href=\"https://ir.group-lotus.com/node/8736/html\">[s6]</a><a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-announces-management-and-board-changes/\">[s7]</a> Geely Holding founder and chairman Li Shufu (Eric Li) is the beneficial owner: a Schedule 13G showed 51.0% of voting power as of 2024-09-30, and a Schedule 13D/A filed in June 2026 disclosed beneficial ownership of 338,624,525 ordinary shares, about 52.3% of the 647,687,049 ordinary shares outstanding as of 2026-05-20, held through entities including Lotus Advanced Technology Limited Partnership, Lotus Technology International Investment Limited, Geely Investment Holding, ECARX Holdings and Geely International (Hong Kong) Limited. The second-largest shareholder is Malaysia's Etika Automotive.<a href=\"https://ir.group-lotus.com/node/7586/html\">[s8]</a><a href=\"https://ir.group-lotus.com/node/8766/html\">[s11]</a></p>",
+      "zh": "<h3>创始人</h3><p>品牌由柯林·查普曼（Colin Chapman，1928—1982）创立，他是以轻量化、空气动力学与底盘工程闻名的英国工程师，带领路特斯在 F1 赛场取得长期成功，并推出 Elite、Elan、Esprit 等经典车型。<a href=\"https://www.lotuscars.com/en-AE/lotus-story\">[s12]</a></p><h3>现任核心管理层（截至 2026-10-29）</h3><ul><li><strong>张权（Joe Quan Zhang）</strong> — 路特斯科技董事会主席，2026 年 6 月 3 日获任，接替李东辉。现任吉利控股集团副总裁兼首席财务官，2014 年加入吉利。<a href=\"https://ir.group-lotus.com/node/8736/html\">[s6]</a></li><li><strong>冯擎峰（Qingfeng Feng）</strong> — 路特斯科技首席执行官兼董事，2018 年 6 月起任路特斯集团（Group Lotus plc）CEO；1999 年加入吉利控股。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://www.lotuscars.com/en-AE/lotus-story\">[s12]</a></li><li><strong>王达学（Daxue Wang）</strong> — 首席财务官，2025 年 4 月 8 日获任，接替 Alexious Lee；此前任吉利雷达汽车 CFO，并曾在多家金融机构任职。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-announces-management-and-board-changes/\">[s7]</a></li></ul><h3>董事会与股权</h3><p>董事会于 2025—2026 年间经历调整：独立董事蔡红军、闫云峰，以及吉姆·罗文（Jim Rowan，前沃尔沃汽车 CEO，2025 年 6 月 30 日起任董事）先后加入；李东辉于 2026 年 5 月 31 日卸任主席。<a href=\"https://ir.group-lotus.com/node/8736/html\">[s6]</a><a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-announces-management-and-board-changes/\">[s7]</a> 吉利控股创始人、董事长李书福（Eric Li）为最终受益人：截至 2024 年 9 月 30 日的 Schedule 13G 显示其受益持有 51.0% 表决权；2026 年 6 月提交的 Schedule 13D/A 披露其受益持有 338,624,525 股普通股，约占截至 2026 年 5 月 20 日已发行 647,687,049 股普通股的 52.3%，通过 Lotus Advanced Technology Limited Partnership、Lotus Technology International Investment Limited、Geely Investment Holding、ECARX Holdings、Geely International (Hong Kong) Limited 等实体持有。第二大股东为马来西亚 Etika Automotive。<a href=\"https://ir.group-lotus.com/node/7586/html\">[s8]</a><a href=\"https://ir.group-lotus.com/node/8766/html\">[s11]</a></p>"
+    },
+    "competition": {
+      "source_ids": ["s2", "s17", "s21"],
+      "en": "<h3>Competitive scope (our assessment)</h3><p>Our assessment: Lotus competes in a small, high-priced performance and luxury segment. Its electric models are positioned against premium performance EVs such as the Porsche Taycan and high-end German and Italian luxury vehicles, while the Emira sits in the sports-car segment alongside Porsche and Ferrari products; in China it also overlaps with high-end domestic EVs. In a 2024 interview the company described its focus as the US$80,000–150,000 luxury market.<a href=\"https://www.thepaper.cn/newsdetail_forward_26588792\">[s21]</a> This comparison is based on the company's disclosed product portfolio and pricing.</p><h3>Strengths and constraints (our assessment)</h3><p>Our assessment: the brand's main assets are its heritage, engineering reputation and the resources of Geely Holding, which provides manufacturing, supply chain and capital and lets Lotus launch new models quickly. But scale is small and shrinking: 2025 deliveries of 6,520 units were down 46% year on year and revenue fell 44%.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> The pivot from an all-electric strategy toward plug-in hybrids signals that pure-electric demand in the ultra-luxury segment was weaker than the company originally expected; CEO Feng Qingfeng told media the brand had not succeeded in pure electric and called introducing hybrids a correction to the past, while in a Beijing News interview he said the failure was that the brand had not produced a single breakout hit.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></p><p>Our assessment: gross margin has improved (3% in 2024, 9% in 2025 and 10% in H1 2026), but the company remains deeply loss-making, with an accumulated deficit of about US$3.16 billion at end-2025 and shareholders' equity negative at about -US$1.33 billion.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> In China, the brand faces competition from domestic high-end players such as BYD's Yangwang, NIO's ET9 and the Aito M9, while established super-luxury names such as Bentley, Rolls-Royce and Ferrari also weakened in the market.<a href=\"https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml\">[s23]</a> This limits its ability to self-fund expansion without continued support from Geely and external investors.</p>",
+      "zh": "<h3>竞争范围（我们的判断）</h3><p>我们的判断：路特斯处于规模较小的豪华高性能细分市场。其纯电车型与保时捷 Taycan 等高端性能电动车及德意豪华品牌竞争，Emira 则与保时捷、法拉利等跑车同台；在中国市场还面临高端本土电动车品牌的竞争。公司在 2024 年专访中曾将其目标市场描述为 8 万—15 万美元的豪华区间。<a href=\"https://www.thepaper.cn/newsdetail_forward_26588792\">[s21]</a> 这一比较依据是其披露的产品矩阵与定价。</p><h3>优势与约束（我们的判断）</h3><p>我们的判断：品牌的核心资产是历史底蕴、工程声誉与吉利控股的资源支持——吉利提供制造、供应链与资金，使路特斯能较快推出新车。但规模偏小且在收缩：2025 年交付 6,520 辆、同比下滑 46%，营收下滑 44%。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> 从全面纯电路线转向插混，说明超豪华市场的纯电需求低于公司此前的预期；CEO 冯擎峰对界面新闻表示品牌在纯电领域并没有取得成功、推出混动是对过去的一次修正，而在新京报访谈中则称问题在于「没有做出单一大爆品」。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></p><p>我们的判断：毛利率虽在改善（2024 年 3%、2025 年 9%、2026 上半年 10%），但公司仍深度亏损：截至 2025 年底累计亏损约 31.6 亿美元，股东权益为负约 13.3 亿美元。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a> 在中国市场，品牌还面临仰望、蔚来 ET9、问界 M9 等本土高端车型的竞争，宾利、劳斯莱斯、法拉利等超豪华品牌在华亦同步走弱。<a href=\"https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml\">[s23]</a> 这限制了其在无吉利与外部投资人持续支持下自我造血扩张的能力。</p>"
+    },
+    "outlook": {
+      "source_ids": ["s1", "s2", "s4", "s17", "s18", "s22"],
+      "en": "<h3>Company plans</h3><p>Under the Focus 2030 strategy announced in May 2026, Lotus has replaced its earlier all-electric goal with a fuel, hybrid and pure-electric mix. Management aims to reach about 30,000 annual sales and break even before 2030; Jiemian summarizes the plan as cutting the annual target from Vision80's 150,000 to 30,000 units, with a plug-in-hybrid-to-BEV ratio of about 60:40 and a gross-margin goal above 20%.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a> CEO Feng Qingfeng said the break-even volume had been 50,000 to 80,000 units and, with Geely synergy, has come down to about 30,000.<a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a> The company plans further performance models, including the V8 hybrid sports car Type 135 around 2028, and the global rollout of the For Me PHEV; H1 2026 results show For Me delivered in China and six overseas markets, with mainland-Europe deliveries expected from Q4 2026 and the UK around mid-2027.<a href=\"https://news.qq.com/rain/a/20260828A0AFOA00\">[s22]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> Feng described a target global mix of about 30% China, 30% Europe, 30% US and 10% elsewhere, with the US share possibly falling by 10 percentage points. These are the company's stated targets, not achieved results.<a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></p><h3>Our analysis</h3><p>Our assessment: reaching 30,000 annual sales from 6,520 in 2025 would require a near-fivefold increase, which depends on the For Me ramp, recovery of Eletre and Emeya volumes, and new markets.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> The One Lotus integration completed in August 2026 adds sports-car and engineering revenue but also brings UK operating costs into the group, which the CFO noted could widen losses in the near term.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> Europe's rollout is also gated by Euro 7 certification, with UK deliveries expected around mid-2027, and tariffs constrain the US market.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> Until profitability is reached, continued financing from Geely and investors (including convertible notes and related-party arrangements) remains essential to operations.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a></p>",
+      "zh": "<h3>公司规划</h3><p>在 2026 年 5 月发布的 Focus 2030 战略下，路特斯以燃油、混动、纯电多元动力布局替代此前的全面纯电目标。管理层表示，目标在 2030 年前实现年销约 3 万辆并盈亏平衡；界面新闻归纳该战略将年销目标由 Vision80 的 15 万辆降至 3 万辆，插混与纯电比例约 60:40，毛利率目标超过 20%。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a> CEO 冯擎峰称，过去的盈亏平衡点是 5 万到 8 万辆，在吉利协同下已降至约 3 万辆。<a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a> 公司还计划推出更多性能车型，包括约 2028 年问世的 V8 混动跑车 Type 135，并推进 For Me 插混车型的全球上市；2026 年上半年 For Me 已在中国及 6 个海外市场交付，欧洲大陆交付预计 2026 年第四季度开始、英国约 2027 年年中。<a href=\"https://news.qq.com/rain/a/20260828A0AFOA00\">[s22]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm\">[s4]</a> 冯擎峰还描述了「中国 30%、欧洲 30%、美国 30%、其他 10%」的目标销量格局，美国占比未来可能下降 10 个百分点。以上为公司目标表述，并非已实现结果。<a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></p><h3>我们的分析</h3><p>我们的判断：从 2025 年的 6,520 辆增至年产销 3 万辆需要近五倍增长，取决于 For Me 的爬坡、Eletre 与 Emeya 的销量恢复以及新市场开拓。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> 2026 年 8 月完成的 One Lotus 整合虽带来跑车与工程服务收入，但也将英国运营成本并入报表，CFO 提示集团亏损短期内可能扩大。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> 欧洲上市还受欧 7 排放认证影响，英国交付需等到约 2027 年年中；关税亦制约美国市场。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a> 在实现盈利前，来自吉利与投资人（含可转换票据与关联方安排）的持续融资仍是维持运营的关键。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a><a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a></p>"
+    },
+    "risks": {
+      "source_ids": ["s1", "s2", "s9", "s17", "s18"],
+      "en": "<ul><li><strong>Persistent losses and negative equity:</strong> FY2025 net loss attributable to ordinary shareholders was US$464 million; the accumulated deficit was about US$3.16 billion and shareholders' equity about -US$1.33 billion at 2025-12-31.<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a></li><li><strong>Demand and strategy risk:</strong> deliveries fell 46% in 2025, and the pivot from an all-electric plan to hybrids reflects weaker-than-expected pure-electric demand in the ultra-luxury segment; CEO Feng Qingfeng said the brand had not produced a single breakout hit.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></li><li><strong>Trade and tariff headwinds:</strong> in the US the Eletre's starting price rose from about US$107,000 to nearly US$230,000 on tariffs, and Euro 7 certification has delayed Europe deliveries; Chinese-built vehicles face import tariffs in markets including the US and EU.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></li><li><strong>Dependence on Geely:</strong> Lotus relies on Geely Holding for manufacturing, parts sourcing and financing, including convertible notes and related-party arrangements, as disclosed in its 20-F risk factors.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a></li><li><strong>Average-selling-price pressure:</strong> the lower-priced For Me pulled down the average selling price by about 3% in H1 2026, and its rising share of the mix requires higher-margin personalisation to offset.<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></li><li><strong>Integration and compliance burden:</strong> in June 2026 the company suspended Q1 and Q3 2026 earnings releases to prioritize the Lotus UK acquisition and related compliance work, while continuing half-year and full-year disclosures; the CFO also cautioned that adding UK operating costs could widen losses in the near term.<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926073564/tm2617843d1_ex99-1.htm\">[s9]</a><a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></li></ul>",
+      "zh": "<ul><li><strong>持续亏损与负权益：</strong>2025 财年归母净亏损 4.64 亿美元；截至 2025 年 12 月 31 日累计亏损约 31.6 亿美元，股东权益约 -13.3 亿美元。<a href=\"https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/\">[s2]</a></li><li><strong>需求与战略风险：</strong>2025 年交付量下滑 46%；从全面纯电路线转向混动，反映出超豪华市场纯电需求弱于预期；CEO 冯擎峰称品牌未能做出单一大爆品。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a><a href=\"https://www.bjnews.com.cn/detail/1780448158169070.html\">[s18]</a></li><li><strong>贸易与关税压力：</strong>美国市场 Eletre 起售价因关税由约 10.7 万美元升至近 23 万美元，欧 7 认证推迟欧洲交付；中国产车辆在美国、欧盟等市场面临进口关税。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></li><li><strong>对吉利的依赖：</strong>路特斯在制造、零部件采购与融资上依赖吉利控股，包括可转换票据与关联方安排，公司 20-F 风险因素对此有披露。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm\">[s1]</a></li><li><strong>均价承压：</strong>定价较低的 For Me 使 2026 上半年单车均价同比下降约 3%，其销量占比上升需靠更高价的个性化配置来弥补。<a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></li><li><strong>整合与合规负担：</strong>2026 年 6 月公司暂停发布 2026 年第一、三季度财报，以优先推进 Lotus UK 收购及相关合规工作，但仍披露半年度与全年业绩；CFO 亦提示，并入英国运营成本后集团亏损短期内可能扩大。<a href=\"https://www.sec.gov/Archives/edgar/data/1962746/000110465926073564/tm2617843d1_ex99-1.htm\">[s9]</a><a href=\"https://www.jiemian.com/article/15047757.html\">[s17]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Lotus Technology Inc. Form 20-F (FY2025), U.S. SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1962746/000110465926050310/lot-20251231x20f.htm",
+      "date": "2026-04-28",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "Lotus Technology Reports Unaudited Fourth Quarter and Full Year 2025 Financial Results",
+      "url": "https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-1/",
+      "date": "2026-04-10",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Lotus Technology Reports Unaudited Fourth Quarter and Full Year 2023 Financial Results",
+      "url": "https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-reports-unaudited-fourth-quarter-and-full-year/",
+      "date": "2024-04-08",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "Lotus Technology Reports Unaudited Half Year 2026 Financial Results (SEC Exhibit 99.1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1962746/000110465926101814/tm2624173d1_ex99-1.htm",
+      "date": "2026-08-27",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "Lotus Tech Completed Acquisition of 100% Equity Interest of Lotus Advance Technologies (Form 6-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1962746/000110465926100528/tm2623974d1_ex99-1.htm",
+      "date": "2026-08-25",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Lotus Tech Announces Change to Board Composition (Form 6-K)",
+      "url": "https://ir.group-lotus.com/node/8736/html",
+      "date": "2026-06-03",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "Lotus Technology Announces Management and Board Changes (CFO appointment, Form 6-K)",
+      "url": "https://ir.group-lotus.com/news-releases/news-release-details/lotus-technology-announces-management-and-board-changes/",
+      "date": "2025-04-08",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "Schedule 13G (Li Shufu / Lotus entities beneficial ownership, as of 2024-09-30)",
+      "url": "https://ir.group-lotus.com/node/7586/html",
+      "date": "2024-11-12",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "Lotus Tech Announces Operational and Earnings Reporting Updates (Form 6-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1962746/000110465926073564/tm2617843d1_ex99-1.htm",
+      "date": "2026-06-12",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "Lotus Technology Inc. Form 20-F (FY2024), U.S. SEC",
+      "url": "https://ir.group-lotus.com/static-files/ab0592be-0cb9-4324-b0f0-06df855863c8",
+      "date": "2025-04-30",
+      "tier": "A"
+    },
+    {
+      "id": "s11",
+      "name": "Schedule 13D/A (Li Shufu / Lotus entities beneficial ownership, 52.3%)",
+      "url": "https://ir.group-lotus.com/node/8766/html",
+      "date": "2026-06-12",
+      "tier": "A"
+    },
+    {
+      "id": "s12",
+      "name": "Lotus Cars official 'Lotus Story' history timeline (accessed 2026-10-29)",
+      "url": "https://www.lotuscars.com/en-AE/lotus-story",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s14",
+      "name": "新华网：售价50.8万元起，全新莲花For Me正式上市",
+      "url": "https://www.news.cn/auto/20260331/cf1c2ace24974e4e800489a1cf17d881/c.html",
+      "date": "2026-03-31",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "武汉市发展和改革委员会：武汉万亿汽车产业集群再添新引擎",
+      "url": "https://fgw.wuhan.gov.cn/xwzx/fgyw/202001/t20200116_863514.html",
+      "date": "2020-01-16",
+      "tier": "A"
+    },
+    {
+      "id": "s16",
+      "name": "上海证券报：旗下跑车品牌路特斯登陆纳斯达克 吉利全球资本版图再落一「子」",
+      "url": "https://paper.cnstock.com/html/2024-02/24/content_1879786.htm",
+      "date": "2024-02-24",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "界面新闻：莲花跑车重算赛道和生活的盈利账",
+      "url": "https://www.jiemian.com/article/15047757.html",
+      "date": "2026-09-09",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "新京报：对话莲花汽车冯擎峰——彻底放弃纯电超跑，要做跑车圈的「鲇鱼」",
+      "url": "https://www.bjnews.com.cn/detail/1780448158169070.html",
+      "date": "2026-06-03",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "中国经营报（网易转载）：莲花集团CEO冯擎峰谈三款旗舰车型上市",
+      "url": "https://www.163.com/dy/article/L5VJFVL005199NHJ.html",
+      "date": "2026-09-04",
+      "tier": "B"
+    },
+    {
+      "id": "s20",
+      "name": "湖北日报：武汉豪华电动车企路特斯在美上市",
+      "url": "https://news.hubeidaily.net/pc/c_2287115.html",
+      "date": "2024-02-24",
+      "tier": "B"
+    },
+    {
+      "id": "s21",
+      "name": "澎湃新闻：专访冯擎峰——登陆纳斯达克是一个小小里程碑",
+      "url": "https://www.thepaper.cn/newsdetail_forward_26588792",
+      "date": "2024-02-24",
+      "tier": "B"
+    },
+    {
+      "id": "s22",
+      "name": "金融界（腾讯新闻转载）：放弃纯电路线后，路特斯交出了一份怎样的答卷？",
+      "url": "https://news.qq.com/rain/a/20260828A0AFOA00",
+      "date": "2026-08-28",
+      "tier": "C"
+    },
+    {
+      "id": "s23",
+      "name": "央广网（北京商报）：夺回「莲花」名称，路特斯改名能「改命」？",
+      "url": "https://www.cnr.cn/2013qcpd/hy/20250104/t20250104_527030571.shtml",
+      "date": "2025-01-04",
+      "tier": "B"
+    },
+    {
+      "id": "s24",
+      "name": "人民网湖北频道：路特斯更名为「莲花跑车」",
+      "url": "https://hb.people.com.cn/BIG5/n2/2025/0103/c192237-41096737.html",
+      "date": "2025-01-03",
+      "tier": "B"
+    },
+    {
+      "id": "s25",
+      "name": "中国新闻网：Lotus宣布正式进入中国 推出「中国版新商标」",
+      "url": "https://www.chinanews.com/auto/2011/06-16/3115517.shtml",
+      "date": "2011-06-16",
+      "tier": "B"
+    },
+    {
+      "id": "s27",
+      "name": "武汉经济技术开发区政府门户：全新莲花For Me正式上市",
+      "url": "https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202604/t20260403_2749282.html",
+      "date": "2026-04-03",
+      "tier": "A"
+    },
+    {
+      "id": "s28",
+      "name": "浙江吉利控股集团：吉利控股集团与马来西亚DRB-HICOM集团签署最终协议（收购路特斯51%股份）",
+      "url": "https://zgh.com/media-center/news/20170623_1",
+      "date": "2017-06-23",
+      "tier": "A"
+    }
+  ]
+}
