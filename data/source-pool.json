@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-28T09:29:00.855Z",
+ "generated_at": "2026-10-28T09:53:02.225Z",
  "window_days": 7,
  "totals": {
-  "sources": 129,
-  "active": 127,
-  "domains": 144,
+  "sources": 143,
+  "active": 141,
+  "domains": 145,
   "keywords": 432,
-  "new_items_7d": 8747
+  "new_items_7d": 9164
  },
  "sources": [
   {
@@ -57,11 +57,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 133,
-    "new_items": 35,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 146,
+    "new_items": 43,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -78,11 +78,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 90,
+    "items": 100,
     "new_items": 18,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -99,11 +99,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 1688,
-    "new_items": 423,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 1788,
+    "new_items": 455,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -120,11 +120,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 321,
-    "new_items": 73,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 349,
+    "new_items": 75,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -141,11 +141,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 1662,
-    "new_items": 398,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 1762,
+    "new_items": 422,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -162,8 +162,8 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
-    "ok_rate": 0.24,
+    "runs": 18,
+    "ok_rate": 0.22,
     "items": 7,
     "new_items": 3,
     "last_ok": "2026-10-25T11:56:27.273Z"
@@ -183,11 +183,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 398,
-    "new_items": 95,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 421,
+    "new_items": 97,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -204,11 +204,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 443,
-    "new_items": 95,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 488,
+    "new_items": 99,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -225,11 +225,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 459,
-    "new_items": 121,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 508,
+    "new_items": 125,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -246,11 +246,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 1473,
-    "new_items": 330,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 1573,
+    "new_items": 344,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -267,11 +267,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 488,
-    "new_items": 122,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 513,
+    "new_items": 126,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -288,11 +288,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 88,
-    "new_items": 18,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 96,
+    "new_items": 19,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -309,11 +309,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
-    "ok_rate": 0.88,
-    "items": 55,
-    "new_items": 10,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "runs": 18,
+    "ok_rate": 0.89,
+    "items": 62,
+    "new_items": 11,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -330,11 +330,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 116,
-    "new_items": 19,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 122,
+    "new_items": 22,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -351,11 +351,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 273,
-    "new_items": 68,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 289,
+    "new_items": 69,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -372,11 +372,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 208,
-    "new_items": 40,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 220,
+    "new_items": 42,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -393,11 +393,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 69,
+    "items": 76,
     "new_items": 14,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -414,11 +414,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 526,
-    "new_items": 103,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 552,
+    "new_items": 108,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -435,11 +435,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 351,
-    "new_items": 90,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 368,
+    "new_items": 94,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -456,8 +456,8 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
-    "ok_rate": 0.35,
+    "runs": 18,
+    "ok_rate": 0.33,
     "items": 6,
     "new_items": 2,
     "last_ok": "2026-10-25T15:14:17.066Z"
@@ -477,11 +477,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 237,
-    "new_items": 56,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 260,
+    "new_items": 62,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -498,11 +498,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 113,
-    "new_items": 21,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 115,
+    "new_items": 22,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -519,11 +519,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 75,
-    "new_items": 12,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 80,
+    "new_items": 13,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -540,11 +540,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 809,
-    "new_items": 150,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 885,
+    "new_items": 155,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -561,515 +561,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
     "last_ok": null
-   }
-  },
-  {
-   "id": "gn:baic:zh",
-   "kind": "gnews",
-   "name": "北汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "北汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "baic",
-    "en": "BAIC",
-    "zh": "北汽"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 397,
-    "new_items": 114,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:byd:zh",
-   "kind": "gnews",
-   "name": "比亚迪 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "比亚迪 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "byd",
-    "en": "BYD",
-    "zh": "比亚迪"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 671,
-    "new_items": 174,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:horizon:zh",
-   "kind": "gnews",
-   "name": "地平线 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "地平线 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "horizon",
-    "en": "Horizon Robotics",
-    "zh": "地平线"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 78,
-    "new_items": 18,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:dongfeng:zh",
-   "kind": "gnews",
-   "name": "东风 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "东风 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "dongfeng",
-    "en": "Dongfeng",
-    "zh": "东风"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 451,
-    "new_items": 121,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:gac:zh",
-   "kind": "gnews",
-   "name": "广汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "广汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "gac",
-    "en": "GAC",
-    "zh": "广汽"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 357,
-    "new_items": 98,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:hesai:zh",
-   "kind": "gnews",
-   "name": "禾赛 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "禾赛 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "hesai",
-    "en": "Hesai",
-    "zh": "禾赛"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 102,
-    "new_items": 26,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:huawei_ads:zh",
-   "kind": "gnews",
-   "name": "华为乾崑 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "华为乾崑 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "huawei_ads",
-    "en": "Huawei Qiankun ADS",
-    "zh": "华为乾崑"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 675,
-    "new_items": 209,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:geely:zh",
-   "kind": "gnews",
-   "name": "吉利 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "吉利 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "geely",
-    "en": "Geely",
-    "zh": "吉利"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 647,
-    "new_items": 168,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:liauto:zh",
-   "kind": "gnews",
-   "name": "理想 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "理想 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "liauto",
-    "en": "Li Auto",
-    "zh": "理想"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 348,
-    "new_items": 114,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:leapmotor:zh",
-   "kind": "gnews",
-   "name": "零跑 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "零跑 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "leapmotor",
-    "en": "Leapmotor",
-    "zh": "零跑"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 597,
-    "new_items": 148,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:apollo:zh",
-   "kind": "gnews",
-   "name": "萝卜快跑 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "萝卜快跑 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "apollo",
-    "en": "Baidu Apollo Go",
-    "zh": "萝卜快跑"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 53,
-    "new_items": 12,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:chery:zh",
-   "kind": "gnews",
-   "name": "奇瑞 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "奇瑞 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "chery",
-    "en": "Chery",
-    "zh": "奇瑞"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 692,
-    "new_items": 165,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:saic:zh",
-   "kind": "gnews",
-   "name": "上汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "上汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "saic",
-    "en": "SAIC Motor",
-    "zh": "上汽"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 405,
-    "new_items": 142,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:robosense:zh",
-   "kind": "gnews",
-   "name": "速腾聚创 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "速腾聚创 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "robosense",
-    "en": "RoboSense",
-    "zh": "速腾聚创"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 51,
-    "new_items": 15,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:nio:zh",
-   "kind": "gnews",
-   "name": "蔚来 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "蔚来 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "nio",
-    "en": "NIO",
-    "zh": "蔚来"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 530,
-    "new_items": 180,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:weride:zh",
-   "kind": "gnews",
-   "name": "文远知行 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "文远知行 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "weride",
-    "en": "WeRide",
-    "zh": "文远知行"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 110,
-    "new_items": 33,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:pony:zh",
-   "kind": "gnews",
-   "name": "小马智行 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "小马智行 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "pony",
-    "en": "Pony.ai",
-    "zh": "小马智行"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 155,
-    "new_items": 41,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:xiaomi:zh",
-   "kind": "gnews",
-   "name": "小米汽车 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "小米汽车 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "xiaomi",
-    "en": "Xiaomi EV",
-    "zh": "小米汽车"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 554,
-    "new_items": 146,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:xpeng:zh",
-   "kind": "gnews",
-   "name": "小鹏 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "小鹏 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "xpeng",
-    "en": "XPeng",
-    "zh": "小鹏"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 393,
-    "new_items": 114,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:faw:zh",
-   "kind": "gnews",
-   "name": "一汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "一汽 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "faw",
-    "en": "FAW",
-    "zh": "一汽"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 363,
-    "new_items": 112,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:deeproute:zh",
-   "kind": "gnews",
-   "name": "元戎启行 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "元戎启行 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "deeproute",
-    "en": "DeepRoute.ai",
-    "zh": "元戎启行"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 72,
-    "new_items": 15,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:changan:zh",
-   "kind": "gnews",
-   "name": "长安 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "长安 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "changan",
-    "en": "Changan",
-    "zh": "长安"
-   },
-   "status": "active",
-   "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 721,
-    "new_items": 220,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:gwm:zh",
-   "kind": "gnews",
-   "name": "长城 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "长城 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "gwm",
-    "en": "Great Wall Motor",
-    "zh": "长城"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 456,
-    "new_items": 143,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:zhuoyu:zh",
-   "kind": "gnews",
-   "name": "卓驭 海外 OR 出口 OR 出海 OR 海外市场",
-   "url": null,
-   "query": "卓驭 海外 OR 出口 OR 出海 OR 海外市场",
-   "lang": "zh",
-   "company": {
-    "id": "zhuoyu",
-    "en": "Zhuoyu (DJI Automotive)",
-    "zh": "卓驭"
-   },
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 0.65,
-    "items": 24,
-    "new_items": 5,
-    "last_ok": "2026-10-28T06:11:03.453Z"
    }
   },
   {
@@ -1086,11 +582,515 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 120,
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 125,
     "new_items": 32,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:faw:zh",
+   "kind": "gnews",
+   "name": "一汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "一汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "faw",
+    "en": "FAW",
+    "zh": "一汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 377,
+    "new_items": 113,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:saic:zh",
+   "kind": "gnews",
+   "name": "上汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "上汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 422,
+    "new_items": 143,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:dongfeng:zh",
+   "kind": "gnews",
+   "name": "东风 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "东风 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 486,
+    "new_items": 126,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:deeproute:zh",
+   "kind": "gnews",
+   "name": "元戎启行 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "元戎启行 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "deeproute",
+    "en": "DeepRoute.ai",
+    "zh": "元戎启行"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 75,
+    "new_items": 17,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:baic:zh",
+   "kind": "gnews",
+   "name": "北汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "北汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 430,
+    "new_items": 121,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:huawei_ads:zh",
+   "kind": "gnews",
+   "name": "华为乾崑 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "华为乾崑 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "huawei_ads",
+    "en": "Huawei Qiankun ADS",
+    "zh": "华为乾崑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 714,
+    "new_items": 217,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:zhuoyu:zh",
+   "kind": "gnews",
+   "name": "卓驭 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "卓驭 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "zhuoyu",
+    "en": "Zhuoyu (DJI Automotive)",
+    "zh": "卓驭"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 0.67,
+    "items": 26,
+    "new_items": 5,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:geely:zh",
+   "kind": "gnews",
+   "name": "吉利 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "吉利 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 663,
+    "new_items": 170,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:horizon:zh",
+   "kind": "gnews",
+   "name": "地平线 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "地平线 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "horizon",
+    "en": "Horizon Robotics",
+    "zh": "地平线"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 84,
+    "new_items": 18,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:chery:zh",
+   "kind": "gnews",
+   "name": "奇瑞 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "奇瑞 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 735,
+    "new_items": 168,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:xiaomi:zh",
+   "kind": "gnews",
+   "name": "小米汽车 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "小米汽车 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "xiaomi",
+    "en": "Xiaomi EV",
+    "zh": "小米汽车"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 564,
+    "new_items": 150,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:pony:zh",
+   "kind": "gnews",
+   "name": "小马智行 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "小马智行 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "pony",
+    "en": "Pony.ai",
+    "zh": "小马智行"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 164,
+    "new_items": 42,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:xpeng:zh",
+   "kind": "gnews",
+   "name": "小鹏 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "小鹏 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "xpeng",
+    "en": "XPeng",
+    "zh": "小鹏"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 406,
+    "new_items": 116,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:gac:zh",
+   "kind": "gnews",
+   "name": "广汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "广汽 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 368,
+    "new_items": 99,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:weride:zh",
+   "kind": "gnews",
+   "name": "文远知行 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "文远知行 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "weride",
+    "en": "WeRide",
+    "zh": "文远知行"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 117,
+    "new_items": 33,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:byd:zh",
+   "kind": "gnews",
+   "name": "比亚迪 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "比亚迪 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "byd",
+    "en": "BYD",
+    "zh": "比亚迪"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 688,
+    "new_items": 177,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:liauto:zh",
+   "kind": "gnews",
+   "name": "理想 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "理想 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "liauto",
+    "en": "Li Auto",
+    "zh": "理想"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 395,
+    "new_items": 126,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:hesai:zh",
+   "kind": "gnews",
+   "name": "禾赛 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "禾赛 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "hesai",
+    "en": "Hesai",
+    "zh": "禾赛"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 110,
+    "new_items": 27,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:apollo:zh",
+   "kind": "gnews",
+   "name": "萝卜快跑 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "萝卜快跑 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "apollo",
+    "en": "Baidu Apollo Go",
+    "zh": "萝卜快跑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 57,
+    "new_items": 12,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:nio:zh",
+   "kind": "gnews",
+   "name": "蔚来 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "蔚来 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "nio",
+    "en": "NIO",
+    "zh": "蔚来"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 545,
+    "new_items": 186,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:robosense:zh",
+   "kind": "gnews",
+   "name": "速腾聚创 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "速腾聚创 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "robosense",
+    "en": "RoboSense",
+    "zh": "速腾聚创"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 56,
+    "new_items": 15,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:gwm:zh",
+   "kind": "gnews",
+   "name": "长城 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "长城 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 468,
+    "new_items": 147,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:changan:zh",
+   "kind": "gnews",
+   "name": "长安 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "长安 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 757,
+    "new_items": 226,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:leapmotor:zh",
+   "kind": "gnews",
+   "name": "零跑 海外 OR 出口 OR 出海 OR 海外市场",
+   "url": null,
+   "query": "零跑 海外 OR 出口 OR 出海 OR 海外市场",
+   "lang": "zh",
+   "company": {
+    "id": "leapmotor",
+    "en": "Leapmotor",
+    "zh": "零跑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 627,
+    "new_items": 155,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1103,11 +1103,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 14,
     "ok_rate": 1,
-    "items": 149,
+    "items": 165,
     "new_items": 33,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1120,147 +1120,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 14,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
     "last_ok": null
-   }
-  },
-  {
-   "id": "gn:av:content:zh",
-   "kind": "gnews_event",
-   "name": "车机 QQ音乐 OR 网易云音乐 OR 喜马拉雅 OR 爱奇艺 OR 抖音",
-   "url": null,
-   "query": "车机 QQ音乐 OR 网易云音乐 OR 喜马拉雅 OR 爱奇艺 OR 抖音",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 87,
-    "new_items": 27,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:av:audio:zh",
-   "kind": "gnews_event",
-   "name": "车载音响 OR 座舱音响 OR 头枕音响 -十大 -排行榜",
-   "url": null,
-   "query": "车载音响 OR 座舱音响 OR 头枕音响 -十大 -排行榜",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 133,
-    "new_items": 43,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:av:dolby:zh",
-   "kind": "gnews_event",
-   "name": "杜比全景声 汽车 OR 车型 OR 座舱",
-   "url": null,
-   "query": "杜比全景声 汽车 OR 车型 OR 座舱",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 305,
-    "new_items": 91,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:av:os:zh",
-   "kind": "gnews_event",
-   "name": "鸿蒙座舱 OR \"Flyme Auto\" OR 车机系统 OR 座舱大模型",
-   "url": null,
-   "query": "鸿蒙座舱 OR \"Flyme Auto\" OR 车机系统 OR 座舱大模型",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 584,
-    "new_items": 182,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:av:supplier:zh",
-   "kind": "gnews_event",
-   "name": "上声电子 OR 哈曼 OR 德赛西威 OR 华阳集团 座舱 OR 音响",
-   "url": null,
-   "query": "上声电子 OR 哈曼 OR 德赛西威 OR 华阳集团 座舱 OR 音响",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 165,
-    "new_items": 49,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:av:screen:zh",
-   "kind": "gnews_event",
-   "name": "智能座舱 屏幕 OR 后排屏 OR 吸顶屏 OR HUD",
-   "url": null,
-   "query": "智能座舱 屏幕 OR 后排屏 OR 吸顶屏 OR HUD",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 687,
-    "new_items": 218,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:event:zh",
-   "kind": "gnews_event",
-   "name": "中国车企 出海 建厂 OR 出口",
-   "url": null,
-   "query": "中国车企 出海 建厂 OR 出口",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 17,
-    "ok_rate": 1,
-    "items": 541,
-    "new_items": 161,
-    "last_ok": "2026-10-28T06:11:03.453Z"
-   }
-  },
-  {
-   "id": "gn:av:chip:zh",
-   "kind": "gnews_event",
-   "name": "座舱芯片 OR 骁龙座舱 OR 8295 OR 8775 OR 芯驰",
-   "url": null,
-   "query": "座舱芯片 OR 骁龙座舱 OR 8295 OR 8775 OR 芯驰",
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 13,
-    "ok_rate": 1,
-    "items": 472,
-    "new_items": 130,
-    "last_ok": "2026-10-28T06:11:03.453Z"
    }
   },
   {
@@ -1273,11 +1137,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 122,
-    "new_items": 28,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 130,
+    "new_items": 29,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1290,11 +1154,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 14,
     "ok_rate": 1,
-    "items": 81,
+    "items": 86,
     "new_items": 19,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1307,11 +1171,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 183,
-    "new_items": 40,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 189,
+    "new_items": 41,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1324,11 +1188,147 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 14,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
     "last_ok": null
+   }
+  },
+  {
+   "id": "gn:av:supplier:zh",
+   "kind": "gnews_event",
+   "name": "上声电子 OR 哈曼 OR 德赛西威 OR 华阳集团 座舱 OR 音响",
+   "url": null,
+   "query": "上声电子 OR 哈曼 OR 德赛西威 OR 华阳集团 座舱 OR 音响",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 173,
+    "new_items": 51,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:event:zh",
+   "kind": "gnews_event",
+   "name": "中国车企 出海 建厂 OR 出口",
+   "url": null,
+   "query": "中国车企 出海 建厂 OR 出口",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 18,
+    "ok_rate": 1,
+    "items": 585,
+    "new_items": 169,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:av:chip:zh",
+   "kind": "gnews_event",
+   "name": "座舱芯片 OR 骁龙座舱 OR 8295 OR 8775 OR 芯驰",
+   "url": null,
+   "query": "座舱芯片 OR 骁龙座舱 OR 8295 OR 8775 OR 芯驰",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 520,
+    "new_items": 146,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:av:screen:zh",
+   "kind": "gnews_event",
+   "name": "智能座舱 屏幕 OR 后排屏 OR 吸顶屏 OR HUD",
+   "url": null,
+   "query": "智能座舱 屏幕 OR 后排屏 OR 吸顶屏 OR HUD",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 738,
+    "new_items": 235,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:av:dolby:zh",
+   "kind": "gnews_event",
+   "name": "杜比全景声 汽车 OR 车型 OR 座舱",
+   "url": null,
+   "query": "杜比全景声 汽车 OR 车型 OR 座舱",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 334,
+    "new_items": 103,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:av:content:zh",
+   "kind": "gnews_event",
+   "name": "车机 QQ音乐 OR 网易云音乐 OR 喜马拉雅 OR 爱奇艺 OR 抖音",
+   "url": null,
+   "query": "车机 QQ音乐 OR 网易云音乐 OR 喜马拉雅 OR 爱奇艺 OR 抖音",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 98,
+    "new_items": 28,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:av:audio:zh",
+   "kind": "gnews_event",
+   "name": "车载音响 OR 座舱音响 OR 头枕音响 -十大 -排行榜",
+   "url": null,
+   "query": "车载音响 OR 座舱音响 OR 头枕音响 -十大 -排行榜",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 145,
+    "new_items": 43,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "gn:av:os:zh",
+   "kind": "gnews_event",
+   "name": "鸿蒙座舱 OR \"Flyme Auto\" OR 车机系统 OR 座舱大模型",
+   "url": null,
+   "query": "鸿蒙座舱 OR \"Flyme Auto\" OR 车机系统 OR 座舱大模型",
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 14,
+    "ok_rate": 1,
+    "items": 605,
+    "new_items": 184,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1341,11 +1341,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 17,
+    "runs": 18,
     "ok_rate": 1,
-    "items": 502,
-    "new_items": 95,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 548,
+    "new_items": 96,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1358,11 +1358,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 18,
-    "ok_rate": 0.94,
-    "items": 1229,
-    "new_items": 317,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "runs": 19,
+    "ok_rate": 0.95,
+    "items": 1329,
+    "new_items": 339,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1379,11 +1379,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 4,
+    "runs": 5,
     "ok_rate": 1,
-    "items": 63,
-    "new_items": 18,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 82,
+    "new_items": 22,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1413,11 +1413,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 13,
     "ok_rate": 1,
-    "items": 240,
-    "new_items": 46,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 260,
+    "new_items": 51,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1430,11 +1430,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 13,
     "ok_rate": 0.92,
-    "items": 154,
+    "items": 168,
     "new_items": 14,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1447,11 +1447,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 13,
     "ok_rate": 1,
-    "items": 120,
-    "new_items": 14,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "items": 130,
+    "new_items": 15,
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1464,11 +1464,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 13,
     "ok_rate": 1,
-    "items": 108,
+    "items": 117,
     "new_items": 11,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1481,11 +1481,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 13,
     "ok_rate": 1,
-    "items": 144,
+    "items": 156,
     "new_items": 13,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -1498,11 +1498,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 13,
     "ok_rate": 1,
-    "items": 108,
+    "items": 117,
     "new_items": 9,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -2110,11 +2110,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
-    "ok_rate": 0.25,
-    "items": 60,
+    "runs": 13,
+    "ok_rate": 0.31,
+    "items": 80,
     "new_items": 20,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
    }
   },
   {
@@ -2314,11 +2314,331 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.93,
-    "items": 140,
+    "runs": 16,
+    "ok_rate": 0.94,
+    "items": 150,
     "new_items": 12,
-    "last_ok": "2026-10-28T06:11:03.453Z"
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:byd",
+   "kind": "tavily",
+   "name": "BYD Europe OR BYD overseas dealer launch",
+   "url": null,
+   "query": "BYD Europe OR BYD overseas dealer launch",
+   "lang": "en",
+   "company": {
+    "id": "byd",
+    "en": "BYD",
+    "zh": "比亚迪"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:changan",
+   "kind": "tavily",
+   "name": "Changan International OR Deepal Europe launch",
+   "url": null,
+   "query": "Changan International OR Deepal Europe launch",
+   "lang": "en",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:chery",
+   "kind": "tavily",
+   "name": "Chery International OR Omoda Jaecoo launch market",
+   "url": null,
+   "query": "Chery International OR Omoda Jaecoo launch market",
+   "lang": "en",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:plant",
+   "kind": "tavily",
+   "name": "Chinese automaker overseas plant factory localisation",
+   "url": null,
+   "query": "Chinese automaker overseas plant factory localisation",
+   "lang": "en",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:dealer",
+   "kind": "tavily",
+   "name": "Chinese car brand dealer appointment distributor",
+   "url": null,
+   "query": "Chinese car brand dealer appointment distributor",
+   "lang": "en",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:dongfeng",
+   "kind": "tavily",
+   "name": "Dongfeng OR Voyah Europe launch",
+   "url": null,
+   "query": "Dongfeng OR Voyah Europe launch",
+   "lang": "en",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:gac",
+   "kind": "tavily",
+   "name": "GAC International OR Aion overseas",
+   "url": null,
+   "query": "GAC International OR Aion overseas",
+   "lang": "en",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:geely",
+   "kind": "tavily",
+   "name": "Geely Auto International OR Zeekr Europe OR Lynk & Co",
+   "url": null,
+   "query": "Geely Auto International OR Zeekr Europe OR Lynk & Co",
+   "lang": "en",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:gwm",
+   "kind": "tavily",
+   "name": "GWM International OR Haval overseas launch",
+   "url": null,
+   "query": "GWM International OR Haval overseas launch",
+   "lang": "en",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 2,
+    "new_items": 2,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:jetour",
+   "kind": "tavily",
+   "name": "Jetour OR Exeed international market",
+   "url": null,
+   "query": "Jetour OR Exeed international market",
+   "lang": "en",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:leapmotor",
+   "kind": "tavily",
+   "name": "Leapmotor International Stellantis",
+   "url": null,
+   "query": "Leapmotor International Stellantis",
+   "lang": "en",
+   "company": {
+    "id": "leapmotor",
+    "en": "Leapmotor",
+    "zh": "零跑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:saic-mg",
+   "kind": "tavily",
+   "name": "MG Motor Europe OR MG Motor UK SAIC",
+   "url": null,
+   "query": "MG Motor Europe OR MG Motor UK SAIC",
+   "lang": "en",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 8,
+    "new_items": 8,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:nio",
+   "kind": "tavily",
+   "name": "NIO Europe OR NIO international",
+   "url": null,
+   "query": "NIO Europe OR NIO international",
+   "lang": "en",
+   "company": {
+    "id": "nio",
+    "en": "NIO",
+    "zh": "蔚来"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 4,
+    "new_items": 4,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "li:xpeng",
+   "kind": "tavily",
+   "name": "XPeng international expansion OR XPeng Europe",
+   "url": null,
+   "query": "XPeng international expansion OR XPeng Europe",
+   "lang": "en",
+   "company": {
+    "id": "xpeng",
+    "en": "XPeng",
+    "zh": "小鹏"
+   },
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 1,
+    "items": 10,
+    "new_items": 10,
+    "last_ok": "2026-10-28T09:47:17.933Z"
+   }
+  },
+  {
+   "id": "wx:caam",
+   "kind": "wechat",
+   "name": "中国汽车工业协会",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 0,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:caam-stats",
+   "kind": "wechat",
+   "name": "中汽协会数据",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 1,
+    "ok_rate": 0,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
    }
   },
   {
@@ -2359,40 +2679,6 @@
    "id": "wx:cui-dongshu",
    "kind": "wechat",
    "name": "崔东树",
-   "url": null,
-   "query": null,
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 1,
-    "ok_rate": 0,
-    "items": 0,
-    "new_items": 0,
-    "last_ok": null
-   }
-  },
-  {
-   "id": "wx:caam",
-   "kind": "wechat",
-   "name": "中国汽车工业协会",
-   "url": null,
-   "query": null,
-   "lang": "zh",
-   "company": null,
-   "status": "active",
-   "health": {
-    "runs": 1,
-    "ok_rate": 0,
-    "items": 0,
-    "new_items": 0,
-    "last_ok": null
-   }
-  },
-  {
-   "id": "wx:caam-stats",
-   "kind": "wechat",
-   "name": "中汽协会数据",
    "url": null,
    "query": null,
    "lang": "zh",
@@ -3109,6 +3395,11 @@
    "label": "自媒体"
   },
   {
+   "domain": "linkedin.com",
+   "tier": 4,
+   "label": "社交平台"
+  },
+  {
    "domain": "toutiao.com",
    "tier": 4,
    "label": "自媒体"
@@ -3130,412 +3421,6 @@
   }
  ],
  "keywords": [
-  {
-   "term": "阿维塔",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "changan",
-   "weight": 0
-  },
-  {
-   "term": "埃安",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gac",
-   "weight": 0
-  },
-  {
-   "term": "百度Apollo",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "apollo",
-   "weight": 0
-  },
-  {
-   "term": "北汽",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "baic",
-   "weight": 0
-  },
-  {
-   "term": "奔腾",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "faw",
-   "weight": 0
-  },
-  {
-   "term": "比亚迪",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "byd",
-   "weight": 0
-  },
-  {
-   "term": "传祺",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gac",
-   "weight": 0
-  },
-  {
-   "term": "大疆车载",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "zhuoyu",
-   "weight": 0
-  },
-  {
-   "term": "地平线",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "horizon",
-   "weight": 0
-  },
-  {
-   "term": "东风",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "dongfeng",
-   "weight": 0
-  },
-  {
-   "term": "东风风行",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "dongfeng",
-   "weight": 0
-  },
-  {
-   "term": "方程豹",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "byd",
-   "weight": 0
-  },
-  {
-   "term": "广汽",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gac",
-   "weight": 0
-  },
-  {
-   "term": "哈弗",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gwm",
-   "weight": 0
-  },
-  {
-   "term": "昊铂",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gac",
-   "weight": 0
-  },
-  {
-   "term": "禾赛",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "hesai",
-   "weight": 0
-  },
-  {
-   "term": "红旗",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "faw",
-   "weight": 0
-  },
-  {
-   "term": "鸿蒙智行",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "huawei_ads",
-   "weight": 0
-  },
-  {
-   "term": "华为乾崑",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "huawei_ads",
-   "weight": 0
-  },
-  {
-   "term": "吉利",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "geely",
-   "weight": 0
-  },
-  {
-   "term": "极狐",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "baic",
-   "weight": 0
-  },
-  {
-   "term": "极氪",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "geely",
-   "weight": 0
-  },
-  {
-   "term": "捷途",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "chery",
-   "weight": 0
-  },
-  {
-   "term": "岚图",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "dongfeng",
-   "weight": 0
-  },
-  {
-   "term": "乐道",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "nio",
-   "weight": 0
-  },
-  {
-   "term": "理想",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "liauto",
-   "weight": 0
-  },
-  {
-   "term": "理想汽车",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "liauto",
-   "weight": 0
-  },
-  {
-   "term": "零跑",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "leapmotor",
-   "weight": 0
-  },
-  {
-   "term": "零跑汽车",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "leapmotor",
-   "weight": 0
-  },
-  {
-   "term": "领克",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "geely",
-   "weight": 0
-  },
-  {
-   "term": "萝卜快跑",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "apollo",
-   "weight": 0
-  },
-  {
-   "term": "猛士",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "dongfeng",
-   "weight": 0
-  },
-  {
-   "term": "魔门塔",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "momenta",
-   "weight": 0
-  },
-  {
-   "term": "欧拉",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gwm",
-   "weight": 0
-  },
-  {
-   "term": "奇瑞",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "chery",
-   "weight": 0
-  },
-  {
-   "term": "上汽",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "saic",
-   "weight": 0
-  },
-  {
-   "term": "上汽名爵",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "saic",
-   "weight": 0
-  },
-  {
-   "term": "上汽通用五菱",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "saic",
-   "weight": 0
-  },
-  {
-   "term": "深蓝",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "changan",
-   "weight": 0
-  },
-  {
-   "term": "速腾聚创",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "robosense",
-   "weight": 0
-  },
-  {
-   "term": "坦克",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gwm",
-   "weight": 0
-  },
-  {
-   "term": "腾势",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "byd",
-   "weight": 0
-  },
-  {
-   "term": "蔚来",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "nio",
-   "weight": 0
-  },
-  {
-   "term": "文远知行",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "weride",
-   "weight": 0
-  },
-  {
-   "term": "享界",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "baic",
-   "weight": 0
-  },
-  {
-   "term": "小马智行",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "pony",
-   "weight": 0
-  },
-  {
-   "term": "小米汽车",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "xiaomi",
-   "weight": 0
-  },
-  {
-   "term": "小鹏",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "xpeng",
-   "weight": 0
-  },
-  {
-   "term": "小鹏汽车",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "xpeng",
-   "weight": 0
-  },
-  {
-   "term": "星途",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "chery",
-   "weight": 0
-  },
-  {
-   "term": "仰望",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "byd",
-   "weight": 0
-  },
-  {
-   "term": "一汽",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "faw",
-   "weight": 0
-  },
-  {
-   "term": "萤火虫",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "nio",
-   "weight": 0
-  },
-  {
-   "term": "元戎启行",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "deeproute",
-   "weight": 0
-  },
-  {
-   "term": "长安",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "changan",
-   "weight": 0
-  },
-  {
-   "term": "长城",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "gwm",
-   "weight": 0
-  },
-  {
-   "term": "征程",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "horizon",
-   "weight": 0
-  },
-  {
-   "term": "卓驭",
-   "kind": "alias",
-   "lang": "zh",
-   "company_id": "zhuoyu",
-   "weight": 0
-  },
   {
    "term": "Aion",
    "kind": "alias",
@@ -4097,6 +3982,412 @@
    "weight": 0
   },
   {
+   "term": "一汽",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "faw",
+   "weight": 0
+  },
+  {
+   "term": "上汽",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "saic",
+   "weight": 0
+  },
+  {
+   "term": "上汽名爵",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "saic",
+   "weight": 0
+  },
+  {
+   "term": "上汽通用五菱",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "saic",
+   "weight": 0
+  },
+  {
+   "term": "东风",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "dongfeng",
+   "weight": 0
+  },
+  {
+   "term": "东风风行",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "dongfeng",
+   "weight": 0
+  },
+  {
+   "term": "乐道",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "nio",
+   "weight": 0
+  },
+  {
+   "term": "享界",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "baic",
+   "weight": 0
+  },
+  {
+   "term": "仰望",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "byd",
+   "weight": 0
+  },
+  {
+   "term": "传祺",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gac",
+   "weight": 0
+  },
+  {
+   "term": "元戎启行",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "deeproute",
+   "weight": 0
+  },
+  {
+   "term": "北汽",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "baic",
+   "weight": 0
+  },
+  {
+   "term": "华为乾崑",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "huawei_ads",
+   "weight": 0
+  },
+  {
+   "term": "卓驭",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "zhuoyu",
+   "weight": 0
+  },
+  {
+   "term": "吉利",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "geely",
+   "weight": 0
+  },
+  {
+   "term": "哈弗",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gwm",
+   "weight": 0
+  },
+  {
+   "term": "地平线",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "horizon",
+   "weight": 0
+  },
+  {
+   "term": "坦克",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gwm",
+   "weight": 0
+  },
+  {
+   "term": "埃安",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gac",
+   "weight": 0
+  },
+  {
+   "term": "大疆车载",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "zhuoyu",
+   "weight": 0
+  },
+  {
+   "term": "奇瑞",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "chery",
+   "weight": 0
+  },
+  {
+   "term": "奔腾",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "faw",
+   "weight": 0
+  },
+  {
+   "term": "小米汽车",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "xiaomi",
+   "weight": 0
+  },
+  {
+   "term": "小马智行",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "pony",
+   "weight": 0
+  },
+  {
+   "term": "小鹏",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "xpeng",
+   "weight": 0
+  },
+  {
+   "term": "小鹏汽车",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "xpeng",
+   "weight": 0
+  },
+  {
+   "term": "岚图",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "dongfeng",
+   "weight": 0
+  },
+  {
+   "term": "广汽",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gac",
+   "weight": 0
+  },
+  {
+   "term": "征程",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "horizon",
+   "weight": 0
+  },
+  {
+   "term": "捷途",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "chery",
+   "weight": 0
+  },
+  {
+   "term": "文远知行",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "weride",
+   "weight": 0
+  },
+  {
+   "term": "方程豹",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "byd",
+   "weight": 0
+  },
+  {
+   "term": "昊铂",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gac",
+   "weight": 0
+  },
+  {
+   "term": "星途",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "chery",
+   "weight": 0
+  },
+  {
+   "term": "极氪",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "geely",
+   "weight": 0
+  },
+  {
+   "term": "极狐",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "baic",
+   "weight": 0
+  },
+  {
+   "term": "欧拉",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gwm",
+   "weight": 0
+  },
+  {
+   "term": "比亚迪",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "byd",
+   "weight": 0
+  },
+  {
+   "term": "深蓝",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "changan",
+   "weight": 0
+  },
+  {
+   "term": "猛士",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "dongfeng",
+   "weight": 0
+  },
+  {
+   "term": "理想",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "liauto",
+   "weight": 0
+  },
+  {
+   "term": "理想汽车",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "liauto",
+   "weight": 0
+  },
+  {
+   "term": "百度Apollo",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "apollo",
+   "weight": 0
+  },
+  {
+   "term": "禾赛",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "hesai",
+   "weight": 0
+  },
+  {
+   "term": "红旗",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "faw",
+   "weight": 0
+  },
+  {
+   "term": "腾势",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "byd",
+   "weight": 0
+  },
+  {
+   "term": "萝卜快跑",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "apollo",
+   "weight": 0
+  },
+  {
+   "term": "萤火虫",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "nio",
+   "weight": 0
+  },
+  {
+   "term": "蔚来",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "nio",
+   "weight": 0
+  },
+  {
+   "term": "速腾聚创",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "robosense",
+   "weight": 0
+  },
+  {
+   "term": "长城",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "gwm",
+   "weight": 0
+  },
+  {
+   "term": "长安",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "changan",
+   "weight": 0
+  },
+  {
+   "term": "阿维塔",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "changan",
+   "weight": 0
+  },
+  {
+   "term": "零跑",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "leapmotor",
+   "weight": 0
+  },
+  {
+   "term": "零跑汽车",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "leapmotor",
+   "weight": 0
+  },
+  {
+   "term": "领克",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "geely",
+   "weight": 0
+  },
+  {
+   "term": "魔门塔",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "momenta",
+   "weight": 0
+  },
+  {
+   "term": "鸿蒙智行",
+   "kind": "alias",
+   "lang": "zh",
+   "company_id": "huawei_ads",
+   "weight": 0
+  },
+  {
    "term": "7.1.4",
    "kind": "av_topic",
    "lang": "en",
@@ -4116,377 +4407,6 @@
    "lang": "en",
    "company_id": null,
    "weight": 1
-  },
-  {
-   "term": "爱奇艺",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "柏林之声",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "博泰",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "车机",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "车机系统",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载大模型",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载功放",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载屏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载声学",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载显示",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载扬声器",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载音频",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载音响",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载影音",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载游戏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载娱乐",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载K歌",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "车载KTV",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "大屏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "丹拿",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "德赛西威",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "抖音",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "杜比",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "副驾屏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "哈曼",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "鸿蒙",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "鸿蒙座舱",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "后排屏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "华阳集团",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "喇叭",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "屏幕",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "汽车音响",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "全景声",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "上声电子",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "声学",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "腾讯视频",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "头枕音响",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "网易云音乐",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "吸顶屏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "喜马拉雅",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "骁龙座舱",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "芯驰",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "扬声器",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "亿咖通",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "音频",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "音响",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "音效",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "智能座舱",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "中科创达",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "中控屏",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "座舱",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "座舱芯片",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
-  },
-  {
-   "term": "座舱音响",
-   "kind": "av_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 2
   },
   {
    "term": "Android Auto",
@@ -4790,175 +4710,378 @@
    "weight": 2
   },
   {
+   "term": "上声电子",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "中控屏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "中科创达",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "丹拿",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "亿咖通",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "全景声",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "副驾屏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "华阳集团",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "博泰",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "后排屏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "吸顶屏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "哈曼",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "喇叭",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "喜马拉雅",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "声学",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "大屏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "头枕音响",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "屏幕",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "座舱",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "座舱芯片",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "座舱音响",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "德赛西威",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "扬声器",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "抖音",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "智能座舱",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "杜比",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "柏林之声",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "汽车音响",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "爱奇艺",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "网易云音乐",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "腾讯视频",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "芯驰",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "车机",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "车机系统",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载KTV",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载K歌",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载功放",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载声学",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载大模型",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载娱乐",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载屏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载影音",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载扬声器",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载显示",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载游戏",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载音响",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "车载音频",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "音响",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "音效",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "音频",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "骁龙座舱",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
+   "term": "鸿蒙",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "鸿蒙座舱",
+   "kind": "av_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 2
+  },
+  {
    "term": "【视频】",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "车主",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "档次",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "跌停",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "改装",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "股价",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "横评",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "降价",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "哪个好",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "哪家强",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "排名",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "排行榜",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "盘点",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "评测",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "十大",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "视频",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "试驾",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "提车",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "推荐",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "限时",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "选购",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "优惠",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "怎么选",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "涨停",
-   "kind": "noise",
-   "lang": "zh",
-   "company_id": null,
-   "weight": -1
-  },
-  {
-   "term": "值不值",
    "kind": "noise",
    "lang": "zh",
    "company_id": null,
@@ -5007,256 +5130,172 @@
    "weight": -1
   },
   {
-   "term": "阿联酋",
-   "kind": "overseas",
+   "term": "优惠",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "澳大利亚",
-   "kind": "overseas",
+   "term": "值不值",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "澳洲",
-   "kind": "overseas",
+   "term": "十大",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "巴西",
-   "kind": "overseas",
+   "term": "哪个好",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "出海",
-   "kind": "overseas",
+   "term": "哪家强",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "出口",
-   "kind": "overseas",
+   "term": "怎么选",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "德国",
-   "kind": "overseas",
+   "term": "排名",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "东南亚",
-   "kind": "overseas",
+   "term": "排行榜",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "俄罗斯",
-   "kind": "overseas",
+   "term": "推荐",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "法国",
-   "kind": "overseas",
+   "term": "提车",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "非洲",
-   "kind": "overseas",
+   "term": "改装",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "关税",
-   "kind": "overseas",
+   "term": "档次",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "国际化",
-   "kind": "overseas",
+   "term": "横评",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "海外",
-   "kind": "overseas",
+   "term": "涨停",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "韩国",
-   "kind": "overseas",
+   "term": "盘点",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "建厂",
-   "kind": "overseas",
+   "term": "视频",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "拉美",
-   "kind": "overseas",
+   "term": "股价",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "马来西亚",
-   "kind": "overseas",
+   "term": "评测",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "墨西哥",
-   "kind": "overseas",
+   "term": "试驾",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "南美",
-   "kind": "overseas",
+   "term": "跌停",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "欧盟",
-   "kind": "overseas",
+   "term": "车主",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "欧洲",
-   "kind": "overseas",
+   "term": "选购",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "全球化",
-   "kind": "overseas",
+   "term": "降价",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
-   "term": "日本",
-   "kind": "overseas",
+   "term": "限时",
+   "kind": "noise",
    "lang": "zh",
    "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "沙特",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "泰国",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "土耳其",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "西班牙",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "匈牙利",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "以色列",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "意大利",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "印度",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "印尼",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "英国",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "越南",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
-  },
-  {
-   "term": "中东",
-   "kind": "overseas",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 1
+   "weight": -1
   },
   {
    "term": "abroad",
@@ -5539,123 +5578,256 @@
    "weight": 1
   },
   {
-   "term": "出口管制",
-   "kind": "policy_action",
+   "term": "东南亚",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "调查",
-   "kind": "policy_action",
+   "term": "中东",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "法规",
-   "kind": "policy_action",
+   "term": "以色列",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "反补贴",
-   "kind": "policy_action",
+   "term": "俄罗斯",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "反倾销",
-   "kind": "policy_action",
+   "term": "全球化",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
    "term": "关税",
-   "kind": "policy_action",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "管制",
-   "kind": "policy_action",
+   "term": "出口",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "规则",
-   "kind": "policy_action",
+   "term": "出海",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "价格承诺",
-   "kind": "policy_action",
+   "term": "匈牙利",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "禁令",
-   "kind": "policy_action",
+   "term": "南美",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "禁止",
-   "kind": "policy_action",
+   "term": "印尼",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "贸易救济",
-   "kind": "policy_action",
+   "term": "印度",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "牌照",
-   "kind": "policy_action",
+   "term": "国际化",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "审批",
-   "kind": "policy_action",
+   "term": "土耳其",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "限制",
-   "kind": "policy_action",
+   "term": "巴西",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "许可",
-   "kind": "policy_action",
+   "term": "建厂",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
   },
   {
-   "term": "制裁",
-   "kind": "policy_action",
+   "term": "德国",
+   "kind": "overseas",
    "lang": "zh",
    "company_id": null,
-   "weight": 0
+   "weight": 1
+  },
+  {
+   "term": "意大利",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "拉美",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "日本",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "欧洲",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "欧盟",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "沙特",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "法国",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "泰国",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "海外",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "澳大利亚",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "澳洲",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "英国",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "西班牙",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "越南",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "阿联酋",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "非洲",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "韩国",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "马来西亚",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
+  },
+  {
+   "term": "墨西哥",
+   "kind": "overseas",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 1
   },
   {
    "term": "anti-dumping",
@@ -5854,29 +6026,120 @@
    "weight": 0
   },
   {
-   "term": "对华",
-   "kind": "policy_china",
+   "term": "价格承诺",
+   "kind": "policy_action",
    "lang": "zh",
    "company_id": null,
    "weight": 0
   },
   {
-   "term": "中方",
-   "kind": "policy_china",
+   "term": "关税",
+   "kind": "policy_action",
    "lang": "zh",
    "company_id": null,
    "weight": 0
   },
   {
-   "term": "中国",
-   "kind": "policy_china",
+   "term": "出口管制",
+   "kind": "policy_action",
    "lang": "zh",
    "company_id": null,
    "weight": 0
   },
   {
-   "term": "中资",
-   "kind": "policy_china",
+   "term": "制裁",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "反倾销",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "反补贴",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "审批",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "法规",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "牌照",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "禁令",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "禁止",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "管制",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "规则",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "许可",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "调查",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "贸易救济",
+   "kind": "policy_action",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "限制",
+   "kind": "policy_action",
    "lang": "zh",
    "company_id": null,
    "weight": 0
@@ -5910,78 +6173,29 @@
    "weight": 0
   },
   {
-   "term": "车企",
-   "kind": "policy_topic",
+   "term": "中国",
+   "kind": "policy_china",
    "lang": "zh",
    "company_id": null,
    "weight": 0
   },
   {
-   "term": "乘用车",
-   "kind": "policy_topic",
+   "term": "中方",
+   "kind": "policy_china",
    "lang": "zh",
    "company_id": null,
    "weight": 0
   },
   {
-   "term": "电动车",
-   "kind": "policy_topic",
+   "term": "中资",
+   "kind": "policy_china",
    "lang": "zh",
    "company_id": null,
    "weight": 0
   },
   {
-   "term": "电动汽车",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "激光雷达",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "汽车",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "网联汽车",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "新能源车",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "新能源汽车",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "整车",
-   "kind": "policy_topic",
-   "lang": "zh",
-   "company_id": null,
-   "weight": 0
-  },
-  {
-   "term": "自动驾驶",
-   "kind": "policy_topic",
+   "term": "对华",
+   "kind": "policy_china",
    "lang": "zh",
    "company_id": null,
    "weight": 0
@@ -6151,6 +6365,83 @@
    "term": "vehicles",
    "kind": "policy_topic",
    "lang": "en",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "乘用车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "整车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "新能源汽车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "新能源车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "汽车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "激光雷达",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "电动汽车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "电动车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "网联汽车",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "自动驾驶",
+   "kind": "policy_topic",
+   "lang": "zh",
+   "company_id": null,
+   "weight": 0
+  },
+  {
+   "term": "车企",
+   "kind": "policy_topic",
+   "lang": "zh",
    "company_id": null,
    "weight": 0
   }
