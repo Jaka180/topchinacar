@@ -13,6 +13,7 @@ const { NAV, footerHTML } = require('./lib/site-chrome');
 const { articleEdition } = require('./lib/editions');
 const { briefingsMain } = require('./lib/briefings');
 const { writePlaceholderPages } = require('./lib/placeholders');
+const { modelExtraHTML, modelHeaderPrice, modelPricePlain } = require('./lib/models-extra');
 
 const ROOT = __dirname;
 const SITE = 'https://www.topchinacar.com';
@@ -858,6 +859,7 @@ ${FOOTER}
 <script src="/js/i18n.js?v=${BUILD_V}"></script>
 <script src="/js/articles-data.js?v=${BUILD_V}"></script>
 <script src="/js/pages.js?v=${BUILD_V}"></script>
+<script src="/js/models-filter.js?v=${BUILD_V}"></script>
 <script src="/js/app.js?v=${BUILD_V}"></script>
 </body>
 </html>
@@ -1487,6 +1489,14 @@ function modelMain(m, brand) {
   const siblings = SITE_DATA.models.filter(x => x.brand === m.brand && x.id !== m.id);
   const fact = (labelEn, labelZh, val) => `
     <div class="brand-fact"><span class="spec-label">${langSpan(labelEn, labelZh)}</span><span class="spec-value">${val}</span></div>`;
+  const headerPrice = modelHeaderPrice(m);
+  const priceDisclaimer = headerPrice.official
+    ? langSpan(
+        'The price in the header is the China official guide price. Overseas transaction prices can differ. Range, acceleration and the guide price can refer to different trims unless explicitly marked as a single configuration.',
+        '页眉价格是国内官方指导价，和海外成交价可能不同。除非明确标为同一配置，否则续航、加速与指导价可能对应不同配置。')
+    : langSpan(
+        'The price in the header is a reference price, not a verified official guide price. USD figures are approximate conversions of the local list price shown in brackets. Range, acceleration and pricing can refer to different trims unless explicitly marked as a single configuration.',
+        '页眉价格是参考价，不是已核实的官方指导价。美元价格为括号内当地标价的近似换算。除非明确标为同一配置，否则续航、加速与价格可能对应不同配置区间。');
   const visual = m.image
     ? `<div style="margin:0 0 32px;border-radius:12px;overflow:hidden;position:relative;"><img src="/${m.image}" alt="${m.brand} ${m.name}" style="width:100%;display:block;" />${m.imageCredit ? `<span class="img-credit">Photo: ${m.imageCredit}</span>` : ''}</div>`
     : '';
@@ -1504,15 +1514,14 @@ function modelMain(m, brand) {
       <div class="brand-facts" style="display:flex;gap:36px;flex-wrap:wrap;margin-bottom:36px;">
         ${fact('Range', '续航', m.range)}
         ${fact('0–100 km/h', '零百加速', m.accel)}
-        ${fact('From', '起价', `${m.price}${m.priceLocal ? ` <span style="font-size:12px;color:#9ca3af;font-weight:400;">(${m.priceLocal})</span>` : ''}`)}
+        ${fact(headerPrice.labelEn, headerPrice.labelZh, headerPrice.value)}
       </div>
       <div style="font-size:16px;line-height:1.8;color:#374151;">
         <p>${langSpan(modelBodyEn, modelBodyZh)}</p>
         ${specNote}
-        <p style="font-size:13px;color:#9ca3af;">${langSpan(
-          'USD figures are approximate conversions of the local list price shown in brackets. Range, acceleration and pricing can refer to different trims unless explicitly marked as a single configuration.',
-          '美元价格为括号内当地指导价的近似换算。除非明确标为同一配置，否则续航、加速与价格可能对应不同配置区间。')}</p>
+        <p style="font-size:13px;color:#9ca3af;">${priceDisclaimer}</p>
       </div>
+      ${modelExtraHTML(m)}
       ${siblings.length ? `
       <h2 style="font-size:22px;margin:40px 0 20px;">${langSpan('More ' + m.brand + ' models', m.brand + ' 其他车型')}</h2>
       <ul style="list-style:none;padding:0;margin:0;">
@@ -1564,16 +1573,17 @@ for (const m of SITE_DATA.models) {
   if (!m.id) continue;
   const brand = SITE_DATA.brands.find(b => b.name === m.brand);
   const main = modelMain(m, brand);
+  const pricePlain = modelPricePlain(m);
   const html = pageHTML(`/models/${m.id}`, {
     title: `${m.brand} ${m.name}: Specs, Range & Price | TopChinaCar`,
-    desc: `${m.brand} ${m.name} specs: ${m.range} range, ${m.accel} 0-100 km/h and ${m.price} reference price, with trim and export-market notes.`,
+    desc: `${m.brand} ${m.name} specs: ${m.range} range, ${m.accel} 0-100 km/h and ${pricePlain.en}, with trim and export-market notes.`,
     image: m.image,
     ogType: 'product'
   }, main).replace('</head>', modelJsonLd(m) + '\n</head>');
   fs.writeFileSync(path.join(MODELS_OUT, `${m.id}.html`), html);
   writeZh(`models/${m.id}.html`, zhChrome(pageHTML(`/models/${m.id}`, {
     title: `${m.brand} ${m.name} 参数、续航与价格 | TopChinaCar`,
-    desc: `${m.brand} ${m.name} 参数：续航 ${m.range}，零百加速 ${m.accel}，参考价 ${m.price}，并标注配置与出口市场口径。`,
+    desc: `${m.brand} ${m.name} 参数：续航 ${m.range}，零百加速 ${m.accel}，${pricePlain.zh}，并标注配置与出口市场口径。`,
     image: m.image,
     ogType: 'product'
   }, main, { zh: true }).replace('</head>', modelJsonLd(m, true) + '\n</head>')));

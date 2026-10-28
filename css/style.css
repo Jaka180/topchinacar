@@ -1431,6 +1431,11 @@ section { padding: clamp(64px, 8vw, 120px) 0; }
   background: rgba(255,255,255,0.16);
   color: rgba(255,255,255,0.85);
 }
+.models-filter-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
 .models-empty {
   padding: 80px 0;
   text-align: center;
@@ -1439,6 +1444,18 @@ section { padding: clamp(64px, 8vw, 120px) 0; }
   font-size: 13px;
   letter-spacing: 0.08em;
 }
+.model-extra { margin-top: 8px; }
+.model-extra h2 { font-size: 22px; margin: 36px 0 12px; }
+.model-extra-table { width: 100%; border-collapse: collapse; font-size: 15px; line-height: 1.6; }
+.model-extra-table th,
+.model-extra-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.model-extra-table th { width: 28%; font-weight: 600; color: var(--ink); }
+.model-extra-missing,
+.model-extra-note { font-size: 14px; color: var(--muted); line-height: 1.6; }
+.model-extra-price { font-size: 16px; margin: 0 0 6px; }
+.model-extra-markets,
+.model-extra-sources { margin: 0; padding-left: 1.2em; }
+.model-extra-sources a { color: var(--accent, #d4302a); }
 
 /* ============ BRANDS PAGE ============ */
 .page-header {

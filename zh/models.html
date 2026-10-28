@@ -362,7 +362,7 @@
 <link rel="preload" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&amp;family=Inter:wght@400;500;600;700&amp;family=Noto+Serif+SC:wght@500;700;900&amp;family=Noto+Sans+SC:wght@400;500;700&amp;display=optional" as="style">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&amp;family=Inter:wght@400;500;600;700&amp;family=Noto+Serif+SC:wght@500;700;900&amp;family=Noto+Sans+SC:wght@400;500;700&amp;display=optional" rel="stylesheet" media="print" onload="this.media='all'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&amp;family=Inter:wght@400;500;600;700&amp;family=Noto+Serif+SC:wght@500;700;900&amp;family=Noto+Sans+SC:wght@400;500;700&amp;display=optional" rel="stylesheet"></noscript>
-<link rel="stylesheet" href="/css/style.css?v=202610281427" />
+<link rel="stylesheet" href="/css/style.css?v=202610281514" />
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%231a1a1a'/><text x='16' y='22' font-family='Playfair Display,serif' font-size='20' font-weight='900' text-anchor='middle' fill='%23d4302a'>T</text></svg>">
 </head>
 <body>
@@ -421,19 +421,28 @@
         <p class="page-deck">定义中国汽车新时代的车型——以工程意义、全球野心与文化影响力为标准精选。</p>
       </div>
     </section>
-    <div class="models-filter-wrap">
-      <div class="container models-filter-inner">
-        <span class="models-filter-label">品牌筛选</span>
-        <div class="models-filter-chips" id="modelsFilterChips">
-          <button type="button" class="chip is-active" data-brand="all">全部 <span class="chip-count">42</span></button>
-          <button type="button" class="chip" data-brand="BYD">BYD <span class="chip-count">6</span></button><button type="button" class="chip" data-brand="Xiaomi">Xiaomi <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="NIO">NIO <span class="chip-count">4</span></button><button type="button" class="chip" data-brand="Xpeng">Xpeng <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Li Auto">Li Auto <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Zeekr">Zeekr <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Lynk & Co">Lynk & Co <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Geely">Geely <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Haval">Haval <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Tank">Tank <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Ora">Ora <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Wey">Wey <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="MG">MG <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Maxus">Maxus <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="IM Motors">IM Motors <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Voyah">Voyah <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="M-Hero">M-Hero <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Chery">Chery <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Omoda">Omoda <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Jaecoo">Jaecoo <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Leapmotor">Leapmotor <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Polestar">Polestar <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Volvo">Volvo <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Lotus">Lotus <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Denza">Denza <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Yangwang">Yangwang <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Fang Cheng Bao">Fang Cheng Bao <span class="chip-count">1</span></button>
+    <div class="models-filter-wrap" id="modelsFilter">
+      <div class="container models-filter-stack">
+        <div class="models-filter-inner">
+          <span class="models-filter-label">品牌</span>
+          <div class="models-filter-chips" id="modelsBrandChips">
+            <button type="button" class="chip is-active" data-brand="all" aria-pressed="true">全部 <span class="chip-count">42</span></button>
+            <button type="button" class="chip" data-brand="BYD" aria-pressed="false">BYD <span class="chip-count">6</span></button><button type="button" class="chip" data-brand="Xiaomi" aria-pressed="false">Xiaomi <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="NIO" aria-pressed="false">NIO <span class="chip-count">4</span></button><button type="button" class="chip" data-brand="Xpeng" aria-pressed="false">Xpeng <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Li Auto" aria-pressed="false">Li Auto <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Zeekr" aria-pressed="false">Zeekr <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Lynk &amp; Co" aria-pressed="false">Lynk &amp; Co <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Geely" aria-pressed="false">Geely <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Haval" aria-pressed="false">Haval <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Tank" aria-pressed="false">Tank <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Ora" aria-pressed="false">Ora <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Wey" aria-pressed="false">Wey <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="MG" aria-pressed="false">MG <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Maxus" aria-pressed="false">Maxus <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="IM Motors" aria-pressed="false">IM Motors <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Voyah" aria-pressed="false">Voyah <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="M-Hero" aria-pressed="false">M-Hero <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Chery" aria-pressed="false">Chery <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Omoda" aria-pressed="false">Omoda <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Jaecoo" aria-pressed="false">Jaecoo <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Leapmotor" aria-pressed="false">Leapmotor <span class="chip-count">2</span></button><button type="button" class="chip" data-brand="Polestar" aria-pressed="false">Polestar <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Volvo" aria-pressed="false">Volvo <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Lotus" aria-pressed="false">Lotus <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Denza" aria-pressed="false">Denza <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Yangwang" aria-pressed="false">Yangwang <span class="chip-count">1</span></button><button type="button" class="chip" data-brand="Fang Cheng Bao" aria-pressed="false">Fang Cheng Bao <span class="chip-count">1</span></button>
+          </div>
+        </div>
+        <div class="models-filter-inner">
+          <span class="models-filter-label">动力</span>
+          <div class="models-filter-chips" id="modelsPowertrainChips">
+            <button type="button" class="chip is-active" data-powertrain="all" aria-pressed="true">全部 <span class="chip-count">42</span></button>
+            <button type="button" class="chip" data-powertrain="bev" aria-pressed="false">纯电 <span class="chip-count">30</span></button><button type="button" class="chip" data-powertrain="phev" aria-pressed="false">插混 <span class="chip-count">9</span></button><button type="button" class="chip" data-powertrain="erev" aria-pressed="false">增程 <span class="chip-count">6</span></button><button type="button" class="chip" data-powertrain="hev" aria-pressed="false">油电混动 <span class="chip-count">1</span></button><button type="button" class="chip" data-powertrain="ice" aria-pressed="false">燃油 <span class="chip-count">3</span></button>
+          </div>
         </div>
       </div>
     </div>
     <section style="padding-top:24px;">
       <div class="container">
         <div class="models-grid" id="modelsGrid">
-          <div class="models-grid-item" data-brand="BYD">
+          <div class="models-grid-item" data-brand="BYD" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/byd-seal"><img width="1600" height="900" src="/images/byd-seal.jpg" alt="BYD Seal" loading="lazy" decoding="async" /><span class="img-credit">Photo: BYD</span></a></div>
       <div class="model-body">
@@ -449,7 +458,7 @@
         <a href="/zh/models/byd-seal" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="BYD">
+  </div><div class="models-grid-item" data-brand="BYD" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/byd-seagull"><img width="1400" height="878" src="/images/byd-seagull.jpg" alt="BYD Seagull" loading="lazy" decoding="async" /><span class="img-credit">Photo: User3204 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -465,7 +474,7 @@
         <a href="/zh/models/byd-seagull" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="BYD">
+  </div><div class="models-grid-item" data-brand="BYD" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/byd-atto-3"><img width="1400" height="853" src="/images/byd-atto-3.jpg" alt="BYD Atto 3" loading="lazy" decoding="async" /><span class="img-credit">Photo: Calreyn88 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -481,7 +490,7 @@
         <a href="/zh/models/byd-atto-3" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="BYD">
+  </div><div class="models-grid-item" data-brand="BYD" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/byd-sealion-07"><img width="1400" height="936" src="/images/byd-sealion-07.jpg" alt="BYD Sealion 07" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander Migl / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -497,7 +506,7 @@
         <a href="/zh/models/byd-sealion-07" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="BYD">
+  </div><div class="models-grid-item" data-brand="BYD" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/byd-han"><img width="1400" height="934" src="/images/byd-han.jpg" alt="BYD Han" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -513,7 +522,7 @@
         <a href="/zh/models/byd-han" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="BYD">
+  </div><div class="models-grid-item" data-brand="BYD" data-powertrain="phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/byd-shark-6"><img width="1400" height="933" src="/images/byd-shark-6.jpg" alt="BYD Shark 6" loading="lazy" decoding="async" /><span class="img-credit">Photo: Ethan Llamas / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -529,7 +538,7 @@
         <a href="/zh/models/byd-shark-6" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Xiaomi">
+  </div><div class="models-grid-item" data-brand="Xiaomi" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/xiaomi-su7"><img width="1400" height="933" src="/images/xiaomi-su7.jpg" alt="Xiaomi SU7" loading="lazy" decoding="async" /><span class="img-credit">Photo: Benlisquare / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -545,7 +554,7 @@
         <a href="/zh/models/xiaomi-su7" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Xiaomi">
+  </div><div class="models-grid-item" data-brand="Xiaomi" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/xiaomi-su7-ultra"><img width="1400" height="700" src="/images/xiaomi-su7-ultra.jpg" alt="Xiaomi SU7 Ultra" loading="lazy" decoding="async" /><span class="img-credit">Photo: Daniel Lu (User:dllu) / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -561,7 +570,7 @@
         <a href="/zh/models/xiaomi-su7-ultra" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="NIO">
+  </div><div class="models-grid-item" data-brand="NIO" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/nio-et5"><img width="1400" height="935" src="/images/nio-et5.jpg" alt="NIO ET5" loading="lazy" decoding="async" /><span class="img-credit">Photo: conceptphoto.info / CC BY 2.0</span></a></div>
       <div class="model-body">
@@ -577,7 +586,7 @@
         <a href="/zh/models/nio-et5" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="NIO">
+  </div><div class="models-grid-item" data-brand="NIO" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/nio-et9"><img width="1400" height="1120" src="/images/nio-et9.jpg" alt="NIO ET9" loading="lazy" decoding="async" /><span class="img-credit">Photo: S5A-0043 / CC BY 4.0</span></a></div>
       <div class="model-body">
@@ -593,7 +602,7 @@
         <a href="/zh/models/nio-et9" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="NIO">
+  </div><div class="models-grid-item" data-brand="NIO" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/nio-onvo-l60"><img width="1400" height="933" src="/images/nio-onvo-l60.jpg" alt="NIO Onvo L60" loading="lazy" decoding="async" /><span class="img-credit">Photo: Tim Wu / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -609,7 +618,7 @@
         <a href="/zh/models/nio-onvo-l60" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="NIO">
+  </div><div class="models-grid-item" data-brand="NIO" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/nio-firefly"><img width="1400" height="1050" src="/images/nio-firefly.jpg" alt="NIO Firefly" loading="lazy" decoding="async" /><span class="img-credit">Photo: Matti Blume / CC BY-SA</span></a></div>
       <div class="model-body">
@@ -625,7 +634,7 @@
         <a href="/zh/models/nio-firefly" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Xpeng">
+  </div><div class="models-grid-item" data-brand="Xpeng" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/xpeng-g6"><img width="1400" height="874" src="/images/xpeng-g6.jpg" alt="Xpeng G6" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -641,7 +650,7 @@
         <a href="/zh/models/xpeng-g6" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Xpeng">
+  </div><div class="models-grid-item" data-brand="Xpeng" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/xpeng-mona-m03"><img width="1400" height="1120" src="/images/xpeng-mona-m03.jpg" alt="Xpeng Mona M03" loading="lazy" decoding="async" /><span class="img-credit">Photo: S5A-0043 / CC BY 4.0</span></a></div>
       <div class="model-body">
@@ -657,7 +666,7 @@
         <a href="/zh/models/xpeng-mona-m03" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Li Auto">
+  </div><div class="models-grid-item" data-brand="Li Auto" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/li-mega"><img width="1400" height="933" src="/images/liauto-mega.jpg" alt="Li Auto MEGA" loading="lazy" decoding="async" /><span class="img-credit">Photo: 4300streetcar / CC BY 4.0</span></a></div>
       <div class="model-body">
@@ -673,7 +682,7 @@
         <a href="/zh/models/li-mega" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Li Auto">
+  </div><div class="models-grid-item" data-brand="Li Auto" data-powertrain="erev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/li-l6"><img width="1400" height="933" src="/images/li-l6.jpg" alt="Li Auto L6" loading="lazy" decoding="async" /><span class="img-credit">Photo: Ethan Llamas / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -689,7 +698,7 @@
         <a href="/zh/models/li-l6" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Zeekr">
+  </div><div class="models-grid-item" data-brand="Zeekr" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/zeekr-001"><img width="1400" height="973" src="/images/zeekr-001.jpg" alt="Zeekr 001" loading="lazy" decoding="async" /><span class="img-credit">Photo: Юрий Д.К. / CC BY 4.0</span></a></div>
       <div class="model-body">
@@ -705,7 +714,7 @@
         <a href="/zh/models/zeekr-001" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Zeekr">
+  </div><div class="models-grid-item" data-brand="Zeekr" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/zeekr-7x"><img width="1400" height="900" src="/images/zeekr-7x.jpg" alt="Zeekr 7X" loading="lazy" decoding="async" /><span class="img-credit">Photo: Ethan Llamas / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -721,7 +730,7 @@
         <a href="/zh/models/zeekr-7x" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Lynk & Co">
+  </div><div class="models-grid-item" data-brand="Lynk &amp; Co" data-powertrain="phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/lynkco-09"><img width="1600" height="900" src="/images/lynkco-09.jpg" alt="Lynk & Co 09" loading="lazy" decoding="async" /><span class="img-credit">Photo: Lynk & Co</span></a></div>
       <div class="model-body">
@@ -737,7 +746,7 @@
         <a href="/zh/models/lynkco-09" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Geely">
+  </div><div class="models-grid-item" data-brand="Geely" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/geely-galaxy-e5"><img width="1400" height="1050" src="/images/geely-galaxy-e5.jpg" alt="Geely Galaxy E5" loading="lazy" decoding="async" /><span class="img-credit">Photo: JustAnotherCarDesigner / CC0</span></a></div>
       <div class="model-body">
@@ -753,7 +762,7 @@
         <a href="/zh/models/geely-galaxy-e5" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Geely">
+  </div><div class="models-grid-item" data-brand="Geely" data-powertrain="phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/geely-starship-7"><img width="1400" height="933" src="/images/geely-starship-7.jpg" alt="Geely Galaxy Starship 7" loading="lazy" decoding="async" /><span class="img-credit">Photo: Ethan Llamas / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -769,7 +778,7 @@
         <a href="/zh/models/geely-starship-7" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Haval">
+  </div><div class="models-grid-item" data-brand="Haval" data-powertrain="ice hev phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/haval-h6"><img width="1400" height="1050" src="/images/haval-brand.jpg" alt="Haval H6" loading="lazy" decoding="async" /><span class="img-credit">Photo: Nord794ub / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -785,7 +794,7 @@
         <a href="/zh/models/haval-h6" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Tank">
+  </div><div class="models-grid-item" data-brand="Tank" data-powertrain="ice phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/tank-300"><img width="1400" height="1050" src="/images/tank-300.jpg" alt="Tank 300" loading="lazy" decoding="async" /><span class="img-credit">Photo: Jengtingchen / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -801,7 +810,7 @@
         <a href="/zh/models/tank-300" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Ora">
+  </div><div class="models-grid-item" data-brand="Ora" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/ora-good-cat"><img width="1400" height="1046" src="/images/ora-good-cat.jpg" alt="Ora Good Cat" loading="lazy" decoding="async" /><span class="img-credit">Photo: Calreyn88 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -817,7 +826,7 @@
         <a href="/zh/models/ora-good-cat" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Wey">
+  </div><div class="models-grid-item" data-brand="Wey" data-powertrain="phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/wey-lanshan"><img width="1400" height="1050" src="/images/wey-lanshan.jpg" alt="Wey Blue Mountain" loading="lazy" decoding="async" /><span class="img-credit">Photo: JustAnotherCarDesigner / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -833,7 +842,7 @@
         <a href="/zh/models/wey-lanshan" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="MG">
+  </div><div class="models-grid-item" data-brand="MG" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/mg-mg4"><img width="1400" height="934" src="/images/mg-mg4.jpg" alt="MG MG4 EV" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -849,7 +858,7 @@
         <a href="/zh/models/mg-mg4" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="MG">
+  </div><div class="models-grid-item" data-brand="MG" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/mg-cyberster"><img width="1400" height="934" src="/images/mg-cyberster.jpg" alt="MG Cyberster" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -865,7 +874,7 @@
         <a href="/zh/models/mg-cyberster" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Maxus">
+  </div><div class="models-grid-item" data-brand="Maxus" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/maxus-mifa-9"><img width="1400" height="882" src="/images/maxus-mifa9.jpg" alt="Maxus Mifa 9" loading="lazy" decoding="async" /><span class="img-credit">Photo: Calreyn88 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -881,7 +890,7 @@
         <a href="/zh/models/maxus-mifa-9" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="IM Motors">
+  </div><div class="models-grid-item" data-brand="IM Motors" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/im-ls6"><img width="1400" height="934" src="/images/im-ls6.jpg" alt="IM Motors LS6" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -897,7 +906,7 @@
         <a href="/zh/models/im-ls6" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Voyah">
+  </div><div class="models-grid-item" data-brand="Voyah" data-powertrain="erev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/voyah-free"><img width="1400" height="785" src="/images/voyah-free.jpg" alt="Voyah Free" loading="lazy" decoding="async" /><span class="img-credit">Photo: User3204 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -913,7 +922,7 @@
         <a href="/zh/models/voyah-free" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="M-Hero">
+  </div><div class="models-grid-item" data-brand="M-Hero" data-powertrain="bev erev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/mhero-917"><img width="1400" height="1050" src="/images/mhero-917.jpg" alt="M-Hero 917" loading="lazy" decoding="async" /><span class="img-credit">Photo: JustAnotherCarDesigner / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -929,7 +938,7 @@
         <a href="/zh/models/mhero-917" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Chery">
+  </div><div class="models-grid-item" data-brand="Chery" data-powertrain="ice phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/chery-tiggo-8"><img width="1400" height="933" src="/images/chery-tiggo-8.jpg" alt="Chery Tiggo 8 Pro" loading="lazy" decoding="async" /><span class="img-credit">Photo: Matti Blume / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -945,7 +954,7 @@
         <a href="/zh/models/chery-tiggo-8" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Omoda">
+  </div><div class="models-grid-item" data-brand="Omoda" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/omoda-e5"><img width="1400" height="873" src="/images/omoda-e5.jpg" alt="Omoda E5" loading="lazy" decoding="async" /><span class="img-credit">Photo: User3204 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -961,7 +970,7 @@
         <a href="/zh/models/omoda-e5" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Jaecoo">
+  </div><div class="models-grid-item" data-brand="Jaecoo" data-powertrain="phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/jaecoo-7"><img width="1400" height="1022" src="/images/jaecoo-7.jpg" alt="Jaecoo 7 PHEV" loading="lazy" decoding="async" /><span class="img-credit">Photo: Calreyn88 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -977,7 +986,7 @@
         <a href="/zh/models/jaecoo-7" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Leapmotor">
+  </div><div class="models-grid-item" data-brand="Leapmotor" data-powertrain="bev erev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/leapmotor-c10"><img width="1170" height="740" src="/images/leapmotor-c10.webp" alt="Leapmotor C10" loading="lazy" decoding="async" /><span class="img-credit">Photo: Leapmotor</span></a></div>
       <div class="model-body">
@@ -993,7 +1002,7 @@
         <a href="/zh/models/leapmotor-c10" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Leapmotor">
+  </div><div class="models-grid-item" data-brand="Leapmotor" data-powertrain="bev erev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/leapmotor-b10"><img width="1400" height="936" src="/images/leapmotor-b10.jpg" alt="Leapmotor B10" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -1009,7 +1018,7 @@
         <a href="/zh/models/leapmotor-b10" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Polestar">
+  </div><div class="models-grid-item" data-brand="Polestar" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/polestar-4"><img width="595" height="394" src="/images/polestar-4.jpg" alt="Polestar 4" loading="lazy" decoding="async" /><span class="img-credit">Photo: Polestar</span></a></div>
       <div class="model-body">
@@ -1025,7 +1034,7 @@
         <a href="/zh/models/polestar-4" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Volvo">
+  </div><div class="models-grid-item" data-brand="Volvo" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/volvo-ex30"><img width="1400" height="825" src="/images/volvo-ex30.jpg" alt="Volvo EX30" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander-93 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -1041,7 +1050,7 @@
         <a href="/zh/models/volvo-ex30" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Lotus">
+  </div><div class="models-grid-item" data-brand="Lotus" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/lotus-eletre"><img width="1400" height="927" src="/images/lotus-eletre.jpg" alt="Lotus Eletre" loading="lazy" decoding="async" /><span class="img-credit">Photo: Alexander Migl / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -1057,7 +1066,7 @@
         <a href="/zh/models/lotus-eletre" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Denza">
+  </div><div class="models-grid-item" data-brand="Denza" data-powertrain="bev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/denza-z9gt"><img width="1400" height="1050" src="/images/denza-z9gt.jpg" alt="Denza Z9GT" loading="lazy" decoding="async" /><span class="img-credit">Photo: Calreyn88 / CC BY 4.0</span></a></div>
       <div class="model-body">
@@ -1073,7 +1082,7 @@
         <a href="/zh/models/denza-z9gt" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Yangwang">
+  </div><div class="models-grid-item" data-brand="Yangwang" data-powertrain="erev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/yangwang-u8"><img width="1400" height="884" src="/images/yangwang-u8.jpg" alt="Yangwang U8" loading="lazy" decoding="async" /><span class="img-credit">Photo: User3204 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -1089,7 +1098,7 @@
         <a href="/zh/models/yangwang-u8" style="display:inline-block;margin-top:14px;color:var(--accent, #d4302a);font-family:var(--mono, monospace);font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;">详情 →</a>
       </div>
     </article>
-  </div><div class="models-grid-item" data-brand="Fang Cheng Bao">
+  </div><div class="models-grid-item" data-brand="Fang Cheng Bao" data-powertrain="phev">
     <article class="model-card">
       <div class="model-thumb has-photo"><a href="/zh/models/fangchengbao-bao5"><img width="1400" height="933" src="/images/fangchengbao-5.jpg" alt="Fang Cheng Bao Bao 5" loading="lazy" decoding="async" /><span class="img-credit">Photo: User3204 / CC BY-SA 4.0</span></a></div>
       <div class="model-body">
@@ -1107,7 +1116,7 @@
     </article>
   </div>
         </div>
-        <div class="models-empty" id="modelsEmpty" hidden>该品牌暂无车型。</div>
+        <div class="models-empty" id="modelsEmpty" hidden>没有符合当前筛选的车型。</div>
       </div>
     </section>
 
@@ -1204,10 +1213,11 @@
   </div>
 </footer>
 
-<script src="/js/data.js?v=202610281427"></script>
-<script src="/js/i18n.js?v=202610281427"></script>
-<script src="/js/articles-data.js?v=202610281427"></script>
-<script src="/js/pages.js?v=202610281427"></script>
-<script src="/js/app.js?v=202610281427"></script>
+<script src="/js/data.js?v=202610281514"></script>
+<script src="/js/i18n.js?v=202610281514"></script>
+<script src="/js/articles-data.js?v=202610281514"></script>
+<script src="/js/pages.js?v=202610281514"></script>
+<script src="/js/models-filter.js?v=202610281514"></script>
+<script src="/js/app.js?v=202610281514"></script>
 </body>
 </html>
