@@ -1,0 +1,357 @@
+{
+  "id": "polestar",
+  "name_en": "Polestar (Polestar Automotive Holding UK PLC)",
+  "name_zh": "极星（Polestar Automotive Holding UK PLC）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Brand origins 1996 (Flash Engineering racing team); relaunched as a standalone electric-vehicle brand in 2017",
+      "value_zh": "品牌起源 1996 年（Flash Engineering 赛车队）；2017 年转型为独立纯电品牌",
+      "period": null,
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Gothenburg, Sweden (operational); registered in the UK (Polestar Automotive Holding UK PLC)",
+      "value_zh": "瑞典哥德堡（运营总部）；注册于英国（Polestar Automotive Holding UK PLC）",
+      "period": null,
+      "source_ids": ["s2", "s12"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Listed company; Li Shufu (Eric Li) is the largest beneficial owner with 60.5% (99,358,168 shares) per the Schedule 13D/A filed 2026-07-02 and 2026-09-08, held through Geely, PSD Investment and Volvo Cars entities",
+      "value_zh": "上市公司；李书福（Eric Li）为最大受益所有人，按 2026 年 7 月 2 日及 9 月 8 日 Schedule 13D/A 合计受益持有 60.5%（99,358,168 股），通过吉利、PSD Investment 及沃尔沃汽车相关实体持有",
+      "period": "2026-09-08",
+      "source_ids": ["s19", "s20"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Nasdaq: PSNY (business combination with Gores Guggenheim closed 2022-06-23; ADSs traded from 2022-06-24)",
+      "value_zh": "纳斯达克：PSNY（2022 年 6 月 23 日完成与 Gores Guggenheim 业务合并，6 月 24 日起挂牌交易）",
+      "period": null,
+      "source_ids": ["s11", "s16"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "1,686 employees (down from 2,261 at end-2024; total headcount including non-employees was 1,861)",
+      "value_zh": "1,686 名员工（较 2024 年底的 2,261 人下降；含非雇员的合计人力为 1,861 人）",
+      "period": "2025-12-31",
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "US$3,058 million (+50.3% year on year)",
+      "value_zh": "30.58 亿美元（同比 +50.3%）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Net loss (FY2025)",
+      "label_zh": "净亏损（2025 财年）",
+      "value_en": "US$2,357 million",
+      "value_zh": "23.57 亿美元",
+      "period": "FY2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Retail sales (2025)",
+      "label_zh": "零售销量（2025 年）",
+      "value_en": "60,119 units (+34% year on year from 44,851)",
+      "value_zh": "60,119 辆（同比 +34%，2024 年为 44,851 辆）",
+      "period": "2025",
+      "source_ids": ["s2", "s9"]
+    },
+    {
+      "label_en": "Sales outside China (2025)",
+      "label_zh": "海外销量（2025 年）",
+      "value_en": "Concentrated in Europe, the largest region; China retail was only 69 units in H1 2025, per media",
+      "value_zh": "销量集中于欧洲（最大区域）；据媒体，2025 上半年在华零售仅 69 辆",
+      "period": "2025",
+      "source_ids": ["s2", "s16"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1996",
+      "event_en": "Swedish racing driver Jan Nilsson founds the Flash Engineering racing team, which wins multiple Swedish Touring Car Championship (STCC) titles and is the origin of the Polestar brand.",
+      "event_zh": "瑞典赛车手 Jan Nilsson 组建 Flash Engineering 车队，多次夺得瑞典房车锦标赛（STCC）冠军，成为极星品牌的起点。",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "date": "2005",
+      "event_en": "The team is sold and renamed Polestar, becoming a performance tuning supplier for Volvo cars.",
+      "event_zh": "车队易主并更名为 Polestar，成为沃尔沃汽车的高性能改装供应商。",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "date": "2009",
+      "event_en": "Polestar becomes the official performance partner of Volvo Cars, producing tuned road-car versions under the Polestar Performance name.",
+      "event_zh": "极星成为沃尔沃汽车的官方性能合作伙伴，以 Polestar Performance 之名推出改装版量产车。",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "date": "2015-07",
+      "event_en": "Volvo Cars acquires Polestar outright and runs it as its high-performance division, comparable to Mercedes-AMG or BMW M.",
+      "event_zh": "沃尔沃汽车全资收购极星，将其作为自家高性能部门运营，定位类似于奔驰 AMG、宝马 M。",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "date": "2017",
+      "event_en": "Under Volvo Cars and Geely, Polestar is relaunched as a standalone electric performance brand, unveiling the plug-in-hybrid GT coupé Polestar 1.",
+      "event_zh": "在沃尔沃与吉利推动下，极星宣布成为独立电动高性能品牌，并发布插电混动 GT 轿跑 Polestar 1。",
+      "source_ids": ["s15", "s16", "s13"]
+    },
+    {
+      "date": "2019",
+      "event_en": "Polestar unveils the Polestar 2, its first battery-electric model, an electric performance fastback built on Volvo's CMA platform.",
+      "event_zh": "极星发布首款纯电车型 Polestar 2，定位纯电高性能快背轿车，基于沃尔沃 CMA 平台打造。",
+      "source_ids": ["s15", "s16", "s7", "s26"]
+    },
+    {
+      "date": "2020",
+      "event_en": "First customer handovers and retail locations open; the Polestar 2 begins global deliveries in July 2020, manufactured at the Taizhou (Luqiao) plant in China.",
+      "event_zh": "开启首批客户交付并开设零售门店；Polestar 2 于 2020 年 7 月起从中国台州（路桥）工厂开启全球同步交付。",
+      "source_ids": ["s10", "s2", "s26"]
+    },
+    {
+      "date": "2021",
+      "event_en": "Polestar announces a business combination with the special-purpose acquisition company (SPAC) Gores Guggenheim to list on Nasdaq; full-year global volumes reach 28,677 units.",
+      "event_zh": "极星宣布与特殊目的收购公司（SPAC）Gores Guggenheim 合并、拟登陆纳斯达克；全年全球交付量达 28,677 辆。",
+      "source_ids": ["s1", "s11", "s24"]
+    },
+    {
+      "date": "2022-06",
+      "event_en": "The business combination with Gores Guggenheim is completed on 23 June 2022 and Polestar lists on Nasdaq under the ticker PSNY; the stock opens around US$12.98, implying a first-day market capitalisation of roughly US$27 billion.",
+      "event_zh": "2022 年 6 月 23 日完成与 Gores Guggenheim 的业务合并，极星在纳斯达克以 PSNY 挂牌；上市首日开盘约 12.98 美元，对应市值约 270 亿美元。",
+      "source_ids": ["s11", "s16"]
+    },
+    {
+      "date": "2022",
+      "event_en": "Polestar launches the Polestar 3 electric performance SUV in late 2022; full-year global volumes reach 51,491 units (+80% year on year). The Polestar 4 SUV coupé launches in phases through 2023 and into 2024.",
+      "event_zh": "2022 年底发布纯电性能 SUV Polestar 3；全年全球交付量达 51,491 辆（同比 +80%）。Polestar 4 轿跑 SUV 于 2023 至 2024 年分批上市。",
+      "source_ids": ["s7", "s24"]
+    },
+    {
+      "date": "2023",
+      "event_en": "Full-year retail sales reach 52,796 units under the retail-sales metric re-presented in the FY2025 20-F (the earlier global-volumes figure was 54,626). Fourth-quarter 2023 deliveries included 880 Polestar 4 cars in China; the Polestar 3 was not yet in production, with first deliveries expected in 2024. Polestar also obtained a US$450 million additional term loan from Volvo Cars and Geely.",
+      "event_zh": "全年零售销量按 2025 财年 20-F 重述的零售口径为 52,796 辆（此前全球交付口径为 54,626 辆）。2023 年四季度交付含在华 880 辆 Polestar 4；Polestar 3 当时尚未投产，公司称首批交付预计在 2024 年。极星还从沃尔沃汽车与吉利获得 4.5 亿美元额外定期贷款。",
+      "source_ids": ["s10", "s11", "s23", "s14"]
+    },
+    {
+      "date": "2024-02",
+      "event_en": "Volvo Cars announces plans to distribute a large part of its Polestar stake, making Geely Holding the largest shareholder; Volvo's holding falls to roughly 18% and it stops funding the company.",
+      "event_zh": "沃尔沃汽车宣布计划将其所持极星大部分股权分配给股东，吉利控股成为第一大股东，沃尔沃持股降至约 18% 并停止对极星的资金支持。",
+      "source_ids": ["s13", "s16"]
+    },
+    {
+      "date": "2024-10",
+      "event_en": "Michael Lohscheller is appointed chief executive officer, and Jean-François Mady becomes chief financial officer (effective 21 October 2024); Winfried Vahland assumes the role of board chair at the 7 October 2024 AGM, succeeding Håkan Samuelsson.",
+      "event_zh": "Michael Lohscheller 获任首席执行官；Jean-François Mady 自 2024 年 10 月 21 日起任首席财务官；Winfried Vahland 在 2024 年 10 月 7 日年度股东大会后就任董事会主席，接替 Håkan Samuelsson。",
+      "source_ids": ["s5", "s7", "s17"]
+    },
+    {
+      "date": "2025-06",
+      "event_en": "PSD Investment Limited, controlled by Shufu (Eric) Li, invests US$200 million in Polestar through a private placement.",
+      "event_zh": "由李书福控制的 PSD Investment Limited 通过定向增发向极星投资 2 亿美元。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Polestar posts a record 60,119 retail sales (+34%); in December it changes the ADS-to-share ratio from 1:1 to 1:30, regaining compliance with Nasdaq's US$1 minimum bid price rule.",
+      "event_zh": "极星全年零售销量创纪录达 60,119 辆（同比 +34%）；12 月将 ADS 与普通股比例由 1:1 调整为 1:30，重新符合纳斯达克 1 美元最低股价规则。",
+      "source_ids": ["s2", "s9"]
+    },
+    {
+      "date": "2025-10",
+      "event_en": "Polestar closes its last remaining direct store in China (Shanghai) and shifts to an online-led sales model there.",
+      "event_zh": "极星关闭在中国最后一家直营门店（上海），转为以线上为主的销售模式。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2026-06-25",
+      "event_en": "The U.S. Department of Commerce's Bureau of Industry and Security informs Polestar it will not grant authorisation to sell vehicles in the United States from model year 2027 onward under the Connected Vehicle Rule.",
+      "event_zh": "美国商务部工业与安全局通知极星，依据《网联车辆规则》自 2027 车型年起不再授权其在美销售新车。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "First customer deliveries of the Polestar 5 grand tourer begin, and sales of the new Polestar 4 SUV start on 2 September 2026.",
+      "event_zh": "Polestar 5 四门 GT 开启首批客户交付；全新 Polestar 4 SUV 版于 2026 年 9 月 2 日开售。",
+      "source_ids": ["s4", "s22"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Polestar 1",
+      "name_zh": "Polestar 1",
+      "role_en": "Limited-run plug-in hybrid GT coupé, the brand's first model after going standalone.",
+      "role_zh": "限量生产的插电混动 GT 轿跑，是品牌独立后的首款车型。",
+      "price_band": "About RMB 1.45 million in China (launch)",
+      "founded": 2017,
+      "owner_note_en": "Built in Chengdu, China; production ran 2019-2021 with a global run of about 1,500 units. The model has ended production.",
+      "owner_note_zh": "在中国成都生产；2019—2021 年生产，全球限量约 1,500 辆，现已停产。",
+      "status": "discontinued",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "name_en": "Polestar 2",
+      "name_zh": "Polestar 2",
+      "role_en": "Electric performance fastback and the brand's first battery-electric model, built on Volvo's CMA platform; the volume model since its 2019 unveiling.",
+      "role_zh": "纯电高性能快背轿车，品牌首款纯电车型，基于沃尔沃 CMA 平台；自 2019 年发布以来是品牌走量车型。",
+      "price_band": "About RMB 300,000 in China (historic entry trim)",
+      "founded": 2019,
+      "owner_note_en": "Manufactured in Taizhou (Luqiao), China, at a Geely-invested, Volvo-operated plant with about 200,000-unit annual capacity; offered with up to a 78 kWh battery and up to 350 kW dual-motor powertrain. A next-generation Polestar 2 successor is planned for 2027; by 2026 the current model is nearing the end of its lifecycle.",
+      "owner_note_zh": "在中国台州（路桥）生产，该厂由吉利投资、沃尔沃运营，年产能约 20 万辆；提供最高 78 kWh 电池与最高 350 kW 双电机动力。下一代 Polestar 2 继任车型计划于 2027 年推出；到 2026 年现款车型已接近生命周期尾声。",
+      "status": "active",
+      "source_ids": ["s7", "s12", "s2", "s3", "s26", "s25"]
+    },
+    {
+      "name_en": "Polestar 3",
+      "name_zh": "Polestar 3",
+      "role_en": "Electric performance SUV, launched in late 2022, the brand's flagship luxury SUV.",
+      "role_zh": "纯电性能 SUV，2022 年底发布，是品牌的旗舰豪华 SUV。",
+      "price_band": "About RMB 700,000 in China (launch)",
+      "founded": 2022,
+      "owner_note_en": "Built in Chengdu, China and Ridgeville (Charleston), South Carolina, USA. Polestar intends to consolidate Polestar 3 manufacturing in Charleston. The new model year received an 800V upgrade and was named 'safest Executive Car of 2025'.",
+      "owner_note_zh": "在中国成都与美国南卡罗来纳州里奇维尔（查尔斯顿）生产。公司计划将 Polestar 3 生产集中到美国查尔斯顿；新款车型升级为 800V 架构，并获评「2025 年度最安全行政级轿车」。",
+      "status": "active",
+      "source_ids": ["s7", "s12", "s6", "s3"]
+    },
+    {
+      "name_en": "Polestar 4 (coupé)",
+      "name_zh": "Polestar 4（轿跑版）",
+      "role_en": "Electric SUV coupé launched in phases through 2023-2024; the brand's best-selling model by 2025.",
+      "role_zh": "纯电轿跑 SUV，2023—2024 年分批上市；2025 年成为品牌最畅销车型。",
+      "price_band": "RMB 299,900-399,900 (China, Jan 2024 launch)",
+      "founded": 2023,
+      "owner_note_en": "Built in Hangzhou Bay, China and Busan, South Korea (Renault Korea partnership). China deliveries began in January 2024; Busan production began in H2 2025.",
+      "owner_note_zh": "在中国杭州湾与韩国釜山（与雷诺韩国合作）生产。2024 年 1 月在中国开启批量交付，釜山工厂 2025 年下半年投产。",
+      "status": "active",
+      "source_ids": ["s12", "s14", "s2"]
+    },
+    {
+      "name_en": "Polestar 4 SUV",
+      "name_zh": "Polestar 4 SUV 版",
+      "role_en": "A more practical SUV variant of the Polestar 4 with a conventional rear window and larger boot, targeting the European D-SUV segment.",
+      "role_zh": "Polestar 4 的实用型 SUV 变体，恢复传统后窗并增大后备厢，主攻欧洲 D 级 SUV 市场。",
+      "price_band": "From EUR 57,900 in Germany (Rear motor; EUR 65,900 Dual motor; EUR 76,300 Performance pack, incl. VAT)",
+      "founded": 2026,
+      "owner_note_en": "Manufactured in Busan, South Korea, where production started in Q2 2026; sales began on 2 September 2026, with first customer deliveries planned for Q4 2026.",
+      "owner_note_zh": "在韩国釜山生产，2026 年第二季度投产；2026 年 9 月 2 日开售，首批客户交付计划于 2026 年第四季度。",
+      "status": "active",
+      "source_ids": ["s22", "s4"]
+    },
+    {
+      "name_en": "Polestar 5",
+      "name_zh": "Polestar 5",
+      "role_en": "Electric four-door grand tourer, the brand's flagship saloon revealed at IAA Mobility 2025.",
+      "role_zh": "纯电四门 GT 轿车，品牌旗舰，2025 年慕尼黑 IAA 车展首发。",
+      "price_band": "Around the RMB 700,000 level in China (per media)",
+      "founded": 2025,
+      "owner_note_en": "Production began in January 2026 in Wuhan and Chongqing, China; first customer deliveries began in September 2026, and the model has received the Autobest award.",
+      "owner_note_zh": "2026 年 1 月起在中国武汉与重庆投产；2026 年 9 月开启首批客户交付，并获 Autobest 奖项。",
+      "status": "active",
+      "source_ids": ["s2", "s3", "s4", "s16"]
+    },
+    {
+      "name_en": "Polestar 6",
+      "name_zh": "Polestar 6",
+      "role_en": "Electric roadster, planned, based on the Polestar O2 concept.",
+      "role_zh": "纯电敞篷跑车，规划中，基于 Polestar O2 概念车。",
+      "price_band": "Not yet disclosed",
+      "founded": 2022,
+      "owner_note_en": "Unveiled as a concept in 2022; production has not started and no launch date is fixed.",
+      "owner_note_zh": "2022 年以概念车形式亮相；尚未投产，无明确上市时间。",
+      "status": "planned",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "name_en": "Polestar 7",
+      "name_zh": "Polestar 7",
+      "role_en": "Premium compact SUV, planned for introduction in 2028.",
+      "role_zh": "高端紧凑型 SUV，计划 2028 年推出。",
+      "price_band": "Not yet disclosed",
+      "founded": 2028,
+      "owner_note_en": "Planned to be the first model produced in Europe.",
+      "owner_note_zh": "计划成为首款在欧洲生产的车型。",
+      "status": "planned",
+      "source_ids": ["s2", "s4"]
+    }
+  ],
+  "financials": {
+    "currency": "USD",
+    "unit": "million",
+    "standard": "IFRS",
+    "rows": [
+      { "fiscal_year": 2022, "revenue": 2444, "gross_margin_pct": 4.1, "net_profit": -478, "rnd": 175, "source_ids": ["s18"] },
+      { "fiscal_year": 2023, "revenue": 2368, "gross_margin_pct": -17.3, "net_profit": -1182, "rnd": 157, "source_ids": ["s1"] },
+      { "fiscal_year": 2024, "revenue": 2034, "gross_margin_pct": -43.1, "net_profit": -2050, "rnd": 38, "source_ids": ["s1", "s2"] },
+      { "fiscal_year": 2025, "revenue": 3058, "gross_margin_pct": -35.4, "net_profit": -2357, "rnd": 78, "source_ids": ["s1", "s2"] }
+    ],
+    "note_en": "Fiscal year ends 31 December. Figures are under IFRS, in US dollars (millions). FY2023-FY2025 are taken from the FY2025 Form 20-F filed with the U.S. SEC (which presents re-presented comparatives); FY2022 is taken from the FY2023 Form 20-F restated comparatives. 'revenue' is total revenue; 'gross_margin_pct' is gross profit or loss divided by revenue, a line that includes impairment expense net of reversals (US$1,050 million in 2025, US$622 million in 2024, US$340 million in 2023; FY2022 was a gross profit of about US$101 million, a margin of about 4.1%). 'rnd' is research and development expense. 'net_profit' is the consolidated 'Net loss' line from the statement of income, attributable to equity holders of the parent (the company presents no separately reported non-controlling interests, so this is also the amount attributable to ordinary shareholders of the parent). Figures are rounded to the nearest US$ million. For reference, adjusted (non-GAAP) gross loss was US$254 million in 2024 and US$22 million in 2025, and adjusted EBITDA loss was US$1,080 million in 2024 and US$783 million in 2025. This page does not constitute any trading recommendation.",
+    "note_zh": "财年截至 12 月 31 日。数据按国际财务报告准则（IFRS）、以美元计（单位：百万）。2023—2025 财年取自向美国证券交易委员会（SEC）提交的 2025 财年 20-F 年度报告（含重列比较数）；2022 财年取自 2023 财年 20-F 重述后的比较数。「revenue」为总收入；「gross_margin_pct」为毛利（毛损）÷收入，该口径含减值费用净额（2025 年 10.50 亿美元、2024 年 6.22 亿美元、2023 年 3.40 亿美元；2022 财年为毛利约 1.01 亿美元、毛利率约 4.1%）；「rnd」为研发费用；「net_profit」为合并利润表中的净亏损，即归属于母公司股东（equity holders of the parent）的净亏损——公司未单独列报非控股权益，因此该口径同时代表归属于母公司所有者（普通股股东）的净利润。数字四舍五入至百万美元。作为对照，调整后（非公认会计原则）毛损 2024 年为 2.54 亿美元、2025 年为 2,200 万美元；调整后 EBITDA 亏损 2024 年为 10.80 亿美元、2025 年为 7.83 亿美元。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Polestar is a Swedish electric performance-car brand, operating through the UK-registered, Nasdaq-listed Polestar Automotive Holding UK PLC (ticker PSNY). The brand traces its origins to the Flash Engineering racing team founded by Swedish driver Jan Nilsson in 1996; it was acquired by Volvo Cars in 2015 and relaunched as a standalone electric-vehicle brand in 2017 under Volvo Cars and Geely.<a href=\"https://m.cnr.cn/auto/20210520/t20210520_525491070.html\">[s15]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> The company describes itself as Europe's only established pure-EV company and brand, built on design and performance.<a href=\"https://investors.polestar.com/node/8396/html\">[s17]</a> As of the Schedule 13D/A filed on 8 September 2026, the largest beneficial owner is Li Shufu (Eric Li), founder and chairman of Zhejiang Geely Holding Group, who beneficially owns 60.5% (99,358,168 shares) through Geely entities, PSD Investment and Volvo Cars-related entities; Volvo Cars-related entities hold about 19.9%.<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926105649/0001104659-26-105649-index.htm\">[s19]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926080363/0001104659-26-080363-index.htm\">[s20]</a></p><p>Polestar follows an asset-light contract-manufacturing model: its vehicles are assembled in plants operated by Volvo Cars and Geely in China, the United States and South Korea, and sold through a hybrid direct-to-consumer and active-selling-partner network across 28 markets at end-2025.<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> In 2025 it reported record retail sales of 60,119 cars (+34%), revenue of US$3,058 million (+50.3%) and a net loss of US$2,357 million, with sales concentrated in Europe and a small share in China.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a></p><p>In June 2026 the U.S. Department of Commerce's Bureau of Industry and Security (BIS) decided not to authorise Polestar to sell new vehicles in the United States from model year 2027, adding about US$211 million to operating and net loss in H1 2026; the company responded by scaling back its U.S. business and cutting its 2026 volume guidance, pivoting to Europe and Asia-Pacific.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> Financially, Polestar remains loss-making with negative equity (an accumulated deficit of US$9,269 million and total equity of about -US$5,122 million at end-2025), dependent on continued funding from Geely, Volvo and external investors.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a></p>",
+      "zh": "<p>极星（Polestar）是瑞典纯电动高性能汽车品牌，运营主体为英国注册、纳斯达克上市的 Polestar Automotive Holding UK PLC（代码 PSNY）。品牌可追溯至 1996 年瑞典赛车手 Jan Nilsson 创办的 Flash Engineering 车队，2015 年被沃尔沃汽车收购，2017 年在沃尔沃与吉利推动下转型为独立纯电品牌。<a href=\"https://m.cnr.cn/auto/20210520/t20210520_525491070.html\">[s15]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> 公司自称是欧洲唯一稳定运营的纯电汽车品牌，并强调以设计与性能为核心。<a href=\"https://investors.polestar.com/node/8396/html\">[s17]</a> 截至 2026 年 9 月 8 日的 Schedule 13D/A，最大受益所有人是浙江吉利控股集团创始人兼董事长李书福（Eric Li），通过吉利相关实体、PSD Investment 及沃尔沃汽车相关实体合计受益持有 60.5%（99,358,168 股）；沃尔沃汽车相关实体持股约 19.9%。<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926105649/0001104659-26-105649-index.htm\">[s19]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926080363/0001104659-26-080363-index.htm\">[s20]</a></p><p>极星采用轻资产代工模式，整车由沃尔沃与吉利在中国、美国、韩国的工厂代工，通过「直营 + 活跃销售伙伴」的混合渠道销售，截至 2025 年底覆盖 28 个市场。<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> 2025 年极星零售销量创纪录达 60,119 辆（同比 +34%），营收 30.58 亿美元（同比 +50.3%）、净亏损 23.57 亿美元，销量以欧洲为主、中国占比很小。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a></p><p>2026 年 6 月，美国商务部工业与安全局（BIS）决定自 2027 车型年起不再授权极星在美销售新车，2026 上半年为此增加约 2.11 亿美元经营亏损与净亏损；公司据此收缩美国业务并下调 2026 年销量指引，转而依托欧洲与亚太市场。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> 财务上，极星持续亏损、股东权益为负（截至 2025 年底累计亏损 92.69 亿美元、股东权益约 -51.22 亿美元），依赖吉利、沃尔沃及外部投资人的持续注资。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Revenue is dominated by vehicle sales, supplemented by carbon-credit sales of US$211 million in 2025 (up from US$11 million in 2024). Polestar runs an asset-light model: it has no wholly owned assembly plants and instead contract-manufactures through Volvo Cars and Geely facilities, while selling via a mix of direct-to-consumer, active-selling-partner and wholesale channels.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a><a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a> At the end of 2025 the company had 28 markets, 211 sales points (excluding China) and 1,243 service points; employees were cut from 2,261 at end-2024 to 1,686 at end-2025 as part of cost reduction (total headcount including non-employees fell from 2,547 to 1,861).<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a><a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a></p><h3>Recent results</h3><p>For H1 2026 (reported 3 September 2026), retail sales were 30,423 units (+0.4% versus 30,289 in H1 2025), revenue was US$1,360 million (-4.4%) and net loss was US$842 million, an improvement of 29.4% from US$1,193 million a year earlier.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> On 8 October 2026 the company reported record nine-month retail sales and what it described as its strongest third quarter.<a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>China market</h3><p>Polestar's sales in China have stayed small: according to media tallies, China insurance registrations were about 2,048 units in 2021 and 1,717 units in 2022, and H1 2025 China retail was only 69 units; in October 2025 the company closed its last remaining direct store in China (Shanghai) and shifted to an online-led sales model there.<a href=\"https://www.cnenergynews.cn/2024lgESG/2024/05/16/detail_20240516161909.html\">[s27]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></p><h3>Models and technology</h3><p>By October 2026 the line-up comprised five models — the Polestar 2 fastback, Polestar 3 SUV, Polestar 4 coupé, Polestar 4 SUV and Polestar 5 grand tourer — with the Polestar 2 successor (2027), Polestar 7 compact SUV (2028) and Polestar 6 roadster planned.<a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a><a href=\"https://media.polestar.com/releases/979?lang=no_NO\">[s22]</a> The new Polestar 4 SUV, launched on 2 September 2026, uses a 100 kWh battery with up to 630 km WLTP range on the rear-motor variant, up to 200 kW DC charging, Vehicle-to-Load (up to 3.3 kW) and Google Gemini voice assistance.<a href=\"https://media.polestar.com/releases/979?lang=no_NO\">[s22]</a> The new Polestar 3 model year received an 800V architecture upgrade, and the Polestar 5 rides on a bonded-aluminium platform built in China.<a href=\"https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US\">[s6]</a><a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>Manufacturing footprint</h3><p>Polestar owns no assembly plants and relies entirely on Volvo Cars and Geely contract manufacturing. The Polestar 2 is built in Taizhou (Luqiao), China, at a plant invested by Geely and operated by Volvo that began construction in 2013, has stamping, welding, painting, assembly and battery workshops, and about 200,000 units of annual capacity, also producing the Volvo XC40 and Lynk &amp; Co 01.<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://zjrb.zjol.com.cn/html/2020-08/25/content_3360288.htm\">[s26]</a> The Polestar 3 is built in Chengdu, China and Ridgeville (Charleston), South Carolina, USA, and the company intends to consolidate Polestar 3 manufacturing in Charleston.<a href=\"https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US\">[s6]</a><a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a> The Polestar 4 coupé is built in Hangzhou Bay, China and Busan, South Korea (in a Renault Korea partnership); the Polestar 4 SUV is built in Busan (production from Q2 2026); and the Polestar 5 is built in Wuhan and Chongqing, China.<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://media.polestar.com/releases/979?lang=no_NO\">[s22]</a><a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>Financing and shareholder support</h3><p>The company continues to depend on related-party and external financing. According to its 1 July 2026 announcement, Geely Sweden Holdings AB and Volvo Cars completed debt-to-equity conversions totalling about US$640 million since the start of 2026, of which about US$300 million (Geely Sweden) and US$66 million (Volvo) were converted on 30 June 2026; about US$660 million of Volvo Cars' shareholder loan remained and matures in December 2031.<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm\">[s21]</a> Polestar also extended the Geely Sweden subordinated term loan to 30 June 2027 and increased its Green Trade Finance Facility by EUR 50 million to EUR 450 million.<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm\">[s21]</a> H1 2026 free cash flow was -US$1,061 million, and cash and cash equivalents fell from US$1,159 million at end-2025 to US$888 million at end-June 2026.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></p>",
+      "zh": "<h3>业务结构</h3><p>收入以整车销售为主，2025 年碳积分销售收入 2.11 亿美元（2024 年为 1,100 万美元）。极星采用轻资产模式，无自有整车工厂，通过沃尔沃与吉利的工厂代工，并以「直营 + 活跃销售伙伴 + 批发」混合模式销售。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a><a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a> 截至 2025 年底，公司拥有 28 个市场、211 个销售点（不含中国）与 1,243 个服务点；为降低成本，员工由 2024 年底的 2,261 人降至 2025 年底的 1,686 人（含非雇员的合计人力由 2,547 人降至 1,861 人）。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a><a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a></p><h3>近期业绩</h3><p>2026 年上半年（2026 年 9 月 3 日公告），零售销量 30,423 辆（同比 +0.4%，2025 上半年为 30,289 辆），营收 13.60 亿美元（同比 -4.4%），净亏损 8.42 亿美元（较上年同期的 11.93 亿美元收窄 29.4%）。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> 2026 年 10 月 8 日，公司公告前三季度零售销量创纪录、第三季度为「史上最强季度」。<a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>中国市场</h3><p>极星在中国市场的销量长期偏低：据媒体统计，2021 年、2022 年在华上险量分别约为 2,048 辆和 1,717 辆，2025 上半年在华零售仅 69 辆；2025 年 10 月公司关闭了在中国最后一家直营门店（上海），转为以线上为主的销售模式。<a href=\"https://www.cnenergynews.cn/2024lgESG/2024/05/16/detail_20240516161909.html\">[s27]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></p><h3>车型与技术</h3><p>截至 2026 年 10 月，产品线共有五款在售车型——Polestar 2 快背轿车、Polestar 3 SUV、Polestar 4 轿跑版、Polestar 4 SUV 版与 Polestar 5 四门 GT，另有 Polestar 2 继任车型（2027 年）、Polestar 7 紧凑型 SUV（2028 年）与 Polestar 6 敞篷跑车处于规划中。<a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a><a href=\"https://media.polestar.com/releases/979?lang=no_NO\">[s22]</a> 2026 年 9 月 2 日上市的全新 Polestar 4 SUV 版标配 100 kWh 电池，后驱版 WLTP 续航最高 630 公里、直流快充最高 200 kW，并搭载双向放电（V2L，最高 3.3 kW）与 Google Gemini 语音助手。<a href=\"https://media.polestar.com/releases/979?lang=no_NO\">[s22]</a> 新款 Polestar 3 升级为 800V 架构；Polestar 5 采用粘合铝制车身平台，在中国制造。<a href=\"https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US\">[s6]</a><a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>制造布局</h3><p>极星不拥有整车工厂，全部依赖沃尔沃与吉利的代工。Polestar 2 在中国台州（路桥）生产，该工厂由吉利投资、沃尔沃运营，2013 年动工，拥有冲压、焊装、涂装、总装、电池五大车间，年产能约 20 万辆，除 Polestar 2 外还生产沃尔沃 XC40 与领克 01。<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://zjrb.zjol.com.cn/html/2020-08/25/content_3360288.htm\">[s26]</a> Polestar 3 在中国成都与美国南卡罗来纳州里奇维尔（查尔斯顿）生产，公司计划将其生产集中到查尔斯顿。<a href=\"https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US\">[s6]</a><a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a> Polestar 4 轿跑版在中国杭州湾与韩国釜山（与雷诺韩国合作）生产，Polestar 4 SUV 版在釜山生产（2026 年第二季度投产），Polestar 5 在中国武汉与重庆生产。<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://media.polestar.com/releases/979?lang=no_NO\">[s22]</a><a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>融资与股东支持</h3><p>公司持续依靠关联方与外部融资。据 2026 年 7 月 1 日公告，吉利瑞典（Geely Sweden Holdings AB）与沃尔沃完成债转股，2026 年以来合计转股约 6.40 亿美元，其中 6 月 30 日吉利瑞典约 3 亿美元、沃尔沃约 0.66 亿美元完成转股；转股后沃尔沃股东贷款剩余约 6.60 亿美元、2031 年 12 月到期。<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm\">[s21]</a> 公司另将吉利瑞典次级定期贷款到期日延至 2027 年 6 月 30 日，并将绿色贸易融资额度增加 5,000 万欧元至 4.5 亿欧元。<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm\">[s21]</a> 2026 年上半年自由现金流为 -10.61 亿美元，现金及等价物由 2025 年底的 11.59 亿美元降至 2026 年 6 月底的 8.88 亿美元。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>The brand's origin is the Flash Engineering racing team founded in 1996 by Swedish racing driver Jan Nilsson; after a 2005 sale the team was renamed Polestar and became Volvo's performance partner.<a href=\"https://m.cnr.cn/auto/20210520/t20210520_525491070.html\">[s15]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> Thomas Ingenlath, formerly Volvo Cars' senior vice president of design, was the first chief executive of the standalone EV brand, serving from 2017 until October 2024.<a href=\"https://investors.polestar.com/node/8431/html\">[s11]</a><a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a></p><h3>Key management (as of 2026-10-29)</h3><ul><li><strong>Michael Lohscheller</strong> — chief executive officer, appointed in October 2024. Previously CEO of Nikola, VinFast and Opel, and earlier CFO of Opel, Volkswagen and Mitsubishi.<a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a></li><li><strong>Jean-François Mady</strong> — chief financial officer, effective 21 October 2024, succeeding transitional CFO Per Ansgar. Formerly senior vice president of global accounting operations and finance transformation at Stellantis, with earlier leadership roles at PSA Group.<a href=\"https://media.polestar.com/releases/612?lang=ww_WW\">[s7]</a></li><li><strong>Winfried Vahland</strong> — chair of the board, who joined the board in January 2024 and assumed the chair at the 7 October 2024 AGM, succeeding Håkan Samuelsson. Previously CEO and president of Volkswagen Group China (2005-2010) and CEO of Škoda Auto (2010-2015), and a Volvo Cars board member from 2019 to 2024.<a href=\"https://investors.polestar.com/node/8396/html\">[s17]</a><a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a></li></ul><h3>Board and ownership</h3><p>The board also includes Quan (Joe) Zhang, vice president and chief financial officer of Geely Holding, plus independent directors Christine Gorjanc, Karl-Thomas Neumann, Xiaojie (Laura) Shen and Cynthia Dubin, and Volvo Cars representative Arek Nowinski.<a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a> According to the Schedule 13D/A filings of 2 July and 8 September 2026, Eric Li beneficially owns 99,358,168 shares (60.5%) with sole voting power over 108,325,939 shares; Volvo Cars-related entities (Volvo Car Corporation, Volvo Car AB and Snita Holding B.V.) together hold 32,691,731 shares (about 19.9%); Geely Sweden Holdings AB and related Geely entities hold 39.8%, PSD Investment Limited holds 20.7%, and Geely Sweden Automotive Investment B.V. holds 19.6%.<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926105649/0001104659-26-105649-index.htm\">[s19]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926080363/0001104659-26-080363-index.htm\">[s20]</a> In addition, per the FY2025 Form 20-F, other shareholders holding more than 5% included Sumitomo Mitsui Banking Corporation and Standard Chartered Bank (Hong Kong) at about 7.1% each, and NATIXIS and BBVA at about 5.4% each.<a href=\"https://investors.polestar.com/sec-filings/sec-filing/20-f/0001884082-26-000006\">[s1]</a></p>",
+      "zh": "<h3>创始人</h3><p>品牌起源是瑞典赛车手 Jan Nilsson 于 1996 年创办的 Flash Engineering 车队；2005 年易主后更名为 Polestar，并成为沃尔沃的性能合作伙伴。<a href=\"https://m.cnr.cn/auto/20210520/t20210520_525491070.html\">[s15]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> 曾任沃尔沃汽车设计高级副总裁的 Thomas Ingenlath 是独立纯电品牌的首任首席执行官，任职自 2017 年至 2024 年 10 月。<a href=\"https://investors.polestar.com/node/8431/html\">[s11]</a><a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a></p><h3>现任核心管理层（截至 2026-10-29）</h3><ul><li><strong>Michael Lohscheller</strong> —— 首席执行官，2024 年 10 月上任；曾任 Nikola、VinFast、欧宝 CEO，此前任欧宝、大众、三菱 CFO。<a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a></li><li><strong>Jean-François Mady</strong> —— 首席财务官，2024 年 10 月 21 日起生效，接替过渡 CFO Per Ansgar；此前任 Stellantis 全球会计运营与财务转型高级副总裁，并曾任标致雪铁龙集团多个领导职务。<a href=\"https://media.polestar.com/releases/612?lang=ww_WW\">[s7]</a></li><li><strong>Winfried Vahland</strong> —— 董事会主席，2024 年 1 月加入董事会，同年 10 月 7 日股东大会后就任主席，接替 Håkan Samuelsson；曾任大众集团（中国）CEO（2005—2010 年）、斯柯达 CEO（2010—2015 年），2019—2024 年任沃尔沃汽车董事。<a href=\"https://investors.polestar.com/node/8396/html\">[s17]</a><a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a></li></ul><h3>董事会与股权</h3><p>董事会还包括吉利控股副总裁兼首席财务官张权（Quan / Joe Zhang），以及独立董事 Christine Gorjanc、Karl-Thomas Neumann、沈小洁（Xiaojie / Laura Shen）、Cynthia Dubin 和沃尔沃汽车代表 Arek Nowinski。<a href=\"https://investors.polestar.com/corporate-governance/board-of-directors/\">[s5]</a> 据 2026 年 7 月 2 日及 9 月 8 日的 Schedule 13D/A，李书福受益持有 99,358,168 股、占 60.5%，并拥有 108,325,939 股的唯一投票权；沃尔沃汽车相关实体（Volvo Car Corporation、Volvo Car AB 与 Snita Holding B.V.）合计持有 32,691,731 股、约 19.9%；吉利瑞典（Geely Sweden Holdings AB）及关联吉利实体持股 39.8%，PSD Investment Limited 持股 20.7%，Geely Sweden Automotive Investment B.V. 持股 19.6%。<a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926105649/0001104659-26-105649-index.htm\">[s19]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926080363/0001104659-26-080363-index.htm\">[s20]</a> 此外，据 2025 财年 20-F，其他持股 5% 以上的股东包括三井住友银行与渣打银行（香港）各约 7.1%、NATIXIS 与 BBVA 各约 5.4%。<a href=\"https://investors.polestar.com/sec-filings/sec-filing/20-f/0001884082-26-000006\">[s1]</a></p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive scope: our assessment</h3><p>Our assessment: Polestar competes in the premium battery-electric segment, against Tesla, BMW's i range, Audi e-tron, Mercedes-Benz EQ and Volvo's own electric models in Europe, and against Tesla and domestic premium EVs in China. This positioning is based on its product line-up and pricing, which in China has ranged from about RMB 300,000 (Polestar 2) to the RMB 700,000 level (Polestar 3 and Polestar 5).<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_27633709\">[s14]</a> The Polestar 4 SUV launched in 2026 extends the contest into Europe's D-SUV segment, which the CEO calls the largest and most dynamic segment in the European premium EV market.<a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>Strengths and weaknesses: our assessment</h3><p>Our assessment: the brand's main assets are Scandinavian design, a performance identity, and the resources of Geely and Volvo Cars, which provide manufacturing, engineering, supply chain and financing, letting Polestar roll out new models quickly across its markets.<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a> But the company remains deep in loss: 2025 net loss was US$2,357 million and total equity was negative (accumulated deficit of US$9,269 million at end-2025), so it depends on continued funding from its shareholders and external investors.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> It has also lost the U.S. new-vehicle market from model year 2027, and in China it has retreated to a small online-led presence, which limits its access to the world's largest EV market.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> Our assessment: compared with Tesla and BYD, which sell millions of vehicles a year, Polestar's roughly 60,000 units a year is small, limiting its ability to spread R&amp;D and channel costs — a constraint visible in its persistent losses.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> Geely and Volvo have also launched their own premium new-energy models (such as Zeekr and the Volvo EX90), creating some internal competition.<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></p>",
+      "zh": "<h3>竞争范围：我们的判断</h3><p>我们的判断：极星处于高端纯电细分市场，在欧洲与特斯拉、宝马 i 系列、奥迪 e-tron、奔驰 EQ 及沃尔沃自身电动车型竞争，在中国则与特斯拉及本土高端电动车竞争。这一判断依据其产品矩阵与定价——在中国售价从约 30 万元（Polestar 2）到 70 万元级别（Polestar 3、Polestar 5）不等。<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_27633709\">[s14]</a> 2026 年上市的 Polestar 4 SUV 版则把竞争延伸至欧洲 D 级 SUV 细分市场——CEO 称之为欧洲高端纯电市场「最大、最具活力」的细分。<a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a></p><h3>优势与短板：我们的判断</h3><p>我们的判断：品牌的核心资产是北欧设计、性能标签以及吉利与沃尔沃的资源支持——后者提供制造、工程、供应链与融资，使极星能快速在多个市场推出新车。<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a><a href=\"https://media.polestar.com/releases/1002?lang=ww_WW\">[s4]</a> 但公司仍深度亏损：2025 年净亏损 23.57 亿美元，股东权益为负（截至 2025 年底累计亏损 92.69 亿美元），高度依赖股东与外部投资人的持续注资。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> 此外，公司自 2027 车型年起失去美国新车市场，在中国也退守至小规模的线上为主模式，限制了其进入全球最大电动车市场的能力。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> 我们的判断：与特斯拉、比亚迪等年销数百万辆的对手相比，极星年销约 6 万辆的规模偏小，摊薄研发与渠道成本的能力有限，这一点在其持续亏损中有所体现。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> 吉利与沃尔沃自身也推出了高端新能源车型（如极氪、沃尔沃 EX90 等），与极星形成一定的内部竞争。<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></p>"
+    },
+    "outlook": {
+      "en": "<h3>Company plans</h3><p>Polestar plans its largest model offensive, with four new cars in three years: the Polestar 5 in 2026, the Polestar 4 SUV in 2026, the Polestar 2 successor in 2027 and the Polestar 7 compact SUV in 2028, with Polestar 7 to be built in Europe. It also plans to grow sales points by about 20% in 2026.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> After the U.S. exclusion, the company cut its 2026 volume guidance from low-double-digit to low-to-mid-single-digit growth.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> CEO Michael Lohscheller has said Polestar needs more time to reach profitability and has pushed back its cash-flow breakeven target from end-2025 to 2027, according to China Automotive News.<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> On specific products, the Polestar 5 has received the Autobest award, and the Polestar 3 was named the safest Executive Car of 2025.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> These are the company's stated targets, not achieved results.</p><h3>Our analysis</h3><p>Our assessment: returning to profit depends on three things — the Polestar 5 and Polestar 4 SUV ramping in Europe, holding volumes in Asia-Pacific after losing the U.S., and continued cost reduction. The main uncertainties are whether European competition intensifies, whether the loss of the U.S. market outweighs gains elsewhere, and whether Geely's and Volvo's willingness to keep funding the company holds up; until profitability is reached, external and related-party financing remains essential.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> We also note the company has booked about US$211 million of U.S.-related impact in H1 2026; if European new models ramp up as planned, losses could continue to narrow, but the timing of profitability remains uncertain.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></p>",
+      "zh": "<h3>公司规划</h3><p>极星计划推进品牌史上最大规模的产品攻势，三年内推出四款新车：2026 年的 Polestar 5 与 Polestar 4 SUV 版、2027 年的 Polestar 2 继任车型、2028 年的 Polestar 7 紧凑型 SUV，其中 Polestar 7 将在欧洲生产；并计划 2026 年将销售点数量增加约 20%。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a> 受美国禁售影响，公司将 2026 年销量指引由「低双位数增长」下调为「低至中个位数增长」。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> 据中国汽车报网，CEO Michael Lohscheller 曾表示公司实现盈利需要更长时间，并将自由现金流转正目标由 2025 年底推迟至 2027 年。<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> 在具体产品上，Polestar 5 已获 Autobest 奖项，Polestar 3 则被评为 2025 年度最安全行政级轿车。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a> 以上为公司目标表述，并非已实现结果。</p><h3>我们的分析</h3><p>我们的判断：能否扭亏取决于三点——Polestar 5 与 Polestar 4 SUV 版在欧洲的爬坡、失去美国后在亚太的销量保持，以及持续降本。主要变数在于欧洲竞争加剧、失去美国市场的损失可能超过其他市场的增量，以及吉利与沃尔沃持续注资意愿的可持续性；在实现盈利前，外部与关联方融资仍是关键。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a> 我们也注意到，公司已将美国业务带来的约 2.11 亿美元影响计入上半年，若欧洲新品如期放量，亏损有望继续收窄，但扭亏时点仍存在不确定性。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Persistent losses and negative equity:</strong> 2025 net loss was US$2,357 million; the accumulated deficit was US$9,269 million and total equity was about -US$5,122 million at end-2025.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a></li><li><strong>U.S. market exclusion and geopolitics:</strong> the U.S. BIS decision bars Polestar from selling new vehicles in the U.S. from model year 2027, costing about US$211 million of operating and net loss in H1 2026.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></li><li><strong>Dependence on Geely and Volvo Cars:</strong> Polestar relies on them for contract manufacturing, component supply and financing, including shareholder loans and debt-to-equity conversions.<a href=\"https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US\">[s6]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm\">[s21]</a></li><li><strong>China market collapse:</strong> China retail sales fell to 69 units in H1 2025 and the last direct store closed, weakening access to the largest EV market.<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></li><li><strong>Brand and pricing coherence:</strong> the line-up has swung between a RMB 1.45 million GT coupé, a RMB 300,000 fastback and RMB 700,000 SUVs, complicating brand positioning.<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></li><li><strong>Listing-compliance risk:</strong> in 2024 the stock traded below US$1 for over 30 days, triggering a Nasdaq warning; Polestar regained compliance only after a 1:30 ADS ratio change in December 2025.<a href=\"https://media.polestar.com/releases/842?lang=dk_DK\">[s9]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></li><li><strong>Supply-chain concentration and China ties:</strong> at end-2025, most of its 672 component and material suppliers were located in China and were contracted and managed through Volvo and Geely, creating geopolitical and trade-policy risk.<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a></li><li><strong>Liquidity pressure:</strong> H1 2026 free cash flow was -US$1,061 million, and cash fell from US$1,159 million at end-2025 to US$888 million at end-June 2026.<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></li></ul>",
+      "zh": "<ul><li><strong>持续亏损与负权益：</strong>2025 年净亏损 23.57 亿美元；截至 2025 年底累计亏损 92.69 亿美元，股东权益约 -51.22 亿美元。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025\">[s2]</a></li><li><strong>美国禁售与地缘政治：</strong>美国商务部工业与安全局决定自 2027 车型年起禁止极星在美销售新车，2026 上半年为此增加约 2.11 亿美元经营亏损与净亏损。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></li><li><strong>对吉利与沃尔沃的依赖：</strong>极星在代工制造、零部件供应与融资上依赖二者，包括股东贷款与债转股安排。<a href=\"https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US\">[s6]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm\">[s21]</a></li><li><strong>中国市场萎缩：</strong>2025 上半年在华零售仅 69 辆，且关闭最后一家直营门店，削弱其进入全球最大电动车市场的能力。<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></li><li><strong>品牌与定价连贯性：</strong>产品线在 145 万元的 GT 轿跑、约 30 万元的快背轿车与 70 万元级别的 SUV 之间大幅摆动，削弱品牌定位。<a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></li><li><strong>退市合规风险：</strong>2024 年股价曾连续超 30 个交易日低于 1 美元、触发纳斯达克警告；直至 2025 年 12 月将 ADS 比例调整为 1:30 后才重新合规。<a href=\"https://media.polestar.com/releases/842?lang=dk_DK\">[s9]</a><a href=\"https://www.cnenergynews.cn/article/4OvPctAabr9\">[s16]</a></li><li><strong>供应链集中与中国关联：</strong>截至 2025 年底，其 672 家零部件与材料供应商多位于中国，且由沃尔沃与吉利签约管理，存在地缘政治与贸易政策风险。<a href=\"https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf\">[s12]</a></li><li><strong>流动性压力：</strong>2026 年上半年自由现金流为 -10.61 亿美元，现金由 2025 年底的 11.59 亿美元降至 2026 年 6 月底的 8.88 亿美元。<a href=\"https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial\">[s3]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "Polestar Automotive Holding UK PLC Form 20-F (FY2025), U.S. SEC", "url": "https://investors.polestar.com/sec-filings/sec-filing/20-f/0001884082-26-000006", "date": "2026-04-17", "tier": "A" },
+    { "id": "s2", "name": "Polestar reports fourth quarter select and full-year 2025 financial results", "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-reports-fourth-quarter-select-and-full-year-2025", "date": "2026-04-17", "tier": "A" },
+    { "id": "s3", "name": "Polestar reports second quarter select and H1 2026 financial results", "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-reports-second-quarter-select-and-h1-2026-financial", "date": "2026-09-03", "tier": "A" },
+    { "id": "s4", "name": "Polestar reports record nine-month retail sales and its strongest third quarter", "url": "https://media.polestar.com/releases/1002?lang=ww_WW", "date": "2026-10-08", "tier": "A" },
+    { "id": "s5", "name": "Polestar Board of Directors (official page, accessed 2026-10-29)", "url": "https://investors.polestar.com/corporate-governance/board-of-directors/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "Polestar announces updates to its capital structure and intention to consolidate Polestar 3 manufacturing", "url": "https://media.polestar.com/releases/polestar-announces-updates-to-its-capital-structure-and-intention-to-consolidate-polestar-3-manufacturing?lang=en_US", "date": "2026-03-31", "tier": "A" },
+    { "id": "s7", "name": "Polestar appoints Jean-Francois Mady as CFO", "url": "https://media.polestar.com/releases/612?lang=ww_WW", "date": "2024-09-03", "tier": "A" },
+    { "id": "s8", "name": "Polestar announces USD 200 million equity investment by PSD Investment", "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-announces-usd-200-million-equity-investment", "date": "2025-06-16", "tier": "A" },
+    { "id": "s9", "name": "Polestar reports record retail sales in 2025", "url": "https://media.polestar.com/releases/842?lang=dk_DK", "date": "2026-01-09", "tier": "A" },
+    { "id": "s10", "name": "Polestar announces global volumes for the fourth quarter (2023)", "url": "https://media.polestar.com/releases/554?lang=es_ES", "date": "2024-01-11", "tier": "A" },
+    { "id": "s11", "name": "Polestar publishes full year 2023 results (Form 6-K)", "url": "https://investors.polestar.com/node/8431/html", "date": "2024-06-28", "tier": "A" },
+    { "id": "s12", "name": "Polestar Modern Slavery, Forced Labour and Child Labour Statement (FY2025, accessed 2026-10-29)", "url": "https://www.polestar.com/dato-assets/95362/1779278361-polestar-modern-slavery-statement-2026-2.pdf", "date": "2026-10-29", "tier": "A" },
+    { "id": "s13", "name": "中国青年网：吉利成为极星汽车第一大股东后，双方首次公开回应", "url": "https://finance.youth.cn/finance_gdxw/202408/t20240819_15457084.htm", "date": "2024-08-19", "tier": "B" },
+    { "id": "s14", "name": "澎湃新闻：极星汽车股价持续低于1美元恐退市 近三年亏141亿元", "url": "https://www.thepaper.cn/newsDetail_forward_27633709", "date": "2024-06-04", "tier": "B" },
+    { "id": "s15", "name": "央广网：极简设计与极致性能的碰撞，极星2试驾评测（含品牌沿革）", "url": "https://m.cnr.cn/auto/20210520/t20210520_525491070.html", "date": "2021-05-20", "tier": "B" },
+    { "id": "s16", "name": "中国汽车报网（中国能源网转载）：关闭最后一家门店，极星高端梦难圆", "url": "https://www.cnenergynews.cn/article/4OvPctAabr9", "date": "2025-10-17", "tier": "B" },
+    { "id": "s17", "name": "Polestar announces new Board Chair and strengthens Board of Directors (Form 6-K)", "url": "https://investors.polestar.com/node/8396/html", "date": "2024-06-18", "tier": "A" },
+    { "id": "s18", "name": "Polestar Automotive Holding UK PLC Form 20-F (FY2023), U.S. SEC", "url": "https://investors.polestar.com/node/8511/html", "date": "2024-08-14", "tier": "A" },
+    { "id": "s19", "name": "Polestar Schedule 13D/A (Amendment No. 16), U.S. SEC", "url": "https://www.sec.gov/Archives/edgar/data/1884082/000110465926105649/0001104659-26-105649-index.htm", "date": "2026-09-08", "tier": "A" },
+    { "id": "s20", "name": "Polestar Schedule 13D/A (Amendment No. 15), U.S. SEC", "url": "https://www.sec.gov/Archives/edgar/data/1884082/000110465926080363/0001104659-26-080363-index.htm", "date": "2026-07-02", "tier": "A" },
+    { "id": "s21", "name": "Polestar announces completion of USD 640 million debt-to-equity conversions (6-K EX-99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1884082/000110465926079627/tm2619526d1_ex99-1.htm", "date": "2026-07-01", "tier": "A" },
+    { "id": "s22", "name": "Polestar 4 SUV launch and pricing (official release)", "url": "https://media.polestar.com/releases/979?lang=no_NO", "date": "2026-09-02", "tier": "A" },
+    { "id": "s23", "name": "Reuters: Swedish EV maker Polestar posts lower-than-expected 2023 deliveries", "url": "https://www.reuters.com/business/autos-transportation/swedish-ev-maker-polestar-posts-lower-than-expected-2023-deliveries-2024-01-11/", "date": "2024-01-11", "tier": "B" },
+    { "id": "s24", "name": "Polestar releases fourth quarter and full year 2022 financial results", "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-releases-fourth-quarter-and-full-year-2022-financial", "date": "2023-03-02", "tier": "A" },
+    { "id": "s25", "name": "Polestar delivers on 2022 global volumes target", "url": "https://investors.polestar.com/news-releases/news-release-details/polestar-delivers-2022-global-volumes-target", "date": "2023-01-09", "tier": "A" },
+    { "id": "s26", "name": "浙江日报：在台州，探寻一款轻奢风电动汽车的国际基因", "url": "https://zjrb.zjol.com.cn/html/2020-08/25/content_3360288.htm", "date": "2020-08-25", "tier": "B" },
+    { "id": "s27", "name": "中国能源网（国际金融报）：遭退市警告 中国市场失利 极星汽车「四面楚歌」", "url": "https://www.cnenergynews.cn/2024lgESG/2024/05/16/detail_20240516161909.html", "date": "2024-05-16", "tier": "B" }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": "volvo",
+  "name_en": "Volvo Cars (Volvo Car AB)",
+  "name_zh": "沃尔沃汽车（Volvo Car AB）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1927 (the first car, the ÖV4, drove out of the Gothenburg factory gates on 14 April 1927; founded by Assar Gabrielsson and Gustaf Larson, initially as a subsidiary of SKF)",
+      "value_zh": "1927 年（首款车 ÖV4 于 1927 年 4 月 14 日驶出哥德堡工厂；由阿瑟·加布里埃尔松与古斯塔夫·拉尔森创立，最初是 SKF 的子公司）",
+      "period": null,
+      "source_ids": ["s16", "s30"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Gothenburg, Sweden",
+      "value_zh": "瑞典哥德堡",
+      "period": null,
+      "source_ids": ["s15"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Geely Sweden Holdings AB holds 78.65% of shares and capital, owned by Shanghai Geely Zhaoyuan International Investment Co., Ltd. and ultimately by Zhejiang Geely Holding Group",
+      "value_zh": "吉利瑞典控股（Geely Sweden Holdings AB）持股 78.65%，其上层为上海吉利兆圆国际投资有限公司，最终由浙江吉利控股集团持有",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Nasdaq Stockholm: VOLCAR B (IPO on 29 October 2021, raising gross proceeds of SEK 20 billion)",
+      "value_zh": "纳斯达克斯德哥尔摩：VOLCAR B（2021 年 10 月 29 日上市，募资总额约 200 亿瑞典克朗）",
+      "period": null,
+      "source_ids": ["s18"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "42,600 full-time employees (average)",
+      "value_zh": "42,600 名全职员工（平均）",
+      "period": "2025",
+      "source_ids": ["s15"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "SEK 357.3 billion (down 11% year on year)",
+      "value_zh": "3,573 亿瑞典克朗（同比 -11%）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Net income attributable to owners of the parent (FY2025)",
+      "label_zh": "归母净利润（2025 财年）",
+      "value_en": "SEK 174 million (the group net result including non-controlling interests was SEK -2,968 million)",
+      "value_zh": "1.74 亿瑞典克朗（含非控股权益的集团净利润为 -29.68 亿瑞典克朗）",
+      "period": "FY2025",
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Retail sales (2025)",
+      "label_zh": "零售销量（2025 年）",
+      "value_en": "710,042 cars (down 7% year on year)",
+      "value_zh": "710,042 辆（同比 -7%）",
+      "period": "2025",
+      "source_ids": ["s14"]
+    },
+    {
+      "label_en": "Sales by market (2025)",
+      "label_zh": "分市场销量（2025 年）",
+      "value_en": "Europe 332,667 (down 10%); China 149,549 (down 4%); US 121,607 (down 3%); other markets 106,219 (down 5%)",
+      "value_zh": "欧洲 332,667 辆（-10%）；中国 149,549 辆（-4%）；美国 121,607 辆（-3%）；其他市场 106,219 辆（-5%）",
+      "period": "2025",
+      "source_ids": ["s14"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1927",
+      "event_en": "Volvo Cars is founded in Gothenburg, Sweden by Assar Gabrielsson (President) and Gustaf Larson (director of engineering); the first car, the ÖV4, drives out of the factory on 14 April 1927. The Volvo trademark had been registered by SKF in 1915.",
+      "event_zh": "沃尔沃汽车在瑞典哥德堡创立，创始人为阿瑟·加布里埃尔松（总裁）与古斯塔夫·拉尔森（工程总监）；1927 年 4 月 14 日首款车 ÖV4 下线。「Volvo」商标 1915 年由 SKF 注册。",
+      "source_ids": ["s16", "s30"]
+    },
+    {
+      "date": "1999",
+      "event_en": "AB Volvo sells its car division to Ford Motor Company for about US$6.45 billion, separating Volvo Cars from the Volvo trucks, buses and construction-equipment group.",
+      "event_zh": "沃尔沃集团（AB Volvo）以约 64.5 亿美元将轿车业务出售给福特汽车，沃尔沃汽车自此与沃尔沃卡车、客车及工程机械集团分离。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2010-03",
+      "event_en": "Zhejiang Geely Holding Group and Ford sign a stock purchase agreement in Gothenburg on 28 March 2010 for Geely to acquire 100% of Volvo Car Corporation for USD 1.8 billion, including a USD 200 million note.",
+      "event_zh": "浙江吉利控股集团与福特于 2010 年 3 月 28 日在哥德堡签署股权收购协议，以 18 亿美元收购沃尔沃轿车公司 100% 股权，其中 2 亿美元以票据方式支付。",
+      "source_ids": ["s21", "s28"]
+    },
+    {
+      "date": "2010-08",
+      "event_en": "The acquisition is completed on 2 August 2010 at a ceremony in London: Geely issues the note and pays USD 1.3 billion in cash, and names Stefan Jacoby as Volvo Cars' new President and CEO (to take up the role on 16 August 2010), with Li Shufu as Chairman.",
+      "event_zh": "收购于 2010 年 8 月 2 日在伦敦完成交割：吉利开出票据并支付 13 亿美元现金，并任命斯特凡·雅各比为沃尔沃汽车新一任总裁兼 CEO（8 月 16 日履新），李书福任董事长。",
+      "source_ids": ["s28"]
+    },
+    {
+      "date": "2013",
+      "event_en": "Volvo Cars opens its first complete manufacturing plant outside Europe in Chengdu, China, initially producing the S60L and XC60.",
+      "event_zh": "沃尔沃汽车在成都建成欧洲以外首家完整整车工厂，最初生产 S60L 与 XC60。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2015",
+      "event_en": "The second-generation XC90 debuts, the first model on the Scalable Product Architecture (SPA) platform, launching a new design language and technology generation.",
+      "event_zh": "第二代 XC90 亮相，成为首款基于 SPA（可扩展产品架构）平台的车型，开启全新设计语言与技术代际。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2017",
+      "event_en": "Volvo announces its electrification strategy (from 2019 all new models to be electrified), becoming one of the first legacy premium carmakers to do so; the compact XC40, its first CMA-platform model, is also launched.",
+      "event_zh": "沃尔沃宣布电气化战略（自 2019 年起所有新车型均电动化），成为最早作出该承诺的传统豪华车企之一；同年推出首款 CMA 平台车型——紧凑型 SUV XC40。",
+      "source_ids": ["s24", "s16"]
+    },
+    {
+      "date": "2018",
+      "event_en": "Volvo Cars inaugurates its first US plant in Charleston (Ridgeville), South Carolina, making it a manufacturer with plants in Europe, Asia and North America.",
+      "event_zh": "沃尔沃汽车在美国南卡罗来纳州查尔斯顿（里奇维尔）建成首家美国工厂，成为横跨欧、亚、北美三大洲的整车制造商。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2019",
+      "event_en": "Volvo unveils its first fully electric SUV, based on the XC40 — launched as the XC40 Recharge and later renamed the EX40 — its first model with Android-based infotainment.",
+      "event_zh": "沃尔沃推出首款纯电 SUV（基于 XC40）——上市时名为 XC40 Recharge、后更名 EX40，也是首款搭载安卓车机系统的车型。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2021-10",
+      "event_en": "Volvo Car AB lists on Nasdaq Stockholm on 29 October 2021 under the ticker VOLCAR B, pricing its IPO at SEK 53 per share and raising about SEK 20 billion; Geely Sweden Holdings remains the largest shareholder.",
+      "event_zh": "沃尔沃汽车于 2021 年 10 月 29 日在纳斯达克斯德哥尔摩上市，代码 VOLCAR B，发行价每股 53 瑞典克朗、募资约 200 亿瑞典克朗；吉利瑞典控股仍为第一大股东。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2022",
+      "event_en": "Jim Rowan, formerly of Dyson and BlackBerry, succeeds Håkan Samuelsson as CEO and President, tasked with accelerating the software-led and electrified transformation.",
+      "event_zh": "曾任戴森与黑莓高管的骆文襟（Jim Rowan）接替汉肯·萨穆埃尔松出任 CEO 兼总裁，负责加速软件主导与电动化转型。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2024-09",
+      "event_en": "Volvo Cars adjusts its 2030 ambition, shifting from a fully-electric-only goal to 90-100% electrified (BEV plus PHEV) by 2030, allowing limited mild hybrids.",
+      "event_zh": "沃尔沃汽车调整 2030 年目标，由「纯电专属」调整为 2030 年电气化车型（纯电+插混）占比 90%–100%，允许保留少量轻混车型。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025-01",
+      "event_en": "Volvo Cars signs a share purchase agreement with Northvolt AB for Northvolt's shares in NOVO Energy AB, leading to Volvo Cars taking full (100%) ownership of the battery joint venture, subject to approvals.",
+      "event_zh": "沃尔沃汽车与 Northvolt AB 就后者持有的 NOVO Energy AB 股份签署股权收购协议，沃尔沃汽车将取得该电池合资公司 100% 股权（尚待相关批准）。",
+      "source_ids": ["s27"]
+    },
+    {
+      "date": "2025-04",
+      "event_en": "The board reappoints Håkan Samuelsson as CEO and President from 1 April 2025 for a two-year term, succeeding Jim Rowan; Volvo also launches a SEK 18 billion cost-and-cash action plan and names Fredrik Hansson CFO.",
+      "event_zh": "董事会任命汉肯·萨穆埃尔松自 2025 年 4 月 1 日起再度出任 CEO 兼总裁，任期两年，接替骆文襟；公司同时推出 180 亿瑞典克朗降本增效计划，并任命 Fredrik Hansson 为 CFO。",
+      "source_ids": ["s10", "s11", "s1"]
+    },
+    {
+      "date": "2025-11",
+      "event_en": "At its Strategy Update 2025, Volvo Cars sets a long-term target of an EBIT margin above 8% and positions the SPA3-based EX60 mid-size SUV as its key electrified-growth enabler.",
+      "event_zh": "在 2025 年战略更新发布会上，沃尔沃汽车设定长期息税前利润率超 8% 的目标，并将基于 SPA3 平台的中型纯电 SUV EX60 定位为电气化增长的核心。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "The board appoints Klaus Zellmer, CEO of Škoda Auto, as President and CEO, to assume the role no later than 1 October 2027; Håkan Samuelsson stays on to ensure a smooth transition.",
+      "event_zh": "董事会任命斯柯达汽车 CEO 克劳斯·泽尔默（Klaus Zellmer）为总裁兼 CEO，最晚于 2027 年 10 月 1 日履新；汉肯·萨穆埃尔松留任以确保平稳交接。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-10",
+      "event_en": "Volvo Cars posts a Q3 2026 operating loss and, on 2 October, withdraws its full-year 2026 volume and cash-flow guidance; it announces an additional SEK 5 billion in cost cuts and about 2,500 job reductions.",
+      "event_zh": "沃尔沃汽车公布 2026 年三季度经营亏损，并于 10 月 2 日撤回全年销量与现金流指引；宣布追加 50 亿瑞典克朗降本并全球裁员约 2,500 人。",
+      "source_ids": ["s7", "s8"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "XC60",
+      "name_zh": "XC60",
+      "role_en": "Mid-size premium SUV, the brand's global best-seller (230,655 cars in 2025), offered as mild hybrid and plug-in hybrid.",
+      "role_zh": "中型豪华 SUV，品牌全球最畅销车型（2025 年售出 230,655 辆），提供轻混与插混动力。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 239,900–396,900 (mild hybrid); RMB 299,900–523,900 (PHEV)",
+      "founded": 2008,
+      "owner_note_en": "Current generation on the SPA platform; XC60 was the top-selling Volvo model in 2025 (230,655 units). Volvo plans to localise XC60 production in Charleston, US in Q1 2027.",
+      "owner_note_zh": "现款基于 SPA 平台；XC60 为 2025 年沃尔沃最畅销车型（230,655 辆）。公司计划 2027 年一季度在美国查尔斯顿工厂本地化生产 XC60。",
+      "status": "active",
+      "source_ids": ["s14", "s36", "s7"]
+    },
+    {
+      "name_en": "XC40 / EX40",
+      "name_zh": "XC40 / EX40",
+      "role_en": "Compact premium SUV (and its fully electric derivative EX40), the brand's first CMA-platform model.",
+      "role_zh": "紧凑型豪华 SUV（及其纯电版本 EX40），品牌首款 CMA 平台车型。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 159,900–286,800 (XC40 mild hybrid)",
+      "founded": 2017,
+      "owner_note_en": "XC40/EX40 combined sales were 166,920 in 2025, the second-best-selling model family. Volvo's first fully electric SUV was based on the XC40 — launched as the XC40 Recharge (2019) and now named the EX40.",
+      "owner_note_zh": "2025 年 XC40/EX40 合计售出 166,920 辆，为品牌第二大车型系列。沃尔沃首款纯电 SUV 基于 XC40 打造——2019 年上市时名为 XC40 Recharge，现名 EX40。",
+      "status": "active",
+      "source_ids": ["s14", "s16", "s36"]
+    },
+    {
+      "name_en": "XC90",
+      "name_zh": "XC90",
+      "role_en": "Large three-row premium SUV, the brand's flagship family hauler, offered as mild hybrid and plug-in hybrid.",
+      "role_zh": "大型三排座豪华 SUV，品牌旗舰家庭车型，提供轻混与插混动力。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 399,900–638,900 (mild hybrid); RMB 469,900–795,900 (PHEV)",
+      "founded": 2002,
+      "owner_note_en": "Volvo's first SUV (2002); second generation launched 2015 on the SPA platform. Sold 103,217 units in 2025.",
+      "owner_note_zh": "沃尔沃首款 SUV（2002 年）；2015 年推出基于 SPA 平台的第二代。2025 年售出 103,217 辆。",
+      "status": "active",
+      "source_ids": ["s16", "s14", "s36"]
+    },
+    {
+      "name_en": "XC70",
+      "name_zh": "XC70",
+      "role_en": "Long-range plug-in hybrid (extended-range) SUV, positioned for the fast-growing electrified SUV segment, notably in China.",
+      "role_zh": "长续航插电混动（增程式）SUV，主攻快速增长的电气化 SUV 市场，尤其在中国市场。",
+      "price_band": "China: official guide price from RMB 411,900 (guide price range RMB 411,900–496,900); limited-time reference price from RMB 229,900 (as of October 2026)",
+      "founded": 2025,
+      "owner_note_en": "The company credits the XC70 long-range PHEV with lifting its China premium market share in 2025 and expects it to enter its first full production year in 2026. On the China official website the guide price starts at RMB 411,900, with a limited-time reference price from RMB 229,900.",
+      "owner_note_zh": "公司称 XC70 长续航插混车型帮助其 2025 年提升了中国豪华车市场份额，并预计 2026 年进入首个完整产销年份。中国官网显示其官方指导价 41.19 万元起（区间 41.19 万–49.69 万元），另有限时参考价 22.99 万元起。",
+      "status": "active",
+      "source_ids": ["s1", "s14", "s29", "s34"]
+    },
+    {
+      "name_en": "EX90",
+      "name_zh": "EX90",
+      "role_en": "Flagship large fully electric SUV, the brand's technology flagship with core-computing architecture.",
+      "role_zh": "旗舰大型纯电 SUV，品牌技术旗舰，搭载中央计算架构。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 459,900–795,900",
+      "founded": 2024,
+      "owner_note_en": "First customer deliveries began in 2024. The model year 2026 version reaches more customers; Q2 2026 saw an all-time-high order pace for the EX90.",
+      "owner_note_zh": "2024 年开启首批交付。2026 款面向更多客户；2026 年二季度 EX90 订单量达到历史最高。",
+      "status": "active",
+      "source_ids": ["s20", "s5", "s36"]
+    },
+    {
+      "name_en": "EX60",
+      "name_zh": "EX60",
+      "role_en": "Mid-size fully electric SUV, the first model on the new SPA3 architecture, Volvo's entry into the most important BEV segment globally.",
+      "role_zh": "中型纯电 SUV，首款基于全新 SPA3 架构的车型，沃尔沃切入全球最重要纯电细分市场的车型。",
+      "price_band": "Not yet disclosed in China (ramping up in Europe in 2026)",
+      "founded": 2026,
+      "owner_note_en": "Revealed in January 2026, production started in Torslanda in April 2026 with customer deliveries beginning in early summer 2026; Volvo reported over 50,000 European orders by Q3 2026.",
+      "owner_note_zh": "2026 年 1 月首发，4 月在托斯兰达工厂投产、初夏开启首批交付；截至 2026 年三季度公司披露欧洲订单超 5 万辆。",
+      "status": "active",
+      "source_ids": ["s13", "s5", "s7"]
+    },
+    {
+      "name_en": "EX30",
+      "name_zh": "EX30",
+      "role_en": "Small fully electric SUV, the brand's volume BEV entry model.",
+      "role_zh": "小型纯电 SUV，品牌走量纯电入门车型。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 159,800–203,800",
+      "founded": 2023,
+      "owner_note_en": "First deliveries from late 2023; production started in Ghent, Belgium in April 2025, and 2026 is its first full year of European production.",
+      "owner_note_zh": "2023 年底开启首批交付；2025 年 4 月起在比利时根特工厂投产，2026 年是其欧洲生产的首个完整年份。",
+      "status": "active",
+      "source_ids": ["s20", "s36", "s1"]
+    },
+    {
+      "name_en": "ES90",
+      "name_zh": "ES90",
+      "role_en": "Large fully electric sedan, launched in 2025 as a software-defined flagship saloon.",
+      "role_zh": "大型纯电轿车，2025 年推出的软件定义旗舰轿车。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 389,900–539,900",
+      "founded": 2025,
+      "owner_note_en": "Launched in 2025 alongside the EX30 Cross Country as part of Volvo's balanced electrified product portfolio.",
+      "owner_note_zh": "2025 年与 EX30 Cross Country 一同推出，构成沃尔沃均衡的电气化产品矩阵。",
+      "status": "active",
+      "source_ids": ["s36", "s3"]
+    },
+    {
+      "name_en": "EM90",
+      "name_zh": "EM90",
+      "role_en": "Large fully electric MPV, a China-focused premium electric people-mover.",
+      "role_zh": "大型纯电 MPV，面向中国市场的豪华纯电多人出行车型。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): RMB 498,000–818,000",
+      "founded": 2023,
+      "owner_note_en": "Unveiled in late 2023 with deliveries following in 2024, serving the premium MPV segment mainly in China.",
+      "owner_note_zh": "2023 年底发布，2024 年开启交付，主要服务中国豪华 MPV 市场。",
+      "status": "active",
+      "source_ids": ["s20", "s36"]
+    },
+    {
+      "name_en": "S90 / V90",
+      "name_zh": "S90 / V90",
+      "role_en": "Flagship sedan and estate (wagon) on the SPA platform, the traditional core of the brand's Swedish heritage.",
+      "role_zh": "基于 SPA 平台的旗舰轿车与旅行车，品牌北欧传承的传统核心。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): S90 from RMB 406,900; V90 Cross Country RMB 354,900–447,900",
+      "founded": 2016,
+      "owner_note_en": "The current S90/V90 generation launched in 2016 on the SPA platform; the S90 debuted at the Detroit auto show in January 2016.",
+      "owner_note_zh": "现款 S90/V90 于 2016 年基于 SPA 平台推出；S90 于 2016 年 1 月底特律车展首发。",
+      "status": "active",
+      "source_ids": ["s31", "s36"]
+    },
+    {
+      "name_en": "S60 / V60",
+      "name_zh": "S60 / V60",
+      "role_en": "Mid-size sedan and estate (wagon) on the SPA platform, with the S60 the first Volvo built in the United States.",
+      "role_zh": "基于 SPA 平台的中型轿车与旅行车，其中 S60 是首款在美国制造的沃尔沃车型。",
+      "price_band": "China official list price (from the Volvo Cars China official website, accessed 2026-10-29): S60 RMB 181,900–306,900; V60 RMB 298,900–339,900",
+      "founded": 2018,
+      "owner_note_en": "The current generation launched in 2018: the V60 was revealed in February 2018 and the S60 was launched in June 2018 as the first Volvo made in the US (Charleston).",
+      "owner_note_zh": "现款于 2018 年推出：V60 于 2018 年 2 月发布，S60 于 2018 年 6 月在美国查尔斯顿工厂下线并发布，是首款美国制造的沃尔沃车型。",
+      "status": "active",
+      "source_ids": ["s32", "s33", "s36"]
+    },
+    {
+      "name_en": "NOVO Energy",
+      "name_zh": "NOVO Energy",
+      "role_en": "Battery cell joint venture with Northvolt AB (originally 50/50), now fully owned by Volvo Cars; its operations were paused in January 2026 pending a new technology partner.",
+      "role_zh": "与 Northvolt AB 的电池电芯合资公司（原为 50/50 持股），现由沃尔沃汽车全资持有；因尚未确定新合作伙伴，其运营于 2026 年 1 月暂停。",
+      "price_band": null,
+      "founded": 2022,
+      "owner_note_en": "Established in 2022 as a joint venture between Northvolt and Volvo Cars to build a battery gigafactory in Gothenburg (planned capacity up to 50 GWh). After Northvolt's collapse, Volvo exercised its redemption right and signed a January 2025 agreement to take full ownership; in January 2026 Volvo paused operations while it searches for a new technology partner.",
+      "owner_note_zh": "2022 年由 Northvolt 与沃尔沃汽车合资成立，拟在哥德堡建设年产能最高 50 GWh 的电池工厂。Northvolt 破产后，沃尔沃行使赎回权并于 2025 年 1 月签署协议取得全部股权；2026 年 1 月沃尔沃在寻找新合作伙伴期间暂停其运营。",
+      "status": "active",
+      "source_ids": ["s27", "s35"]
+    }
+  ],
+  "financials": {
+    "currency": "SEK",
+    "unit": "million",
+    "standard": "IFRS",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 399343, "gross_margin_pct": 19.4, "net_profit": 13053, "rnd": 12884, "source_ids": ["s4"] },
+      { "fiscal_year": 2024, "revenue": 400234, "gross_margin_pct": 19.8, "net_profit": 15401, "rnd": 16983, "source_ids": ["s4", "s2"] },
+      { "fiscal_year": 2025, "revenue": 357263, "gross_margin_pct": 16.9, "net_profit": 174, "rnd": 26067, "source_ids": ["s2", "s3"] }
+    ],
+    "note_en": "Fiscal year ends 31 December. Figures are under IFRS, in Swedish kronor (SEK million), taken from Volvo Car Group's interim reports: Q4 2024 (FY2023 and FY2024 income statements), Q4 2025 (FY2025/FY2024 key figures and alternative performance measures) and Q1 2026 (FY2025 consolidated income statement). 'revenue' is total revenue; 'gross_margin_pct' is gross income divided by revenue; 'rnd' is research and development expenses as shown in the income statement; 'net_profit' is net income attributable to owners of the parent company (归母口径), not the group net result. The group net result including non-controlling interests differs: FY2023 SEK 14,066 million, FY2024 SEK 15,934 million and FY2025 SEK -2,968 million (non-controlling interests of SEK 1,013 million, SEK 533 million and SEK -3,142 million respectively). Non-controlling interests include the battery joint venture NOVO Energy, which Volvo Cars began consolidating from Q4 2024 after acquiring Northvolt's 50% stake; in January 2025 Volvo signed a share purchase agreement to take full (100%) ownership of NOVO Energy. The FY2025 figures are affected by an SEK 11,431 million impairment related to the EX90/ES90 platform recognised in Q2 2025: about SEK 4 billion was charged to cost of sales and SEK 7,373 million to research and development expenses (impairment of capitalised development costs). The reported FY2025 gross margin of 16.9% therefore includes the cost-of-sales impairment; gross margin excluding items affecting comparability was 18.0%. This page does not constitute any trading recommendation.",
+    "note_zh": "财年截至 12 月 31 日。数据按国际财务报告准则（IFRS）、以瑞典克朗计（单位：百万），取自沃尔沃汽车集团季度报告：2024 年第四季度报告（2023、2024 财年利润表）、2025 年第四季度报告（2025、2024 财年关键指标及替代业绩指标）及 2026 年第一季度报告（2025 财年合并利润表）。「revenue」为总收入；「gross_margin_pct」为毛利／收入；「rnd」为利润表中的研发费用；「net_profit」为归属于母公司股东的净利润（归母口径），而非集团净利润。含非控股权益的集团净利润分别为：2023 财年 140.66 亿、2024 财年 159.34 亿、2025 财年 -29.68 亿瑞典克朗（对应非控股权益分别为 10.13 亿、5.33 亿、-31.42 亿瑞典克朗）。非控股权益包括电池合资公司 NOVO Energy——沃尔沃汽车自 2024 年四季度收购 Northvolt 所持 50% 股权后开始将其并表，并于 2025 年 1 月签署股权收购协议取得其 100% 股权。2025 财年数据受 2025 年二季度确认的 114.31 亿瑞典克朗 EX90/ES90 平台减值影响：其中约 40 亿瑞典克朗计入销售成本、73.73 亿瑞典克朗计入研发费用（资本化开发成本减值）。因此报表毛利率 16.9% 包含这笔销售成本减值；剔除影响可比性项目后的毛利率为 18.0%。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Volvo Cars (Volvo Car AB) is a Swedish premium car maker founded in Gothenburg in 1927 and majority-owned by China's Zhejiang Geely Holding Group, which acquired the company from Ford in 2010. The operating and listed entity, Volvo Car AB, has been listed on Nasdaq Stockholm under the ticker VOLCAR B since its initial public offering on 29 October 2021, which raised about SEK 20 billion; the largest shareholder, Geely Sweden Holdings AB, held 78.65% of shares and capital as of the FY2025 report.<a href=\"https://www.volvocars.com/intl/media/press-releases/F33E9031A8ED4431/\">[s1]</a><a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://investors.volvocars.com/~/media/Files/V/Volvo-Cars-IR-V2/documents/Volvo_Cars_announces_Trading_on_Nasdaq_Stockholm_ENG.pdf\">[s18]</a></p><p>Volvo Cars sells premium SUVs, sedans and estates in more than 100 countries, built around safety and Scandinavian design. Its line-up spans mild-hybrid and plug-in-hybrid versions of the XC60, XC40, XC90 and XC70 SUVs, and the fully electric EX90, EX60, EX30, ES90 and EM90.<a href=\"https://www.volvocars.com/intl/media/this-is-volvo-cars/\">[s15]</a> In 2025 the company sold 710,042 cars (down 7%), of which 46% were electrified, and posted revenue of SEK 357.3 billion; group operating income (EBIT) fell to SEK 0.3 billion and the group posted a net loss of SEK 3.0 billion (net income attributable to the parent of SEK 174 million).<a href=\"https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC\">[s14]</a><a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://mb.cision.com/Main/20685/4341827/4065356.pdf\">[s3]</a></p><p>Within Geely Holding's portfolio, Volvo Cars is the group's premium brand of Swedish origin and sits alongside Geely Auto, Zeekr, Lynk &amp; Co, Polestar and Lotus; it is a separately listed company that reports its own financials under IFRS.<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a> Entering 2026, the company faces a sharp China decline and US pressure, and has intensified its turnaround: an additional SEK 5 billion in cost cuts, about 2,500 global job reductions, and the withdrawal of its full-year volume guidance.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/59F8B5A610282362/\">[s8]</a></p>",
+      "zh": "<p>沃尔沃汽车（Volvo Car AB）是 1927 年创立于瑞典哥德堡的豪华汽车制造商，现由中国浙江吉利控股集团控股——吉利于 2010 年从福特手中收购该公司。其运营与上市主体 Volvo Car AB 自 2021 年 10 月 29 日首次公开募股（募资约 200 亿瑞典克朗）起在纳斯达克斯德哥尔摩以代码 VOLCAR B 挂牌；截至 2025 财年报告，第一大股东吉利瑞典控股（Geely Sweden Holdings AB）持有 78.65% 股份与资本。<a href=\"https://www.volvocars.com/intl/media/press-releases/F33E9031A8ED4431/\">[s1]</a><a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://investors.volvocars.com/~/media/Files/V/Volvo-Cars-IR-V2/documents/Volvo_Cars_announces_Trading_on_Nasdaq_Stockholm_ENG.pdf\">[s18]</a></p><p>沃尔沃汽车在全球 100 多个国家销售以安全与北欧设计著称的豪华 SUV、轿车与旅行车，产品线涵盖 XC60、XC40、XC90、XC70 等轻混/插混 SUV，以及 EX90、EX60、EX30、ES90、EM90 等纯电车型。<a href=\"https://www.volvocars.com/intl/media/this-is-volvo-cars/\">[s15]</a> 2025 年公司销量 710,042 辆（同比 -7%），其中 46% 为电气化车型；营收 3,573 亿瑞典克朗，集团营业利润（EBIT）降至 3 亿瑞典克朗，集团净利润为 -30 亿瑞典克朗（归母净利润 1.74 亿瑞典克朗）。<a href=\"https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC\">[s14]</a><a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://mb.cision.com/Main/20685/4341827/4065356.pdf\">[s3]</a></p><p>在吉利控股的多品牌矩阵中，沃尔沃汽车是集团旗下扎根瑞典的豪华品牌，与吉利汽车、极氪、领克、极星、路特斯并列；它是独立上市公司，按 IFRS 单独披露财务。<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a> 进入 2026 年，公司面临中国市场大幅下滑与美国市场压力，遂强化扭亏计划：追加 50 亿瑞典克朗降本、全球裁员约 2,500 人，并撤回全年销量指引。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/59F8B5A610282362/\">[s8]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Volvo Cars is a single-brand premium car maker whose revenue is dominated by vehicle sales, supplemented by parts and accessories, used cars, contract manufacturing and (declining) emissions-credit sales.<a href=\"https://mb.cision.com/Main/20685/4375596/4197338.pdf\">[s25]</a> It employed about 42,600 full-time staff in 2025, with head office, product development, marketing and administration in Gothenburg, and R&amp;D/design centres in Gothenburg and Shanghai.<a href=\"https://www.volvocars.com/intl/media/this-is-volvo-cars/\">[s15]</a> Production plants are located in Gothenburg/Torslanda (Sweden), Ghent (Belgium), Ridgeville/Charleston (South Carolina, US), and Chengdu, Daqing and Taizhou (China).<a href=\"https://www.volvocars.com/intl/media/this-is-volvo-cars/\">[s15]</a></p><h3>Technology and platforms</h3><p>Volvo's range is built on scalable vehicle architectures: the Scalable Product Architecture (SPA) introduced with the second-generation XC90 in 2015, the smaller Compact Modular Architecture (CMA) introduced with the XC40 in 2017, and the new SPA3 architecture that underpins the EX60 electric SUV.<a href=\"https://www.volvocars.com/intl/our-heritage/\">[s16]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a> The company positions the SPA3-based EX60 as the key enabler of its electrified growth and cites the shared hardware and software platforms with Geely Holding as a cost-structure advantage.<a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a></p><h3>Regional footprint</h3><p>Europe is the largest market (332,667 cars in 2025, down 10%), followed by China (149,549, down 4%), the US (121,607, down 3%) and other markets (106,219, down 5%); China, the US, the UK, Germany and Sweden were the five largest markets in 2025.<a href=\"https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC\">[s14]</a> In 2025 the electrified share reached 46% (24% fully electric in Q4), which Volvo describes as the highest among legacy premium peers; the company reduced CO2 emissions per car by 31% versus its 2018 baseline.<a href=\"https://www.volvocars.com/intl/media/press-releases/196E78D5A4E72057\">[s26]</a></p><h3>Latest results (as of 2026-10-29)</h3><p>In H1 2026 retail sales were 324,800 cars (down 8%). Q2 2026 revenue was SEK 77.7 billion with operating income of SEK 0.8 billion (EBIT margin 1.1%) and net income of SEK 0.4 billion; the company said it delivered its SEK 5 billion full-year cost-saving target six months early.<a href=\"https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/\">[s5]</a><a href=\"https://mb.cision.com/Main/20685/4375596/4197338.pdf\">[s25]</a></p><p>Q3 2026 was tougher: revenue of SEK 66.9 billion (down 22.6%), an operating loss of SEK 5.6 billion (EBIT margin -8.4%) and free cash flow of SEK -8.9 billion, driven by China revenue down nearly 50% year on year, US tariff effects, a SEK 1.1 billion CAFE-credit revaluation and recognition of Polestar losses.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> Q3 retail sales were 141,609 cars (down 10.7%), with Europe and other markets up 2%, the Americas down 14% and Greater China down 40.6%.<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a></p><h3>Cost and structural actions</h3><p>After the 2025 SEK 18 billion cost-and-cash plan, the company announced in Q3 2026 an additional SEK 5 billion of indirect-cost and variable-cost reductions, cutting about 2,500 jobs globally (2,000 in Sweden) and targeting a nearly 25% reduction in total indirect spend by end-2027 versus FY2024.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> It plans to concentrate production in five dedicated Volvo plants globally and is exploring multi-brand co-assembly with Geely at the Chengdu and Ghent plants.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><h3>Battery joint venture</h3><p>NOVO Energy, the Gothenburg battery joint venture with Northvolt, became fully owned by Volvo Cars after a January 2025 share purchase agreement; Volvo paused its operations in January 2026 while it searches for a new technology partner.<a href=\"https://www.volvocars.com/intl/media/press-releases/938E188B622CE23C/\">[s27]</a><a href=\"https://www.novoenergy.se/first-ceremonial-shovel-for-novo-energy-gigafactory\">[s35]</a></p>",
+      "zh": "<h3>业务结构</h3><p>沃尔沃汽车是单一品牌的豪华车企，收入以整车销售为主，辅以零部件与配件、二手车、代工制造及（持续下滑的）碳积分销售。<a href=\"https://mb.cision.com/Main/20685/4375596/4197338.pdf\">[s25]</a> 2025 年公司约有 42,600 名全职员工，总部、产品开发、市场与行政职能位于哥德堡，并在哥德堡与上海设有研发/设计中心。<a href=\"https://www.volvocars.com/intl/media/this-is-volvo-cars/\">[s15]</a> 生产工厂位于瑞典哥德堡/托斯兰达、比利时根特、美国南卡罗来纳州里奇维尔（查尔斯顿），以及中国的成都、大庆与台州。<a href=\"https://www.volvocars.com/intl/media/this-is-volvo-cars/\">[s15]</a></p><h3>技术与平台</h3><p>沃尔沃的产品线基于可扩展整车架构：2015 年随第二代 XC90 推出的 SPA（可扩展产品架构）、2017 年随 XC40 推出的 CMA（紧凑模块化架构），以及支撑 EX60 纯电 SUV 的全新 SPA3 架构。<a href=\"https://www.volvocars.com/intl/our-heritage/\">[s16]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a> 公司把基于 SPA3 的 EX60 定位为电气化增长的核心抓手，并将与吉利控股共享硬件与软件平台视为成本结构优势。<a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a></p><h3>区域布局</h3><p>欧洲是最大市场（2025 年 332,667 辆，同比 -10%），其后是中国（149,549 辆，-4%）、美国（121,607 辆，-3%）与其他市场（106,219 辆，-5%）；中国、美国、英国、德国、瑞典是 2025 年五大市场。<a href=\"https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC\">[s14]</a> 2025 年电气化车型占比达 46%（四季度纯电占比 24%），公司称其在传统豪华车企中电气化占比最高；单车二氧化碳排放较 2018 年基线下降 31%。<a href=\"https://www.volvocars.com/intl/media/press-releases/196E78D5A4E72057\">[s26]</a></p><h3>最新业绩（截至 2026-10-29）</h3><p>2026 年上半年零售销量 324,800 辆（同比 -8%）。二季度营收 777 亿瑞典克朗、营业利润 8 亿瑞典克朗（EBIT 利润率 1.1%）、净利润 4 亿瑞典克朗；公司称全年 50 亿瑞典克朗降本目标已提前六个月完成。<a href=\"https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/\">[s5]</a><a href=\"https://mb.cision.com/Main/20685/4375596/4197338.pdf\">[s25]</a></p><p>三季度形势更为严峻：营收 669 亿瑞典克朗（同比 -22.6%）、营业亏损 56 亿瑞典克朗（EBIT 利润率 -8.4%）、自由现金流 -89 亿瑞典克朗，主因是中国区营收同比下滑近 50%、美国关税影响、11 亿瑞典克朗 CAFE 积分重估损失以及确认极星亏损。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> 三季度零售 141,609 辆（同比 -10.7%），其中欧洲及其他市场 +2%、美洲 -14%、大中华区 -40.6%。<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a></p><h3>降本与结构调整</h3><p>继 2025 年 180 亿瑞典克朗降本增效计划后，公司于 2026 年三季度宣布追加 50 亿瑞典克朗的间接支出与可变成本削减，将全球裁员约 2,500 人（其中瑞典 2,000 人），目标到 2027 年底整体间接支出较 2024 财年下降近 25%。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> 公司计划将生产集中于全球五个专用沃尔沃工厂，并正在成都与根特工厂探索与吉利的「多品牌共线」组装。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><h3>电池合资公司</h3><p>与 Northvolt 在哥德堡合资的电池公司 NOVO Energy 在 2025 年 1 月签署股权收购协议后由沃尔沃汽车全资持有；沃尔沃于 2026 年 1 月在其寻找新合作伙伴期间暂停了该公司运营。<a href=\"https://www.volvocars.com/intl/media/press-releases/938E188B622CE23C/\">[s27]</a><a href=\"https://www.novoenergy.se/first-ceremonial-shovel-for-novo-energy-gigafactory\">[s35]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founders</h3><p>The company was founded in 1927 in Gothenburg by Assar Gabrielsson and Gustaf Larson, initially as a subsidiary of the ball-bearing maker SKF; Gabrielsson became President and Larson director of engineering. Their guiding principle was safety.<a href=\"https://www.volvocars.com/intl/media/press-releases/B6C0C388A0157722/\">[s30]</a><a href=\"https://www.volvocars.com/intl/our-heritage/\">[s16]</a></p><h3>Chairperson and key executives (as of 2026-10-29)</h3><ul><li><strong>Eric Li (Li Shufu)</strong> — Chairperson of the Board, re-elected at the 2026 AGM; he is the chairman and main owner of Geely Holding and has chaired Volvo Cars since the 2010 acquisition.<a href=\"https://www.volvocars.com/intl/media/press-releases/04E78FFC6E57069C/\">[s12]</a><a href=\"https://investors.volvocars.com/~/media/Files/V/Volvo-Cars-IR-V2/documents/Volvo_Cars_announces_Trading_on_Nasdaq_Stockholm_ENG.pdf\">[s18]</a></li><li><strong>Håkan Samuelsson</strong> — President and CEO since 1 April 2025, on a two-year term; previously Volvo Cars CEO from 2012 to 2022 and later Polestar chair until 2024. Earlier he was CEO of MAN and an executive at Scania.<a href=\"https://www.volvocars.com/intl/media/press-releases/325DE2D938F64746/\">[s10]</a></li><li><strong>Klaus Zellmer</strong> — appointed President and CEO in September 2026, to assume the role no later than 1 October 2027; currently Chairman of the Board of Management and CEO of Škoda Auto, formerly a board member at Volkswagen Passenger Cars (sales/marketing) and a more than 20-year Porsche executive.<a href=\"https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/\">[s9]</a></li><li><strong>Fredrik Hansson</strong> — Chief Financial Officer since 24 April 2025, succeeding Johan Ekdahl; previously Volvo's Head of Global Controlling &amp; Performance Steering, Deputy CFO and a former McKinsey partner.<a href=\"https://www.volvocars.com/intl/media/press-releases/84FBEB2D31C7C361/\">[s11]</a></li><li><strong>Erik Severinson</strong> — Chief Commercial Officer, who comments on the company's global sales performance.<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a></li></ul><p>In China, the company appointed Duan Jianjun as President and CEO of Volvo Cars Greater China in May 2026, succeeding Yuan Xiaolin, and He Kuo as President of the Greater China sales company in September 2026.<a href=\"https://jnzstatic.cs.com.cn/zzb/htmlInfo/122314.html\">[s22]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/09/09/detail_2026090910037764.html\">[s23]</a> Jim Rowan, CEO from 2022, stepped down on 31 March 2025.<a href=\"https://www.volvocars.com/intl/media/press-releases/325DE2D938F64746/\">[s10]</a></p><h3>Board and ownership</h3><p>After the AGM of 31 March 2026, the board comprises Eric Li (chair), Håkan Samuelsson, Daniel Li (Li Donghui), Diarmuid O'Connell, Jonas Samuelson, Lila Tretikov, Ruby Lu (Rong Lu), Pieter Nota, Natalie Knight and Markus Schäfer (the latter effective 1 July 2026). The AGM resolved that no dividend be paid for FY2025 and re-elected Deloitte AB as auditor.<a href=\"https://www.volvocars.com/intl/media/press-releases/04E78FFC6E57069C/\">[s12]</a></p><p>Geely Sweden Holdings AB holds 78.65% of shares and capital, itself owned by Shanghai Geely Zhaoyuan International Investment Co., Ltd., ultimately owned by Zhejiang Geely Holding Group.<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a></p>",
+      "zh": "<h3>创始人</h3><p>公司 1927 年由阿瑟·加布里埃尔松（Assar Gabrielsson）与古斯塔夫·拉尔森（Gustaf Larson）在哥德堡创立，最初是轴承制造商 SKF 的子公司；加布里埃尔松任总裁、拉尔森任工程总监。二人确立的指导原则是「安全」。<a href=\"https://www.volvocars.com/intl/media/press-releases/B6C0C388A0157722/\">[s30]</a><a href=\"https://www.volvocars.com/intl/our-heritage/\">[s16]</a></p><h3>董事长与核心管理层（截至 2026-10-29）</h3><ul><li><strong>李书福（Eric Li）</strong> — 董事会主席，2026 年股东大会获连任；他是吉利控股董事长兼主要股东，自 2010 年吉利收购沃尔沃以来一直担任沃尔沃汽车董事长。<a href=\"https://www.volvocars.com/intl/media/press-releases/04E78FFC6E57069C/\">[s12]</a><a href=\"https://investors.volvocars.com/~/media/Files/V/Volvo-Cars-IR-V2/documents/Volvo_Cars_announces_Trading_on_Nasdaq_Stockholm_ENG.pdf\">[s18]</a></li><li><strong>汉肯·萨穆埃尔松（Håkan Samuelsson）</strong> — 总裁兼 CEO，2025 年 4 月 1 日起任，任期两年；曾于 2012—2022 年任沃尔沃汽车 CEO，后任极星董事长至 2024 年，此前曾任 MAN 集团 CEO 及斯堪尼亚高管。<a href=\"https://www.volvocars.com/intl/media/press-releases/325DE2D938F64746/\">[s10]</a></li><li><strong>克劳斯·泽尔默（Klaus Zellmer）</strong> — 2026 年 9 月获任总裁兼 CEO，最晚于 2027 年 10 月 1 日履新；现任斯柯达汽车董事会主席兼 CEO，曾任大众乘用车品牌董事会成员（销售/营销）及在保时捷任职逾 20 年。<a href=\"https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/\">[s9]</a></li><li><strong>Fredrik Hansson</strong> — 首席财务官，2025 年 4 月 24 日起任，接替 Johan Ekdahl；此前任沃尔沃全球管控与绩效负责人、副 CFO，曾为麦肯锡合伙人。<a href=\"https://www.volvocars.com/intl/media/press-releases/84FBEB2D31C7C361/\">[s11]</a></li><li><strong>Erik Severinson</strong> — 首席商务官（Chief Commercial Officer），对外就全球销量表态。<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a></li></ul><p>在中国市场，公司 2026 年 5 月任命段建军为沃尔沃汽车大中华区总裁兼 CEO，接替袁小林；2026 年 9 月任命何阔为大中华区销售公司总裁。<a href=\"https://jnzstatic.cs.com.cn/zzb/htmlInfo/122314.html\">[s22]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/09/09/detail_2026090910037764.html\">[s23]</a> 2022 年起任 CEO 的骆文襟（Jim Rowan）于 2025 年 3 月 31 日卸任。<a href=\"https://www.volvocars.com/intl/media/press-releases/325DE2D938F64746/\">[s10]</a></p><h3>董事会与股权</h3><p>2026 年 3 月 31 日股东大会后，董事会由李书福（主席）、汉肯·萨穆埃尔松、李东辉（Daniel Li）、Diarmuid O'Connell、Jonas Samuelson、Lila Tretikov、卢蓉（Ruby Lu / Rong Lu）、Pieter Nota、Natalie Knight 及 Markus Schäfer（后者自 2026 年 7 月 1 日生效）组成。股东大会决议 2025 财年不派发股息，并续聘德勤（Deloitte AB）为审计师。<a href=\"https://www.volvocars.com/intl/media/press-releases/04E78FFC6E57069C/\">[s12]</a></p><p>吉利瑞典控股持有 78.65% 股份与资本，其上层为上海吉利兆圆国际投资有限公司，最终由浙江吉利控股集团持有。<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a></p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive scope (our assessment)</h3><p>Our assessment: Volvo Cars competes in the global premium segment against BMW, Mercedes-Benz and Audi, in fully electric models increasingly against Tesla, and in China against domestic premium EV makers. This positioning is based on its product portfolio and pricing, which in China ranges from about RMB 160,000 (EX30) to RMB 818,000 (EM90).<a href=\"https://www.volvocars.com.cn/\">[s36]</a> In Europe it is one of the strongest legacy brands in fully electric sales, with a 45% BEV share in Q3 2026.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><h3>Strengths and weaknesses (our assessment)</h3><p>Our assessment: the brand's main assets are its safety reputation, Swedish heritage and the resources of Geely Holding, which provide shared hardware sourcing, platforms and capital, letting Volvo cut costs and develop regional products; management explicitly cites the Geely relationship as a cost-structure advantage.<a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a> In Europe its BEV position is strong and the EX60 had more than 50,000 orders by Q3 2026.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><p>Our assessment: but profitability is thin — FY2025 group EBIT was only SEK 0.3 billion on revenue of SEK 357.3 billion and the group swung to a net loss, so the company relies on cost cutting rather than pricing power.<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a> In China its sales fell 40.6% in Q3 2026 amid what the company calls hypercompetition from local brands, and in the US tariffs and the removal of EV incentives continue to pressure margins.<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><p>Our assessment: compared with the largest global premium and mass-market brands, Volvo's roughly 710,000-unit scale (2025) is mid-tier, limiting its ability to amortise R&amp;D and platform costs; its high exposure to a shrinking premium segment in China is a structural pressure.<a href=\"https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC\">[s14]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p>",
+      "zh": "<h3>竞争范围（我们的判断）</h3><p>我们的判断：沃尔沃汽车处于全球豪华车细分市场，与宝马、奔驰、奥迪竞争，纯电车型与特斯拉形成竞争，在中国市场还面临本土高端电动车品牌的竞争。这一判断依据其产品矩阵与定价——在华价格从约 16 万元（EX30）到 81.8 万元（EM90）不等。<a href=\"https://www.volvocars.com.cn/\">[s36]</a> 在欧洲，它是纯电销量表现最强的传统豪华品牌之一，2026 年三季度纯电占比达 45%。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><h3>优势与短板（我们的判断）</h3><p>我们的判断：品牌核心资产是安全口碑、北欧传承与吉利控股的资源支持——后者提供共享硬件采购、平台与资金，使沃尔沃能够降本并开发区域化产品；管理层明确将吉利关系视为成本结构优势。<a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a> 在欧洲其纯电地位稳固，EX60 截至 2026 年三季度订单超 5 万辆。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><p>我们的判断：但盈利薄弱——2025 财年集团 EBIT 仅 3 亿瑞典克朗（营收 3,573 亿瑞典克朗），集团由盈转亏，公司更多依赖降本而非定价能力。<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a> 在中国，三季度销量同比下滑 40.6%，公司称面临本土品牌的「极度竞争」；在美国，关税与电动车补贴退出持续挤压利润。<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p><p>我们的判断：与最大的全球豪华及大众品牌相比，沃尔沃约 71 万辆（2025 年）的规模处于中游，摊薄研发与平台成本的能力有限；其对持续收缩的中国传统豪华细分市场的高敞口，构成结构性压力。<a href=\"https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC\">[s14]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></p>"
+    },
+    "outlook": {
+      "en": "<h3>Company plans</h3><p>At its Strategy Update 2025, Volvo Cars set a long-term target of an EBIT margin above 8% with strong positive cash flows and growth through electrification, with the SPA3-based EX60 as the key enabler.<a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a> It plans its largest-ever product push of 13 new cars between now and end-2030, including six China-specific models developed with Geely; in 2027 it will reveal three, one for Europe and two China-specific.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> In 2027 it will also introduce its next global BEV, aimed at a larger, lower-priced segment in Europe with first deliveries after the summer, and it is exploring multi-brand assembly with Geely at its Chengdu and Ghent plants.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> It also plans to localise XC60 production in Charleston in Q1 2027 and to concentrate on five dedicated plants globally.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> For 2026 it aimed to return to full-year volume growth and better free cash flow, but withdrew this guidance on 2 October 2026 citing a weaker market.<a href=\"https://www.volvocars.com/intl/media/press-releases/59F8B5A610282362/\">[s8]</a> These are the company's stated targets, not achieved results.</p><h3>Our analysis</h3><p>Our assessment: near-term performance hinges on the EX60 ramp in Europe (which the company says is slower than planned due to cell-to-body technology) and the XC70 and long-range PHEVs, offsetting the China decline and US headwinds; the company itself expects a significantly stronger second half of 2026 in sales than the first, supported by Europe and a US recovery.<a href=\"https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/\">[s5]</a> A return to a mid-to-high single-digit EBIT margin depends on cost reduction, the common hardware/software platform with Geely and regionalised production taking hold; the withdrawal of 2026 volume guidance and the Q3 2026 loss show the plan is not yet secure.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> The succession to Klaus Zellmer (by October 2027) introduces execution risk during a critical turnaround, but also signals a planned, orderly handover.<a href=\"https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/\">[s9]</a></p>",
+      "zh": "<h3>公司规划</h3><p>在 2025 年战略更新发布会上，沃尔沃汽车设定长期息税前利润率超 8%、保持强劲正现金流并以电气化驱动增长的目标，核心抓手是基于 SPA3 平台的 EX60。<a href=\"https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/\">[s13]</a> 公司计划推进史上最大规模产品攻势：从现在到 2030 年底推出 13 款新车，其中含 6 款与吉利合作开发的中国专属车型；2027 年将发布 3 款（1 款欧洲车型、2 款中国专属）。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> 2027 年公司还将推出下一款全球纯电车型，主攻欧洲更大、价格更低的主流细分市场，首批交付自夏季后开始；并正探索与吉利在成都、根特工厂进行多品牌共线生产。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> 公司还计划 2027 年一季度在查尔斯顿本地化生产 XC60，并将全球生产集中于五个专用工厂。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> 就 2026 年，公司原拟恢复全年销量增长并改善现金流，但已于 2026 年 10 月 2 日以市场疲软为由撤回该指引。<a href=\"https://www.volvocars.com/intl/media/press-releases/59F8B5A610282362/\">[s8]</a> 以上为公司目标表述，并非已实现结果。</p><h3>我们的分析</h3><p>我们的判断：近期表现取决于 EX60 在欧洲的爬坡（公司披露因 cell-to-body 新工艺而慢于原计划）以及 XC70 等长续航插混车型放量，以对冲中国下滑与美国压力；公司自身也预期 2026 年下半年销量将显著强于上半年，依托欧洲与美国复苏。<a href=\"https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/\">[s5]</a> 能否回到中高个位数 EBIT 利润率，取决于降本、与吉利的通用硬件/软件平台以及区域化生产是否落地；2026 年销量指引的撤回与三季度亏损显示该计划尚未稳固。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a> 最晚 2027 年 10 月的 CEO 交接（由克劳斯·泽尔默接任）在关键扭亏期引入执行风险，但也意味着一次有计划的平稳过渡。<a href=\"https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/\">[s9]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>China market decline and hypercompetition:</strong> Greater China deliveries fell 40.6% in Q3 2026 and China revenue fell nearly 50% year on year, as local premium EV brands exert severe price pressure.<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>US tariff and regulatory pressure:</strong> US import tariffs, the removal of EV incentives and a SEK 1.1 billion CAFE-credit revaluation from US legislation changes weighed on margins in 2025-2026.<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>Thin profitability:</strong> FY2025 group EBIT was SEK 0.3 billion and the group posted a net loss of SEK 3.0 billion; Q3 2026 was a loss-making quarter, so resilience depends on continued cost actions.<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>Impairment and electrification-transition risk:</strong> the SEK 11.4 billion EX90/ES90 platform impairment in Q2 2025 shows that EV-platform lifecycle profitability can deteriorate and trigger charges.<a href=\"https://mb.cision.com/Main/20685/4341827/4065356.pdf\">[s3]</a></li><li><strong>Battery-joint-venture uncertainty:</strong> after Northvolt's collapse, Volvo took full ownership of NOVO Energy but paused its operations in January 2026 pending a new technology partner, leaving battery sourcing for the Gothenburg gigafactory unresolved.<a href=\"https://www.volvocars.com/intl/media/press-releases/938E188B622CE23C/\">[s27]</a><a href=\"https://www.novoenergy.se/first-ceremonial-shovel-for-novo-energy-gigafactory\">[s35]</a></li><li><strong>Raw-material and pricing pressure:</strong> rising raw-material costs and an industry-wide price war, combined with a shrinking premium market, pressure margins and volumes.<a href=\"https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/\">[s5]</a></li><li><strong>Related-party and financing exposure:</strong> Volvo Cars is 78.65% controlled by Geely and its financial results incorporate its stake in loss-making Polestar; Q3 2026 included recognising Polestar's losses.<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>Management succession:</strong> the CEO handover to Klaus Zellmer by October 2027 carries execution risk during a critical turnaround.<a href=\"https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/\">[s9]</a></li></ul>",
+      "zh": "<ul><li><strong>中国市场下滑与极度竞争：</strong>大中华区三季度交付同比下滑 40.6%、当季中国区营收同比下滑近 50%，本土高端电动车品牌带来严峻价格压力。<a href=\"https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/\">[s6]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>美国关税与监管压力：</strong>美国进口关税、电动车补贴退出，以及因美国法规调整而计提的 11 亿瑞典克朗 CAFE 积分重估损失，在 2025—2026 年持续挤压利润。<a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>盈利薄弱：</strong>2025 财年集团 EBIT 仅 3 亿瑞典克朗、集团净亏损 30 亿瑞典克朗；2026 年三季度陷入亏损，抗风险能力依赖持续降本。<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>减值与电气化转型风险：</strong>2025 年二季度对 EX90/ES90 平台计提 114 亿瑞典克朗减值，表明纯电平台生命周期盈利可能恶化并引发计提。<a href=\"https://mb.cision.com/Main/20685/4341827/4065356.pdf\">[s3]</a></li><li><strong>电池合资公司不确定性：</strong>Northvolt 破产后，沃尔沃取得 NOVO Energy 全部股权，但因尚未确定新合作伙伴，于 2026 年 1 月暂停其运营，哥德堡电池工厂的电池供应来源仍未落实。<a href=\"https://www.volvocars.com/intl/media/press-releases/938E188B622CE23C/\">[s27]</a><a href=\"https://www.novoenergy.se/first-ceremonial-shovel-for-novo-energy-gigafactory\">[s35]</a></li><li><strong>原材料与价格战压力：</strong>原材料成本上行、行业价格战叠加豪华市场收缩，压制销量与利润率。<a href=\"https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/\">[s5]</a></li><li><strong>关联方与融资敞口：</strong>沃尔沃汽车由吉利持股 78.65% 控制，财务并表受其持股的亏损公司极星影响；2026 年三季度确认了极星亏损。<a href=\"https://mb.cision.com/Main/20685/4302907/3918401.pdf\">[s2]</a><a href=\"https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/\">[s7]</a></li><li><strong>管理层交接：</strong>最晚 2027 年 10 月 CEO 由克劳斯·泽尔默接任，在扭亏关键期存在执行风险。<a href=\"https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/\">[s9]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "Volvo Cars Q4 2025: turnaround plan on track, but challenging external environment (full-year 2025 press release)", "url": "https://www.volvocars.com/intl/media/press-releases/F33E9031A8ED4431/", "date": "2026-02-05", "tier": "A" },
+    { "id": "s2", "name": "Volvo Car Group Interim Report Fourth Quarter and Full Year 2025 (PDF, incl. 78.65% ownership and FY2025/FY2024 key figures)", "url": "https://mb.cision.com/Main/20685/4302907/3918401.pdf", "date": "2026-02-05", "tier": "A" },
+    { "id": "s3", "name": "Volvo Car Group Interim Report First Quarter 2026 (PDF, incl. FY2025 consolidated income statement)", "url": "https://mb.cision.com/Main/20685/4341827/4065356.pdf", "date": "2026-04-29", "tier": "A" },
+    { "id": "s4", "name": "Volvo Car Group Interim Report Fourth Quarter and Full Year 2024 (PDF, incl. FY2023 and FY2024 income statements)", "url": "https://mb.cision.com/Public/23602/4201117/bc6302760ebf45eb.pdf", "date": "2025-02-06", "tier": "A" },
+    { "id": "s5", "name": "Volvo Cars Q2 2026: executing in a very challenging environment (press release and Q2 2026 report)", "url": "https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/", "date": "2026-07-17", "tier": "A" },
+    { "id": "s6", "name": "Volvo Cars reports Q3 2026 sales", "url": "https://www.volvocars.com/intl/media/press-releases/03FE253A825C916B/", "date": "2026-10-02", "tier": "A" },
+    { "id": "s7", "name": "Volvo Cars Q3 2026: taking decisive action to navigate a very tough environment", "url": "https://www.volvocars.com/intl/media/press-releases/4291EEEC7003CDC6/", "date": "2026-10-23", "tier": "A" },
+    { "id": "s8", "name": "Volvo Cars removes forward looking statement on volume and cash flow", "url": "https://www.volvocars.com/intl/media/press-releases/59F8B5A610282362/", "date": "2026-10-02", "tier": "A" },
+    { "id": "s9", "name": "The Board of Volvo Cars appoints Klaus Zellmer as President and CEO", "url": "https://www.volvocars.com/intl/media/press-releases/48E93ADCB2CC7F6A/", "date": "2026-09-20", "tier": "A" },
+    { "id": "s10", "name": "The Board of Directors of Volvo Cars Appoints Håkan Samuelsson as CEO and President", "url": "https://www.volvocars.com/intl/media/press-releases/325DE2D938F64746/", "date": "2025-03-30", "tier": "A" },
+    { "id": "s11", "name": "Volvo Cars appoints Fredrik Hansson as CFO", "url": "https://www.volvocars.com/intl/media/press-releases/84FBEB2D31C7C361/", "date": "2025-04-24", "tier": "A" },
+    { "id": "s12", "name": "Resolutions at Volvo Cars' Annual General Meeting 2026", "url": "https://www.volvocars.com/intl/media/press-releases/04E78FFC6E57069C/", "date": "2026-03-31", "tier": "A" },
+    { "id": "s13", "name": "Volvo Cars outlines strategy for building a stronger, more profitable company (Strategy Update 2025)", "url": "https://www.volvocars.com/intl/media/press-releases/88834CA0EE22D24B/", "date": "2025-11-06", "tier": "A" },
+    { "id": "s14", "name": "Volvo Cars reports December and 2025 sales", "url": "https://www.volvocars.com/intl/media/press-releases/F350AA52102141DC", "date": "2026-01-07", "tier": "A" },
+    { "id": "s15", "name": "This is Volvo Cars (official company overview, accessed 2026-10-29)", "url": "https://www.volvocars.com/intl/media/this-is-volvo-cars/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s16", "name": "Volvo Cars 'Our Heritage' (official company history timeline, accessed 2026-10-29)", "url": "https://www.volvocars.com/intl/our-heritage/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s17", "name": "Volvo Cars China 我们的故事 (official China overview, accessed 2026-10-29)", "url": "https://www.volvocars.com.cn/zh-cn/our-story/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s18", "name": "Volvo Cars announces: Trading on Nasdaq Stockholm starts today (IPO, 29 October 2021)", "url": "https://investors.volvocars.com/~/media/Files/V/Volvo-Cars-IR-V2/documents/Volvo_Cars_announces_Trading_on_Nasdaq_Stockholm_ENG.pdf", "date": "2021-10-29", "tier": "A" },
+    { "id": "s19", "name": "Volvo Cars reports second consecutive year of record sales, revenue and profits in 2024 (full-year 2024 press release)", "url": "https://www.volvocars.com/intl/media/press-releases/A202D9E122229300/", "date": "2025-02-06", "tier": "A" },
+    { "id": "s20", "name": "Volvo Cars 2023 profit increases by 43 percent to deliver a record year (full-year 2023 press release)", "url": "https://www.volvocars.com/intl/media/press-releases/F7EA3A09F0C7A26E/", "date": "2024-02-07", "tier": "A" },
+    { "id": "s21", "name": "中国青年报：吉利「蛇吞象」18亿美元收购沃尔沃（含 1999 年福特 64.5 亿美元收购）", "url": "https://zqb.cyol.com/content/2010-03/29/content_3155921.htm", "date": "2010-03-29", "tier": "B" },
+    { "id": "s22", "name": "中国证券报：沃尔沃大中华区换帅——段建军接替袁小林任总裁兼CEO", "url": "https://jnzstatic.cs.com.cn/zzb/htmlInfo/122314.html", "date": "2026-05-11", "tier": "B" },
+    { "id": "s23", "name": "中证网：何阔出任沃尔沃汽车大中华区销售公司总裁", "url": "https://www.cs.com.cn/ssgs/01/2026/09/09/detail_2026090910037764.html", "date": "2026-09-09", "tier": "B" },
+    { "id": "s24", "name": "中国新闻网湖南：沃尔沃突发「换帅」，74岁前CEO回归（含 2017 年电气化战略与 2024 年目标调整）", "url": "https://www.hn.chinanews.com.cn/news/bd/2025/0402/507915.html", "date": "2025-04-02", "tier": "B" },
+    { "id": "s25", "name": "Volvo Car Group Interim Report Second Quarter 2026 (PDF)", "url": "https://mb.cision.com/Main/20685/4375596/4197338.pdf", "date": "2026-07-17", "tier": "A" },
+    { "id": "s26", "name": "Volvo Car AB (publ.) publishes Annual and Sustainability Report 2025", "url": "https://www.volvocars.com/intl/media/press-releases/196E78D5A4E72057", "date": "2026-03-05", "tier": "A" },
+    { "id": "s27", "name": "Volvo Cars takes full ownership of Novo Energy", "url": "https://www.volvocars.com/intl/media/press-releases/938E188B622CE23C/", "date": "2025-01-29", "tier": "A" },
+    { "id": "s28", "name": "Zhejiang Geely completes acquisition of Volvo Car Corporation (2 August 2010)", "url": "https://www.volvocars.com/uk/media/press-releases/E5C53C45D24D86E9/", "date": "2010-08-02", "tier": "A" },
+    { "id": "s29", "name": "Volvo Cars China — XC70 hybrid official model page (official guide price and limited-time reference price, accessed 2026-10-29)", "url": "https://www.volvocars.com.cn/zh-cn/cars/xc70-hybrid/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s30", "name": "VOLVO CARS: 1927-2007 (Volvo Cars history press release, founders Assar Gabrielsson and Gustaf Larson, accessed 2026-10-29)", "url": "https://www.volvocars.com/intl/media/press-releases/B6C0C388A0157722/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s31", "name": "All-New Volvo S90 Debuts at the North American International Auto Show (Detroit, 11 January 2016)", "url": "https://www.volvocars.com/en-ca/media/press-releases/2FA56CE8656DBE9C/", "date": "2016-01-11", "tier": "A" },
+    { "id": "s32", "name": "Volvo Cars Unveils the New Volvo V60 (21 February 2018)", "url": "https://www.volvocars.com/us/media/press-releases/39BC212049E4CBBC/", "date": "2018-02-21", "tier": "A" },
+    { "id": "s33", "name": "Volvo Cars launch new S60 sports sedan – the first Volvo car made in the USA (20 June 2018)", "url": "https://www.volvocars.com/intl/media/press-releases/58595E278B7B423E/", "date": "2018-06-20", "tier": "A" },
+    { "id": "s34", "name": "新浪汽车：沃尔沃XC70最新款已上市，官方指导价41.19–49.69万元、限时参考尊享价22.99万起", "url": "https://auto.sina.cn/2026-10-24/detail-iniwhxpu1439079.d.html", "date": "2026-10-24", "tier": "B" },
+    { "id": "s35", "name": "NOVO Energy — first ceremonial shovel at the gigafactory site (Established 2022, joint venture between Northvolt and Volvo Cars)", "url": "https://www.novoenergy.se/first-ceremonial-shovel-for-novo-energy-gigafactory", "date": "2023-09-27", "tier": "A" },
+    { "id": "s36", "name": "Volvo Cars China official website (model line-up and list prices, accessed 2026-10-29)", "url": "https://www.volvocars.com.cn/", "date": "2026-10-29", "tier": "A" }
+  ]
+}

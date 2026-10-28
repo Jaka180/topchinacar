@@ -1,0 +1,261 @@
+{
+  "id": "mhero",
+  "name_en": "M-Hero (Mengshi)",
+  "name_zh": "猛士",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2022 (brand launched 27 Aug 2022)",
+      "value_zh": "2022 年（品牌于 2022 年 8 月 27 日发布）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Wuhan Economic & Technological Development Zone, Wuhan, Hubei, China",
+      "value_zh": "中国湖北省武汉市（武汉经济技术开发区）",
+      "period": null,
+      "source_ids": ["s2", "s10"]
+    },
+    {
+      "label_en": "Positioning",
+      "label_zh": "品牌定位",
+      "value_en": "Luxury electric (intelligent) off-road vehicle brand",
+      "value_zh": "豪华电动（智能）越野车品牌",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Parent / ownership",
+      "label_zh": "归属／所有制",
+      "value_en": "A brand of Dongfeng Motor Corporation, a central SOE; operated through Mengshi Automotive Technology Co., Ltd. under Dongfeng Motor Group Company Limited",
+      "value_zh": "东风汽车集团有限公司（国有中央企业）旗下品牌；由东风汽车集团股份有限公司旗下猛士汽车科技公司运营",
+      "period": null,
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "label_en": "First model",
+      "label_zh": "首款车型",
+      "value_en": "M-Hero 917 (extended-range and pure-electric), launched at the Chengdu Auto Show on 25 Aug 2023",
+      "value_zh": "猛士 917（增程＋纯电），2023 年 8 月 25 日成都车展上市",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Vehicle lineup",
+      "label_zh": "产品矩阵",
+      "value_en": "917 series, M817 series and X series (starting with the X700), across three product lines",
+      "value_zh": "917 系列、M817 系列与 X 系列（以 X700 为首），构成三大产品序列",
+      "period": null,
+      "source_ids": ["s15"]
+    },
+    {
+      "label_en": "Technology platform",
+      "label_zh": "技术平台",
+      "value_en": "M TECH intelligent off-road architecture (MORA / MEGA POWER / M-ATS) plus Huawei Qiankun intelligent driving",
+      "value_zh": "猛士智能越野架构 M TECH（MORA／MEGA POWER／M-ATS）＋华为乾崑智驾",
+      "period": null,
+      "source_ids": ["s1", "s6"]
+    },
+    {
+      "label_en": "Manufacturing bases",
+      "label_zh": "制造基地",
+      "value_en": "Wuhan M-Hero Technology Smart Park and the Xiangyang base (dual-base layout)",
+      "value_zh": "武汉猛士科技智慧园区与襄阳基地（双基地布局）",
+      "period": null,
+      "source_ids": ["s2", "s15"]
+    },
+    {
+      "label_en": "CEO",
+      "label_zh": "现任 CEO",
+      "value_en": "Wan Liangyu (appointed September 2025)",
+      "value_zh": "万良渝（2025 年 9 月上任）",
+      "period": null,
+      "source_ids": ["s9"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed (the brand has no independent listing)",
+      "value_zh": "未单独上市（品牌无独立上市地位）",
+      "period": null,
+      "source_ids": ["s21"]
+    },
+    {
+      "label_en": "Vehicle sales (latest full year)",
+      "label_zh": "最近一年销量",
+      "value_en": "10,228 units (2025, up 387% year-on-year)",
+      "value_zh": "10,228 辆（2025 年，同比增长 387%）",
+      "period": "2025",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": "Over 1,000 vehicles exported in 2025; products present in 47 countries and regions",
+      "value_zh": "2025 年整车出口超 1,000 辆；产品已登陆 47 个国家和地区",
+      "period": "2025",
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Overseas brand name",
+      "label_zh": "海外品牌名",
+      "value_en": "MHERO (the M817 is marketed overseas as the MHERO II)",
+      "value_zh": "MHERO（猛士 M817 海外版命名为 MHERO II）",
+      "period": null,
+      "source_ids": ["s12"]
+    }
+  ],
+  "history": [
+    { "date": "2022-08-27", "event_en": "Dongfeng Motor Corporation officially launches the luxury electric off-road brand M-Hero (Mengshi) in Wuhan, unveiling its 'M' logo system, the M-Terrain and M-Terrain S concept cars, and the M TECH intelligent off-road architecture (MORA skateboard platform, MEGA POWER drivetrain and M-ATS all-terrain system).", "event_zh": "东风汽车集团有限公司在武汉正式发布豪华电动越野品牌猛士，发布品牌专属「M」标识体系，M-Terrain、M-Terrain S 两款概念车全球首秀，猛士智能越野架构 M TECH（含猛士滑板越野平台 MORA、猛士动力 MEGA POWER、猛士越野全地形智能解决方案 M-ATS）全球首发。", "source_ids": ["s1"] },
+    { "date": "2023-08-19", "event_en": "The M-Hero Technology Smart Park (476 mu, RMB 6.3 billion in R&D and campus investment, Phase I capacity of 20,000 vehicles per year) opens in the Wuhan Economic & Technological Development Zone, marking the start of 917 batch production.", "event_zh": "位于武汉经开区的猛士科技智慧园区正式开园（占地 476 亩，研发及园区建设总投资 63 亿元，规划一期年产 2 万辆），标志猛士 917 进入批量生产阶段。", "source_ids": ["s2", "s10"] },
+    { "date": "2023-08-25", "event_en": "The first model, M-Hero 917, launches at the Chengdu Auto Show: the extended-range version from RMB 637,700 and the pure-electric version from RMB 697,700; the Founder's Edition was priced at RMB 678,000 (extended-range) and RMB 739,000 (pure-electric).", "event_zh": "首款车型猛士 917 在成都车展正式上市：增程版 63.77 万元起、纯电版 69.77 万元起；创始版增程 67.8 万元、纯电 73.9 万元。", "source_ids": ["s3", "s24"] },
+    { "date": "2024-02-22", "event_en": "Mengshi Technology and Huawei sign a strategic cooperation agreement, which the China Business Journal, citing related materials, dates to 22 February 2024, to jointly develop intelligent automotive technology for the off-road segment.", "event_zh": "猛士科技与华为签署战略合作协议（据《中国经营报》引述相关资料，协议签署日为 2024 年 2 月 22 日），共同推进越野场景的智能汽车技术。", "source_ids": ["s9"] },
+    { "date": "2024-04-26", "event_en": "At the Beijing Auto Show, M-Hero presents three products including the M-HUNTER extreme off-road concept car (pre-sale from RMB 3.68 million) and the 917 Jiaolong Zhanjia and 917 Gaodi Xiongshi versions.", "event_zh": "在北京车展，猛士科技携猛士 M-HUNTER 狩猎者极限越野概念车（预售价 368 万元起）及猛士 917 蛟龙战甲、917 高地雄狮三款新品亮相。", "source_ids": ["s4"] },
+    { "date": "2025-04-22", "event_en": "The M817, the first model co-created with Huawei, makes its global debut at the Huawei Qiankun Intelligent Technology conference.", "event_zh": "猛士与华为携手打造的首款车型猛士 M817 在「共享智举——华为乾崑智能技术大会」上完成全球首秀。", "source_ids": ["s9"] },
+    { "date": "2025-07-17", "event_en": "Pre-sales of the M817 open, with 9,713 orders recorded in the first hour, according to Hubei Daily.", "event_zh": "猛士 M817 开启预售，据湖北日报报道，预售 1 小时订单即达 9,713 台。", "source_ids": ["s5"] },
+    { "date": "2025-08-17", "event_en": "M-Hero M817, the first model co-created with Huawei (Qiankun), launches in Chengdu with Pro from RMB 319,900 and Max from RMB 349,900.", "event_zh": "猛士与华为联手打造的首款车型猛士 M817 在成都上市，Pro 版 31.99 万元起、Max 版 34.99 万元起。", "source_ids": ["s6", "s5"] },
+    { "date": "2025-09-17", "event_en": "Dongfeng Motor Group announces a joint venture to make and sell intelligent off-road vehicles: Mengshi Technology (Xiangyang) Co., Ltd., with registered capital of RMB 8.47 billion (Dongfeng Motor Group about 41.9%, Dongfeng Motor Co., Ltd. about 10.9%, Xiangyang Holding 34%, Xianggao Investment 13.2%).", "event_zh": "东风集团股份公告将成立智能越野车制造与销售合资公司猛士科技（襄阳）有限公司，注册资本 84.7 亿元（东风集团股份约 41.9%、东风汽车有限公司约 10.9%、襄阳控股 34%、襄高投资 13.2%）。", "source_ids": ["s7"] },
+    { "date": "2025-09", "event_en": "First CEO Cao Dongjie is transferred to Dongfeng Honda as executive deputy general manager; Wan Liangyu, formerly deputy general manager and CMO (chief manufacturing officer), becomes the new M-Hero CEO.", "event_zh": "首任 CEO 曹东杰调任东风本田执行副总经理；原副总经理、CMO（首席制造官）万良渝接任猛士科技 CEO。", "source_ids": ["s9"] },
+    { "date": "2025-12-26", "event_en": "The 10,000th M817 rolls off the line, on the same day Dongfeng reaches one million new-energy vehicle sales for 2025; M-Hero launches its Dengfeng (summit-climbing) initiative.", "event_zh": "猛士 M817 第 1 万辆整车下线，同日东风 2025 年新能源销量达成 100 万辆；猛士科技同步启动「登峰行动」。", "source_ids": ["s10"] },
+    { "date": "2025", "event_en": "M-Hero sells 10,228 vehicles for the full year, up 387% year-on-year (December 3,002 units, up 49.6% month-on-month).", "event_zh": "猛士全年销量 10,228 辆，同比增长 387%（12 月 3,002 辆，环比增长 49.6%）。", "source_ids": ["s10", "s11"] },
+    { "date": "2026-03-18", "event_en": "The listing status of Dongfeng Motor Group Company Limited's H shares is withdrawn on the Hong Kong Stock Exchange with effect from 4:00 p.m., as part of its privatisation by absorption merger; its Voyah subsidiary is introduced onto the exchange the following day. This changes the listed status of M-Hero's intermediate parent but not the brand's operations.", "event_zh": "猛士母公司东风汽车集团股份有限公司的 H 股自 2026 年 3 月 18 日下午四时起在港交所撤销上市地位（吸收合并私有化），旗下岚图汽车次日以介绍方式登陆港交所；这一变动改变猛士中间母公司的上市地位，但不改变品牌经营本身。", "source_ids": ["s33"] },
+    { "date": "2026-05-19", "event_en": "The M-Hero brand (alongside Dongfeng's Yijing brand) launches comprehensive deepened strategic cooperation 2.0 with Yinwang Intelligent Technology, moving from technology supply to joint product definition; the X700 is presented as the first model under this 2.0 cooperation.", "event_zh": "猛士品牌（与东风旗下奕境品牌一起）与引望智能技术公司启动全面深化战略合作 2.0，从技术供应升级为联合定义产品；东风官网将猛士 X700 称为该合作 2.0 的首款车型。", "source_ids": ["s31", "s32", "s15"] },
+    { "date": "2026-06-22", "event_en": "Hubei Daily reports that the production-line conversion of the former Dongfeng Nissan Xiangyang plant is complete, upgrading a traditional fuel-vehicle line into a mixed flexible new-energy line for the RMB 10.6 billion Dongfeng M-Hero project; three new models are planned within three years, the first targeting Q4 mass production.", "event_zh": "湖北日报报道，东风日产襄阳工厂产线改造完成，将传统燃油车产线升级为新能源混流柔性生产线，服务于总投资 106 亿元的东风猛士新能源智能越野车项目；未来三年内将推出 3 款全新车型，首款瞄准四季度量产。", "source_ids": ["s30"] },
+    { "date": "2026-06-27", "event_en": "The all-new (2026) M817 launches with five trims (Mate, Mate+, Max, Max+, Ultra) at an official guide price of RMB 299,900-399,900.", "event_zh": "全新（2026 款）猛士 M817 上市，推出 Mate、Mate+、Max、Max+、Ultra 五款车型，官方指导价 29.99 万-39.99 万元。", "source_ids": ["s14", "s23"] },
+    { "date": "2026-09-28", "event_en": "The X700 opens pre-sales (AWD Max / Max+ / Ultra trims) at RMB 249,800-289,800, with over 8,000 orders in the first 24 hours.", "event_zh": "猛士 X700 开启预售（四驱 Max／Max+／Ultra 三个版型），预售价 24.98 万-28.98 万元，预售 24 小时订单突破 8,000 辆。", "source_ids": ["s15", "s16"] },
+    { "date": "2026-10-10", "event_en": "The Dongfeng new-energy intelligent off-road vehicle project begins production in Xiangyang, and the first X700 production vehicle rolls off the line.", "event_zh": "东风新能源智能越野车项目在襄阳投产，猛士 X700 首台量产车下线。", "source_ids": ["s15", "s16"] },
+    { "date": "2026-10-25", "event_en": "The M-Hero X700 officially launches with four trims (325KM RWD Pro, 285KM AWD Max, 285KM AWD Max+, 360KM AWD Ultra) at RMB 219,800-279,800; customers who place a firm order before 30 Nov 2026 receive an extra RMB 10,000 discount, bringing the limited-time price from RMB 209,800.", "event_zh": "猛士 X700 正式上市，推出 325KM 后驱 Pro、285KM 四驱 Max、285KM 四驱 Max+、360KM 四驱 Ultra 四款车型，指导价 21.98 万-27.98 万元；11 月 30 日前大定锁单可减 10,000 元，限时焕新价 20.98 万元起。", "source_ids": ["s28"] }
+  ],
+  "brands": [
+    {
+      "name_en": "M-Hero 917",
+      "name_zh": "猛士 917",
+      "role_en": "Flagship mid-to-large luxury electric off-road SUV (extended-range and pure-electric), the brand's first production model.",
+      "role_zh": "品牌旗舰中大型豪华电动越野 SUV（增程＋纯电），猛士品牌首款量产车型。",
+      "price_band": "RMB 637,700-1,098,000 / 63.77万-109.8万元（官方指导价区间；2023-08-25 上市：增程版 63.77 万元起、纯电版 69.77 万元起）",
+      "founded": 2023,
+      "owner_note_en": "Launched at the Chengdu Auto Show on 25 Aug 2023: extended-range from RMB 637,700 and pure-electric from RMB 697,700, with the Founder's Edition at RMB 678,000 / RMB 739,000. Caijing magazine records the 917's official guide-price range as RMB 637,700-1,098,000. Built on the M TECH architecture, the pure-electric version uses front-and-rear four motors with 1,088 hp, over 16,200 Nm of wheel torque, 0-100 km/h in 4.2 seconds and 505 km CLTC range, while the extended-range version combines three motors with a 1.5T range extender for 816 hp and 1,026 km CLTC combined range. Special versions include the 917 Jiaolong Zhanjia (co-branded with Bona Film Group) and 917 Gaodi Xiongshi presented at the April 2024 Beijing Auto Show. Caijing magazine presents these volumes as third-party statistics, not its own count and not an official figure: 824 units in 2023 (Aug-Dec), 2,101 in 2024, and 689 in the first seven months of 2025.",
+      "owner_note_zh": "2023 年 8 月 25 日在成都车展上市：增程版 63.77 万元起、纯电版 69.77 万元起（创始版 67.8 万元／73.9 万元）。《财经》将 917 官方指导价区间记为 63.77 万-109.8 万元。基于猛士智能越野架构 M TECH 打造；纯电版前后四电机、1088 马力、轮边扭矩超 16200 牛米、零百加速 4.2 秒、CLTC 续航 505 公里，增程版三电机＋1.5T 增程器、816 马力、CLTC 综合续航 1026 公里。另于 2024 年 4 月北京车展推出蛟龙战甲（与博纳影业联名）、高地雄狮等版本。《财经》写明这三组销量为第三方统计，并非该刊自行统计，也非官方口径：917 于 2023 年（8-12 月）售出 824 辆、2024 年售出 2,101 辆、2025 年前七个月售出 689 辆。",
+      "status": "active",
+      "source_ids": ["s3", "s24", "s4", "s20"]
+    },
+    {
+      "name_en": "M-Hero M817",
+      "name_zh": "猛士 M817",
+      "role_en": "Luxury intelligent off-road SUV co-created with Huawei Qiankun, the brand's volume driver.",
+      "role_zh": "与华为乾崑深度共创的豪华智能越野 SUV，品牌销量主力。",
+      "price_band": "RMB 299,900-399,900 / 29.99万-39.99万元（2026 款，2026-06-27 上市；2025 款 2025-08-17 上市 31.99万/34.99万）",
+      "founded": 2025,
+      "owner_note_en": "First launched on 17 Aug 2025 in Chengdu (Pro from RMB 319,900, Max from RMB 349,900), the first model from the M-Hero-Huawei partnership. Dongfeng's release on that August 2025 launch describes it as applying Huawei Qiankun ADS 4 intelligent driving and the Hongmeng (HarmonyOS) cockpit 5. Pre-sales opened on 17 July 2025 with 9,713 orders in the first hour. The all-new 2026 M817, the version on sale as of 29 Oct 2026, launched on 27 Jun 2026 with five trims at RMB 299,900-399,900 and up to 1,450 km CLTC combined range. The Wuhan ETDZ authority's 29 Jun 2026 account says it is the first off-roader to carry Huawei Qiankun ADS 5, with combined output of up to 715 kW, an 800V platform, 6C fast charging and 900 mm wading depth. Xinhua the same day says it debuts the new-generation Huawei Qiankun ADS 5 and a new-generation Hongmeng cockpit off-road edition. The M817 reached 10,000 units off the line in about four months (26 Dec 2025). The overseas version is marketed as the MHERO II; on 15 December 2025, 400 units were shipped from Shanghai port to the Middle East.",
+      "owner_note_zh": "2025 年 8 月 17 日在成都首次上市（Pro 版 31.99 万元起、Max 版 34.99 万元起），是猛士与华为合作的首款车型。东风官网对这一 2025 年 8 月上市版本的表述是应用华为乾崑智驾 ADS 4、鸿蒙座舱 5。2025 年 7 月 17 日开启预售，1 小时订单 9,713 台。全新 2026 款 M817 于 2026 年 6 月 27 日上市，推出五款车型，售价 29.99 万-39.99 万元，CLTC 综合续航最高 1450km；截至 2026 年 10 月 29 日，在售的是这一 2026 款。武汉经开区管委会 2026 年 6 月 29 日稿写其首搭华为乾崑智驾 ADS 5，综合功率最高达 715kW，并写明 800V、6C 超充与 900mm 涉水深度。新华网同日稿写其首发全新一代华为乾崑智驾 ADS 5 和新一代鸿蒙座舱越野版。M817 上市约 4 个月即于 2025 年 12 月 26 日达成 1 万辆整车下线。其海外版本命名为 MHERO II，2025 年 12 月 15 日有 400 辆自上海港启运中东。",
+      "status": "active",
+      "source_ids": ["s6", "s5", "s14", "s23", "s10", "s12", "s35", "s36"]
+    },
+    {
+      "name_en": "M-Hero X700",
+      "name_zh": "猛士 X700",
+      "role_en": "First model of the new X series, a luxury intelligent all-terrain SUV and the first product under the Huawei Qiankun strategic cooperation 2.0, aimed at mainstream family users.",
+      "role_zh": "全新 X 系列首款车型，豪华智慧全地形 SUV，华为乾崑战略合作 2.0 首款车型，面向主流家庭用户。",
+      "price_band": "RMB 219,800-279,800 / 21.98万-27.98万元（正式指导价，2026-10-25 上市；限时焕新价 20.98 万元起）",
+      "founded": 2026,
+      "owner_note_en": "Pre-sales opened on 28 Sep 2026 (AWD Max / Max+ / Ultra trims) at RMB 249,800-289,800, with over 8,000 orders in the first 24 hours. The first production vehicle rolled off the line in Xiangyang on 10 Oct 2026. It officially launched on 25 Oct 2026 with four trims (325KM RWD Pro, 285KM AWD Max, 285KM AWD Max+, 360KM AWD Ultra) at RMB 219,800-279,800; firm orders before 30 Nov 2026 received an extra RMB 10,000 off, for a limited-time price from RMB 209,800. Per China Quality News, it is a mid-to-large plug-in hybrid SUV with a monocoque (unibody) construction, 5,035 mm long, 1,999 mm wide and 1,910 mm high with a 2,920 mm wheelbase, carrying Huawei Qiankun ADS intelligent driving and the HarmonySpace 6 cockpit, a 896-line dual-beam lidar, an 800V platform with a 1.5T plug-in hybrid and dual-motor AWD producing 518 kW and 940 Nm, 285 km and 360 km CLTC electric ranges and over 1,300 km combined range in that pre-launch account, which does not cover the RWD Pro. CNR's 26 October 2026 launch report states that the 325KM RWD Pro has a 51.46 kWh battery and 325 km CLTC electric range, on the Panshi (rock-solid) chassis 2.0 with front double-wishbone and rear five-link suspension, MRC dampers, dual-chamber air suspension and a magic-carpet preview system.",
+      "owner_note_zh": "2026 年 9 月 28 日开启预售（四驱 Max／Max+／Ultra 三个版型），预售价 24.98 万-28.98 万元，预售 24 小时订单突破 8,000 辆。首台量产车于 2026 年 10 月 10 日在襄阳下线。2026 年 10 月 25 日正式上市，推出 325KM 后驱 Pro、285KM 四驱 Max、285KM 四驱 Max+、360KM 四驱 Ultra 四款车型，指导价 21.98 万-27.98 万元；11 月 30 日前大定锁单额外减 10,000 元，限时焕新价 20.98 万元起。据中国质量新闻网，其为中大型插电混动 SUV，采用承载式车身，长宽高 5035×1999×1910mm、轴距 2920mm，搭载华为乾崑 ADS 智能驾驶与鸿蒙座舱 HarmonySpace 6，配备 896 线双光路激光雷达，基于 800V 高压平台，1.5T 插混双电机四驱综合功率 518kW、扭矩 940N·m，CLTC 纯电续航 285km 与 360km、综合续航超 1300km（上市前稿，未覆盖后驱 Pro）。央广网 2026 年 10 月 26 日上市稿写明，325KM 后驱 Pro 搭载 51.46kWh 电池，CLTC 纯电续航 325km，采用磐石底盘 2.0、前双叉臂后五连杆独立悬架、MRC 磁流变减振器、双腔空气弹簧及魔毯预瞄系统。",
+      "status": "active",
+      "source_ids": ["s15", "s16", "s28", "s34"]
+    },
+    {
+      "name_en": "M-Hero M-HUNTER",
+      "name_zh": "猛士 M-HUNTER 狩猎者",
+      "role_en": "New-energy all-terrain extreme off-road concept car (ultra-high-end).",
+      "role_zh": "新能源全地形极限越野概念车（超高端）。",
+      "price_band": "RMB 3.68 million and up / 368万元起（预售）",
+      "founded": 2024,
+      "owner_note_en": "Globally debuted on 26 Apr 2024 at the Beijing Auto Show with a pre-sale price from RMB 3.68 million, described as China's first new-energy all-terrain extreme off-road concept car; it uses 37-inch off-road tyres and a full carbon-fibre body with over 20,000 Nm of wheel torque, and a global limited recruitment of 33 angel partners was opened. It was presented alongside the 917 Jiaolong Zhanjia and 917 Gaodi Xiongshi.",
+      "owner_note_zh": "2024 年 4 月 26 日在北京车展全球首发，预售价 368 万元起，被称为中国首款新能源全地形极限越野概念车，采用 37 英寸越野轮胎、全碳纤维车身，轮边扭矩突破 20000 牛米，面向全球限量招募 33 名天使合伙人；与 917 蛟龙战甲、917 高地雄狮同场亮相。",
+      "status": "concept",
+      "source_ids": ["s4"]
+    },
+    {
+      "name_en": "Mengshi Technology (Xiangyang) Co., Ltd.",
+      "name_zh": "猛士科技（襄阳）有限公司",
+      "role_en": "Joint-venture manufacturing entity for the M-Hero brand's mainstream intelligent off-road models (X series), based in Xiangyang.",
+      "role_zh": "猛士品牌主流智能越野车型（X 系列）的合资制造主体，位于襄阳。",
+      "price_band": null,
+      "founded": 2025,
+      "owner_note_en": "Established per the Dongfeng Motor Group announcement of 17 Sep 2025 with registered capital of RMB 8.47 billion: Dongfeng Motor Group Company Limited about 41.9% (RMB 3.55 billion in intangible assets, including the Mengshi trademark and vehicle platform / intelligent driving licences), Dongfeng Motor Co., Ltd. about 10.9% (RMB 0.92 billion in kind), Xiangyang Holding 34% (RMB 2.88 billion in cash) and Xianggao Investment 13.2% (RMB 1.12 billion in cash). Under the RMB 10.6 billion Dongfeng new-energy intelligent off-road vehicle project, the former Dongfeng Nissan Xiangyang plant's fuel-vehicle line was converted into a mixed flexible new-energy line as the brand's second base, using a 'carmaker-led, Huawei-enabled' model with Huawei's IPD and IPMS processes.",
+      "owner_note_zh": "依据东风集团股份 2025 年 9 月 17 日公告设立，注册资本 84.7 亿元：东风汽车集团股份有限公司持股约 41.9%（以无形资产出资 35.5 亿元，含猛士商标权、车型平台及智能驾驶专有技术许可使用权）、东风汽车有限公司约 10.9%（以实物出资 9.2 亿元）、襄阳控股 34%（以现金出资 28.8 亿元）、襄高投资 13.2%（以现金出资 11.2 亿元）。总投资 106 亿元的东风新能源智能越野车项目将原东风日产襄阳工厂的燃油车产线改造为新能源混流柔性生产线，作为猛士品牌的第二制造基地，采用「车企主导、华为赋能」模式，引入华为 IPD 与 IPMS 体系，聚焦主流智能（轻）越野车型。",
+      "status": "active",
+      "source_ids": ["s7", "s15", "s30"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not disclosed (brand not separately listed)",
+    "rows": [],
+    "note_en": "M-Hero (Mengshi) is a brand of Dongfeng Motor Corporation and is not separately listed; it does not publish standalone financial statements, so financials.rows is empty and no revenue, net profit or R&D figures are disclosed or estimated here. Consolidated group data belongs in the Dongfeng Motor Group deep-dive. For the record on scope: Dongfeng Motor Group Company Limited, M-Hero's intermediate parent, prepared its consolidated financial statements under PRC GAAP, and its consolidated net profit was measured as 'profit attributable to owners of the parent company' (not profit attributable to ordinary shareholders, nor a non-GAAP / ex-non-recurring-items measure); its H-share listing status was withdrawn on 18 March 2026. This page provides factual disclosures only and does not constitute any trading recommendation.",
+    "note_zh": "猛士是东风汽车集团有限公司旗下的汽车品牌，未单独上市，亦不单独披露财务报表，故 financials.rows 为空数组；品牌层面的营收、净利润、研发投入、员工数等均未单独披露，本研究不做估算。集团合并财务数据请见「东风汽车集团」深度研究。就口径说明：猛士的中间母公司东风汽车集团股份有限公司按中国企业会计准则编制合并财务报表，其合并净利润为「归属于母公司股东的净利润」口径（并非「归属于普通股股东」或扣除非经常性损益口径）；该股份公司 H 股上市地位已于 2026 年 3 月 18 日撤销。本页仅为事实性披露，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>M-Hero (Mengshi, 猛士) is the luxury electric (intelligent) off-road brand of Dongfeng Motor Corporation, a centrally administered state-owned enterprise. The brand was launched in Wuhan on 27 August 2022 alongside its 'M' logo system, the M-Terrain and M-Terrain S concept cars, and the M TECH intelligent off-road architecture <a href=\"https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html\">[s1]</a>. Its brand proposition is 'fearless, conquer' (无畏·征服). The description of M-Hero as 'China's first luxury electric off-road brand' is the framing used by Dongfeng and official media, not an independent judgement <a href=\"https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html\">[s1]</a><a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>. The brand is operated through Mengshi Automotive Technology Co., Ltd. under Dongfeng Motor Group Company Limited, and spans three product lines — the 917 (extreme hardcore off-road), the M817 (luxury intelligent off-road) and the X series (family intelligent mobility) <a href=\"https://www.dfmc.com.cn/news/company/news_20261012_0909.html\">[s15]</a>. It has cooperated deeply with Huawei Qiankun on intelligent driving and cockpit systems since the M817 <a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a>. In 2025 the brand sold 10,228 vehicles, up 387% year-on-year <a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202601/t20260106_2707555.html\">[s11]</a>. The brand is not separately listed; its parent is covered in the Dongfeng Motor Group deep-dive <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-29/242484_20260429_09I9.pdf\">[s21]</a>.</p>",
+      "zh": "<p>猛士（M-Hero）是东风汽车集团有限公司（国务院国资委监管的中央企业）旗下的豪华电动（智能）越野品牌，2022 年 8 月 27 日在武汉正式发布，同步发布品牌专属「M」标识体系、M-Terrain 与 M-Terrain S 两款概念车及猛士智能越野架构 M TECH<a href=\"https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html\">[s1]</a>。品牌以「无畏·征服」为品牌主张；「中国首个豪华电动越野品牌」是东风及官方媒体的口径，非本研究判断<a href=\"https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html\">[s1]</a><a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>。品牌由东风汽车集团股份有限公司旗下猛士汽车科技公司运营，形成猛士 917（极致硬核越野）、猛士 M817（豪华智能越野）与 X 系列（家庭智慧出行）三大产品序列<a href=\"https://www.dfmc.com.cn/news/company/news_20261012_0909.html\">[s15]</a>，并自 M817 起与华为乾崑在智能驾驶、智能座舱等领域深度合作<a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a>。2025 年品牌销量 10,228 辆，同比增长 387%<a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202601/t20260106_2707555.html\">[s11]</a>。猛士未单独上市，母集团情况见「东风汽车集团」深度研究<a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-29/242484_20260429_09I9.pdf\">[s21]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and product lines</h3><p>M-Hero organises its lineup into three product sequences: the 917 series as the flagship for extreme hardcore off-roading, the M817 series for luxury intelligent off-roading, and the X series (starting with the X700) for family intelligent mobility, per Dongfeng's October 2026 release <a href=\"https://www.dfmc.com.cn/news/company/news_20261012_0909.html\">[s15]</a>. Production uses a Wuhan-Xiangyang dual-base arrangement: the Wuhan base focuses on core off-road technology, while the Xiangyang base handles scale smart manufacturing <a href=\"https://www.dfmc.com.cn/news/company/news_20261012_0909.html\">[s15]</a><a href=\"https://hb.chinadaily.com.cn/a/202610/12/WS6acc3d34e4b09a165c78eb85.html\">[s17]</a>. The Xiangyang base is the converted former Dongfeng Nissan Xiangyang plant, upgraded from a fuel-vehicle line into a mixed flexible new-energy line under the RMB 10.6 billion project, using a 'carmaker-led, Huawei-enabled' model and Huawei's IPD and IPMS processes; per Hubei Daily, three new models are planned within three years, the first targeting Q4 mass production across pure-electric and hybrid routes, all carrying Huawei's ADS and cockpit stack <a href=\"https://news.hubeidaily.net/pc/c_5663497.html\">[s30]</a>. In the Xiangyang base's supply chain, 61% of components are procured within Hubei province, and the project has drawn 28 new-energy supply-chain companies to Xiangyang <a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202610/t20261010_6030619.shtml\">[s16]</a>. Huaxia Times separately says the vehicle programme is expected to drive more than RMB 4.5 billion in annual local industrial output <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>.</p><h3>Models and price range</h3><p>The flagship 917's official guide-price range is RMB 637,700-1,098,000 (extended-range from RMB 637,700 and pure-electric from RMB 697,700 at its August 2023 launch), per Caijing magazine and the Wuhan ETDZ authority <a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202308/t20230828_2254642.html\">[s3]</a><a href=\"https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html\">[s20]</a>. The M817 launched in August 2025 at RMB 319,900-349,900, with the 2026 facelift at RMB 299,900-399,900 <a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20260629_1014.html\">[s14]</a>. The X700 pre-sold from RMB 249,800-289,800 in September 2026 and launched on 25 October 2026 at RMB 219,800-279,800, with a limited-time price from RMB 209,800 <a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202610/t20261010_6030619.shtml\">[s16]</a><a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>. The M-HUNTER concept car was pre-sold from RMB 3.68 million <a href=\"https://auto.cctv.cn/2024/04/26/ARTIFOgF8IhQwBCymRbADe0b240426.shtml\">[s4]</a>.</p><h3>Technology platform</h3><p>The brand is built on the M TECH intelligent off-road architecture, comprising the MORA skateboard off-road platform, MEGA POWER drivetrain and M-ATS all-terrain intelligent system, unveiled together with the brand in August 2022 <a href=\"https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html\">[s1]</a>. From the M817 onward, models carry Huawei Qiankun systems. The M817 that launched on 17 Aug 2025 applied Qiankun ADS 4 intelligent driving and the Hongmeng (HarmonyOS) cockpit 5 <a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a>. The all-new M817 on sale after its 27 Jun 2026 launch is described by the Wuhan ETDZ authority as the first off-roader to carry Huawei Qiankun ADS 5, with combined output of up to 715 kW, plus an 800V platform, 6C fast charging and 900 mm wading depth <a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202606/t20260629_2814309.html\">[s35]</a>; Xinhua the same day says it debuts the new-generation Huawei Qiankun ADS 5 and a new-generation Hongmeng cockpit off-road edition <a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260629b5bc1a05bf4d40c48b9fc6d2b32d646f\">[s36]</a>. The X700 applies Huawei Qiankun intelligent driving and the HarmonySpace 6 cockpit with a 896-line dual-beam lidar, and rides on the Panshi (rock-solid) chassis 2.0 with dual-chamber air suspension, MRC dampers and a magic-carpet preview system <a href=\"https://www.cqn.com.cn/auto/content/2026-10/20/content_9177229.htm\">[s34]</a>.</p><h3>Sales and market position</h3><p>M-Hero sold 10,228 vehicles in 2025, up 387% year-on-year, with 3,002 units in December alone, according to the brand's annual sales report released on 1 January 2026; sales rose for four consecutive months from September 2025 <a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a><a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202601/t20260106_2707555.html\">[s11]</a>. Caijing reported that people familiar with the matter said Huawei set the M817 a sales task of completing 12,400 units in four and a half months, while Dongfeng Group's internal expectation was 15,000 units <a href=\"https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html\">[s20]</a>. Huaxia Times cites CPCA data of 447,600 domestic 'boxy' crossover off-road vehicles sold in H1 2026 across 42 models, with over 70% of demand from urban family users <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>.</p><h3>Overseas business</h3><p>In 2025 M-Hero exported over 1,000 vehicles and completed market-access certification for Europe, the CIS and the Gulf; the 917 and M817 have entered 47 countries and regions, and right-hand-drive development is under way <a href=\"https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml\">[s12]</a>. Huaxia Times reports 2025 Middle East exports of 821 vehicles, up 45% year-on-year, with official showrooms in Saudi Arabia, Qatar, the UAE and Kuwait, and distribution outlets in Western Europe including Belgium <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>. On 15 December 2025, 400 units of the MHERO II (the overseas M817) were shipped from Shanghai to the Middle East <a href=\"https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml\">[s12]</a>.</p>",
+      "zh": "<h3>业务结构与产品序列</h3><p>猛士将产品划分为三大序列：917 系列作为旗舰主打极致硬核越野，M817 系列主打豪华智能越野，X 系列（以 X700 为首）面向家庭智慧出行，据东风 2026 年 10 月披露<a href=\"https://www.dfmc.com.cn/news/company/news_20261012_0909.html\">[s15]</a>。生产采用武汉、襄阳「双基地」布局：武汉基地聚焦越野核心技术攻坚，襄阳基地承接规模化智能制造<a href=\"https://www.dfmc.com.cn/news/company/news_20261012_0909.html\">[s15]</a><a href=\"https://hb.chinadaily.com.cn/a/202610/12/WS6acc3d34e4b09a165c78eb85.html\">[s17]</a>。襄阳基地即改造后的原东风日产襄阳工厂，总投资 106 亿元，将燃油车产线升级为新能源混流柔性生产线，采用「车企主导、华为赋能」模式并引入华为 IPD 与 IPMS 体系；据湖北日报，未来三年内将推出 3 款全新车型，首款瞄准四季度量产、覆盖纯电与混动两种路线，全系搭载华为 ADS 与鸿蒙座舱<a href=\"https://news.hubeidaily.net/pc/c_5663497.html\">[s30]</a>。襄阳基地的配套供应链中，湖北省内零部件采购占比 61%，并吸引 28 家新能源供应链企业落户襄阳<a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202610/t20261010_6030619.shtml\">[s16]</a>。华夏时报称，整车落地后预计带动当地产业链年产值超 45 亿元<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。</p><h3>产品与价格谱系</h3><p>旗舰 917 的官方指导价区间为 63.77 万-109.8 万元（2023 年 8 月上市时增程版 63.77 万元起、纯电版 69.77 万元起），据《财经》与武汉经开区管委会<a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202308/t20230828_2254642.html\">[s3]</a><a href=\"https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html\">[s20]</a>。M817 于 2025 年 8 月以 31.99 万-34.99 万元上市，2026 款改款售价 29.99 万-39.99 万元<a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20260629_1014.html\">[s14]</a>。X700 于 2026 年 9 月预售 24.98 万-28.98 万元，10 月 25 日正式上市指导价 21.98 万-27.98 万元，限时焕新价 20.98 万元起<a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202610/t20261010_6030619.shtml\">[s16]</a><a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>。M-HUNTER 概念车预售价 368 万元起<a href=\"https://auto.cctv.cn/2024/04/26/ARTIFOgF8IhQwBCymRbADe0b240426.shtml\">[s4]</a>。</p><h3>技术与平台</h3><p>品牌基于猛士智能越野架构 M TECH 打造，该架构含猛士滑板越野平台 MORA、猛士动力 MEGA POWER 与猛士越野全地形智能解决方案 M-ATS，随品牌于 2022 年 8 月一同发布<a href=\"https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html\">[s1]</a>。自 M817 起，车型搭载华为乾崑方案。2025 年 8 月 17 日上市的 M817，东风官网称其应用华为乾崑智驾 ADS 4 与鸿蒙座舱 5<a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a>。截至 2026 年 10 月 29 日在售的是 2026 年 6 月 27 日上市的全新 M817：武汉经开区管委会 2026 年 6 月 29 日稿写其首搭华为乾崑智驾 ADS 5，综合功率最高达 715kW，并写明 800V、6C 与 900mm 涉水<a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202606/t20260629_2814309.html\">[s35]</a>；新华网同日稿写其首发全新一代华为乾崑智驾 ADS 5 和新一代鸿蒙座舱越野版<a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260629b5bc1a05bf4d40c48b9fc6d2b32d646f\">[s36]</a>。X700 应用华为乾崑智能驾驶与鸿蒙座舱 HarmonySpace 6，配备 896 线双光路激光雷达，并采用磐石底盘 2.0、双腔空气悬架、MRC 磁流变减振器与魔毯预瞄系统<a href=\"https://www.cqn.com.cn/auto/content/2026-10/20/content_9177229.htm\">[s34]</a>。</p><h3>销量与市场地位</h3><p>猛士 2025 年销量 10,228 辆，同比增长 387%，其中 12 月单月 3,002 辆，据品牌 2026 年 1 月 1 日发布的年度销量快报，且自 2025 年 9 月起销量「四连涨」<a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a><a href=\"https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202601/t20260106_2707555.html\">[s11]</a>。《财经》报道，知情人士称华为给 M817 立下「四个半月，完成 1.24 万台销售任务」，东风集团内部预期为 1.5 万台<a href=\"https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html\">[s20]</a>。华夏时报援引乘联会数据称，2026 年上半年国内方盒子泛越野车型累计销量 44.76 万辆、在售产品 42 款，且 70% 以上购买需求来自城市家庭用户<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。</p><h3>海外业务</h3><p>2025 年猛士整车出口量突破 1,000 辆，并完成欧洲、独联体、海湾等地区的市场准入认证；917 与 M817 已登陆 47 个国家和地区，右舵车型研发正在推进<a href=\"https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml\">[s12]</a>。华夏时报报道，2025 年中东市场猛士系列出口 821 辆、同比增长 45%，已在沙特、卡塔尔、阿联酋、科威特设立官方展厅，并在比利时等西欧国家完成经销网点铺设<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。2025 年 12 月 15 日，400 辆 MHERO II（猛士 M817 海外版）自上海港启运中东<a href=\"https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml\">[s12]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founding and early leadership</h3><p>As a brand of a central SOE, M-Hero has no private founder. Cao Dongjie served as the first CEO (general manager) from the brand's establishment in 2022, appearing as M-Hero Technology CEO at the August 2022 brand launch and the August 2023 park opening; in September 2025 he was transferred to Dongfeng Honda as executive deputy general manager <a href=\"https://news.qq.com/rain/a/20250923A026FF00\">[s9]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20230821_1457.html\">[s2]</a>.</p><h3>Current management</h3><p>Wan Liangyu (万良渝) is CEO, appointed September 2025; he was previously M-Hero's deputy general manager and CMO (chief manufacturing officer) <a href=\"https://news.qq.com/rain/a/20250923A026FF00\">[s9]</a>. He attended the X700 production start on 10 October 2026 as M-Hero CEO <a href=\"https://hb.chinadaily.com.cn/a/202610/12/WS6acc3d34e4b09a165c78eb85.html\">[s17]</a>, and at the X700 launch said the after-sales network would exceed 200 outlets in 2026 and 350 in 2027, covering Tibet and Xinjiang <a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>.</p><h3>Ownership and governance</h3><p>Mengshi Automotive Technology Co., Ltd. is a subsidiary of Dongfeng Motor Group Company Limited, whose H-share listing was withdrawn on the Hong Kong Stock Exchange with effect from 18 March 2026 under an absorption-merger privatisation; its ultimate parent is Dongfeng Motor Corporation, a centrally administered SOE <a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-03-20/242297_20260320_GM1H.pdf\">[s33]</a>. A second entity, Mengshi Technology (Xiangyang) Co., Ltd., was established under the 17 September 2025 announcement with registered capital of RMB 8.47 billion: Dongfeng Motor Group about 41.9%, Dongfeng Motor Co., Ltd. about 10.9%, Xiangyang Holding 34% and Xianggao Investment 13.2%; per NBD, Dongfeng insiders said the new company runs in parallel with the existing Wuhan entity, with differentiated product positioning, jointly enlarging the M-Hero brand <a href=\"https://www.nbd.com.cn/fangchan/articles/4064859\">[s7]</a>.</p>",
+      "zh": "<h3>创始人与早期管理层</h3><p>猛士为中央企业旗下品牌，无民营意义上的单一创始人。曹东杰自 2022 年品牌创立起任首任 CEO（总经理），先后以猛士科技 CEO 身份出席 2022 年 8 月品牌发布与 2023 年 8 月园区开园；2025 年 9 月调任东风本田执行副总经理<a href=\"https://news.qq.com/rain/a/20250923A026FF00\">[s9]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20230821_1457.html\">[s2]</a>。</p><h3>现任核心管理层</h3><p>万良渝任 CEO，2025 年 9 月上任，此前任猛士科技副总经理、CMO（首席制造官）<a href=\"https://news.qq.com/rain/a/20250923A026FF00\">[s9]</a>。2026 年 10 月 10 日以猛士汽车 CEO 身份出席 X700 量产下线仪式<a href=\"https://hb.chinadaily.com.cn/a/202610/12/WS6acc3d34e4b09a165c78eb85.html\">[s17]</a>，并在 X700 上市时表示 2026 年售后网络将突破 200 家、2027 年突破 350 家、实现对西藏新疆全覆盖<a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>。</p><h3>股权与治理</h3><p>猛士汽车科技公司为东风汽车集团股份有限公司旗下子公司；该股份公司的 H 股上市地位已自 2026 年 3 月 18 日起撤销（吸收合并私有化），最终母公司为东风汽车集团有限公司（中央企业）<a href=\"https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-03-20/242297_20260320_GM1H.pdf\">[s33]</a>。另一主体猛士科技（襄阳）有限公司依据 2025 年 9 月 17 日公告设立，注册资本 84.7 亿元：东风汽车集团股份有限公司约 41.9%、东风汽车有限公司约 10.9%、襄阳控股 34%、襄高投资 13.2%；据每日经济新闻转述东风公司内部人员，新公司与现有武汉猛士科技双线并行、产品定位有所差异，共同做大猛士品牌<a href=\"https://www.nbd.com.cn/fangchan/articles/4064859\">[s7]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgement.</strong> M-Hero competes in China's hardcore off-road segment against Great Wall Motor's Tank brand, BYD's Fangchengbao, BAIC's Beijing Off-road, Chery's Jetour and Toyota's Prado, among others. Its strengths are its military off-road heritage, Huawei Qiankun intelligent driving and Dongfeng's manufacturing scale; its weakness is small volume. In 2025 M-Hero sold 10,228 vehicles <a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>. Huaxia Times, at the 12 Oct 2026 pre-sale stage (where it calls the model the M-Hero 700), said the vehicle was aimed at RMB 250,000-300,000 and described that band as a supply gap <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>. The official guide price set on 25 Oct 2026 is RMB 219,800-279,800, so the entry price is below RMB 250,000 <a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>.</p><p><strong>Our judgement.</strong> The 917 and M817 were initially positioned above RMB 300,000, limiting their customer base; Caijing, citing third-party statistics rather than its own count or an official figure, reported the 917 sold 824 units in Aug-Dec 2023 and 2,101 in 2024 <a href=\"https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html\">[s20]</a>, which is why the M817 and X700 have progressively lowered prices into the RMB 200,000-400,000 band. Huaxia Times cites CPCA data of 447,600 boxy off-road vehicles in H1 2026 <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>.</p>",
+      "zh": "<p><strong>我们的判断：</strong>猛士所处的国内硬派越野赛道，主要竞争者包括长城坦克、比亚迪方程豹、北汽北京越野、奇瑞捷途以及丰田普拉多等。猛士的优势在于军工越野基因、华为乾崑智驾与东风的制造规模，短板是销量规模小。2025 年猛士销量 10,228 辆<a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>。华夏时报在 2026 年 10 月 12 日预售阶段（文中称「猛士 700」）称该车定位于 25 万-30 万元，并认为这一价格带此前存在供给缺口<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>；2026 年 10 月 25 日正式指导价定为 21.98 万-27.98 万元，入门价低于 25 万元<a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>。</p><p><strong>我们的判断：</strong>917 与 M817 初期定价均在 30 万元以上，客群受限；《财经》援引第三方统计（非该刊自行统计，亦非官方口径）称，917 于 2023 年 8-12 月售出 824 辆、2024 年售出 2,101 辆<a href=\"https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html\">[s20]</a>，这正是 M817 与 X700 相继把价格下探至 20 万-40 万元区间的原因。华夏时报援引乘联会数据称 2026 年上半年方盒子越野车 44.76 万辆<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> At the end of 2025 M-Hero launched its Dengfeng (summit) initiative, aiming to reform the organisation, technology and ecosystem toward becoming the leading luxury intelligent off-road brand, to invest RMB 12 billion in R&D, to deepen cooperation with Huawei Qiankun, and to open a first flagship brand experience centre with Huawei in 2026 <a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>. The Hubei Daily release also cites the goal of a user-direct service system (10-minute response, one-hour solution, one-day closure) and the adoption of Huawei Qiankun's IPD and IPMS processes <a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>. On the Chinese expansion of IPMS, China Business Journal uses 'integrated product marketing and sales' <a href=\"https://news.qq.com/rain/a/20250923A026FF00\">[s9]</a>, while NBD uses 'integrated product marketing and service' <a href=\"https://www.nbd.com.cn/fangchan/articles/4064859\">[s7]</a>. The Hubei Daily sales article uses the abbreviation IPMS and does not give a Chinese expansion <a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>. On after-sales, Wan Liangyu said the network would exceed 200 outlets in 2026 and 350 in 2027 <a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>. Hubei Daily reports the Xiangyang base will launch three new models within three years, the first targeting Q4 mass production <a href=\"https://news.hubeidaily.net/pc/c_5663497.html\">[s30]</a>.</p><p><strong>Our judgement.</strong> The X700's official price of RMB 219,800-279,800 marks M-Hero's first entry into the mainstream off-road band, shifting the brand from pure high-end positioning toward scale, with the goal of widening the user base and spreading R&D and manufacturing costs <a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a><a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>. Overseas expansion, particularly the Middle East and Europe where local new-energy off-road supply is scarce, is the other growth lever; this judgement rests on the reported 2025 exports of over 1,000 units and market-access certifications <a href=\"https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml\">[s12]</a>. Whether the X700 can sustain volume depends on mainstream off-road demand and competition in the same price band; this cannot be judged in advance.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>2025 年底猛士启动「登峰行动」，计划从组织、技术、生态三个层面进行系统性变革，目标直指「豪华智能越野第一品牌」，投入 120 亿的研发资金，深化与华为乾崑的战略协同，并计划 2026 年与华为乾崑联手打造首个品牌旗舰体验中心<a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>。湖北日报还披露其打造「用户直联」敏捷服务体系（10 分钟响应、1 小时方案、1 天闭环）以及全面引入华为乾崑 IPD 与 IPMS 流程体系的目标<a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>。IPMS 的中文展开有两种媒体表述：中国经营报作「集成产品营销与销售」<a href=\"https://news.qq.com/rain/a/20250923A026FF00\">[s9]</a>，每日经济新闻作「集成产品营销与服务」<a href=\"https://www.nbd.com.cn/fangchan/articles/4064859\">[s7]</a>。湖北日报销量稿只写 IPMS，没有中文展开<a href=\"https://news.hubeidaily.net/pc/c_4978924.html\">[s10]</a>。售后方面，万良渝表示 2026 年售后网络将突破 200 家、2027 年突破 350 家<a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a>。湖北日报报道，襄阳基地未来三年内将推出 3 款全新车型，首款瞄准四季度量产<a href=\"https://news.hubeidaily.net/pc/c_5663497.html\">[s30]</a>。</p><p><strong>我们的判断。</strong>X700 以 21.98 万-27.98 万元的正式指导价首次切入主流越野区间，意味着品牌由纯高端定位转向规模上量，目标在于扩大用户基数、摊薄研发与制造成本<a href=\"https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml\">[s28]</a><a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。海外（尤其是本地新能源越野供给稀缺的中东与欧洲）是另一条增长路径，这一判断依据媒体报道的 2025 年出口超 1,000 辆及市场准入认证<a href=\"https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml\">[s12]</a>。X700 能否持续放量，取决于主流越野市场需求及同价位产品的竞争，尚无法预先判断。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Limited segment ceiling.</strong> Hardcore off-road is a niche market; Huaxia Times cites CPCA data of 447,600 'boxy' off-road vehicles in H1 2026 <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>.</li><li><strong>Price-band and brand positioning.</strong> M-Hero's move down to the RMB 200,000-400,000 band increases exposure to the most crowded mid-to-high off-road competition, where Tank and Fangchengbao are entrenched <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>.</li><li><strong>Dependence on Huawei.</strong> The M817 and X700 rely on Huawei's Qiankun stack for their main differentiators, deepening dependence on a single supplier <a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a>.</li><li><strong>Overseas trade barriers.</strong> The EU imposed definitive countervailing duties on battery-electric vehicles from China for five years from October 2024 <a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5589\">[s29]</a>; M-Hero has entered Europe through Belgium and other Western European markets, so EU measures could affect pricing and margins for its pure-electric models <a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>.</li><li><strong>Joint-venture governance and dual-line coordination.</strong> The Xiangyang joint venture is held by four shareholders and runs in parallel with the Wuhan entity with differentiated positioning, adding governance and product-coordination complexity <a href=\"https://www.nbd.com.cn/fangchan/articles/4064859\">[s7]</a>.</li></ul>",
+      "zh": "<ul><li><strong>细分市场天花板有限。</strong>硬派越野属小众市场，华夏时报援引乘联会数据称 2026 年上半年方盒子越野车 44.76 万辆<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。</li><li><strong>价格带与品牌定位。</strong>猛士下探至 20 万-40 万元区间后，进入坦克、方程豹等已站稳的中高端越野竞争腹地<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。</li><li><strong>对华为的依赖。</strong>M817 与 X700 的核心卖点高度依赖华为乾崑全栈方案，加深了对单一供应商的依赖<a href=\"https://www.dfmc.com.cn/news/company/news_20250818_1023.html\">[s6]</a>。</li><li><strong>海外贸易壁垒。</strong>欧盟自 2024 年 10 月起对原产中国的电池电动汽车征收五年期最终反补贴税<a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5589\">[s29]</a>；猛士已通过比利时等西欧市场进入欧洲，其纯电车型的定价与利润可能受到影响<a href=\"https://www.sohu.com/a/1086863469_116062\">[s19]</a>。</li><li><strong>合资治理与双线协同。</strong>猛士科技（襄阳）合资公司由四家股东共同持股、与武汉猛士科技双线并行、产品定位有差异，多主体运营增加了品牌治理与产品协同的复杂度<a href=\"https://www.nbd.com.cn/fangchan/articles/4064859\">[s7]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "东风汽车集团有限公司：豪华电动越野品牌猛士正式发布 两款概念车全球首秀", "url": "https://www.dfmc.com.cn/news/zixunjujiao/news_20220831_1123.html", "date": "2022-08-31", "tier": "A" },
+    { "id": "s2", "name": "东风汽车集团有限公司：猛士科技园区正式启用", "url": "https://www.dfmc.com.cn/news/company/news_20230821_1457.html", "date": "2023-08-21", "tier": "A" },
+    { "id": "s3", "name": "武汉经济技术开发区管委会：「车谷造」新能源新车「抢镜」成都车展（猛士917上市）", "url": "https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202308/t20230828_2254642.html", "date": "2023-08-28", "tier": "A" },
+    { "id": "s4", "name": "央视网汽车频道：猛士科技三款新车重磅发布（M-HUNTER 狩猎者、917蛟龙战甲、917高地雄狮）", "url": "https://auto.cctv.cn/2024/04/26/ARTIFOgF8IhQwBCymRbADe0b240426.shtml", "date": "2024-04-26", "tier": "B" },
+    { "id": "s5", "name": "湖北日报：「智能越野第一车」猛士M817全球上市", "url": "https://epaper.hubeidaily.net/pad/content/202508/18/content_323562.html", "date": "2025-08-18", "tier": "B" },
+    { "id": "s6", "name": "东风汽车集团有限公司：31.99万元起售 猛士M817上市", "url": "https://www.dfmc.com.cn/news/company/news_20250818_1023.html", "date": "2025-08-18", "tier": "A" },
+    { "id": "s7", "name": "每日经济新闻：东风成立新合资公司！做大猛士品牌，与华为合作全面深化", "url": "https://www.nbd.com.cn/fangchan/articles/4064859", "date": "2025-09-17", "tier": "B" },
+    { "id": "s9", "name": "中国经营报（腾讯新闻转载）：东风猛士科技新任CEO万良渝拜访华为", "url": "https://news.qq.com/rain/a/20250923A026FF00", "date": "2025-09-23", "tier": "B" },
+    { "id": "s10", "name": "湖北日报：持续攻坚豪华智能越野新赛道 猛士汽车2025年销量突破1万辆", "url": "https://news.hubeidaily.net/pc/c_4978924.html", "date": "2026-01-02", "tier": "B" },
+    { "id": "s11", "name": "武汉经济技术开发区管委会：新能源汽车产量占比55% 武汉经开区汽车产业加速向「新」", "url": "https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202601/t20260106_2707555.html", "date": "2026-01-06", "tier": "A" },
+    { "id": "s12", "name": "中国经营报（新浪财经转载）：批量装船离港，国产硬派越野征服中东土豪", "url": "https://finance.sina.com.cn/stock/wbstock/2026-01-26/doc-inhirukr8129288.shtml", "date": "2026-01-26", "tier": "B" },
+    { "id": "s14", "name": "东风汽车集团有限公司：全新猛士M817上市", "url": "https://www.dfmc.com.cn/news/company/news_20260629_1014.html", "date": "2026-06-29", "tier": "A" },
+    { "id": "s15", "name": "东风汽车集团有限公司：猛士X700首台量产车下线", "url": "https://www.dfmc.com.cn/news/company/news_20261012_0909.html", "date": "2026-10-12", "tier": "A" },
+    { "id": "s16", "name": "湖北省经济和信息化厅：预售24小时突破8000台！最新爆款，今天量产下线", "url": "https://jxt.hubei.gov.cn/bmdt/rdjj/202610/t20261010_6030619.shtml", "date": "2026-10-10", "tier": "A" },
+    { "id": "s17", "name": "中国日报网湖北频道：重大整车项目投产 襄阳加速布局新能源智能汽车赛道", "url": "https://hb.chinadaily.com.cn/a/202610/12/WS6acc3d34e4b09a165c78eb85.html", "date": "2026-10-12", "tier": "B" },
+    { "id": "s19", "name": "华夏时报（搜狐转载）：细分赛道开启规模之战，猛士700入场，智能新能源越野进入价值扩张期", "url": "https://www.sohu.com/a/1086863469_116062", "date": "2026-10-12", "tier": "B" },
+    { "id": "s20", "name": "财经（新浪财经转载）：四个半月销量要过万，华为立下的军令状能帮猛士翻身吗", "url": "https://finance.sina.cn/2025-08-24/detail-infnatrz4722297.d.html", "date": "2025-08-24", "tier": "B" },
+    { "id": "s21", "name": "东风汽车集团股份有限公司 已审财务报表 2025年度（上交所债券信息披露）", "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-04-29/242484_20260429_09I9.pdf", "date": "2026-04-29", "tier": "A" },
+    { "id": "s23", "name": "央广网汽车频道：29.99万元起售 全新猛士M817正式上市", "url": "https://auto.cnr.cn/cz/20260628/t20260628_527680605.shtml", "date": "2026-06-28", "tier": "B" },
+    { "id": "s24", "name": "中国青年报（网易转载）：高端越野车扎堆亮相成都车展，猛士如何出奇制胜", "url": "https://www.163.com/dy/article/IDNO5KRN0514CDBK.html", "date": "2023-09-03", "tier": "B" },
+    { "id": "s28", "name": "央广网：限时焕新价20.98万元起，猛士X700上市", "url": "https://auto.cnr.cn/cz/20261026/t20261026_527853019.shtml", "date": "2026-10-26", "tier": "B" },
+    { "id": "s29", "name": "European Commission: EU imposes duties on unfairly subsidised electric vehicles from China", "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5589", "date": "2024-10-29", "tier": "A" },
+    { "id": "s30", "name": "湖北日报：产线改造完成！百亿「猛士」加速驶向量产", "url": "https://news.hubeidaily.net/pc/c_5663497.html", "date": "2026-06-22", "tier": "B" },
+    { "id": "s31", "name": "科技日报：东风汽车旗下双品牌猛士、奕境携手华为乾崑", "url": "https://www.stdaily.com/web/gdxw/2026-05/20/content_519565.html", "date": "2026-05-20", "tier": "B" },
+    { "id": "s32", "name": "上海证券报·中国证券网：东风旗下双品牌猛士、奕境与华为乾崑全面深化战略合作2.0升级", "url": "https://m.cnstock.com/commonDetail/717442", "date": "2026-05-20", "tier": "B" },
+    { "id": "s33", "name": "上交所债券信息披露：东风汽车集团股份有限公司关于吸收合并相关事项最新进展的公告（第二次）", "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2026-03-20/242297_20260320_GM1H.pdf", "date": "2026-03-20", "tier": "A" },
+    { "id": "s34", "name": "中国质量新闻网：搭载华为乾崑智驾与鸿蒙座舱 猛士X700将于10月25日上市", "url": "https://www.cqn.com.cn/auto/content/2026-10/20/content_9177229.htm", "date": "2026-10-20", "tier": "B" },
+    { "id": "s35", "name": "武汉经济技术开发区管委会：「不懂越野也可撒野」，全新猛士M817正式上市", "url": "https://www.whkfq.gov.cn/xwzx/yw/kfqyw/qnxw/202606/t20260629_2814309.html", "date": "2026-06-29", "tier": "A" },
+    { "id": "s36", "name": "新华网：全新猛士M817上市：开启智能越野新生活", "url": "https://app.xinhuanet.com/news/article.html?articleId=20260629b5bc1a05bf4d40c48b9fc6d2b32d646f", "date": "2026-06-29", "tier": "B" }
+  ]
+}

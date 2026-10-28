@@ -393,7 +393,7 @@ function pageHome() {
               <h3 class="news-title"><a href="/news/${a.slug}" style="color:inherit;text-decoration:none;">${escapeHtmlText(a['title_' + lang] || a.title_en)}</a></h3>
               <div class="news-date">${a.date}</div>
             </div>
-          </article>`).join('') : `<p style="font-size:14px;color:#6b7280;">${lang === 'zh' ? '每个工作日更新。' : 'Updated every weekday.'}</p>`}
+          </article>`).join('') : `<p style="font-size:14px;color:#6b7280;">${lang === 'zh' ? '每天更新。' : 'Updated every day.'}</p>`}
           <a href="/news" style="display:inline-block;margin-top:10px;color:var(--accent, #d4302a);font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;">${lang === 'zh' ? '全部日报 →' : 'All briefings →'}</a>
         </div>
       </div>
@@ -898,6 +898,10 @@ function pageNews() {
 
 function pageTech() {
   const lang = getLang();
+  const label = (en, zh) => (lang === 'zh' ? zh : en);
+  const field = (keyEn, keyZh, value) => value
+    ? `<div class="tech-card-field"><span class="tech-field-label">${label(keyEn, keyZh)}</span><p>${value}</p></div>`
+    : '';
   return `
     <section class="page-header page-header--dark">
       <div class="container">
@@ -908,12 +912,22 @@ function pageTech() {
     </section>
     <section class="tech-section tech-section--continuous">
       <div class="container">
+        <style>
+          .tech-card-field{margin-top:14px;padding-top:12px;border-top:1px solid #e5e7eb;}
+          .tech-field-label{display:block;font-family:var(--mono, monospace);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent, #d4302a);margin-bottom:4px;}
+          .tech-card-field p{margin:0;font-size:13px;line-height:1.65;color:#6b7280;}
+          .tech-card-field a{color:var(--accent, #d4302a);text-decoration:none;}
+        </style>
         <div class="tech-grid">
           ${SITE_DATA.tech.map(tech => `
             <article class="tech-card">
               <div class="tech-num" aria-hidden="true">${tech.num}</div>
               <h3>${tech['title_' + lang]}</h3>
               <p>${tech['desc_' + lang]}</p>
+              ${field('Companies', '相关公司', tech['companies_' + lang])}
+              ${field('Representative models', '代表车型', tech['models_' + lang])}
+              ${field('Production timing', '量产时间', tech['timing_' + lang])}
+              ${field('Sources', '出处', tech['sources_' + lang])}
               <div class="tech-tags">
                 ${tech.tags.map(tg => `<span class="tech-tag">${tg}</span>`).join('')}
               </div>
