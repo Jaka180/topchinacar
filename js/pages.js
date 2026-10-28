@@ -693,10 +693,18 @@ function pageBrands() {
 
 function pageModels() {
   const lang = getLang();
-  // Collect unique brands in source order
   const seenBrands = [];
   SITE_DATA.models.forEach(m => { if (m.brand && !seenBrands.includes(m.brand)) seenBrands.push(m.brand); });
   const allLabel = lang === 'zh' ? '全部' : 'All';
+  const powertrains = [
+    { id: 'bev', en: 'EV', zh: '纯电' },
+    { id: 'phev', en: 'PHEV', zh: '插混' },
+    { id: 'erev', en: 'EREV', zh: '增程' },
+    { id: 'hev', en: 'HEV', zh: '油电混动' },
+    { id: 'ice', en: 'ICE', zh: '燃油' }
+  ];
+  const modelPowers = m => Array.isArray(m.powertrain) ? m.powertrain : [];
+  const powerCount = id => SITE_DATA.models.filter(m => modelPowers(m).indexOf(id) !== -1).length;
   return `
     <section class="page-header">
       <div class="container">
@@ -705,24 +713,33 @@ function pageModels() {
         <p class="page-deck">${t('models.page.deck')}</p>
       </div>
     </section>
-    <div class="models-filter-wrap">
-      <div class="container models-filter-inner">
-        <span class="models-filter-label">${lang === 'zh' ? '品牌筛选' : 'Filter by brand'}</span>
-        <div class="models-filter-chips" id="modelsFilterChips">
-          <button type="button" class="chip is-active" data-brand="all">${allLabel} <span class="chip-count">${SITE_DATA.models.length}</span></button>
-          ${seenBrands.map(b => {
-            const count = SITE_DATA.models.filter(m => m.brand === b).length;
-            return `<button type="button" class="chip" data-brand="${b}">${b} <span class="chip-count">${count}</span></button>`;
-          }).join('')}
+    <div class="models-filter-wrap" id="modelsFilter">
+      <div class="container models-filter-stack">
+        <div class="models-filter-inner">
+          <span class="models-filter-label">${lang === 'zh' ? '品牌' : 'Brand'}</span>
+          <div class="models-filter-chips" id="modelsBrandChips">
+            <button type="button" class="chip is-active" data-brand="all" aria-pressed="true">${allLabel} <span class="chip-count">${SITE_DATA.models.length}</span></button>
+            ${seenBrands.map(b => {
+              const count = SITE_DATA.models.filter(m => m.brand === b).length;
+              return `<button type="button" class="chip" data-brand="${escapeHtmlText(b)}" aria-pressed="false">${escapeHtmlText(b)} <span class="chip-count">${count}</span></button>`;
+            }).join('')}
+          </div>
+        </div>
+        <div class="models-filter-inner">
+          <span class="models-filter-label">${lang === 'zh' ? '动力' : 'Powertrain'}</span>
+          <div class="models-filter-chips" id="modelsPowertrainChips">
+            <button type="button" class="chip is-active" data-powertrain="all" aria-pressed="true">${allLabel} <span class="chip-count">${SITE_DATA.models.length}</span></button>
+            ${powertrains.map(p => `<button type="button" class="chip" data-powertrain="${p.id}" aria-pressed="false">${lang === 'zh' ? p.zh : p.en} <span class="chip-count">${powerCount(p.id)}</span></button>`).join('')}
+          </div>
         </div>
       </div>
     </div>
     <section style="padding-top:24px;">
       <div class="container">
         <div class="models-grid" id="modelsGrid">
-          ${SITE_DATA.models.map(m => `<div class="models-grid-item" data-brand="${m.brand || ''}">${modelCardHTML(m, lang)}</div>`).join('')}
+          ${SITE_DATA.models.map(m => `<div class="models-grid-item" data-brand="${escapeHtmlText(m.brand || '')}" data-powertrain="${modelPowers(m).join(' ')}">${modelCardHTML(m, lang)}</div>`).join('')}
         </div>
-        <div class="models-empty" id="modelsEmpty" hidden>${lang === 'zh' ? '该品牌暂无车型。' : 'No models for this brand yet.'}</div>
+        <div class="models-empty" id="modelsEmpty" hidden>${lang === 'zh' ? '没有符合当前筛选的车型。' : 'No models match these filters.'}</div>
       </div>
     </section>
     ${faqSectionHTML('models')}

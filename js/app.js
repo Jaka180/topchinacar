@@ -67,26 +67,6 @@
   }
 
   // ---- Page-specific init ----
-  function initModelsFilter() {
-    const wrap = document.getElementById('modelsFilterChips');
-    const grid = document.getElementById('modelsGrid');
-    const empty = document.getElementById('modelsEmpty');
-    if (!wrap || !grid) return;
-    wrap.addEventListener('click', (e) => {
-      const btn = e.target.closest('[data-brand]');
-      if (!btn) return;
-      const brand = btn.getAttribute('data-brand');
-      wrap.querySelectorAll('.chip').forEach(c => c.classList.toggle('is-active', c === btn));
-      let visible = 0;
-      grid.querySelectorAll('.models-grid-item').forEach(item => {
-        const match = brand === 'all' || item.getAttribute('data-brand') === brand;
-        item.style.display = match ? '' : 'none';
-        if (match) visible++;
-      });
-      if (empty) empty.hidden = visible !== 0;
-    });
-  }
-
   function focusBrandCard(brandId) {
     requestAnimationFrame(() => {
       const card = document.getElementById('brand-' + brandId);
@@ -134,7 +114,7 @@
   }
 
   function initPage(route) {
-    if (route === '/models') initModelsFilter();
+    if (route === '/models' && typeof initModelsFilter === 'function') initModelsFilter();
     initBriefingFilter();
     if (route === '/quote') initQuoteForm();
     if (route === '/brands') {
