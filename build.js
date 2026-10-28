@@ -12,6 +12,7 @@ const vm = require('vm');
 const { NAV, footerHTML } = require('./lib/site-chrome');
 const { articleEdition } = require('./lib/editions');
 const { briefingsMain } = require('./lib/briefings');
+const { homeMain } = require('./lib/home');
 const { writePlaceholderPages } = require('./lib/placeholders');
 const {
   companiesIndexHTML,
@@ -240,7 +241,7 @@ function writeZh(relPath, html) {
 }
 
 const PAGES_ZH = {
-  '/': { title: 'TopChinaCar | 中国汽车全球化新闻：新能源、出口与全球市场', desc: 'TopChinaCar 面向国际读者报道中国汽车品牌、电动车、出口市场、政策变化与全球扩张。' },
+  '/': { title: 'TopChinaCar | 中国汽车产业情报', desc: '中国汽车产业情报：每天两份日报、人事变动、销量与排行。' },
   '/editorial-policy': { title: 'TopChinaCar 编辑方针与信源标准', desc: 'TopChinaCar 如何报道中国汽车全球化：内容主线、信源标准、文章结构、独立性与更正政策。' },
   '/contact': { title: '联系 TopChinaCar — 媒体、市场情报与合作', desc: '报道线索、勘误、媒体、市场情报与合作事宜，请联系 TopChinaCar。48 小时内回复。' },
   '/newsletter': { title: '中国车企出海日报 — 邮件订阅 | TopChinaCar', desc: '每天早晨发送的中国车企出海日报：新能源出口、海外工厂、经销网络、政策、ADAS 与市场进入信号。' },
@@ -268,8 +269,8 @@ const SITE_DATA = vm.runInContext('SITE_DATA', sandbox);
 const PAGES = {
   '/': {
     file: 'index.html',
-    title: 'TopChinaCar | Chinese Auto News, EVs, Exports and Global Markets',
-    desc: 'TopChinaCar covers Chinese car brands, electric vehicles, export markets, policy changes, and global expansion for international readers.'
+    title: 'TopChinaCar | China Auto Industry Intelligence',
+    desc: 'China auto industry intelligence: two daily briefings, people moves, sales and rankings.'
   },
   '/chinese-car-brands': {
     file: 'chinese-car-brands.html',
@@ -458,7 +459,7 @@ const JSONLD = `<script type="application/ld+json">
         "width": 512,
         "height": 512
       },
-      "description": "Independent news site covering Chinese automakers, EVs, exports and global market expansion.",
+      "description": "China auto industry intelligence: two daily briefings, people moves, sales and rankings.",
       "foundingDate": "2026",
       "sameAs": []
     },
@@ -1277,14 +1278,21 @@ vm.runInContext(`
 
 // ---- Generate pages (EN + /zh mirror) ----
 const briefingHTML = briefingsMain(articles);
+const homeHTML = homeMain({
+  articles,
+  brands: SITE_DATA.brands,
+  buildVersion: BUILD_V,
+  root: ROOT
+});
 let count = 0;
 for (const [route, meta] of Object.entries(PAGES)) {
-  const mainHTML = route === '/news' ? briefingHTML : PAGE_ROUTES[route]();
+  const baked = route === '/news' ? briefingHTML : route === '/' ? homeHTML : '';
+  const mainHTML = baked || PAGE_ROUTES[route]();
   const outputFile = path.join(ROOT, meta.file);
   fs.mkdirSync(path.dirname(outputFile), { recursive: true });
   fs.writeFileSync(outputFile, pageHTML(route, { ...meta, extraHead: staticExtraHead(route, meta, 'en') }, mainHTML));
   setSandboxLang('zh');
-  const mainZh = route === '/news' ? briefingHTML : PAGE_ROUTES[route]();
+  const mainZh = baked || PAGE_ROUTES[route]();
   setSandboxLang('en');
   const zhMeta = PAGES_ZH[route] || meta;
   writeZh(meta.file, zhChrome(pageHTML(route, { ...zhMeta, extraHead: staticExtraHead(route, zhMeta, 'zh') }, mainZh, { zh: true })));
