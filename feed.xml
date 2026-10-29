@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:21:28 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China Car Retail Falls 26% in Late October as Industry Profit Drops 23%; Li Auto, BYD Refresh Key Models</title>
+      <link>https://www.topchinacar.com/news/2026-10-29-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-10-29-china-market-daily</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>CPCA data show passenger car retail at 1.145 million units on Oct 1-25, down 26% year on year, while auto industry profit fell 23% in January-September. Li Auto and BYD launched updated volume models.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>GWM Picks Bulgaria for First European Plant as SAIC&apos;s Overseas Sales Pass 1.16 Million</title>
       <link>https://www.topchinacar.com/news/2026-10-29-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
       <description>Wholesale vs retail, exports vs overseas sales, customs vs association data — China auto numbers confuse even professionals. A practical guide to reading them, and the five indicators that matter most.</description>
       <category>Data</category>
-    </item>
-    <item>
-      <title>Chery&apos;s Overseas Growth: Why Emerging Markets Matter</title>
-      <link>https://www.topchinacar.com/news/chery-overseas-growth-why-emerging-markets-matter</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chery-overseas-growth-why-emerging-markets-matter</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <description>China&apos;s export champion for 23 straight years built its lead the unfashionable way: petrol SUVs, emerging markets, and local assembly — long before the EV wave. Now that base is funding a push into Europe.</description>
-      <category>Analysis</category>
     </item>
   </channel>
 </rss>
