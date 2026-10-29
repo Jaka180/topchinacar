@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-28T09:53:02.225Z",
+ "generated_at": "2026-10-29T01:19:31.856Z",
  "window_days": 7,
  "totals": {
-  "sources": 143,
-  "active": 141,
+  "sources": 238,
+  "active": 236,
   "domains": 145,
   "keywords": 432,
-  "new_items_7d": 9164
+  "new_items_7d": 10245
  },
  "sources": [
   {
@@ -19,11 +19,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 38,
-    "ok_rate": 0.97,
+    "runs": 46,
+    "ok_rate": 0.98,
     "items": 0,
     "new_items": 0,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -36,11 +36,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 11,
+    "runs": 14,
     "ok_rate": 1,
-    "items": 11,
-    "new_items": 4,
-    "last_ok": "2026-10-28T06:05:11.421Z"
+    "items": 22,
+    "new_items": 5,
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -57,11 +57,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 146,
-    "new_items": 43,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 160,
+    "new_items": 50,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -78,11 +78,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 100,
+    "items": 113,
     "new_items": 18,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -99,11 +99,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 1788,
-    "new_items": 455,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 1988,
+    "new_items": 497,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -120,11 +120,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 349,
-    "new_items": 75,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 409,
+    "new_items": 94,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -141,11 +141,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 1762,
-    "new_items": 422,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 1962,
+    "new_items": 475,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -162,8 +162,8 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
-    "ok_rate": 0.22,
+    "runs": 20,
+    "ok_rate": 0.2,
     "items": 7,
     "new_items": 3,
     "last_ok": "2026-10-25T11:56:27.273Z"
@@ -183,11 +183,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 421,
-    "new_items": 97,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 468,
+    "new_items": 101,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -204,11 +204,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 488,
-    "new_items": 99,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 554,
+    "new_items": 108,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -225,11 +225,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 508,
-    "new_items": 125,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 545,
+    "new_items": 131,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -246,11 +246,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 1573,
-    "new_items": 344,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 1773,
+    "new_items": 383,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -267,11 +267,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 513,
-    "new_items": 126,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 569,
+    "new_items": 139,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -288,11 +288,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 96,
-    "new_items": 19,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 112,
+    "new_items": 20,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -309,11 +309,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
-    "ok_rate": 0.89,
-    "items": 62,
-    "new_items": 11,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "runs": 20,
+    "ok_rate": 0.9,
+    "items": 76,
+    "new_items": 14,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -330,11 +330,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 122,
-    "new_items": 22,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 135,
+    "new_items": 23,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -351,11 +351,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 289,
-    "new_items": 69,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 339,
+    "new_items": 87,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -372,11 +372,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 220,
-    "new_items": 42,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 264,
+    "new_items": 60,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -393,11 +393,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 76,
+    "items": 87,
     "new_items": 14,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -414,11 +414,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 552,
-    "new_items": 108,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 612,
+    "new_items": 117,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -435,11 +435,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 368,
-    "new_items": 94,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 411,
+    "new_items": 110,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -456,11 +456,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
-    "ok_rate": 0.33,
-    "items": 6,
-    "new_items": 2,
-    "last_ok": "2026-10-25T15:14:17.066Z"
+    "runs": 20,
+    "ok_rate": 0.4,
+    "items": 8,
+    "new_items": 3,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -477,11 +477,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 260,
-    "new_items": 62,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 303,
+    "new_items": 76,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -498,11 +498,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 115,
-    "new_items": 22,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 122,
+    "new_items": 25,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -519,11 +519,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 80,
-    "new_items": 13,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 90,
+    "new_items": 16,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -540,11 +540,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 885,
-    "new_items": 155,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 1032,
+    "new_items": 178,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -561,7 +561,7 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
@@ -582,11 +582,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 125,
-    "new_items": 32,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 139,
+    "new_items": 34,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -603,11 +603,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 377,
-    "new_items": 113,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 426,
+    "new_items": 136,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -624,11 +624,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 422,
-    "new_items": 143,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 462,
+    "new_items": 151,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -645,11 +645,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 486,
-    "new_items": 126,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 532,
+    "new_items": 138,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -666,11 +666,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 75,
+    "items": 80,
     "new_items": 17,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -687,11 +687,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 430,
-    "new_items": 121,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 469,
+    "new_items": 131,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -708,11 +708,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 714,
-    "new_items": 217,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 774,
+    "new_items": 227,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -729,11 +729,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
-    "ok_rate": 0.67,
-    "items": 26,
+    "runs": 20,
+    "ok_rate": 0.7,
+    "items": 30,
     "new_items": 5,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -750,11 +750,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 663,
-    "new_items": 170,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 739,
+    "new_items": 188,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -771,11 +771,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 84,
-    "new_items": 18,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 99,
+    "new_items": 20,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -792,11 +792,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 735,
-    "new_items": 168,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 805,
+    "new_items": 183,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -813,11 +813,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 564,
-    "new_items": 150,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 609,
+    "new_items": 170,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -834,11 +834,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 164,
-    "new_items": 42,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 184,
+    "new_items": 45,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -855,11 +855,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 406,
-    "new_items": 116,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 433,
+    "new_items": 123,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -876,11 +876,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 368,
-    "new_items": 99,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 413,
+    "new_items": 114,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -897,11 +897,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 117,
-    "new_items": 33,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 135,
+    "new_items": 34,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -918,11 +918,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 688,
-    "new_items": 177,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 755,
+    "new_items": 209,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -939,11 +939,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 395,
-    "new_items": 126,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 493,
+    "new_items": 153,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -960,11 +960,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 110,
-    "new_items": 27,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 124,
+    "new_items": 28,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -981,11 +981,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 57,
-    "new_items": 12,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 64,
+    "new_items": 13,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1002,11 +1002,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 545,
-    "new_items": 186,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 649,
+    "new_items": 235,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1023,11 +1023,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 56,
-    "new_items": 15,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 68,
+    "new_items": 19,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1044,11 +1044,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 468,
-    "new_items": 147,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 499,
+    "new_items": 151,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1065,11 +1065,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 757,
-    "new_items": 226,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 777,
+    "new_items": 228,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1086,11 +1086,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 627,
-    "new_items": 155,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 669,
+    "new_items": 169,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1103,11 +1103,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 165,
-    "new_items": 33,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 194,
+    "new_items": 38,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1120,7 +1120,7 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
@@ -1137,11 +1137,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 130,
-    "new_items": 29,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 144,
+    "new_items": 31,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1154,11 +1154,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 86,
-    "new_items": 19,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 99,
+    "new_items": 23,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1171,11 +1171,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 189,
-    "new_items": 41,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 200,
+    "new_items": 43,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1188,7 +1188,7 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
@@ -1205,11 +1205,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 173,
-    "new_items": 51,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 187,
+    "new_items": 52,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1222,11 +1222,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 585,
-    "new_items": 169,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 677,
+    "new_items": 187,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1239,11 +1239,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 520,
-    "new_items": 146,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 584,
+    "new_items": 163,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1256,11 +1256,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 738,
-    "new_items": 235,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 782,
+    "new_items": 242,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1273,11 +1273,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 334,
-    "new_items": 103,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 392,
+    "new_items": 123,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1290,11 +1290,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 98,
-    "new_items": 28,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 110,
+    "new_items": 31,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1307,11 +1307,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 145,
-    "new_items": 43,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 167,
+    "new_items": 46,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1324,11 +1324,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 14,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 605,
-    "new_items": 184,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 682,
+    "new_items": 202,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1341,11 +1341,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 18,
+    "runs": 20,
     "ok_rate": 1,
-    "items": 548,
-    "new_items": 96,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 670,
+    "new_items": 121,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1358,11 +1358,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 19,
+    "runs": 21,
     "ok_rate": 0.95,
-    "items": 1329,
-    "new_items": 339,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 1529,
+    "new_items": 368,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1379,11 +1379,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 5,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 82,
-    "new_items": 22,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 125,
+    "new_items": 31,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1396,11 +1396,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 38,
+    "runs": 46,
     "ok_rate": 1,
-    "items": 0,
-    "new_items": 0,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 9,
+    "new_items": 2,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1413,11 +1413,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 260,
-    "new_items": 51,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 300,
+    "new_items": 52,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1430,11 +1430,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.92,
-    "items": 168,
+    "runs": 15,
+    "ok_rate": 0.93,
+    "items": 196,
     "new_items": 14,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1447,11 +1447,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
+    "items": 150,
     "new_items": 15,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1464,11 +1464,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 117,
+    "items": 135,
     "new_items": 11,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1481,11 +1481,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 156,
+    "items": 180,
     "new_items": 13,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1498,11 +1498,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 117,
+    "items": 135,
     "new_items": 9,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -1515,11 +1515,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 11,
+    "runs": 13,
     "ok_rate": 1,
-    "items": 957,
+    "items": 1131,
     "new_items": 87,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-28T20:05:11.421Z"
    }
   },
   {
@@ -1532,11 +1532,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 5,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 500,
+    "items": 700,
     "new_items": 101,
-    "last_ok": "2026-10-28T00:05:11.421Z"
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -1549,11 +1549,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
+    "items": 150,
     "new_items": 11,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-28T21:05:11.421Z"
    }
   },
   {
@@ -1566,11 +1566,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 260,
-    "new_items": 22,
-    "last_ok": "2026-10-28T06:05:11.421Z"
+    "items": 320,
+    "new_items": 23,
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -1600,8 +1600,8 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.54,
+    "runs": 15,
+    "ok_rate": 0.47,
     "items": 1073,
     "new_items": 166,
     "last_ok": "2026-10-27T20:05:11.421Z"
@@ -1617,11 +1617,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 79,
+    "runs": 95,
     "ok_rate": 0.99,
-    "items": 780,
+    "items": 940,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1634,11 +1634,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 79,
+    "runs": 95,
     "ok_rate": 1,
-    "items": 790,
-    "new_items": 26,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 950,
+    "new_items": 30,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1651,11 +1651,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 38,
+    "runs": 46,
     "ok_rate": 1,
-    "items": 418,
+    "items": 506,
     "new_items": 11,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -1668,11 +1668,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 11,
+    "runs": 14,
     "ok_rate": 1,
-    "items": 220,
-    "new_items": 23,
-    "last_ok": "2026-10-28T07:05:11.421Z"
+    "items": 280,
+    "new_items": 26,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1685,11 +1685,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 79,
+    "runs": 95,
     "ok_rate": 1,
-    "items": 3950,
-    "new_items": 63,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 4750,
+    "new_items": 68,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1702,11 +1702,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 5,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 250,
+    "items": 350,
     "new_items": 50,
-    "last_ok": "2026-10-27T22:05:11.421Z"
+    "last_ok": "2026-10-28T22:05:11.421Z"
    }
   },
   {
@@ -1719,11 +1719,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 11,
+    "runs": 14,
     "ok_rate": 1,
-    "items": 110,
+    "items": 140,
     "new_items": 10,
-    "last_ok": "2026-10-28T06:05:11.421Z"
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -1736,11 +1736,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 79,
+    "runs": 95,
     "ok_rate": 1,
-    "items": 2370,
-    "new_items": 57,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 2850,
+    "new_items": 69,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1753,11 +1753,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 1300,
-    "new_items": 294,
-    "last_ok": "2026-10-28T07:05:11.421Z"
+    "items": 1500,
+    "new_items": 330,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1770,11 +1770,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 1200,
-    "new_items": 165,
-    "last_ok": "2026-10-28T04:05:11.421Z"
+    "items": 1500,
+    "new_items": 179,
+    "last_ok": "2026-10-28T22:05:11.421Z"
    }
   },
   {
@@ -1787,11 +1787,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 130,
+    "items": 160,
     "new_items": 10,
-    "last_ok": "2026-10-28T07:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1804,11 +1804,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 26,
+    "items": 32,
     "new_items": 2,
-    "last_ok": "2026-10-28T05:05:11.421Z"
+    "last_ok": "2026-10-28T23:05:11.421Z"
    }
   },
   {
@@ -1821,11 +1821,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 36,
+    "items": 45,
     "new_items": 3,
-    "last_ok": "2026-10-28T04:05:11.421Z"
+    "last_ok": "2026-10-28T22:05:11.421Z"
    }
   },
   {
@@ -1838,11 +1838,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 260,
+    "items": 320,
     "new_items": 25,
-    "last_ok": "2026-10-28T07:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1855,11 +1855,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
-    "ok_rate": 0.95,
-    "items": 370,
+    "runs": 47,
+    "ok_rate": 0.96,
+    "items": 450,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1872,11 +1872,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 260,
+    "items": 300,
     "new_items": 20,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-28T20:05:11.421Z"
    }
   },
   {
@@ -1889,11 +1889,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
+    "items": 150,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-28T21:05:11.421Z"
    }
   },
   {
@@ -1906,11 +1906,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 468,
+    "items": 564,
     "new_items": 14,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1923,11 +1923,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
-    "ok_rate": 0.97,
-    "items": 380,
+    "runs": 47,
+    "ok_rate": 0.98,
+    "items": 460,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1940,11 +1940,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
+    "items": 150,
     "new_items": 11,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-28T20:05:11.421Z"
    }
   },
   {
@@ -1957,11 +1957,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 390,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 470,
+    "new_items": 11,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1974,11 +1974,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 390,
+    "items": 470,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -1991,11 +1991,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 390,
+    "items": 470,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2008,11 +2008,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 390,
+    "items": 470,
     "new_items": 11,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2025,11 +2025,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 390,
+    "items": 470,
     "new_items": 10,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2042,11 +2042,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 33,
+    "runs": 41,
     "ok_rate": 1,
-    "items": 1980,
-    "new_items": 642,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "items": 2460,
+    "new_items": 791,
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -2059,11 +2059,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 78,
+    "items": 90,
     "new_items": 6,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-28T21:05:11.421Z"
    }
   },
   {
@@ -2076,11 +2076,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 38,
+    "runs": 46,
     "ok_rate": 1,
-    "items": 760,
+    "items": 920,
     "new_items": 20,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-29T00:05:11.421Z"
    }
   },
   {
@@ -2093,11 +2093,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 1872,
+    "items": 2256,
     "new_items": 48,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2110,11 +2110,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.31,
-    "items": 80,
+    "runs": 15,
+    "ok_rate": 0.4,
+    "items": 120,
     "new_items": 20,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2127,11 +2127,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 360,
+    "items": 450,
     "new_items": 31,
-    "last_ok": "2026-10-28T04:05:11.421Z"
+    "last_ok": "2026-10-28T22:05:11.421Z"
    }
   },
   {
@@ -2144,11 +2144,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 390,
+    "items": 480,
     "new_items": 30,
-    "last_ok": "2026-10-28T05:05:11.421Z"
+    "last_ok": "2026-10-28T23:05:11.421Z"
    }
   },
   {
@@ -2161,11 +2161,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 780,
+    "items": 940,
     "new_items": 20,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2178,11 +2178,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 780,
-    "new_items": 30,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 940,
+    "new_items": 32,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2195,11 +2195,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 39,
+    "runs": 47,
     "ok_rate": 1,
-    "items": 780,
-    "new_items": 122,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 940,
+    "new_items": 160,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2212,11 +2212,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 16,
     "ok_rate": 1,
-    "items": 117,
+    "items": 144,
     "new_items": 9,
-    "last_ok": "2026-10-28T05:05:11.421Z"
+    "last_ok": "2026-10-28T23:05:11.421Z"
    }
   },
   {
@@ -2246,11 +2246,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 79,
+    "runs": 95,
     "ok_rate": 1,
-    "items": 790,
-    "new_items": 20,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "items": 950,
+    "new_items": 25,
+    "last_ok": "2026-10-29T01:05:11.421Z"
    }
   },
   {
@@ -2263,11 +2263,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 12,
+    "runs": 14,
     "ok_rate": 1,
-    "items": 120,
+    "items": 140,
     "new_items": 11,
-    "last_ok": "2026-10-28T09:05:11.421Z"
+    "last_ok": "2026-10-28T21:05:11.421Z"
    }
   },
   {
@@ -2280,11 +2280,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
+    "items": 150,
     "new_items": 10,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "last_ok": "2026-10-28T20:05:11.421Z"
    }
   },
   {
@@ -2297,11 +2297,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
-    "new_items": 11,
-    "last_ok": "2026-10-28T08:05:11.421Z"
+    "items": 150,
+    "new_items": 12,
+    "last_ok": "2026-10-28T20:05:11.421Z"
    }
   },
   {
@@ -2314,11 +2314,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 18,
     "ok_rate": 0.94,
-    "items": 150,
-    "new_items": 12,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 170,
+    "new_items": 14,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2335,11 +2335,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 29,
+    "new_items": 20,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2356,11 +2356,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 30,
+    "new_items": 13,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2377,11 +2377,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 28,
+    "new_items": 12,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2394,11 +2394,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 30,
+    "new_items": 15,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2411,11 +2411,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 30,
+    "new_items": 16,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2432,11 +2432,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 30,
+    "new_items": 13,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2453,11 +2453,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 26,
+    "new_items": 14,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2474,11 +2474,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 22,
+    "new_items": 15,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2495,11 +2495,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 2,
+    "items": 4,
     "new_items": 2,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2516,11 +2516,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 24,
+    "new_items": 15,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2537,11 +2537,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 21,
+    "new_items": 15,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2558,11 +2558,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 8,
+    "items": 18,
     "new_items": 8,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2579,11 +2579,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 4,
-    "new_items": 4,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 18,
+    "new_items": 13,
+    "last_ok": "2026-10-28T22:46:53.004Z"
    }
   },
   {
@@ -2600,11 +2600,578 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-10-28T09:47:17.933Z"
+    "items": 20,
+    "new_items": 12,
+    "last_ok": "2026-10-28T22:46:53.004Z"
+   }
+  },
+  {
+   "id": "wx:arcfox",
+   "kind": "wechat",
+   "name": "ARCFOX极狐",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:chery-intl",
+   "kind": "wechat",
+   "name": "CheryInternational",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:exeed",
+   "kind": "wechat",
+   "name": "EXEED星途汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:firefly",
+   "kind": "wechat",
+   "name": "firefly萤火虫",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "nio",
+    "en": "NIO",
+    "zh": "蔚来"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:geely-intl",
+   "kind": "wechat",
+   "name": "Geely International",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:gwm-global",
+   "kind": "wechat",
+   "name": "GWM Global",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:icar",
+   "kind": "wechat",
+   "name": "iCAR汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:im",
+   "kind": "wechat",
+   "name": "IM智己汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:polestar",
+   "kind": "wechat",
+   "name": "Polestar星闻中心",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:sgmw",
+   "kind": "wechat",
+   "name": "SGMW上汽通用五菱",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:smart",
+   "kind": "wechat",
+   "name": "smart全球",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:faw-vw",
+   "kind": "wechat",
+   "name": "一汽大众",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "faw",
+    "en": "FAW",
+    "zh": "一汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:bestune",
+   "kind": "wechat",
+   "name": "一汽奔腾",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "faw",
+    "en": "FAW",
+    "zh": "一汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:hongqi",
+   "kind": "wechat",
+   "name": "一汽红旗",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "faw",
+    "en": "FAW",
+    "zh": "一汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:jiefang",
+   "kind": "wechat",
+   "name": "一汽解放",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "faw",
+    "en": "FAW",
+    "zh": "一汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:mg",
+   "kind": "wechat",
+   "name": "上汽MG",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:saic-intl",
+   "kind": "wechat",
+   "name": "上汽国际SMIL",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:saic-vw",
+   "kind": "wechat",
+   "name": "上汽大众",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:saic-gm",
+   "kind": "wechat",
+   "name": "上汽通用汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:saic",
+   "kind": "wechat",
+   "name": "上汽集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:dongfeng-cv",
+   "kind": "wechat",
+   "name": "东风商用车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:yipai",
+   "kind": "wechat",
+   "name": "东风奕派",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:dongfeng-nissan",
+   "kind": "wechat",
+   "name": "东风日产",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:dongfeng",
+   "kind": "wechat",
+   "name": "东风汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:dongfeng-ltd",
+   "kind": "wechat",
+   "name": "东风汽车有限公司",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:forthing",
+   "kind": "wechat",
+   "name": "东风风行",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:faw",
+   "kind": "wechat",
+   "name": "中国一汽",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "faw",
+    "en": "FAW",
+    "zh": "一汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
    }
   },
   {
@@ -2625,6 +3192,44 @@
    }
   },
   {
+   "id": "wx:sinotruk",
+   "kind": "wechat",
+   "name": "中国重汽",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:changan-group",
+   "kind": "wechat",
+   "name": "中国长安汽车集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
    "id": "wx:caam-stats",
    "kind": "wechat",
    "name": "中汽协会数据",
@@ -2636,6 +3241,44 @@
    "health": {
     "runs": 1,
     "ok_rate": 0,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:zhongtong",
+   "kind": "wechat",
+   "name": "中通客车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:onvo",
+   "kind": "wechat",
+   "name": "乐道汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "nio",
+    "en": "NIO",
+    "zh": "蔚来"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
     "items": 0,
     "new_items": 0,
     "last_ok": null
@@ -2676,6 +3319,523 @@
    }
   },
   {
+   "id": "wx:stelato",
+   "kind": "wechat",
+   "name": "享界汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:yangwang",
+   "kind": "wechat",
+   "name": "仰望汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "byd",
+    "en": "BYD",
+    "zh": "比亚迪"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:beijing-benz",
+   "kind": "wechat",
+   "name": "北京奔驰",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:beijing-offroad",
+   "kind": "wechat",
+   "name": "北京越野",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:baic-motor",
+   "kind": "wechat",
+   "name": "北汽股份",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:baic",
+   "kind": "wechat",
+   "name": "北汽集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:huawei-ias",
+   "kind": "wechat",
+   "name": "华为乾崑智能汽车解决方案",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "huawei_ads",
+    "en": "Huawei Qiankun ADS",
+    "zh": "华为乾崑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:hycan",
+   "kind": "wechat",
+   "name": "合创汽车HYCAN",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:geely-holding",
+   "kind": "wechat",
+   "name": "吉利控股集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:geely-auto",
+   "kind": "wechat",
+   "name": "吉利汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:geely-auto-group",
+   "kind": "wechat",
+   "name": "吉利汽车集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:geely-galaxy",
+   "kind": "wechat",
+   "name": "吉利银河",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:haval",
+   "kind": "wechat",
+   "name": "哈弗SUV",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:tank",
+   "kind": "wechat",
+   "name": "坦克SUV",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:aion",
+   "kind": "wechat",
+   "name": "埃安",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:maxus",
+   "kind": "wechat",
+   "name": "大通汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:chery",
+   "kind": "wechat",
+   "name": "奇瑞汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:chery-group",
+   "kind": "wechat",
+   "name": "奇瑞集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:yutong",
+   "kind": "wechat",
+   "name": "宇通客车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:baojun",
+   "kind": "wechat",
+   "name": "宝骏汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:maextro",
+   "kind": "wechat",
+   "name": "尊界汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:xiaomi",
+   "kind": "wechat",
+   "name": "小米汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "xiaomi",
+    "en": "Xiaomi EV",
+    "zh": "小米汽车"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:xpeng",
+   "kind": "wechat",
+   "name": "小鹏汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "xpeng",
+    "en": "XPeng",
+    "zh": "小鹏"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:shangjie",
+   "kind": "wechat",
+   "name": "尚界汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:voyah",
+   "kind": "wechat",
+   "name": "岚图汽车VOYAH",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
    "id": "wx:cui-dongshu",
    "kind": "wechat",
    "name": "崔东树",
@@ -2687,6 +3847,789 @@
    "health": {
     "runs": 1,
     "ok_rate": 0,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:gac-toyota",
+   "kind": "wechat",
+   "name": "广汽丰田",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:trumpchi",
+   "kind": "wechat",
+   "name": "广汽传祺",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:hyptec",
+   "kind": "wechat",
+   "name": "广汽昊铂",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:gac",
+   "kind": "wechat",
+   "name": "广汽集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gac",
+    "en": "GAC",
+    "zh": "广汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:jetour",
+   "kind": "wechat",
+   "name": "捷途汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:fangchengbao",
+   "kind": "wechat",
+   "name": "方程豹汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "byd",
+    "en": "BYD",
+    "zh": "比亚迪"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:luxeed",
+   "kind": "wechat",
+   "name": "智界汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "chery",
+    "en": "Chery",
+    "zh": "奇瑞"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:zeekr",
+   "kind": "wechat",
+   "name": "极氪Zeekr",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:rox",
+   "kind": "wechat",
+   "name": "极石汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:ora",
+   "kind": "wechat",
+   "name": "欧拉汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:byd",
+   "kind": "wechat",
+   "name": "比亚迪汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "byd",
+    "en": "BYD",
+    "zh": "比亚迪"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:jac",
+   "kind": "wechat",
+   "name": "江汽集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:jmc",
+   "kind": "wechat",
+   "name": "江铃汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:volvo",
+   "kind": "wechat",
+   "name": "沃尔沃汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:higer",
+   "kind": "wechat",
+   "name": "海格客车HIGER",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:haima",
+   "kind": "wechat",
+   "name": "海马汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:deepal",
+   "kind": "wechat",
+   "name": "深蓝汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:mhero",
+   "kind": "wechat",
+   "name": "猛士汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "dongfeng",
+    "en": "Dongfeng",
+    "zh": "东风"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:li",
+   "kind": "wechat",
+   "name": "理想汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "liauto",
+    "en": "Li Auto",
+    "zh": "理想"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:changan-ford",
+   "kind": "wechat",
+   "name": "福特汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:foton",
+   "kind": "wechat",
+   "name": "福田汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "baic",
+    "en": "BAIC",
+    "zh": "北汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:denza",
+   "kind": "wechat",
+   "name": "腾势汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "byd",
+    "en": "BYD",
+    "zh": "比亚迪"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:roewe",
+   "kind": "wechat",
+   "name": "荣威ROEWE",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "saic",
+    "en": "SAIC Motor",
+    "zh": "上汽"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:lotus",
+   "kind": "wechat",
+   "name": "莲花跑车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:nio",
+   "kind": "wechat",
+   "name": "蔚来",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "nio",
+    "en": "NIO",
+    "zh": "蔚来"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:seres",
+   "kind": "wechat",
+   "name": "赛力斯集团",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:farizon",
+   "kind": "wechat",
+   "name": "远程新能源商用车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:king-long",
+   "kind": "wechat",
+   "name": "金龙 KING LONG",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:gwm",
+   "kind": "wechat",
+   "name": "长城汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:gwm-pickup",
+   "kind": "wechat",
+   "name": "长城炮",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:qiyuan",
+   "kind": "wechat",
+   "name": "长安启源",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:changan",
+   "kind": "wechat",
+   "name": "长安汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:aito",
+   "kind": "wechat",
+   "name": "问界汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:avatr",
+   "kind": "wechat",
+   "name": "阿维塔",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "changan",
+    "en": "Changan",
+    "zh": "长安"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:shacman",
+   "kind": "wechat",
+   "name": "陕汽速度",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": null,
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:leapmotor",
+   "kind": "wechat",
+   "name": "零跑汽车",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "leapmotor",
+    "en": "Leapmotor",
+    "zh": "零跑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:lynkco",
+   "kind": "wechat",
+   "name": "领克汽车LYNKCO",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "geely",
+    "en": "Geely",
+    "zh": "吉利"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:wey",
+   "kind": "wechat",
+   "name": "魏牌",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "gwm",
+    "en": "Great Wall Motor",
+    "zh": "长城"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
+    "items": 0,
+    "new_items": 0,
+    "last_ok": null
+   }
+  },
+  {
+   "id": "wx:hima",
+   "kind": "wechat",
+   "name": "鸿蒙智行",
+   "url": null,
+   "query": null,
+   "lang": "zh",
+   "company": {
+    "id": "huawei_ads",
+    "en": "Huawei Qiankun ADS",
+    "zh": "华为乾崑"
+   },
+   "status": "active",
+   "health": {
+    "runs": 0,
+    "ok_rate": null,
     "items": 0,
     "new_items": 0,
     "last_ok": null
