@@ -1417,7 +1417,7 @@ function brandMain(b) {
   <section class="page-header"${b.researchOnly ? ' data-research-only="true"' : ''}>
     <div class="container">
       <div class="section-eyebrow">${langSpan(cat.en, cat.zh)}${b.parent_en ? ` · ${langSpan('Part of ' + b.parent_en, '隶属于' + (b.parent_zh || b.parent_en))}` : ''}</div>
-      <h1 class="page-title">${escapeHtmlText(b.name)} <span style="font-size:.55em;color:#9ca3af;font-weight:500;">${escapeHtmlText(b.cn)}</span></h1>
+      <h1 class="page-title">${langSpan(`${escapeHtmlText(b.name)} <span style="font-size:.55em;color:#9ca3af;font-weight:500;">${escapeHtmlText(b.cn)}</span>`, `${escapeHtmlText(b.cn)} <span style="font-size:.55em;color:#9ca3af;font-weight:500;">${escapeHtmlText(b.name)}</span>`)}</h1>
       <p class="page-deck">${langSpan(escapeHtmlText(b.desc_en), escapeHtmlText(b.desc_zh))}</p>
     </div>
   </section>
@@ -1532,7 +1532,8 @@ for (const b of COMPANY_PAGES) {
   }, main).replace('</head>', brandJsonLd(b) + '\n</head>');
   fs.writeFileSync(path.join(BRANDS_OUT, `${b.id}.html`), html);
   writeZh(`chinese-car-brands/${b.id}.html`, zhChrome(pageHTML(`/chinese-car-brands/${b.id}`, {
-    title: b.researchOnly ? `${b.name}（${b.cn}）：公司深度研究 | TopChinaCar` : `${b.name}（${b.cn}）：车型、子品牌与全球布局 | TopChinaCar`,
+    // 中文页标题中文名在前，用清单里的简称（研究页的 cn 是全称，太长）
+    title: `${b.shortCn || b.cn}（${b.shortName || b.name}）：${b.researchOnly ? '公司深度研究' : '车型、子品牌与全球布局'} | TopChinaCar`,
     desc: b.researchOnly ? truncateMeta(b.desc_zh) : `${b.desc_zh} 创立于 ${b.founded}，总部 ${b.hq}——品牌档案、明星车型与最新出海动态。`,
     image: b.image
   }, main, { zh: true }).replace('</head>', brandJsonLd(b, true) + '\n</head>')));
