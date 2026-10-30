@@ -52,7 +52,6 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
     const mapWars = read('news/tomtom-here-forty-years-mapmaking-convergence.html');
     const zhMapWars = read('zh/news/tomtom-here-forty-years-mapmaking-convergence.html');
     const mapWarsHub = read('series/map-wars.html');
-    const newsIndex = read('news.html');
     const intelligence = read('intelligence.html');
 
     assert.match(posts, /2026-07-12-china-auto-daily<\/loc><lastmod>2026-07-12<\/lastmod>/);
@@ -64,10 +63,12 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
     assert.ok(new Set(Array.from(posts.matchAll(/<lastmod>([^<]+)<\/lastmod>/g), match => match[1])).size > 2,
       'post sitemap lastmod values should reflect per-page dates');
 
-    assert.match(home, /<h3 class="news-title">/);
+    // 首页改版（2026-10-28）后没有新闻列表和头图了：改查日报区块的标题层级
+    assert.match(home, /<h1 class="hero-title">/);
+    assert.match(home, /<h2 class="section-title" id="home-briefings-title">/);
+    assert.match(home, /<h4 class="home-daily-title">/);
     assert.match(home, /<h2 class="footer-heading"/);
     assert.match(home, /<label class="sr-only" for="newsletterEmail"/);
-    assert.match(home, /srcset="\/images\/hero-xiaomi-480\.jpg 480w,/);
     assert.doesNotMatch(home.match(/<link href="https:\/\/fonts\.googleapis\.com\/css2\?[^>]+>/)?.[0] || '', /Noto/);
     assert.match(zhHome.match(/<link href="https:\/\/fonts\.googleapis\.com\/css2\?[^>]+>/)?.[0] || '', /Noto\+Sans\+SC/);
     assert.match(notFound, /<meta name="robots" content="noindex,nofollow" \/>/);
@@ -86,7 +87,8 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
     assert.match(mapWarsHub, /Essay 1[\s\S]*Essay 8/);
     assert.equal((mapWarsHub.match(/href="\/news\/[^"]+"/g) || []).length, 16,
       'each of eight Map Wars essays should have title and CTA links');
-    assert.match(newsIndex, /href="\/series\/map-wars"/);
+    // 改版（#13）后日报页不再放专题入口；专题页由 8 篇文章的专题框链接，并在 sitemap 里
+    assert.match(sitemapPages, /<loc>https:\/\/www\.topchinacar\.com\/series\/map-wars<\/loc>/);
 
     const mapWarsGraph = jsonLdBlocks(mapWars)
       .flatMap(block => block['@graph'] || [block])
@@ -102,23 +104,22 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
     assert.match(intelligence, /Read Latest Coverage/);
 
     const byd = read('chinese-car-brands/byd.html');
-    const bydNews = byd.slice(byd.indexOf('Latest BYD news'), byd.indexOf('All Chinese car brands'));
+    const bydNews = byd.slice(byd.indexOf('Related briefings and analysis'), byd.indexOf('Featured BYD models'))  // 改版（#13）后的栏目名;
     const firstBydNews = bydNews.match(/href="\/news\/([^"]+)"/)?.[1];
     assert.ok(firstBydNews, 'BYD brand page should include brand-primary coverage');
     assert.notEqual(firstBydNews, 'google-oem-partnership-four-layer-stack-2026');
-    assert.match(bydNews, /<strong>[^<]*BYD[^<]*<\/strong>/);
+    assert.match(bydNews, /<strong><span data-lang="en">[^<]*BYD[^<]*<\/span>/);  // 标题现在分中英文两个 span
 
     for (const [brand, model, expected] of [
-      ['xpeng', 'xpeng-g6', ['755 km', '3.9 s', 'US$27,600']],
+      ['xpeng', 'xpeng-g6', ['625–725 km CLTC', '6.3–6.4 s', 'US$27,600']],  // #16 按官方数据改正
       ['zeekr', 'zeekr-001', ['750 km', '3.3 s', 'US$37,100']],
       ['mg', 'mg-mg4', ['450 km (WLTP)', '7.7 s', 'US$34,600']]
     ]) {
       const brandPage = read(`chinese-car-brands/${brand}.html`);
       const modelPage = read(`models/${model}.html`);
-      for (const value of expected) {
-        assert.ok(brandPage.includes(value), `${brand} brand card is missing ${value}`);
-        assert.ok(modelPage.includes(value), `${model} model page is missing ${value}`);
-      }
+      for (const value of expected) assert.ok(brandPage.includes(value), `${brand} brand card is missing ${value}`);
+      // #16 起车型页页头显示中国官方指导价（不是美元价），所以车型页只核对续航和加速
+      for (const value of expected.slice(0, 2)) assert.ok(modelPage.includes(value), `${model} model page is missing ${value}`);
     }
 
     for (const htmlFile of collectHtmlFiles(siteRoot)) {
@@ -139,34 +140,36 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
       }
     }
 
-    const acceptanceArticle = {
-      slug: 'homepage-revalidation-acceptance-test',
-      date: '2026-08-08',
-      published_at: '2026-08-08T09:15:00+08:00',
-      tag_en: 'Test Update',
-      tag_zh: '测试更新',
-      title_en: 'Homepage Revalidation Acceptance Post',
-      title_zh: '首页更新验收测试文章',
-      excerpt_en: 'A synthetic build fixture used to verify homepage publication updates.',
-      excerpt_zh: '用于验证首页发文更新的构建测试数据。',
-      html_en: '<p>Homepage publication acceptance fixture.</p>',
-      html_zh: '<p>首页发布验收测试。</p>'
-    };
-    fs.writeFileSync(path.join(siteRoot, 'articles', `${acceptanceArticle.slug}.json`), JSON.stringify(acceptanceArticle, null, 2));
+    // 首页改版（#13）后：上方两块是两份日报的最新一期，下方「最新深度分析」放非日报文章。
+    // 加一期出海日报和一篇分析，重新构建，两边都应该换成新的。
+    const fixtures = [
+      { slug: '2027-01-05-china-auto-daily', date: '2027-01-05', published_at: '2027-01-05T06:00:00+08:00',
+        tag_en: 'China Auto Overseas Daily', tag_zh: '中国汽车出海日报',
+        title_en: 'Homepage Daily Acceptance Issue', title_zh: '首页日报验收测试',
+        excerpt_en: 'A synthetic daily issue used to verify homepage updates.', excerpt_zh: '用于验证首页更新的测试日报。',
+        html_en: '<p>Daily acceptance fixture.</p>', html_zh: '<p>日报验收测试。</p>' },
+      { slug: 'homepage-revalidation-acceptance-test', date: '2027-01-05', published_at: '2027-01-05T09:15:00+08:00',
+        tag_en: 'Test Update', tag_zh: '测试更新',
+        title_en: 'Homepage Revalidation Acceptance Post', title_zh: '首页更新验收测试文章',
+        excerpt_en: 'A synthetic build fixture used to verify homepage publication updates.', excerpt_zh: '用于验证首页发文更新的构建测试数据。',
+        html_en: '<p>Homepage publication acceptance fixture.</p>', html_zh: '<p>首页发布验收测试。</p>' }
+    ];
+    for (const article of fixtures) {
+      fs.writeFileSync(path.join(siteRoot, 'articles', `${article.slug}.json`), JSON.stringify(article, null, 2));
+    }
     const acceptanceBuild = spawnSync(process.execPath, ['build.js'], {
       cwd: siteRoot,
       encoding: 'utf8',
-      env: { ...process.env, BUILD_NOW: '2026-08-08T02:00:00.000Z' }
+      env: { ...process.env, BUILD_NOW: '2027-01-05T02:00:00.000Z' }
     });
     assert.equal(acceptanceBuild.status, 0, acceptanceBuild.stderr || acceptanceBuild.stdout);
     const updatedHome = read('index.html');
-    assert.match(updatedHome, /Updated daily · August 8, 2026/);
-    assert.match(updatedHome, /Top Story · 2026-08-08[\s\S]*Homepage Revalidation Acceptance Post/);
-    const homeTags = Array.from(updatedHome.matchAll(/data-news-tag="([^"]+)"/g), match => match[1]);
-    assert.equal(homeTags.length, 6, 'homepage should render one Top Story and five Latest News items');
-    for (const tag of new Set(homeTags)) {
-      assert.ok(homeTags.filter(value => value === tag).length <= 2, `homepage category cap exceeded for ${tag}`);
-    }
+    const briefings = updatedHome.slice(updatedHome.indexOf('id="home-briefings-title"'), updatedHome.indexOf('id="home-people-title"'));
+    assert.match(briefings, /China Auto Global Daily[\s\S]*2027-01-05[\s\S]*href="\/news\/2027-01-05-china-auto-daily"[\s\S]*Homepage Daily Acceptance Issue/);
+    assert.doesNotMatch(briefings, /Homepage Revalidation Acceptance Post/, 'analysis pieces must not appear as a daily issue');
+    const analysis = updatedHome.slice(updatedHome.indexOf('id="home-analysis-title"'));
+    assert.match(analysis, /<h3><a href="\/news\/homepage-revalidation-acceptance-test">/);
+    assert.ok((analysis.match(/class="home-analysis-item"/g) || []).length <= 3, 'homepage shows at most three analysis pieces');
   } finally {
     fs.rmSync(tempRoot, { recursive: true, force: true });
   }
