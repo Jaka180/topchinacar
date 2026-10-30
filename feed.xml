@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:24:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:25:19 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BYD&apos;s Q3 Profit Rises 28% as SAIC&apos;s Falls 77%; Volkswagen China Unveils VEGA Tech Matrix</title>
+      <link>https://www.topchinacar.com/news/2026-10-30-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-10-30-china-market-daily</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>BYD&apos;s Q3 net profit rose 28.08% to RMB 10.02 billion and Geely&apos;s core profit rose 32%, while SAIC Motor&apos;s Q3 net profit fell 76.7%. Volkswagen China launched its VEGA technology matrix, and Dongfeng signed a new pact with CATL.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Geely&apos;s Overseas Sales Jump 169% as GAC Starts Battery Production in Thailand</title>
       <link>https://www.topchinacar.com/news/2026-10-30-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
       <description>Africa is the quietest front of China auto globalization — and possibly the most durable. The wedge is not EVs but affordable SUVs, working pickups and commercial vehicles, with local assembly starting to take root.</description>
       <category>Markets</category>
-    </item>
-    <item>
-      <title>China&apos;s Car Exports: Why Global Markets Are Paying Attention</title>
-      <link>https://www.topchinacar.com/news/chinas-car-exports-why-global-markets-are-paying-attention</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chinas-car-exports-why-global-markets-are-paying-attention</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <description>China has been the world&apos;s largest car exporter for three straight years, and the first half of 2026 shows the machine accelerating: record brand-level shipments, overseas plants multiplying, and exports becoming the industry&apos;s profit engine.</description>
-      <category>Analysis</category>
     </item>
   </channel>
 </rss>

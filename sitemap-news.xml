@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.topchinacar.com/news/2026-10-30-china-market-daily</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TopChinaCar</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>BYD&apos;s Q3 Profit Rises 28% as SAIC&apos;s Falls 77%; Volkswagen China Unveils VEGA Tech Matrix</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.topchinacar.com/news/2026-10-30-china-auto-daily</loc>
     <news:news>
       <news:publication>
