@@ -1,0 +1,316 @@
+{
+  "id": "yuanhang",
+  "name_en": "Yuanhang Auto (REHIGH), premium NEV brand of Dayun Group",
+  "name_zh": "远航汽车（大运集团高端新能源汽车品牌）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Brand launched August 2022 at the Chengdu Motor Show. Its operating entity Dayun Automobile Co., Ltd. completed its joint-stock reform in November 2015 (the group dates from 1987).",
+      "value_zh": "品牌于 2022 年 8 月在成都车展发布；运营主体大运汽车股份有限公司 2015 年 11 月完成股份制改造，大运集团起家于 1987 年。",
+      "period": null,
+      "source_ids": ["s4", "s8", "s10"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Yuncheng, Shanxi province (registered address: No. 1 Airport Avenue, Yuncheng Airport Economic Development Zone).",
+      "value_zh": "山西省运城市（注册地址：运城空港经济开发区机场大道 1 号）。",
+      "period": null,
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private, unlisted joint-stock company.",
+      "value_zh": "民营（未上市股份有限公司）。",
+      "period": null,
+      "source_ids": ["s2", "s10"]
+    },
+    {
+      "label_en": "Actual controller / founder-chairman",
+      "label_zh": "实际控制人与创始人",
+      "value_en": "Yuan Qinshan, founder and chairman of Dayun Group, identified as the actual controller of Dayun Automobile in its IPO prospectus.",
+      "value_zh": "远勤山，大运集团创始人、董事长；招股书认定其为大运汽车实际控制人。",
+      "period": null,
+      "source_ids": ["s2", "s5"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市状态",
+      "value_en": "Not listed. Listed on the NEEQ (New Third Board) in December 2016 under code 870012 and delisted effective 7 December 2017; a ChiNext IPO application was withdrawn in February 2021.",
+      "value_zh": "未上市。曾于 2016 年 12 月挂牌新三板（代码 870012），2017 年 12 月 7 日终止挂牌；创业板上市申请于 2021 年 2 月撤回。",
+      "period": null,
+      "source_ids": ["s3", "s10"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "As of 30 June 2020, 1,205 R&D staff (16.04% of headcount); current headcount not disclosed.",
+      "value_zh": "截至 2020 年 6 月 30 日研发人员 1,205 人（占员工总数 16.04%）；最新员工总数未公开披露。",
+      "period": "2020-06-30",
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Revenue (latest disclosed fiscal year)",
+      "label_zh": "营收（最近一次完整披露财年）",
+      "value_en": "RMB9.68 billion in fiscal year 2019 (from the 2020 ChiNext prospectus).",
+      "value_zh": "2019 财年营收 96.76 亿元（据 2020 年创业板招股书）。",
+      "period": "FY2019",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Net profit (latest disclosed fiscal year)",
+      "label_zh": "净利润（最近一次完整披露财年）",
+      "value_en": "RMB450 million net profit attributable to owners of the parent in fiscal year 2019 (from the 2020 ChiNext prospectus).",
+      "value_zh": "2019 财年归属于母公司股东的净利润 4.50 亿元（据 2020 年创业板招股书）。",
+      "period": "FY2019",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Sales (first nine months of 2024)",
+      "label_zh": "销量（2024 年前 9 个月）",
+      "value_en": "5,584 units cumulative (Y6 3,512; H8 2,072).",
+      "value_zh": "累计 5,584 辆（Y6 3,512 辆、H8 2,072 辆）。",
+      "period": "2024-01 to 2024-09",
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": "Not separately disclosed. Two export figures exist: the official website cites 100-plus countries and regions, while the restructuring administrator's statement cited by media refers to 20-plus countries and regions.",
+      "value_zh": "未单独披露。集团出口覆盖存在两种口径：官网称 100 多个国家和地区，重整管理人声明（媒体援引）称 20 多个国家和地区。",
+      "period": null,
+      "source_ids": ["s4", "s10"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1987",
+      "event_en": "Dayun Group (formerly Shanxi Tongda Group) is founded and starts in the motorcycle business.",
+      "event_zh": "大运集团（前身山西通达集团）成立，以摩托车业务起家。",
+      "source_ids": ["s4", "s10", "s11"]
+    },
+    {
+      "date": "1999",
+      "event_en": "The Guangzhou Dayang and Dayun motorcycle production bases are set up, with annual output later exceeding 1.5 million motorcycles and 2 million engines.",
+      "event_zh": "组建广州大阳、大运摩托车生产基地，摩托车年产量一度超过 150 万辆、发动机 200 余万台。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2004-06",
+      "event_en": "Dayun invests in a heavy-truck production base in the Yuncheng Economic and Technological Development Zone, entering the commercial-vehicle business.",
+      "event_zh": "在运城经济技术开发区投资建设大运重卡生产基地，进军商用车行业。",
+      "source_ids": ["s5", "s11"]
+    },
+    {
+      "date": "2008",
+      "event_en": "Dayun motorcycle becomes the exclusive motorcycle supplier for the Beijing Olympic and Paralympic Games.",
+      "event_zh": "大运摩托成为北京奥运会、残奥会摩托车独家供应商。",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2009",
+      "event_en": "Dayun acquires Sichuan Yinhe Automobile Group to form Chengdu Dayun Automobile Group in March 2009; the Yuncheng heavy-truck base starts production on 26 October 2009.",
+      "event_zh": "2009 年 3 月收购四川银河汽车集团组建成都大运汽车集团；同年 10 月 26 日运城重卡基地正式投产。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2010-07",
+      "event_en": "Hubei Dayun Automobile Co., Ltd. is established, forming a three-site truck layout.",
+      "event_zh": "成立湖北大运汽车有限公司，形成重、轻、中卡三地布局。",
+      "source_ids": ["s5", "s11"]
+    },
+    {
+      "date": "2015-11",
+      "event_en": "Dayun completes its joint-stock reform and is established as a joint-stock company.",
+      "event_zh": "完成股份制改造，成立股份有限公司。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2016-12",
+      "event_en": "Dayun Automobile lists on the NEEQ (New Third Board) under code 870012.",
+      "event_zh": "大运汽车挂牌新三板（代码 870012）。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2017",
+      "event_en": "Dayun starts its NEV passenger-vehicle strategy, its first entry into the passenger-car market.",
+      "event_zh": "启动新能源乘用车战略，首次涉足乘用车市场。",
+      "source_ids": ["s4", "s10"]
+    },
+    {
+      "date": "2017-12",
+      "event_en": "Dayun Automobile's stock is delisted from the NEEQ effective 7 December 2017, about a year after listing and about a month after a RMB1.77 billion placement.",
+      "event_zh": "大运汽车股票自 2017 年 12 月 7 日起终止新三板挂牌，距挂牌约一年、距 17.7 亿元定增约一个月。",
+      "source_ids": ["s3", "s10"]
+    },
+    {
+      "date": "2018-12",
+      "event_en": "Dayun plans a ChiNext IPO; the filing shows a plan to issue no more than 268 million shares (20% of post-issue capital) to raise about RMB5.17 billion.",
+      "event_zh": "计划申请创业板上市；招股书显示拟发行不超 2.68 亿股（占发行后总股本 20%）、拟募资约 51.7 亿元。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2020-07",
+      "event_en": "Dayun's ChiNext IPO application is accepted on 2 July 2020 (prospectus filed); the application is later withdrawn and terminated by the Shenzhen Stock Exchange in February 2021.",
+      "event_zh": "2020 年 7 月 2 日创业板上市申请获受理（提交招股书）；后主动撤回，2021 年 2 月深交所终止审核。",
+      "source_ids": ["s2", "s10"]
+    },
+    {
+      "date": "2020-09",
+      "event_en": "Dayun's new-energy passenger-vehicle production line starts production; the Yuehu small SUV and Yuanzhi M1 MPV go on sale about two months later.",
+      "event_zh": "新能源乘用车生产线投产；约两个月后悦虎小型纯电 SUV 与远志 M1 纯电 MPV 上市。",
+      "source_ids": ["s12", "s17"]
+    },
+    {
+      "date": "2022-08",
+      "event_en": "The Yuanhang brand is launched at the Chengdu Motor Show with four models (Y6, Y7 sedans; H8, H9 SUVs) on the B.H.D platform.",
+      "event_zh": "远航品牌在成都车展发布，携 Y6、Y7 轿车与 H8、H9 SUV 四款车型及 B.H.D 平台亮相。",
+      "source_ids": ["s4", "s10"]
+    },
+    {
+      "date": "2023-04-18",
+      "event_en": "At the Shanghai Auto Show, Yuanhang opens pre-orders for the Y6 (RMB329,800-529,800) and H8 (RMB349,800-559,800).",
+      "event_zh": "上海车展上，远航 Y6（预订价 32.98 万—52.98 万元）与 H8（预订价 34.98 万—55.98 万元）开启预订。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2023-11-08",
+      "event_en": "The Yuanhang Y6 rolls off the line in Yuncheng and the first batch is delivered to customers.",
+      "event_zh": "远航首款车型 Y6 在运城正式下线，并向用户代表交付首批新车。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2024-04",
+      "event_en": "At the Beijing Auto Show, Yuanhang launches the Y7 and H9; chairman Yuan Qinshan says all four planned models are now on the market.",
+      "event_zh": "北京车展上远航发布 Y7、H9，董事长远勤山称远航家族四款车型已全部面世。",
+      "source_ids": ["s19", "s18"]
+    },
+    {
+      "date": "2024-11-14",
+      "event_en": "The Yuncheng Intermediate People's Court accepts restructuring petitions for Dayun Automobile Co., Ltd., Hubei Dayun Automobile Co., Ltd. and Chengdu Dayun Automobile Group Co., Ltd.",
+      "event_zh": "运城市中级人民法院裁定受理大运汽车股份有限公司、湖北大运汽车有限公司、成都大运汽车集团有限公司重整案。",
+      "source_ids": ["s1", "s10"]
+    },
+    {
+      "date": "2025-02-17",
+      "event_en": "The court orders substantive consolidation restructuring of Dayun Automobile Co., Ltd. and 57 affiliated companies (58 companies in total).",
+      "event_zh": "法院裁定大运汽车股份有限公司等 58 家公司实质合并重整。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2026-09-17",
+      "event_en": "The court approves the restructuring plan for the 58 companies, moving the case into the execution phase; the administrator announced the approval on 22 September 2026.",
+      "event_zh": "法院裁定批准《大运汽车股份有限公司等 58 家公司重整草案》，进入执行阶段；管理人于 2026 年 9 月 22 日公告。",
+      "source_ids": ["s13", "s14"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Yuanhang Auto (REHIGH)",
+      "name_zh": "远航汽车（REHIGH）",
+      "role_en": "Premium NEV brand of Dayun Group, launched August 2022. Four models: the Y6 and Y7 D-class sedans and the H8 and H9 large SUVs, built on the B.H.D platform with 800V fast charging, over 1,020km of range and 3.2s 0-100km/h. As of 2026-10-29 the models are essentially withdrawn from sale (Yiche and PCauto both mark them discontinued).",
+      "role_zh": "大运集团高端新能源汽车品牌，2022 年 8 月发布。四款车型为 Y6、Y7 两款 D 级轿车与 H8、H9 两款大型 SUV，基于 B.H.D 平台，具备 800V 快充、最长超过 1,020 公里续航、3.2 秒零百加速。截至 2026-10-29，车型已基本停售（易车、太平洋汽车网均标注停售）。",
+      "price_band": "Y6 pre-sale RMB329,800-529,800 (2023-04) and guide price RMB269,800-339,800 with a new-configuration version from RMB199,800 (2024); H8 pre-sale RMB349,800-559,800 (2023-04) and guide price RMB289,800-369,800 with a version from RMB219,800 (2024); Y7 pre-sale RMB399,800-429,800 (2024-04) and guide price RMB399,800-509,800; H9 pre-sale RMB409,800-439,800 (2024-04) and guide price RMB409,800-519,800.",
+      "founded": 2022,
+      "owner_note_en": "Operated by Dayun Automobile Co., Ltd., a subsidiary of Dayun Group. The parent entered court-supervised restructuring in late 2024; its restructuring plan was approved on 17 September 2026.",
+      "owner_note_zh": "由大运集团旗下大运汽车股份有限公司运营。母公司 2024 年底进入法院重整，重整计划 2026 年 9 月 17 日获法院批准。",
+      "status": "discontinued",
+      "source_ids": ["s4", "s9", "s12", "s23", "s24"]
+    },
+    {
+      "name_en": "Dayun New Energy (大运新能源)",
+      "name_zh": "大运新能源",
+      "role_en": "Dayun Automobile's entry-level NEV passenger brand, launched around late 2020 with the Yuehu small electric SUV and the Yuanzhi M1 electric MPV; both sold in low volumes, largely to government and fleet buyers.",
+      "role_zh": "大运汽车旗下入门级新能源乘用车品牌，约 2020 年底推出悦虎小型纯电 SUV 与远志 M1 纯电 MPV；两者销量平淡，需求多来自政府与企业批量采购。",
+      "price_band": "Yuehu below RMB100,000 (roughly RMB70,000-100,000); Yuanzhi M1 roughly RMB170,000-300,000.",
+      "founded": 2020,
+      "owner_note_en": "Brand of Dayun Automobile Co., Ltd., whose new-energy passenger-vehicle line started production in September 2020. The NEV passenger-vehicle segment falls within the restructuring scope.",
+      "owner_note_zh": "大运汽车股份有限公司旗下品牌，其新能源乘用车生产线 2020 年 9 月投产；新能源乘用车板块属本次重整范围。",
+      "status": "active",
+      "source_ids": ["s12", "s17", "s11"]
+    },
+    {
+      "name_en": "Dayun trucks (大运重卡 / commercial vehicles)",
+      "name_zh": "大运重卡（商用车）",
+      "role_en": "The group's original commercial-vehicle business: heavy, light and medium trucks and buses. Media report that the restructuring scope is limited to the NEV passenger-vehicle segment, with the commercial-vehicle business excluded and its production lines still running.",
+      "role_zh": "大运集团起家的商用车业务：重卡、轻卡、中卡、客车。媒体报道称本次重整范围限定于新能源乘用车板块，重卡等商用车业务不纳入重整、生产线维持运转。",
+      "price_band": null,
+      "founded": 2004,
+      "owner_note_en": "Commercial-vehicle business of Dayun Group; heavy-truck sales were long ranked in China's top ten but have since slipped as market concentration rose.",
+      "owner_note_zh": "大运集团商用车板块；重卡销量曾长期位居行业前十，后因市场集中度提升而下滑。",
+      "status": "active",
+      "source_ids": ["s5", "s14", "s11"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (China Accounting Standards for Business Enterprises)",
+    "rows": [
+      { "fiscal_year": 2017, "revenue": 8842.45, "gross_margin_pct": 11.38, "net_profit": 548.38, "rnd": 153.17, "source_ids": ["s2", "s7"] },
+      { "fiscal_year": 2018, "revenue": 10199.57, "gross_margin_pct": 13.33, "net_profit": 647.98, "rnd": 249.44, "source_ids": ["s2", "s7"] },
+      { "fiscal_year": 2019, "revenue": 9676.39, "gross_margin_pct": 12.30, "net_profit": 450.42, "rnd": 271.11, "source_ids": ["s2", "s7"] }
+    ],
+    "note_en": "Yuanhang Auto is a brand of Dayun Automobile Co., Ltd., a private, unlisted company, and does not publish its own financial statements. The table is consolidated, in CNY millions, under PRC GAAP, taken from Dayun Automobile's ChiNext IPO prospectus filed in July 2020. Net profit is net profit attributable to owners of the parent (not attributable to ordinary shareholders); gross margin is main-business gross margin; R&D is total R&D investment as disclosed in the prospectus/sponsor report (including expensed and capitalised portions). 2017-2019 are the three most recent fully disclosed fiscal years. Financial data for fiscal years 2020 and later has not been publicly disclosed.",
+    "note_zh": "远航汽车是大运汽车股份有限公司（民营、未上市）旗下的品牌，不单独披露财务。下表为合并口径、人民币百万元、中国企业会计准则，取自大运汽车 2020 年 7 月提交的创业板招股说明书（申报稿）。净利润为「归属于母公司股东的净利润」（非「归属于普通股股东」），毛利率为「主营业务毛利率」，研发投入为招股书／保荐书披露口径（含费用化与资本化）。2017—2019 年为最近一次完整披露的三个财年；2020 年及以后财年财务数据未公开披露。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Yuanhang Auto (REHIGH) is the premium new-energy-vehicle (NEV) brand of Dayun Group, launched at the Chengdu Motor Show in August 2022 and positioned in the RMB300,000-600,000 luxury segment. It unveiled four models at once — the Y6 and Y7 sedans and the H8 and H9 SUVs — built on the B.H.D platform developed with Bosch, Huawei and Alibaba's Banma; because of its D-class positioning and Bentley-like badge, media dubbed it 'China's Bentley'.<a href=\"https://yuanhangqiche.com/about\">[s4]</a><a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a> Its operating entity is Dayun Automobile Co., Ltd., a Yuncheng (Shanxi) private automaker founded by Yuan Qinshan that started with motorcycles — known for the slogan 'Racing across the world, Dayun Motorcycles' — entered heavy, light and medium trucks from 2004, and moved into NEV passenger cars around 2017.<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a><a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a> Media noted that unveiling four models at once was an approach previously associated with Evergrande Auto.<a href=\"https://36kr.com/p/3025607228433664\">[s17]</a></p><p>Sales stayed weak after launch: cumulative volume in the first nine months of 2024 was 5,584 units (Y6 3,512; H8 2,072).<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> In November 2024 the parent was accepted into court-supervised restructuring; on 17 February 2025 the Yuncheng Intermediate People's Court ordered substantive consolidation restructuring of 58 companies; and on 17 September 2026 the court approved the restructuring plan, moving the case into the execution phase.<a href=\"https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf\">[s1]</a><a href=\"https://www.jiemian.com/article/15125951.html\">[s13]</a></p><p>As of 2026-10-29 the Yuanhang models are essentially withdrawn from sale (Yiche and PCauto both mark them discontinued), and the parent restructuring continues.<a href=\"https://car.m.yiche.com/yuanhangy6/\">[s23]</a><a href=\"https://price.pcauto.com.cn/salescar/sg29125/\">[s24]</a> From the national motorcycle ad 'Racing across the world' to a top-ten heavy-truck maker and finally to a high-profile push into premium NEV passenger cars that ended in restructuring, Yuanhang is a representative case of a Chinese private automaker's cross-sector gamble; that assessment is developed in the Competition and Outlook sections below.<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a></p>",
+      "zh": "<p>远航汽车（英文名 REHIGH）是大运集团推出的高端新能源汽车品牌，2022 年 8 月在成都车展发布，定位 30 万—60 万元级豪华纯电市场，一次性发布远航 Y6、Y7 两款轿车与 H8、H9 两款 SUV，搭载与博世、华为、阿里斑马合作打造的 B.H.D 纯电平台；因 D 级豪华定位与近似宾利的车标，媒体一度称之为「中国版宾利」。<a href=\"https://yuanhangqiche.com/about\">[s4]</a><a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a> 其运营主体是大运汽车股份有限公司——一家由远勤山创立、以摩托车起家（广告语「风驰天下，大运摩托」）的山西运城民营车企，2004 年起进入重卡、轻卡、中卡，2017 年前后切入新能源乘用车。<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a><a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a> 媒体指出，一个新品牌刚亮相就一次性发布多款新车的做法，此前只有恒大汽车。<a href=\"https://36kr.com/p/3025607228433664\">[s17]</a></p><p>远航上市后销量持续低迷：2024 年前 9 个月累计销量仅 5,584 辆（Y6 3,512 辆、H8 2,072 辆）。<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> 2024 年 11 月母公司被法院裁定受理重整，2025 年 2 月 17 日裁定 58 家公司实质合并重整，2026 年 9 月 17 日重整计划获批准、进入执行阶段。<a href=\"https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf\">[s1]</a><a href=\"https://www.jiemian.com/article/15125951.html\">[s13]</a></p><p>截至 2026-10-29，远航车型已基本停售（易车、太平洋汽车网均标注停售），母公司重整仍在推进。<a href=\"https://car.m.yiche.com/yuanhangy6/\">[s23]</a><a href=\"https://price.pcauto.com.cn/salescar/sg29125/\">[s24]</a> 从「风驰天下」的摩托车广告，到重卡行业前十，再到高调入局高端新能源乘用车并最终走向重整，远航是观察中国民营车企跨界造车的一个典型样本——这一判断详见「竞争格局」与「未来展望」两节。<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Yuanhang is the premium arm of Dayun Automobile. The company's passenger-vehicle business also includes the entry-level Dayun New Energy brand — the Yuehu small electric SUV and the Yuanzhi M1 electric MPV — alongside the group's original heavy, light and medium truck and bus business.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a><a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> According to the prospectus, trucks — especially heavy trucks — accounted for the bulk of revenue in 2017-2019, with heavy trucks about half of main-business revenue; NEV vehicle revenue rose from about 0.1% of the total in 2017 to about 20% in 2018, then fell back to about 16% in 2019.<a href=\"https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf\">[s2]</a> Times Business, citing the prospectus, reported total truck sales of 48,900, 48,200 and 47,200 units in 2017-2019, of which heavy trucks were 20,200, 15,700 and 15,200 units and medium trucks 14,600, 18,500 and 16,300 units, ranking eighth in heavy trucks and second in medium trucks in 2019.<a href=\"https://www.time-weekly.com/post/272192\">[s22]</a> Retail data reported by media put first-nine-month 2024 sales of the Yuehu at 9,428 units and the Yuanzhi M1 at 6,205 units, indicating the entry-level line also sold thinly and largely to government and fleet buyers.<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> The Economic Observer also reported that Jiayun Sales and its affiliates were Dayun Automobile's largest customer in 2017-2019; Jiayun Sales grew out of Dayun's original sales system, and in April 2018 its full equity was taken over by the local state-owned Yuncheng Urban Construction Investment Group.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><h3>Technology and platform</h3><p>The Yuanhang models are built on the B.H.D platform developed with Bosch (electronic architecture, ESP, advanced driver assistance, remote parking, 800V e-axle, OTA, battery management), Huawei and Alibaba Banma (AliOS cockpit), with suppliers such as United Automotive Electronic Systems for the 800V silicon-carbide drive unit.<a href=\"https://yuanhangqiche.com/about\">[s4]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a> Key selling points were 800V fast charging (about 300km of range in 10 minutes), over 1,020km of range and 3.2s 0-100km/h; the Y6 is a D-class executive sedan close to 5.3m long with a wheelbase near 3.2m and a drag coefficient of 0.207.<a href=\"https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html\">[s9]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a> The H8 uses a 2+2+2 six-seat layout, while the Y7 and H9, launched at the April 2024 Beijing Auto Show, are the brand's sporty coupe and large flagship SUV respectively.<a href=\"https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html\">[s9]</a><a href=\"https://www.toutiao.com/article/7369213831651951144\">[s19]</a> Media described the approach of assembling technology from leading suppliers rather than developing it in-house as 'taking-ism', in contrast with carmakers that emphasise self-developed technology.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><h3>Plants and capacity</h3><p>Group materials list five production bases: the Yuncheng heavy-truck (including new-energy) base, the Yuncheng new-energy passenger-vehicle base, the Chengdu light-truck base, the Shiyan medium-truck base and the Guangzhou export-vehicle base.<a href=\"https://yuanhangqiche.com/about\">[s4]</a> Dayun Automobile Co., Ltd. is registered at No. 1 Airport Avenue, Yuncheng Airport Economic Development Zone, with registered capital of RMB1.072 billion (107,203.75 万元).<a href=\"https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf\">[s1]</a><a href=\"https://www.neeq.com.cn/disclosure/2017/2017-12-06/1512552666_031668.pdf\">[s3]</a> The Economic Observer reported that Yuanhang had laid out more than 150 directly-operated stores by April 2024, with per-store investment of 'as little as RMB3-5 million and as much as RMB18 million'.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a> Securities Times reported that Dayun Automobile holds more than 1,500 core technology patents and has total assets of over RMB6 billion.<a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a></p><h3>Domestic market position</h3><p>Dayun's heavy trucks were long ranked in China's top ten and were one of the few private players there; but the top five accounted for close to 90% of China's heavy-truck market in 2025, squeezing mid-tier players, and Dayun's diesel heavy-truck sales fell more than 30% year on year in the first seven months of 2025.<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> In the new-energy heavy-truck market (over 230,000 units sold in 2025, with a year-end monthly penetration rate of about 50%), Dayun has almost no presence.<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> CVWorld reported that Yuncheng included accelerating Dayun Automobile's work resumption and restructuring in its 2025 government work report.<a href=\"https://www.cvworld.cn/news/truck/tknews/260208/236587.html\">[s21]</a></p><h3>Overseas business</h3><p>Two export figures exist for the group: the Yuanhang website says products are sold to 100-plus countries and regions, while the restructuring administrator's statement cited by media refers to 20-plus countries and regions.<a href=\"https://yuanhangqiche.com/about\">[s4]</a><a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a> Yuanhang models appeared at the Canton Fair (the 136th session in 2024), but Yuanhang-brand overseas sales have not been separately disclosed.<a href=\"https://www.dayungroup.com/news-newsdetail-8805\">[s6]</a></p><h3>Recent financials (as of as_of)</h3><p>As of 2026-10-29 the company has published no tier-A annual or half-year financial announcement since the July 2020 prospectus, and no financials are available for fiscal years 2020 onward.<a href=\"https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf\">[s2]</a> For the first half of 2020, media accounts disagree on net profit: Securities Times reported revenue of about RMB4.935 billion and net profit attributable to the parent of RMB178 million, while another media account citing a later prospectus reported about RMB132 million (down 47.95% year on year); this page does not adopt either figure.<a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a><a href=\"https://www.laitimes.com/zh/article/v1pm_vpxy.html\">[s27]</a> Sina Finance, citing restructuring audit data, reported that the three core entities had combined assets of RMB9.018 billion and liabilities of RMB6.679 billion as of 30 September 2024, and that the 58 companies had combined assets of RMB7.615 billion and liabilities of RMB5.492 billion as of 30 November 2024, an asset-liability ratio of 72.13%.<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a></p>",
+      "zh": "<h3>业务结构</h3><p>远航是大运汽车的高端乘用车板块。大运汽车的乘用车业务还包括入门级的大运新能源品牌（悦虎小型纯电 SUV 与远志 M1 纯电 MPV），此外是集团起家的重卡、轻卡、中卡与客车业务。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a><a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> 招股书显示，2017—2019 年公司以卡车（尤以重卡）销售为主，重卡收入约占主营业务收入的一半；新能源整车收入占比由 2017 年的约 0.1% 升至 2018 年的约 20%，2019 年回落至约 16%。<a href=\"https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf\">[s2]</a> 时代商学院援引招股书称，2017—2019 年卡车整体销量分别为 4.89 万、4.82 万、4.72 万台，其中重卡 2.02 万、1.57 万、1.52 万辆，中卡 1.46 万、1.85 万、1.63 万辆，2019 年重卡排名国内第八、中卡排名第二。<a href=\"https://www.time-weekly.com/post/272192\">[s22]</a> 媒体零售数据显示，2024 年前 9 月悦虎、远志 M1 零售销量分别为 9,428 辆、6,205 辆，入门级产品同样平淡，需求多来自政府与企业批量采购。<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> 经济观察报还报道，2017—2019 年大运汽车第一大客户均为建运销售及其关联方，而建运销售脱胎于大运汽车原销售体系，2018 年 4 月其全部股权由运城当地国企运城市城市建设投资开发集团有限公司接手。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><h3>技术与平台</h3><p>远航车型基于与博世（电子电气架构、ESP、高级辅助驾驶、遥控泊车、800V 电桥、OTA、电池管理）、华为、阿里斑马（AliOS 座舱）联合打造的 B.H.D 平台，并采用联合电子 800V 碳化硅电驱等供应商方案。<a href=\"https://yuanhangqiche.com/about\">[s4]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a> 主打卖点为 800V 快充（充电 10 分钟补能约 300 公里）、最长超过 1,020 公里续航、3.2 秒零百加速；Y6 车长接近 5.3 米、轴距近 3.2 米、风阻系数 0.207。<a href=\"https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html\">[s9]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a> H8 采用 2+2+2 六座布局；Y7、H9 于 2024 年 4 月北京车展发布，分别为运动轿跑与大型旗舰 SUV。<a href=\"https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html\">[s9]</a><a href=\"https://www.toutiao.com/article/7369213831651951144\">[s19]</a> 媒体将这种整合顶级供应商技术、而非自研的做法称为「拿来主义」，与强调自研的车企形成对比。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><h3>工厂与产能</h3><p>集团官方资料称拥有五大生产基地：运城重卡（含新能源）基地、运城新能源乘用车基地、成都轻卡（含新能源）基地、十堰中卡（含新能源）基地与广州出口车基地。<a href=\"https://yuanhangqiche.com/about\">[s4]</a> 大运汽车股份有限公司注册地址位于山西运城空港经济开发区机场大道 1 号，注册资本 107,203.75 万元（约 10.72 亿元）。<a href=\"https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf\">[s1]</a><a href=\"https://www.neeq.com.cn/disclosure/2017/2017-12-06/1512552666_031668.pdf\">[s3]</a> 经济观察报报道，2024 年 4 月远航已布局超过 150 家直营店，单店投入「少则三五百万元，多则千八百万元」。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a> 证券时报报道称，大运汽车拥有核心技术专利 1,500 余项、总资产逾 60 亿元。<a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a></p><h3>国内市场地位</h3><p>大运重卡曾长期位居国内重卡行业前十，是其中少有的民营企业；但 2025 年国内重卡市场前五名合计份额已接近 90%，腰部企业受挤压，2025 年 1—7 月大运柴油重卡销量同比下滑超三成。<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> 在新能源重卡市场（2025 年全年销量突破 23 万辆、年末月度渗透率约 50%），大运几乎没有存在感。<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> 第一商用车网报道，运城市曾把加快大运汽车复工复产和重组进程写进 2025 年政府工作报告。<a href=\"https://www.cvworld.cn/news/truck/tknews/260208/236587.html\">[s21]</a></p><h3>海外业务</h3><p>集团出口覆盖存在两种口径：远航官网称产品远销 100 多个国家和地区，而重整管理人声明（媒体援引）称远销 20 多个国家和地区。<a href=\"https://yuanhangqiche.com/about\">[s4]</a><a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a> 远航车型曾亮相第 136 届广交会（2024 年），但远航品牌海外销量未单独披露。<a href=\"https://www.dayungroup.com/news-newsdetail-8805\">[s6]</a></p><h3>近期财务（截至研究截止日）</h3><p>截至 2026-10-29，公司自 2020 年 7 月招股书后未再披露任何 A 级年度或半年财务公告，2020 年及以后财年财务数据未公开披露。<a href=\"https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf\">[s2]</a> 对 2020 年 1—6 月，媒体口径存在分歧：证券时报记营收约 49.35 亿元、归母净利润 1.78 亿元；另有媒体转述后期招股书记归母净利润约 1.32 亿元（同比下滑 47.95%），本页不作定论。<a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a><a href=\"https://www.laitimes.com/zh/article/v1pm_vpxy.html\">[s27]</a> 新浪财经援引重整审计数据称，3 家核心主体截至 2024-09-30 合并资产 90.18 亿元、负债 66.79 亿元；58 家公司截至 2024-11-30 合并资产 76.15 亿元、负债 54.92 亿元、资产负债率 72.13%。<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Yuan Qinshan, born in March 1968 in the Yanhu district of Yuncheng, Shanxi, holds an MBA from Sun Yat-sen University and is chairman of Dayun Group.<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a> Official materials state that the group started in the motorcycle business in 1987, set up the Guangzhou Dayang and Dayun motorcycle production bases in 1999 (annual output later over 1.5 million motorcycles and 2 million engines), and became the exclusive motorcycle supplier for the 2008 Beijing Olympic and Paralympic Games.<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a><a href=\"https://yuanhangqiche.com/about\">[s4]</a></p><p>Yuan led Dayun into heavy trucks from 2004, acquired Sichuan Yinhe Automobile Group to form Chengdu Dayun in 2009, established Hubei Dayun in 2010, moved into new-energy vehicles from around 2016-2017, and launched the Yuanhang brand at the 2022 Chengdu Motor Show.<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a><a href=\"https://yuanhangqiche.com/about\">[s4]</a> According to the Dayun Group website, the public posts he has held include member of the Standing Committee of the 11th and 12th Shanxi Provincial People's Congress, member of the 9th Shanxi Provincial CPPCC and the 12th CPPCC Standing Committee, member of the executive committee and standing committee of the All-China Federation of Industry and Commerce, and vice chairman of the 9th-11th Shanxi Federation of Industry and Commerce and vice president of the 12th Shanxi General Chamber of Commerce, president of the 1st and 2nd Guangdong Shanxi Chamber of Commerce, and president of the 6th and 7th Shanxi Automobile Industry Association council; several of these terms have since ended. He has been named a National Model Worker and one of the 100 Outstanding Private Entrepreneurs of the 40 Years of Reform and Opening-up.<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a></p><h3>Current management</h3><p>Yuanhang has not publicly disclosed a detailed management roster; Yuan Qinshan has been its public face since the brand's launch.<a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a> Dayun Automobile is unlisted, and the appointments and start dates of other executives have not been publicly disclosed, so this page does not list them.<a href=\"https://auto.ce.cn/auto/gundong/202412/03/t20241203_39222693.shtml\">[s16]</a></p><h3>Equity and governance</h3><p>Dayun Automobile is a private, unlisted joint-stock company with registered capital of RMB1.072 billion (107,203.75 万元).<a href=\"https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf\">[s1]</a> The 2020 prospectus identified Yuan Qinshan as the actual controller: he held about 1.06% directly and, through the controlling shareholder Dayun Jiuzhou Group (about 74.53%) and Dayun Group, controlled about 75.68% of the shares in total; institutional shareholders then included Zhongji Huizhi (about 11.66%) and Jiangsu SME Fund (about 3.50%).<a href=\"https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf\">[s2]</a> The Economic Observer reported in December 2024, citing Tianyancha, that Dayun Group directly held 0.125% of Dayun Automobile and the remaining 99.875% through its wholly-owned subsidiary Dayun Jiuzhou Group, with Yuan Qinshan holding 92.76% of Dayun Group.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a> Because the 2026 restructuring plan involves debt-to-equity conversion, the post-restructuring shareholding will change, and this page does not treat any of the above percentages as the current equity as of 2026-10-29.<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a></p>",
+      "zh": "<h3>创始人</h3><p>远勤山，1968 年 3 月生于山西省运城市盐湖区，中山大学工商管理硕士，现任大运集团有限公司董事长。<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a> 官方资料显示，大运集团以 1987 年摩托车业务起家，1999 年组建广州大阳、大运摩托车生产基地（年产摩托 150 余万辆、发动机 200 余万台），2008 年成为北京奥运会、残奥会摩托车独家供应商。<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a><a href=\"https://yuanhangqiche.com/about\">[s4]</a></p><p>远勤山 2004 年起带领大运进入重卡，2009 年收购四川银河汽车集团组建成都大运汽车集团，2010 年成立湖北大运汽车，2016—2017 年前后布局新能源，2022 年成都车展发布远航品牌。<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a><a href=\"https://yuanhangqiche.com/about\">[s4]</a> 据大运集团官网，其曾担任的社会职务包括山西省第十一届、第十二届人大常委会委员，山西省第九届政协委员、第十二届政协常务委员，全国工商联执委、常委，山西省工商联副主席、总商会副会长，广东省山西商会第一、二届会长，山西省汽车行业协会第六、七届理事会会长等，多个届次已届满；并获全国劳动模范、改革开放 40 年百名杰出民营企业家等称号。<a href=\"https://www.dayunmotor.com/about-leader-3\">[s5]</a></p><h3>现任管理层</h3><p>远航品牌未公开披露详细的管理层名单，远勤山自品牌发布以来一直是其对外形象代表。<a href=\"https://stcn.com/article/detail/1426496.html\">[s10]</a> 大运汽车未上市，其他高管的任职与上任时间未公开披露，故本页不作表述。<a href=\"https://auto.ce.cn/auto/gundong/202412/03/t20241203_39222693.shtml\">[s16]</a></p><h3>股权与治理</h3><p>大运汽车为未上市民营股份有限公司，注册资本 107,203.75 万元。<a href=\"https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf\">[s1]</a> 招股书（2020 年）认定远勤山为大运汽车实际控制人：其直接持股约 1.06%，并通过控股股东大运九州集团（约 74.53%）及大运集团合计控制约 75.68% 的股份；当时尚有中冀汇智（约 11.66%）、江苏中小基金（约 3.50%）等机构股东。<a href=\"https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf\">[s2]</a> 经济观察报 2024 年 12 月援引天眼查称，大运集团直接持有大运汽车 0.125%、并经全资子公司大运九州集团持有其余 99.875%，远勤山持有大运集团 92.76%。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a> 由于 2026 年重整计划涉及债转股，重整完成后股权结构将发生变化，本页不将上述任一比例视为 2026-10-29 的现时股权。<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a></p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive position</h3><p>Our assessment: Yuanhang entered a premium NEV segment already occupied by NIO, Li Auto and XPeng and the premium lines of traditional automakers such as Avatr and IM Motors, overlapping with those rivals on price (the Y6 started at RMB329,800) but without matching brand recognition.<a href=\"https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html\">[s9]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a> Media report that consumers were largely unfamiliar with the brand and that marketing was traditional (a small amount of airport and high-speed-rail outdoor advertising) — many shoppers first heard of it only after seeing a Yuanhang store in a shopping mall.<a href=\"https://36kr.com/p/3025607228433664\">[s17]</a><a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><p>Our assessment: meanwhile an industry price war was intensifying and leading new-energy makers were delivering tens of thousands of units a month, while Yuanhang sold 5,584 units in the first nine months of 2024 (Y6 3,512, of which 571 in September; H8 2,072, of which 208 in September) — a stark scale gap.<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> Its decline also mirrors the broader shakeout of under-funded NEV startups in 2024-2025, alongside names such as WM Motor, HiPhi, Enovate and Aiways.<a href=\"https://36kr.com/p/3025607228433664\">[s17]</a> The Economic Observer cited an analyst saying Yuanhang was born too late, at a time when competition had already intensified sharply.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><h3>Advantages and gaps</h3><p>Our assessment: Yuanhang's strengths were a complete vehicle-production qualification inherited from the group and access to leading suppliers (Bosch, Huawei, Banma, CATL, UAES), but its core weakness was that the technology was largely assembled from suppliers rather than self-developed, giving it little differentiation, while its pricing sat above what an unproven brand could command.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a><a href=\"https://36kr.com/p/3025607228433664\">[s17]</a> Against volume players such as BYD, Aion and Leapmotor on one side and the established premium new players on the other, Yuanhang lacked both scale and a distribution network — media reported its store network shrank sharply, with Shanghai down to a single franchised 4S store at one point.<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a><a href=\"https://36kr.com/p/3025607228433664\">[s17]</a></p>",
+      "zh": "<h3>竞争地位</h3><p>我们的判断：远航进入的是一个已被蔚来、理想、小鹏以及阿维塔、智己等占据的高端新能源细分市场，产品价格与之重叠（Y6 起售价 32.98 万元），但品牌认知度无法匹配。<a href=\"https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html\">[s9]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a> 媒体指出消费者对该品牌普遍陌生，营销偏传统（少量机场、高铁站户外广告），不少消费者是在商场看到远航门店后才首次听说该品牌。<a href=\"https://36kr.com/p/3025607228433664\">[s17]</a><a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><p>我们的判断：同期行业价格战激烈，头部新能源车企月交付数万辆，而远航 2024 年前 9 月只卖了 5,584 辆（Y6 3,512 辆、其中 9 月 571 辆；H8 2,072 辆、其中 9 月 208 辆），规模差距悬殊。<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a> 其衰落映射了 2024—2025 年资金不足的新势力批量出局的行业洗牌，与威马、高合、天际、爱驰等品牌并列。<a href=\"https://36kr.com/p/3025607228433664\">[s17]</a> 经济观察报援引中国企业资本联盟副理事长柏文喜称，远航汽车诞生的时间还是有点晚了，如今新能源汽车市场竞争激烈程度前所未有。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a></p><h3>优势与短板</h3><p>我们的判断：远航的优势是承接了集团完整的整车生产资质与博世、华为、斑马、宁德时代、联合电子等供应商资源；核心短板是技术多为「整合供应商」而非自研，差异化不足，且定价高于一个未经市场验证的品牌所能支撑的水平。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a><a href=\"https://36kr.com/p/3025607228433664\">[s17]</a> 面对大众市场的比亚迪、埃安、零跑与高端市场已成型的新势力，远航既缺规模也缺渠道——媒体报道其门店大幅收缩，上海地区一度仅剩一家经销商 4S 店可销售。<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a><a href=\"https://36kr.com/p/3025607228433664\">[s17]</a></p>"
+    },
+    "outlook": {
+      "en": "<h3>Public targets</h3><p>The company's announced plans far exceeded what it achieved. Yuan Qinshan said Dayun aimed to make the product 'the world's best overall'; at the November 2023 roll-off ceremony he proposed more than 1,500 outlets within three years, and in May 2024 he said the company already had more than 150 outlets, expected about 300 by year-end and planned 1,000 within three years.<a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a><a href=\"https://m.tech.china.com/tech/article/20240509/052024_1517202.html\">[s18]</a> The Economic Observer reported that in November 2023 Yuan Qinshan also publicly set a 2024 target of 30,000-50,000 deliveries, aiming to break even or post a small loss in 2024 and turn profitable in 2025. These are dated company statements, not results; by late 2024 media instead reported store closures and only 5,584 units sold in the first nine months.<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a><a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a></p><h3>Our analysis</h3><p>Our assessment: the gap between the company's stated ambitions and its results is structural. The parent was unable to fund the passenger-vehicle business and entered consolidated restructuring of 58 companies.<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> Media also reported that in April 2025 Dayun launched a 'cars-for-debt' scheme to dispose of inventory vehicles and ease liquidity pressure, with limited effect.<a href=\"https://m.toutiao.com/article/7690556070137217590\">[s26]</a></p><p>Accounts differ on the restructuring scope and the strategic investor. China Auto News reported that the restructuring scope is limited to the NEV passenger-vehicle segment, with heavy trucks and other commercial vehicles excluded and their production lines still running.<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> On the strategic investor, CVWorld reported in February 2026 that a consortium led by Shenzhen Shenshang Holdings had completed recruitment and stepped in, while a Sohu self-media account describing the plan said no investor had been finalised at approval and that the case would proceed as 'restructure while seeking investors'; the two accounts conflict.<a href=\"https://www.cvworld.cn/news/truck/tknews/260208/236587.html\">[s21]</a><a href=\"https://www.sohu.com/a/1079883750_122651623\">[s25]</a> CVWorld noted that Shenshang Holdings was established in July 2011 with joint investment from 79 key Shenzhen private enterprises organised by the Shenzhen Federation of Industry and Commerce, with paid-in registered capital of RMB1.022 billion and shareholders' total assets approaching RMB1 trillion.<a href=\"https://www.cvworld.cn/news/truck/tknews/260208/236587.html\">[s21]</a> Whether the Yuanhang brand survives depends on restructuring execution and the arrival of an investor, and remains uncertain.</p>",
+      "zh": "<h3>公开目标</h3><p>公司公开的规划远超实际达成。远勤山曾表示要把产品做到「综合技术世界第一」；2023 年 11 月 Y6 下线时提出「三年实现 1,500 家以上门店」，2024 年 5 月又称全国已有 150 多家门店、年底预计增至约 300 家、三年内规划 1,000 家。<a href=\"https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml\">[s15]</a><a href=\"https://m.tech.china.com/tech/article/20240509/052024_1517202.html\">[s18]</a> 经济观察报报道，远勤山 2023 年 11 月还曾公开提出 2024 年交付 3 万至 5 万辆、争取少亏甚至不亏、2025 年盈利的目标。这些都是带时点的公司表态，而非既成事实；到 2024 年底，媒体报的是门店关停，前 9 个月销量只有 5,584 辆。<a href=\"https://www.eeo.com.cn/2024/1207/701429.shtml\">[s11]</a><a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a></p><h3>我们的分析</h3><p>我们的判断：公司目标与结果之间的落差是结构性的。母公司无力支撑乘用车业务，最终走向 58 家公司合并重整。<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> 媒体还报道，2025 年 4 月大运曾推出「以车抵债」方案处置库存车辆以缓解流动性压力，但收效有限。<a href=\"https://m.toutiao.com/article/7690556070137217590\">[s26]</a></p><p>关于重整范围与战略投资人存在不同说法。中国汽车报报道称，本次重整范围限定于新能源乘用车板块，重卡等商用车业务不纳入、生产线维持运转。<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a> 战略投资人方面：第一商用车网 2026 年 2 月报道称，以深圳深商控股集团为主导的联合体已完成招募并介入；而搜狐自媒体对重整计划的转述称，获批时尚未确定投资人、采取「边重整边引战」安排，两说并存。<a href=\"https://www.cvworld.cn/news/truck/tknews/260208/236587.html\">[s21]</a><a href=\"https://www.sohu.com/a/1079883750_122651623\">[s25]</a> 第一商用车网介绍，深商控股集团于 2011 年 7 月由深圳市工商联组织 79 家深圳重点民营企业共同出资设立，实缴注册资本 10.22 亿元，股东总资产接近万亿元。<a href=\"https://www.cvworld.cn/news/truck/tknews/260208/236587.html\">[s21]</a> 远航品牌能否存续，取决于重整执行与投资人落地，前景仍不确定。</p>"
+    },
+    "risks": {
+      "en": "<h3>Operating and sales risk</h3><p>In the first nine months of 2024 Yuanhang's retail sales were 5,584 units (Y6 3,512; H8 2,072). Qilu Evening News reported on 5 November 2024 that Shanghai was down to a single franchised 4S store.<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a></p><h3>Restructuring and funding risk</h3><p>The parent is in court-supervised restructuring covering 58 companies; as of 30 November 2024 the combined audited liabilities were RMB5.492 billion with an asset-liability ratio of 72.13%, and liquidity was severely short.<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a> Media reported long-running wage arrears, some of up to 24 months, and a wage protest by employees at the Chengdu base in December 2025.<a href=\"https://m.toutiao.com/article/7690556070137217590\">[s26]</a> A media account of the plan said no strategic investor had been finalised at approval, adding execution risk.<a href=\"https://www.sohu.com/a/1079883750_122651623\">[s25]</a> In the execution phase the company has said it will prioritise cash-flow safety and anchor itself on the commercial-vehicle core business while continuing to seek investors.<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a></p><h3>Brand and technology risk</h3><p>The brand lacked recognition and relied on supplier-assembled technology, while its premium pricing was not supported by brand equity; media note consumers were largely unfamiliar with the name and that the marketing model was traditional.<a href=\"https://auto.ce.cn/auto/gundong/202412/03/t20241203_39222693.shtml\">[s16]</a><a href=\"https://36kr.com/p/3025607228433664\">[s17]</a></p><h3>Commercial-vehicle core business risk</h3><p>The commercial-vehicle business that serves as the post-restructuring base is itself under pressure: the top five held close to 90% of China's heavy-truck market in 2025, Dayun's diesel heavy-truck sales fell more than 30% year on year in the first seven months of 2025, and Dayun has little presence in the fast-growing new-energy heavy-truck market.<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a></p><h3>Supplier concentration risk</h3><p>The commercial-vehicle business relies heavily on purchased core components: Times Business, citing the prospectus, reported that the largest supplier Weichai Power accounted for about 20.81%, 21.70% and 20.88% of total procurement in 2017-2019.<a href=\"https://www.time-weekly.com/post/272192\">[s22]</a> Engines, transmissions and other core components are largely purchased externally, limiting differentiation.<a href=\"https://www.time-weekly.com/post/272192\">[s22]</a></p>",
+      "zh": "<h3>经营与销量风险</h3><p>2024 年前 9 月远航零售销量为 5,584 辆（Y6 3,512 辆、H8 2,072 辆）。齐鲁晚报 2024 年 11 月 5 日报道，上海地区仅剩一家经销商 4S 店可以销售。<a href=\"https://www.ql1d.com/general/25050231.html\">[s12]</a></p><h3>重整与资金风险</h3><p>母公司进入覆盖 58 家公司的法院重整，截至 2024-11-30 合并审计负债 54.92 亿元、资产负债率 72.13%，流动资金严重短缺。<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a> 媒体报道存在长期拖欠员工薪资，部分欠薪最长达 24 个月；2025 年 12 月成都基地发生员工讨薪。<a href=\"https://m.toutiao.com/article/7690556070137217590\">[s26]</a> 媒体对重整计划的转述称，截至获批时尚未确定战略投资人，执行存在不确定性。<a href=\"https://www.sohu.com/a/1079883750_122651623\">[s25]</a> 进入重整执行阶段后，公司称将坚持现金流安全优先、立足商用车主业，并持续对接海内外意向投资人。<a href=\"https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml\">[s20]</a></p><h3>品牌与技术风险</h3><p>品牌认知度低、技术依赖供应商整合，高端定价缺乏品牌资产支撑；媒体指出消费者对该品牌普遍陌生，营销模式偏传统。<a href=\"https://auto.ce.cn/auto/gundong/202412/03/t20241203_39222693.shtml\">[s16]</a><a href=\"https://36kr.com/p/3025607228433664\">[s17]</a></p><h3>商用车主业风险</h3><p>作为重整后基本盘的商用车业务同样承压：2025 年重卡市场前五名份额接近 90%，大运柴油重卡 2025 年 1—7 月销量同比下滑超三成，在新能源重卡增量市场几乎无存在感。<a href=\"https://www.toutiao.com/article/7694970423305355830/\">[s14]</a></p><h3>供应商集中风险</h3><p>商用车核心零部件依赖外购：时代商学院援引招股书称，2017—2019 年第一大供应商潍柴动力占采购总额比重分别约 20.81%、21.70%、20.88%。<a href=\"https://www.time-weekly.com/post/272192\">[s22]</a> 发动机、变速器等核心件基本外购，差异化空间受限。<a href=\"https://www.time-weekly.com/post/272192\">[s22]</a></p>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "全国企业破产重整案件信息网：大运汽车等58家公司合并重整案投资人招募公告", "url": "https://pccz.court.gov.cn/filedownloads/2025/2025-07-15/大运等58家公司投资人招募公告1752570256313.pdf?fn=大运等58家公司投资人招募公告.pdf", "date": "2025-07-15", "tier": "A" },
+    { "id": "s2", "name": "大运汽车股份有限公司创业板首次公开发行股票招股说明书（申报稿）", "url": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000177231C8E403FAD7E40EAFAB8403F.pdf", "date": "2020-07-02", "tier": "A" },
+    { "id": "s3", "name": "全国中小企业股份转让系统：大运汽车股份有限公司关于公司股票终止挂牌的公告", "url": "https://www.neeq.com.cn/disclosure/2017/2017-12-06/1512552666_031668.pdf", "date": "2017-12-06", "tier": "A" },
+    { "id": "s4", "name": "远航汽车官网：关于我们（品牌沿革、B.H.D 平台、五大生产基地）", "url": "https://yuanhangqiche.com/about", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "大运集团官网：集团领导——远勤山", "url": "https://www.dayunmotor.com/about-leader-3", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "大运集团官网：远航汽车（REHIGH）亮相第136届广交会", "url": "https://www.dayungroup.com/news-newsdetail-8805", "date": "2024-10-15", "tier": "A" },
+    { "id": "s7", "name": "中信证券：大运汽车股份有限公司创业板上市保荐书", "url": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc/RAS_000175F445E74F3FAA1DB5419351F03F.pdf", "date": "2020-07-02", "tier": "A" },
+    { "id": "s8", "name": "卡车之家（大运汽车挂牌仪式新闻稿）：大运汽车2015年11月完成股份制改造", "url": "https://www.360che.com/news/170113/74289.html", "date": "2017-01-13", "tier": "B" },
+    { "id": "s9", "name": "新华网：远航汽车登陆上海车展 纯电新旗舰Y6、H8开启预订", "url": "https://www.news.cn/auto/20230418/6e482aa5cc67423ebb3accc1317435f8/c.html", "date": "2023-04-18", "tier": "B" },
+    { "id": "s10", "name": "证券时报：回应破产传闻！“中国版宾利”透露最新重整动向", "url": "https://stcn.com/article/detail/1426496.html", "date": "2024-11-25", "tier": "B" },
+    { "id": "s11", "name": "经济观察报：大运“商转乘”生死局", "url": "https://www.eeo.com.cn/2024/1207/701429.shtml", "date": "2024-12-07", "tier": "B" },
+    { "id": "s12", "name": "齐鲁晚报·齐鲁壹点：某车企被曝销售门店停运 官方回应（远航汽车销量与价格）", "url": "https://www.ql1d.com/general/25050231.html", "date": "2024-11-05", "tier": "B" },
+    { "id": "s13", "name": "界面新闻：大运汽车重整计划获法院裁定批准", "url": "https://www.jiemian.com/article/15125951.html", "date": "2026-09-22", "tier": "B" },
+    { "id": "s14", "name": "中国汽车报（今日头条发布）：大运重整落槌！商用车“腰部企业”的转型难题怎么解", "url": "https://www.toutiao.com/article/7694970423305355830/", "date": "2026-10-10", "tier": "B" },
+    { "id": "s15", "name": "中国经济网：开启批量化生产交付 远航Y6何以杀出重围", "url": "https://auto.ce.cn/auto/gundong/202311/10/t20231110_38785818.shtml", "date": "2023-11-10", "tier": "B" },
+    { "id": "s16", "name": "中国经营报（中国经济网转载）：大运汽车开启重整，“摩托大王”造车梦碎", "url": "https://auto.ce.cn/auto/gundong/202412/03/t20241203_39222693.shtml", "date": "2024-12-03", "tier": "B" },
+    { "id": "s17", "name": "36氪（汽车公社）：远航“停航”，下一个是谁？", "url": "https://36kr.com/p/3025607228433664", "date": "2024-11-07", "tier": "B" },
+    { "id": "s18", "name": "中华网：揭秘疑惑：远航Y7/H9挑战高端豪华新能源车的硬实力", "url": "https://m.tech.china.com/tech/article/20240509/052024_1517202.html", "date": "2024-05-09", "tier": "B" },
+    { "id": "s19", "name": "中国青年报（今日头条发布）：远航双车齐发，大运集团加快“掘金”新能源赛道", "url": "https://www.toutiao.com/article/7369213831651951144", "date": "2024-05-15", "tier": "B" },
+    { "id": "s20", "name": "新浪财经·汽车行业关注：负债55亿！大运汽车进入重整执行阶段", "url": "https://finance.sina.com.cn/wm/2026-09-26/doc-initemra0756144.shtml", "date": "2026-09-26", "tier": "B" },
+    { "id": "s21", "name": "第一商用车网：大运重整有新消息了（深商控股联合体介入）", "url": "https://www.cvworld.cn/news/truck/tknews/260208/236587.html", "date": "2026-02-08", "tier": "B" },
+    { "id": "s22", "name": "时代商学院：大运汽车市占率下滑、新能源业务几近停摆（卡车销量与潍柴采购占比）", "url": "https://www.time-weekly.com/post/272192", "date": "2020-08-07", "tier": "B" },
+    { "id": "s23", "name": "易车：远航Y6车型页（标注停售）", "url": "https://car.m.yiche.com/yuanhangy6/", "date": "2026-10-29", "tier": "C" },
+    { "id": "s24", "name": "太平洋汽车网：远航Y6销量与指导价", "url": "https://price.pcauto.com.cn/salescar/sg29125/", "date": "2026-10-29", "tier": "C" },
+    { "id": "s25", "name": "搜狐·汽车闲谈（自媒体）：大运汽车等58家公司重整计划获批", "url": "https://www.sohu.com/a/1079883750_122651623", "date": "2026-09-23", "tier": "C" },
+    { "id": "s26", "name": "董涛说车（今日头条自媒体）：重卡前十、摩托大王的大运，为何栽在新能源上？", "url": "https://m.toutiao.com/article/7690556070137217590", "date": "2026-10-09", "tier": "C" },
+    { "id": "s27", "name": "Laitimes（来稿网）：大运汽车2020年上半年营收与归母净利润转述", "url": "https://www.laitimes.com/zh/article/v1pm_vpxy.html", "date": "2021-11-08", "tier": "C" }
+  ]
+}

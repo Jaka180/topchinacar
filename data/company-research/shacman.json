@@ -1,0 +1,631 @@
+{
+  "id": "shacman",
+  "name_en": "Shaanxi Automobile Group (SHACMAN)",
+  "name_zh": "陕汽集团（陕西汽车控股集团有限公司 / SHACMAN）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1968 (predecessor Shaanxi Automobile Manufacturing Plant, founded under China's 'Third Front' construction programme)",
+      "value_zh": "1968 年（前身陕西汽车制造厂，在三线建设背景下创建）",
+      "period": null,
+      "source_ids": ["s7", "s1"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Xi'an, Shaanxi Province, China (Jingwei Industrial Park, Xi'an Economic & Technological Development Zone)",
+      "value_zh": "中国陕西省西安市（经开区泾渭工业园）",
+      "period": null,
+      "source_ids": ["s1", "s10"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-owned enterprise",
+      "value_zh": "国有企业",
+      "period": null,
+      "source_ids": ["s10", "s7"]
+    },
+    {
+      "label_en": "Main shareholders (holding company level)",
+      "label_zh": "主要股东（控股集团层面）",
+      "value_en": "Shaanxi Provincial SASAC 51%; Chang'an Huitong Co., Ltd. 49% (of Shaanxi Automobile Holding Group)",
+      "value_zh": "陕西省国资委持股 51%、长安汇通有限责任公司持股 49%（陕汽控股层面）",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Shaanxi Provincial SASAC (it holds 51.00% of Shaanxi Automobile Holding; the other 49.00% is held by a company it wholly owns)",
+      "value_zh": "陕西省国资委（陕汽控股 51.00% 由其持有，49.00% 由其全资拥有的一家公司持有）",
+      "period": null,
+      "source_ids": ["s8"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市情况",
+      "value_en": "Not listed. Shaanxi Automobile Group Co., Ltd. began A-share IPO tutoring in 2021; subsidiary Deewin Tianxia (2418.HK) listed in 2022.",
+      "value_zh": "未上市；陕汽集团（股份）2021 年启动 A 股 IPO 辅导，子公司德银天下（2418.HK）2022 年上市",
+      "period": null,
+      "source_ids": ["s17", "s9"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "About 25,000",
+      "value_zh": "约 2.5 万人",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "Not disclosed (group not listed)",
+      "value_zh": "未公开披露（集团未上市）",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Net profit (FY2025)",
+      "label_zh": "净利润（2025 财年）",
+      "value_en": "Not disclosed (group not listed)",
+      "value_zh": "未公开披露（集团未上市）",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Vehicle sales (2025)",
+      "label_zh": "整车销量（2025 年）",
+      "value_en": "Wholesale basis: 184,009 heavy trucks (+22.44%, third in China). Annual-report basis for the same company: 153,000 vehicles (94,000 domestic, 59,000 exported). The December 2025 business conference projected group sales of 195,000 (+16.7%); that figure is a forecast, not the full-year result.",
+      "value_zh": "批发口径重卡 184,009 辆（+22.44%，行业第三）。同一主体的年报口径为陕重汽整车 15.3 万辆（国内 9.4 万辆、出口 5.9 万辆）。2025 年 12 月商务年会预计集团销量 19.5 万辆（+16.7%），这是预计数，不是全年实际。",
+      "period": "2025",
+      "source_ids": ["s14", "s39", "s38", "s3"]
+    },
+    {
+      "label_en": "Overseas sales (H1 2026)",
+      "label_zh": "海外销量（2026 年上半年）",
+      "value_en": "36,000 units exported (+34.2% YoY)",
+      "value_zh": "出口 3.6 万辆（同比增长 34.2%）",
+      "period": "2026 H1",
+      "source_ids": ["s4"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1968-02",
+      "event_en": "The Shaanxi Automobile Manufacturing Plant is founded in Mai Li Xi Gou, Qishan County, Baoji, under the national 'Third Front' programme, becoming China's first heavy military off-road vehicle production base.",
+      "event_zh": "陕西汽车制造厂在宝鸡岐山麦李西沟创建（三线建设），建成我国第一座重型军用越野汽车生产基地。",
+      "source_ids": ["s7", "s1"]
+    },
+    {
+      "date": "1974",
+      "event_en": "The Yan'an 250 (SX250) heavy military off-road truck, China's first-generation heavy military off-road vehicle, is design-finalised.",
+      "event_zh": "延安 250（SX250）型重型军用越野汽车设计定型，为中国第一代重型军用越野车。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "1984-10",
+      "event_en": "Yan'an 250 military trucks take part in the 35th National Day parade.",
+      "event_zh": "延安 250 军车参加新中国成立 35 周年国庆阅兵。",
+      "source_ids": ["s13", "s7"]
+    },
+    {
+      "date": "1985",
+      "event_en": "Shaanxi Auto moves out of Caijiapo to build its Xi'an production base, starting its 'second start-up'.",
+      "event_zh": "陕汽走出蔡家坡，建设西安生产基地，开启第二次创业。",
+      "source_ids": ["s34"]
+    },
+    {
+      "date": "1988",
+      "event_en": "Shaanxi Auto makes its first overseas export: 13 Yan'an-brand off-road trucks leave China.",
+      "event_zh": "陕汽实现首次出口：13 辆延安牌越野车走出国门。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2002-09",
+      "event_en": "Shaanxi Heavy Duty Automobile Co., Ltd. (Shaanxi Zhongqi) is founded as a joint venture between Shaanxi Automobile Group (49%) and Xianghuo Automobile Group (51%).",
+      "event_zh": "陕西重型汽车有限公司（陕重汽）成立，由陕汽集团（49%）与湘火炬汽车集团（51%）合资组建。",
+      "source_ids": ["s30", "s29"]
+    },
+    {
+      "date": "2003",
+      "event_en": "Hande Axle (Shaanxi HanDe Axle Co., Ltd.) is jointly founded by Weichai Power and Shaanxi Automobile Group.",
+      "event_zh": "潍柴动力与陕汽集团共同投资组建汉德车桥。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2005",
+      "event_en": "Weichai Power acquires Xianghuo's assets and thereby gains 51% control of Shaanxi Heavy Duty Automobile.",
+      "event_zh": "潍柴动力收购湘火炬资产，获得陕重汽 51% 股权并控股。",
+      "source_ids": ["s30", "s29"]
+    },
+    {
+      "date": "2007-08",
+      "event_en": "Xi'an Cummins Engine Co., Ltd., a 50:50 JV between Cummins and Shaanxi Auto, begins production (the official website now names the partner 'Shaanxi Automobile Holding Group', an entity registered in 2012).",
+      "event_zh": "康明斯与陕汽 50:50 合资的西安康明斯发动机有限公司正式投产（官网现表述合资方为「陕汽控股集团」，该主体于 2012 年注册）。",
+      "source_ids": ["s12", "s10"]
+    },
+    {
+      "date": "2009",
+      "event_en": "After overseas heavy-truck sales first exceeded 10,000 units in 2008, Shaanxi Auto launches the SHACMAN international brand.",
+      "event_zh": "在 2008 年重卡海外销量首次突破 1 万辆之后，陕汽于 2009 年发布 SHACMAN 国际品牌。",
+      "source_ids": ["s15", "s26"]
+    },
+    {
+      "date": "2010",
+      "event_en": "Shaanxi Auto reaches a 100,000-unit annual production and sales platform.",
+      "event_zh": "陕汽迈上 10 万辆产销平台。",
+      "source_ids": ["s34"]
+    },
+    {
+      "date": "2012-08-20",
+      "event_en": "Shaanxi Automobile Holding Group Co., Ltd. is registered, becoming the group's top holding company.",
+      "event_zh": "陕西汽车控股集团有限公司（陕汽控股）注册成立，成为集团顶层控股主体。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2018-02-28",
+      "event_en": "On its 50th anniversary, Shaanxi Auto releases its '2035 Strategy', aiming for an internationally leading full-series commercial-vehicle business.",
+      "event_zh": "建厂 50 周年之际发布「2035 战略」，提出全系列商用车业务达到国际领先水平。",
+      "source_ids": ["s34"]
+    },
+    {
+      "date": "2019-12",
+      "event_en": "Shaanxi Automobile Commercial Vehicle's full-series commercial-vehicle industrial park in Caijiapo, Baoji goes into production (2,000 mu, first phase investment of about RMB1.5 billion).",
+      "event_zh": "陕汽商用车宝鸡蔡家坡全系列商用车产业园投产（总占地 2000 亩，一期累计投资约 15 亿元）。",
+      "source_ids": ["s28"]
+    },
+    {
+      "date": "2020-04-22",
+      "event_en": "Chinese leader Xi Jinping visits Shaanxi Auto, setting out development guidance for the group.",
+      "event_zh": "习近平视察陕汽，为企业未来发展指明方向。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2020-11-11",
+      "event_en": "The Delong X6000 high-end heavy-truck platform, developed over a decade, is launched.",
+      "event_zh": "历时十年正向研发的高端重卡平台德龙 X6000 正式发布。",
+      "source_ids": ["s31"]
+    },
+    {
+      "date": "2022-07-15",
+      "event_en": "Deewin Tianxia Co., Ltd. (2418.HK), the group's commercial-vehicle service arm, lists on the HKEX main board.",
+      "event_zh": "集团商用车服务子公司德银天下股份有限公司（2418.HK）在香港联交所主板上市。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2024-01-28",
+      "event_en": "The Yan'an brand is revived: Shaanxi Automobile Commercial Vehicle launches the Yan'an S700 heavy truck and the Zhiyun S300 new-energy light truck.",
+      "event_zh": "延安品牌回归：陕汽商用车发布延安 S700 重卡与智云 S300 新能源轻卡。",
+      "source_ids": ["s32"]
+    },
+    {
+      "date": "2025-12-10",
+      "event_en": "At its 2026 business conference, Shaanxi Auto reports expected 2025 group sales of 195,000 units (+16.7%) and its rise to third in the heavy-truck industry, and unveils the X6000 flagship and the G6000E new-energy product.",
+      "event_zh": "2026 商务年会上，陕汽披露 2025 年集团预计销量 19.5 万辆（+16.7%）、行业排名升至第 3 位，并发布 X6000 超凡旗舰与 G6000E 新能源产品。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-01-22",
+      "event_en": "Yuan Hongming is removed as chairman of Shaanxi Automobile Holding Group; Liu Yi, previously general manager of Shaanxi Fast Auto Drive Group, is appointed chairman.",
+      "event_zh": "袁宏明被免去陕汽控股董事长、董事职务；原法士特集团总经理刘义被任命为陕汽控股董事长。",
+      "source_ids": ["s6"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "SHACMAN (Shaanxi Heavy Duty Automobile)",
+      "name_zh": "陕汽重卡（陕重汽 / SHACMAN）",
+      "role_en": "Core heavy-truck business covering tractors, dump trucks, cargo trucks, mixers and special vehicles; flagship series include Delong X6000, X5000, X3000 and M3000.",
+      "role_zh": "集团核心重卡业务，覆盖牵引车、自卸车、载货车、搅拌车、专用车；主力产品为德龙 X6000/X5000/X3000/M3000 等系列。",
+      "price_band": null,
+      "founded": 2002,
+      "owner_note_en": "Operated by Shaanxi Heavy Duty Automobile Co., Ltd., a JV in which Weichai Power (000338.SZ / 2338.HK) holds 51% and Shaanxi Automobile Group holds 49%. On the CAAM wholesale basis, 2025 sales were 184,009 heavy trucks (+22.44%, third in China). In Weichai Power's 2025 annual report, the same company sold 153,000 vehicles (+29.4%), of which 94,000 were domestic (+60.2%) and 59,000 were exported. The two figures are wholesale and annual-report bases for one company, not group sales versus a subsidiary. The annual report does not give a separate revenue line for Shaanxi Heavy Duty.",
+      "owner_note_zh": "由陕西重型汽车有限公司运营，潍柴动力（000338.SZ / 2338.HK）持股 51%、陕汽集团持股 49%。中汽协批发口径下，2025 年销售重卡 184,009 辆（同比 +22.44%，行业第三）。潍柴动力 2025 年报口径下，同一公司陕重汽整车销量 15.3 万辆（同比增长 29.4%），其中国内 9.4 万辆（同比增长 60.2%）、出口 5.9 万辆。两套数字是同一主体的批发口径与年报口径，不是集团与子公司之差。年报没有单列陕重汽营收。",
+      "status": "active",
+      "source_ids": ["s8", "s14", "s39", "s38"]
+    },
+    {
+      "name_en": "Delong",
+      "name_zh": "德龙（Delong）",
+      "role_en": "Flagship heavy-truck product brand of the group; the X6000 is positioned as a high-end long-haul platform.",
+      "role_zh": "集团旗舰重卡产品品牌；X6000 定位高端干线物流平台。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "A product brand within Shaanxi Heavy Duty Automobile. The Delong X, H, M and L series are named in a Shaanxi provincial government article; the X6000 flagship was highlighted at the 2026 business conference. Brand-specific sales are not separately disclosed.",
+      "owner_note_zh": "属于陕重汽旗下的产品品牌。陕西省政府相关文章提及德龙 X、H、M、L 系列；2026 商务年会重点推介 X6000 超凡旗舰。单独品牌销量未披露。",
+      "status": "active",
+      "source_ids": ["s31", "s3"]
+    },
+    {
+      "name_en": "Yan'an",
+      "name_zh": "延安（Yan'an）",
+      "role_en": "Military heavy-truck brand dating to the Yan'an 250 (SX250), China's first heavy military off-road truck; revived in 2024 as a civilian high-end heavy-truck brand (Yan'an S700) under Shaanxi Automobile Commercial Vehicle.",
+      "role_zh": "军用重卡品牌，源自中国第一代重型军用越野车延安 250（SX250）；2024 年起由陕汽商用车复兴为民用高端重卡品牌（延安 S700）。",
+      "price_band": null,
+      "founded": 1974,
+      "owner_note_en": "Military products are developed and produced by the group under its defence business. On 28 January 2024 the Yan'an brand returned, with Shaanxi Automobile Commercial Vehicle launching the Yan'an S700 (positioned for long-haul line-haul and cold-chain logistics) and the Zhiyun S300. Separate brand sales are not disclosed.",
+      "owner_note_zh": "军品由集团承担研发生产。2024 年 1 月 28 日延安品牌回归，陕汽商用车发布延安 S700（主打长途干线物流与冷链运输）与智云 S300。单独品牌销量未披露。",
+      "status": "active",
+      "source_ids": ["s13", "s32"]
+    },
+    {
+      "name_en": "Shaanxi Automobile Commercial Vehicle",
+      "name_zh": "陕汽商用车",
+      "role_en": "Medium/light truck, bus and special-vehicle business, with sub-brands Xuande, Deyu, Zhiyun (new-energy light trucks) and the Yan'an S700.",
+      "role_zh": "中、轻卡及专用车业务，旗下有轩德、德御、智云（新能源轻卡）、延安 S700 等产品系列。",
+      "price_band": null,
+      "founded": 2018,
+      "owner_note_en": "Shaanxi Automobile Commercial Vehicle Co., Ltd. (about 68.51%-owned by Shaanxi Automobile Group) was renamed from the former Shaanxi Baohua company on 6 November 2018; its Baohua predecessor was founded in 2010. In 2025 its vehicle sales rose 15%, new-energy vehicles 66% and exports 104% year on year (per Baoji MIIT).",
+      "owner_note_zh": "陕汽集团商用车有限公司由陕汽集团持股约 68.51%，2018 年 11 月 6 日由原陕汽宝华公司更名而来（前身宝华公司成立于 2010 年）。据宝鸡市工信局，2025 年整车销量同比增长 15%、新能源车增长 66%、出口增长 104%。",
+      "status": "active",
+      "source_ids": ["s8", "s29", "s19"]
+    },
+    {
+      "name_en": "Zhiyun",
+      "name_zh": "智云（Zhiyun）",
+      "role_en": "New-energy light-truck series of Shaanxi Automobile Commercial Vehicle (e.g. Zhiyun S300, Zhiyun Express K9.5), for urban distribution.",
+      "role_zh": "陕汽商用车新能源轻卡系列（如智云 S300、智云 Express K9.5），面向城配物流。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "Part of Shaanxi Automobile Commercial Vehicle. The Zhiyun series surpassed 10,000 units in 2025 sales, up 66% year on year (per Jiemian).",
+      "owner_note_zh": "属于陕汽商用车。据界面新闻，2025 年智云系列销量突破 1 万辆、同比增长 66%。",
+      "status": "active",
+      "source_ids": ["s20"]
+    },
+    {
+      "name_en": "Proton Motors",
+      "name_zh": "质子汽车（Proton Motors）",
+      "role_en": "New-energy commercial-vehicle unit (electric and hydrogen fuel-cell trucks), the group's platform for new-energy commercialisation.",
+      "role_zh": "新能源商用车企业（纯电、氢燃料电池重卡），集团新能源商业化平台。",
+      "price_band": null,
+      "founded": 2022,
+      "owner_note_en": "Founded in 2022 and controlled by Dechuang Future, a platform in which Shaanxi Automobile (Holding) contributed 50% (Xixian New Area Jinghe New Town 40%, employee and supply-chain platforms 10%). Its models include Dijiang, Chilun, Baijing, Qingxiao and Chiguang. In 2024 Proton Motors ranked first in hydrogen fuel-cell heavy-truck deliveries and market share (per NBD); it has reportedly considered a Hong Kong IPO.",
+      "owner_note_zh": "2022 年成立，由德创未来控股；德创未来由陕汽（控股）出资 50%、西咸新区泾河新城管委会 40%、员工持股平台及上下游企业 10% 组建。旗下有帝江、赤轮、白景、青骁、赤光等车型。据每日经济新闻，2024 年质子汽车氢燃料重卡交付量与市场份额居行业首位，并曾考虑赴港上市。",
+      "status": "active",
+      "source_ids": ["s21", "s17"]
+    },
+    {
+      "name_en": "Hande Axle",
+      "name_zh": "汉德车桥（Hande Axle）",
+      "role_en": "Axle JV producing truck, bus, engineering, new-energy and agricultural axles; annual capacity of 1.5 million axle assemblies.",
+      "role_zh": "车桥合资公司，生产卡车、客车、工程机械、新能源、农机桥，具备年产各类桥总成 150 万根能力。",
+      "price_band": null,
+      "founded": 2003,
+      "owner_note_en": "Jointly founded in 2003 by Weichai Power and Shaanxi Automobile Group. The company website does not publish shareholding percentages. It has plants in Xi'an, Baoji, Zhuzhou and Tongchuan; about 5,400 employees in total (4,600 at Hande Axle itself, 1,200-plus R&D; a promotional image on the same page cites 'more than 5,700 Hande craftsmen'). Axle sales have ranked first in China for ten consecutive years and third globally.",
+      "owner_note_zh": "2003 年由潍柴动力与陕汽集团共同投资组建。官网未公布持股比例。布局西安、宝鸡、株洲、铜川四大生产基地；共有员工 5400 余名（其中汉德车桥员工 4600 人、研发技术团队 1200 余人；同页宣传图另称「5700 余名汉德工匠」）。车桥销量连续十年全国第一、全球第三。",
+      "status": "active",
+      "source_ids": ["s11"]
+    },
+    {
+      "name_en": "Xi'an Cummins",
+      "name_zh": "西安康明斯（Xi'an Cummins）",
+      "role_en": "Engine JV producing ISM11/M13/M15 series diesel engines and the Xiaoxiang power brand.",
+      "role_zh": "发动机合资公司，生产 ISM11/M13/M15 系列柴油机及骁骧动力品牌。",
+      "price_band": null,
+      "founded": 2007,
+      "owner_note_en": "A 50:50 JV between Cummins and Shaanxi Auto (the official website names the partner 'Shaanxi Automobile Holding Group', an entity registered in 2012), in production since August 2007. It matches and sells Cummins' full 2.5-15L diesel and natural-gas engines and powertrains within the group.",
+      "owner_note_zh": "康明斯与陕汽（官网表述为「陕汽控股集团」，该主体于 2012 年注册）50:50 合资，2007 年 8 月投产；负责康明斯全系 2.5—15 升柴油、天然气发动机及动力链在陕汽集团的整车匹配与销售。",
+      "status": "active",
+      "source_ids": ["s12", "s10"]
+    },
+    {
+      "name_en": "Deewin Tianxia",
+      "name_zh": "德银天下（Deewin Tianxia）",
+      "role_en": "Commercial-vehicle services arm (logistics & supply chain, supply-chain finance, telematics 'Tianxingjian'), listed on the HKEX (2418.HK).",
+      "role_zh": "商用车服务子公司（物流及供应链、供应链金融、车联网「天行健」），港股上市（2418.HK）。",
+      "price_band": null,
+      "founded": 2014,
+      "owner_note_en": "Founded in 2014 to consolidate aftermarket businesses; listed on the HKEX main board on 15 July 2022; controlling shareholder is Shaanxi Automobile Group. In 2025 it recorded revenue of RMB2.762 billion (+5.1%) and profit attributable to shareholders of RMB68.3 million (-55.4%); heavy trucks connected to its Tianxingjian telematics platform rose from about 1.260 million at end-2025 to about 1.3173 million at end-June 2026.",
+      "owner_note_zh": "2014 年为整合后市场业务设立，2022 年 7 月 15 日在港交所主板上市；控股股东为陕汽集团。2025 年实现收入 27.62 亿元（+5.1%）、股东应占溢利 6829 万元（-55.4%）；其「天行健」车联网平台接入的重型商用车由 2025 年末约 126.0 万辆增至 2026 年 6 月末约 131.73 万辆。",
+      "status": "active",
+      "source_ids": ["s9", "s16", "s36", "s37"]
+    }
+  ],
+  "financials": {
+    "currency": "Not disclosed (unlisted group)",
+    "unit": "Not disclosed (unlisted group)",
+    "standard": "Not disclosed (unlisted group)",
+    "rows": [],
+    "note_en": "Shaanxi Automobile Group (the holding company Shaanxi Automobile Holding Group and its operating entity Shaanxi Automobile Group Co., Ltd.) is not listed and does not publish consolidated financial statements, so no financial table is provided and no figures have been estimated. Its core heavy-truck subsidiary Shaanxi Heavy Duty Automobile Co., Ltd. is 51%-owned by the listed company Weichai Power (000338.SZ / 2338.HK) and is consolidated into Weichai Power's statements (PRC GAAP); Shaanxi Heavy Duty Automobile's own results are not separately disclosed. The listed service subsidiary Deewin Tianxia (2418.HK) reports under IFRS, and its profit metric is 'profit attributable to shareholders' (net profit attributable to owners of the parent): 2025 revenue RMB2.762 billion and profit attributable to shareholders RMB68.3 million; H1 2026 revenue RMB1.435 billion and net profit RMB33.9 million. For financial information, refer to Weichai Power's annual reports and Deewin Tianxia's HKEX filings.",
+    "note_zh": "陕汽集团（控股主体陕西汽车控股集团有限公司及其运营主体陕西汽车集团股份有限公司）未上市，未单独披露合并财务报表，故本表留空，本文未做任何估算。其核心重卡子公司陕重汽由上市公司潍柴动力（000338.SZ / 2338.HK）持股 51% 并纳入其合并报表（中国会计准则），陕重汽自身财务数据未单独披露。港股上市的服务子公司德银天下（2418.HK）按国际财务报告准则（IFRS）披露，其利润口径为「股东应占溢利」（归属于母公司股东净利润）：2025 年收入 27.62 亿元、股东应占溢利 6829 万元；2026 年上半年收入 14.35 亿元、净利润 3390 万元。如需财务信息，请参见潍柴动力年度报告与德银天下港交所定期报告。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Shaanxi Automobile Group (SHACMAN) is a large heavy-duty vehicle manufacturer in northwest China and one of China's large full-series commercial-vehicle manufacturers, tracing its origins to the Shaanxi Automobile Manufacturing Plant founded in 1968 under China's 'Third Front' construction programme, with headquarters in Xi'an <a href=\"https://sxgz.shaanxi.gov.cn/sy/gzyj/202004/t20200427_2456866.html\">[s7]</a><a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>. The group has about 25,000 employees and a brand value of RMB63.176 billion; on total assets its two official pages differ slightly (RMB92.0 billion on the company-profile page versus RMB92.67 billion on the group-introduction page), and its China Top-500 Enterprises ranking is given as 395th and 373rd respectively <a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a><a href=\"https://www.sxqc.com/?36.html\">[s2]</a>. The business spans heavy, medium and light trucks, buses and special vehicles, plus key components (axles, engines) and commercial-vehicle aftermarket services.</p><p>The group's core heavy-truck entity is Shaanxi Heavy Duty Automobile Co., Ltd. (Shaanxi Zhongqi), 51%-owned by Weichai Power (000338.SZ / 2338.HK) and 49% by Shaanxi Automobile Group; around it sit Shaanxi Automobile Commercial Vehicle (about 68.51% Shaanxi Automobile Group), component JVs Hande Axle and Xi'an Cummins, and the HK-listed Deewin Tianxia (2418.HK) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a><a href=\"https://www.cnfin.com/stock-xh08/a/20130907/1244537.shtml\">[s30]</a>. The group itself is not listed; its holding company is 51%-owned by the Shaanxi Provincial SASAC and 49% by Chang'an Huitong <a href=\"https://www.sxqc.com/uploadfiles/2022/11/202211210950405040.pdf\">[s10]</a>.</p><p>In 2025 the group sold 184,009 heavy trucks, third in China by CAAM data, and more than 200,000 vehicles in total (+22.1%) <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a><a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>. Born of the military, Shaanxi Auto has developed China's first, second and third generations of heavy military off-road trucks and reports developing China's first LNG heavy truck <a href=\"https://sxgz.shaanxi.gov.cn/sy/gzyj/202004/t20200427_2456866.html\">[s7]</a><a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>.</p>",
+      "zh": "<p>陕汽集团（SHACMAN）是我国西北地区大型重型汽车制造企业，也是我国大型全系列商用车制造企业之一，前身是 1968 年在「三线建设」背景下于宝鸡岐山麦李西沟创建的陕西汽车制造厂，总部位于西安 <a href=\"https://sxgz.shaanxi.gov.cn/sy/gzyj/202004/t20200427_2456866.html\">[s7]</a><a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>。集团现有员工约 2.5 万人，品牌价值 631.76 亿元；关于资产总额，官网「企业概况」页为 920 亿元、「集团简介」页为 926.7 亿元，两页数字略有出入，中国企业 500 强排名两页也分别为第 395 位与第 373 位 <a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a><a href=\"https://www.sxqc.com/?36.html\">[s2]</a>。业务覆盖重、中、轻型卡车、客车与专用车，并延伸至车桥、发动机等关键零部件及商用车后市场服务。</p><p>集团核心重卡主体为陕西重型汽车有限公司（陕重汽），由潍柴动力（000338.SZ / 2338.HK）持股 51%、陕汽集团持股 49%；围绕它还有陕汽商用车（陕汽集团持股约 68.51%）、零部件合资公司汉德车桥与西安康明斯，以及港股上市公司德银天下（2418.HK）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a><a href=\"https://www.cnfin.com/stock-xh08/a/20130907/1244537.shtml\">[s30]</a>。集团本身未上市，其控股公司陕汽控股由陕西省国资委持股 51%、长安汇通有限责任公司持股 49% <a href=\"https://www.sxqc.com/uploadfiles/2022/11/202211210950405040.pdf\">[s10]</a>。</p><p>2025 年集团销售重卡 184,009 辆、位居中国行业第三（中汽协口径），汽车总销量超 20 万辆（+22.1%）<a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a><a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。陕汽因军而生，先后研制我国第一、二、三代重型军用越野车，并称研发出我国首辆 LNG 重卡 <a href=\"https://sxgz.shaanxi.gov.cn/sy/gzyj/202004/t20200427_2456866.html\">[s7]</a><a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>The group runs a 'dual-wheel' model centred on heavy trucks (Shaanxi Heavy Duty Automobile) and Shaanxi Automobile Commercial Vehicle. Heavy trucks are the core: in 2025 the group sold 184,009 heavy trucks (third in China), and per a Huachuang Securities reading of Weichai Power's 2025 annual report, Shaanxi Heavy Duty Automobile's own 2025 sales were about 153,000 units including about 59,000 exports, with revenue of about RMB52.6 billion <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-03-31/doc-inhswxzv9123023.shtml\">[s25]</a>. In 2025 Shaanxi Automobile Commercial Vehicle's vehicle sales rose 15%, new-energy vehicles 66% and exports 104% year on year; its absolute sales volume is not disclosed <a href=\"https://gxj.baoji.gov.cn/col3954/col3963/202601/t20260114_1240352.html\">[s19]</a>. Components (Hande Axle, Xi'an Cummins, Zhide Electric Control) and aftermarket services (Deewin Tianxia) complement the vehicle business <a href=\"https://www.hdcq.com/gyhd.asp\">[s11]</a><a href=\"https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html\">[s16]</a>. The HK-listed Deewin Tianxia (2418.HK) recorded H1 2026 revenue of RMB1.435 billion (+26.2%) with net profit of RMB33.9 million (-63.0%), and 2025 full-year revenue of RMB2.762 billion (+5.1%) <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802835_c.pdf\">[s37]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704545_c.pdf\">[s36]</a>.</p><h3>Technology and platforms</h3><p>The group's flagship is the Delong X6000 high-end platform, launched on 11 November 2020 after a decade of forward development <a href=\"https://www.shaanxi.gov.cn/xw/ztzl/zxzt/qcy/mtgz/202209/t20220907_2250486.html\">[s31]</a>. Its new-energy routes span pure-electric, hybrid and hydrogen fuel-cell; it reports developing China's first LNG heavy truck, holding 1,170 new-energy and intelligent-connectivity patents, and holding the country's first heavy-truck autonomous-driving test licence <a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>. Per Shaanxi Daily, the group has put 'full-scenario L2 combination driving assistance and closed-scenario L4 autonomous-driving technology into mass production', and is the first company in China to pass the MIIT's 'information security + software upgrade' dual-standard review; in H1 2026 Hande Axle's electric-drive axle sales rose 45% with over 70% market share, and Zhide Electric Control sold nearly 10,000 e-drive systems <a href=\"https://www.sxqc.com/news/medianews-detail-157724.htm\">[s5]</a>.</p><h3>Manufacturing and capacity</h3><p>The group builds heavy trucks and new-energy vehicles in Xi'an's Jingwei Industrial Park; one final-assembly line can assemble more than ten models at once, daily output was raised from 500 to 625 vehicles in 2025, and 13,700 vehicles rolled off the line in January alone, a record <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>. Per Huashang Daily, one new-energy heavy truck leaves the line every 4.8 minutes on average, and new-energy model orders across the group exceeded 27,000 units in 2025 <a href=\"https://ehsb.hspress.net/shtml/hsb/20261020/738777.shtml\">[s24]</a>. Shaanxi Automobile Commercial Vehicle's full-series commercial-vehicle industrial park in Caijiapo, Baoji covers 2,000 mu with first-phase investment of about RMB1.5 billion and began production in December 2019 (a widely cited '20万辆产能、总投资45.76亿元' figure could not be traced to any disclosed source and is not used here) <a href=\"https://www.cntplus.com/truck/91731.html\">[s28]</a>. Hande Axle runs four production bases (Xi'an, Baoji, Zhuzhou, Tongchuan) with annual capacity of 1.5 million axle assemblies <a href=\"https://www.hdcq.com/gyhd.asp\">[s11]</a>.</p><h3>Domestic market position</h3><p>In 2025 Shaanxi Auto sold 184,009 heavy trucks, third in China (CAAM), behind Sinotruk (304,857) and FAW Jiefang (215,526), ahead of Dongfeng (181,459) and Foton (142,185), in a market of 1.1449 million units <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a>. At its December 2025 business conference the company said 2025 group industrial output value was expected to be RMB86.8 billion (+3%), and that Shaanxi Heavy Duty's domestic civilian sales were expected at 88,000 units (+60%) with orders exceeding 94,000 (+64%) <a href=\"https://cv.ce.cn/news/202512/t20251211_2636845.shtml\">[s35]</a><a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>.</p><h3>Overseas business</h3><p>On overseas network figures two sets of numbers coexist. The company-profile page lists 40 overseas marketing areas, more than 200 first-tier overseas dealers, more than 390 overseas service outlets and more than 160 overseas parts outlets, covering more than 150 countries and regions with KD assembly plants in 19 countries <a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>; a media account (Asia-Pacific Times) reports 41 overseas marketing areas, more than 200 first-tier distributors, more than 600 overseas service outlets and more than 180 parts channels across more than 160 countries and regions <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>. Exports account for about 20% of China's heavy-truck exports, and Shaanxi Auto holds over 40% share in Central Asia <a href=\"https://xetdz.xa.gov.cn/xwzx/jkdt/2087712118894878722.html\">[s22]</a>. The first export was 13 Yan'an-brand off-road trucks in 1988; cumulative exports have since exceeded 360,000 units <a href=\"https://www.sxqc.com/news/carnews-detail-1516.htm\">[s26]</a>.</p><h3>New-energy development</h3><p>Shaanxi Auto says it began new-energy R&D in 1999, developed China's first single-fuel CNG heavy truck in 2005, the world's first self-pressurised LNG heavy truck in 2008, and China's first national-IV dual-fuel heavy truck in 2014 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>. New-energy heavy-truck sales rose from about 210 units in 2021 to 773 (2022), 3,103 (2023), 6,900 (2024) and 26,000 (2025, +280%, second-fastest in China), accounting for about 10% of the domestic new-energy heavy-truck market; group new-energy vehicle sales rose 172.5% in 2025 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>.</p>",
+      "zh": "<h3>业务结构</h3><p>集团以重卡（陕重汽）与陕汽商用车「双轮驱动」。重卡是核心：2025 年集团重卡销量 184,009 辆（行业第三）；据华创证券对潍柴动力 2025 年报的解读，陕重汽自身 2025 年重卡销量约 15.3 万辆、其中出口约 5.9 万辆，营收约 526 亿元 <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-03-31/doc-inhswxzv9123023.shtml\">[s25]</a>。陕汽商用车 2025 年整车销量同比增长 15%、新能源车增长 66%、出口增长 104%，绝对销量未披露 <a href=\"https://gxj.baoji.gov.cn/col3954/col3963/202601/t20260114_1240352.html\">[s19]</a>。零部件（汉德车桥、西安康明斯、智德电控）与后市场服务（德银天下）与整车业务协同 <a href=\"https://www.hdcq.com/gyhd.asp\">[s11]</a><a href=\"https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html\">[s16]</a>。港股上市的德银天下（2418.HK）2026 年上半年收入 14.35 亿元（+26.2%）、净利润 3390 万元（-63.0%），2025 全年收入 27.62 亿元（+5.1%）<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802835_c.pdf\">[s37]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704545_c.pdf\">[s36]</a>。</p><h3>技术与平台</h3><p>集团旗舰为 2020 年 11 月 11 日发布、历时十年正向研发的德龙 X6000 高端平台 <a href=\"https://www.shaanxi.gov.cn/xw/ztzl/zxzt/qcy/mtgz/202209/t20220907_2250486.html\">[s31]</a>。新能源布局纯电、混动、氢燃料三条路线，称研发了我国首辆 LNG 重卡，拥有 1170 项新能源与智能网联专利，并持有国内第一张重卡自动驾驶测试牌照 <a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>。据陕西日报，集团实现「全场景 L2 级组合驾驶辅助、封闭场景 L4 级自动驾驶技术量产」，并成为国内首家通过工信部「信息安全+软件升级」双重标准审查的企业；2026 年上半年汉德车桥电驱桥销量增长 45%、市占率超 70%，智德电控电驱系统销售近万套 <a href=\"https://www.sxqc.com/news/medianews-detail-157724.htm\">[s5]</a>。</p><h3>制造与产能</h3><p>集团在西安经开区泾渭工业园布局重卡与新能源制造；总装线可同时装配十多款车型，2025 年日产量由 500 辆提升至 625 辆，1 月单月下线 1.37 万辆创历史新高 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。据华商报，新能源智能工厂平均每 4.8 分钟下线一辆新能源重卡，2025 年新能源车型全系列接单突破 2.7 万辆 <a href=\"https://ehsb.hspress.net/shtml/hsb/20261020/738777.shtml\">[s24]</a>。陕汽商用车在宝鸡蔡家坡建设的全系列商用车产业园总占地 2000 亩、一期累计投资约 15 亿元，2019 年 12 月投产（此前流传的「规划总产能 20 万辆、总投资 45.76 亿元」未能查到公开出处，本文不采用）<a href=\"https://www.cntplus.com/truck/91731.html\">[s28]</a>。汉德车桥在西安、宝鸡、株洲、铜川布局四大基地，具备年产各类桥总成 150 万根能力 <a href=\"https://www.hdcq.com/gyhd.asp\">[s11]</a>。</p><h3>国内市场地位</h3><p>2025 年陕汽销售重卡 184,009 辆、位居行业第三（中汽协），排在中国重汽（304,857 辆）、一汽解放（215,526 辆）之后，东风汽车（181,459 辆）、福田汽车（142,185 辆）之前，全年重卡市场总量 114.49 万辆 <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a>。商务年会上披露 2025 年集团工业总产值预计 868 亿元（+3%），陕重汽国内民品预计销售 8.8 万辆（+60%）、订单突破 9.4 万辆（+64%）<a href=\"https://cv.ce.cn/news/202512/t20251211_2636845.shtml\">[s35]</a><a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>。</p><h3>海外业务</h3><p>海外网络数字存在两套口径。官网「企业概况」页称设 40 个海外营销区、200 余家海外一级经销商、390 余家海外服务网点、160 余家海外配件网点，产品覆盖 150 多个国家和地区、在 19 个国家建立散件组装厂 <a href=\"https://www.sxqc.com/jtjj/index_13.aspx\">[s1]</a>；媒体（亚太时报）报道为全球 41 个海外营销区、200 多家一级转销商、600 多个海外服务网点、180 多个配件渠道，覆盖 160 多个国家和地区 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。陕汽出口量约占全国重卡出口总量的 20%，在中亚市场占有率超 40% <a href=\"https://xetdz.xa.gov.cn/xwzx/jkdt/2087712118894878722.html\">[s22]</a>。1988 年 13 辆延安牌越野车首次出口，累计出口已超 36 万辆 <a href=\"https://www.sxqc.com/news/carnews-detail-1516.htm\">[s26]</a>。</p><h3>新能源发展</h3><p>陕汽称 1999 年在国内率先尝试新能源汽车技术研发，2005 年研发国内首款单一燃料压缩天然气（CNG）重卡，2008 年研发世界首辆自增压液化天然气（LNG）重卡，2014 年推出国内首家国四双燃料重卡 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。新能源重卡销量由 2021 年约 210 辆，增至 2022 年 773 辆、2023 年 3103 辆、2024 年 6900 辆、2025 年 2.6 万辆（+280%、增速全国第二），占国内新能源重卡市场约 10%；2025 年集团新能源车销量同比增长 172.5% <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Key management</h3><ul><li><strong>Liu Yi (刘义)</strong>, chairman and party secretary of Shaanxi Automobile Holding Group, appointed on 22 January 2026. Born in December 1978, he holds a master's degree in engineering and is a professor-level senior engineer. He previously served as executive deputy general manager and then general manager of Shaanxi Fast Gear Co., Ltd., and general manager of Shaanxi Fast Auto Drive Group; he is now also vice-chairman of Shaanxi Heavy Duty Automobile Co., Ltd., and in July 2026 was nominated by Weichai Power's board as an executive director <a href=\"https://www.shaanxi.gov.cn/zfxxgk/zfgb/2026/d3q/202604/t20260424_3632781.html\">[s6]</a><a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=836413564753\">[s18]</a>.</li><li><strong>Zhou Xiangqiang (周相强)</strong>, deputy party secretary and general manager of Shaanxi Automobile Holding Group (appointment date not publicly disclosed) <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>.</li><li><strong>Zhi Baojing (支保京)</strong>, general manager of Shaanxi Heavy Duty Automobile Co., Ltd. (appointment date not publicly disclosed) <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>.</li><li><strong>Yuan Hongming (袁宏明)</strong>, former chairman of Shaanxi Automobile Holding Group, removed from his chairman and director posts by the Shaanxi provincial government on 22 January 2026; he had attended the December 2025 business conference as chairman <a href=\"https://www.shaanxi.gov.cn/zfxxgk/zfgb/2026/d3q/202604/t20260424_3632781.html\">[s6]</a><a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>.</li></ul><h3>Ownership and governance</h3><p>Shaanxi Automobile Holding Group is 51%-owned by the Shaanxi Provincial SASAC and 49% by Chang'an Huitong Co., Ltd. (a Shaanxi state-owned investment firm), and was registered on 20 August 2012 <a href=\"https://www.sxqc.com/uploadfiles/2022/11/202211210950405040.pdf\">[s10]</a>. Shaanxi Automobile Holding Group holds about 67.06% of Shaanxi Automobile Group Co., Ltd., which in turn holds 49% of Shaanxi Heavy Duty Automobile and about 68.51% of Shaanxi Automobile Commercial Vehicle; Weichai Power holds 51% of Shaanxi Heavy Duty Automobile <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a>. Deewin Tianxia (2418.HK) is controlled by Shaanxi Automobile Group <a href=\"https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html\">[s16]</a>. As the group is unlisted, no annual report or announcement identifies an actual controller, so only shareholding percentages are stated here.</p>",
+      "zh": "<h3>核心管理层</h3><ul><li><strong>刘义</strong>，陕汽控股党委书记、董事长，2026 年 1 月 22 日就任。1978 年 12 月生，工学硕士、正高级工程师；此前历任陕西法士特齿轮有限责任公司常务副总经理、总经理，陕西法士特汽车传动集团有限责任公司总经理；现任陕重汽副董事长，2026 年 7 月获潍柴动力董事会提名为执行董事 <a href=\"https://www.shaanxi.gov.cn/zfxxgk/zfgb/2026/d3q/202604/t20260424_3632781.html\">[s6]</a><a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=836413564753\">[s18]</a>。</li><li><strong>周相强</strong>，陕汽控股党委副书记、总经理（上任日期未公开披露） <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>。</li><li><strong>支保京</strong>，陕重汽总经理（上任日期未公开披露） <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>。</li><li><strong>袁宏明</strong>，陕汽控股原董事长，2026 年 1 月 22 日被陕西省人民政府免去董事长、董事职务；此前于 2025 年 12 月 10 日仍以董事长身份出席商务年会 <a href=\"https://www.shaanxi.gov.cn/zfxxgk/zfgb/2026/d3q/202604/t20260424_3632781.html\">[s6]</a><a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>。</li></ul><h3>股权与治理</h3><p>陕汽控股由陕西省国资委持股 51%、长安汇通有限责任公司（陕西省属国有投资平台）持股 49%，于 2012 年 8 月 20 日注册 <a href=\"https://www.sxqc.com/uploadfiles/2022/11/202211210950405040.pdf\">[s10]</a>。陕汽控股持有陕汽集团（股份）约 67.06% 股权，陕汽集团再持有陕重汽 49%、陕汽商用车约 68.51%；潍柴动力持有陕重汽 51% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a>。德银天下（2418.HK）由陕汽集团控股 <a href=\"https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html\">[s16]</a>。因集团未上市、无年报或公告对「实际控制人」的明确认定，此处仅列示持股比例。</p>"
+    },
+    "competition": {
+      "en": "<h3>Comparison scope</h3><p>Our assessment: in heavy trucks Shaanxi Auto should be compared with Sinotruk, FAW Jiefang, Dongfeng Commercial Vehicle and Foton, distinguishing domestic sales, exports and new-energy products. By 2025 CAAM data, Sinotruk sold 304,857 heavy trucks (first), FAW Jiefang 215,526 (second), Shaanxi Auto 184,009 (third), Dongfeng 181,459 (fourth) and Foton 142,185 (fifth); in a 1.1449-million-unit market Shaanxi Auto's share was about 16% <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a>.</p><h3>Our assessment: strengths and weaknesses</h3><p>Our assessment: export scale and a military-off-road heritage are structural advantages. Evidence includes exports at about 20% of China's heavy-truck exports, over 40% share in Central Asia, coverage of more than 160 markets and KD plants in 19 countries <a href=\"https://xetdz.xa.gov.cn/xwzx/jkdt/2087712118894878722.html\">[s22]</a><a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>. New-energy momentum is a second strength: 26,000 new-energy heavy trucks sold in 2025 (+280%) and H1 2026 new-energy growth of 39.2% <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a><a href=\"https://www.sxqc.com/news/news-detail-156750.htm\">[s4]</a>.</p><p>Our assessment: a structural weakness is that its core heavy-truck asset is not wholly owned - Weichai Power holds 51% of Shaanxi Heavy Duty Automobile, which constrains the group's own capital-market plans; Shaanxi Automobile Group's A-share IPO has not completed and is reported to bypass the heavy-truck asset <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a><a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>. Whether scale and new-energy growth translate into durable profitability still needs to be tested segment by segment.</p>",
+      "zh": "<h3>比较范围</h3><p>我们的判断：重卡业务宜与中国重汽、一汽解放、东风商用车、福田汽车比较，并区分国内、出口与新能源产品。按中汽协数据，2025 年中国重汽销售重卡 304,857 辆（第一）、一汽解放 215,526 辆（第二）、陕汽 184,009 辆（第三）、东风 181,459 辆（第四）、福田 142,185 辆（第五）；以全年重卡市场 114.49 万辆计算，陕汽份额约 16% <a href=\"https://cv.ce.cn/news/202601/t20260121_2717864.shtml\">[s14]</a>。</p><h3>我们的判断：优势与短板</h3><p>我们的判断：出口规模与军工越野基因是其结构性优势，依据是出口约占全国重卡出口 20%、中亚市占率超 40%、覆盖 160 多个市场、在 19 国建散件组装厂 <a href=\"https://xetdz.xa.gov.cn/xwzx/jkdt/2087712118894878722.html\">[s22]</a><a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。新能源动能是另一优势：2025 年新能源重卡 2.6 万辆（+280%）、2026 年上半年新能源 +39.2% <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a><a href=\"https://www.sxqc.com/news/news-detail-156750.htm\">[s4]</a>。</p><p>我们的判断：结构性短板在于核心重卡资产并非全资持有——潍柴动力持有陕重汽 51% 股权，制约集团自身的资本运作；陕汽集团 A 股 IPO 尚未完成，且被报道绕开重卡资产 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a><a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>。规模与新能源增速能否转化为持续盈利，仍需分板块验证。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets and plans</h3><p>At its December 2025 business conference the company set a '15th Five-Year Plan' goal of staying in the heavy-truck industry's top three by 2030 with full commercialisation of intelligent driving <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>. For 2026, Shaanxi Heavy Duty Automobile's domestic civilian sales target is 100,000 units, comprising diesel 32,000, natural-gas 28,000 and new-energy 40,000 (new-energy about 40%) - note this is a domestic civilian target, not the group's total heavy-truck volume <a href=\"https://finance.sina.com.cn/roll/2025-12-11/doc-inhakwap8312318.shtml\">[s27]</a>. The '2035 Strategy', released on 28 February 2018, aims for an internationally leading full-series commercial-vehicle business <a href=\"https://www.workercn.cn/papers/grrb/2018/03/07/7/news-7.html\">[s34]</a>. Media report that Proton Motors has considered a Hong Kong IPO of about USD200 million <a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>. These are plans and reports, not completed outcomes.</p><h3>Our analysis</h3><p>Our assessment: exports and new energy are the most concrete growth levers, supported by H1 2026 export growth of 34.2% and new-energy growth of 39.2% <a href=\"https://www.sxqc.com/news/news-detail-156750.htm\">[s4]</a>. Whether these convert into profit depends on export collections, localised service costs and product margins. The unresolved IPO path and the 51%-Weichai structure of the heavy-truck asset mean the group's capitalisation progress depends on moves outside its core asset, so actual progress should be tracked against announcements rather than plans <a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>.</p>",
+      "zh": "<h3>公司目标与规划</h3><p>公司在 2025 年 12 月商务年会上确立「十五五」到 2030 年稳居重卡行业前三、推动智驾全面商业化的目标 <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>。2026 年陕重汽国内民品销量目标为冲刺 10 万辆，其中柴油 3.2 万辆、天然气 2.8 万辆、新能源 4 万辆（新能源占比约 40%）——需注意这是国内民品目标，而非集团重卡总销量 <a href=\"https://finance.sina.com.cn/roll/2025-12-11/doc-inhakwap8312318.shtml\">[s27]</a>。2018 年 2 月 28 日发布的「2035 战略」提出全系列商用车业务达到国际领先水平 <a href=\"https://www.workercn.cn/papers/grrb/2018/03/07/7/news-7.html\">[s34]</a>。媒体称质子汽车曾考虑赴港上市、计划募资约 2 亿美元 <a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>。以上为公司计划与媒体报道，不代表已经完成。</p><h3>我们的分析</h3><p>我们的判断：出口与新能源是最具体的增长抓手，依据是 2026 年上半年出口 +34.2%、新能源 +39.2% <a href=\"https://www.sxqc.com/news/news-detail-156750.htm\">[s4]</a>。但销量能否转化为利润，取决于出口回款、本地化服务成本与产品毛利。集团 IPO 路径未明、重卡资产由潍柴控股 51% 的结构，意味着其资本化进展依赖核心资产之外的布局，实际进展应以公告而非规划为准 <a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Ownership structure of the core asset:</strong> Weichai Power holds 51% of Shaanxi Heavy Duty Automobile, so the group's most important asset is consolidated by a peer headquartered in Shandong (Weichai Power, listed 000338.SZ / 2338.HK) rather than by Shaanxi Auto itself; Shaanxi Automobile Group's IPO has not completed <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a><a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>.</li><li><strong>Heavy-truck cyclicality:</strong> the business is exposed to the heavy-truck market cycle; the company's own framing emphasises counter-cyclical structural adjustment, and results depend on domestic demand recovery <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>.</li><li><strong>Related-party dependence:</strong> Deewin Tianxia (2418.HK) is deeply tied to the Shaanxi Auto system: in 2025 its logistics &amp; supply-chain segment contributed RMB2.057 billion, 74.5% of revenue, with customers concentrated across the commercial-vehicle industry chain <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704545_c.pdf\">[s36]</a>. China Securities Journal reported in December 2025 that revenue from Shaanxi Automobile Group and related parties reached RMB1.635 billion, or 62.2% of 2024 revenue, a customer-concentration risk for the listed service arm <a href=\"https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html\">[s16]</a>.</li><li><strong>New-energy competition and transition costs:</strong> the new-energy heavy-truck market is crowded, and sustained new-energy growth requires continued R&D and service-network investment; the profitability of the new-energy portfolio is not separately disclosed <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>.</li><li><strong>Overseas exposure:</strong> large export volumes create exposure to foreign demand, localisation costs and policy changes in overseas markets <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>.</li></ul>",
+      "zh": "<ul><li><strong>核心资产股权结构：</strong>潍柴动力持有陕重汽 51% 股权，集团最重要的资产由总部位于山东的上市公司潍柴动力（000338.SZ / 2338.HK）并表，而非陕汽自身；陕汽集团 IPO 尚未完成 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf\">[s8]</a><a href=\"https://m.nbd.com.cn/articles/2025-07-25/3958247.html\">[s17]</a>。</li><li><strong>重卡周期波动：</strong>业务受重卡市场周期影响，公司自身亦强调逆周期调结构，业绩取决于内需复苏 <a href=\"https://www.sxqc.com/news/news-detail-149264.htm\">[s3]</a>。</li><li><strong>关联方依赖：</strong>德银天下（2418.HK）业务深度绑定陕汽体系：2025 年其物流及供应链服务板块收入 20.57 亿元、占总收入 74.5%，客户集中于商用车产业链 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704545_c.pdf\">[s36]</a>；据中国证券报 2025 年 12 月报道，其 2024 年来自陕汽集团及关联方的收入达 16.35 亿元、占营收 62.2%，构成上市服务子公司的客户集中风险 <a href=\"https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html\">[s16]</a>。</li><li><strong>新能源竞争与转型成本：</strong>新能源重卡市场竞争激烈，新能源高速增长需持续投入研发与服务网络，其盈利性未单独披露 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。</li><li><strong>海外风险：</strong>出口规模大，面临海外需求、本地化成本与政策变动风险 <a href=\"https://www.hkna.com/c/2026/0211/10119.shtml\">[s15]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "陕汽控股官网·企业概况（页面未标发布日期，日期为查阅日）",
+      "url": "https://www.sxqc.com/jtjj/index_13.aspx",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "陕汽控股官网·集团简介（页面未标发布日期，日期为查阅日）",
+      "url": "https://www.sxqc.com/?36.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "陕汽控股·陕重汽2026商务年会新闻稿",
+      "url": "https://www.sxqc.com/news/news-detail-149264.htm",
+      "date": "2026-01-04",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "陕汽控股·2026上半年生产经营「双过半」新闻稿",
+      "url": "https://www.sxqc.com/news/news-detail-156750.htm",
+      "date": "2026-07-15",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "陕西日报（经陕汽控股官网转载）·强创新提质效 优结构拓市场",
+      "url": "https://www.sxqc.com/news/medianews-detail-157724.htm",
+      "date": "2026-08-18",
+      "tier": "B"
+    },
+    {
+      "id": "s6",
+      "name": "陕西省人民政府·人事任免（免袁宏明、任刘义为陕汽控股董事长）",
+      "url": "https://www.shaanxi.gov.cn/zfxxgk/zfgb/2026/d3q/202604/t20260424_3632781.html",
+      "date": "2026-04-24",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "陕西省国资委·陕汽改革发展历程",
+      "url": "https://sxgz.shaanxi.gov.cn/sy/gzyj/202004/t20200427_2456866.html",
+      "date": "2020-04-27",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "德银天下 2026 年中期报告（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300501_c.pdf",
+      "date": "2026-09-23",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "德银天下 2022 年中期报告（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0929/2022092900012_c.pdf",
+      "date": "2022-09-29",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "陕西汽车控股集团有限公司企业信用信息（官网PDF）",
+      "url": "https://www.sxqc.com/uploadfiles/2022/11/202211210950405040.pdf",
+      "date": "2022-11-21",
+      "tier": "A"
+    },
+    {
+      "id": "s11",
+      "name": "汉德车桥官网·企业简介（页面未标发布日期，日期为查阅日）",
+      "url": "https://www.hdcq.com/gyhd.asp",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s12",
+      "name": "西安康明斯官网·关于我们（页面未标发布日期，日期为查阅日）",
+      "url": "https://www.xcec.com.cn/",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s13",
+      "name": "央视财经·「英雄战车」延安250型越野汽车（页面未标发布日期，日期为查阅日）",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2657339245&idx=2&sn=8cba71877c4598abc627b72f5bcaf582&chksm=bcb8cf647ad60369c981f2b27f712d12bb7e8f0ccd2f0732ba227d2ae98375875c089fc8bd8d",
+      "date": "2026-10-29",
+      "tier": "B"
+    },
+    {
+      "id": "s14",
+      "name": "中国经济网·2025重卡销量超百万 大增27%（中汽协数据）",
+      "url": "https://cv.ce.cn/news/202601/t20260121_2717864.shtml",
+      "date": "2026-01-21",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "亚太时报·重卡「变形」记",
+      "url": "https://www.hkna.com/c/2026/0211/10119.shtml",
+      "date": "2026-02-11",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "中证网·港股商用车服务龙头遭监管警示（德银天下）",
+      "url": "https://cs.com.cn/ssgs/gsxw/202512/t20251205_6526747.html",
+      "date": "2025-12-05",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "每日经济新闻·B轮融资不及预期 质子汽车欲IPO",
+      "url": "https://m.nbd.com.cn/articles/2025-07-25/3958247.html",
+      "date": "2025-07-25",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "潍柴动力2026年第五次临时董事会决议公告（刘义简历，深交所公告经中国金融信息网转载）",
+      "url": "https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=836413564753",
+      "date": "2026-07-04",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "宝鸡市工业和信息化局·去年陕汽商用车销量同比增长15% 出口同比增长104%",
+      "url": "https://gxj.baoji.gov.cn/col3954/col3963/202601/t20260114_1240352.html",
+      "date": "2026-01-14",
+      "tier": "A"
+    },
+    {
+      "id": "s20",
+      "name": "界面新闻·陕西城市观察：宝鸡的「双核」之路",
+      "url": "https://m.jiemian.com/article/15103998.html",
+      "date": "2026-10-29",
+      "tier": "B"
+    },
+    {
+      "id": "s21",
+      "name": "陕西省人民政府（省国资委）·深化改革让陕西国资国企充满动能（德创未来/质子汽车）",
+      "url": "https://www.shaanxi.gov.cn/xw/ldx/bm/202506/t20250627_3536524_wap.html",
+      "date": "2025-06-27",
+      "tier": "A"
+    },
+    {
+      "id": "s22",
+      "name": "西安经济技术开发区·经开汽车产业「链」出半年新高度",
+      "url": "https://xetdz.xa.gov.cn/xwzx/jkdt/2087712118894878722.html",
+      "date": "2026-08-13",
+      "tier": "A"
+    },
+    {
+      "id": "s23",
+      "name": "西部网（陕西广播电视台）·重卡「变形」记",
+      "url": "https://m.cnwest.com/sxxw/a/2026/02/11/23294861.html",
+      "date": "2026-02-11",
+      "tier": "B"
+    },
+    {
+      "id": "s24",
+      "name": "华商报·在「智造」长征路上 跑出重卡产业加速度",
+      "url": "https://ehsb.hspress.net/shtml/hsb/20261020/738777.shtml",
+      "date": "2026-10-20",
+      "tier": "B"
+    },
+    {
+      "id": "s25",
+      "name": "华创证券（经新浪财经转载）·潍柴动力2025年报点评（陕重汽销量/出口/营收数据）",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-03-31/doc-inhswxzv9123023.shtml",
+      "date": "2026-03-31",
+      "tier": "B"
+    },
+    {
+      "id": "s26",
+      "name": "陕西广播电视台（经陕汽官网转载）·从13辆到36万辆 陕汽出口全球靠什么（页面未标发布日期，日期为查阅日）",
+      "url": "https://www.sxqc.com/news/carnews-detail-1516.htm",
+      "date": "2026-10-29",
+      "tier": "B"
+    },
+    {
+      "id": "s27",
+      "name": "新浪财经（商用车新网）·年会季：陕汽重卡2026年冲刺10万辆目标",
+      "url": "https://finance.sina.com.cn/roll/2025-12-11/doc-inhakwap8312318.shtml",
+      "date": "2025-12-11",
+      "tier": "B"
+    },
+    {
+      "id": "s28",
+      "name": "提加商用车网·「陕汽全系列商用车产业园」投产下线",
+      "url": "https://www.cntplus.com/truck/91731.html",
+      "date": "2019-12-31",
+      "tier": "B"
+    },
+    {
+      "id": "s29",
+      "name": "中国内燃机工业网·为何签约玉柴 「新陕汽」打响第一枪",
+      "url": "https://ciceia.org.cn/xinwendongtai/8215.html",
+      "date": "2019-01-28",
+      "tier": "B"
+    },
+    {
+      "id": "s30",
+      "name": "经济观察报（经中国金融信息网转载）·陕汽集团拟借壳上市：潍柴动力决定利润",
+      "url": "https://www.cnfin.com/stock-xh08/a/20130907/1244537.shtml",
+      "date": "2013-09-07",
+      "tier": "B"
+    },
+    {
+      "id": "s31",
+      "name": "陕西省人民政府·创新创造赋能高质量发展（德龙X6000 2020年11月11日上市）",
+      "url": "https://www.shaanxi.gov.cn/xw/ztzl/zxzt/qcy/mtgz/202209/t20220907_2250486.html",
+      "date": "2022-09-07",
+      "tier": "A"
+    },
+    {
+      "id": "s32",
+      "name": "陕汽控股官网·陕汽商用车全球战略合作伙伴大会（延安S700发布）",
+      "url": "https://www.sxqc.com/news/news-detail-5188.htm",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s34",
+      "name": "中工网·陕汽发布「2035战略」打造国际领先的商用车产业",
+      "url": "https://www.workercn.cn/papers/grrb/2018/03/07/7/news-7.html",
+      "date": "2018-03-07",
+      "tier": "B"
+    },
+    {
+      "id": "s35",
+      "name": "中国商用汽车网·销量剑指10万辆 新能源达40% 陕汽重卡2026年商务大会召开",
+      "url": "https://cv.ce.cn/news/202512/t20251211_2636845.shtml",
+      "date": "2025-12-11",
+      "tier": "B"
+    },
+    {
+      "id": "s36",
+      "name": "德银天下 2025 年年度业绩公告（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704545_c.pdf",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s37",
+      "name": "德银天下 2026 年中期业绩公告（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082802835_c.pdf",
+      "date": "2026-08-28",
+      "tier": "A"
+    },
+    {
+      "id": "s38",
+      "name": "东吴证券·潍柴动力（000338）研报（汉德车桥股权结构）",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202609051829064073_1.pdf",
+      "date": "2026-09-05",
+      "tier": "B"
+    },
+    {
+      "id": "s39",
+      "name": "潍柴动力 2025 年年度报告摘要（港交所，含陕重汽2025整车销量15.3万辆、国内9.4万辆、出口5.9万辆）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032603090_c.pdf",
+      "date": "2026-03-26",
+      "tier": "A"
+    }
+  ]
+}

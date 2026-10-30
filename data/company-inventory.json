@@ -1,0 +1,754 @@
+{
+ "_说明": "中国汽车公司与品牌总清单（研究对象清单）。type：group 集团/公司，brand 品牌，jv 合资，commercial 商用车公司，exited 已退出或停摆；parent：所属集团 id（集团本身为 null）；verify：true 表示是否存在、归属、现状需要研究时先核实。已有网站品牌页（js/data.js）的 id 不在这里重复建页，只用于分组。",
+ "groups": [
+  {
+   "id": "byd",
+   "en": "BYD",
+   "zh": "比亚迪"
+  },
+  {
+   "id": "geely",
+   "en": "Geely",
+   "zh": "吉利"
+  },
+  {
+   "id": "chery",
+   "en": "Chery",
+   "zh": "奇瑞"
+  },
+  {
+   "id": "gwm",
+   "en": "Great Wall",
+   "zh": "长城"
+  },
+  {
+   "id": "saic",
+   "en": "SAIC",
+   "zh": "上汽"
+  },
+  {
+   "id": "changan",
+   "en": "Changan",
+   "zh": "长安"
+  },
+  {
+   "id": "gac",
+   "en": "GAC",
+   "zh": "广汽"
+  },
+  {
+   "id": "dongfeng",
+   "en": "Dongfeng",
+   "zh": "东风"
+  },
+  {
+   "id": "faw",
+   "en": "FAW",
+   "zh": "一汽"
+  },
+  {
+   "id": "baic",
+   "en": "BAIC",
+   "zh": "北汽"
+  },
+  {
+   "id": "seres",
+   "en": "Seres",
+   "zh": "赛力斯"
+  },
+  {
+   "id": "jac",
+   "en": "JAC",
+   "zh": "江淮"
+  },
+  {
+   "id": "harmony",
+   "en": "Huawei HIMA",
+   "zh": "华为鸿蒙智行"
+  },
+  {
+   "id": "startups",
+   "en": "New-energy startups",
+   "zh": "新势力"
+  },
+  {
+   "id": "others",
+   "en": "Other automakers",
+   "zh": "其他乘用车企业"
+  },
+  {
+   "id": "commercial",
+   "en": "Commercial vehicles",
+   "zh": "商用车"
+  },
+  {
+   "id": "exited",
+   "en": "Exited or suspended",
+   "zh": "已退出或停摆"
+  }
+ ],
+ "entities": [
+  {
+   "id": "byd",
+   "group": "byd",
+   "type": "group"
+  },
+  {
+   "id": "denza",
+   "group": "byd",
+   "type": "brand"
+  },
+  {
+   "id": "fangchengbao",
+   "group": "byd",
+   "type": "brand"
+  },
+  {
+   "id": "yangwang",
+   "group": "byd",
+   "type": "brand"
+  },
+  {
+   "id": "linghui",
+   "en": "Linghui",
+   "zh": "领汇",
+   "group": "byd",
+   "type": "brand",
+   "verify": true
+  },
+  {
+   "id": "geely",
+   "group": "geely",
+   "type": "group"
+  },
+  {
+   "id": "geely-galaxy",
+   "en": "Geely Galaxy",
+   "zh": "吉利银河",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "zeekr",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "lynkco",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "volvo",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "polestar",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "lotus",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "smart",
+   "en": "smart",
+   "zh": "smart",
+   "group": "geely",
+   "type": "jv"
+  },
+  {
+   "id": "proton",
+   "en": "Proton",
+   "zh": "宝腾",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "livan",
+   "en": "Livan",
+   "zh": "睿蓝",
+   "group": "geely",
+   "type": "brand",
+   "verify": true
+  },
+  {
+   "id": "radar",
+   "en": "Radar",
+   "zh": "雷达",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "farizon",
+   "en": "Farizon",
+   "zh": "远程",
+   "group": "geely",
+   "type": "commercial"
+  },
+  {
+   "id": "levc",
+   "en": "LEVC",
+   "zh": "LEVC",
+   "group": "geely",
+   "type": "brand"
+  },
+  {
+   "id": "chery",
+   "group": "chery",
+   "type": "group"
+  },
+  {
+   "id": "exeed",
+   "group": "chery",
+   "type": "brand"
+  },
+  {
+   "id": "jetour",
+   "en": "Jetour",
+   "zh": "捷途",
+   "group": "chery",
+   "type": "brand"
+  },
+  {
+   "id": "icar",
+   "en": "iCAR",
+   "zh": "iCAR",
+   "group": "chery",
+   "type": "brand"
+  },
+  {
+   "id": "omoda",
+   "group": "chery",
+   "type": "brand"
+  },
+  {
+   "id": "jaecoo",
+   "group": "chery",
+   "type": "brand"
+  },
+  {
+   "id": "luxeed",
+   "en": "Luxeed",
+   "zh": "智界",
+   "group": "chery",
+   "type": "brand"
+  },
+  {
+   "id": "karry",
+   "en": "Karry",
+   "zh": "开瑞",
+   "group": "chery",
+   "type": "brand",
+   "verify": true
+  },
+  {
+   "id": "gwm",
+   "group": "gwm",
+   "type": "group"
+  },
+  {
+   "id": "haval",
+   "group": "gwm",
+   "type": "brand"
+  },
+  {
+   "id": "wey",
+   "group": "gwm",
+   "type": "brand"
+  },
+  {
+   "id": "tank",
+   "group": "gwm",
+   "type": "brand"
+  },
+  {
+   "id": "ora",
+   "group": "gwm",
+   "type": "brand"
+  },
+  {
+   "id": "gwm-pickup",
+   "en": "GWM Pickup",
+   "zh": "长城皮卡",
+   "group": "gwm",
+   "type": "brand"
+  },
+  {
+   "id": "saic",
+   "group": "saic",
+   "type": "group"
+  },
+  {
+   "id": "roewe",
+   "en": "Roewe",
+   "zh": "荣威",
+   "group": "saic",
+   "type": "brand"
+  },
+  {
+   "id": "mg",
+   "group": "saic",
+   "type": "brand"
+  },
+  {
+   "id": "im",
+   "group": "saic",
+   "type": "brand"
+  },
+  {
+   "id": "maxus",
+   "group": "saic",
+   "type": "brand"
+  },
+  {
+   "id": "shangjie",
+   "en": "Shangjie",
+   "zh": "尚界",
+   "group": "saic",
+   "type": "brand",
+   "verify": true
+  },
+  {
+   "id": "sgmw",
+   "en": "SAIC-GM-Wuling (Wuling, Baojun)",
+   "zh": "上汽通用五菱（五菱、宝骏）",
+   "group": "saic",
+   "type": "jv"
+  },
+  {
+   "id": "saic-vw",
+   "en": "SAIC Volkswagen",
+   "zh": "上汽大众",
+   "group": "saic",
+   "type": "jv"
+  },
+  {
+   "id": "saic-gm",
+   "en": "SAIC General Motors",
+   "zh": "上汽通用",
+   "group": "saic",
+   "type": "jv"
+  },
+  {
+   "id": "changan",
+   "group": "changan",
+   "type": "group"
+  },
+  {
+   "id": "deepal",
+   "en": "Deepal",
+   "zh": "深蓝",
+   "group": "changan",
+   "type": "brand"
+  },
+  {
+   "id": "avatr",
+   "en": "Avatr",
+   "zh": "阿维塔",
+   "group": "changan",
+   "type": "brand"
+  },
+  {
+   "id": "qiyuan",
+   "en": "Changan Qiyuan",
+   "zh": "长安启源",
+   "group": "changan",
+   "type": "brand"
+  },
+  {
+   "id": "kaicene",
+   "en": "Kaicene",
+   "zh": "长安凯程",
+   "group": "changan",
+   "type": "brand"
+  },
+  {
+   "id": "changan-ford",
+   "en": "Changan Ford",
+   "zh": "长安福特",
+   "group": "changan",
+   "type": "jv"
+  },
+  {
+   "id": "gac",
+   "group": "gac",
+   "type": "group"
+  },
+  {
+   "id": "trumpchi",
+   "en": "Trumpchi",
+   "zh": "广汽传祺",
+   "group": "gac",
+   "type": "brand"
+  },
+  {
+   "id": "aion",
+   "en": "Aion",
+   "zh": "埃安",
+   "group": "gac",
+   "type": "brand"
+  },
+  {
+   "id": "hyptec",
+   "en": "Hyptec",
+   "zh": "昊铂",
+   "group": "gac",
+   "type": "brand"
+  },
+  {
+   "id": "gac-toyota",
+   "en": "GAC Toyota",
+   "zh": "广汽丰田",
+   "group": "gac",
+   "type": "jv"
+  },
+  {
+   "id": "gac-honda",
+   "en": "GAC Honda",
+   "zh": "广汽本田",
+   "group": "gac",
+   "type": "jv"
+  },
+  {
+   "id": "dongfeng",
+   "group": "dongfeng",
+   "type": "group"
+  },
+  {
+   "id": "voyah",
+   "group": "dongfeng",
+   "type": "brand"
+  },
+  {
+   "id": "mhero",
+   "group": "dongfeng",
+   "type": "brand"
+  },
+  {
+   "id": "yipai",
+   "en": "Dongfeng eπ",
+   "zh": "东风奕派",
+   "group": "dongfeng",
+   "type": "brand"
+  },
+  {
+   "id": "nammi",
+   "en": "Dongfeng Nammi",
+   "zh": "东风纳米",
+   "group": "dongfeng",
+   "type": "brand"
+  },
+  {
+   "id": "forthing",
+   "en": "Forthing",
+   "zh": "东风风行",
+   "group": "dongfeng",
+   "type": "brand"
+  },
+  {
+   "id": "dongfeng-nissan",
+   "en": "Dongfeng Nissan",
+   "zh": "东风日产",
+   "group": "dongfeng",
+   "type": "jv"
+  },
+  {
+   "id": "faw",
+   "group": "faw",
+   "type": "group"
+  },
+  {
+   "id": "hongqi",
+   "en": "Hongqi",
+   "zh": "红旗",
+   "group": "faw",
+   "type": "brand"
+  },
+  {
+   "id": "bestune",
+   "en": "Bestune",
+   "zh": "奔腾",
+   "group": "faw",
+   "type": "brand"
+  },
+  {
+   "id": "faw-vw",
+   "en": "FAW-Volkswagen",
+   "zh": "一汽-大众",
+   "group": "faw",
+   "type": "jv"
+  },
+  {
+   "id": "jiefang",
+   "en": "FAW Jiefang",
+   "zh": "一汽解放",
+   "group": "faw",
+   "type": "commercial"
+  },
+  {
+   "id": "baic",
+   "group": "baic",
+   "type": "group"
+  },
+  {
+   "id": "arcfox",
+   "en": "Arcfox",
+   "zh": "极狐",
+   "group": "baic",
+   "type": "brand"
+  },
+  {
+   "id": "stelato",
+   "en": "Stelato",
+   "zh": "享界",
+   "group": "baic",
+   "type": "brand"
+  },
+  {
+   "id": "beijing-offroad",
+   "en": "BAIC Off-road (Beijing)",
+   "zh": "北京越野",
+   "group": "baic",
+   "type": "brand"
+  },
+  {
+   "id": "foton",
+   "en": "Foton",
+   "zh": "福田汽车",
+   "group": "baic",
+   "type": "commercial"
+  },
+  {
+   "id": "beijing-benz",
+   "en": "Beijing Benz",
+   "zh": "北京奔驰",
+   "group": "baic",
+   "type": "jv"
+  },
+  {
+   "id": "seres",
+   "group": "seres",
+   "type": "group",
+   "en": "Seres",
+   "zh": "赛力斯"
+  },
+  {
+   "id": "aito",
+   "en": "AITO",
+   "zh": "问界",
+   "group": "seres",
+   "type": "brand"
+  },
+  {
+   "id": "jac",
+   "group": "jac",
+   "type": "group",
+   "en": "JAC Motors",
+   "zh": "江淮汽车"
+  },
+  {
+   "id": "maextro",
+   "en": "Maextro",
+   "zh": "尊界",
+   "group": "jac",
+   "type": "brand"
+  },
+  {
+   "id": "huawei-hima",
+   "en": "Huawei HIMA",
+   "zh": "华为鸿蒙智行",
+   "group": "harmony",
+   "type": "group"
+  },
+  {
+   "id": "nio",
+   "group": "startups",
+   "type": "group"
+  },
+  {
+   "id": "onvo",
+   "en": "Onvo",
+   "zh": "乐道",
+   "group": "startups",
+   "type": "brand"
+  },
+  {
+   "id": "firefly",
+   "en": "Firefly",
+   "zh": "萤火虫",
+   "group": "startups",
+   "type": "brand"
+  },
+  {
+   "id": "li",
+   "group": "startups",
+   "type": "group"
+  },
+  {
+   "id": "xpeng",
+   "group": "startups",
+   "type": "group"
+  },
+  {
+   "id": "leapmotor",
+   "group": "startups",
+   "type": "group"
+  },
+  {
+   "id": "xiaomi",
+   "group": "startups",
+   "type": "group"
+  },
+  {
+   "id": "rox",
+   "en": "ROX Motor",
+   "zh": "极石汽车",
+   "group": "startups",
+   "type": "group",
+   "verify": true
+  },
+  {
+   "id": "hycan",
+   "en": "Hycan",
+   "zh": "合创汽车",
+   "group": "startups",
+   "type": "group",
+   "verify": true
+  },
+  {
+   "id": "jmc",
+   "group": "others",
+   "type": "group",
+   "en": "Jiangling Motors",
+   "zh": "江铃汽车"
+  },
+  {
+   "id": "brilliance",
+   "group": "others",
+   "type": "group",
+   "en": "Brilliance Auto",
+   "zh": "华晨汽车"
+  },
+  {
+   "id": "haima",
+   "en": "Haima",
+   "zh": "海马汽车",
+   "group": "others",
+   "type": "group"
+  },
+  {
+   "id": "kaiyi",
+   "en": "Kaiyi",
+   "zh": "凯翼汽车",
+   "group": "others",
+   "type": "group",
+   "verify": true
+  },
+  {
+   "id": "skyworth-auto",
+   "en": "Skyworth Auto",
+   "zh": "创维汽车",
+   "group": "others",
+   "type": "group",
+   "verify": true
+  },
+  {
+   "id": "yuanhang",
+   "en": "Yuanhang",
+   "zh": "远航汽车",
+   "group": "others",
+   "type": "group",
+   "verify": true
+  },
+  {
+   "id": "yutong",
+   "group": "commercial",
+   "type": "commercial",
+   "en": "Yutong",
+   "zh": "宇通客车"
+  },
+  {
+   "id": "sinotruk",
+   "group": "commercial",
+   "type": "commercial",
+   "en": "Sinotruk",
+   "zh": "中国重汽"
+  },
+  {
+   "id": "shacman",
+   "en": "Shacman",
+   "zh": "陕汽集团",
+   "group": "commercial",
+   "type": "commercial"
+  },
+  {
+   "id": "king-long",
+   "en": "King Long",
+   "zh": "金龙汽车",
+   "group": "commercial",
+   "type": "commercial"
+  },
+  {
+   "id": "zhongtong",
+   "en": "Zhongtong Bus",
+   "zh": "中通客车",
+   "group": "commercial",
+   "type": "commercial"
+  },
+  {
+   "id": "dongfeng-commercial",
+   "en": "Dongfeng Commercial Vehicle",
+   "zh": "东风商用车",
+   "group": "commercial",
+   "type": "commercial"
+  },
+  {
+   "id": "hozon",
+   "group": "exited",
+   "type": "exited",
+   "en": "Hozon Auto",
+   "zh": "合众新能源（哪吒）"
+  },
+  {
+   "id": "human-horizons",
+   "group": "exited",
+   "type": "exited",
+   "en": "Human Horizons",
+   "zh": "华人运通（高合）"
+  },
+  {
+   "id": "wm-motor",
+   "en": "WM Motor",
+   "zh": "威马汽车",
+   "group": "exited",
+   "type": "exited"
+  },
+  {
+   "id": "jiyue",
+   "en": "Jiyue",
+   "zh": "极越汽车",
+   "group": "exited",
+   "type": "exited"
+  },
+  {
+   "id": "aiways",
+   "en": "Aiways",
+   "zh": "爱驰汽车",
+   "group": "exited",
+   "type": "exited",
+   "verify": true
+  },
+  {
+   "id": "enovate",
+   "en": "Enovate",
+   "zh": "天际汽车",
+   "group": "exited",
+   "type": "exited",
+   "verify": true
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "sgmw",
+  "name_en": "SAIC-GM-Wuling Automobile Co., Ltd.",
+  "name_zh": "上汽通用五菱汽车股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Predecessor Liuzhou Power Machinery Factory founded 1958; the joint venture was established 18 November 2002 in Liuzhou",
+      "value_zh": "前身柳州动力机械厂成立于 1958 年；合资公司于 2002 年 11 月 18 日在柳州成立",
+      "period": null,
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "label_en": "Joint-venture parties and stakes",
+      "label_zh": "合资方与股比",
+      "value_en": "SAIC Motor 50.1%, GM China 44%, Guangxi Automobile Group 5.9%",
+      "value_zh": "上汽集团 50.1%、通用中国 44%、广西汽车集团 5.9%",
+      "period": null,
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Liuzhou, Guangxi Zhuang Autonomous Region, China",
+      "value_zh": "中国广西壮族自治区柳州市",
+      "period": null,
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Sino-foreign joint venture created under mixed-ownership reform of state-owned enterprises; SAIC Motor holds 50.1% and consolidates it as a subsidiary",
+      "value_zh": "国有企业混合所有制改革中形成的中外合资企业；上汽集团持股 50.1% 并将其纳入合并报表",
+      "period": null,
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; controlling shareholder SAIC Motor is listed on the Shanghai Stock Exchange (600104.SH)",
+      "value_zh": "未单独上市；控股股东上汽集团在上交所上市（600104.SH）",
+      "period": null,
+      "source_ids": ["s5", "s39"]
+    },
+    {
+      "label_en": "Registered capital",
+      "label_zh": "注册资本",
+      "value_en": "RMB 1.668 billion (166,808 ten-thousand yuan, per SAIC Motor 2025 interim report)",
+      "value_zh": "16.68 亿元（166,808 万元，据上汽集团 2025 年半年度报告）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "More than 20,000 (company)",
+      "value_zh": "超过 2 万人（公司口径）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Total sales (2025, company-reported)",
+      "label_zh": "2025 年整体销量（公司口径）",
+      "value_en": "1,635,066 vehicles (up 6.2% year-on-year)",
+      "value_zh": "1,635,066 辆（同比增长 6.2%）",
+      "period": "2025",
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Total sales (2025, SAIC group caliber)",
+      "label_zh": "2025 年销量（上汽集团产销快报口径）",
+      "value_en": "1,615,066 vehicles (up 20.52% year-on-year)",
+      "value_zh": "1,615,066 辆（同比增长 20.52%）",
+      "period": "2025",
+      "source_ids": ["s39"]
+    },
+    {
+      "label_en": "NEV sales (2025)",
+      "label_zh": "2025 年新能源销量",
+      "value_en": "1,000,066 vehicles (up 31.9%), the first year above one million",
+      "value_zh": "1,000,066 辆（同比增长 31.9%），年度首次突破百万",
+      "period": "2025",
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Exports (2025)",
+      "label_zh": "2025 年出口",
+      "value_en": "266,868 units/sets (up 18.6%), a tenth consecutive year of growth",
+      "value_zh": "266,868 台/套（同比增长 18.6%），连续十年保持增长",
+      "period": "2025",
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Net profit (2025)",
+      "label_zh": "2025 年净利润",
+      "value_en": "About RMB 1.53 billion (SGMW net profit disclosed in SAIC Motor 2025 annual report)",
+      "value_zh": "约 15.3 亿元（上汽集团 2025 年年度报告披露的 SGMW 净利润）",
+      "period": "2025",
+      "source_ids": ["s6"]
+    },
+    {
+      "label_en": "Total sales (2024, company-reported)",
+      "label_zh": "2024 年总销量（公司口径）",
+      "value_en": "1,540,077 vehicles",
+      "value_zh": "1,540,077 辆",
+      "period": "2024",
+      "source_ids": ["s14"]
+    },
+    {
+      "label_en": "Cumulative production/sales",
+      "label_zh": "累计产销",
+      "value_en": "Over 31 million vehicles by end-2025; cumulative NEV sales over 3.4 million; cumulative exports over 1.42 million units/sets",
+      "value_zh": "截至 2025 年底累计产销突破 3100 万辆；新能源累计销量超 340 万辆；累计出口超 142 万台/套",
+      "period": "2025",
+      "source_ids": ["s13"]
+    }
+  ],
+  "history": [
+    { "date": "1958", "event_en": "The predecessor Liuzhou Power Machinery Factory is founded, mainly making large marine diesel engines.", "event_zh": "前身柳州动力机械厂成立，主要制造船用大型柴油机。", "source_ids": ["s3", "s28"] },
+    { "date": "1966", "event_en": "The factory is renamed Liuzhou Tractor Factory and turns to tractor production.", "event_zh": "厂名改为柳州拖拉机厂，转型生产拖拉机。", "source_ids": ["s28"] },
+    { "date": "1985-02", "event_en": "Renamed the Liuzhou Micro Vehicle Factory, starting the Wuling micro-vehicle line.", "event_zh": "更名为柳州微型汽车厂，五菱微车序列起步。", "source_ids": ["s28"] },
+    { "date": "1998", "event_en": "Wuling micro-vehicle annual production and sales exceed 100,000 units, topping China's micro-vehicle segment.", "event_zh": "五菱微车年产销突破 10 万台，跃居国内微车行业榜首。", "source_ids": ["s37"] },
+    { "date": "2002-06-04", "event_en": "SAIC, GM China and Liuzhou Wuling sign the three-party cooperation agreement in Nanning, with stakes of 50.1%, 34% and 15.9%.", "event_zh": "上汽、通用中国与柳州五菱在南宁签署三方合作协议，股比 50.1%、34%、15.9%。", "source_ids": ["s31"] },
+    { "date": "2002-11-18", "event_en": "SAIC-GM-Wuling Automobile Co., Ltd. is formally established, China's first Sino-foreign auto JV formed under mixed-ownership reform of state enterprises.", "event_zh": "上汽通用五菱正式挂牌成立，成为国内混合所有制改革中形成的第一家中外合资整车企业。", "source_ids": ["s1", "s3", "s28"] },
+    { "date": "2003-12-08", "event_en": "The Chevrolet Spark (Lechi), SGMW's first passenger-car product, goes on sale.", "event_zh": "雪佛兰 Spark（乐驰）上市，为上汽通用五菱首款乘用车产品。", "source_ids": ["s32"] },
+    { "date": "2009", "event_en": "Wuling Rongguang annual sales reach 294,000 units, helping SGMW become the first Chinese automaker to produce and sell more than one million vehicles a year.", "event_zh": "五菱荣光年销 29.4 万辆，推动上汽通用五菱成为国内首家年度产销突破百万辆的车企。", "source_ids": ["s28"] },
+    { "date": "2010-07-18", "event_en": "SGMW launches the Baojun passenger-car brand, entering the passenger-vehicle market.", "event_zh": "上汽通用五菱发布乘用车自主品牌宝骏，进军乘用车市场。", "source_ids": ["s22", "s28"] },
+    { "date": "2015", "event_en": "Annual sales first exceed two million (about 2.04 million vehicles).", "event_zh": "年销量首次突破 200 万辆（约 204 万辆）。", "source_ids": ["s37"] },
+    { "date": "2015-08-20", "event_en": "Ground-breaking for PT SGMW Motor Indonesia in West Java, its first overseas manufacturing base.", "event_zh": "上汽通用五菱印尼工厂（PT SGMW Motor Indonesia）在西爪哇奠基，为其首个海外制造基地。", "source_ids": ["s23"] },
+    { "date": "2017", "event_en": "Annual sales peak at about 2.15 million vehicles, the historical high.", "event_zh": "年销量达到约 215 万辆的历史巅峰。", "source_ids": ["s37"] },
+    { "date": "2017-07", "event_en": "The Indonesian plant is completed and starts production.", "event_zh": "印尼工厂建成投产。", "source_ids": ["s23"] },
+    { "date": "2018", "event_en": "Annual sales reach about 2.077 million, a 13th consecutive year as China's top-selling single automaker.", "event_zh": "年销量约 207.7 万辆，连续 13 年蝉联国内单一车企销量第一。", "source_ids": ["s28"] },
+    { "date": "2018-11", "event_en": "SGMW and Huawei sign a strategic cooperation agreement on industrial internet, cloud computing and 5G.", "event_zh": "上汽通用五菱与华为签署战略合作协议，开启工业互联网、云计算、5G 等领域合作。", "source_ids": ["s37"] },
+    { "date": "2019-04-11", "event_en": "SGMW launches the 'New Baojun' sub-brand in an upmarket push.", "event_zh": "上汽通用五菱发布「新宝骏」品牌进行向上尝试。", "source_ids": ["s28"] },
+    { "date": "2020-05-25", "event_en": "SGMW unveils the Wuling global silver badge and produces its 22-millionth vehicle, launching its global strategy.", "event_zh": "上汽通用五菱发布五菱全球银标，并下线第 2200 万辆整车，启动全球战略。", "source_ids": ["s22"] },
+    { "date": "2020-07-24", "event_en": "The Wuling Hongguang MINIEV micro EV goes on sale at the Chengdu Motor Show, priced RMB 28,800-38,800, later becoming a best-selling model.", "event_zh": "五菱宏光 MINIEV 微型电动车在成都车展上市，售价 2.88 万-3.88 万元，日后成为爆款。", "source_ids": ["s21"] },
+    { "date": "2022", "event_en": "The Wuling Air EV (right-hand drive) becomes the first locally produced electric model in Indonesia.", "event_zh": "五菱 Air EV（右舵版）成为印尼本土首款量产的电动车型。", "source_ids": ["s23"] },
+    { "date": "2024-01-19", "event_en": "Lü Juncheng succeeds Shen Yang as SGMW general manager.", "event_zh": "吕俊成接替沈阳出任上汽通用五菱总经理。", "source_ids": ["s15"] },
+    { "date": "2025", "event_en": "Annual NEV sales exceed one million units for the first time (1,000,066, up 31.9%).", "event_zh": "新能源年销量首次突破百万辆（1,000,066 辆，同比 +31.9%）。", "source_ids": ["s13"] },
+    { "date": "2025-09", "event_en": "SGMW and Huawei sign a deepened 'three-intelligence' (assisted driving, smart cockpit, smart manufacturing) cooperation agreement.", "event_zh": "上汽通用五菱与华为举行「三智」（辅助驾驶、智能座舱、智能制造）深化合作签约。", "source_ids": ["s38"] },
+    { "date": "2026-04-07", "event_en": "SGMW unveils the premium brand Huajing and opens pre-orders for its first model, the Huajing S.", "event_zh": "上汽通用五菱发布高端品牌华境，并开启首款车型华境 S 盲订。", "source_ids": ["s16", "s18"] },
+    { "date": "2026-05-08", "event_en": "The Huajing S full-size six-seat plug-in hybrid SUV goes on sale, fitted with Huawei's Qiankun assisted driving and HarmonySpace cockpit.", "event_zh": "华境 S 全尺寸大六座插混 SUV 正式上市，全系标配华为乾崑智驾与鸿蒙座舱。", "source_ids": ["s18", "s19"] }
+  ],
+  "brands": [
+    {
+      "name_en": "Wuling",
+      "name_zh": "五菱",
+      "role_en": "SGMW's core brand, split into the classic red badge (commercial vehicles) and the global silver badge (passenger vehicles).",
+      "role_zh": "上汽通用五菱的核心品牌，分为经典红标（商用车）与全球银标（乘用车）两大序列。",
+      "price_band": "Roughly RMB 30,000-150,000 (micro EVs to compact MPVs)",
+      "founded": 1985,
+      "owner_note_en": "The Wuling brand dates to 1985. Since 2020 it runs a two-badge system: the red badge for commercial vehicles and the silver badge for passenger vehicles. Key models include the Hongguang compact MPV, the Hongguang MINIEV micro EV (launched July 2020; cumulative family sales over 1.85 million by end-2025, the top-selling single Chinese-brand pure-electric nameplate) and the Bingo family (cumulative sales over 600,000). In 2025 the Wuling silver badge sold 741,310 vehicles (up 8.8%) and the red badge 577,886, retaining the title of China's top-selling commercial-vehicle line.",
+      "owner_note_zh": "五菱品牌诞生于 1985 年。2020 年起实行「双标」策略：红标对应商用车、银标对应乘用车。主力车型包括五菱宏光紧凑型 MPV、宏光 MINIEV 微型电动车（2020 年 7 月上市，截至 2025 年底家族累计销量突破 185 万辆，为中国品牌纯电市场销量最高的单一车型）、缤果家族（累计超 60 万辆）。2025 年五菱银标销量 741,310 辆（同比 +8.8%），红标销量 577,886 辆，蝉联全国商用车累计销量冠军。",
+      "status": "active",
+      "source_ids": ["s13", "s22", "s28"]
+    },
+    {
+      "name_en": "Baojun",
+      "name_zh": "宝骏",
+      "role_en": "SGMW's passenger-car brand launched in 2010, repositioned around new energy and smart technology.",
+      "role_zh": "上汽通用五菱 2010 年推出的乘用车品牌，近年围绕新能源与智能科技焕新。",
+      "price_band": "Roughly RMB 70,000-190,000",
+      "founded": 2010,
+      "owner_note_en": "Baojun was launched on 18 July 2010 as SGMW's first own passenger-car brand, starting with the Baojun 630 sedan and later the 730 MPV and 560 SUV. In 2019 it added the 'New Baojun' sub-brand to push above RMB 100,000 with limited success. From 2023 it pivoted to new-energy models (Yueye, Yunhai, Xiangjing), but volume remains modest: 49,002 units in 2025 (up 12.3%).",
+      "owner_note_zh": "宝骏于 2010 年 7 月 18 日发布，是上汽通用五菱首个乘用车自主品牌，先后推出宝骏 630 轿车、730 MPV、560 SUV 等车型；2019 年曾推出「新宝骏」品牌上探 10 万元以上市场，但效果有限。2023 年起转向新能源（悦也、云海、享境），但销量规模有限：2025 年全年累计 49,002 辆（同比 +12.3%）。",
+      "status": "active",
+      "source_ids": ["s13", "s16", "s22", "s28"]
+    },
+    {
+      "name_en": "Huajing",
+      "name_zh": "华境",
+      "role_en": "SGMW's new premium brand launched in 2026, with Huawei supplying the intelligent-driving and cockpit systems while SGMW leads product definition.",
+      "role_zh": "上汽通用五菱 2026 年推出的高端新品牌，由华为提供智驾与座舱方案、上汽通用五菱主导产品定义。",
+      "price_band": "RMB 159,800-203,800 (Huajing S guidance price)",
+      "founded": 2026,
+      "owner_note_en": "Huajing is SGMW's new brand launched in 2026. Its first model, the Huajing S, is a full-size six-seat plug-in hybrid SUV (5,235 mm long, 3,105 mm wheelbase) that went on sale on 8 May 2026 with a guidance price of RMB 159,800-203,800 and a trade-in price from RMB 149,800. It is fitted across the range with Huawei Qiankun ADS Pro and HarmonySpace 5. Deliveries exceeded 30,000 units by late September 2026. Huawei has said Huajing is not part of its 'Jing' series (Qijing and Yijing) and is a supplier to SGMW.",
+      "owner_note_zh": "华境是上汽通用五菱 2026 年推出的新品牌。首款车型华境 S 为全尺寸大六座插电混动 SUV（车长 5235mm、轴距 3105mm），2026 年 5 月 8 日上市，官方指导价 15.98 万-20.38 万元、置换价 14.98 万元起，全系标配华为乾崑智驾 ADS Pro 增强版与鸿蒙座舱 HarmonySpace 5。截至 2026 年 9 月底交付突破 3 万台。华为方面曾表示华境不属于华为「境」系列（启境、奕境），华为与五菱为供应商关系。",
+      "status": "active",
+      "source_ids": ["s16", "s18", "s19", "s20"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "hundred million CNY (亿元)",
+    "standard": "PRC GAAP (Chinese Accounting Standards / 中国企业会计准则)",
+    "rows": [
+      { "fiscal_year": 2022, "revenue": 811.38, "gross_margin_pct": null, "net_profit": 14.60, "rnd": null, "source_ids": ["s30"] },
+      { "fiscal_year": 2023, "revenue": 760.09, "gross_margin_pct": null, "net_profit": 9.31, "rnd": null, "source_ids": ["s40"] },
+      { "fiscal_year": 2024, "revenue": 779.34, "gross_margin_pct": null, "net_profit": 10.45, "rnd": null, "source_ids": ["s7"] },
+      { "fiscal_year": 2025, "revenue": 861.00, "gross_margin_pct": null, "net_profit": 15.25, "rnd": null, "source_ids": ["s6"] }
+    ],
+    "note_en": "SAIC-GM-Wuling (SGMW) is not separately listed and publishes no standalone financial statements; its figures are disclosed in the annual reports of SAIC Motor, which holds 50.1% and consolidates SGMW as a subsidiary. 'Revenue' is total operating revenue (营业总收入) and 'net profit' is the net profit SAIC Motor discloses for SGMW in its 'major subsidiaries' table — i.e. SGMW's own net profit attributable to its three shareholders combined (SAIC 50.1%, GM China 44%, Guangxi Automobile Group 5.9%), not SAIC Motor's 50.1% proportionate share. Gross margin and R&D spending are not separately disclosed for SGMW, so those fields are null. Figures are taken from SAIC Motor's 2022 annual report (2022), 2023 annual report (2023), 2024 annual report (2024) and 2025 annual report (2025); the 2025 figures are about RMB 86.1 billion revenue and about RMB 1.53 billion net profit as summarised by media from the annual report. Per SAIC Motor's 2025 interim report, SGMW's H1 2025 total operating revenue was RMB 40.48 billion and net profit RMB 0.576 billion. This page presents only publicly disclosed information and does not constitute any trading recommendation.",
+    "note_zh": "上汽通用五菱（SGMW）未单独上市，不发布独立财务报表；其财务数据在上汽集团（持股 50.1%，将 SGMW 纳入合并报表）年度报告的「主要控股参股公司」表中披露。表中「营收」为营业总收入，「净利润」为上汽集团年报披露的 SGMW 净利润，即 SGMW 对其三家股东（上汽 50.1%、通用中国 44%、广西汽车集团 5.9%）合计的净利润，并非上汽集团按 50.1% 持股享有的份额。毛利率与研发投入未单独披露，故相应字段为 null。2022 年数据取自 2022 年年度报告，2023 年取自 2023 年年度报告，2024 年取自 2024 年年度报告，2025 年取自 2025 年年度报告（2025 年营收约 861 亿元、净利润约 15.3 亿元，经媒体摘要核对）。据上汽集团 2025 年半年度报告，SGMW 2025 年上半年营业总收入 404.82 亿元、净利润 5.76 亿元。本页仅呈现公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>SAIC-GM-Wuling Automobile Co., Ltd. (SGMW, 上汽通用五菱) is a Sino-foreign joint venture established on 18 November 2002 in Liuzhou, Guangxi, by SAIC Motor (50.1%), GM China (44%) and Guangxi Automobile Group (5.9%), with a predecessor tracing to the Liuzhou Power Machinery Factory founded in 1958; it was the first Chinese-foreign auto JV created under China's mixed-ownership reform of state-owned enterprises <a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a><a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>. It produces and sells the homegrown Wuling and Baojun brands and, from 2026, the premium brand Huajing, for which Huawei supplies the intelligent-driving and cockpit systems while SGMW leads product definition <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a><a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a>.</p><p>SGMW is SAIC Motor's largest automaker by volume and makes the Wuling Hongguang MINIEV micro EV, GM's best-selling new-energy nameplate in China <a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a>. In 2025 it reported total sales of 1,635,066 vehicles (up 6.2%) on the company's own count, with new-energy-vehicle (NEV) sales topping one million for the first time (1,000,066, up 31.9%) and exports of 266,868 units/sets (up 18.6%) <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>.</p><p>SGMW has long competed on low price and high volume from a micro-vehicle base under the slogan 'Wuling builds what the people need': it was China's top-selling single automaker for 13 consecutive years through 2018, when volume peaked near 2.077 million, and its historical peak was about 2.15 million in 2017 <a href=\"https://ssw.gxrb.com.cn/html/html5/2019/09/24/201909241249335714.html\">[s28]</a><a href=\"https://news.qq.com/rain/a/20260126A02L1A00\">[s37]</a>. By 2025 annual volume had eased to 1.635 million, and the company is now pushing electrification plus an upmarket move through Huajing <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. Financially it earned about RMB 86.1 billion in revenue and about RMB 1.53 billion in net profit in 2025, or less than RMB 1,000 per vehicle, well below volume rivals such as BYD and Geely — a direct result of its low-priced micro-vehicle base. The Huajing S is also SGMW's first RMB 200,000-class model, seen by the industry as a key step out of the RMB 50,000-100,000 price band toward the RMB 150,000-250,000 segment <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</p>",
+      "zh": "<p>上汽通用五菱汽车股份有限公司（SAIC-GM-Wuling，简称 SGMW）是由上海汽车集团股份有限公司（上汽集团，持股 50.1%）、通用汽车（中国）投资有限公司（44%）和广西汽车集团（5.9%）三方共同组建的整车合资企业，2002 年 11 月 18 日成立于广西柳州，前身可追溯至 1958 年的柳州动力机械厂，是中国国有企业混合所有制改革中形成的第一家中外合资整车企业<a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a><a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>。公司生产销售自主品牌五菱与宝骏，并于 2026 年推出高端品牌华境——由华为提供智驾与座舱方案、上汽通用五菱主导产品定义<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a><a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a>。</p><p>上汽通用五菱是上汽集团体系内销量规模最大的单一整车企业，也是通用汽车在华销量最高的新能源车型——五菱宏光 MINIEV 的生产者<a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a>。2025 年公司口径整体销量 1,635,066 辆（同比 +6.2%），新能源销量首次突破百万（1,000,066 辆，同比 +31.9%），出口 266,868 台/套（同比 +18.6%）<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>。</p><p>公司长期秉持「人民需要什么，五菱就造什么」的理念，以低价走量、微车起家：截至 2018 年连续 13 年蝉联国内单一车企销量第一，当年销量约 207.7 万辆，历史巅峰为 2017 年约 215 万辆<a href=\"https://ssw.gxrb.com.cn/html/html5/2019/09/24/201909241249335714.html\">[s28]</a><a href=\"https://news.qq.com/rain/a/20260126A02L1A00\">[s37]</a>。到 2025 年，年销量回落至 163.5 万辆，公司正通过电动化转型与华境品牌向上寻求突破<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。财务上，公司 2025 年营收约 861 亿元、净利润约 15.3 亿元，单车净利润不足千元，盈利能力低于同为走量的比亚迪、吉利等对手，是其长期以低价微车走量的直接结果。此外，华境 S 是公司首款 20 万元级车型，被业界视为其跳出 5 万-10 万元价格红海、向 15 万-25 万元区间突围的关键一步<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and brands</h3><p>SGMW runs a 'commercial-and-passenger' structure. The Wuling brand splits into a classic red badge (commercial vehicles) and a global silver badge (passenger vehicles); Baojun is the passenger brand repositioned around new energy; and Huajing is the new premium brand <a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a><a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a>. In 2025 the Wuling silver badge sold 741,310 vehicles (up 8.8%) and the red badge 577,886, keeping the title of China's top-selling commercial-vehicle line, while Baojun sold 49,002 (up 12.3%); full-year NEV penetration exceeded 61%, and passenger-vehicle NEV share reached 95% <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>.</p><h3>Products and sales mix</h3><p>The franchise rests on low-priced volume models: the Hongguang compact-MPV family surpassed 4.31 million cumulative units by 2019, and the Hongguang MINIEV micro-EV family passed 1.85 million by end-2025, the top-selling single Chinese-brand pure-electric nameplate <a href=\"https://ssw.gxrb.com.cn/html/html5/2019/09/24/201909241249335714.html\">[s28]</a><a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>. The Hongguang MINIEV went on sale in July 2020 at RMB 28,800-38,800 and repeatedly topped China's NEV model sales chart, earning the 'people's car' label <a href=\"https://m.chinanews.com/wap/detail/cht/zw/9247227.shtml\">[s21]</a>. The Bingo small-EV family passed 600,000 units, and total cumulative production and sales passed 31 million by end-2025, including over 3.4 million NEVs and over 1.42 million exported units/sets <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>. In 2025 the A00-class Hongguang MINIEV family sold about 436,000 units and the A0-class Bingo family about 213,000, together nearly 40% of total volume and 65% of NEV volume <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. The Huajing S is a full-size six-seat plug-in hybrid SUV (5,235 mm long, 3,105 mm wheelbase) fitted with the Magic Battery 3.0 on CATL super range-extender cells and over 1,100 km combined range, sold through 309 Huajing experience centers across 204 cities; it also carries Huawei's iVCS cloud and debuts the Limera in-cabin laser-vision solution <a href=\"https://auto.cfbond.com/2026/05/09/991129889.html\">[s19]</a>.</p><h3>Technology and platforms</h3><p>The company's public technology stack includes the Magic Battery (神炼电池), marketed as a modular battery with 'zero self-ignition' claims and over two million units sold without accidents; Ling Power (灵犀动力), a hybrid and electric-drive system whose engine reaches 43.2% thermal efficiency and whose e-drive motor and e-control reach 96.8% and 98.8% efficiency; and the WFMS (Wonder Flexible Modular System) platform <a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>. On the manufacturing side it uses the 'intelligent island manufacturing system' (I²MS), selected for China's first batch of 'leading-class intelligent factory' cultivation, the only vehicle manufacturer in that batch; the company says it invested more than RMB 10 billion in the system, with AI applied in over 75% of production scenarios. The company says Magic Battery cells are pin-prick-proof, show no abnormality at 180°C and tolerate 40% deformation without fire or explosion <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</p><h3>Plants and capacity</h3><p>SGMW operates four manufacturing bases in China — the Liuzhou Hexi headquarters, the Liuzhou Baojun base, the Qingdao branch and the Chongqing branch — plus about 2,800 sales outlets covering 98% of prefecture-level cities and 79% of county-level cities, which the company calls the industry's largest network <a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>. Its overseas plant, PT SGMW Motor Indonesia in West Java, was grounded in August 2015 and started production in July 2017; it was the first time a Chinese auto brand independently built a plant abroad and exported its brand, products and a full supply chain <a href=\"https://epa.comnews.cn/pc/content/202504/10/content_21872.html\">[s23]</a>.</p><h3>Overseas business</h3><p>SGMW's overseas footprint centres on Indonesia, where PT SGMW Motor Indonesia operates a plant in West Java producing Wuling models for local sale and export; per SAIC Motor's production-and-sales bulletin, the Indonesian operation sold 21,016 vehicles in 2025 <a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/xssj/63726.shtml\">[s39]</a>. The company says its products and services reach 104 countries and regions, and it is pushing an 'Indonesia-Malaysia-Thailand integration' and CKD-style localisation across ASEAN <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>. In 2016 SGMW became the first manufacturing enterprise in Guangxi to exceed RMB 100 billion in annual sales revenue, and it has since accumulated more than RMB 130 billion in profits and taxes <a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>.</p><h3>Recent results and balance sheet</h3><p>For H1 2026 the company sold more than 675,000 vehicles, of which about 327,000 were NEVs (48.6%) and exports exceeded 172,000 units/sets (up 37.3%) <a href=\"https://nginx-lzrm.lzdaily.com.cn/lzrm/epaper/lzrb/pc/content/202607/14/c855233.html\">[s25]</a>. SAIC Motor's 2026 interim report said the Bingo and other main models performed steadily and the Huajing S topped the plug-in-hybrid large-SUV sales chart <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65277.shtml\">[s36]</a>. On the balance sheet, SGMW's asset-liability ratio climbed to 83.66% at end-2025, with net assets of RMB 10.74 billion, up from 82.5% at end-2024 <a href=\"https://finance.china.com/TMT/13004688/20260514/49493869.html\">[s38]</a>. Media report that in the first four months of 2026 SGMW's cumulative sales fell 14.24% year-on-year, with February-April each down double digits <a href=\"https://finance.china.com/TMT/13004688/20260514/49493869.html\">[s38]</a>.</p>",
+      "zh": "<h3>业务结构与品牌</h3><p>上汽通用五菱采取「乘商并举」的业务结构：五菱品牌分为经典红标（商用车）与全球银标（乘用车）两条序列，宝骏为面向新能源焕新的乘用车品牌，华境则是高端新品牌<a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a><a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a>。2025 年五菱银标销量 741,310 辆（同比 +8.8%）、红标 577,886 辆（蝉联全国商用车累计销量冠军）、宝骏 49,002 辆（+12.3%）；全年新能源渗透率超 61%，乘用车新能源占比达 95%<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>。</p><h3>产品与销量结构</h3><p>公司基本盘建立在低价走量车型之上：五菱宏光紧凑型 MPV 家族截至 2019 年累计销量超 431 万辆；宏光 MINIEV 微型电动车家族截至 2025 年底累计突破 185 万辆，为中国品牌纯电市场销量最高的单一车型<a href=\"https://ssw.gxrb.com.cn/html/html5/2019/09/24/201909241249335714.html\">[s28]</a><a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>。宏光 MINIEV 于 2020 年 7 月以 2.88 万-3.88 万元上市，多次蝉联国内新能源单车型销冠，被媒体称为「国民神车」<a href=\"https://m.chinanews.com/wap/detail/cht/zw/9247227.shtml\">[s21]</a>。缤果小型电动车家族累计超 60 万辆；截至 2025 年底公司累计产销突破 3100 万辆，其中新能源累计超 340 万辆、出口累计超 142 万台/套<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>。2025 年 A00 级宏光 MINIEV 家族全年销量约 43.6 万辆、A0 级缤果家族约 21.3 万辆，两者合计贡献公司整体销量的近 40%、新能源销量的 65%<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。华境 S 为全尺寸大六座插混 SUV（车长 5235mm、轴距 3105mm），搭载神炼电池 3.0（宁德时代超级增·混电芯），满油满电续航超 1100km，通过 204 城 309 家华境汽车体验中心销售；华境 S 全系标配华为乾崑车云 HUAWEI iVCS，并首发华为舱内激光视觉方案 Limera<a href=\"https://auto.cfbond.com/2026/05/09/991129889.html\">[s19]</a>。</p><h3>技术与平台</h3><p>公司公开的技术体系包括神炼电池（Magic Battery，主打「零自燃」、宣称累计超 200 万辆无事故的模块化电池）、灵犀动力（Ling Power，混动与电驱系统，混动专用发动机最高热效率 43.2%，电驱电机效率 96.8%、电控效率 98.8%）以及 WFMS 柔性模块化平台<a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>。制造端采用「智能岛制造体系」（I²MS），入选国家首批「领航级智能工厂」培育名单，为该批次唯一整车企业；公司称该体系投资超百亿元，75% 以上生产场景应用 AI。公司称神炼电池电芯针刺不起火、180℃ 高温无异常、40% 变形不起火<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</p><h3>工厂与产能</h3><p>公司拥有柳州河西总部、柳州宝骏基地、青岛分公司、重庆分公司四大生产基地，全国约 2800 家销售网点覆盖 98% 地级市、79% 县级市，公司称网络覆盖为行业最大<a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>。海外工厂为位于印尼西爪哇的 PT SGMW Motor Indonesia，2015 年 8 月奠基、2017 年 7 月投产；这是中国汽车品牌首次独立在海外建厂、输出品牌产品并构建完整产业链的尝试<a href=\"https://epa.comnews.cn/pc/content/202504/10/content_21872.html\">[s23]</a>。</p><h3>海外业务</h3><p>公司海外布局以印尼为核心，PT SGMW Motor Indonesia 在西爪哇设厂，生产五菱车型面向本地销售与出口；据上汽集团产销快报，印尼公司 2025 年销量 21,016 辆<a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/xssj/63726.shtml\">[s39]</a>。公司称其产品与服务覆盖 104 个国家和地区，并推进「印马泰一体化」与东盟多国 CKD 本地化生产<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>。2016 年公司年销售收入突破 1000 亿元，成为广西首家突破千亿的制造企业，此后累计上缴利税超 1300 亿元<a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a>。</p><h3>近期业绩与资产负债</h3><p>2026 年上半年公司汽车总销量超 67.5 万辆，其中新能源汽车约 32.7 万辆（占比 48.6%），出口超 17.2 万台/套（同比 +37.3%）<a href=\"https://nginx-lzrm.lzdaily.com.cn/lzrm/epaper/lzrb/pc/content/202607/14/c855233.html\">[s25]</a>；上汽集团 2026 年半年报称五菱缤果等主力车型表现稳健，华境 S 登顶插电混动大型 SUV 销量榜首<a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65277.shtml\">[s36]</a>。资产负债方面，SGMW 2025 年末资产负债率升至 83.66%（净资产 107.42 亿元），高于 2024 年末的 82.5%<a href=\"https://finance.china.com/TMT/13004688/20260514/49493869.html\">[s38]</a>。媒体援引产销快报称，2026 年前 4 个月公司累计销量同比下滑 14.24%，2 至 4 月单月均同比双位数下滑<a href=\"https://finance.china.com/TMT/13004688/20260514/49493869.html\">[s38]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder and governance</h3><p>As a three-way joint venture, SGMW has no single entrepreneur-founder; it was created by SAIC Motor, General Motors and the Wuling group through the 2002 agreement <a href=\"https://www.chinanews.com.cn/2002-06-05/26/191924.html\">[s31]</a>. Its legal representative is Wang Xiaoqiu, who became SAIC Motor chairman in July 2024 <a href=\"https://m.21jingji.com/timeline/96c7b1d511b71c89046ebb7a11df1c2b.html\">[s26]</a><a href=\"https://auto.ce.cn/auto/gundong/202407/11/t20240711_39066877.shtml\">[s27]</a>.</p><h3>Current management</h3><ul><li><strong>Lü Juncheng (吕俊成)</strong> — general manager since 19 January 2024, succeeding Shen Yang, who had led SGMW as general manager for a long period. Born September 1978, he holds a doctorate in engineering from Wuhan University of Technology and is a professor-level senior engineer; he spent much of his career at SGMW's technical centre, rising to technical-centre general manager; media note that in his first year the company's performance improved markedly <a href=\"https://finance.sina.com.cn/tech/roll/2025-05-19/doc-inexaekc1157660.shtml\">[s15]</a>.</li><li><strong>Han Dehong (韩德鸿)</strong> — deputy general manager, who announced the rollout of the first 158 Huajing experience centers covering 131 cities <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. In September 2026 industry media reported he had succeeded Yao Zuoping as party secretary, though the company issued no formal announcement <a href=\"https://news.qq.com/rain/a/20260916A07EGC00\">[s34]</a>.</li><li><strong>Yao Zuoping (姚佐平)</strong> — party secretary from 2014 to 2026. In September 2026 media reported he moved to general-manager advisor as he reached retirement age <a href=\"https://lu.sgmw.com.cn/portal/details.html?id=56671\">[s11]</a><a href=\"https://news.qq.com/rain/a/20260916A07EGC00\">[s34]</a>.</li><li><strong>Zhao Yifan (赵奕凡)</strong> — deputy general manager, who presented the Huajing S at the January 2026 global partners conference <a href=\"https://lu.sgmw.com.cn/portal/details.html?id=54661\">[s10]</a><a href=\"https://news.qq.com/rain/a/20260126A02L1A00\">[s37]</a>.</li><li><strong>Liu Changye (刘昌业)</strong> — chief technology officer, who introduced the Huajing S supply chain at the April 2026 launch <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</li></ul><h3>Shareholding and governance</h3><p>SAIC Motor holds 50.1%, GM China 44% and Guangxi Automobile Group 5.9%; because SAIC holds a majority, SGMW is consolidated into SAIC Motor's financial statements <a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a><a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf\">[s5]</a>. SGMW does not designate an ultimate controlling shareholder in its public filings; control derives from SAIC Motor's majority stake and voting rights.</p>",
+      "zh": "<h3>创始人与治理</h3><p>作为三方合资企业，上汽通用五菱没有单一民营创始人，由上汽集团、通用汽车与五菱系企业通过 2002 年合资合同共同创立<a href=\"https://www.chinanews.com.cn/2002-06-05/26/191924.html\">[s31]</a>。公司法定代表人为王晓秋（现任上汽集团董事长，2024 年 7 月就任）<a href=\"https://m.21jingji.com/timeline/96c7b1d511b71c89046ebb7a11df1c2b.html\">[s26]</a><a href=\"https://auto.ce.cn/auto/gundong/202407/11/t20240711_39066877.shtml\">[s27]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>吕俊成</strong>——总经理，2024 年 1 月 19 日接替长期担任总经理的沈阳上任。1978 年 9 月出生，武汉理工大学工学博士、正高级工程师，长期任职于上汽通用五菱技术中心并升至技术中心总经理；媒体评价其上任第一年公司业绩明显增长<a href=\"https://finance.sina.com.cn/tech/roll/2025-05-19/doc-inexaekc1157660.shtml\">[s15]</a>。</li><li><strong>韩德鸿</strong>——副总经理，曾公布首批 158 家华境汽车体验中心（覆盖 131 城）<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。2026 年 9 月行业媒体报道其已接替姚佐平出任党委书记，但公司未发布正式公告<a href=\"https://news.qq.com/rain/a/20260916A07EGC00\">[s34]</a>。</li><li><strong>姚佐平</strong>——2014 年至 2026 年任党委书记。2026 年 9 月媒体报道其因到龄转任总经理顾问<a href=\"https://lu.sgmw.com.cn/portal/details.html?id=56671\">[s11]</a><a href=\"https://news.qq.com/rain/a/20260916A07EGC00\">[s34]</a>。</li><li><strong>赵奕凡</strong>——副总经理，2026 年 1 月全球伙伴大会上作华境 S 主题报告<a href=\"https://lu.sgmw.com.cn/portal/details.html?id=54661\">[s10]</a><a href=\"https://news.qq.com/rain/a/20260126A02L1A00\">[s37]</a>。</li><li><strong>刘昌业</strong>——总技术官，2026 年 4 月华境 S 发布会上介绍供应链阵容<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</li></ul><h3>股权与治理</h3><p>公司由上汽集团持股 50.1%、通用汽车（中国）投资持股 44%、广西汽车集团持股 5.9%；因上汽集团持股过半，上汽通用五菱被纳入上汽集团合并报表<a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a><a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf\">[s5]</a>。公司在公开文件中未单独认定实际控制人，控制关系源于上汽集团过半的持股与投票权。</p>"
+    },
+    "competition": {
+      "en": "<p>SGMW competes in China's budget micro/mini-vehicle, commercial-vehicle and economic EV segments against BYD, Geely and Chery, and — through the Huajing S — has entered the large six-seat SUV segment where Li Auto, AITO, Xpeng, NIO and BYD compete <a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a>. That segment is crowded in 2026: media citing the CPCA report the large six-seat SUV market reached 755,000 units in 2025 (up 60.2%) <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. The Huajing S is similar in size to the AITO M9 and the first Dongfeng Yijing SUV, but its RMB 150,000-200,000 price sits well below the RMB 500,000-class M9, targeting price-sensitive buyers; media list its rivals as including the AITO M9, the first Dongfeng Yijing SUV, Leapmotor C16, Geely Galaxy M9 and Chery Fengyun T11; its supplier roster includes CATL range-extender cells, Baosteel high-strength steel and Fuyao glass <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. SGMW's strengths are low-cost manufacturing, a dense distribution network of about 2,800 outlets, and an early overseas footprint in Indonesia and ASEAN <a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a><a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>.</p><p><strong>Our judgment.</strong> SGMW's main weakness is thin profitability: net profit of about RMB 1.53 billion on 1.635 million vehicles in 2025 implies per-vehicle profit below RMB 1,000, versus media-cited figures of about RMB 7,000 for BYD, RMB 5,600 for Geely and RMB 2,200 for SAIC as a whole, because SGMW's volume concentrates in low-priced models <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. Its repeated upmarket attempts have produced limited volume — media report Baojun's RMB 180,000-plus models sell only a few hundred units a month — though the Huajing S reached 30,000 deliveries within about four months <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a><a href=\"https://www.ceh.com.cn/papere/news_231181_579478.Ppt\">[s20]</a>. The A00 segment that anchors its NEV sales is also shrinking: media report its share of the NEV market fell from about 23% in early 2025 to about 9% by March 2026 <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</p>",
+      "zh": "<p>上汽通用五菱在国内微型/经济型乘用车、商用车与入门级电动车市场与比亚迪、吉利、奇瑞等竞争，并借华境 S 进入大型六座 SUV 细分市场，与理想、问界、小鹏、蔚来、比亚迪等展开竞争<a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a>。这一细分市场 2026 年竞争尤为激烈——据媒体援引乘联会数据，2025 年大六座 SUV 细分市场销量达 75.5 万辆、同比增长 60.2%<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。华境 S 尺寸接近问界 M9 与东风奕境首款 SUV，但 15 万-20 万元定价明显低于 50 万元级的问界 M9，主打价格优势吸引价格敏感型客户；媒体列举其竞品包括问界 M9、东风奕境首款 SUV、零跑 C16、吉利银河 M9、奇瑞风云 T11 等；其供应链阵容包括宁德时代超级增混电芯、宝钢高强度钢、福耀玻璃等<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。其优势在于低成本制造、约 2800 家的密集销售网络，以及在印尼与东盟的早期海外布局<a href=\"https://www.sgmw.com.cn/en/aboutUs\">[s3]</a><a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>。</p><p><strong>我们的判断。</strong>上汽通用五菱的主要短板是盈利薄弱：2025 年以 163.5 万辆销量实现约 15.3 亿元净利润，单车净利润不足千元，低于媒体所引的比亚迪约 7000 元、吉利约 5600 元、上汽集团整体约 2200 元，原因在于销量集中于低价车型<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。其多次品牌向上尝试目前规模有限——媒体报道宝骏 18 万元以上的车型月销仅数百辆；不过华境 S 上市约四个月即交付 3 万辆<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a><a href=\"https://www.ceh.com.cn/papere/news_231181_579478.Ppt\">[s20]</a>。支撑其新能源销量的 A00 级市场也在萎缩：媒体报道该级别市占率由 2025 年初的约 23% 降至 2026 年 3 月的约 9%<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> SGMW says it will deepen its 'electric-intelligent, digital and global' transformation and, for the 15th Five-Year Plan period, targets annual exports of one million vehicles covering 150 markets <a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>. Domestically it is advancing the '125' project and its intelligent-island manufacturing system, with two key subsidiaries, Saike Technology and Haoling Technology, each exceeding RMB 15 billion in annual output value <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>. It is deepening Huawei cooperation on assisted driving, smart cockpits and smart manufacturing, and overseas it pursues the 'Indonesia-Malaysia-Thailand integration' and a Global5 full-chain go-global approach <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>. For context, its parent SAIC Motor reported 2025 sales of 4.507 million vehicles (up 12.3%) and net profit attributable to shareholders of RMB 10.11 billion (up 506.5%) <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s8]</a>.</p><p><strong>Our judgment.</strong> Whether SGMW lifts profitability depends on two premises: whether the Huajing and silver-badge passenger line-up can raise average selling price and margins above the sub-RMB 1,000 per-vehicle level, and whether overseas scale can expand fast enough to offset a low-margin domestic base pressured by rising battery-material costs <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>. Its one-million-vehicle export target is ambitious relative to the 266,868 units/sets exported in 2025 and depends on sustained ASEAN demand and supply-chain localisation <a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>公司称将深化「电智化、数字化、全球化」变革，并在「十五五」时期提出年出口百万辆、覆盖 150 个市场的目标<a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>。国内方面，公司推进「一二五」工程与智能岛制造体系，旗下赛克科技、昊菱科技两家重点企业年产值均突破 150 亿元<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a>。公司深化与华为在辅助驾驶、智能座舱、智能制造领域的合作，海外则推进「印马泰一体化」与 Global5 全链条生态出海<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>。作为背景，其母公司上汽集团 2025 年整车销量 450.7 万辆（同比 +12.3%）、归母净利润 101.1 亿元（同比 +506.5%）<a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s8]</a>。</p><p><strong>我们的判断。</strong>上汽通用五菱能否提升盈利水平取决于两个前提：其一，华境与五菱银标乘用车能否把单车均价与利润率从不足千元的水平拉高；其二，海外规模能否足够快地扩张，以对冲低毛利的国内基本盘——在电池原材料成本上涨的压力下，主打低价电动车的策略尤为承压<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。其提出的年出口百万辆目标，相对 2025 年的 266,868 台/套而言颇具挑战，依赖东盟需求的持续增长与供应链本地化<a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Thin profitability.</strong> SGMW's per-vehicle net profit was below RMB 1,000 in 2025, and rising lithium and component costs disproportionately pressure low-priced EVs <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</li><li><strong>High leverage.</strong> Its asset-liability ratio reached 83.66% at end-2025, which media characterise as high for the auto industry <a href=\"https://finance.china.com/TMT/13004688/20260514/49493869.html\">[s38]</a>.</li><li><strong>Upmarket expansion risk.</strong> Baojun's premium models have struggled for volume, and the Huajing brand depends on the success of the Huajing S and later models <a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</li><li><strong>Concentrated product mix.</strong> Sales rely heavily on the Hongguang MINIEV and Bingo low-priced families; if the A00/A0 segments shrink faster, the loss of scale would hit profitability directly <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</li><li><strong>Micro/mini-segment contraction.</strong> The budget EV market is crowded with BYD, Geely and Chery entries, and the A00 segment is shrinking, which can compress share and margins <a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</li><li><strong>Overseas and trade exposure.</strong> SGMW's growth plan relies on ASEAN localisation and exports, which are exposed to local policy and trade-friction shifts <a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>.</li><li><strong>Supply-chain and battery cost.</strong> Media citing Wind data report lithium phosphate futures rose from RMB 73,800 per tonne in early 2025 to RMB 166,300 per tonne by January 2026, adding roughly RMB 3,000 per vehicle in raw-material cost for Q1 2026, which hits budget EVs hardest <a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>.</li><li><strong>Dependence on shareholders.</strong> As a JV, SGMW's technology and capital depend on SAIC-GM coordination; its micro-vehicle origin also constrains its brand image in higher-priced segments <a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a>.</li></ul>",
+      "zh": "<ul><li><strong>盈利薄弱。</strong>2025 年单车净利润不足千元，锂价与零部件成本上涨对低价电动车形成更大压力<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</li><li><strong>负债率偏高。</strong>2025 年末资产负债率升至 83.66%，媒体认为在汽车行业中属高位<a href=\"https://finance.china.com/TMT/13004688/20260514/49493869.html\">[s38]</a>。</li><li><strong>品牌向上风险。</strong>宝骏高端车型上量困难，华境品牌依赖华境 S 及后续车型的表现<a href=\"https://stcn.com/article/detail/3900724.html\">[s18]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</li><li><strong>产品结构集中。</strong>销量高度依赖宏光 MINIEV 与缤果两大低价小车家族，若 A00/A0 市场加速萎缩，规模效应减弱将直接冲击盈利<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</li><li><strong>微型/经济型市场收缩。</strong>比亚迪、吉利、奇瑞等在入门电动车市场密集布局，且 A00 级市场在萎缩，可能挤压份额与毛利<a href=\"https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml\">[s13]</a><a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</li><li><strong>海外与贸易环境。</strong>增长计划依赖东盟本地化与出口，受当地政策与贸易摩擦变化影响<a href=\"https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html\">[s24]</a>。</li><li><strong>供应链与电池成本。</strong>媒体引述 Wind 数据称，磷酸锂期货价格由 2025 年初的 7.38 万元/吨升至 2026 年 1 月的 16.63 万元/吨，2026 年一季度单车原材料成本较 2025 年下半年平均增加约 3000 元，对低价电动车冲击最大<a href=\"https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml\">[s16]</a>。</li><li><strong>依赖股东协同。</strong>作为合资企业，其技术与资本投入依赖上汽与通用的协调；前身微车出身也制约其在高价位市场的品牌形象<a href=\"https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html\">[s1]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "通用汽车中国官网·在华业务（上汽通用五菱股权、品牌与宏光MINIEV；访问日）", "url": "https://www.gm.com.cn/public/cn/zh/gm/home/company/operations.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s3", "name": "上汽通用五菱官网·Introduction of SGMW（公司简介：沿革、四大基地、员工、技术）", "url": "https://www.sgmw.com.cn/en/aboutUs", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "上海汽车集团股份有限公司2025年半年度报告（主要子公司披露）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf", "date": "2025-08-28", "tier": "A" },
+    { "id": "s6", "name": "上海汽车集团股份有限公司2025年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s7", "name": "上海汽车集团股份有限公司2024年年度报告", "url": "https://pdf.dfcfw.com/pdf/H2_AN202504291664548278_1.pdf", "date": "2025-04-30", "tier": "A" },
+    { "id": "s8", "name": "上汽集团官网·上汽集团发布2025年年报", "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml", "date": "2026-04-01", "tier": "A" },
+    { "id": "s9", "name": "五菱官网·华境S参数配置", "url": "https://wuling.com/carDetail?id=325", "date": "2026-10-29", "tier": "A" },
+    { "id": "s10", "name": "上汽通用五菱工会·全球伙伴大会（2026年，管理层与华境S）", "url": "https://lu.sgmw.com.cn/portal/details.html?id=54661", "date": "2026-01-27", "tier": "A" },
+    { "id": "s11", "name": "上汽通用五菱工会·上汽集团高层领导率队来访调研交流（管理层名单，2026年6月）", "url": "https://lu.sgmw.com.cn/portal/details.html?id=56671", "date": "2026-06-05", "tier": "A" },
+    { "id": "s12", "name": "人民网广西频道·上汽通用五菱2025年新能源汽车销量超百万辆", "url": "https://gx.people.com.cn/n2/2026/0104/c179464-41462818.html", "date": "2026-01-04", "tier": "B" },
+    { "id": "s13", "name": "中新网广西·上汽通用五菱2025年累计销量逾163.5万辆", "url": "https://www.gx.chinanews.com.cn/cj/dt/2026-01-04/detail-iheymhtf5109956.shtml", "date": "2026-01-04", "tier": "B" },
+    { "id": "s14", "name": "经济参考网·上汽通用五菱纯电多用途车五菱之光EV正式上市（含2024年销量与沿革）", "url": "https://www.jjckb.cn/20250215/86598e8954a84d4794374cb7eea19325/c.html", "date": "2025-02-15", "tier": "B" },
+    { "id": "s15", "name": "新浪财经·上汽通用五菱总经理吕俊成（2022-2024财务与吕俊成履历）", "url": "https://finance.sina.com.cn/tech/roll/2025-05-19/doc-inexaekc1157660.shtml", "date": "2025-05-19", "tier": "B" },
+    { "id": "s16", "name": "新浪财经（《财经》特约稿）·单车利润不足千元，五菱向上“华境”不容有失", "url": "https://finance.sina.com.cn/wm/2026-04-13/doc-inhukknu2210072.shtml", "date": "2026-04-13", "tier": "B" },
+    { "id": "s18", "name": "证券时报网·华境S正式上市（置换价、大六座SUV竞争）", "url": "https://stcn.com/article/detail/3900724.html", "date": "2026-05-08", "tier": "B" },
+    { "id": "s19", "name": "中国财富网·标配华为乾崑全家桶 华境S置换价14.98万元起（指导价15.98万-20.38万）", "url": "https://auto.cfbond.com/2026/05/09/991129889.html", "date": "2026-05-09", "tier": "B" },
+    { "id": "s20", "name": "中国经济导报·华境S交付突破30000台", "url": "https://www.ceh.com.cn/papere/news_231181_579478.Ppt", "date": "2026-09-28", "tier": "B" },
+    { "id": "s21", "name": "中国新闻网·售价2.88万起 宏光MINI EV成都车展上市", "url": "https://m.chinanews.com/wap/detail/cht/zw/9247227.shtml", "date": "2020-07-24", "tier": "B" },
+    { "id": "s22", "name": "中证网（上证报）·上汽通用五菱发布五菱全球银标", "url": "https://www.cs.com.cn/ssgs/gsxw/202005/t20200525_6060348.html", "date": "2020-05-25", "tier": "B" },
+    { "id": "s23", "name": "中国商务新闻网·五菱印尼高质量共建一带一路（印尼工厂、产能与销量）", "url": "https://epa.comnews.cn/pc/content/202504/10/content_21872.html", "date": "2025-04-10", "tier": "B" },
+    { "id": "s24", "name": "人民网广西频道·跨海共赢 智造未来（海外本地化、Global5战略、年出口百万目标）", "url": "https://gx.people.com.cn/n2/2026/0917/c179464-41699230.html", "date": "2026-09-17", "tier": "B" },
+    { "id": "s25", "name": "柳州日报·汽车总销量超67.5万辆（2026年上半年）", "url": "https://nginx-lzrm.lzdaily.com.cn/lzrm/epaper/lzrb/pc/content/202607/14/c855233.html", "date": "2026-07-14", "tier": "B" },
+    { "id": "s26", "name": "21世纪经济报道·上汽通用五菱申请昊菱智运商标（法定代表人为王晓秋）", "url": "https://m.21jingji.com/timeline/96c7b1d511b71c89046ebb7a11df1c2b.html", "date": "2025-03-04", "tier": "B" },
+    { "id": "s27", "name": "中国经济网·上汽集团完成换帅 王晓秋掌舵", "url": "https://auto.ce.cn/auto/gundong/202407/11/t20240711_39066877.shtml", "date": "2024-07-11", "tier": "B" },
+    { "id": "s28", "name": "南国今报·上汽通用五菱助推柳州汽车城发展（历史沿革）", "url": "https://ssw.gxrb.com.cn/html/html5/2019/09/24/201909241249335714.html", "date": "2019-09-24", "tier": "B" },
+    { "id": "s30", "name": "上海汽车集团股份有限公司2022年年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2023-04-29/1216699198.PDF", "date": "2023-04-29", "tier": "A" },
+    { "id": "s31", "name": "中国新闻网·上汽、通用、五菱联合打造“中国百姓最喜爱的车”（2002年三方签约及股比）", "url": "https://www.chinanews.com.cn/2002-06-05/26/191924.html", "date": "2002-06-05", "tier": "B" },
+    { "id": "s32", "name": "新华网云南频道·产品定位不清 三款失意车将重装上阵（雪佛兰Spark 2003年12月8日上市）", "url": "https://www.yn.xinhuanet.com/auto/2006-07/20/content_7568841_2.htm", "date": "2006-07-20", "tier": "B" },
+    { "id": "s33", "name": "中国网广西频道·广西8人12个集体获全国“两优一先”表彰", "url": "https://guangxi.china.com.cn/2026-07/02/content_43456028.html", "date": "2026-07-02", "tier": "B" },
+    { "id": "s34", "name": "腾讯新闻（汽势Auto-First）·请称呼这个80后为“韩书记”（韩德鸿接任党委书记，媒体，未获公司正式公告）", "url": "https://news.qq.com/rain/a/20260916A07EGC00", "date": "2026-09-16", "tier": "C" },
+    { "id": "s36", "name": "上汽集团官网·上汽集团发布2026年半年度报告（华境S登顶插混大型SUV榜首）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65277.shtml", "date": "2026-08-28", "tier": "A" },
+    { "id": "s37", "name": "长江商报·上汽通用五菱负债率攀升至85.24%（历史销量、资产负债、与华为合作时间线）", "url": "https://news.qq.com/rain/a/20260126A02L1A00", "date": "2026-01-26", "tier": "B" },
+    { "id": "s38", "name": "中华网财经·华境S上市交付，上汽通用五菱能否靠华为翻身（2022-2025资产负债、2026年前4月销量）", "url": "https://finance.china.com/TMT/13004688/20260514/49493869.html", "date": "2026-05-14", "tier": "B" },
+    { "id": "s39", "name": "上汽集团官网·2025年整车销售数据（产销快报，上汽通用五菱161.51万辆）", "url": "https://www.saicmotor.com/m/tzzgx/jbqk/xssj/63726.shtml", "date": "2026-10-29", "tier": "A" },
+    { "id": "s40", "name": "上海汽车集团股份有限公司2023年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-03-30/600104_20240330_U1UR.pdf", "date": "2024-03-30", "tier": "A" }
+  ]
+}

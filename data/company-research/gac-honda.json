@@ -1,0 +1,316 @@
+{
+  "id": "gac-honda",
+  "name_en": "GAC Honda Automobile Co., Ltd.",
+  "name_zh": "广汽本田汽车有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1 July 1998 (formally established; GAC Group's annual-report glossary records May 1998 as registration)",
+      "value_zh": "1998 年 7 月 1 日（正式成立；广汽集团年报释义记 1998 年 5 月注册成立）",
+      "period": null,
+      "source_ids": ["s1", "s2", "s3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Guangzhou, Guangdong; plant zones in Huangpu and Zengcheng districts",
+      "value_zh": "广州市；厂区分布于黄埔区、增城区",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Sino-foreign joint venture: GAC Group 50%, Honda Motor 40%, Honda Motor (China) Investment 10%",
+      "value_zh": "中外合资：广汽集团 50%、本田技研工业 40%、本田技研工业（中国）投资 10%",
+      "period": null,
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Classified in GAC Group's annual report as a jointly controlled entity and accounted for under the equity method",
+      "value_zh": "广汽集团年报列为共同控制实体，并按权益法核算",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Registered capital",
+      "label_zh": "注册资本",
+      "value_en": "USD 867,215,960 (after the capital increase completed in December 2025)",
+      "value_zh": "867,215,960 美元（2025 年 12 月增资完成后）",
+      "period": null,
+      "source_ids": ["s3", "s4"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Unlisted",
+      "value_zh": "未上市",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Revenue (latest disclosed fiscal year)",
+      "label_zh": "最近披露财年营业收入",
+      "value_en": "RMB 51.142 billion (2025)",
+      "value_zh": "511.42 亿元（2025 年）",
+      "period": "FY2025",
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Net profit (latest disclosed fiscal year)",
+      "label_zh": "最近披露财年净利润",
+      "value_en": "Not disclosed",
+      "value_zh": "未公开披露",
+      "period": "FY2025",
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Vehicle sales (2025)",
+      "label_zh": "2025 年销量",
+      "value_en": "351,926 units (down 25.22% year on year)",
+      "value_zh": "35.19 万辆（同比下降 25.22%）",
+      "period": "2025",
+      "source_ids": ["s7", "s9"]
+    },
+    {
+      "label_en": "Peak annual sales",
+      "label_zh": "历史峰值销量",
+      "value_en": "2020 CSR: 806,000 produced and 806,000 sold; company timeline: production 805,000, terminal sales 808,000",
+      "value_zh": "2020 年企业社会责任报告：生产、销售各 80.6 万辆；公司大事记：产量 80.5 万辆、终端销量 80.8 万辆",
+      "period": "2020",
+      "source_ids": ["s6", "s2"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1998-07-01",
+      "event_en": "GAC Honda Automobile Co., Ltd. (then Guangzhou Honda) is formally established as a 50:40:10 joint venture of Guangzhou Automobile Group, Honda Motor and Honda Motor (China) Investment, Honda's first complete-vehicle joint venture in China. The articles of incorporation were signed on 7 May 1998; GAC Group's annual-report glossary records the company as registered in May 1998.",
+      "event_zh": "广汽本田汽车有限公司（当时称广州本田）正式成立，由广州汽车集团、本田技研工业、本田技研工业（中国）投资按 50:40:10 股比合资设立，是本田在华首家整车合资企业。合同章程于 1998 年 5 月 7 日签字；广汽集团年报释义记 1998 年 5 月注册成立。",
+      "source_ids": ["s1", "s2", "s3"]
+    },
+    {
+      "date": "1999-03-26",
+      "event_en": "The first China-made Accord rolls off the line at the Huangpu plant and enters series production.",
+      "event_zh": "第一台国产雅阁在黄埔工厂下线，进入批量生产。",
+      "source_ids": ["s2", "s5"]
+    },
+    {
+      "date": "2007-07-19",
+      "event_en": "GAC Honda R&D Co., Ltd. (GHRD) is established in Guangzhou, giving the company independent vehicle-development capability.",
+      "event_zh": "广汽本田汽车研究开发有限公司（GHRD）在广州成立，公司具备整车独立开发能力。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2008-04-20",
+      "event_en": "The Everus (Linian) brand, GAC Honda's own joint-venture self-owned brand, and its first concept car are unveiled at the Beijing auto show.",
+      "event_zh": "广汽本田合资自主品牌「理念」及首款概念车在北京车展首度发布。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2009-04-20",
+      "event_en": "Guangzhou Honda is renamed GAC Honda Automobile Co., Ltd. at the Shanghai auto show, as part of GAC Group's brand strategy.",
+      "event_zh": "在上海车展上，广州本田汽车有限公司更名为广汽本田汽车有限公司，属广汽集团品牌战略的一部分。",
+      "source_ids": ["s2", "s14"]
+    },
+    {
+      "date": "2009-11-23",
+      "event_en": "The one-millionth Accord is produced, making the Accord China's first mid-to-high-end sedan to exceed one million cumulative units.",
+      "event_zh": "第 100 万辆雅阁下线，雅阁成为国内首款累计产销突破 100 万辆的中高级轿车。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2020-04",
+      "event_en": "GAC Honda absorbs Honda Automobile (China) Co., Ltd. by merger, renames it the Guangzhou Development Zone plant, and moves to four-line production with basic capacity of 770,000 units per year.",
+      "event_zh": "广汽本田吸收合并本田汽车（中国）有限公司并更名为广州开发区工厂，进入整车「四线生产」阶段，基本生产能力达年产 77 万辆。",
+      "source_ids": ["s6", "s16"]
+    },
+    {
+      "date": "2020",
+      "event_en": "Annual production and sales reach about 806,000 units, with revenue of RMB 118.427 billion — the company's all-time peak.",
+      "event_zh": "全年产销约 80.6 万辆，营业收入 1184.27 亿元，为公司历史峰值。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2023-04",
+      "event_en": "GAC Honda starts whole-vehicle exports: the first batch of ZR-V e:HEV is shipped to Europe.",
+      "event_zh": "广汽本田启动整车出口业务，首批 ZR-V 致在 e:HEV 发往欧洲。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023-06-06",
+      "event_en": "Cumulative production reaches 10 million vehicles at the Huangpu plant.",
+      "event_zh": "广汽本田累计第 1000 万台整车在黄埔工厂下线。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023-09-23",
+      "event_en": "The first batch of China-made Odyssey is exported to Japan, a reverse export to Honda's home market.",
+      "event_zh": "首批国产奥德赛整车装船返销日本市场，实现对本田本土市场的反向出口。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023-12",
+      "event_en": "GAC Honda carries out its first layoffs since founding, cutting about 900 contract workers, according to media reports.",
+      "event_zh": "据媒体报道，广汽本田实施成立以来首次裁员，解雇约 900 名合约工。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2024-07-01",
+      "event_en": "On its 26th anniversary, GAC Honda releases the \"Yun Xin Zhi Yuan\" strategic transformation plan, aiming to become \"smarter, greener and more efficient\".",
+      "event_zh": "成立 26 周年之际，广汽本田发布「蕴新智远」战略转型升级计划，以「更智能、更绿色、更高效」为方向。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2024-11-15",
+      "event_en": "Honda's China-specific pure-electric brand Ye (烨) is released at the Guangzhou auto show, with the GAC Honda P7 making its debut on the new Architecture W platform.",
+      "event_zh": "本田面向中国的全新纯电品牌「烨」在广州车展发布，基于纯电专属平台 Architecture W 打造的广汽本田 P7 首次亮相。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2024-12",
+      "event_en": "The Guangzhou Development Zone new-energy plant starts production (investment of RMB 3.5 billion, designed capacity of 120,000 units per year); it is described on GAC Honda's official profile as Honda's first purpose-built new-energy manufacturing base worldwide.",
+      "event_zh": "广汽本田开发区新能源工厂投产（总投资 35 亿元、设计产能 12 万辆/年）；广汽本田官网公司简介称其为本田全球首座全新建设的新能源智造基地。",
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "date": "2025-03-26",
+      "event_en": "The Ye P7, GAC Honda's first model under the Ye brand, rolls off the line at the new-energy plant.",
+      "event_zh": "烨品牌广汽本田首款车型 P7 在开发区新能源工厂下线。",
+      "source_ids": ["s2", "s5"]
+    },
+    {
+      "date": "2025-04-15",
+      "event_en": "The GAC Honda P7 electric SUV is launched, starting at RMB 199,900 (one-price strategy).",
+      "event_zh": "广汽本田 P7 纯电 SUV 上市，起售价 19.99 万元（一口价策略）。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-11-10",
+      "event_en": "The shareholders sign a capital-increase agreement raising registered capital from USD 541 million to USD 867,215,960, with the 50:40:10 ownership unchanged; GAC Group contributes RMB 1.172 billion in cash, while Honda Motor and Honda China contribute their 40% and 10% stakes in Dongfeng Honda Engine. The industrial-and-commercial change was completed in December 2025.",
+      "event_zh": "股东签署增资协议，注册资本由 5.41 亿美元增至 867,215,960 美元，股比维持 50:40:10 不变；广汽集团现金出资 11.72 亿元，本田技研工业及本田中国分别以所持东风本田发动机 40%、10% 股权作价出资。工商变更于 2025 年 12 月完成。",
+      "source_ids": ["s4", "s3"]
+    },
+    {
+      "date": "2026-06",
+      "event_en": "GAC Honda stops operations at the Guangzhou Huangpu plant amid capacity restructuring, with Honda's total China vehicle capacity cut from about 1.49 million to 720,000 units, according to media reports.",
+      "event_zh": "据媒体报道，广汽本田广州黄埔工厂停止运营，本田在华整车总产能由约 149 万辆压减至 72 万辆。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-07-20",
+      "event_en": "Honda Motor (China) Investment and GAC Group sign a strategic renewal agreement extending the joint-venture term to 2038, with the shareholding unchanged (GAC Group 50%, Honda Motor 40%, Honda Motor (China) Investment 10%, i.e. each side holding 50% in total); the original agreement was due to expire in 2028.",
+      "event_zh": "本田技研工业（中国）投资与广汽集团就广汽本田合资合作项目签署战略续约协议，将合作期限延长至 2038 年，股比维持不变（广汽集团 50%、本田技研工业 40%、本田技研工业（中国）投资 10%，即中日双方各持 50%）；原合约本应于 2028 年到期。",
+      "source_ids": ["s19", "s20", "s9"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Honda",
+      "name_zh": "本田",
+      "role_en": "Mainstream passenger-vehicle brand manufactured by GAC Honda, spanning sedans, SUVs, MPVs and electrified models.",
+      "role_zh": "广汽本田生产的主流乘用车品牌，覆盖轿车、SUV、MPV 及电动化车型。",
+      "price_band": null,
+      "founded": 1999,
+      "owner_note_en": "The Honda brand's China production is carried out by GAC Honda, which was founded in 1998 and built its first Accord in 1999. Current main locally produced models include the Accord, Breeze (Haoying), Avancier (Guandao), Odyssey, Integra (Xingge), Vezel (Binzhi), Fit (Feidu, relaunched in January 2026 at a renewed price from RMB 66,800 with 3,000 units limited), ZR-V (Zhizai), and the e:NP1/e:NP2 electric models. Sales have fallen for five consecutive years from about 806,000 units in 2020 (780,300 in 2021) to 351,926 units in 2025, with the Accord and Breeze as the main volume models.",
+      "owner_note_zh": "本田品牌在华生产由广汽本田承担（公司 1998 年成立、1999 年首产雅阁）。现主要国产车型包括雅阁、皓影、冠道、奥德赛、型格、缤智、飞度（2026 年 1 月以 6.68 万元焕新价限量 3000 台回归）、致在（ZR-V），以及 e:NP1/e:NP2 纯电车型。销量自 2020 年约 80.6 万辆（2021 年 78.03 万辆）起连续下滑至 2025 年 35.19 万辆，以雅阁、皓影为主力车型。",
+      "status": "active",
+      "source_ids": ["s2", "s16", "s9", "s17"]
+    },
+    {
+      "name_en": "Ye (烨)",
+      "name_zh": "烨",
+      "role_en": "Honda's China-specific pure-electric brand; GAC Honda produces the Ye P7, while Dongfeng Honda produces the Ye S7.",
+      "role_zh": "本田面向中国的全新纯电品牌；广汽本田生产烨 P7，东风本田生产烨 S7。",
+      "price_band": "RMB 199,900–249,900 (P7)",
+      "founded": 2024,
+      "owner_note_en": "The Ye brand was released at the 2024 Guangzhou auto show (15 November 2024). GAC Honda's first model, the P7 mid-size electric SUV built on the Architecture W platform, rolled off the line on 26 March 2025 and went on sale on 15 April 2025 starting at RMB 199,900. Media reported that the P7 performed weakly after launch and failed to recover even after subsequent price adjustments.",
+      "owner_note_zh": "烨品牌于 2024 年 11 月 15 日广州车展发布。广汽本田首款车型 P7 为基于 Architecture W 平台打造的中型纯电 SUV，2025 年 3 月 26 日下线、4 月 15 日上市，起售价 19.99 万元。据媒体报道，P7 上市后表现低迷，即便后续调价也未能扭转。",
+      "status": "active",
+      "source_ids": ["s2", "s5", "s17"]
+    },
+    {
+      "name_en": "Everus (理念)",
+      "name_zh": "理念",
+      "role_en": "GAC Honda's own joint-venture self-owned brand, now without any model on sale.",
+      "role_zh": "广汽本田的合资自主品牌，现已无在售车型。",
+      "price_band": null,
+      "founded": 2008,
+      "owner_note_en": "The Everus brand was first unveiled on 20 April 2008 at the Beijing auto show and once offered models such as the VE-1 pure-electric SUV. It no longer appears in GAC Honda's current product line-up (which now lists only the Honda and Ye brands).",
+      "owner_note_zh": "理念品牌于 2008 年 4 月 20 日在北京车展首度发布，曾推出纯电 SUV VE-1 等车型；近年公司现售产品矩阵中已无理念品牌车型（现仅列本田与烨品牌）。",
+      "status": "discontinued",
+      "source_ids": ["s2", "s16", "s1"]
+    },
+    {
+      "name_en": "Acura (讴歌)",
+      "name_zh": "讴歌",
+      "role_en": "Luxury brand formerly assembled by GAC Honda, no longer in its current product line-up.",
+      "role_zh": "广汽本田曾组装的豪华品牌，已不在其现售产品线中。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "GAC Honda previously assembled Acura models including the CDX, RDX and TLX-L. Acura no longer appears in GAC Honda's current product line-up (which now lists only the Honda and Ye brands), so the brand has effectively exited China.",
+      "owner_note_zh": "广汽本田曾组装讴歌 CDX、RDX、TLX-L 等车型。讴歌已不在广汽本田现售产品矩阵中（现仅列本田与烨品牌），该品牌在华已停用。",
+      "status": "discontinued",
+      "source_ids": ["s16", "s1"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (Chinese Accounting Standards for Business Enterprises), as disclosed through GAC Group's annual and interim reports",
+    "rows": [],
+    "note_en": "GAC Honda is an unlisted 50:40:10 joint venture between GAC Group, Honda Motor and Honda Motor (China) Investment and does not separately publish full financial statements, so this table has no rows. Its operating figures are disclosed through the joint-venture note in GAC Group's annual and interim reports; the figures below are on that basis. Revenue: RMB 93.528 billion in 2023 (down 18.75%), RMB 68.250 billion in 2024 (down 27.03%) and RMB 51.142 billion in 2025 (down 25.07%), three consecutive years of decline; in H1 2026 revenue was RMB 9.35 billion (down 58.67% year on year). As of 31 December 2025, total assets were RMB 30.519 billion and net assets RMB 10.014 billion (debt ratio about 67.2%); as of 30 June 2026, total assets were RMB 21.622 billion and net assets RMB 8.613 billion (debt ratio about 60.2%). Net profit: GAC Group's joint-venture note lists only assets, liabilities, revenue and dividends received, and does not separately disclose GAC Honda's net profit, so no net-profit figure is stated here. GAC Group received no dividend from GAC Honda in 2025 (it received RMB 1.193 billion in 2024). The capital increase completed in December 2025 (registered capital raised from USD 541 million to USD 867,215,960, with GAC Group contributing RMB 1.172 billion in cash and the Honda side contributing its 40% and 10% stakes in Dongfeng Honda Engine) is reflected in net assets, so net asset changes cannot be used to derive net profit. GAC Group accounts for GAC Honda under the equity method and its share of profit or loss is recognised within share of profit of joint ventures, without separately disclosing the amount attributable to GAC Honda (or any 50% share thereof). Gross margin and R&D for GAC Honda are not separately disclosed. This page is financial disclosure only and does not constitute any trading recommendation.",
+    "note_zh": "广汽本田为非上市的中外合资企业（广汽集团持股 50%、本田技研工业 40%、本田技研工业（中国）投资 10%），不单独编制并披露完整财务报表，故本表无财务行。其经营数据通过广汽集团年报、半年报的合营企业附注披露，以下均为该口径。营业收入：2023 年 935.28 亿元（同比下降 18.75%）、2024 年 682.50 亿元（同比下降 27.03%）、2025 年 511.42 亿元（同比下降 25.07%），连续三年下滑；2026 年上半年 93.5 亿元（同比下降 58.67%）。截至 2025 年 12 月 31 日，总资产 305.19 亿元、净资产 100.14 亿元（资产负债率约 67.2%）；截至 2026 年 6 月 30 日，总资产 216.22 亿元、净资产 86.13 亿元（资产负债率约 60.2%）。净利润：广汽集团年报合营企业附注仅列示资产、负债、收入及已收股利，未单列广汽本田净利润，故本页不给出具体净利润数字。广汽集团 2025 年未收到广汽本田股利（2024 年收到 11.93 亿元）。2025 年 12 月完成的增资（注册资本由 5.41 亿美元增至 867,215,960 美元，广汽集团现金出资 11.72 亿元、本田方以所持东风本田发动机 40% 与 10% 股权作价出资）已计入净资产，因此不能用净资产变动直接反推净利润。广汽集团对广汽本田按权益法核算，其在广汽本田的应占损益并入「合营企业投资收益」，但年报未单列广汽本田的净利润或其 50% 应占份额。广汽本田的毛利率与研发投入未单独披露。以上仅为财务披露数据，本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>GAC Honda Automobile Co., Ltd. (广汽本田汽车有限公司) is a 50:40:10 passenger-vehicle joint venture between GAC Group, Honda Motor Co., Ltd. and Honda Motor (China) Investment Co., Ltd., formally established on 1 July 1998 as Honda's first complete-vehicle joint venture in China; the articles of incorporation were signed on 7 May 1998 and GAC Group's annual-report glossary records registration in May 1998 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>. It produces Honda-brand models (Accord, Breeze, Avancier, Odyssey, Integra, Vezel, Fit, ZR-V) and the Ye P7 pure-electric SUV, with plant zones in Guangzhou's Huangpu and Zengcheng districts and cumulative production of more than 11 million vehicles <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>.</p><p>GAC Honda is one of GAC Group's two core joint ventures (alongside GAC Toyota). Its annual sales have fallen for five straight years from the 2020 peak — the CSR records 806,000 produced and 806,000 sold, while the company timeline records production of 805,000 and terminal sales of 808,000 — to 351,926 units in 2025, and revenue fell to RMB 51.142 billion in 2025 as the company undergoes a difficult shift to electrification <a href=\"https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf\">[s6]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a>.</p><p>In November 2025 the shareholders signed a capital-increase agreement raising registered capital from USD 541 million to USD 867,215,960 (ownership unchanged at 50:40:10), and in July 2026 they extended the joint-venture term from the original 2028 expiry to 2038 <a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/1110/2025111000885_c.pdf\">[s4]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a><a href=\"https://global.honda/content/dam/site/global-en/newsroom-new/cq_img/news/2026/07/c260720eng/c260720eng.pdf\">[s20]</a>.</p>",
+      "zh": "<p>广汽本田汽车有限公司是广州汽车集团股份有限公司、本田技研工业株式会社与本田技研工业（中国）投资有限公司按 50:40:10 股比合资设立的乘用车企业，1998 年 7 月 1 日正式成立，是本田在华首家整车合资企业；合同章程于 1998 年 5 月 7 日签字，广汽集团年报释义记 1998 年 5 月注册成立 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>。公司生产本田品牌车型（雅阁、皓影、冠道、奥德赛、型格、缤智、飞度、致在）及烨 P7 纯电 SUV，拥有广州黄埔区、增城区厂区，累计产销突破 1100 万台 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。</p><p>广汽本田是广汽集团两大核心合资企业之一（与广汽丰田并列）。其年销量自 2020 年峰值起连续五年下滑（企业社会责任报告记生产、销售各 80.6 万辆，公司大事记记产量 80.5 万辆、终端销量 80.8 万辆），2025 年降至 35.19 万辆，营业收入也降至 511.42 亿元，公司正经历艰难的电动化转型 <a href=\"https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf\">[s6]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a>。</p><p>2025 年 11 月，股东签署增资协议将注册资本由 5.41 亿美元增至 867,215,960 美元（股比维持 50:40:10 不变）；2026 年 7 月双方又将合资期限由原定的 2028 年延长至 2038 年 <a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/1110/2025111000885_c.pdf\">[s4]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a><a href=\"https://global.honda/content/dam/site/global-en/newsroom-new/cq_img/news/2026/07/c260720eng/c260720eng.pdf\">[s20]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Brands and products</h3><p>GAC Honda's line-up centres on the Honda brand, led by the Accord and Breeze; other models include the Avancier, Odyssey, Integra, Vezel and ZR-V, while the Fit was relaunched in January 2026 at a renewed price from RMB 66,800 with only 3,000 units limited <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>. On the electric side, the company has the e:NP1/e:NP2 models and the Ye P7, launched on 15 April 2025 from RMB 199,900; media reported the P7 performed weakly after launch and failed to recover after subsequent price adjustments <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>. The new Breeze launched on 20 May 2026 comes in petrol and e:HEV versions, with renewed prices from RMB 137,900 and RMB 149,900 respectively; the Accord marked its 50th global anniversary in 2026, with the eleventh generation currently on sale <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. The Everus brand has no model on sale, and Acura, once assembled by GAC Honda, has exited China <a href=\"https://mall.ghac.cn/home/article/10\">[s16]</a>.</p><h3>Technology and platforms</h3><p>The Ye P7 is built on Honda's new Architecture W (云驰智能高效纯电W架构) dedicated EV platform, with a body using 68% high-strength steel and 25% hot-formed steel, and a 90-degree high-energy-density ternary battery co-developed with CATL <a href=\"https://www.honda.com.cn/news/1371.html\">[s5]</a>. In combustion and hybrid models, the company has long used Honda's i-MMD hybrid system. On intelligence, the new Breeze launched on 20 May 2026 carries a smart cloud cockpit developed jointly with Huawei Cloud, with petrol versions from RMB 137,900 and hybrid versions from RMB 149,900 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. At the Shanghai auto show on 23 April 2025, the company indicated a cooperation with Momenta on intelligent driving <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. GAC Group's 2026 interim report also states that core fuel models are planned to adopt the HarmonyOS cockpit and Momenta's driving-assistance solutions <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>.</p><h3>Production bases and capacity</h3><p>The company operates three plant zones in Guangzhou (Huangpu, Zengcheng and the Development Zone), with a total area of about 2.58 million square metres <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a>. After absorbing Honda Automobile (China) in 2020 it moved to four-line production with basic capacity of 770,000 units per year <a href=\"https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf\">[s6]</a>. GAC Group's 2025 annual report lists GAC Honda's designed capacity at 600,000 units, with 2025 output of 354,500 units and a utilisation rate of 59% <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>. The Development Zone new-energy plant (investment RMB 3.5 billion, designed capacity 120,000 units per year) started production in December 2024 <a href=\"https://www.honda.com.cn/news/1371.html\">[s5]</a>. According to media reports, the Huangpu plant stopped operating in June 2026, and Honda's total China vehicle capacity was cut from about 1.49 million to 720,000 units <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>.</p><h3>Domestic market position</h3><p>GAC Honda was once among China's leading mainstream joint ventures. Its 2020 corporate social responsibility report records production of 806,000 vehicles and sales of 806,000; the company timeline records production of 805,000 and terminal sales of 808,000. By 2025 sales had fallen to 351,926 units, roughly half of GAC Toyota's 756,000 in the same year, and its weight within GAC Group's joint-venture passenger-car business has declined markedly <a href=\"https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf\">[s6]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a>. Within the Honda China system, GAC Honda and Dongfeng Honda are Honda's two complete-vehicle joint ventures, and Honda's China sales fell from 1.627 million units in 2020 to 645,000 in 2025 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>. As of the latest disclosure (H1 2026), GAC Honda sold 68,318 units, down 55.82% year on year, the only sales decline among GAC Group's subsidiaries <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a><a href=\"https://finance.sina.cn/tech/2026-10-02/detail-initvtxf7217369.d.html\">[s8]</a>.</p><h3>Overseas business</h3><p>GAC Honda began whole-vehicle exports in 2023: the first batch of ZR-V e:HEV was shipped to Europe in April 2023, and the first batch of China-made Odyssey was exported to Japan in September 2023 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. The company does not disclose a full export-volume series, and its overseas business remains small relative to its domestic sales.</p>",
+      "zh": "<h3>品牌与产品</h3><p>广汽本田现以本田品牌为主，以雅阁、皓影为主力车型；其余车型包括冠道、奥德赛、型格、缤智、致在，飞度则于 2026 年 1 月以 6.68 万元焕新价限量 3000 台回归 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>。纯电方面，公司有 e:NP1/e:NP2 及 2025 年 4 月 15 日上市、起售价 19.99 万元的烨 P7；据媒体报道，P7 上市后表现低迷，即便后续调价也未能扭转 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>。2026 年 5 月 20 日上市的新皓影推出汽油版与 e:HEV 混动版（焕新价分别 13.79 万元、14.99 万元起）；雅阁于 2026 年迎来全球诞生 50 周年，现款为第十一代雅阁 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。理念品牌已无在售车型，曾由广汽本田组装的讴歌已退出中国市场 <a href=\"https://mall.ghac.cn/home/article/10\">[s16]</a>。</p><h3>技术与平台</h3><p>烨 P7 基于本田全新纯电专属平台 Architecture W（云驰智能高效纯电 W 架构）打造，车身高强度钢占比 68%、热成型钢占比 25%，搭载与宁德时代联合定制的 90 度高能量密度三元锂电池 <a href=\"https://www.honda.com.cn/news/1371.html\">[s5]</a>。燃油与混动车型长期采用本田 i-MMD 混动系统。智能化方面，2026 年 5 月 20 日上市的新皓影搭载与华为云联合打造的智能云车机，汽油版 13.79 万元起、混动版 14.99 万元起 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。2025 年 4 月 23 日上海车展上，公司表态与 Momenta 开展智能驾驶合作 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。广汽集团 2026 年中期报告还写明，已明确核心燃油车型搭载鸿蒙座舱及 Momenta 的规划方案 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>。</p><h3>生产基地与产能</h3><p>公司在广州拥有黄埔、增城、开发区三个厂区，总占地约 258 万平方米 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a>。2020 年吸收合并本田汽车（中国）后形成四条整车生产线、基本产能 77 万辆/年 <a href=\"https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf\">[s6]</a>。广汽集团 2025 年年报列示广汽本田设计产能 60 万辆、2025 年产量 35.45 万辆、产能利用率 59% <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>。开发区新能源工厂（投资 35 亿元、设计产能 12 万辆/年）2024 年 12 月投产 <a href=\"https://www.honda.com.cn/news/1371.html\">[s5]</a>。据媒体报道，2026 年 6 月黄埔工厂停止运营，本田在华整车总产能由约 149 万辆压减至 72 万辆 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>。</p><h3>国内市场地位</h3><p>广汽本田曾是国内主流合资车企之一。2020 年企业社会责任报告记生产、销售各 80.6 万辆，公司大事记记全年产量 80.5 万辆、终端销量 80.8 万辆；到 2025 年销量降至 35.19 万辆，约为同期广汽丰田（75.6 万辆）的一半，在广汽集团乘用车合资板块中的重要性明显下降 <a href=\"https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf\">[s6]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a>。在本田中国体系中，广汽本田与东风本田共同构成本田在华两大整车合资企业，本田在华总销量已由 2020 年 162.7 万辆降至 2025 年 64.5 万辆 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>。截至最近披露（2026 年上半年），广汽本田销量 6.83 万辆、同比下降 55.82%，是广汽集团旗下子公司中唯一销量下滑的一家 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a><a href=\"https://finance.sina.cn/tech/2026-10-02/detail-initvtxf7217369.d.html\">[s8]</a>。</p><h3>海外业务</h3><p>广汽本田自 2023 年启动整车出口：2023 年 4 月首批 ZR-V 致在 e:HEV 发往欧洲，2023 年 9 月首批国产奥德赛返销日本 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。公司未披露完整的出口销量序列，其海外业务规模相对国内销量仍然较小。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Origin</h3><p>As a 50:40:10 joint venture, GAC Honda has no individual founder; it was established in 1998 by GAC Group and the Honda group companies <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a>.</p><h3>Current management</h3><ul><li><strong>Gao Rui (高锐)</strong> — chairman and legal representative. Born December 1979, MBA; he is also deputy general manager of GAC Group, member of its executive committee and head of its strategy-development division, and concurrently chairman of Wuyang-Honda Motor (Guangzhou) and of Guangzhou Chenqi Mobility. He previously served as head of GAC Group's asset-management department, chairman and general manager of Zhonglong Investment, general manager of Denway Motors, and chairman and general manager of GAC Group (Hong Kong). GAC Group's November 2025 board resolution lists him as chairman of GAC Honda <a href=\"https://www.dutenews.com/n/ctmedia/15718659\">[s13]</a><a href=\"https://www.jjckb.cn/20251117/a85369c7881a44df8c48f3f9d0f67113/c.html\">[s22]</a>.</li><li><strong>Moriyama Katsuhide (森山克英)</strong> — general manager (the Honda-side head), appointed on 1 April 2020 to succeed Sato Toshihiko; he previously served as head of brand communications at Honda Motor's Japan headquarters and as head of the sales division of Guangzhou Honda <a href=\"https://cn.chinadaily.com.cn/a/202004/15/WS5e967119a310c00b73c77248.html\">[s18]</a><a href=\"https://www.honda.com.cn/news/1371.html\">[s5]</a>.</li><li><strong>Gao Hongxiang (高洪祥)</strong> — executive deputy general manager (the GAC-side head), appointed on 7 August 2025 to succeed Li Jin; he previously served as a director and deputy general manager of GAC Toyota Engine Co., Ltd. <a href=\"https://www.mrjjxw.com/articles/2025-08-08/4005513.html\">[s21]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>.</li></ul><h3>Shareholding and governance</h3><p>GAC Group holds 50%, Honda Motor 40% and Honda Motor (China) Investment 10%. GAC Group's annual report accounts for GAC Honda as a jointly controlled entity under the equity method <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/1110/2025111000885_c.pdf\">[s4]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>. GAC Honda does not publish standalone financial statements; its results are reflected in GAC Group's consolidated statements under the equity method <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>.</p>",
+      "zh": "<h3>历史渊源</h3><p>作为 50:40:10 的合资企业，广汽本田没有民营意义上的单一创始人，1998 年由广汽集团与本田系企业共同出资设立 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>高锐</strong>——董事长、法定代表人。1979 年 12 月生，工商管理硕士；同时任广汽集团副总经理、执行委员会委员、战略发展本部本部长，兼任五羊-本田摩托（广州）有限公司董事长、广州宸祺出行科技有限公司董事长等。曾任广汽集团资产管理部部长、中隆投资有限公司董事长兼总经理、骏威汽车有限公司总经理、广汽集团（香港）有限公司董事长兼总经理。广汽集团 2025 年 11 月董事会决议公告列示其兼任广汽本田董事长 <a href=\"https://www.dutenews.com/n/ctmedia/15718659\">[s13]</a><a href=\"https://www.jjckb.cn/20251117/a85369c7881a44df8c48f3f9d0f67113/c.html\">[s22]</a>。</li><li><strong>森山克英</strong>——总经理（本田方一把手），2020 年 4 月 1 日接替佐藤利彦出任；此前曾任本田汽车日本总部品牌传播本部长、广州本田汽车有限公司销售本部部长 <a href=\"https://cn.chinadaily.com.cn/a/202004/15/WS5e967119a310c00b73c77248.html\">[s18]</a><a href=\"https://www.honda.com.cn/news/1371.html\">[s5]</a>。</li><li><strong>高洪祥</strong>——执行副总经理（中方一把手），2025 年 8 月 7 日接替李进出任；此前任广汽丰田发动机有限公司董事、副总经理 <a href=\"https://www.mrjjxw.com/articles/2025-08-08/4005513.html\">[s21]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>。</li></ul><h3>股权与治理</h3><p>广汽集团持股 50%、本田技研工业持股 40%、本田技研工业（中国）投资持股 10%。广汽集团年报将广汽本田列为共同控制实体并按权益法核算 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2025/1110/2025111000885_c.pdf\">[s4]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>。广汽本田不单独披露财务报表，其经营业绩通过广汽集团合并报表以权益法核算反映 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment.</strong> GAC Honda competes in China's passenger-car market against domestic brands such as BYD, Geely and Changan, and against other joint ventures including Toyota, Volkswagen and Nissan, as well as its Honda sister venture Dongfeng Honda. Its competitive base rests on the Honda brand franchise, the Accord and Breeze nameplates, and a reputation for quality and resale value — 2026 industry data cited on the company timeline place the Accord first in three-year resale value in its segment <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. Its weaknesses are a product line heavily concentrated in the Accord and Breeze and a stalled electrification push in which the Ye P7 has sold poorly <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>.</p><p><strong>Our judgment.</strong> The 2025 results — revenue down 25.07% to RMB 51.142 billion and sales down 25.22% to 351,926 units, with H1 2026 sales down a further 55.82% to 68,318 units — indicate that GAC Honda's performance is highly sensitive to the domestic price war and to its slow NEV transition; dependence on the Accord and Breeze makes the sales base fragile <a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>.</p><p><strong>Our judgment.</strong> Compared with GAC Toyota (which kept sales roughly flat at 756,000 units in 2025 and remained GAC Group's largest dividend contributor), GAC Honda is the weaker of GAC's two core joint ventures: GAC Group received no dividend from GAC Honda in 2025 versus RMB 1.193 billion in 2024, per the annual report <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a><a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s9b]</a>.</p>",
+      "zh": "<p><strong>我们的判断。</strong>广汽本田在中国乘用车市场与比亚迪、吉利、长安等自主品牌，以及丰田、大众、日产等合资品牌和同门东风本田竞争。其竞争基础在于本田品牌力、雅阁与皓影两款主力车型，以及品质与保值率口碑——公司大事记所引 2026 年行业数据中雅阁居细分市场三年保值率第一 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。短板在于高度集中于雅阁、皓影的产品线，以及基本乏力的电动化——烨 P7 销量惨淡 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a><a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a>。</p><p><strong>我们的判断。</strong>2025 年营收下降 25.07% 至 511.42 亿元、销量下降 25.22% 至 35.19 万辆，2026 年上半年销量再降 55.82% 至 6.83 万辆，表明广汽本田的业绩对国内价格战和自身偏慢的新能源转型节奏高度敏感，对雅阁、皓影单一车型的依赖使销量基础脆弱 <a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>。</p><p><strong>我们的判断。</strong>相比 2025 年销量保持 75.6 万辆基本持平的广汽丰田（仍为广汽集团第一大分红来源），广汽本田是广汽两大核心合资板块中较弱的一方：据年报，广汽集团 2025 年未从广汽本田收到股利，而 2024 年为 11.93 亿元 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&amp;announcementTime=2026-03-28&amp;orgId=9900006006&amp;plate=sse&amp;stockCode=601238\">[s3]</a><a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s9b]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> GAC Honda's stated strategy is the \"Yun Xin Zhi Yuan\" transformation plan (released July 2024) to become \"smarter, greener and more efficient\", with a 2030 vision of \"creating infinite possibilities for joyful mobility\"; under it, the company built the new-energy plant and launched the Ye brand <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. The plan also sets a \"zero traffic fatalities by 2050\" safety vision and a goal of carbon neutrality across the product life cycle by 2045 (targeting 2040) <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>. After the July 2026 renewal extending the joint venture to 2038, the partners said they would shift from \"Honda technology output, Chinese production and sales\" toward two-way empowerment and joint R&D, drawing on GAC's local supply chain and electrification capability together with Honda's hybrid technology and vehicle tuning, per media reports <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>.</p><p><strong>Our judgment.</strong> The renewal to 2038 removes the near-term risk of the contract expiring in 2028, but the key test is whether the promised two-way R&D can deliver a competitive NEV line-up. The Ye P7's weak sales show that brand heritage alone does not convert to EV volume in a market where domestic rivals lead on intelligence and price; success will depend on faster local development (such as the Huawei Cloud cockpit and the planned HarmonyOS cockpit and Momenta solutions) and on whether the new-energy plant can be filled <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>广汽本田的战略是 2024 年 7 月发布的「蕴新智远」转型计划，以「更智能、更绿色、更高效」为方向，2030 愿景为「为您智造悦享移动生活的无限可能」；据此公司新建了新能源工厂并发布烨品牌 <a href=\"https://www.ghac.cn/about/introducing\">[s1]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。该计划还提出「2050 交通事故零死亡」安全愿景与「2045 年前（力争 2040 年）实现产品全生命周期碳中和」的碳中和目标 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。据媒体报道，2026 年 7 月续约至 2038 年后，双方表示合作模式将由「本田技术输出、中方生产销售」转向双向赋能、深度协同研发，依托广汽本土供应链与电动化能力，结合本田混动技术与整车调校品控 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>。</p><p><strong>我们的判断。</strong>续约至 2038 年化解了原合约 2028 年到期的短期风险，但关键是承诺的「双向研发」能否推出有竞争力的新能源产品矩阵。烨 P7 的惨淡销量表明，在自主品牌于智能化和价格上领先的市场里，品牌积淀本身难以转化为电动销量；成败取决于本土化研发能否提速（如华为云智能座舱，以及已明确的鸿蒙座舱与 Momenta 规划方案），以及新能源工厂能否被充分利用 <a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Sales and product concentration.</strong> Sales have fallen for five consecutive years to 351,926 units in 2025, with H1 2026 down a further 55.82% to 68,318 units, and the portfolio is heavily concentrated in the Accord and Breeze, leaving it exposed to a narrow base <a href=\"https://finance.sina.cn/tech/2026-10-02/detail-initvtxf7217369.d.html\">[s8]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>.</li><li><strong>Electrification shortfall.</strong> The Ye P7 performed weakly after launch and failed to recover even after price adjustments, leaving GAC Honda with little NEV scale while domestic rivals lead on intelligence and cost <a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>.</li><li><strong>Financial pressure.</strong> Revenue fell 25.07% in 2025 to RMB 51.142 billion, and GAC Group received no dividend from GAC Honda in 2025 (versus RMB 1.193 billion in 2024); GAC Group also cited GAC Honda's production-line impairments and staff optimisation as reducing its investment income, per media reports <a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a><a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s9b]</a>.</li><li><strong>Capacity restructuring.</strong> According to media reports, the Huangpu plant stopped operations in June 2026, and repeated layoffs (about 900 contract workers in Q4 2023, over 1,000 more in May 2024) carry execution and morale risks <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>.</li><li><strong>Honda group headwinds.</strong> Honda's China sales fell from a 2020 peak of 1.627 million units to 645,000 in 2025, and Honda reported its first annual net loss in 69 years for fiscal 2025 (JPY 423.9 billion, about RMB 18.2 billion), adding uncertainty to the parent's China strategy, per media reports <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>.</li></ul>",
+      "zh": "<ul><li><strong>销量与产品集中度。</strong>销量已连续五年下滑，2025 年 35.19 万辆，2026 年上半年再降 55.82% 至 6.83 万辆，且销量高度集中于雅阁、皓影两款车型，产品基础过于集中 <a href=\"https://finance.sina.cn/tech/2026-10-02/detail-initvtxf7217369.d.html\">[s8]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s19]</a>。</li><li><strong>电动化乏力。</strong>烨 P7 上市后表现低迷、调价后也未能扭转，新能源规模有限，而自主品牌在智能化和成本上领先 <a href=\"https://www.dingxinwen.com/news/145DD0E743BF4577\">[s17]</a><a href=\"https://www.ghac.cn/zh-cn/about/events.aspx\">[s2]</a>。</li><li><strong>财务压力。</strong>2025 年营收下降 25.07% 至 511.42 亿元，广汽集团 2025 年未从广汽本田获得股利（2024 年为 11.93 亿元）；据媒体报道，广汽集团还指出广汽本田的产线减值与人员优化拖累了投资收益 <a href=\"https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml\">[s7]</a><a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s9b]</a>。</li><li><strong>产能与人员调整。</strong>据媒体报道，2026 年 6 月黄埔工厂停止运营，叠加 2023 年四季度裁员约 900 名合约工、2024 年 5 月再裁超千人的多轮减员，存在执行与士气风险 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>。</li><li><strong>本田体系压力。</strong>本田在华销量自 2020 年 162.7 万辆峰值降至 2025 年 64.5 万辆，且据媒体报道本田 2025 财年录得上市 69 年来首次年度净亏损（4239 亿日元，约合 182 亿元人民币），为母公司对华战略增添不确定性 <a href=\"https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2\">[s9]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "广汽本田官网 · 公司简介（成立时间、股比、厂区、累计产销、新能源工厂）", "url": "https://www.ghac.cn/about/introducing", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "广汽本田官网 · 大事记（1998–2026 年公司历史）", "url": "https://www.ghac.cn/zh-cn/about/events.aspx", "date": "2026-10-29", "tier": "A" },
+    { "id": "s3", "name": "广州汽车集团股份有限公司 2025 年年度报告（巨潮资讯网，广汽本田营收、总资产、净资产、注册资本、产能、股利）", "url": "https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225047542&announcementTime=2026-03-28&orgId=9900006006&plate=sse&stockCode=601238", "date": "2026-03-28", "tier": "A" },
+    { "id": "s4", "name": "广汽集团 · 关联交易：增资协议（广汽本田，港交所）", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/1110/2025111000885_c.pdf", "date": "2025-11-10", "tier": "A" },
+    { "id": "s5", "name": "本田中国 · 广汽本田开发区新能源工厂落成暨全新纯电 P7 下线", "url": "https://www.honda.com.cn/news/1371.html", "date": "2025-03-27", "tier": "A" },
+    { "id": "s6", "name": "广汽本田 2020 年企业社会责任报告（2020 年销量、营收等）", "url": "https://media.ghac.cn/s/social-responsibility/mobile/CSR_Report2020.pdf", "date": "2026-10-29", "tier": "A" },
+    { "id": "s16", "name": "广汽本田商城 · 公司介绍（合资年限、四线生产、理念 VE-1、讴歌车型）", "url": "https://mall.ghac.cn/home/article/10", "date": "2026-10-29", "tier": "A" },
+    { "id": "s19", "name": "广汽集团 2026 年中期报告（上交所，广汽本田 2026 上半年销量/营收、续约、鸿蒙座舱与 Momenta 规划）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf", "date": "2026-09-30", "tier": "A" },
+    { "id": "s20", "name": "Honda 全球官网新闻稿（英文）· Honda 与广汽签署广汽本田合资续约协议", "url": "https://global.honda/content/dam/site/global-en/newsroom-new/cq_img/news/2026/07/c260720eng/c260720eng.pdf", "date": "2026-07-20", "tier": "A" },
+    { "id": "s7", "name": "新浪财经（运营商财经网）· 广汽本田 2025 年营收下滑 25%（2023/2024/2025 营收）", "url": "https://finance.sina.com.cn/jjxw/2026-04-14/doc-inhuniea4119149.shtml", "date": "2026-04-14", "tier": "B" },
+    { "id": "s8", "name": "新浪财经（运营商财经网）· 广汽本田上半营收同比大降 58.67%（2026 上半年营收、逐月销量）", "url": "https://finance.sina.cn/tech/2026-10-02/detail-initvtxf7217369.d.html", "date": "2026-10-02", "tier": "B" },
+    { "id": "s9", "name": "经济观察网 · 破除“撤离中国市场”猜测 本田与广汽合资续约至 2038 年（历年销量、裁员、产能）", "url": "https://jg-static.eeo.com.cn/article/info?id=f4cbec5148454a628173a3b25c8fcba2", "date": "2026-07-20", "tier": "B" },
+    { "id": "s9b", "name": "新浪财经（汽车营造社）· 合资失守、自主品牌慢半拍 转轨阵痛集中写进广汽 2025 年财报（广汽本田股利、减值等）", "url": "https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml", "date": "2026-03-30", "tier": "B" },
+    { "id": "s13", "name": "读特新闻（深圳商报）· 广汽集团新班子出炉（高锐兼任广汽本田董事长）", "url": "https://www.dutenews.com/n/ctmedia/15718659", "date": "2025-11-16", "tier": "B" },
+    { "id": "s14", "name": "中国证券报 · 曾庆洪：广汽将择机整体上市（广州本田更名为广汽本田）", "url": "https://www.cs.com.cn/ssgs/02/200904/t20090421_1826627.htm", "date": "2009-04-21", "tier": "B" },
+    { "id": "s17", "name": "顶端新闻 · 开年暴击，广汽本田 1 月仅卖 4558 辆（P7 上市后表现低迷、飞度焕新上市等）", "url": "https://www.dingxinwen.com/news/145DD0E743BF4577", "date": "2026-02-03", "tier": "B" },
+    { "id": "s18", "name": "中国日报网 · 超 30 位高管变动 车企高频人事调整（森山克英 2020 年 4 月 1 日接替佐藤利彦出任广汽本田总经理）", "url": "https://cn.chinadaily.com.cn/a/202004/15/WS5e967119a310c00b73c77248.html", "date": "2020-04-15", "tier": "B" },
+    { "id": "s21", "name": "每日经济新闻 · 高洪祥正式接棒李进，广汽本田再迎“广丰系”高管", "url": "https://www.mrjjxw.com/articles/2025-08-08/4005513.html", "date": "2025-08-08", "tier": "B" },
+    { "id": "s22", "name": "经济参考网 · 核心人才“精准补缺” 广汽集团新一届管理层上任（高锐履历）", "url": "https://www.jjckb.cn/20251117/a85369c7881a44df8c48f3f9d0f67113/c.html", "date": "2025-11-17", "tier": "B" }
+  ]
+}

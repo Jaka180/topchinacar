@@ -1,0 +1,293 @@
+{
+  "id": "stelato",
+  "name_en": "Stelato",
+  "name_zh": "享界",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand type",
+      "label_zh": "品牌类型",
+      "value_en": "Premium new-energy brand of BAIC, operated by Beijing New Energy Vehicle Co., Ltd. (北汽新能源), a subsidiary of the listed BAIC BluePark New Energy Technology Co., Ltd. (Shanghai Stock Exchange 600733.SH), jointly created with Huawei under Huawei's Harmony Intelligent Mobility Alliance (HIMA) Smart Selection model. Huawei participates in product definition, technology, marketing and channel but holds no equity in the brand.",
+      "value_zh": "北汽旗下高端新能源品牌，由上市公司北汽蓝谷新能源科技股份有限公司（上交所 600733.SH）的子公司北京新能源汽车股份有限公司（北汽新能源）运营，与华为以鸿蒙智行「智选车」模式联合打造。华为参与产品定义、技术、营销与渠道，但不持有品牌股权。",
+      "period": null,
+      "source_ids": ["s8", "s1"]
+    },
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "6 August 2024, with the launch of its first model, the Stelato S9 (the brand name 享界 was announced in August 2023 and registered in December 2023)",
+      "value_zh": "2024 年 8 月 6 日（随首款车型享界 S9 上市正式发布；品牌名「享界」于 2023 年 8 月公布、2023 年 12 月注册）",
+      "period": null,
+      "source_ids": ["s6", "s8", "s9"]
+    },
+    {
+      "label_en": "Ownership, controlling shareholder and headquarters",
+      "label_zh": "所属、控股股东与总部",
+      "value_en": "Operated within BAIC New Energy (subsidiary of BAIC BluePark, 600733.SH); production base is the Stelato Super Factory in Miyun District, Beijing. BAIC BluePark's controlling shareholder is BAIC Group (directly holding 23.14% as of end-2025), a wholly state-owned group under the Beijing SASAC.",
+      "value_zh": "由北汽蓝谷（600733.SH）旗下北汽新能源运营；生产基地为北京市密云区享界超级工厂。北汽蓝谷的控股股东为北汽集团（2025 年末直接持股 23.14%），北汽集团为北京市国资委监管的国有独资企业。",
+      "period": null,
+      "source_ids": ["s1", "s8", "s27"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; parent BAIC BluePark is listed on the Shanghai Stock Exchange (600733.SH)",
+      "value_zh": "未单独上市；母公司北汽蓝谷在上交所上市（600733.SH）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "First model",
+      "label_zh": "首款车型",
+      "value_en": "Stelato S9 (mid-to-large executive sedan), launched 6 August 2024, priced RMB 399,800 (Max) and RMB 449,800 (Ultra)",
+      "value_zh": "享界 S9（中大型行政旗舰轿车），2024 年 8 月 6 日上市，售价 39.98 万元（Max）与 44.98 万元（Ultra）",
+      "period": null,
+      "source_ids": ["s6", "s7", "s25"]
+    },
+    {
+      "label_en": "Models on sale",
+      "label_zh": "在售/预售车型",
+      "value_en": "Stelato S9 (sedan), S9T (estate), G9 (large hardcore SUV, launched August 2026) and V8 (MPV, on pre-sale since September 2026), covering sedan, estate, SUV and MPV",
+      "value_zh": "享界 S9（轿车）、S9T（旅行车）、G9（大型硬派 SUV，2026 年 8 月上市）与 V8（MPV，2026 年 9 月开启预售），覆盖轿车、旅行车、SUV、MPV 四大品类",
+      "period": null,
+      "source_ids": ["s12", "s17", "s16"]
+    },
+    {
+      "label_en": "Sales (FY2025)",
+      "label_zh": "2025 财年销量",
+      "value_en": "42,700 vehicles (up from 8,600 in 2024, per the BAIC BluePark 2025 annual report and its regulatory inquiry reply); monthly sales first passed 10,000 in December 2025",
+      "value_zh": "4.27 万辆（较 2024 年的 0.86 万辆增长，据北汽蓝谷 2025 年年度报告及问询函回复）；2025 年 12 月单月销量首次破万",
+      "period": "2025",
+      "source_ids": ["s1", "s29"]
+    },
+    {
+      "label_en": "Sales (H1 2026)",
+      "label_zh": "2026 上半年销量",
+      "value_en": "21,018 vehicles delivered, up 119.58% year on year (per the BAIC BluePark 2026 interim report)",
+      "value_zh": "交付 2.10 万辆，同比增长 119.58%（据北汽蓝谷 2026 年半年度报告）",
+      "period": "2026 H1",
+      "source_ids": ["s2", "s20"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2017-09",
+      "event_en": "BAIC Group establishes a strategic partnership with Huawei; BAIC BluePark becomes the first automaker in China to cooperate with Huawei under the HI (Huawei Inside) model.",
+      "event_zh": "北汽集团与华为确立战略合作关系；北汽蓝谷成为国内首家与华为开展 HI（Huawei Inside）模式合作的车企。",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2023-08",
+      "event_en": "BAIC BluePark announces it is upgrading its cooperation with Huawei to the Smart Selection (HIMA) model, from which the Stelato brand originates.",
+      "event_zh": "北汽蓝谷宣布与华为升级为智选车（鸿蒙智行）模式合作，「享界」品牌由此诞生。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2023-11",
+      "event_en": "BAIC and Huawei sign the Intelligent New-Energy Vehicle Cooperation Agreement, officially confirming the HIMA model and the joint creation of the premium brand Stelato.",
+      "event_zh": "北汽与华为签署《智能新能源汽车合作协议》，正式官宣采用鸿蒙智行模式，联合打造豪华智能电动车品牌「享界」。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2024-03-13",
+      "event_en": "The first model, Stelato S9, appears in an MIIT vehicle declaration list; the declared product trademark is Huazhang (华彰), with the brand's English mark STELATO and the car carrying both BAIC New Energy and Stelato S9 badges.",
+      "event_zh": "首款车型享界 S9 进入工信部申报目录，申报商标为「华彰」牌，品牌英文标识为 STELATO，车尾贴有「北汽新能源」与「享界 S9」。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2024-08-06",
+      "event_en": "The Stelato S9 launches in two pure-electric versions (Max RMB 399,800, Ultra RMB 449,800), the first model to debut Huawei ADS 3.0; media report 4,800 firm orders in the first 72 hours. BAIC Group chairman Zhang Jianyong says the group committed all its resources to the model.",
+      "event_zh": "享界 S9 上市，共 2 款纯电车型（Max 39.98 万元、Ultra 44.98 万元），首发搭载华为 ADS 3.0 智驾系统；媒体称上市 72 小时大定 4800 台。北汽集团董事长张建勇表示北汽「ALL IN 享界 S9」。",
+      "source_ids": ["s6", "s7", "s25"]
+    },
+    {
+      "date": "2025-03-18",
+      "event_en": "BAIC BluePark announces a management reshuffle: Zhang Guofu becomes chairman and Liu Guanqiao is promoted to general manager.",
+      "event_zh": "北汽蓝谷公告人事任命：张国富任董事长，刘观桥升任总经理。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025-04-16",
+      "event_en": "The S9 extended-range (EREV) version goes on sale from RMB 309,800, pulling the brand into the RMB 300,000-class segment.",
+      "event_zh": "享界 S9 增程版上市，售价 30.98 万元起，将品牌价格带下探至 30 万元级区间。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2025-09-15",
+      "event_en": "Huawei and BAIC announce an upgrade of their cooperation into a \"carmaker + Huawei technology ecosystem\" strategic community, planning to invest RMB 20 billion over three years across design, intelligent driving, smart cockpit and quality/safety, and establishing five dedicated systems including a dedicated team and a dedicated channel network.",
+      "event_zh": "华为与北汽宣布合作升级为「车企＋华为科技全生态」战略共同体，计划三年投入 200 亿元，围绕设计、智能辅助驾驶、智能座舱、品质安全四大领域推进技术迭代，并组建专属团队、专属渠道网络等五大专属体系。",
+      "source_ids": ["s30"]
+    },
+    {
+      "date": "2025-09-16",
+      "event_en": "The Stelato S9T estate launches from RMB 309,800 (EREV Max), forming a sedan-plus-estate line-up with the S9.",
+      "event_zh": "享界 S9T 旅行车上市，售价 30.98 万元起（增程 Max），与 S9 形成「轿车＋旅行车」产品组合。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2025-11-20",
+      "event_en": "The refreshed Stelato S9 launches from RMB 309,800 in four versions (EREV and pure-electric). BAIC Group chairman Zhang Jianyong announces BAIC will invest RMB 20 billion in building the Stelato brand.",
+      "event_zh": "新款享界 S9 上市，售价 30.98 万元起，共 4 款车型（增程与纯电）。北汽集团董事长张建勇宣布，北汽将投入 200 亿元资金全力打造享界品牌。",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "Stelato monthly sales pass 10,000 for the first time in December 2025.",
+      "event_zh": "享界品牌单月销量首次突破 1 万辆（2025 年 12 月）。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2026-01",
+      "event_en": "BAIC BluePark completes a private placement raising about RMB 6 billion, easing its balance-sheet and liquidity pressure (the placement was completed in January 2026 per media reports on the 2025 results).",
+      "event_zh": "北汽蓝谷完成定向增发，募资近 60 亿元，资产负债率下降、资金压力缓解（据媒体报道）。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "The S9 and S9T are refreshed with new colours and an 896-line lidar. Huawei Device BG CEO He Gang says Stelato has led the RMB 300,000-plus new-energy sedan segment for five consecutive months.",
+      "event_zh": "享界 S9、S9T 焕新，新增车色并搭载 896 线激光雷达。华为终端 BG 首席执行官何刚介绍，享界已连续 5 个月获 30 万元以上新能源轿车销量冠军。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2026-03-20",
+      "event_en": "BAIC BluePark's board elects Liu Guanqiao as chairman and appoints Song Jun as general manager; Zhang Guofu resigns as chairman (effective 19 March 2026) due to work reassignment, and media reported he was proposed to become chairman of BAIC Motor (北汽股份).",
+      "event_zh": "北汽蓝谷十一届十八次董事会选举刘观桥为董事长、聘任宋军为经理；张国富因工作调整辞去董事长职务（2026 年 3 月 19 日生效），媒体报道其获提名出任北汽股份董事长。",
+      "source_ids": ["s3", "s23", "s24"]
+    },
+    {
+      "date": "2026-08-20",
+      "event_en": "The Stelato G9, HIMA's first large luxury hardcore SUV, launches from RMB 429,800 and is the first SUV approved for a 120 km/h L3 autonomous-driving road-test licence. Media report over 5,000 firm orders within 24 hours, with Ultra/Ultra+ versions over 95% of the mix.",
+      "event_zh": "享界 G9 上市，售价 42.98 万元起，为鸿蒙智行首款大型科技豪华硬派 SUV，并获批行业最高时速 120 公里的 L3 级自动驾驶道路测试牌照。媒体称上市 24 小时大定突破 5000 辆，Ultra 与 Ultra+ 版本占比超 95%。",
+      "source_ids": ["s12", "s13", "s19"]
+    },
+    {
+      "date": "2026-09-23",
+      "event_en": "The G9 begins first customer deliveries at the Stelato Super Factory. Cumulative S9/S9T deliveries pass 60,000, with nine consecutive months leading the RMB 300,000-plus new-energy sedan segment.",
+      "event_zh": "享界 G9 在北京享界超级工厂开启首批交付；享界 S9/S9T 累计交付突破 6 万台，连续 9 个月稳居 30 万元以上新能源轿车销量冠军。",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "date": "2026-09-28",
+      "event_en": "The Stelato V8, a family MPV, opens pre-sales from RMB 329,800.",
+      "event_zh": "享界 V8（家庭智慧旗舰 MPV）开启预售，预售价 32.98 万元起。",
+      "source_ids": ["s17", "s18"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Stelato S9",
+      "name_zh": "享界 S9",
+      "role_en": "Mid-to-large executive sedan; the brand's first and core model, in pure-electric and extended-range versions.",
+      "role_zh": "中大型行政旗舰轿车，品牌首款车型与销量核心，提供纯电与增程两种动力。",
+      "price_band": "Pure-electric launched 6 Aug 2024 at RMB 399,800-449,800; EREV from RMB 309,800 (16 Apr 2025); refreshed model from RMB 309,800 (20 Nov 2025)",
+      "founded": 2024,
+      "owner_note_en": "Launched 6 August 2024 in two pure-electric versions (Max RMB 399,800 rear-drive, Ultra RMB 449,800 all-wheel-drive) with a 100 kWh 800V battery, up to 816 km CLTC range, a 0.193 Cd drag coefficient, 0-100 km/h in 3.9 s (AWD), and the first deployment of Huawei ADS 3.0 with a standard 192-line lidar. The EREV version launched 16 April 2025 from RMB 309,800, and the refreshed S9 launched 20 November 2025 in four versions (EREV Max/Ultra, pure-electric Max/Ultra) from RMB 309,800. In March 2026 the S9 added an 896-line lidar and new colours. BAIC BluePark's annual report records 2025 Stelato brand sales of 42,700 units; media note about 70% of refreshed S9 buyers came from traditional luxury-brand trade-ins.",
+      "owner_note_zh": "2024 年 8 月 6 日上市，共 2 款纯电车型（Max 39.98 万元后驱、Ultra 44.98 万元四驱），搭载 100kWh 800V 电池、CLTC 续航最高 816 公里、风阻系数 0.193、四驱零百加速 3.9 秒，全系标配 5 档自适应空气悬架与后排零重力座椅，首发华为 ADS 3.0、标配 192 线激光雷达。增程版 2025 年 4 月 16 日上市、30.98 万元起；新款 S9 于 2025 年 11 月 20 日上市，共 4 款车型（增程 Max/Ultra、纯电 Max/Ultra），30.98 万元起。2026 年 3 月新增 896 线激光雷达与新配色。北汽蓝谷年报披露 2025 年享界品牌全年销量 4.27 万辆；媒体称新款 S9 用户中约 70% 来自传统豪华品牌增换购。",
+      "status": "active",
+      "source_ids": ["s6", "s4", "s10", "s1", "s22", "s25"]
+    },
+    {
+      "name_en": "Stelato S9T",
+      "name_zh": "享界 S9T",
+      "role_en": "Luxury executive estate (shooting-brake); the sedan-plus-estate pairing drove the brand's 2025 ramp-up.",
+      "role_zh": "豪华行政旅行车（猎装），与 S9 组成「轿旅双子星」，是品牌 2025 年放量的关键。",
+      "price_band": "From RMB 309,800 (launch, 16 Sep 2025); 896-line-lidar versions from RMB 319,800 (Mar 2026)",
+      "founded": 2025,
+      "owner_note_en": "Launched 16 September 2025 in four versions (EREV Max/Ultra, pure-electric Max/Ultra) from RMB 309,800. The BAIC BluePark annual report records that S9T pre-orders approached 30,000 in its first sales period and that December 2025 monthly Stelato sales passed 10,000. The S9T won the top net-promoter-score spot among mid-to-large sedans in Jielan's research for H2 2025.",
+      "owner_note_zh": "2025 年 9 月 16 日上市，共 4 款车型（增程 Max/Ultra、纯电 Max/Ultra），30.98 万元起。北汽蓝谷年报披露 S9T 上市首销期大定近 3 万台，媒体则报道 S9T 上市 66 天大定突破 3 万台；享界品牌 2025 年 12 月单月销量破万。杰兰路 2025 年下半年新能源汽车品牌健康度研究显示，S9T 获中大型轿车 NPS（净推荐值）第一。",
+      "status": "active",
+      "source_ids": ["s5", "s1", "s21"]
+    },
+    {
+      "name_en": "Stelato G9",
+      "name_zh": "享界 G9",
+      "role_en": "Large luxury hardcore (boxy) SUV; HIMA's first SUV in this class, in pure-electric and extended-range versions.",
+      "role_zh": "大型科技豪华硬派（方盒子）SUV，鸿蒙智行首款该品类车型，提供纯电与增程两种动力。",
+      "price_band": "RMB 429,800-549,800 (China, launch price, 20 Aug 2026)",
+      "founded": 2026,
+      "owner_note_en": "Launched 20 August 2026 from RMB 429,800, in Max+/Ultra/Ultra+ versions with five- and six-seat layouts and pure-electric or extended-range powertrains; dimensions 5,377 x 2,050 x 1,897 mm with a 3,160 mm wheelbase. It is the first SUV approved for a 120 km/h L3 autonomous-driving road-test licence and carries Huawei Qiankun ADS 5 with a dual-beam 896-line lidar. Pure-electric range is up to 728 km (120 kWh) and EREV combined range up to 1,366 km. First deliveries began 23 September 2026; media report about 80% of first owners were trade-ins from Mercedes-Benz, BMW or Land Rover.",
+      "owner_note_zh": "2026 年 8 月 20 日上市，42.98 万元起，共 Max+/Ultra/Ultra+ 三个配置版本，提供五座/六座与纯电/增程两种动力，尺寸 5377×2050×1897mm、轴距 3160mm。为首款获批时速 120 公里 L3 级自动驾驶道路测试牌照的 SUV，搭载华为乾崑智驾 ADS 5 与 896 线双光路激光雷达；纯电续航最高 728km（120kWh），增程综合续航最高 1366km。2026 年 9 月 23 日开启首批交付；媒体称首批车主中约 80% 为奔驰、宝马、路虎等豪华品牌增换购。",
+      "status": "active",
+      "source_ids": ["s12", "s14", "s15"]
+    },
+    {
+      "name_en": "Stelato V8",
+      "name_zh": "享界 V8",
+      "role_en": "Family flagship MPV (mid-to-large), in pre-sale as of the research cut-off.",
+      "role_zh": "家庭智慧旗舰 MPV（中大型），截至研究截止日处于预售状态。",
+      "price_band": "Pre-sale from RMB 329,800 (China, announced 28 Sep 2026)",
+      "founded": 2026,
+      "owner_note_en": "Opened pre-sales on 28 September 2026 from RMB 329,800, positioned as a family smart flagship MPV with pure-electric and extended-range powertrains; dimensions 5,335 x 2,005 x 1,805 mm with a 3,250 mm wheelbase and a 2+2+3 layout. Pure-electric CLTC range is up to 830 km (120 kWh) and EREV combined range up to 1,465 km; it is designed on an L3 architecture and carries Huawei Qiankun ADS 5. As of the cut-off date it had not been formally launched.",
+      "owner_note_zh": "2026 年 9 月 28 日开启预售，预售价 32.98 万元起，定位家庭智慧旗舰 MPV，提供纯电与增程动力，尺寸 5335×2005×1805mm、轴距 3250mm、2+2+3 七座布局。纯电 CLTC 续航最高 830km（120kWh），增程综合续航最高 1465km；采用 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5 与 896 线激光雷达。截至研究截止日尚未正式上市。",
+      "status": "active",
+      "source_ids": ["s17", "s18"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "not applicable (no standalone financial disclosure)",
+    "standard": "PRC GAAP (Chinese Accounting Standards for Business Enterprises), parent-level reference only",
+    "rows": [],
+    "note_en": "Stelato is a brand of BAIC BluePark (operated through its subsidiary BAIC New Energy), not a separately listed or separately reporting company, and it does not publish standalone financial statements. The brand therefore has no separate revenue, gross margin, net profit or R&D figures to report, and this table is left empty. For the parent's financials see the BAIC Group and BAIC BluePark deep-dives. Reference figures below are BAIC BluePark consolidated results under PRC GAAP, where net profit is stated as profit attributable to owners of the parent (归属于母公司股东的净利润, i.e. attributable to shareholders of the listed parent; BAIC BluePark has no preference shares, so this equals profit attributable to ordinary shareholders of the parent). FY2025: operating revenue RMB27.94 billion (up 92.53%), net loss attributable to owners of the parent RMB4.563 billion, operating cash flow RMB1.934 billion and asset-liability ratio 88.47%. H1 2026: operating revenue RMB11.597 billion (up 21.86%), net loss attributable to owners of the parent RMB1.938 billion; Q1 2026 revenue RMB4.099 billion with an attributable net loss of RMB0.870 billion. This page presents only publicly disclosed information and does not constitute any trading recommendation.",
+    "note_zh": "享界为北汽蓝谷旗下品牌（由子公司北汽新能源运营），并非单独上市或单独披露报表的公司，不发布独立财务报表，因此品牌层面无单独营收、毛利率、净利润或研发投入数据可列示，本表留空；母公司财务见北汽集团与北汽蓝谷深度研究。以下参考数据均为北汽蓝谷合并报表口径（中国企业会计准则 CAS），净利润口径为「归属于母公司股东的净利润」（归母净利润）；北汽蓝谷无优先股，故等同于归属于母公司普通股股东的净利润。2025 财年：营业收入 279.40 亿元（同比 +92.53%）、归母净利润亏损 45.63 亿元、经营活动现金流净额 19.34 亿元、资产负债率 88.47%。2026 年上半年：营业收入 115.97 亿元（同比 +21.86%）、归母净利润亏损 19.38 亿元；其中 2026 年一季度营业收入 40.99 亿元、归母净利润亏损 8.70 亿元。本页仅呈现公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Stelato (享界, stylised STELATO) is the premium new-energy brand jointly created by Beijing New Energy Vehicle Co., Ltd. (北汽新能源) — the operating subsidiary of the listed BAIC BluePark New Energy Technology Co., Ltd. (Shanghai Stock Exchange 600733.SH) — and Huawei, under Huawei's Harmony Intelligent Mobility Alliance (HIMA) Smart Selection model. In this model BAIC is responsible for whole-vehicle engineering, manufacturing and quality, while Huawei contributes product definition, intelligent-driving and cockpit technology, marketing and the HIMA sales channel; Huawei holds no equity in the brand <a href=\"https://www.zgswcn.com/news.html?aid=172179\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>.</p><p>The brand debuted with the Stelato S9 executive sedan on 6 August 2024, priced from RMB 399,800 <a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202408/t20240812_6431163.html\">[s25]</a>. It has since grown into a four-segment line-up spanning the S9 sedan, the S9T estate (September 2025), the G9 large hardcore SUV (August 2026) and the V8 MPV (pre-sale since September 2026) <a href=\"https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml\">[s12]</a><a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>.</p><p>The brand targets the RMB 300,000-and-above premium segment, where it competes with Mercedes-Benz, BMW and Audi. In 2025 it sold 42,700 vehicles and passed 10,000 monthly sales for the first time that December <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>; in H1 2026 it delivered 21,018 vehicles, up 119.58% year on year <a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF\">[s2]</a>, and by September 2026 cumulative S9/S9T deliveries had passed 60,000 with nine consecutive months leading the RMB 300,000-plus new-energy sedan segment <a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>.</p>",
+      "zh": "<p>享界（英文名 STELATO）是北汽集团旗下高端新能源品牌，由上市公司北汽蓝谷新能源科技股份有限公司（上交所 600733.SH）的子公司北京新能源汽车股份有限公司（北汽新能源）与华为以鸿蒙智行「智选车」模式联合打造。该模式下，北汽负责整车工程、制造与品质，华为深度参与产品定义、智驾与座舱技术、营销及鸿蒙智行销售渠道，但华为不持有品牌股权<a href=\"https://www.zgswcn.com/news.html?aid=172179\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。</p><p>品牌以 2024 年 8 月 6 日上市的行政旗舰轿车享界 S9（39.98 万元起）为起点，S9 定位中大型行政豪华轿车，直接对标奔驰 E 级、宝马 5 系、奥迪 A6L<a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202408/t20240812_6431163.html\">[s25]</a>，随后扩展为轿车（S9）、旅行车（S9T，2025 年 9 月）、大型硬派 SUV（G9，2026 年 8 月）与 MPV（V8，2026 年 9 月预售）四大品类<a href=\"https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml\">[s12]</a><a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>。</p><p>品牌瞄准 30 万元以上高端市场，与奔驰、宝马、奥迪同台竞争。2025 年全年销量 4.27 万辆、12 月单月首次破万<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>；2026 年上半年交付 2.10 万辆、同比增长 119.58%<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF\">[s2]</a>；截至 2026 年 9 月，S9/S9T 累计交付突破 6 万台，连续 9 个月居 30 万元以上新能源轿车销量冠军<a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business and positioning</h3><p>Stelato is the premium arm of BAIC BluePark's dual-brand strategy, complementing the mass-market Arcfox (极狐) brand. BAIC BluePark's 2025 annual report describes Stelato as a global luxury new-energy brand focused on the RMB 300,000-and-above market, aiming to reach the first tier of the premium segment by 2030, with a sedan/SUV/MPV product matrix <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>. On the sales channel, in mainland China Stelato vehicles are sold through Zhongyou Zhixing (中邮智行), a subsidiary of China General Technology Group, as the exclusive general distributor, which purchases the vehicles and sells them to end consumers through its store network; as a result, China General Technology Group replaced BAIC Group as BAIC BluePark's largest customer in 2025 <a href=\"https://paper.cnstock.com/html/2026-07/18/content_2246031.htm\">[s29]</a>. In Q1 2026 Stelato models accounted for more than 30% of BAIC BluePark's volume and over 60% of its revenue <a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a>; for H1 2026 the volume share was about 21% while the revenue contribution remained above 60%, making the brand the core of the group's premiumisation drive <a href=\"https://news.qq.com/rain/a/20260831A0B6P500\">[s28]</a>.</p><h3>Latest financial performance (parent)</h3><p>Because Stelato does not report separately, its economics are visible only through parent BAIC BluePark. The parent's H1 2026 revenue was RMB11.597 billion (up 21.86% year on year) and its net loss attributable to owners of the parent was RMB1.938 billion, narrower than RMB2.308 billion a year earlier; consolidated gross margin turned positive at 4.21% <a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF\">[s2]</a><a href=\"https://news.qq.com/rain/a/20260831A0B6P500\">[s28]</a>. By quarter, Q1 2026 revenue was RMB4.099 billion (up 8.65%) with an attributable net loss of RMB0.870 billion, and Q2 2026 revenue was RMB7.498 billion with an attributable net loss of RMB1.068 billion <a href=\"https://www.stcn.com/article/detail/3792536.html\">[s26]</a><a href=\"https://news.qq.com/rain/a/20260831A0B6P500\">[s28]</a>.</p><h3>Technology</h3><p>The brand's models are built on Huawei's technology stack: Huawei Qiankun ADS intelligent driving (S9 first deployed ADS 3.0, later upgraded through ADS 4/4.1 and ADS 5), the Tuling chassis platform, Huawei's 800V high-voltage and Whale battery platform, and the HarmonyOS cockpit with the ALPS healthy-cabin suite <a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a><a href=\"https://www.stcn.com/article/detail/1279839.html\">[s7]</a>. From March 2026 the S9/S9T carry an 896-line dual-beam lidar, described by Huawei as the highest-specification mass-produced lidar at the time <a href=\"https://finance.sina.cn/2026-03-25/detail-inhseyvu6772226.d.html\">[s21]</a>. The G9 and V8 are designed on an L3 architecture; the G9 was approved for a 120 km/h L3 road-test licence <a href=\"https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml\">[s12]</a>.</p><h3>Manufacturing</h3><p>Stelato models are produced at the Stelato Super Factory in Miyun District, Beijing. The factory has steel-aluminium hybrid-body flexible production with 100% automation of key processes, and BAIC New Energy planned to invest about RMB1.991 billion to upgrade it for BE22 3.0-platform models and digitalised production <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>. Media reported in 2026 that after the upgrade the plant can build sedan, estate, SUV and MPV bodies on shared lines, roughly doubling delivery capacity <a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a>.</p><h3>Channel</h3><p>Sales run through Huawei's HIMA channel. As of end-2025 BAIC BluePark had over 900 national outlets, of which 17 were admitted to the Stelato dedicated network, with a plan to operate 40 Stelato dedicated outlets in 2026 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>.</p><h3>Sales and users</h3><p>Stelato monthly sales first passed 10,000 in December 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>. The S9/S9T have led the RMB 300,000-plus new-energy sedan segment for nine consecutive months as of September 2026, with an average transaction price of RMB349,800 — second in the luxury-sedan market <a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a><a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>.</p><h3>Overseas</h3><p>Stelato has not disclosed overseas sales. BAIC BluePark's overseas expansion so far centres on the Arcfox brand, which entered 13 countries in 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>; no separate Stelato export figure has been published.</p>",
+      "zh": "<h3>业务与定位</h3><p>享界是北汽蓝谷「极狐＋享界」双品牌战略中的高端一翼。北汽蓝谷 2025 年年报将享界定位为「全球豪华新能源汽车品牌」，聚焦 30 万元及以上高端市场，规划轿车、SUV、MPV 全品类矩阵，目标 2030 年跻身高端市场第一阵营<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。销售渠道上，享界车型在中国大陆由通用技术集团旗下中邮智行作为独家总经销商，采购后通过门店网络向终端消费者销售；2025 年北汽蓝谷第一大客户因此由北汽集团变更为通用技术集团<a href=\"https://paper.cnstock.com/html/2026-07/18/content_2246031.htm\">[s29]</a>。2026 年一季度，享界车型销量占比超 30%、营收占比超 60%<a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a>；2026 年上半年享界销量占比约 21%、营收贡献仍超 60%，成为北汽蓝谷高端化与利润提升的核心支撑<a href=\"https://news.qq.com/rain/a/20260831A0B6P500\">[s28]</a>。</p><h3>母公司最新财务（截至 as_of）</h3><p>因享界不单独披露报表，其经营表现只能透过母公司北汽蓝谷观察。北汽蓝谷 2026 年上半年营业收入 115.97 亿元（同比 +21.86%），归母净利润亏损 19.38 亿元，较上年同期亏损 23.08 亿元收窄；综合毛利率转正至 4.21%<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF\">[s2]</a><a href=\"https://news.qq.com/rain/a/20260831A0B6P500\">[s28]</a>。分季度看，2026 年一季度营收 40.99 亿元（同比 +8.65%）、归母净亏损 8.70 亿元；二季度营收 74.98 亿元、归母净亏损 10.68 亿元<a href=\"https://www.stcn.com/article/detail/3792536.html\">[s26]</a><a href=\"https://news.qq.com/rain/a/20260831A0B6P500\">[s28]</a>。</p><h3>技术</h3><p>品牌车型围绕华为技术矩阵构建：华为乾崑智驾 ADS（S9 首发 ADS 3.0，后迭代至 ADS 4/4.1/5）、途灵平台、华为 800V 高压与巨鲸电池平台、鸿蒙座舱及鸿蒙 ALPS 健康座舱<a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a><a href=\"https://www.stcn.com/article/detail/1279839.html\">[s7]</a>。以首款车 S9 为例，其采用 OneBox 设计、风阻系数 0.193（上市时称全球量产豪华轿车最低），四驱零百加速 3.9 秒，CLTC 续航最高 816 公里，全系标配 5 档自适应空气悬架与后排零重力座椅<a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202408/t20240812_6431163.html\">[s25]</a>。2026 年 3 月起 S9/S9T 搭载 896 线双光路激光雷达，华为称其为当时全球量产最高规格<a href=\"https://finance.sina.cn/2026-03-25/detail-inhseyvu6772226.d.html\">[s21]</a>。G9 与 V8 采用 L3 级自动驾驶架构设计，G9 已获批时速 120 公里的 L3 道路测试牌照<a href=\"https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml\">[s12]</a>。</p><h3>制造</h3><p>享界车型在北京市密云区享界超级工厂生产。该工厂具备钢铝混合车身柔性生产能力、关键工序自动化率 100%，并部署 AI 视觉防错、智能耐久测试等数智化技术；北汽新能源拟投资约 19.91 亿元建设「享界超级工厂高端平台车型产业化及产线数智化提升项目」，以具备 BE22 3.0 高端平台车型生产能力<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。媒体 2026 年报道，技改完成后工厂可实现轿车、旅行车、SUV、MPV 多品类共线生产，交付能力翻倍<a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a>。</p><h3>渠道</h3><p>销售通过华为鸿蒙智行渠道进行。截至 2025 年末，北汽蓝谷全国门店总数超 900 家，其中享界专网准入 17 家，2026 年计划运营享界专网 40 家<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。</p><h3>销量与用户</h3><p>享界月销于 2025 年 12 月首次破万<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>；截至 2026 年 9 月，S9/S9T 已连续 9 个月蝉联 30 万元以上新能源轿车销冠，销售均价 34.98 万元、位列豪华轿车市场第二名<a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a><a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>。</p><h3>海外</h3><p>享界未披露海外销量。北汽蓝谷的海外布局目前集中于极狐品牌，2025 年极狐已进入 13 个国家<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>；享界暂无单独出口数据公开。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founders and group sponsors</h3><p>Stelato has no private founder; it was jointly created by BAIC and Huawei. On the BAIC side, group chairman Zhang Jianyong has been the public face of the project, saying at the S9 launch that BAIC put all its resources into the model and announcing in November 2025 that BAIC would invest RMB 20 billion in the brand; Huawei's Yu Chengdong (Richard Yu, executive director and chairman of Huawei's Device BG) has co-presented the brand's launches <a href=\"https://www.cs.com.cn/ssgs/gsxw/202408/t20240812_6431163.html\">[s25]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20251121/t20251121_527436981.shtml\">[s10]</a><a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a>.</p><h3>Stelato business-unit management</h3><ul><li><strong>Ma Lei (马磊)</strong> — president of the Stelato business unit (享界事业部总裁) since June 2025, concurrently a deputy general manager of BAIC BluePark. The BAIC BluePark 2025 annual report records that he has served as a company deputy general manager since November 2024 and concurrently took the Stelato business-unit president role in June 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>.</li><li><strong>Pang Xinfu (庞新福)</strong> — vice-president of the Stelato business unit since October 2025, concurrently a deputy general manager of BAIC BluePark (per the 2025 annual report) <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>.</li><li><strong>Guo Dongdong (郭东栋)</strong> — vice-president of the Stelato business unit and general manager of the Stelato Super Factory, who joined from the Beijing Benz manufacturing system in late March 2026 <a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a>.</li></ul><h3>BAIC BluePark leadership</h3><ul><li><strong>Liu Guanqiao (刘观桥)</strong> — chairman of BAIC BluePark since 20 March 2026. He was BAIC BluePark general manager from 18 March 2025, and stepped up to chairman after Zhang Guofu's resignation; his earlier career included sales roles at Beijing Hyundai and management roles at BAIC Group <a href=\"https://paper.cnstock.com/html/2026-03/21/content_2190841.htm\">[s23]</a><a href=\"https://www.xinhuanet.com/auto/20260328/e3fd4201ea524a688a48e1b0b056c4fc/c.html\">[s24]</a>.</li><li><strong>Song Jun (宋军)</strong> — general manager of BAIC BluePark since 20 March 2026. Previously he was employee director, executive deputy general manager and chief financial officer of BAIC BluePark, and resigned those roles to become general manager <a href=\"https://paper.cnstock.com/html/2026-03/21/content_2190841.htm\">[s23]</a>.</li><li><strong>Zhang Guofu (张国富)</strong> — BAIC BluePark chairman from 18 March 2025 until his resignation effective 19 March 2026, when media reported he moved to BAIC Motor (北汽股份); at the Stelato G9 first-delivery event on 23 September 2026 he attended as a standing committee member and deputy general manager of BAIC Group, stating the Huawei partnership is unchanged <a href=\"https://www.xinhuanet.com/auto/20260328/e3fd4201ea524a688a48e1b0b056c4fc/c.html\">[s24]</a><a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>.</li></ul><h3>Ownership and governance</h3><p>Stelato is operated by BAIC BluePark's subsidiary BAIC New Energy; Huawei participates under the Smart Selection model and holds no equity. BAIC BluePark's controlling shareholder is BAIC Group, which directly held 23.14% at end-2025 (with related entities Beijing Automotive Co., BAIC (Guangzhou) and Bohai Automotive holding further stakes), and BAIC Group is a wholly state-owned enterprise supervised by the Beijing SASAC <a href=\"https://www.zgswcn.com/news.html?aid=172179\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260424091554segbjyaz\">[s27]</a>.</p>",
+      "zh": "<h3>创始与集团层面</h3><p>享界并无民营创始人，由北汽与华为联合打造。北汽方面，集团董事长张建勇是项目的公开代表，S9 上市时表态北汽「ALL IN 享界 S9」、2025 年 11 月又宣布北汽将投入 200 亿元打造享界品牌；华为常务董事、终端 BG 董事长余承东多次共同发布品牌车型<a href=\"https://www.cs.com.cn/ssgs/gsxw/202408/t20240812_6431163.html\">[s25]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20251121/t20251121_527436981.shtml\">[s10]</a><a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a>。据北汽方面介绍，自享界 S9T 上市后，双方合作已升级为「车企＋华为科技生态」战略共同体，北汽负责整车制造、工程调校与品质把控，华为输出鸿蒙智能座舱与乾崑智驾等核心科技<a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>。</p><h3>享界事业部管理层</h3><ul><li><strong>马磊</strong>——享界事业部总裁（2025 年 6 月起），兼任北汽蓝谷副总经理。北汽蓝谷 2025 年年报记载其 2024 年 11 月至今任公司副经理，2025 年 6 月起兼享界事业部总裁<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。</li><li><strong>庞新福</strong>——享界事业部副总裁（2025 年 10 月起），兼任北汽蓝谷副经理（据 2025 年年报）<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。</li><li><strong>郭东栋</strong>——享界事业部副总裁、享界超级工厂总经理，2026 年 3 月下旬由北京奔驰制造体系加盟<a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a>。</li></ul><h3>北汽蓝谷管理层</h3><ul><li><strong>刘观桥</strong>——北汽蓝谷董事长（2026 年 3 月 20 日起）。其 2025 年 3 月 18 日起任北汽蓝谷总经理，2026 年 3 月在张国富离任后接任董事长；早年有北京现代销售、北汽集团经营管理岗位经历<a href=\"https://paper.cnstock.com/html/2026-03/21/content_2190841.htm\">[s23]</a><a href=\"https://www.xinhuanet.com/auto/20260328/e3fd4201ea524a688a48e1b0b056c4fc/c.html\">[s24]</a>。</li><li><strong>宋军</strong>——北汽蓝谷总经理（2026 年 3 月 20 日起）。此前任北汽蓝谷职工董事、常务副经理、财务总监，因工作调整辞去原职后获聘为总经理<a href=\"https://paper.cnstock.com/html/2026-03/21/content_2190841.htm\">[s23]</a>。</li><li><strong>张国富</strong>——2025 年 3 月 18 日起任北汽蓝谷董事长，2026 年 3 月 19 日因工作调整辞任，媒体报道其转任北汽股份；2026 年 9 月 23 日享界 G9 首批交付仪式上以北汽集团党委常委、副总经理身份出席，表态享界与华为战略合作保持不变<a href=\"https://www.xinhuanet.com/auto/20260328/e3fd4201ea524a688a48e1b0b056c4fc/c.html\">[s24]</a><a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>。</li></ul><h3>股权与治理</h3><p>享界由北汽蓝谷的子公司北汽新能源运营，华为以智选车模式参与、不持股。北汽蓝谷的控股股东为北汽集团，2025 年末直接持股 23.14%（另有北京汽车、北汽（广州）、渤海汽车等关联方持股），北汽集团为北京市国资委监管的国有独资企业<a href=\"https://www.zgswcn.com/news.html?aid=172179\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260424091554segbjyaz\">[s27]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p>Stelato competes in China's RMB 300,000-and-above premium new-energy segment, the traditional stronghold of Mercedes-Benz, BMW and Audi. The S9/S9T are positioned against the Mercedes-Benz E-Class, BMW 5 Series and Audi A6L, and the G9 against large luxury SUVs such as the Yangwang U8 <a href=\"https://www.stcn.com/article/detail/1279839.html\">[s7]</a><a href=\"https://www.autohome.com.cn/news/202608/1316568.html\">[s14]</a>. Within HIMA, Stelato coexists with AITO (Seres), Luxeed (Chery), Maextro (JAC) and Shangjie (SAIC), occupying the premium sedan/estate band <a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>.</p><p><strong>Our judgment.</strong> Stelato's main strengths, based on reported figures, are the combination of Huawei's intelligent-driving and cockpit stack with BAIC's manufacturing, and a strong premium trade-in base — about 70% of refreshed S9 buyers and about 80% of first G9 owners came from Mercedes-Benz, BMW or other traditional luxury brands, suggesting the brand is taking share from incumbents rather than only from new-energy peers <a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a><a href=\"https://auto.sina.cn/2026-09-26/detail-initatfq9043039.d.html\">[s15]</a>. Its main weaknesses are a short track record, dependence on Huawei's channel and intelligent-driving brand, and single-segment concentration: monthly volume cooled in H2 2026 as the S9/S9T aged, before the G9 and V8 scaled up <a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>.</p>",
+      "zh": "<p>享界在中国 30 万元以上高端新能源市场参与竞争，这一区间长期是奔驰、宝马、奥迪的腹地。S9/S9T 对标奔驰 E 级、宝马 5 系、奥迪 A6L，G9 对标仰望 U8 等大型豪华 SUV<a href=\"https://www.stcn.com/article/detail/1279839.html\">[s7]</a><a href=\"https://www.autohome.com.cn/news/202608/1316568.html\">[s14]</a>。在鸿蒙智行体系内部，享界与问界（赛力斯）、智界（奇瑞）、尊界（江淮）、尚界（上汽）并存，占据高端轿车/旅行车区间；2026 年 9 月问界改由赛力斯主导产品与渠道后，华为表示资源将更多投向智界、享界、尊界、尚界<a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>。</p><p><strong>我们的判断。</strong>享界的主要优势（依据已披露数据）在于把华为智驾与座舱全栈技术与北汽制造结合，并拥有较高的豪华品牌增换购比例——新款 S9 用户约 70%、G9 首批车主约 80% 来自奔驰、宝马等传统豪华品牌，说明其更多在抢夺存量豪华车市场而非仅竞争新能源增量<a href=\"https://www.chinanews.com/cj/2026/05-14/10620872.shtml\">[s22]</a><a href=\"https://auto.sina.cn/2026-09-26/detail-initatfq9043039.d.html\">[s15]</a>。主要短板是品牌历史短、对华为渠道与智驾品牌的依赖度高，以及单一细分市场集中：2026 年下半年在 S9/S9T 步入周期中段、G9/V8 尚未放量时，月交付一度回落<a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> BAIC Group chairman Zhang Jianyong announced in November 2025 that BAIC would invest RMB 20 billion in building the Stelato brand with a full-category line-up, and media reported in September 2026 that BAIC's cumulative investment in the project had already exceeded RMB 20 billion, describing it as the group's top-priority project <a href=\"https://www.cnr.cn/2013qcpd/cz/20251121/t20251121_527436981.shtml\">[s10]</a><a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>. BAIC BluePark's annual report says the brand will keep iterating the flagship 9-series and launch an intelligent luxury all-scenario SUV and a premium family MPV, with the Stelato dedicated network planned to reach 40 outlets <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>; the G9 (SUV) has already launched and the V8 (MPV) is in pre-sale <a href=\"https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml\">[s12]</a><a href=\"https://www.autohome.com.cn/news/202609/1317475.html\">[s18]</a>.</p><p><strong>Our judgment.</strong> Whether Stelato sustains its momentum depends on three premises: converting the strong G9 launch orders and the V8 pre-sale into stable monthly volume; broadening beyond the S9/S9T sedan/estate pair, which showed a mid-2026 cooling, into the SUV and MPV segments; and keeping its Huawei-supplied intelligence current amid HIMA's restructuring, in which AITO was handed to Seres to lead in September 2026 while Huawei said it would focus resources on the other four brands <a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>. The brand's profitability also cannot yet be assessed independently, since it does not disclose standalone financials and its parent BAIC BluePark is still loss-making <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>北汽集团董事长张建勇 2025 年 11 月宣布，北汽将投入 200 亿元资金、布局全品类产品打造享界品牌；媒体 2026 年 9 月报道，北汽在享界项目上的累计投入已超 200 亿元，系集团倾资源重点推进的一号工程<a href=\"https://www.cnr.cn/2013qcpd/cz/20251121/t20251121_527436981.shtml\">[s10]</a><a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>。北汽蓝谷年报称，享界将持续迭代旗舰 9 系，并推出智能豪华全场景 SUV 与高端家用 MPV，享界专网计划运营 40 家<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>；其中 SUV（G9）已上市、MPV（V8）已开启预售<a href=\"https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml\">[s12]</a><a href=\"https://www.autohome.com.cn/news/202609/1317475.html\">[s18]</a>。北汽方面称，享界在成立两年多的时间内即完成轿车、旅行车、SUV、MPV 四大品类布局，后续 V8 将继续沿用北汽制造加华为乾崑智驾、鸿蒙座舱的深度联合开发模式<a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a>。</p><p><strong>我们的判断。</strong>享界能否延续势头取决于三个前提：其一，把 G9 上市订单与 V8 预售转化为稳定的月度销量；其二，在 S9/S9T 轿旅组合于 2026 年中出现回落后，成功向 SUV、MPV 品类拓宽；其三，在鸿蒙智行体系调整（2026 年 9 月问界交由赛力斯主导、华为称聚焦其余四界）的背景下，保持华为智驾技术供应的领先性<a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>。此外，享界不单独披露财务，母公司北汽蓝谷仍处亏损，其盈利能力尚无法独立评估<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Segment concentration and demand cooling.</strong> Stelato's volume is concentrated in the S9/S9T; media covering HIMA monthly deliveries reported the brand's monthly deliveries cooled to roughly 1,600 units in August 2026 before the G9 and V8 scaled up <a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>.</li><li><strong>Dependence on Huawei's channel and model.</strong> Sales run through the HIMA channel and the brand relies on Huawei's intelligent-driving and cockpit supply; BAIC has stated the partnership is unchanged, but HIMA's restructuring in late 2026 (AITO handed to Seres) is an external variable for the other four brands <a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a><a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>.</li><li><strong>No standalone financial disclosure.</strong> As a brand within BAIC BluePark, Stelato does not report separate financials, so its profitability cannot be assessed independently; BAIC BluePark posted an attributable net loss of RMB4.563 billion in 2025 and RMB1.938 billion in H1 2026 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF\">[s2]</a>.</li><li><strong>Intense premium-market competition.</strong> The RMB 300,000-plus segment faces price competition from traditional luxury brands cutting prices and from rival new-energy flagships <a href=\"https://www.stcn.com/article/detail/1279839.html\">[s7]</a>.</li><li><strong>Short track record.</strong> The brand has existed only since 2024, and its long-term brand equity and residual value remain unproven <a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a>.</li></ul>",
+      "zh": "<ul><li><strong>单一细分市场集中与需求回落。</strong>享界销量集中于 S9/S9T；媒体追踪鸿蒙智行月度交付指出，2026 年 8 月享界月交付一度回落至约 1600 辆，直至 G9、V8 放量前仍有波动<a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>。</li><li><strong>对华为渠道与模式的依赖。</strong>销售依赖鸿蒙智行渠道与华为智驾/座舱供应；北汽表态合作保持不变，但 2026 年下半年鸿蒙智行体系调整（问界交由赛力斯主导）是其余四界的外部变量<a href=\"https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml\">[s16]</a><a href=\"https://www.inewsweek.cn/observe/2026-09-30/32391.shtml\">[s17]</a>。</li><li><strong>无单独财务披露。</strong>作为北汽蓝谷旗下品牌，享界不单独披露财务，盈利能力无法独立评估；北汽蓝谷 2025 年归母净亏损 45.63 亿元、2026 年上半年归母净亏损 19.38 亿元<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF\">[s2]</a>。</li><li><strong>高端市场竞争激烈。</strong>30 万元以上区间面临传统豪华品牌降价与新势力旗舰的双重挤压<a href=\"https://www.stcn.com/article/detail/1279839.html\">[s7]</a>。</li><li><strong>品牌历史短。</strong>品牌自 2024 年才成立，长期品牌资产与保值率尚未得到验证<a href=\"https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml\">[s6]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "北汽蓝谷新能源科技股份有限公司 2025 年年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225165304.PDF", "date": "2026-04-24", "tier": "A" },
+    { "id": "s2", "name": "北汽蓝谷新能源科技股份有限公司 2026 年半年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF", "date": "2026-08-29", "tier": "A" },
+    { "id": "s3", "name": "北汽蓝谷：关于变更董事长、经理及提名董事候选人的公告（新浪财经公告全文转载）", "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12007026&stockid=600733", "date": "2026-03-21", "tier": "A" },
+    { "id": "s4", "name": "北汽集团官网：享界 S9 增程版上市（30.98 万元起）", "url": "https://www.baicgroup.com.cn/baicgroup/News/NewsShort/2026/1/I1457793774959722496.html", "date": "2025-04-16", "tier": "A" },
+    { "id": "s5", "name": "北汽集团官网：享界 S9T 上市（30.98 万元起）", "url": "https://www.baicgroup.com.cn/baicgroup/News/NewsShort/2026/1/I1457793774812921858.html", "date": "2025-09-17", "tier": "A" },
+    { "id": "s6", "name": "新浪财经：享界 S9 正式发布，售价 39.98 万元–44.98 万元", "url": "https://finance.sina.com.cn/tech/2024-08-06/doc-inchtaqz9939216.shtml", "date": "2024-08-06", "tier": "B" },
+    { "id": "s7", "name": "证券时报网：对标奥迪 A8、奔驰 S，华为最新发布（享界 S9）", "url": "https://www.stcn.com/article/detail/1279839.html", "date": "2024-08-06", "tier": "B" },
+    { "id": "s8", "name": "中国商报：与华为再联手 北汽蓝谷能否打场翻身仗（享界 S9 申报、华彰牌、STELATO、合作历史）", "url": "https://www.zgswcn.com/news.html?aid=172179", "date": "2024-03-15", "tier": "B" },
+    { "id": "s9", "name": "新浪：华为合作九年四款车，这节奏是快还是慢（北汽华为合作时间线）", "url": "https://www.sina.cn/news/detail/5352856074848962.html", "date": "2026-10-11", "tier": "B" },
+    { "id": "s10", "name": "央广网：30.98 万元起售 新款享界 S9 上市", "url": "https://www.cnr.cn/2013qcpd/cz/20251121/t20251121_527436981.shtml", "date": "2025-11-21", "tier": "B" },
+    { "id": "s11", "name": "央视网：鸿蒙智行新款享界 S9 正式上市 售 30.98 万起", "url": "https://5gai.cctv.com/2025/11/21/ARTIHwr1GiQceY2xLIdykYUV251121.shtml", "date": "2025-11-21", "tier": "B" },
+    { "id": "s12", "name": "中国经济网：享界 G9 正式上市（42.98 万元起）", "url": "https://www.ce.cn/cysc/tech/gd2012/202608/t20260821_3162743.shtml", "date": "2026-08-21", "tier": "B" },
+    { "id": "s13", "name": "中国新闻网：华为鸿蒙智行首款科技硬派 SUV 发布（享界 G9）", "url": "https://m.chinanews.com/wap/detail/cht/zw/449773.shtml", "date": "2026-08-20", "tier": "B" },
+    { "id": "s14", "name": "汽车之家：售 42.98 万起/大型方盒子 SUV 享界 G9 正式上市", "url": "https://www.autohome.com.cn/news/202608/1316568.html", "date": "2026-08-20", "tier": "B" },
+    { "id": "s15", "name": "新浪汽车：享界 G9 首批交付，42.98 万起硬派 SUV 实车到店", "url": "https://auto.sina.cn/2026-09-26/detail-initatfq9043039.d.html", "date": "2026-09-26", "tier": "B" },
+    { "id": "s16", "name": "中国新闻网：坚定携手华为在一起做豪车，享界持续向上突破（累计交付超 6 万、连续 9 个月冠军、200 亿投入）", "url": "https://www.chinanews.com.cn/cj/shipin/2026/09-24/news1070073.shtml", "date": "2026-09-24", "tier": "B" },
+    { "id": "s17", "name": "中国新闻周刊：不是堆配置，是分人群——鸿蒙智行 9 月发布会的分层逻辑（享界 V8 预售、问界单飞、四界）", "url": "https://www.inewsweek.cn/observe/2026-09-30/32391.shtml", "date": "2026-09-30", "tier": "B" },
+    { "id": "s18", "name": "汽车之家：享界 V8 预售 32.98 万起 家庭旗舰中大型 MPV", "url": "https://www.autohome.com.cn/news/202609/1317475.html", "date": "2026-09-28", "tier": "B" },
+    { "id": "s19", "name": "凤凰网（财联社）：半年亏损 20 亿 北汽蓝谷双品牌放量（2026 半年报）", "url": "https://i.ifeng.com/c/8vxvbzBTilL", "date": "2026-08-28", "tier": "B" },
+    { "id": "s20", "name": "央广网：6 月销量增速领跑行业 北汽蓝谷开始垂直上量（享界 H1 交付 21018 台、连续 8 个月冠军）", "url": "https://finance.cnr.cn/ycbd/20260703/t20260703_527688295.shtml", "date": "2026-07-03", "tier": "B" },
+    { "id": "s21", "name": "新浪财经（经济参考报）：享界双九焕新实力圈粉（何刚：连续 5 个月冠军；896 线激光雷达）", "url": "https://finance.sina.cn/2026-03-25/detail-inhseyvu6772226.d.html", "date": "2026-03-25", "tier": "B" },
+    { "id": "s22", "name": "中国新闻网：探秘享界超级工厂（郭东栋加盟、销售均价 34.98 万、2026 Q1 销量/营收占比、连续 6 个月冠军）", "url": "https://www.chinanews.com/cj/2026/05-14/10620872.shtml", "date": "2026-05-14", "tier": "B" },
+    { "id": "s23", "name": "上海证券报（中国证券网）：北汽蓝谷关于变更董事长、经理及提名董事候选人的公告（临 2026-028）", "url": "https://paper.cnstock.com/html/2026-03/21/content_2190841.htm", "date": "2026-03-21", "tier": "A" },
+    { "id": "s24", "name": "新华网：北汽集团旗下企业负责人调整：张国富出任北汽股份董事长 刘观桥接任北汽蓝谷董事长", "url": "https://www.xinhuanet.com/auto/20260328/e3fd4201ea524a688a48e1b0b056c4fc/c.html", "date": "2026-03-28", "tier": "B" },
+    { "id": "s25", "name": "中证网：打造豪华轿车市场新标杆，享界 S9 助北汽蓝谷打开市场空间（ADS 3.0 首发、72 小时大定 4800）", "url": "https://www.cs.com.cn/ssgs/gsxw/202408/t20240812_6431163.html", "date": "2024-08-12", "tier": "B" },
+    { "id": "s26", "name": "证券时报网：北汽蓝谷 2025 年及 2026 年一季度业绩出炉（营收 279.40 亿、Q1 净亏 8.70 亿、定增 60 亿）", "url": "https://www.stcn.com/article/detail/3792536.html", "date": "2026-04-24", "tier": "B" },
+    { "id": "s27", "name": "中证网：北汽蓝谷 2025 年亏损 45.63 亿元（前十大股东、资产负债率 88.47%）", "url": "https://newzzbcx.cs.com.cn/cxnews.html?name=new20260424091554segbjyaz", "date": "2026-04-24", "tier": "B" },
+    { "id": "s28", "name": "腾讯新闻：北汽蓝谷半年报：极狐享界增速不慢，亏损和现金流有点吓人（H1 享界销量占比约 21%、营收贡献超 60%、毛利率 4.21%、Q2 数据）", "url": "https://news.qq.com/rain/a/20260831A0B6P500", "date": "2026-08-31", "tier": "B" },
+    { "id": "s29", "name": "北汽蓝谷关于 2025 年年度报告的信息披露监管问询函的回复公告（上海证券报）", "url": "https://paper.cnstock.com/html/2026-07/18/content_2246031.htm", "date": "2026-07-18", "tier": "A" },
+    { "id": "s30", "name": "中国经济新闻网：华为北汽升级战略共同体 享界品牌迈入「全生态融合」新时代（三年投入 200 亿、五大专属体系）", "url": "https://www.cet.com.cn/wzsy/cyzx/10255639.shtml", "date": "2025-09-15", "tier": "B" }
+  ]
+}

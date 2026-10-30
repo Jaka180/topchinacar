@@ -1,0 +1,360 @@
+{
+  "id": "gac-toyota",
+  "name_en": "GAC Toyota Motor Co., Ltd.",
+  "name_zh": "广汽丰田汽车有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1 September 2004 (registered as Guangzhou Toyota Motor Co., Ltd.; renamed GAC Toyota Motor Co., Ltd. in November 2008)",
+      "value_zh": "2004 年 9 月 1 日成立（注册名广州丰田汽车有限公司，2008 年 11 月更名为广汽丰田汽车有限公司）",
+      "period": null,
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "label_en": "Joint-venture parties and stakes",
+      "label_zh": "合资方与股比",
+      "value_en": "GAC Group 50%; Toyota side 50% via Toyota Motor Corporation (30.5%) and Toyota Motor (China) Investment Co., Ltd. (19.5%)",
+      "value_zh": "广汽集团持股 50%；丰田方面合计 50%，由丰田汽车公司（30.5%）与丰田汽车（中国）投资有限公司（19.5%）分别持有",
+      "period": null,
+      "source_ids": ["s4", "s2"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Nansha District, Guangzhou, Guangdong, China",
+      "value_zh": "中国广东省广州市南沙区",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Registered capital",
+      "label_zh": "注册资本",
+      "value_en": "USD 1,333.8961 million (US$1,333,896,100; stated as 133,389.61 万美元)",
+      "value_zh": "133,389.61 万美元（13.339 亿美元）",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Legal representative",
+      "label_zh": "法定代表人",
+      "value_en": "He Xianqing (閤先庆), who is also GAC Group general manager and GAC Toyota chairman",
+      "value_zh": "閤先庆（同时任广汽集团总经理、广汽丰田董事长）",
+      "period": null,
+      "source_ids": ["s2", "s17"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; parent GAC Group is listed on the Shanghai Stock Exchange (601238) and Hong Kong Stock Exchange (02238)",
+      "value_zh": "未单独上市；母公司广汽集团在上交所（601238）与港交所（02238）两地上市",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Joint-venture term",
+      "label_zh": "合资年限",
+      "value_en": "30 years (counted from establishment in September 2004)",
+      "value_zh": "30 年（自 2004 年 9 月成立起算）",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "About 19,000 (June 2023, company website as cited by media). A more recent headcount is not publicly disclosed",
+      "value_zh": "约 1.9 万人（2023 年 6 月官网口径，经媒体引述）。更新的员工数未公开披露",
+      "period": null,
+      "source_ids": ["s21"]
+    },
+    {
+      "label_en": "Production capacity",
+      "label_zh": "产能",
+      "value_en": "Five plants with 1 million vehicles of annual standard capacity (Nansha, Guangzhou)",
+      "value_zh": "五座工厂，年标准产能 100 万辆（广州南沙）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Cumulative production",
+      "label_zh": "累计产量",
+      "value_en": "10 million units reached on 2 July 2026 (the 10-millionth vehicle was a BoZhi 7)",
+      "value_zh": "2026 年 7 月 2 日累计产量达 1000 万台（第 1000 万台为铂智 7）",
+      "period": null,
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Sales (2025)",
+      "label_zh": "2025 年销量",
+      "value_en": "756,000 wholesale (up 2.44% year-on-year, per GAC Group annual report); retail about 772,000 (up 0.3%)",
+      "value_zh": "批发 75.6 万辆（同比增长 2.44%，广汽集团年报口径）；零售约 77.2 万辆（同比增长 0.3%）",
+      "period": "2025",
+      "source_ids": ["s5", "s12", "s15"]
+    },
+    {
+      "label_en": "Sales (2024)",
+      "label_zh": "2024 年销量",
+      "value_en": "738,000 wholesale (down 22.32% year-on-year, production-and-sales bulletin basis); retail 770,100",
+      "value_zh": "批发 73.8 万辆（同比下降 22.32%，产销快报口径）；零售 77.01 万辆",
+      "period": "2024",
+      "source_ids": ["s6", "s15"]
+    },
+    {
+      "label_en": "Sales (2022 peak)",
+      "label_zh": "2022 年销量（峰值）",
+      "value_en": "1,005,000 (sales volume, the first time annual sales exceeded 1 million). This is the GAC Group sales-series peak, the same series as 738,000 in 2024 and 756,000 in 2025, not a retail figure",
+      "value_zh": "100.5 万辆（销售量，年销量首次突破百万）。这是广汽集团产销口径的峰值，与 2024 年 73.8 万辆、2025 年 75.6 万辆同一口径，不是零售数",
+      "period": "2022",
+      "source_ids": ["s15", "s6", "s5"]
+    },
+    {
+      "label_en": "Sales (H1 2026)",
+      "label_zh": "2026 上半年销量",
+      "value_en": "356,000 (up 3.29% year-on-year, GAC Group interim report)",
+      "value_zh": "35.60 万辆（同比增长 3.29%，广汽集团半年报口径）",
+      "period": "2026-H1",
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Revenue (2025)",
+      "label_zh": "2025 年营收",
+      "value_en": "RMB 110.686 billion (up 1.04% year-on-year, per GAC Group annual report joint-venture schedule)",
+      "value_zh": "1106.86 亿元（同比增长 1.04%，据广汽集团年报合营企业附表）",
+      "period": "2025",
+      "source_ids": ["s5"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2004-09",
+      "event_en": "Guangzhou Toyota Motor Co., Ltd. is established in Nansha, Guangzhou as a 50/50 joint venture between GAC Group and Toyota Motor Corporation, after the two shareholders signed the joint-venture contract and articles of association on 30 June 2004.",
+      "event_zh": "广汽集团与丰田汽车公司于 2004 年 6 月 30 日签署《合营合同》及《章程》，同年 9 月 1 日广州丰田汽车有限公司在广州南沙正式成立，双方各持股 50%。",
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "date": "2006-05",
+      "event_en": "The first model, the Camry, rolls off the first production line (announced in April and launched in June 2006), starting with an initial annual capacity of 100,000 units.",
+      "event_zh": "首款车型凯美瑞于 2006 年 4 月发布、5 月驶下总装线、6 月正式投放市场，起步年产能力 10 万辆。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2008",
+      "event_en": "The second model, the Yaris, rolls off the line. The source gives 2008 but not a month.",
+      "event_zh": "第二款车型雅力士于 2008 年下线。出处只写到 2008 年，没有写明月份。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2008-11",
+      "event_en": "The company is renamed GAC Toyota Motor Co., Ltd. The November 2008 date is the renaming, not the Yaris launch.",
+      "event_zh": "公司于 2008 年 11 月由广州丰田更名为广汽丰田汽车有限公司。11 月对应的是更名，不是雅力士下线。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2009-05",
+      "event_en": "The second production line is completed (total investment about RMB 4.26 billion) and the Highlander goes into production, lifting annual capacity from 200,000 to 360,000 units.",
+      "event_zh": "第二生产线建成投产（总投资约 42.6 亿元），汉兰达下线，年产能由 20 万台提升至 36 万台。",
+      "source_ids": ["s4", "s7"]
+    },
+    {
+      "date": "2010",
+      "event_en": "The Camry HEV is launched, GAC Toyota's first hybrid-electric model.",
+      "event_zh": "凯美瑞 HEV 发布，为广汽丰田首款油电混合动力车型。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2011-08",
+      "event_en": "Cumulative production passes 1 million vehicles (the 1-millionth unit, a blue Camry Hybrid, rolled off on 4 August 2011), about five years after first production.",
+      "event_zh": "2011 年 8 月 4 日，一辆蓝色凯美瑞混合动力驶下生产线，累计产量突破 100 万辆，距首条生产线投产约五年。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2014-07",
+      "event_en": "The Levin compact sedan is launched, pairing with FAW Toyota's Corolla as Toyota's 'twin models' and completing the north-south product matrix.",
+      "event_zh": "紧凑型轿车雷凌上市，与一汽丰田卡罗拉形成丰田在华「双生车型」，补齐南北产品矩阵。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2018",
+      "event_en": "The third production line opens, lifting annual capacity past 600,000 units; the first TNGA SUV, the C-HR, goes on sale.",
+      "event_zh": "第三生产线投产，年产能突破 60 万台；首款 TNGA 架构 SUV C-HR 全国上市。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2020-01",
+      "event_en": "Wen Dali becomes executive deputy general manager (from 1 January 2020), the Chinese-side head.",
+      "event_zh": "文大力自 2020 年 1 月 1 日起出任执行副总经理，成为广汽丰田中方负责人。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2022",
+      "event_en": "Annual sales exceed 1 million units for the first time (1,005,000 on the sales-volume count), the historical peak of the same GAC Group sales series later reported as 738,000 in 2024 and 756,000 in 2025.",
+      "event_zh": "年销量首次突破 100 万辆（销售量 100.5 万辆），为广汽集团产销口径的历史峰值，与此后年报中的 2024 年 73.8 万辆、2025 年 75.6 万辆为同一口径。",
+      "source_ids": ["s15", "s6", "s5"]
+    },
+    {
+      "date": "2023-11",
+      "event_en": "The BoZhi 4X, formerly the bZ4X, is launched in November 2023 as the BoZhi line's first model, a mid-size electric SUV. The bZ4X itself had gone on sale on 10 October 2022 at a post-subsidy price of RMB 199,800–287,800.",
+      "event_zh": "铂智 4X（原名 bZ4X）于 2023 年 11 月以铂智系列首款车型名义上市，定位中型纯电 SUV。bZ4X 本身已于 2022 年 10 月 10 日上市，综合补贴后售价 19.98 万–28.78 万元。",
+      "source_ids": ["s15", "s23", "s24"]
+    },
+    {
+      "date": "2024-11",
+      "event_en": "At its 20th anniversary on 13 November 2024, GAC Toyota launches the 'JuBian 2030' strategy to build a localized development system, run five technology lines in parallel and introduce about two new models a year on average.",
+      "event_zh": "2024 年 11 月 13 日 20 周年之际发布「聚变 2030」战略，全面构筑现地开发体制，五大技术线并行，平均每年导入约 2 款新车型。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2025-01",
+      "event_en": "Masahiro Ohori succeeds Hiroyuki Fujiwara (who moved to FAW Toyota) as the Toyota-appointed general manager, with the change completed in January 2025.",
+      "event_zh": "大堀充则接替调任一汽丰田的藤原宽行出任总经理（日方委派），调整于 2025 年 1 月完成。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "GAC Toyota rolls out 'one-price' offers on the Frontlander and Wildlander (Frontlander from RMB 89,800), cutting list prices by up to RMB 44,000.",
+      "event_zh": "对锋兰达、威兰达推出「一口价」活动（锋兰达 8.98 万元起），最高直降 4.4 万元。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2025-03",
+      "event_en": "The BoZhi 3X compact electric SUV launches, the first GAC Toyota model developed with the Chinese team leading product definition under the RCE system.",
+      "event_zh": "紧凑型纯电 SUV 铂智 3X 上市，为 RCE 制度下首款由中方团队主导研发的车型。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "Toyota launches a large recall in China over a panoramic-monitor control-program fault, covering more than 6,200 GAC Toyota vehicles; a further recall of 5,056 Wildlander vehicles for a multimedia-screen defect followed in January 2026.",
+      "event_zh": "因全景监控系统控制程序缺陷，丰田于 2025 年 12 月召回广汽丰田旗下超 6200 辆车；2026 年 1 月又因多媒体屏幕控制程序问题召回 5056 辆威兰达。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "The BoZhi 7, a mid-to-large electric sedan, is launched in late March 2026, built with the supply chain shifted to Chinese suppliers such as Huawei and Momenta.",
+      "event_zh": "中大型纯电轿车铂智 7 于 2026 年 3 月底上市，供应链全面转向华为、Momenta 等国内方案商。",
+      "source_ids": ["s3", "s15"]
+    },
+    {
+      "date": "2026-07-02",
+      "event_en": "Cumulative production reaches 10 million units, with the 10-millionth vehicle a BoZhi 7.",
+      "event_zh": "累计产量达 1000 万台，第 1000 万台量产车为铂智 7。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "Executive deputy general manager Wen Dali is transferred back to GAC Group HQ; Huang Jian returns as executive deputy general manager and Chinese-side head on 30 September. GAC Group also announces a plan to acquire all 50% of FAW Toyota held by FAW via share issuance.",
+      "event_zh": "执行副总经理文大力调回广汽集团总部；9 月 30 日黄坚回归出任执行副总经理、中方负责人。同月广汽集团发布预案，拟发行股份收购一汽股份所持一汽丰田全部 50% 股权。",
+      "source_ids": ["s11", "s14", "s22"]
+    },
+    {
+      "date": "2026-10-08",
+      "event_en": "FAW, Toyota Motor and GAC Group sign a new strategic-cooperation framework in Guangzhou. Under it, GAC plans to issue shares to acquire the 50% of FAW Toyota held by FAW; closing is not yet complete, and FAW Toyota is to keep operating as a separate company. Toyota Motor China head Tatsuro Ueda says there is no plan at this stage to merge the two joint ventures into one.",
+      "event_zh": "中国一汽、丰田汽车与广汽集团在广州签署新一轮战略合作框架协议。广汽拟发行股份收购中国一汽所持一汽丰田 50% 股权，交割尚未完成，一汽丰田仍将作为独立主体运营。丰田汽车中国本部长上田达郎表示，现阶段没有把两家合资公司合并成一家的计划。",
+      "source_ids": ["s10"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Toyota (locally produced models)",
+      "name_zh": "丰田（国产车型）",
+      "role_en": "GAC Toyota's core business, covering petrol and hybrid-electric sedans, SUVs and MPVs under the Toyota brand.",
+      "role_zh": "广汽丰田的核心业务，覆盖丰田品牌旗下燃油与油电混动的轿车、SUV 与 MPV。",
+      "price_band": "约 10 万–90 万元（官方建议零售价） / approx. RMB 100,000–900,000 (recommended retail)",
+      "founded": 2006,
+      "owner_note_en": "Models include the Camry, Highlander, Sienna, Wildlander, Frontlander, Levin, C-HR, Levin GT (Lingshang) and Venza, plus imported models such as the Alphard and GR Yaris. Recommended retail prices on the company site include the Camry from RMB 171,800, Highlander HEV from RMB 249,800, Sienna from RMB 299,800 and Alphard from RMB 899,000. In 2025 the high-value models (Camry, Sienna, Highlander) made up close to 50% of sales, and the intelligent dual-hybrid (HEV) models sold 390,400 units for the year.",
+      "owner_note_zh": "车型包括凯美瑞、汉兰达、赛那、威兰达、锋兰达、雷凌、C-HR、凌尚、威飒等，另引进埃尔法（进口）与 GR YARIS。据公司官网建议零售价：凯美瑞 17.18 万元起、汉兰达智能电混双擎 24.98 万元起、赛那 29.98 万元起、埃尔法 89.90 万元起。2025 年凯美瑞、赛那、汉兰达等高价值车型销量占比接近 50%，智能电混双擎车型全年累计销售 39.04 万辆。",
+      "status": "active",
+      "source_ids": ["s19", "s15"]
+    },
+    {
+      "name_en": "BoZhi (bZ)",
+      "name_zh": "铂智（bZ）",
+      "role_en": "GAC Toyota's all-electric sub-brand, built on a localized, China-team-led development system.",
+      "role_zh": "广汽丰田的纯电子品牌，基于本土化、中方团队主导的开发体系打造。",
+      "price_band": "铂智 3X 10.98 万元起、铂智 4X 17.98 万元起、铂智 7 16.98 万元起（建议零售价） / BoZhi 3X from RMB 109,800, BoZhi 4X from RMB 179,800, BoZhi 7 from RMB 169,800 (recommended retail)",
+      "founded": 2023,
+      "owner_note_en": "The BoZhi (bZ) line began with the BoZhi 4X in November 2023, followed by the BoZhi 3X in March 2025 and the BoZhi 7 in late March 2026. The BoZhi 3X, the first model led by the Chinese team under the Regional-Chief-Engineer (RCE) system, sold more than 70,000 units in 2025, was the top-selling joint-venture new-energy model, and had ranked first among joint-venture pure-EV models for 10 consecutive months by mid-2026, with cumulative terminal deliveries over 110,000 by H1 2026. The BoZhi 7, a mid-to-large electric sedan, is built with a supply chain shifted to Chinese suppliers such as Huawei and Momenta.",
+      "owner_note_zh": "铂智系列以 2023 年 11 月上市的铂智 4X 起步，2025 年 3 月推出铂智 3X，2026 年 3 月底推出铂智 7。铂智 3X 是 RCE（现地首席工程师）制度下首款由中方团队主导研发的车型，2025 年累计销量突破 7 万辆、拿下合资新能源车型销冠，截至 2026 年年中连续 10 个月位居合资品牌纯电销量第一，2026 年上半年累计终端交付突破 11 万辆。铂智 7 为中大型纯电轿车，供应链全面转向华为、Momenta 等国内方案商。",
+      "status": "active",
+      "source_ids": ["s15", "s16", "s12"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million (RMB 百万)",
+    "standard": "PRC GAAP (Chinese Accounting Standards). GAC Toyota is an unlisted 50/50 joint venture carried in GAC Group's consolidated financial statements as a joint venture (合营企业); its figures are disclosed within GAC Group's annual-report note on interests in joint ventures.",
+    "rows": [
+      {
+        "fiscal_year": 2025,
+        "revenue": 110686,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": ["s5"]
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 109545,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": ["s5"]
+      }
+    ],
+    "note_en": "GAC Toyota is not separately listed and publishes no standalone financial statements. The two revenue rows are GAC Toyota's own revenue (合营企业收入总额, 100% basis) as disclosed in the joint-venture schedule of GAC Group's 2025 results announcement and annual report. That schedule is in thousands of renminbi, not in yuan with extra trailing digits: revenue is 110,686,011 thousand in 2025 (RMB 110,686,011,000) and 109,544,921 thousand in 2024 (RMB 109,544,921,000). The same schedule discloses total assets (59,034,644 thousand in 2025 vs 48,517,036 thousand in 2024), total liabilities (43,715,179 thousand vs 33,875,111 thousand) and cash dividends received by GAC Group (2,210,240 thousand in 2025, equal to RMB 2,210,240,000, vs 8,859,211 thousand in 2024, equal to RMB 8,859,211,000). The schedule does not separately disclose GAC Toyota's net profit, gross margin or R&D spending, so those cells are left null. Because GAC Toyota is an unlisted 50/50 JV, GAC Group recognises its 50% share through the equity method (as share of profits of joint ventures), and there is no 'attributable-to-parent' versus 'attributable-to-ordinary-shareholders' split for this entity. Reconstructing profit from the disclosed assets, liabilities and the dividends GAC received on its 50% stake gives about RMB 5.30 billion for 2024 and about RMB 5.10 billion for 2025: net assets fell in 2024 because dividends far exceeded that year's profit, then rose in 2025 as the dividend was cut. The drop in dividends is a payout-and-retention change, not a halving of profit. Those reconstructed figures match the broker citations (about RMB 5.3 billion and RMB 5.1 billion) and are not entered in this table, because the schedule does not publish a net-profit line. The 2024 figure uses the 2023 comparative column in the 2024 annual report; the 2025 figure uses the 2024 and 2025 columns in the 2025 results schedule. H1 2026 is in GAC Group's 2026 interim report, not merely a media paraphrase: the joint-venture schedule shows revenue of 53,466,440 thousand (RMB 53.466 billion) and dividends received of 2,298,323 thousand (RMB 2.298 billion), and the operating review lists sales of 356,000 vehicles, up 3.29%, and sales revenue of RMB 53.466 billion, up 2.21%. The half-year figures are not mixed into the full-year rows. This page presents only publicly disclosed information and does not constitute any trading recommendation.",
+    "note_zh": "广汽丰田未单独上市、不发布独立财务报表。表中两行营收为广汽丰田自身的营业收入（合营企业收入总额、100% 口径），取自广汽集团 2025 年业绩公告及年度报告的合营企业附表。该附表单位是人民币千元，不是带尾数的元：2025 年收入 110,686,011 千元（即 110,686,011,000 元），2024 年收入 109,544,921 千元（即 109,544,921,000 元）。同一附表的资产总额为 2025 年 59,034,644 千元、2024 年 48,517,036 千元，负债总额为 2025 年 43,715,179 千元、2024 年 33,875,111 千元，广汽集团已收取股利为 2025 年 2,210,240 千元（即 2,210,240,000 元）、2024 年 8,859,211 千元（即 8,859,211,000 元）。该附表未单独披露广汽丰田的净利润、毛利率与研发投入，故表中相应单元格留空。由于广汽丰田是未上市的 50:50 合资公司，广汽集团按权益法确认其 50% 份额为「应占合营企业利润」，因此该公司不存在「归属于母公司股东」与「归属于普通股股东」的区分披露。用披露的资产、负债以及广汽按 50% 持股收到的股利倒推，2024 年利润约 53.0 亿元、2025 年约 51.0 亿元：2024 年净资产下降、分红远高于当年利润，2025 年净资产回升、分红下降。股利下降是分红与留存的变化，不是利润腰斩。该约数与券商研报所引口径一致，因附表未单列净利润，故不列入本表。2024 年约数用的是 2024 年年报中的 2023 年比较列，2025 年约数用的是 2025 年业绩附表中的 2024、2025 年两列。2026 年上半年数字就在广汽集团 2026 年中期报告里，不是未能核对的媒体转述：合营企业附表收入 53,466,440 千元（534.66 亿元），已收取股利 2,298,323 千元（22.98 亿元）；经营情况表同时列销量 356,000 辆、同比增长 3.29%，销售收入 534.66 亿元、同比增长 2.21%。半年数不与全年行混列。本页仅呈现公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>GAC Toyota Motor Co., Ltd. (广汽丰田汽车有限公司) is the 50/50 passenger-vehicle joint venture between the state-controlled Guangzhou Automobile Group (GAC) and Japan's Toyota Motor Corporation, established on 1 September 2004 in Nansha, Guangzhou after the two shareholders signed the joint-venture contract on 30 June 2004 <a href=\"https://www.gac-toyota.com.cn/sublayouts/Common/NewsDetail.aspx?id=b13460e0-9d0b-4e6e-98d1-57aa242ff1c8\">[s1]</a>. The Toyota side's 50% is held through Toyota Motor Corporation (30.5%) and Toyota Motor (China) Investment Co., Ltd. (19.5%), and the joint-venture term is 30 years <a href=\"https://www.toyota.com.cn/mediacenter/show.php?newsid=406\">[s4]</a>.</p><p>GAC Toyota produces the Camry, Highlander, Sienna, Wildlander, Frontlander and Levin families plus the BoZhi (bZ) electric line, and is one of China's largest joint-venture carmakers. It operates five production lines in Nansha with 1 million units of annual standard capacity and reached 10 million cumulative units on 2 July 2026 <a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a><a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>. In 2025 it sold 756,000 vehicles on a wholesale basis (up 2.44% year-on-year), one of the few joint ventures to grow in a shrinking market, with revenue of RMB 110.686 billion <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-30/601238_20260430_K40A.pdf\">[s5]</a>.</p><p>Within GAC Group, GAC Toyota is the largest revenue contributor among the joint ventures: its 2025 revenue of RMB 110.686 billion exceeded GAC Trumpchi's RMB 40.441 billion and GAC Aion's RMB 28.384 billion combined, and it remained a key source of cash dividends even as distributions received by GAC fell sharply from RMB 8.859 billion (2024) to RMB 2.210 billion (2025) <a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>.</p><p>GAC Toyota is the southern half of Toyota's 'north-south' dual-venture structure in China, alongside FAW Toyota. In 2025 Toyota's China sales exceeded 1.78 million units (up 0.23%), the only mainstream Japanese brand to grow that year, and the two Toyota joint ventures together held 17.03% of the joint-venture passenger-car market <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>. Since 2024 the company has handed product-definition authority to Chinese engineers under its RCE system and, in September 2026, GAC announced a plan to acquire FAW Toyota's Chinese-side 50% stake, a step toward coordinating the two ventures <a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a>.</p>",
+      "zh": "<p>广汽丰田汽车有限公司是国有控股的广州汽车集团股份有限公司（广汽集团）与日本丰田汽车公司按 50:50 合资组建的乘用车企业，双方于 2004 年 6 月 30 日签署《合营合同》及《章程》，同年 9 月 1 日在广州南沙成立<a href=\"https://www.gac-toyota.com.cn/sublayouts/Common/NewsDetail.aspx?id=b13460e0-9d0b-4e6e-98d1-57aa242ff1c8\">[s1]</a>。丰田方面的 50% 由丰田汽车公司（30.5%）与丰田汽车（中国）投资有限公司（19.5%）分别持有，合资年限 30 年<a href=\"https://www.toyota.com.cn/mediacenter/show.php?newsid=406\">[s4]</a>。</p><p>广汽丰田生产凯美瑞、汉兰达、赛那、威兰达、锋兰达、雷凌等车型以及铂智（bZ）纯电系列，是中国规模最大的合资乘用车企业之一。公司在南沙运营五条生产线、年标准产能 100 万台，并于 2026 年 7 月 2 日实现累计产量 1000 万台<a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a><a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>。2025 年批发销售整车 75.6 万辆（同比增长 2.44%），是收缩的市场中少数实现正增长的合资企业，全年营收 1106.86 亿元<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-30/601238_20260430_K40A.pdf\">[s5]</a>。</p><p>在广汽集团内部，广汽丰田是合资板块中营收贡献最大的一家：其 2025 年营收 1106.86 亿元，超过广汽传祺（404.41 亿元）与广汽埃安（283.84 亿元）两家之和，仍是集团重要的现金股利来源，尽管广汽收到的股利已从 2024 年的 88.59 亿元大幅降至 2025 年的 22.10 亿元<a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>。</p><p>广汽丰田是丰田在华「南北双合资」结构中的南翼，与一汽丰田并列。2025 年丰田在华销量突破 178 万辆、同比微增 0.23%，为当年唯一实现正增长的主流日系品牌；南北丰田合计占合资乘用车市场 17.03% 的份额<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。自 2024 年起公司在 RCE 制度下将产品定义权交予中国工程师；2026 年 9 月广汽集团发布预案拟收购一汽丰田中方 50% 股权，推进南北丰田协同<a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and products</h3><p>GAC Toyota's business runs on two lines: Toyota-brand petrol and hybrid models (Camry, Highlander, Sienna, Wildlander, Frontlander, Levin, C-HR, Lingshang, Venza) and the BoZhi all-electric line (BoZhi 4X, BoZhi 3X, BoZhi 7), plus imported models such as the Alphard and the hydrogen-fuel-cell MIRAI <a href=\"https://www.gac-toyota.com.cn/\">[s19]</a>. In 2025 the high-value models (Camry, Sienna, Highlander) made up close to 50% of sales, while the intelligent dual-hybrid (HEV) models sold 390,400 units for the year <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>. In H1 2026 energy-saving and new-energy models (HEV and NEV combined) sold about 247,100 units, up 22.12% year-on-year, lifting their share of GAC Toyota volume to 69.40% <a href=\"https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s3]</a>.</p><h3>Plants and capacity</h3><p>GAC Toyota operates five plants in Nansha with 1 million units of annual standard capacity, and describes itself as Toyota's most centrally concentrated production base globally <a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>. Its first line started with Camry production in 2006 at 100,000 units a year, the second line opened in 2009 (lifting capacity from 200,000 to 360,000 units), the third opened in 2018 (past 600,000 units), and it has since expanded to five lines <a href=\"https://www.toyota.com.cn/mediacenter/show.php?newsid=406\">[s4]</a><a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>.</p><h3>Technology and localized development</h3><p>Since 2024 GAC Toyota has shifted product-definition authority to Chinese engineers under the Regional-Chief-Engineer (RCE) system; in February 2025 Toyota's headquarters decided to hand development decision-making for GAC Toyota's intelligent electric products from Japan to China <a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a><a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a>. The BoZhi 7 carries a HarmonyOS cockpit and Momenta-assisted driving, and the company describes a China-led development system spanning petrol, hybrid, plug-in hybrid, pure-electric and hydrogen-electric routes <a href=\"https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s3]</a><a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>. Toyota has also begun integrating the local R&D resources of FAW, GAC and BYD into a unified 'ONE R&D' system in Changshu, with the China chief-engineer system as the organisational vehicle for devolving product definition <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>.</p><h3>Sales strategy and pricing</h3><p>To hold share amid the price war, GAC Toyota adopted aggressive pricing: in February 2025 it launched 'one-price' offers on the Frontlander and Wildlander, cutting the Frontlander to RMB 89,800 and the Wildlander to RMB 129,800, with cuts of up to RMB 44,000 <a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a>. The BoZhi 3X (from RMB 109,800, with a limited-time offer from RMB 94,800) targets domestic rivals, while the BoZhi 7 slots into the mainstream electric-sedan band at RMB 169,800–229,800 <a href=\"https://www.gac-toyota.com.cn/\">[s19]</a>.</p><h3>H1 2026 performance (A-level filing)</h3><p>Per GAC Group's 2026 interim report, GAC Toyota sold 356,000 vehicles in H1 2026 (up 3.29% year-on-year) <a href=\"https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s3]</a>. Media citing GAC Group disclosures put H1 2026 revenue at RMB 53.466 billion and cash dividends received by GAC Group at RMB 2.298 billion <a href=\"https://news.qq.com/rain/a/20260930A05PEW00\">[s9]</a>. On a retail basis the company reported 341,107 units in H1 2026, with the BoZhi pure-EV line selling 52,202 units <a href=\"https://news.qq.com/rain/a/20260724A0DU4Z00\">[s16]</a>.</p><h3>Overseas business</h3><p>GAC Toyota's sales are almost entirely domestic; the company does not itself run a significant export operation, and GAC Group's overseas expansion is driven mainly by its own brands rather than the Toyota joint venture <a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>.</p>",
+      "zh": "<h3>业务结构与产品</h3><p>广汽丰田的业务分两条线：丰田品牌燃油与混动车型（凯美瑞、汉兰达、赛那、威兰达、锋兰达、雷凌、C-HR、凌尚、威飒等），以及铂智纯电系列（铂智 4X、铂智 3X、铂智 7），另有埃尔法等进口车型与 MIRAI 氢燃料电池车<a href=\"https://www.gac-toyota.com.cn/\">[s19]</a>。2025 年凯美瑞、赛那、汉兰达等高价值车型销量占比接近 50%，智能电混双擎车型全年累计销售 39.04 万辆<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>。2026 年上半年，节能与新能源车型（混动与新能源合计）销量约 24.71 万辆，同比增长 22.12%，占广汽丰田销量的比重升至 69.40%<a href=\"https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s3]</a>。</p><h3>工厂与产能</h3><p>广汽丰田在南沙运营五座工厂，年标准产能 100 万台，并自称是丰田全球集中规模化程度最高的生产基地<a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>。第一生产线 2006 年以凯美瑞起步、年产 10 万台；第二生产线 2009 年投产、年产能由 20 万台提升至 36 万台；第三生产线 2018 年投产、年产能突破 60 万台，此后扩至五条生产线<a href=\"https://www.toyota.com.cn/mediacenter/show.php?newsid=406\">[s4]</a><a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>。</p><h3>技术与本土化开发</h3><p>自 2024 年起，广汽丰田在 RCE（现地首席工程师）制度下将产品定义权交予中国工程师；2025 年 2 月丰田总部决定将广汽丰田智能电动产品的开发决策权由日本移交中国<a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a><a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a>。铂智 7 搭载鸿蒙座舱与 Momenta 智驾，公司将其概括为覆盖燃油、混动、插混、纯电、氢电多技术路线的中国主导研发体系<a href=\"https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s3]</a><a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>。丰田还整合一汽、广汽、比亚迪三方本土研发资源，在常熟搭建统一的 ONE R&D 研发体系，并以中国首席工程师制度作为产品定义权下放的组织载体<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。</p><h3>销售策略与定价</h3><p>为在价格战中守住份额，广汽丰田采取进攻型定价：2025 年 2 月对锋兰达、威兰达推出「一口价」，锋兰达降至 8.98 万元、威兰达降至 12.98 万元，最高直降 4.4 万元<a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a>。铂智 3X（10.98 万元起、限时权益价 9.48 万元起）对标国内同级车型，铂智 7 则以 16.98 万–22.98 万元切入国内纯电轿车主流价位<a href=\"https://www.gac-toyota.com.cn/\">[s19]</a>。</p><h3>2026 年上半年业绩（A 级公告）</h3><p>据广汽集团 2026 年中期报告，广汽丰田 2026 年上半年销量 35.60 万辆（同比增长 3.29%）<a href=\"https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf\">[s3]</a>。媒体引述广汽集团披露称，2026 年上半年广汽丰田营收 534.66 亿元、广汽集团收到现金股利 22.98 亿元<a href=\"https://news.qq.com/rain/a/20260930A05PEW00\">[s9]</a>。零售口径下，2026 年上半年广汽丰田零售 341,107 辆，铂智纯电系列销量 52,202 辆<a href=\"https://news.qq.com/rain/a/20260724A0DU4Z00\">[s16]</a>。</p><h3>海外业务</h3><p>广汽丰田的销量几乎全部来自国内市场，公司自身并不经营大规模出口业务；广汽集团的海外扩张主要由其自主品牌驱动，而非丰田合资板块<a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>As a Sino-Japanese joint venture, GAC Toyota has no individual founder; it was created in 2004 through the agreement between GAC Group and Toyota Motor Corporation, with strategy and management set jointly by the two shareholders <a href=\"https://www.gac-toyota.com.cn/sublayouts/Common/NewsDetail.aspx?id=b13460e0-9d0b-4e6e-98d1-57aa242ff1c8\">[s1]</a>.</p><h3>Current management</h3><ul><li><strong>He Xianqing (閤先庆)</strong> — chairman and legal representative of GAC Toyota. He became general manager of GAC Group on 16 November 2025 and concurrently chairs GAC Toyota and GAC Aion <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf\">[s2]</a><a href=\"https://emweb.securities.eastmoney.com/PC_HKF10/CompanyManager/index?code=02238&type=web\">[s17]</a>.</li><li><strong>Masahiro Ohori (大堀充则)</strong> — general manager, the Toyota-appointed senior executive. Media reported in February 2025 that he succeeded Hiroyuki Fujiwara (藤原宽行), who moved to FAW Toyota, with the change completed in January 2025 <a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a>.</li><li><strong>Huang Jian (黄坚)</strong> — executive deputy general manager and Chinese-side head since 30 September 2026. He joined GAC in 1998, served as GAC Toyota deputy general manager from 2020 (overseeing procurement, finance, HR and digitalisation), became Trumpchi BU president in January 2026, and then returned to GAC Toyota <a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a><a href=\"https://ep.ycwb.com/epaper/xkb/html/2026-10/14/content_1514_768703.htm\">[s14]</a>.</li><li><strong>Wen Dali (文大力)</strong> — former executive deputy general manager (from 1 January 2020) and party secretary. From 2013 he served as a GAC Toyota deputy general manager primarily responsible for human resources. He was transferred back to GAC Group HQ in September 2026 <a href=\"https://finance.sina.cn/tech/2026-09-21/detail-inisqetz2149313.d.html\">[s13]</a>.</li><li><strong>Jiang Xiuyun (江秀云)</strong> — GAC Group vice president, who also serves as a director of GAC Toyota <a href=\"https://emweb.securities.eastmoney.com/PC_HKF10/CompanyManager/index?code=02238&type=web\">[s17]</a>.</li></ul><h3>Ownership and governance</h3><p>GAC Group holds 50%; the Toyota side holds 50% via Toyota Motor Corporation (30.5%) and Toyota Motor (China) Investment Co., Ltd. (19.5%), with registered capital of US$133,389.61 ten-thousand <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf\">[s2]</a><a href=\"https://www.toyota.com.cn/mediacenter/show.php?newsid=406\">[s4]</a>. GAC Toyota Motor Sales Co., Ltd. is its wholly-owned subsidiary; GAC Toyota Engine Co., Ltd. is a related engine joint venture in which GAC Group holds 30% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf\">[s2]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>作为中日合资企业，广汽丰田没有单一的创始人，它由广汽集团与丰田汽车公司于 2004 年通过合资协议共同设立，管理与战略由双方股东共同决定<a href=\"https://www.gac-toyota.com.cn/sublayouts/Common/NewsDetail.aspx?id=b13460e0-9d0b-4e6e-98d1-57aa242ff1c8\">[s1]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>閤先庆</strong>——广汽丰田董事长、法定代表人。2025 年 11 月 16 日起任广汽集团总经理，并兼任广汽丰田、广汽埃安董事长<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf\">[s2]</a><a href=\"https://emweb.securities.eastmoney.com/PC_HKF10/CompanyManager/index?code=02238&type=web\">[s17]</a>。</li><li><strong>大堀充则</strong>——总经理，为丰田方面委派的高管。据媒体 2025 年 2 月报道，其接替调任一汽丰田的藤原宽行出任总经理，调整于 2025 年 1 月完成<a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a>。</li><li><strong>黄坚</strong>——执行副总经理、中方负责人，2026 年 9 月 30 日到任。1998 年加入广汽，2020 年起任广汽丰田副总经理（分管采购、财务、人事、数字化等），2026 年 1 月出任传祺 BU 总裁，后回归广汽丰田<a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a><a href=\"https://ep.ycwb.com/epaper/xkb/html/2026-10/14/content_1514_768703.htm\">[s14]</a>。</li><li><strong>文大力</strong>——前任执行副总经理（2020 年 1 月 1 日起）兼党委书记，2013 年起担任广汽丰田副总经理、主要负责人力资源，2026 年 9 月调回广汽集团总部<a href=\"https://finance.sina.cn/tech/2026-09-21/detail-inisqetz2149313.d.html\">[s13]</a>。</li><li><strong>江秀云</strong>——广汽集团副总经理，兼任广汽丰田董事<a href=\"https://emweb.securities.eastmoney.com/PC_HKF10/CompanyManager/index?code=02238&type=web\">[s17]</a>。</li></ul><h3>股权与治理</h3><p>广汽集团持股 50%；丰田方面持股 50%，由丰田汽车公司（30.5%）与丰田汽车（中国）投资有限公司（19.5%）分别持有，注册资本 133,389.61 万美元<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf\">[s2]</a><a href=\"https://www.toyota.com.cn/mediacenter/show.php?newsid=406\">[s4]</a>。广汽丰田汽车销售有限公司为其全资子公司；广汽丰田发动机有限公司为相关发动机合资公司，广汽集团持股 30%<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf\">[s2]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p>GAC Toyota competes across the mass-market sedan, SUV and MPV segments against its sibling FAW Toyota, other joint ventures (GAC Honda, Dongfeng Honda, SAIC Volkswagen, FAW-Volkswagen) and fast-rising Chinese brands such as BYD, Geely and Changan, plus new-energy players such as XPeng and Xiaomi <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>. In 2025 the two Toyota joint ventures together held 17.03% of the joint-venture passenger-car market, ranking them among the leading joint-venture groups, and Toyota was the only mainstream Japanese brand to grow in China that year <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>. Its 'twin-model' structure with FAW Toyota means directly overlapping products — Levin vs Corolla, Wildlander vs RAV4 — which has become a source of duplication in a stagnant market <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>.</p><p>In H1 2026 the divergence between the two Toyota joint ventures widened: by Toyota's China-wide measure, GAC Toyota sold 341,100 units (down 6.3%) while FAW Toyota sold 273,700 (down 27.4%), so GAC Toyota outperformed its sibling as the north-south structure came under review <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>.</p><p><strong>Our judgment.</strong> GAC Toyota's strengths are its manufacturing quality, a large HEV base (390,400 units in 2025), a high-value model mix (Camry, Sienna, Highlander at close to 50% of sales) and 10 million cumulative units of scale <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a><a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>. Its weaknesses are structural: pure-electric entry was late, and the BoZhi 4X was tepidly received; the flagship BoZhi 7, launched in late March 2026, still has to prove it can hold its launch volume, a point the media flagged as the key test of the company's 'China solution' <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>. Profitability has narrowed: dividends received by GAC from GAC Toyota fell from RMB 8.859 billion (2024) to RMB 2.210 billion (2025) <a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>.</p>",
+      "zh": "<p>广汽丰田在国内大众化轿车、SUV 与 MPV 市场参与竞争，对手包括同门的一汽丰田、广汽本田、东风本田、上汽大众、一汽-大众等合资企业，以及比亚迪、吉利、长安等快速崛起的自主品牌和小鹏、小米等新能源品牌<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。2025 年南北丰田合计占合资乘用车市场 17.03% 的份额，位居合资阵营前列，丰田是当年在华唯一实现正增长的主流日系品牌<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。其与一汽丰田的「双生车型」结构意味着产品直接重叠——雷凌对卡罗拉、威兰达对 RAV4——在存量市场中已成为重复投入的来源<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。</p><p>2026 年上半年，南北丰田的分化进一步拉大：按丰田在华口径，广汽丰田销售 34.11 万辆（同比下降 6.3%），一汽丰田销售 27.37 万辆（同比下降 27.4%），广汽丰田明显优于同门，这一分化也促使南北结构进入调整<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。</p><p><strong>我们的判断。</strong>广汽丰田的优势在于制造品质、庞大的混动基本盘（2025 年智能电混双擎 39.04 万辆）、高价值车型占比接近 50% 的产品结构，以及 1000 万台的规模积累<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a><a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>。其短板是结构性的：纯电布局起步偏晚，铂智 4X 反响平淡；旗舰铂智 7 于 2026 年 3 月底上市后能否守住上市销量仍是未知数，媒体将其视为公司「中国方案」的关键考验<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>。盈利能力也在收窄：广汽集团从广汽丰田收到的股利由 2024 年的 88.59 亿元降至 2025 年的 22.10 亿元<a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Under the 'JuBian 2030' strategy announced at its 20th anniversary in November 2024, GAC Toyota aims to rebuild its self-development capability across product definition, R&D, manufacturing and marketing, and to re-challenge annual production and sales of 1 million vehicles by 2030 <a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>. Media reported a 2026 target of about 800,000 units with new-energy share above 20%, and a push toward 1 million units in 2028; the company's own statement at the 10-million-unit milestone described a full sprint toward annual production and sales of 1 million units during 2027–2030 <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a><a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>. The company plans to introduce about two new models a year on average across five technology lines, and to deepen the RCE system under which Chinese engineers lead product development <a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>. In 2026 Toyota China has begun consolidating the two joint ventures' product plans and supplier base under a 'one Toyota' push <a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>. Separately, in late September 2026 GAC Group announced a major-asset-restructuring plan to acquire via share issuance the 50% of FAW Toyota held by FAW, which, if completed, would make GAC the holder of the Chinese-side stakes in both Toyota ventures <a href=\"https://news.qq.com/rain/a/20260929A0BFY100\">[s22]</a>.</p><p><strong>Our judgment.</strong> Whether GAC Toyota stabilises depends on two premises. First, whether the BoZhi line and localized R&D can offset the structural decline of its fuel-car base — the BoZhi 3X has succeeded (top joint-venture pure-EV model for 10 consecutive months), while the BoZhi 7 has yet to prove it can hold its launch volume <a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>. Second, whether north-south Toyota coordination actually reduces duplication in R&D, procurement and channels — the FAW Toyota acquisition was still pending regulatory review as of the cut-off date, and its operational benefits are unproven <a href=\"https://news.qq.com/rain/a/20260929A0BFY100\">[s22]</a><a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a>. Profit recovery also matters: dividends received by GAC have already fallen sharply, and GAC Group itself recorded a large attributable net loss in 2025, which could constrain investment available to the joint venture <a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>根据 2024 年 11 月 20 周年发布的「聚变 2030」战略，广汽丰田将在商品定义、研发、制造、营销等领域重构自主能力，到 2030 年再次挑战年产销 100 万辆<a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>。媒体披露其 2026 年目标为产销约 80 万辆、新能源占比突破 20%，并计划 2028 年冲刺百万；公司在累计产量 1000 万台节点上则表述为 2027 年至 2030 年全面冲刺年产销百万台<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a><a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>。公司计划在五大技术线基础上平均每年导入约 2 款新车型，并深化中国工程师主导产品开发的 RCE 体制<a href=\"https://c.m.163.com/news/a/JGTE43OG0527LFG4.html\">[s7]</a>。2026 年丰田中国已开始整合南北丰田的产品规划与供应商体系，推进「一个丰田」协同<a href=\"https://news.qq.com/rain/a/20261014A0BV9E00\">[s10]</a>。此外，2026 年 9 月底广汽集团发布重大资产重组预案，拟发行股份收购一汽股份所持一汽丰田全部 50% 股权，若完成将使其同时持有南北丰田的中方股权<a href=\"https://news.qq.com/rain/a/20260929A0BFY100\">[s22]</a>。</p><p><strong>我们的判断。</strong>广汽丰田能否企稳取决于两个前提：其一，铂智系列与本土化研发能否对冲燃油车基本盘的结构性收缩——铂智 3X 已证明可行（连续 10 个月合资纯电销冠），而铂智 7 尚未证明能守住上市销量<a href=\"https://static.nfnews.com/content/202607/02/c12587228.html\">[s12]</a>。其二，南北丰田协同能否切实减少研发、采购与渠道的重复投入——截至研究截止日，一汽丰田股权收购尚待监管审核，其运营协同效果尚未验证<a href=\"https://news.qq.com/rain/a/20260929A0BFY100\">[s22]</a><a href=\"https://www.163.com/dy/article/L83EAJM405199DKK.html\">[s11]</a>。利润修复同样关键：广汽收到的股利已大幅下降，广汽集团自身 2025 年亦出现较大归母净亏损，或制约其对合资板块的资金投入<a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Fuel-car base contraction.</strong> Sales fell from an about-1,005,000-unit peak in 2022 (retail) to 738,000 (wholesale) in 2024 before a modest recovery to 756,000 in 2025, reflecting a shrinking internal-combustion market <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a><a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a>.</li><li><strong>New-energy competition and pricing.</strong> The BoZhi 7 competes in the crowded RMB 150,000–200,000 electric-sedan segment, and the company faces intense price competition from domestic brands in both fuel and electric segments <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>.</li><li><strong>Profit compression.</strong> Dividends received by GAC Group from GAC Toyota fell from RMB 8.859 billion in 2024 to RMB 2.210 billion in 2025, even as revenue held roughly flat, indicating thinning margins <a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>.</li><li><strong>Software-reliability recalls.</strong> Two recalls in late 2025 and early 2026 over panoramic-monitor and multimedia-screen control-program defects pointed to reliability gaps in the company's intelligent cockpit, a risk to its 'reliable and durable' brand reputation <a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>.</li><li><strong>Integration uncertainty.</strong> GAC's plan to acquire 50% of FAW Toyota and coordinate the two Toyota joint ventures was still pending regulatory approval as of the cut-off date, and its operational benefits are unproven <a href=\"https://news.qq.com/rain/a/20260929A0BFY100\">[s22]</a>.</li><li><strong>Parent-company strain.</strong> GAC Group recorded an attributable net loss of RMB 8.784 billion in 2025, which may constrain the investment available to its joint ventures <a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>.</li></ul>",
+      "zh": "<ul><li><strong>燃油车基本盘收缩。</strong>销量从 2022 年约 100.5 万辆的峰值（零售）降至 2024 年 73.8 万辆（批发），2025 年小幅回升至 75.6 万辆，反映燃油车市场持续收缩<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a><a href=\"https://www.toutiao.com/article/7467871648427819571/\">[s6]</a>。</li><li><strong>新能源竞争与定价。</strong>铂智 7 在 15–20 万元纯电轿车赛道面对众多竞品，公司在燃油与电动两个领域均承受自主品牌的激烈价格竞争<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>。</li><li><strong>利润承压。</strong>广汽集团从广汽丰田收到的股利由 2024 年的 88.59 亿元降至 2025 年的 22.10 亿元，营收却基本持平，显示单车盈利空间收窄<a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>。</li><li><strong>软件可靠性召回。</strong>2025 年末与 2026 年初两次召回分别涉及全景监控与多媒体屏幕控制程序缺陷，指向智能座舱的可靠性短板，对其「可靠耐用」的品牌口碑构成风险<a href=\"https://wap.zhengguannews.cn/html/zgh/398098.html\">[s15]</a>。</li><li><strong>整合不确定性。</strong>广汽拟收购一汽丰田 50% 股权并推进南北丰田协同，截至研究截止日交易尚待监管审核，其运营协同效果尚未验证<a href=\"https://news.qq.com/rain/a/20260929A0BFY100\">[s22]</a>。</li><li><strong>母公司经营承压。</strong>广汽集团 2025 年归母净亏损 87.84 亿元，或影响其对合资板块的资金投入能力<a href=\"https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml\">[s8]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "广汽丰田官网·雷凌上市十周年报道（公司成立经过、早期投资与凯美瑞投产）", "url": "https://www.gac-toyota.com.cn/sublayouts/Common/NewsDetail.aspx?id=b13460e0-9d0b-4e6e-98d1-57aa242ff1c8", "date": "2014-07-28", "tier": "A" },
+    { "id": "s2", "name": "广汽集团2025年年度股东会资料（上交所公告，注册资本与法定代表人）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-22/601238_20260522_QAYV.pdf", "date": "2026-05-22", "tier": "A" },
+    { "id": "s3", "name": "广汽集团2026年中期报告（上交所公告）", "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-09-30/601238_20260930_4RZG.pdf", "date": "2026-09-30", "tier": "A" },
+    { "id": "s4", "name": "丰田中国官网·广汽丰田第二生产线落成（2008年11月更名、合资期限30年、三方出资比例）", "url": "https://www.toyota.com.cn/mediacenter/show.php?newsid=406", "date": "2009-05-25", "tier": "A" },
+    { "id": "s5", "name": "广汽集团2025年年度报告（H股公告，含合营企业附表：广汽丰田营收、资产、负债、股利）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-30/601238_20260430_K40A.pdf", "date": "2026-04-30", "tier": "A" },
+    { "id": "s6", "name": "蓝鲸新闻（今日头条转载）·广汽丰田人事变动 大堀充则接替藤原宽行任总经理", "url": "https://www.toutiao.com/article/7467871648427819571/", "date": "2025-02-05", "tier": "B" },
+    { "id": "s7", "name": "网易·广汽丰田成立20周年 聚变2030（历史节点、产能与战略）", "url": "https://c.m.163.com/news/a/JGTE43OG0527LFG4.html", "date": "2024-11-13", "tier": "B" },
+    { "id": "s8", "name": "新浪财经·合资失守、自主品牌慢半拍（汽车营造社，引广汽2025年报财务与销量）", "url": "https://finance.sina.com.cn/wm/2026-03-30/doc-inhsthzn2991446.shtml", "date": "2026-03-30", "tier": "B" },
+    { "id": "s9", "name": "腾讯新闻·广汽股权为礼娶一汽丰田（汽势焦点，引广汽年报与2026上半年财务）", "url": "https://news.qq.com/rain/a/20260930A05PEW00", "date": "2026-09-30", "tier": "B" },
+    { "id": "s10", "name": "腾讯新闻·央企、外企、地方国企合力重塑丰田在华格局（南北丰田份额与ONE R&D）", "url": "https://news.qq.com/rain/a/20261014A0BV9E00", "date": "2026-10-14", "tier": "B" },
+    { "id": "s11", "name": "经济观察报（网易转载）·黄坚回归广汽丰田任中方负责人", "url": "https://www.163.com/dy/article/L83EAJM405199DKK.html", "date": "2026-09-30", "tier": "B" },
+    { "id": "s12", "name": "南方+（广州南沙发布）·10000000台！广汽丰田累计产量达1000万台", "url": "https://static.nfnews.com/content/202607/02/c12587228.html", "date": "2026-07-02", "tier": "B" },
+    { "id": "s13", "name": "运营商财经网（新浪财经）·广汽丰田执行副总经理文大力调去集团总部", "url": "https://finance.sina.cn/tech/2026-09-21/detail-inisqetz2149313.d.html", "date": "2026-09-21", "tier": "B" },
+    { "id": "s14", "name": "羊城晚报·一周人物（黄坚回归广汽丰田任中方负责人）", "url": "https://ep.ycwb.com/epaper/xkb/html/2026-10/14/content_1514_768703.htm", "date": "2026-10-14", "tier": "B" },
+    { "id": "s15", "name": "正观新闻·销量回暖，短板犹在（广汽丰田零售销量、铂智车型与召回）", "url": "https://wap.zhengguannews.cn/html/zgh/398098.html", "date": "2026-04-16", "tier": "B" },
+    { "id": "s16", "name": "腾讯新闻·所有车企争销量第一，广汽丰田争责任第一（2026上半年零售与铂智销量）", "url": "https://news.qq.com/rain/a/20260724A0DU4Z00", "date": "2026-07-24", "tier": "B" },
+    { "id": "s17", "name": "东方财富·广汽集团（02238.HK）管理层信息（閤先庆兼任广汽丰田董事长）", "url": "https://emweb.securities.eastmoney.com/PC_HKF10/CompanyManager/index?code=02238&type=web", "date": "2026-10-29", "tier": "B" },
+    { "id": "s18", "name": "企查查·广汽丰田汽车有限公司工商信息（成立日期、社保参保人数）", "url": "https://www.qcc.com/cpartner/d39765b28ff4961f4cc4cc9e09e7015d", "date": "2026-10-28", "tier": "C" },
+    { "id": "s19", "name": "广汽丰田官网首页（车型与建议零售价）", "url": "https://www.gac-toyota.com.cn/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s20", "name": "广州市南沙区人民政府网站·《信息时报》广汽丰田累计产量达100万辆", "url": "https://www.gzns.gov.cn/nsxx/mtkns/201108/t20110812_54390.htm", "date": "2011-08-12", "tier": "A" },
+    { "id": "s21", "name": "中华网财经·广汽丰田回应千人裁员（引公司官网员工数）", "url": "https://finance.china.com/industrial/11173306/20230726/37287229.html", "date": "2023-07-26", "tier": "B" },
+    { "id": "s22", "name": "腾讯新闻·广汽一汽换股联姻，央地车企重组大幕拉开（收购一汽丰田50%股权预案）", "url": "https://news.qq.com/rain/a/20260929A0BFY100", "date": "2026-09-29", "tier": "B" },
+    { "id": "s23", "name": "新华网·广汽丰田bZ4X正式上市（2022年10月10日上市，综合补贴后建议零售价19.98万–28.78万元，定位纯电中型SUV）", "url": "https://www.news.cn/auto/20221011/b45712b424794fad8327347e3d90dc5a/c.html", "date": "2022-10-11", "tier": "B" },
+    { "id": "s24", "name": "中国青年网（网易汽车）·丰田铂智4X车展上市（2023年11月17日发布铂智品牌，首款车型铂智4X为bZ4X升级版，定位中型纯电SUV）", "url": "https://auto.youth.cn/xw/202311/t20231119_14915852.htm", "date": "2023-11-19", "tier": "B" }
+  ]
+}

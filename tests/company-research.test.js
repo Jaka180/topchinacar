@@ -229,14 +229,17 @@ test('只清理示例页，保留无数据的正式公司页及其他旧页', t 
     for (const id of ['old', 'jac', 'byd']) assert.ok(fs.existsSync(path.join(root, dir, `${id}.html`)));
   }
 });
-test('固定新公司列表与规范一致，不依赖研究文件', () => {
+test('新公司列表来自总清单：没有品牌页的条目都建页，有品牌页的不重复，不依赖研究文件', () => {
   const vm = require('node:vm');
   const root = path.resolve(__dirname, '..');
   const brands = vm.runInNewContext(`${fs.readFileSync(path.join(root, 'js/data.js'), 'utf8')}; SITE_DATA.brands`);
-  const spec = fs.readFileSync(path.join(root, 'docs/company-research-spec.md'), 'utf8').split('## 2.')[0];
-  const ids = [...spec.matchAll(/^\| ([a-z]+(?:-[a-z]+)*) \|/gm)].map(m => m[1]).filter(id => id !== 'id');
-  const newIds = ids.filter(id => !brands.some(b => b.id === id));
+  const inventory = JSON.parse(fs.readFileSync(path.join(root, 'data/company-inventory.json'), 'utf8'));
+  const ids = inventory.entities.map(e => e.id);
+  assert.equal(new Set(ids).size, ids.length, '清单 id 不能重复');
+  for (const e of inventory.entities) assert.ok(inventory.groups.some(g => g.id === e.group), `${e.id} 的分组不存在`);
+  const newIds = inventory.entities.filter(e => !brands.some(b => b.id === e.id)).map(e => e.id);
   assert.deepEqual(NEW_COMPANIES.map(([id]) => id), newIds);
+  for (const e of inventory.entities) if (brands.some(b => b.id === e.id)) assert.ok(!e.en, `${e.id} 已有品牌页，清单里不要写 en/zh`);
   const companies = researchCompanies(brands, new Map());
   assert.equal(companies.length, brands.length + newIds.length);
   assert.equal(new Set(companies.map(c => c.id)).size, companies.length);

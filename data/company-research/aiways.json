@@ -1,0 +1,466 @@
+{
+  "id": "aiways",
+  "name_en": "Aiways Automobile Co., Ltd.",
+  "name_zh": "爱驰汽车有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "February 2017 (the predecessor Jiangxi Aiways Yiwei Industrial Co., Ltd. was founded in February 2017 and renamed Aiways Automobile Co., Ltd. in January 2018; Shanghai Aiways Yiwei was set up in October 2016)",
+      "value_zh": "2017 年 2 月（前身江西爱驰亿维实业有限公司于 2017 年 2 月成立，2018 年 1 月更名爱驰汽车有限公司；2016 年 10 月组建上海爱驰亿维）",
+      "period": "2017-02",
+      "source_ids": ["s10", "s22", "s19"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai (R&D and sales); vehicle production base in Shangrao, Jiangxi; the European subsidiary is based in Munich, Germany",
+      "value_zh": "上海（研发与销售）；整车生产基地位于江西上饶；欧洲子公司总部位于德国慕尼黑",
+      "period": null,
+      "source_ids": ["s18", "s19", "s8"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (unlisted private enterprise)",
+      "value_zh": "民营（非上市民营企业）",
+      "period": null,
+      "source_ids": ["s10", "s18"]
+    },
+    {
+      "label_en": "Founders",
+      "label_zh": "创始人",
+      "value_en": "Fu Qiang (co-founder and president) and Gu Feng (co-founder and CEO), both former executives of traditional automakers",
+      "value_zh": "付强（联合创始人兼总裁）、谷峰（联合创始人兼 CEO），二人均为传统车企出身的资深高管",
+      "period": "2017-02",
+      "source_ids": ["s9", "s18", "s19"]
+    },
+    {
+      "label_en": "Actual controller / voting rights",
+      "label_zh": "实际控制人与投票权",
+      "value_en": "Not publicly confirmed by any primary filing. Media list Tencent, Didi Chuxing, CATL, Shagang Group and others among investors across roughly eight to nine funding rounds; this review found no primary disclosure establishing an actual controller or voting structure.",
+      "value_zh": "无一手文件认定。媒体记载约八至九轮融资的投资方包括腾讯、滴滴出行、宁德时代、沙钢集团等；本次研究未取得认定实际控制人或投票权结构的一手披露。",
+      "period": null,
+      "source_ids": ["s10", "s19", "s8"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市地点与代码",
+      "value_en": "Not listed in China. The European subsidiary Aiways Automobile Europe GmbH is pursuing a Nasdaq listing through a business combination with SPAC Hudson Acquisition I Corp., with EuroEV Holdings Limited (BVI) as the combined entity; shareholders approved the deal on 14 September 2026, but closing and listing were not confirmed by the cutoff.",
+      "value_zh": "未在中国上市。欧洲子公司爱驰汽车欧洲公司（Aiways Automobile Europe GmbH）正通过与 SPAC Hudson Acquisition I Corp. 合并、以 EuroEV Holdings Limited（BVI）为主体谋求纳斯达克上市；2026 年 9 月 14 日股东投票通过，截至研究截止日交割与上市未确认。",
+      "period": "2026-09-14",
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not publicly disclosed in any primary filing reviewed for this research",
+      "value_zh": "本次研究未取得一手公开披露的员工数",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "营收（最近财年）",
+      "value_en": "Not disclosed for the China entity. The European subsidiary reported revenue of EUR837,046 in 2024 and EUR340,769 in 2025 (per its F-4/A registration statement).",
+      "value_zh": "中国主体未披露。欧洲子公司 2024 年营收 83.7 万欧元、2025 年营收 34.1 万欧元（据其 F-4/A 注册声明）。",
+      "period": "2025",
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Loss before income tax (latest fiscal year, European subsidiary)",
+      "label_zh": "税前亏损（最近财年，欧洲子公司）",
+      "value_en": "Not disclosed for the China entity. The European subsidiary recorded a loss before income tax of EUR3,416,248 in 2025 and EUR3,923,818 in 2024 (per its F-4/A registration statement).",
+      "value_zh": "中国主体未披露。欧洲子公司 2025 年税前亏损 341.6 万欧元、2024 年税前亏损 392.4 万欧元（据其 F-4/A 注册声明）。",
+      "period": "2025",
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Sales (most recent full year)",
+      "label_zh": "销量（最近一年）",
+      "value_en": "About 4,626 units in 2022, the most recent full year before the 2023 halt (media citing CPCA data)",
+      "value_zh": "2022 年约 4626 辆，为 2023 年停摆前最后一个完整年度（媒体援引乘联会数据）",
+      "period": "2022",
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": "Two separate scopes: media cite cumulative exports of about 2,705 units by 15 December 2021; the European subsidiary separately states it has sold roughly 6,000 vehicles since 2020 (per its F-4/A).",
+      "value_zh": "两套口径：媒体援引截至 2021 年 12 月 15 日累计出口约 2705 辆；欧洲子公司另称自 2020 年以来累计售出约 6000 辆（据其 F-4/A）。",
+      "period": null,
+      "source_ids": ["s10", "s5"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2016-10",
+      "event_en": "Fu Qiang and backers including Tencent set up Shanghai Aiways Yiwei; on 30 October the Shangrao Economic and Technological Development Zone signs the Aiways Yiwei new-energy vehicle project, with planned investment of RMB13.3 billion and eventual capacity of 300,000 vehicles per year across two phases.",
+      "event_zh": "付强联合腾讯等投资方组建上海爱驰亿维；10 月 30 日与上饶经济技术开发区签约爱驰亿维新能源汽车项目，拟投资 133 亿元，两期建成后年产能 30 万辆。",
+      "source_ids": ["s10", "s19"]
+    },
+    {
+      "date": "2017-02",
+      "event_en": "Aiways is formally established (the predecessor Jiangxi Aiways Yiwei Industrial Co., Ltd., renamed Aiways Automobile Co., Ltd. in January 2018). Fu Qiang serves as president and Gu Feng, a former SAIC Group CFO, as co-founder and CEO. Groundbreaking of the Shangrao production base follows in March 2017.",
+      "event_zh": "爱驰汽车正式成立（前身江西爱驰亿维实业有限公司，2018 年 1 月更名爱驰汽车有限公司）。付强任总裁，原上汽集团 CFO 谷峰任联合创始人兼 CEO。上饶生产基地于 2017 年 3 月奠基。",
+      "source_ids": ["s18", "s19", "s9", "s22"]
+    },
+    {
+      "date": "2018-02",
+      "event_en": "The Shangrao plant's four workshops are topped out (28 February). As of April 2018 Aiways said it had completed three funding rounds totalling more than RMB7 billion.",
+      "event_zh": "上饶基地四大车间封顶（2 月 28 日）。截至 2018 年 4 月，爱驰宣布已完成三轮融资、累计超 70 亿元。",
+      "source_ids": ["s18", "s19"]
+    },
+    {
+      "date": "2019-07",
+      "event_en": "Aiways invests RMB1.747 billion to increase capital in Jiangling Holdings, taking a 50% stake (Changan Auto and Jiangling Motors Group are each diluted to 25%), thereby obtaining a passenger-car production licence.",
+      "event_zh": "爱驰斥资 17.47 亿元增资江铃控股，取得 50% 股权（长安汽车、江铃集团各稀释至 25%），由此获得乘用车生产资质。",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "date": "2019-12-19",
+      "event_en": "The first production model, the Aiways U5 (A+ electric SUV), is launched in Wanning, Hainan, across four variants at a subsidy-adjusted price of RMB197,900-292,100.",
+      "event_zh": "首款量产车型爱驰 U5（A+ 级纯电 SUV）在海南万宁上市，推出 4 款车型，补贴后售价 19.79 万-29.21 万元。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2020",
+      "event_en": "Aiways begins exporting the U5 to Europe (France, then Germany and the Netherlands, among others). Domestic sales for 2020 are 2,600 units (media citing CPCA).",
+      "event_zh": "爱驰开始向欧洲出口 U5（先法国，后德国、荷兰等）。2020 年国内销量 2600 辆（媒体援引乘联会数据）。",
+      "source_ids": ["s7", "s13"]
+    },
+    {
+      "date": "2021-06",
+      "event_en": "Aiways transfers its 50% stake in Jiangling Holdings to Jiangxi Guokong (Jiangxi Guokong Automotive Investment Co., Ltd.) and exits. Media also reported in this period that Aiways planned a STAR Market (Sci-Tech Innovation Board) IPO, which did not materialise.",
+      "event_zh": "爱驰将所持江铃控股 50% 股权转让给江西国控（江西国控汽车投资有限公司）并退出。同期媒体曝出爱驰计划登陆科创板，后无果而终。",
+      "source_ids": ["s15", "s16", "s10"]
+    },
+    {
+      "date": "2021",
+      "event_en": "Aiways announces a methanol-reforming hydrogen fuel-cell powertrain plant in Gaoping, Shanxi (planned annual capacity 80,000 units) and a methanol-to-hydrogen R&D and manufacturing base in Denmark. In November Aiways emails staff that October wages will be paid late, citing the Shangrao COVID outbreak and force-majeure factors. This review found no public record that the methanol route reached mass production or delivery.",
+      "event_zh": "爱驰宣布甲醇重整制氢燃料电池动力系统工厂落地山西高平（规划年产能 8 万台），并在丹麦设甲醇制氢科研与制造基地；11 月又向员工发邮件称，受上饶疫情及不可抗力影响，10 月工资延迟发放。本次研究未在公开资料中找到该甲醇路线实现量产交付的记载。",
+      "source_ids": ["s10", "s12"]
+    },
+    {
+      "date": "2022-07-19",
+      "event_en": "Investor Chen Xuanlin and his Dongbai Group provide hundreds of millions of US dollars in funding in January 2022; on 19 July 2022 the legal representative and chairman of Aiways Automobile Co., Ltd. changes from Fu Qiang to Chen Xuanlin, and former NIO vice-president Zhang Yang becomes CEO.",
+      "event_zh": "投资人陈炫霖及其旗下东柏集团于 2022 年 1 月提供数亿美元融资；2022 年 7 月 19 日，爱驰汽车有限公司法定代表人、董事长由付强变更为陈炫霖，前蔚来副总裁张洋出任 CEO。",
+      "source_ids": ["s10", "s12"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "US-listed China Liberal Education Holdings Limited (formerly Nasdaq: CLEU; Chinese name Huaxia Boya) announces a non-binding letter of intent to acquire all outstanding equity of Aiways Holdings Limited at a valuation of US$5-6 billion (a reverse backdoor listing), which does not close.",
+      "event_zh": "美股上市公司华夏博雅（China Liberal Education Holdings Limited，曾用纳斯达克代码 CLEU）宣布与爱驰运营公司 Aiways Holdings Limited 达成不具约束力收购意向，估值 50 亿-60 亿美元（反向借壳），后未完成。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2022-10-13",
+      "event_en": "The second model, the U6 coupe-SUV, is launched at a subsidy-adjusted price of RMB219,900 (two variants).",
+      "event_zh": "第二款车型爱驰 U6（纯电轿跑 SUV）上市，补贴后售价 21.99 万元（两款车型）。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2022-11-28",
+      "event_en": "In Bangkok, Aiways signs a strategic cooperation agreement with Thailand's Phoenix EV (Phoenix Motion Company Ltd.) covering orders for up to 150,000 vehicles over five years (an initial 100,000 units plus an option for 50,000 more), and the two sides plan a joint venture named Aiways Thailand.",
+      "event_zh": "爱驰在曼谷与泰国 Phoenix EV（Phoenix Motion Company Ltd.）签署战略合作协议，涵盖未来五年最多 15 万辆的采购订单（先 10 万辆、另加 5 万辆选择权），并计划成立「Aiways Thailand」合资公司。",
+      "source_ids": ["s13", "s14"]
+    },
+    {
+      "date": "2023-02",
+      "event_en": "Chinese media report that production at the Shangrao plant was halted around February 2023 as suppliers and employees could no longer be paid (reported in June 2023).",
+      "event_zh": "中国媒体报道，上饶工厂约于 2023 年 2 月因无法支付供应商和员工款项而停产（2023 年 6 月披露）。",
+      "source_ids": ["s7", "s8"]
+    },
+    {
+      "date": "2023-07",
+      "event_en": "Aiways sets up a shareholder-governance temporary working group (led by Zhu Xiaohua and Fu Qiang); Zhu Xiaohua is appointed CEO and Tang Meiyu CFO, both effective 18 July 2023. The European subsidiary's 1 August 2023 press release describes the same arrangement in English, announcing Hugo Zhu as the new CEO with founder Samuel Fu remaining as president.",
+      "event_zh": "爱驰成立股东治理临时工作组（组长朱小华、付强）；朱小华任 CEO、唐梅玉任财务总监，二人聘任均自 2023 年 7 月 18 日起。欧洲子公司 2023 年 8 月 1 日新闻稿以英文表述同一安排，宣布 Hugo Zhu 出任新 CEO，创始人 Samuel Fu（付强）留任总裁。",
+      "source_ids": ["s12", "s21"]
+    },
+    {
+      "date": "2023-11",
+      "event_en": "Anji Automotive Logistics (Shanghai) Co., Ltd. files for bankruptcy liquidation of Aiways Automobile (Shanghai) Co., Ltd. with the Shanghai Third Intermediate People's Court, citing inability to pay due debts.",
+      "event_zh": "安吉汽车物流（上海）有限公司以爱驰汽车（上海）有限公司不能清偿到期债务为由，向上海市第三中级人民法院申请对其破产清算。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2024-05-14",
+      "event_en": "Hudson Acquisition I Corp. (Nasdaq: HUDA) signs a letter agreement with Aiways Automobile Europe GmbH for a de-SPAC, at an equity valuation of about US$400 million, expected to close around 31 December 2024.",
+      "event_zh": "Hudson Acquisition I Corp.（纳斯达克：HUDA）与爱驰汽车欧洲公司签署业务合并意向书（de-SPAC），股权估值约 4 亿美元，预计 2024 年 12 月 31 日前后完成。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-11",
+      "event_en": "Aiways Automobile (Shanghai) Co., Ltd. is renamed Shanghai Yiwei New Energy Automobile R&D Co., Ltd. (business registration change on 19 November, per Tianyancha). On 22 November HUDA enters a definitive Business Combination Agreement with EuroEV Holdings Limited (BVI), Aiways Automobile Europe GmbH and Aiways Tech Limited, valuing Aiways Europe at US$410 million subject to adjustment.",
+      "event_zh": "爱驰汽车（上海）有限公司更名为上海亿维新能汽车研发有限公司（天眼查显示 11 月 19 日工商变更）。11 月 22 日，HUDA 与 EuroEV Holdings Limited（BVI）、爱驰汽车欧洲公司及 Aiways Tech Limited 签署正式业务合并协议，爱驰欧洲估值 4.1 亿美元（可调整）。",
+      "source_ids": ["s17", "s2"]
+    },
+    {
+      "date": "2025-01-22",
+      "event_en": "HUDA receives notice from the Nasdaq Hearings Panel deciding to delist HUDA's securities; trading is suspended at the open on 24 January 2025. The company decided not to appeal, and Form 25 (delisting) was filed on 11 July 2025, per the EuroEV F-4/A.",
+      "event_zh": "HUDA 收到纳斯达克听证小组决定摘牌的通知，2025 年 1 月 24 日开盘暂停交易；据 EuroEV F-4/A，公司决定不上诉，Form 25（摘牌）于 2025 年 7 月 11 日提交。",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2026-08",
+      "event_en": "The SEC declares EuroEV's registration statement effective, and the final prospectus (424B3) is filed on 25 August 2026.",
+      "event_zh": "SEC 宣布 EuroEV 注册声明生效；最终招股书（424B3）于 2026 年 8 月 25 日提交。",
+      "source_ids": ["s6", "s20"]
+    },
+    {
+      "date": "2026-09-14",
+      "event_en": "HUDA shareholders approve the business combination at a special meeting (2,072,493 votes in favour on six of the seven proposals; proposal five passed with 2,072,491 in favour). Closing and the Nasdaq 'EUEV' listing are not confirmed by the research cutoff.",
+      "event_zh": "HUDA 特别股东大会批准业务合并（七项提案中六项赞成票 2,072,493 票；第五项赞成 2,072,491 票）。截至研究截止日，交割与纳斯达克「EUEV」上市尚未确认。",
+      "source_ids": ["s3"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Aiways (U5 / U6)",
+      "name_zh": "爱驰（U5 / U6）",
+      "role_en": "Aiways' main brand, built on the self-developed MAS (Modular Architecture for Sustainable Energy) electric platform. Production models are the U5 (launched 19 December 2019, subsidy-adjusted RMB197,900-292,100) and the U6 (launched 13 October 2022, subsidy-adjusted RMB219,900). The U7 ion concept and the methanol fuel-cell 'Gumpert Nathalie' are not documented as having entered mass production in any public record this review located.",
+      "role_zh": "爱驰主品牌，基于自研 MAS（可持续能源模块化架构）纯电平台。量产车型为 U5（2019 年 12 月 19 日上市，补贴后 19.79 万-29.21 万元）和 U6（2022 年 10 月 13 日上市，补贴后 21.99 万元）；U7 ion 概念车与甲醇氢燃料电池「Gumpert Nathalie」在本次研究所见的公开记录中未见进入量产。",
+      "price_band": "RMB 197,900-292,100 (subsidy-adjusted launch prices)",
+      "founded": 2017,
+      "owner_note_en": "Aiways' China operations halted production and sales amid the 2023-2024 financial crisis, and the brand has effectively withdrawn from the Chinese market. The Shanghai operating subsidiary faced a bankruptcy-liquidation petition in November 2023 and was renamed Shanghai Yiwei New Energy Automobile R&D Co., Ltd. in November 2024.",
+      "owner_note_zh": "爱驰中国业务在 2023-2024 年资金危机中停产停售，品牌实质退出中国市场；上海运营主体 2023 年 11 月被申请破产清算，2024 年 11 月更名为上海亿维新能汽车研发有限公司。",
+      "status": "halted",
+      "source_ids": ["s7", "s9", "s11", "s17"]
+    },
+    {
+      "name_en": "Aiways Automobile Europe GmbH",
+      "name_zh": "爱驰汽车欧洲公司",
+      "role_en": "The Munich-based European offshoot, positioned as an asset-light distributor of Aiways vehicles in Europe and described in its F-4/A as operating in Europe since 2020. It states it has sold roughly 6,000 vehicles since 2020 and has operated across 16 European countries, with the U5 and U6 certified under EU Whole Vehicle Type Approval (WVTA).",
+      "role_zh": "总部位于慕尼黑的欧洲子公司，定位为轻资产的欧洲销售与服务体系，其 F-4/A 表述为自 2020 年起在欧洲经营。公司称自 2020 年以来累计售出约 6000 辆汽车，覆盖 16 个欧洲国家，U5、U6 通过欧盟整车型式认证（WVTA）。",
+      "price_band": null,
+      "founded": 2020,
+      "owner_note_en": "The entity behind the EuroEV business combination: a Business Combination Agreement signed 22 November 2024 with Hudson Acquisition I Corp. and EuroEV Holdings Limited (BVI) values it at US$410 million. Shareholders approved the deal on 14 September 2026; closing and a Nasdaq 'EUEV' listing were not confirmed by 29 October 2026. Media describe it as operating relatively independently of the Chinese parent.",
+      "owner_note_zh": "EuroEV 合并案的主体：2024 年 11 月 22 日与 Hudson Acquisition I Corp.、EuroEV Holdings Limited（BVI）签署业务合并协议，估值 4.1 亿美元；2026 年 9 月 14 日股东投票通过，但截至 2026 年 10 月 29 日交割与纳斯达克「EUEV」上市未确认。媒体报道其运营相对独立于中国母公司。",
+      "status": "restructuring",
+      "source_ids": ["s1", "s2", "s3", "s5", "s8"]
+    },
+    {
+      "name_en": "Gumpert Aiways / RG Nathalie",
+      "name_zh": "Gumpert Aiways / RG Nathalie",
+      "role_en": "A methanol-reforming fuel-cell supercar project developed with German engineer Roland Gumpert, known as the creator of the Audi quattro system. Announced through a Gumpert Aiways venture, the RG Nathalie is not documented as having entered mass production in any public record this review located.",
+      "role_zh": "与德国工程师 Roland Gumpert（奥迪 quattro 系统创始人）合作的甲醇重整氢燃料电池超跑项目，通过 Gumpert Aiways 公司推进；RG Nathalie 在本次研究所见的公开记录中未见进入量产。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "Roland Gumpert also served as Aiways' chief product officer. Aiways separately announced a methanol-reforming hydrogen fuel-cell powertrain plant in Gaoping, Shanxi (planned annual capacity 80,000 units) and R&D in Denmark; this review found no public record that the methanol route reached mass production or delivery.",
+      "owner_note_zh": "Roland Gumpert 同时担任爱驰首席产品官。爱驰另宣布在山西高平建设甲醇重整制氢燃料电池动力系统工厂（规划年产能 8 万台），并在丹麦设研发中心；本次研究未在公开资料中找到该路线实现量产交付的记载。",
+      "status": "inactive",
+      "source_ids": ["s9", "s10"]
+    },
+    {
+      "name_en": "Jiangling Holdings Co., Ltd. (50% stake, divested)",
+      "name_zh": "江铃控股有限公司（曾持股 50%，已退出）",
+      "role_en": "A related entity, not an Aiways sub-brand, in which Aiways held 50% from 2019 to 2021 to obtain a passenger-car production licence. In July 2019 Aiways invested RMB1.747 billion to raise its stake to 50%, with Changan Auto and Jiangling Motors Group each diluted to 25%.",
+      "role_zh": "关联主体，非爱驰旗下子品牌。2019 年 7 月爱驰斥资 17.47 亿元增资江铃控股至持股 50%，长安汽车、江铃集团各稀释至 25%，以此获得乘用车生产资质。",
+      "price_band": null,
+      "founded": 2004,
+      "owner_note_en": "In June 2021 Aiways transferred its 50% stake to Jiangxi Guokong and exited. In May 2026, after the State Administration for Market Regulation unconditionally approved the concentration (5-17 May 2026 list), Jiangxi Guokong transferred 25% to Changan Auto and made a gratuitous transfer (无偿划转) of 25% to Jiangling Motors Group, leaving Changan Auto and Jiangling Motors Group each holding 50%. As of the research cutoff Aiways no longer holds any stake in Jiangling Holdings.",
+      "owner_note_zh": "2021 年 6 月爱驰将所持 50% 股权转让给江西国控并退出。2026 年 5 月，市场监管总局（2026 年 5 月 11-17 日无条件批准经营者集中名单）批准后，江西国控向长安汽车转让 25%、向江铃集团无偿划转 25%，长安汽车与江铃集团各持 50%。截至研究截止日，爱驰已不再持有江铃控股任何股权。",
+      "status": "divested",
+      "source_ids": ["s15", "s16"]
+    }
+  ],
+  "financials": {
+    "currency": "EUR",
+    "unit": "unit",
+    "standard": "Not applicable for the China entity (never listed, no audited consolidated annual statements published); the only disclosed figures are the European subsidiary's, presented in EUR per its F-4/A registration statement",
+    "rows": [],
+    "note_en": "Aiways' China operating entity was never publicly listed and did not publish audited consolidated annual financial statements, so revenue, gross margin, net profit, R&D and operating cash flow for the parent are not publicly disclosed and the table is left empty. Where net profit were disclosed, it would be presented on an 'attributable to shareholders of the parent' (归母) basis, but no figure has been disclosed. Separately, the European subsidiary Aiways Automobile Europe GmbH's figures appear in EuroEV Holdings Limited's F-4/A registration statement (an A-tier source): revenue of EUR837,046 in 2024 and EUR340,769 in 2025, and a loss before income tax of EUR3,923,818 in 2024 and EUR3,416,248 in 2025, with roughly 6,000 vehicles sold since 2020. These are subsidiary figures in whole EUR and are not comparable to the China parent's results, so they are not placed in the table.",
+    "note_zh": "爱驰中国运营主体从未上市，未公开披露经审计的合并年度财务报表，母公司口径的营收、毛利率、净利润、研发投入及经营现金流均未公开披露，财务表留空。净利润口径如适用按「归属于母公司股东」列示，但无任何数字已披露。此外，欧洲子公司爱驰汽车欧洲公司（Aiways Automobile Europe GmbH）的财务数据披露于 EuroEV Holdings Limited 的 F-4/A 注册声明（A 级来源）：2024 年营收 83.7 万欧元、2025 年营收 34.1 万欧元，2024 年税前亏损 392.4 万欧元、2025 年税前亏损 341.6 万欧元，并称自 2020 年以来累计售出约 6000 辆。上述为欧洲子公司口径（欧元），与中国母公司不可直接比较，故未列入财务表。",
+    "source_ids": ["s5"]
+  },
+  "sections": {
+    "overview": {
+      "source_ids": ["s9", "s18", "s10", "s7", "s1", "s3"],
+      "en": "<p>Aiways Automobile (爱驰汽车) was a Chinese battery-electric vehicle startup founded in February 2017 by two former executives of traditional automakers, Fu Qiang and Gu Feng. It sold the U5 and U6 electric SUVs, built on its own MAS platform, and was among the earliest Chinese EV startups to reach mass production and to sell cars in Europe in volume.<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html\">[s18]</a></p><p>Aiways raised roughly RMB10 billion across eight or nine funding rounds from investors including Tencent, Didi Chuxing, CATL and Shagang Group, but its domestic sales stayed small and it fell into financial distress from 2023 — wage arrears, a production halt at its Shangrao plant and, in November 2023, a bankruptcy-liquidation petition against its Shanghai operating subsidiary. It has effectively withdrawn from the Chinese market.<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a></p><p>As of 29 October 2026, the Munich-based European offshoot Aiways Automobile Europe GmbH is pursuing a Nasdaq listing through a business combination with SPAC Hudson Acquisition I Corp. Shareholders approved the deal on 14 September 2026, but closing and listing were not confirmed by the cutoff.<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a></p>",
+      "zh": "<p>爱驰汽车有限公司是一家中国纯电动乘用车初创企业，2017 年 2 月由两位传统车企出身的资深高管付强、谷峰创立（前身江西爱驰亿维实业有限公司，2018 年 1 月更名）。公司销售基于自研 MAS 平台的 U5、U6 纯电 SUV，曾是中国最早实现量产交付并成批进入欧洲市场销售的新势力之一。<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html\">[s18]</a></p><p>爱驰历经约八至九轮融资、累计约百亿元，投资方包括腾讯、滴滴出行、宁德时代、沙钢集团、东柏集团等，但国内销量始终偏低，2023 年起陷入资金危机——欠薪、上饶工厂停产，2023 年 11 月上海运营主体被申请破产清算，品牌实质退出中国市场。<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a></p><p>截至 2026 年 10 月 29 日，总部位于慕尼黑的欧洲子公司爱驰汽车欧洲公司正通过与 SPAC Hudson Acquisition I Corp. 合并谋求纳斯达克上市；2026 年 9 月 14 日股东投票通过，但交割与上市在截止日尚未确认。<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a></p>"
+    },
+    "current": {
+      "source_ids": ["s9", "s18", "s19", "s10", "s11", "s7", "s8", "s13", "s5", "s12", "s17"],
+      "en": "<h3>Business structure and products</h3><p>Aiways was organised around two production models, the U5 and the U6, both on the self-developed MAS platform. The U5, an A+ electric SUV, launched in December 2019 at a subsidy-adjusted price of RMB197,900-292,100; the U6, a coupe-SUV, launched on 13 October 2022 at RMB219,900. The company did not disclose revenue shares by segment in any primary filing.<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://auto.ce.cn/auto/gundong/202210/14/t20221014_38162463.shtml\">[s11]</a></p><h3>Domestic sales trajectory</h3><p>Media citing CPCA data put Aiways' domestic sales at 2,600 units in 2020, 3,011 in 2021 and about 4,626 in 2022, then 536 units in the first quarter of 2023. The second model, the U6, was repeatedly delayed before its October 2022 launch.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://cnevpost.com/2022/11/28/thai-ev-firm-reportedly-to-buy-150000-evs-from-aiways/\">[s13]</a></p><h3>Technology and platform</h3><p>Aiways marketed its self-developed MAS platform, which supports models across A, A+ and B segments with wheelbases from 2,700mm to 3,000mm and up to 15 models. The U5 was marketed with an NEDC range of 503 km and a battery energy density of 181Wh/kg. In late 2019 the U5 obtained a three-star Euro NCAP result. This review found no public record that the methanol-reforming hydrogen fuel-cell route planned for the Gumpert Nathalie and the Gaoping plant reached mass production or delivery.<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://economy.china.com/tech/20002551/20230601/25754962.html\">[s19]</a></p><h3>Factory and capacity</h3><p>The Shangrao, Jiangxi base was planned in two phases of 150,000 units each, for total annual capacity of 300,000 vehicles, with media reporting total project investment of about RMB13.3 billion. Groundbreaking took place in March 2017 and the four workshops were topped out on 28 February 2018. The plant halted production around February 2023.<a href=\"https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html\">[s18]</a><a href=\"https://economy.china.com/tech/20002551/20230601/25754962.html\">[s19]</a><a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a></p><h3>Funding and capital structure</h3><p>Media count roughly eight to nine funding rounds since a 2016 Pre-A round, with investors including Tencent Investment, Shagang Group, Didi Chuxing, CATL and Dongbai Group, and publicly disclosed amounts totalling about RMB10 billion. Aiways never listed in China; it pursued a STAR Market IPO (reported in 2021), a reverse backdoor listing via US-listed China Liberal Education Holdings Limited (2022, indicative valuation US$5-6 billion), and a SPAC listing of its European subsidiary (from 2024).<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a></p><h3>Overseas business</h3><p>Aiways exported the U5 to Europe from 2020 and later the U6, entering France, Germany and the Netherlands, among others. The European subsidiary states it has sold roughly 6,000 vehicles since 2020 across 16 European countries, with the U5 and U6 holding EU Whole Vehicle Type Approval (WVTA).<a href=\"https://cnevpost.com/2022/11/28/thai-ev-firm-reportedly-to-buy-150000-evs-from-aiways/\">[s13]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><p>In November 2022 Aiways signed a Thailand agreement with Phoenix EV covering up to 150,000 vehicles over five years and a planned Aiways Thailand joint venture; 21st Century Business Herald reported in July 2023 that this large order had not materialised.<a href=\"https://www.automotiveworld.com/news-releases/milestone-partnership-aiways-and-phoenix-ev-sign-far-reaching-agreement-in-south-east-asia/\">[s14]</a><a href=\"https://www.21jingji.com/article/20230721/herald/e7e258155b83f4d18390c7b94abebaea.html\">[s12]</a></p>",
+      "zh": "<h3>业务与产品</h3><p>爱驰的产品围绕两款基于自研 MAS 平台的量产车型：U5（A+ 级纯电 SUV，2019 年 12 月上市，补贴后 19.79 万-29.21 万元）和 U6（纯电轿跑 SUV，2022 年 10 月 13 日上市，补贴后 21.99 万元）。公司未在任何一手文件中披露各业务收入占比。<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://auto.ce.cn/auto/gundong/202210/14/t20221014_38162463.shtml\">[s11]</a></p><h3>国内销量轨迹</h3><p>据媒体援引乘联会数据，爱驰国内销量 2020 年 2600 辆、2021 年 3011 辆、2022 年约 4626 辆，2023 年一季度仅 536 辆。第二款车 U6 一再延期后于 2022 年 10 月上市。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://cnevpost.com/2022/11/28/thai-ev-firm-reportedly-to-buy-150000-evs-from-aiways/\">[s13]</a></p><h3>技术与平台</h3><p>爱驰宣传其自研 MAS 平台，支持 A、A+、B 三个级别、轴距 2700-3000mm、最多 15 款车型的型谱。U5 对外宣传 NEDC 续航 503 公里、电池能量密度 181Wh/kg。2019 年底 U5 在欧洲 Euro NCAP 碰撞测试中仅获三星。本次研究未在公开资料中找到为 Gumpert Nathalie 及山西高平工厂规划的甲醇重整制氢燃料电池路线实现量产交付的记载。<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://economy.china.com/tech/20002551/20230601/25754962.html\">[s19]</a></p><h3>工厂与产能</h3><p>江西上饶基地规划两期各 15 万辆、合计年产能 30 万辆，媒体报道项目总投资约 133 亿元；2017 年 3 月奠基、2018 年 2 月 28 日四大车间封顶。该工厂约于 2023 年 2 月停产。<a href=\"https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html\">[s18]</a><a href=\"https://economy.china.com/tech/20002551/20230601/25754962.html\">[s19]</a><a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a></p><h3>融资与资本结构</h3><p>据媒体统计，爱驰自 2016 年 Pre-A 轮起累计完成约八至九轮融资，投资方包括腾讯投资、沙钢集团、滴滴出行、宁德时代、东柏集团等，按公开披露金额合计约百亿元人民币。公司在中国始终未上市，先后寻求科创板 IPO（2021 年）、通过美股华夏博雅（China Liberal Education Holdings Limited）反向借壳（2022 年，指示性估值 50 亿-60 亿美元）以及欧洲子公司的 SPAC 上市（2024 年起）等路径。<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a></p><h3>海外业务</h3><p>爱驰 2020 年起向欧洲出口 U5、后出口 U6，进入法国、德国、荷兰等市场；欧洲子公司称自 2020 年以来累计售出约 6000 辆、覆盖 16 个欧洲国家，U5、U6 通过欧盟整车型式认证（WVTA）。<a href=\"https://cnevpost.com/2022/11/28/thai-ev-firm-reportedly-to-buy-150000-evs-from-aiways/\">[s13]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><p>2022 年 11 月，爱驰与泰国 Phoenix EV 签署最多 15 万辆、为期五年的协议，并计划成立 Aiways Thailand 合资公司；21 世纪经济报道 2023 年 7 月报道该笔大额订单未能落地。<a href=\"https://www.automotiveworld.com/news-releases/milestone-partnership-aiways-and-phoenix-ev-sign-far-reaching-agreement-in-south-east-asia/\">[s14]</a><a href=\"https://www.21jingji.com/article/20230721/herald/e7e258155b83f4d18390c7b94abebaea.html\">[s12]</a></p>"
+    },
+    "leadership": {
+      "source_ids": ["s9", "s18", "s19", "s10", "s12", "s8", "s1", "s5", "s21"],
+      "en": "<h3>Founders</h3><p>Fu Qiang (born March 1966), co-founder and president, entered the auto industry in 1989 and held roles including sales deputy general manager for the Audi brand at FAW-Volkswagen, marketing executive at Shanghai Volkswagen's Skoda brand, and executive vice-president for sales and marketing at Beijing Benz. Sources differ on his last Volvo title before Aiways: one profile describes him as president and CEO of Volvo Car China's sales company, while another describes him as a former global vice-president of Volvo. Gu Feng (born January 1972), co-founder and CEO, spent more than 20 years at SAIC Group, rising through the finance department to become SAIC Group CFO before joining Aiways.<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://economy.china.com/tech/20002551/20230601/25754962.html\">[s19]</a><a href=\"https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html\">[s18]</a></p><p>The founding team also included Roland Gumpert (born 1944), the German engineer who created the Audi quattro system, as chief product officer, and Cai Jianjun as executive vice-president. Cai joined Changan Auto in 1998, led the DS brand's China launch from November 2010, became vice-president of BAIC Motor in late 2015, and joined Baoneng Auto as vice-president and Qoros executive vice-president in March 2018 before joining Aiways.<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a></p><h3>Management changes during the crisis</h3><p>On 19 July 2022, the legal representative and chairman of Aiways Automobile Co., Ltd. changed from Fu Qiang to investor Chen Xuanlin, and former NIO vice-president Zhang Yang became CEO. Media later reported that Chen Xuanlin resigned as legal representative and chairman and that Zhang Yang became chairman, with Qiu Xiaochuan as CEO. On 18 July 2023 Zhu Xiaohua was appointed CEO and Tang Meiyu CFO, and a shareholder-governance temporary working group led by Zhu Xiaohua and Fu Qiang was formed; the European subsidiary's 1 August 2023 release describes the same change in English, naming Hugo Zhu as the new CEO with founder Samuel Fu remaining president. These are dated role changes reported by media; this review did not obtain a primary roster of the current China management as of October 2026.<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://www.21jingji.com/article/20230721/herald/e7e258155b83f4d18390c7b94abebaea.html\">[s12]</a><a href=\"https://www.presseportal.de/en/pm/150402/5571200\">[s21]</a></p><h3>European subsidiary management</h3><p>On the European side, SEC filings name Alexander Klose (written Alexander Carsten Klose in the May 2024 press release) as managing director of Aiways Automobile Europe GmbH; the August 2023 company release titles him Vice President Aiways Overseas Operations and Managing Director Aiways Automobile Europe GmbH. The EuroEV F-4/A lists David Zhao (age 64) as the person who will serve as chief executive officer and a director nominee of the combined company after closing, and Alexander Carsten Klose-Mozer as a director nominee; the proxy first page was signed by HUDA's chairman and chief executive officer Warren Wang.<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a><a href=\"https://www.presseportal.de/en/pm/150402/5571200\">[s21]</a></p><h3>Ownership and governance</h3><p>Aiways never listed in China and never published a shareholder register. Media record investors across roughly eight to nine rounds including Tencent, Shagang Group, Didi Chuxing, CATL and Dongbai Group, with publicly disclosed amounts near RMB10 billion. No primary filing establishing an actual controller was located, so registered shareholding and actual control are not separately stated. In Jiangling Holdings, Aiways held 50% from 2019 to June 2021, then transferred the stake to Jiangxi Guokong and exited; after the May 2026 concentration approval, Jiangxi Guokong transferred 25% to Changan Auto and made a gratuitous transfer of 25% to Jiangling Motors Group, leaving each at 50% and Aiways with no stake.<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://www.21jingji.com/article/20260627/herald/77ee2eabd87fce326c70c8830bcb2dc3.html\">[s15]</a></p>",
+      "zh": "<h3>创始人</h3><p>付强（1966 年 3 月生），联合创始人兼总裁，1989 年进入汽车行业，曾历任中国一汽-大众奥迪品牌销售副总经理、上海大众斯柯达品牌营销事业部执行副总监、北京奔驰销售与市场执行副总裁。关于其加盟爱驰前的最后一份沃尔沃职务，来源说法不一：一处档案写作沃尔沃汽车中国销售公司总裁兼 CEO，另一处写为原沃尔沃全球副总裁。谷峰（1972 年 1 月生），联合创始人兼 CEO，在上汽集团任职 20 余年，由财务部逐步升至上汽集团 CFO 后加入爱驰。<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://economy.china.com/tech/20002551/20230601/25754962.html\">[s19]</a><a href=\"https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html\">[s18]</a></p><p>创始团队还包括奥迪 quattro 系统创始人、德国工程师 Roland Gumpert（1944 年生，任首席产品官），以及蔡建军（任执行副总裁）。蔡建军 1998 年加入长安汽车，2010 年 11 月负责 DS 品牌在华推广，2015 年底任北汽股份副总裁等职，2018 年 3 月加盟宝能汽车任副总裁兼观致汽车执行副总裁，其后加盟爱驰。<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a></p><h3>危机期间的管理层变动</h3><p>2022 年 7 月 19 日，爱驰汽车有限公司法定代表人、董事长由付强变更为投资人陈炫霖，前蔚来副总裁张洋出任 CEO。媒体其后报道陈炫霖辞任法定代表人、董事长，张洋转任董事长、邱孝川任 CEO。2023 年 7 月 18 日，朱小华被任命为 CEO、唐梅玉为财务总监，并成立由朱小华、付强任组长的股东治理临时工作组；欧洲子公司 2023 年 8 月 1 日新闻稿以英文表述同一变动，宣布 Hugo Zhu 出任新 CEO、创始人 Samuel Fu（付强）留任总裁。以上为媒体记载的日期化职务变动；本次研究未取得截至 2026 年 10 月中国主体现任管理层名单的一手公告。<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://www.21jingji.com/article/20230721/herald/e7e258155b83f4d18390c7b94abebaea.html\">[s12]</a><a href=\"https://www.presseportal.de/en/pm/150402/5571200\">[s21]</a></p><h3>欧洲子公司管理层</h3><p>欧洲子公司层面，SEC 文件将 Alexander Klose（2024 年 5 月新闻稿中写作 Alexander Carsten Klose）列为爱驰汽车欧洲公司董事总经理；2023 年 8 月公司新闻稿称其为爱驰海外业务副总裁兼爱驰汽车欧洲公司董事总经理。EuroEV 的 F-4/A 列明 David Zhao（64 岁）将在交割完成后出任合并公司（Pubco）首席执行官兼董事提名人，Alexander Carsten Klose-Mozer 为董事提名人；委托书首页由 HUDA 董事长兼首席执行官 Warren Wang 签署。<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a><a href=\"https://www.presseportal.de/en/pm/150402/5571200\">[s21]</a></p><h3>股权与治理</h3><p>爱驰在中国从未上市，未公开股东名册。媒体记载其约八至九轮融资的投资方包括腾讯、沙钢集团、滴滴出行、宁德时代、东柏集团等，累计公开披露金额接近百亿元。本次未取得认定实际控制人的一手文件，登记持股与实际控制不分别列示。在江铃控股层面，爱驰 2019 年至 2021 年 6 月持股 50%，随后将该股权转让给江西国控并退出；2026 年 5 月经营者集中批准后，江西国控向长安汽车转让 25%、向江铃集团无偿划转 25%，长安汽车与江铃集团各持 50%，爱驰不再持股。<a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a><a href=\"https://www.21jingji.com/article/20260627/herald/77ee2eabd87fce326c70c8830bcb2dc3.html\">[s15]</a></p>"
+    },
+    "competition": {
+      "source_ids": ["s9", "s19", "s7", "s13", "s10", "s5", "s8"],
+      "en": "<h3>Positioning and sales evidence</h3><p>Aiways priced the U5 in the RMB200,000-300,000 range and the U6 at RMB219,900, positioning them as mid-to-high-end mainstream electric SUVs. It differentiated itself early by exporting to Europe — among the first Chinese brands selling EVs there — and by a traditional-automaker founding team that emphasised manufacturing quality.<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://www.electrive.com/2024/11/28/aiways-europe-to-debut-on-us-stock-market-thanks-to-spac-deal/\">[s8]</a></p><p>The sales record is small. Media citing CPCA data report domestic sales of 2,600 units in 2020, 3,011 in 2021 and about 4,626 in 2022, with 536 units in the first quarter of 2023. Cumulative exports reached about 2,705 units by 15 December 2021, and the European subsidiary reported roughly 6,000 vehicles sold since 2020.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>Our assessment: why it failed</h3><p>Our assessment: Aiways entered a crowded mid-price EV segment late, with a thin two-model line-up and low brand recognition in China, so its sales did not reach the scale needed to fund a heavy self-built factory and the RMB1.747 billion Jiangling Holdings acquisition. The basis is the CPCA sales figures reported in media, the single-model product range for most of its life, and the documented 2023 collapse into wage arrears, a production halt and a bankruptcy petition.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a></p><p>Our assessment: its early European presence and WVTA-certified models give the European offshoot a recognisable but small base, but a distribution presence does not by itself demonstrate competitiveness in product, software or cost against large Chinese and European incumbent carmakers. The subsidiary's own figures — revenue of EUR837,046 in 2024 and EUR340,769 in 2025, and a 2025 loss before income tax of EUR3,416,248 — describe a business that is essentially halted.<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>Lessons for the industry</h3><p>Aiways concentrated several documented lessons of the first wave of Chinese EV startups: nearly RMB10 billion raised, a self-built factory funded at heavy cost and RMB1.747 billion spent to obtain a production licence, yet only two models and a domestic sales peak of about 4,626 units in 2022 — insufficient to cover heavy fixed costs — ending in 2023 wage arrears, a production halt and a bankruptcy petition against its Shanghai subsidiary.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a></p>",
+      "zh": "<h3>定位与销量依据</h3><p>爱驰将 U5 定价在 20 万-30 万元区间、U6 定价 21.99 万元，定位中高端主流纯电 SUV。其早期差异化在于率先出口欧洲（为最早在欧洲销售的中国品牌之一），以及以传统车企出身的创始团队强调制造品质。<a href=\"https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm\">[s9]</a><a href=\"https://www.electrive.com/2024/11/28/aiways-europe-to-debut-on-us-stock-market-thanks-to-spac-deal/\">[s8]</a></p><p>销量规模很小。媒体援引乘联会数据：2020 年国内销量 2600 辆、2021 年 3011 辆、2022 年约 4626 辆，2023 年一季度仅 536 辆；截至 2021 年 12 月 15 日累计出口约 2705 辆，欧洲子公司称自 2020 年以来累计售出约 6000 辆。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>我们的判断：失败原因</h3><p>我们的判断：爱驰较晚进入拥挤的中价位纯电市场，仅两款车型、品牌认知度低，销量未达支撑自建重资产工厂与 17.47 亿元江铃控股收购所需的规模。依据为媒体引用的乘联会销量、长期单一产品线，以及 2023 年欠薪、停产、被申请破产清算等有据可查的事实链条。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a></p><p>我们的判断：其早期欧洲渠道与 WVTA 认证车型为欧洲子公司提供了可辨识但很小的基础；但渠道存在本身，并不能证明其在产品、软件或成本上相对大型中国车企及欧洲本土车企具备竞争力。欧洲子公司自身的数字——2024 年营收 83.7 万欧元、2025 年 34.1 万欧元、2025 年税前亏损 341.6 万欧元——描述的是一门基本处于停摆状态的业务。<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>对行业的教训</h3><p>爱驰集中体现了第一波新势力几个有据可查的教训：累计融资接近百亿元，重金自建工厂并以 17.47 亿元取得生产资质，但仅两款车型、国内销量峰值不过 2022 年约 4626 辆，无法覆盖重资产固定成本，最终演变为 2023 年欠薪、停产、上海子公司被申请破产清算。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.peopleapp.com/rmharticle/30030004278\">[s10]</a></p>"
+    },
+    "outlook": {
+      "source_ids": ["s5", "s20", "s3", "s6", "s1", "s8"],
+      "en": "<h3>Stated plans</h3><p>EuroEV's registration statement describes a strategic restart in 2027, with Aiways production in Shangrao, China expected to resume in the second half of that year. The F-4/A states that the parties will endeavour to sign financing agreements totalling at least US$100 million, that certain PIPE subscription agreements have been signed since December 2024, and that there is no minimum PIPE amount as a condition to closing.<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><p>Media outlet IPOGrid reports that the registration statement cleared the SEC with a funding gap of roughly US$40 million, and that only about US$5 million had been secured when the proxy statement was prepared; these media figures are not this review's primary sources and are reported here only as media commentary.<a href=\"https://ipogrid.com/news/2026-08-25-euroev-sec-clearance-funding-gap\">[s20]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>Our analysis</h3><p>Our assessment: shareholder approval on 14 September 2026 is a procedural milestone, not a completed listing. Closing still requires Nasdaq listing approval for 'EUEV' and completion of the financing, neither of which this review confirmed by 29 October 2026. The basis is the at least US$100 million financing target in the F-4/A against the amounts reported as committed, and HUDA's delisting (Form 25 filed 11 July 2025).<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><p>Our assessment: even if listed, the combined company would restart from a revenue base of about EUR340,769 in 2025 against a US$410 million transaction valuation, so commercial viability is not established by the transaction itself. This is a conditional scenario, not a forecast of any share price.<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>Preconditions for a restart</h3><p>Even if the combination closes, a restart still depends on obtaining Nasdaq listing approval, completing the financing, restoring Shangrao production capacity, and rebuilding the European sales and aftersales network. As of the research cutoff, this review obtained no primary confirmation that any of these steps had been completed.<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a></p>",
+      "zh": "<h3>公司公开的计划</h3><p>EuroEV 的注册声明描述 2027 年战略重启，中国上饶的 Aiways 生产预计于当年下半年恢复。F-4/A 写明各方将努力签署合计至少 1 亿美元的融资协议，并称自 2024 年 12 月以来已有部分 PIPE 认购协议签署，且合并没有最低 PIPE 金额这一交割条件。<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><p>媒体 IPOGrid 报道，注册声明获 SEC 放行时仍有约 4000 万美元资金缺口，代理声明准备时仅落实约 500 万美元；上述媒体数字非本研究的一手依据，此处仅作为媒体评论列示。<a href=\"https://ipogrid.com/news/2026-08-25-euroev-sec-clearance-funding-gap\">[s20]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>我们的分析</h3><p>我们的判断：2026 年 9 月 14 日股东批准只是程序性节点，不等于完成上市；交割仍需「EUEV」获纳斯达克上市批准并完成融资，截至 2026 年 10 月 29 日本次研究未确认其中任何一项。依据为 F-4/A 中至少 1 亿美元融资目标与已承诺金额之间的差距，以及 HUDA 的摘牌（Form 25 于 2025 年 7 月 11 日提交）。<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><p>我们的判断：即便上市，合并后公司将以 2025 年约 34.1 万欧元的营收基础重启，面对 4.1 亿美元交易估值，交易本身并不能证明商业可行性。此为条件性情景，不构成任何价格预测。<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></p><h3>重启的前置条件</h3><p>即便合并完成，重启仍取决于获得纳斯达克上市批准、完成融资、恢复上饶工厂的生产能力，以及重建欧洲销售与售后网络。截至研究截止日，本次研究未取得上述任何一项已落实的一手确认。<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a></p>"
+    },
+    "risks": {
+      "source_ids": ["s7", "s8", "s12", "s17", "s5", "s1", "s3", "s20"],
+      "en": "<ul><li><strong>Production and solvency:</strong> the Shangrao plant stopped around February 2023 and the Shanghai operating subsidiary faced a November 2023 bankruptcy-liquidation petition, so the China business is halted and its creditors remain unresolved in public records.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.electrive.com/2024/11/28/aiways-europe-to-debut-on-us-stock-market-thanks-to-spac-deal/\">[s8]</a></li><li><strong>Financing and listing risk:</strong> the F-4/A sets a financing target of at least US$100 million with no minimum PIPE as a closing condition, and the combined entity still requires Nasdaq listing approval after HUDA's delisting (Form 25 filed 11 July 2025); media report only a small amount was committed.<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a><a href=\"https://ipogrid.com/news/2026-08-25-euroev-sec-clearance-funding-gap\">[s20]</a></li><li><strong>Scale and competitiveness:</strong> domestic sales peaked near 4,626 units in 2022 before collapsing, and the European unit's revenue was EUR340,769 in 2025, leaving little operating base to fund a restart against larger competitors.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></li><li><strong>Execution and timeline:</strong> the de-SPAC was first expected to close around 31 December 2024 and has been extended repeatedly, with closing still unconfirmed by the research cutoff.<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a></li><li><strong>Creditor and aftersales exposure:</strong> media report that Aiways could no longer pay suppliers and employees, and the Shanghai subsidiary faced a bankruptcy petition and was later renamed; this review found no primary confirmation of how aftersales and warranty rights for existing owners are being preserved.<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.jiemian.com/article/12024159.html\">[s17]</a></li></ul>",
+      "zh": "<ul><li><strong>生产与偿付风险依据：</strong>上饶工厂约于 2023 年 2 月停产，上海运营主体 2023 年 11 月被申请破产清算，中国业务停摆且公开记录中的债权问题未了结。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.electrive.com/2024/11/28/aiways-europe-to-debut-on-us-stock-market-thanks-to-spac-deal/\">[s8]</a></li><li><strong>融资与上市风险依据：</strong>F-4/A 设定至少 1 亿美元融资目标且未设最低 PIPE 交割条件，合并实体在 HUDA 摘牌（Form 25 于 2025 年 7 月 11 日提交）后仍需获纳斯达克上市批准；媒体报道已承诺金额有限。<a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a><a href=\"https://ipogrid.com/news/2026-08-25-euroev-sec-clearance-funding-gap\">[s20]</a></li><li><strong>规模与竞争力风险依据：</strong>国内销量 2022 年约 4626 辆后崩盘，欧洲子公司 2025 年营收约 34.1 万欧元，重启所需的运营基础薄弱，且面临更大规模对手的竞争。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt\">[s5]</a></li><li><strong>执行与时间线风险依据：</strong>de-SPAC 原预计 2024 年 12 月 31 日前后完成，之后多次延期，截至研究截止日交割仍未确认。<a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm\">[s3]</a></li><li><strong>债权人与售后风险依据：</strong>媒体报道爱驰无法支付供应商与员工款项、上海主体被申请破产清算并随后更名；停产后车主售后与质保权益的保障，本次未取得公开一手确认。<a href=\"https://static.nfnews.com/content/202405/24/c8902485.html\">[s7]</a><a href=\"https://www.jiemian.com/article/12024159.html\">[s17]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Hudson Acquisition I Corp. Form 8-K, Exhibit 99.1 press release — letter agreement with Aiways Automobile Europe GmbH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853047/000121390024044377/ea020640601ex99-1_hudson.htm",
+      "date": "2024-05-14",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "Hudson Acquisition I Corp. Form 8-K, Exhibit 2.1 Business Combination Agreement (EuroEV Holdings Limited / Aiways Automobile Europe GmbH)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853047/000121390025047454/ea023813401ex2-1_hudson1.htm",
+      "date": "2024-11-22",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Hudson Acquisition I Corp. Form 8-K — special meeting vote results on the Aiways Europe business combination",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm",
+      "date": "2026-09-14",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "Hudson Acquisition I Corp. Form 8-K — Nasdaq Hearings Panel delisting notice",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853047/000101376225002543/ea0235722-8k425_hudson1.htm",
+      "date": "2025-03-26",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "EuroEV Holdings Limited Form F-4/A registration statement (Aiways Automobile Europe GmbH financials and business description)",
+      "url": "https://www.sec.gov/Archives/edgar/data/2048740/000121390026092675/0001213900-26-092675.txt",
+      "date": "2026-08-21",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "EuroEV Holdings Limited Form 424B3 final prospectus",
+      "url": "https://www.sec.gov/Archives/edgar/data/2048740/000121390026093279/0001213900-26-093279-index.html",
+      "date": "2026-08-25",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "Nanfang Daily (南方+) — 停产一年后，有望在美借壳上市 (Aiways crisis and SPAC plan)",
+      "url": "https://static.nfnews.com/content/202405/24/c8902485.html",
+      "date": "2024-05-24",
+      "tier": "B"
+    },
+    {
+      "id": "s8",
+      "name": "electrive — Aiways Europe to debut on US stock market thanks to SPAC deal",
+      "url": "https://www.electrive.com/2024/11/28/aiways-europe-to-debut-on-us-stock-market-thanks-to-spac-deal/",
+      "date": "2024-11-28",
+      "tier": "B"
+    },
+    {
+      "id": "s9",
+      "name": "Luwang (鲁网) — 爱驰U5正式入列服役 (U5 launch and founder profiles)",
+      "url": "https://f.sdnews.com.cn/qcpd/cjtt/201912/t20191220_2654421.htm",
+      "date": "2019-12-20",
+      "tier": "B"
+    },
+    {
+      "id": "s10",
+      "name": "People's Daily app (peopleapp, 雷达财经) — 爱驰汽车上市：一家非典型新势力的挣扎与自救",
+      "url": "https://www.peopleapp.com/rmharticle/30030004278",
+      "date": "2022-09-28",
+      "tier": "B"
+    },
+    {
+      "id": "s11",
+      "name": "China Economic Net Auto (auto.ce.cn) — 补贴后售价21.99万元 纯电新玩家爱驰U6正式上市",
+      "url": "https://auto.ce.cn/auto/gundong/202210/14/t20221014_38162463.shtml",
+      "date": "2022-10-14",
+      "tier": "B"
+    },
+    {
+      "id": "s12",
+      "name": "21st Century Business Herald (21世纪经济报道) — 创始人回归重掌大权，高管层大换血：爱驰汽车翻身有望？",
+      "url": "https://www.21jingji.com/article/20230721/herald/e7e258155b83f4d18390c7b94abebaea.html",
+      "date": "2023-07-21",
+      "tier": "B"
+    },
+    {
+      "id": "s13",
+      "name": "CnEVPost — Thai EV firm reportedly plans to buy 150,000 EVs from Chinese startup Aiways",
+      "url": "https://cnevpost.com/2022/11/28/thai-ev-firm-reportedly-to-buy-150000-evs-from-aiways/",
+      "date": "2022-11-28",
+      "tier": "B"
+    },
+    {
+      "id": "s14",
+      "name": "Automotive World (Aiways news release) — Milestone partnership: Aiways and Phoenix EV sign far-reaching agreement in South-East Asia",
+      "url": "https://www.automotiveworld.com/news-releases/milestone-partnership-aiways-and-phoenix-ev-sign-far-reaching-agreement-in-south-east-asia/",
+      "date": "2022-11-29",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "21st Century Business Herald (证券之星) — 股权七年三度更迭，自有品牌缺失，江铃控股靠代工“续命”",
+      "url": "https://www.21jingji.com/article/20260627/herald/77ee2eabd87fce326c70c8830bcb2dc3.html",
+      "date": "2026-06-27",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "National Business Daily (每日经济新闻) — 江铃控股股权落定：长安、江铃集团重掌50%股权",
+      "url": "https://www.mrjjxw.com/articles/2026-05-26/4408761.html",
+      "date": "2026-05-26",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "Jiemian News (界面新闻) — 爱驰汽车上海公司更名为亿维新能汽车研发公司",
+      "url": "https://www.jiemian.com/article/12024159.html",
+      "date": "2024-11-22",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "CRI Online / Autohome (国际在线·汽车之家) — 代工或收购资质 爱驰与江铃达成合作",
+      "url": "https://auto.cri.cn/chinanews/20181227/7a976e2e-e6a6-5956-9be8-18a965be9f65.html",
+      "date": "2018-12-27",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "China.com Economy (中华网产经) — 曾与“蔚小理”同一起跑线，爱驰汽车为何沦落？",
+      "url": "https://economy.china.com/tech/20002551/20230601/25754962.html",
+      "date": "2023-06-01",
+      "tier": "B"
+    },
+    {
+      "id": "s20",
+      "name": "IPOGrid — EUROEV Clears the SEC With a $40 Million Funding Gap",
+      "url": "https://ipogrid.com/news/2026-08-25-euroev-sec-clearance-funding-gap",
+      "date": "2026-08-25",
+      "tier": "C"
+    },
+    {
+      "id": "s21",
+      "name": "Aiways Automobile Europe GmbH press release (presseportal) — Strategic changes: Aiways on the road to the future",
+      "url": "https://www.presseportal.de/en/pm/150402/5571200",
+      "date": "2023-08-01",
+      "tier": "B"
+    },
+    {
+      "id": "s22",
+      "name": "Tianyancha (天眼查) — 爱驰汽车有限公司 company profile (former name Jiangxi Aiways Yiwei Industrial Co., Ltd.)",
+      "url": "https://m.tianyancha.com/sbid/3012258146-af40",
+      "date": "2026-07-21",
+      "tier": "C"
+    }
+  ]
+}

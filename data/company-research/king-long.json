@@ -1,0 +1,364 @@
+{
+  "id": "king-long",
+  "name_en": "Xiamen King Long Motor Group Co., Ltd.",
+  "name_zh": "厦门金龙汽车集团股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "1988 (Xiamen King Long United Automotive Industry Co., Ltd., the large-bus maker, was founded on 3 December 1988)",
+      "value_zh": "1988 年（厦门金龙联合汽车工业有限公司 1988 年 12 月 3 日成立）",
+      "period": null,
+      "source_ids": ["s8", "s25"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Xiamen, Fujian, China",
+      "value_zh": "中国福建省厦门市",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-controlled (Fujian provincial state-owned holding enterprise)",
+      "value_zh": "国有控股（福建省属国有控股企业）",
+      "period": null,
+      "source_ids": ["s1", "s6"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "State-owned Assets Supervision and Administration Commission of the Fujian Provincial People's Government, via controlling shareholder Fujian Motor Industry Group Co., Ltd.",
+      "value_zh": "福建省人民政府国有资产监督管理委员会（经控股股东福建省汽车工业集团有限公司控制）",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Shanghai Stock Exchange: 600686 (listed 1993-11-08; China's first listed bus maker)",
+      "value_zh": "上海证券交易所：600686（1993-11-08 上市，中国客车行业首家上市公司）",
+      "period": null,
+      "source_ids": ["s1", "s9"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "12,619",
+      "value_zh": "12,619 人",
+      "period": "2025-12-31",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "RMB 24.55 billion (+6.89% YoY)",
+      "value_zh": "人民币 245.47 亿元（同比增长 6.89%）",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Net profit attributable to shareholders (FY2025)",
+      "label_zh": "归母净利润（2025 财年）",
+      "value_en": "RMB 468 million (+196.90% YoY)",
+      "value_zh": "人民币 4.68 亿元（同比增长 196.90%）",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Bus sales (2025)",
+      "label_zh": "客车销量（2025 年）",
+      "value_en": "51,250 units (+2.29% YoY): 18,560 large, 10,528 medium, 22,162 light",
+      "value_zh": "51,250 辆（同比增长 2.29%）：大型 18,560 辆、中型 10,528 辆、轻型 22,162 辆",
+      "period": "2025",
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Overseas sales (2025)",
+      "label_zh": "海外销量（2025 年）",
+      "value_en": "About 30,300 buses exported (+34.47% YoY); overseas sales revenue RMB 12.98 billion (+30.56% YoY)",
+      "value_zh": "出口约 3.03 万辆（同比增长 34.47%）；海外销售收入 129.83 亿元（同比增长 30.56%）",
+      "period": "2025",
+      "source_ids": ["s1"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1988-12",
+      "event_en": "Xiamen King Long United Automotive Industry Co., Ltd. (the 'large King Long' large-bus maker) is founded in Xiamen on 3 December 1988, the starting point of the King Long brand.",
+      "event_zh": "厦门金龙联合汽车工业有限公司（「大金龙」）于 1988 年 12 月 3 日在厦门成立，成为金龙客车品牌的起点。",
+      "source_ids": ["s8", "s25"]
+    },
+    {
+      "date": "1990",
+      "event_en": "The first King Long medium luxury tourist coach rolls off the line, Xiamen's first bus.",
+      "event_zh": "第一辆金龙中型豪华旅游客车下线，为厦门制造的第一辆客车。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "1992",
+      "event_en": "Xiamen Golden Dragon Bus Co., Ltd. ('Golden Dragon' / 'Jinlv') is founded on 14 August 1992 to make small and medium coaches.",
+      "event_zh": "厦门金龙旅行车有限公司（「金旅」）于 1992 年 8 月 14 日成立，主攻中小型旅行客车。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "1993-11-08",
+      "event_en": "The company lists on the Shanghai Stock Exchange as 'Xiamen Automobile' (600686), China's first listed bus company.",
+      "event_zh": "以「厦门汽车」名义在上海证券交易所挂牌（600686），成为中国客车行业首家上市公司。",
+      "source_ids": ["s1", "s9"]
+    },
+    {
+      "date": "1998-12",
+      "event_en": "Higer Bus Company Limited (金龙联合汽车工业（苏州）有限公司, 'Suzhou King Long' / 'Higer') is founded in Suzhou on 31 December 1998.",
+      "event_zh": "金龙联合汽车工业（苏州）有限公司（「苏州金龙」/「海格」）于 1998 年 12 月 31 日在苏州成立。",
+      "source_ids": ["s21", "s25"]
+    },
+    {
+      "date": "2001",
+      "event_en": "King Long buses are exported to Iraq in volume, an early step in the brand's internationalisation.",
+      "event_zh": "金龙客车批量出口伊拉克，迈出品牌国际化早期一步。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2003",
+      "event_en": "Higer registers the 'Higer' trademark; King Long exports 82 buses to Malta, opening the European market.",
+      "event_zh": "海格正式注册「海格」商标；金龙客车 82 辆出口马耳他，打开欧洲市场。",
+      "source_ids": ["s21", "s8"]
+    },
+    {
+      "date": "2005",
+      "event_en": "King Long passes UK VCA certification, gaining access to the EU market.",
+      "event_zh": "金龙客车率先通过英国 VCA 认证，取得进入欧盟市场的通行证。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2006",
+      "event_en": "Higer and Sweden's Scania begin strategic cooperation (first model A80), producing SCANIA-HIGER co-branded luxury coaches under a 'cooperation, not joint venture' model.",
+      "event_zh": "苏州金龙与瑞典斯堪尼亚开启战略合作（首款 A80），以「合作而非合资」模式生产「斯堪尼亚·海格」双品牌豪华客车。",
+      "source_ids": ["s20", "s21"]
+    },
+    {
+      "date": "2007",
+      "event_en": "A deal to export 1,000 Higer buses to Russia is signed in Moscow.",
+      "event_zh": "1000 台海格客车出口俄罗斯在莫斯科签约。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2013",
+      "event_en": "The Higer new-energy bus base breaks ground in Suzhou: 430 mu (about 28.7 hectares), phase-one investment of RMB 1.5 billion, with planned annual capacity of 10,000 new-energy buses.",
+      "event_zh": "海格新能源客车基地在苏州奠基：占地 430 亩，一期投资 15 亿元，建成后将形成年产 1 万辆新能源车的生产能力。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2016-11-09",
+      "event_en": "The Scania-Higer luxury coach plant in Suzhou is completed and put into operation, with annual capacity of over 1,000 units.",
+      "event_zh": "斯堪尼亚·海格豪华客车新工厂在苏州投产，年产能 1000 台以上。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2018",
+      "event_en": "Higer becomes the only domestic bus maker providing shuttle service for the Hong Kong-Zhuhai-Macao Bridge.",
+      "event_zh": "海格成为唯一为港珠澳大桥提供公交接驳服务的国内客车制造商。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2020",
+      "event_en": "The group achieves 100% direct control of Xiamen King Long (the large-bus maker).",
+      "event_zh": "集团实现对厦门金龙（大金龙）100% 直接控股。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2024-11-07",
+      "event_en": "The group signs a deepened comprehensive cooperation agreement with Huawei, covering AI large-model deployment, autonomous driving and digital transformation.",
+      "event_zh": "与华为签署深化全面合作协议，覆盖人工智能大模型布局、自动驾驶、数字化转型等领域。",
+      "source_ids": ["s18", "s19"]
+    },
+    {
+      "date": "2024-12-30",
+      "event_en": "The group signs an equity transfer agreement with Jialong Group to acquire its 40% stake in Xiamen Golden Dragon Bus Co., Ltd.; the board and supervisory board approve the related-party transaction the same day.",
+      "event_zh": "与嘉隆集团签署《关于厦门金龙旅行车有限公司之股权转让协议》，收购其所持金旅客车 40% 股权；同日董事会、监事会审议通过该关联交易。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2025-02-11",
+      "event_en": "The acquisition of the 40% stake in Golden Dragon completes industrial-and-commercial registration, making Golden Dragon a wholly owned subsidiary.",
+      "event_zh": "受让金旅客车 40% 股权完成工商变更登记，金旅成为上市公司全资子公司。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2025-04-16",
+      "event_en": "Chairman Xie Siyu resigns as chairman and director due to job changes.",
+      "event_zh": "董事长谢思瑜因工作变动辞去董事长、董事等职务。",
+      "source_ids": ["s27"]
+    },
+    {
+      "date": "2025-05-21",
+      "event_en": "Chen Feng is elected chairman of the 11th board and becomes the legal representative.",
+      "event_zh": "陈锋当选第十一届董事会董事长，并成为法定代表人。",
+      "source_ids": ["s5", "s23"]
+    },
+    {
+      "date": "2025-10",
+      "event_en": "At the Busworld expo in Belgium, King Long launches four new new-energy bus models — MU12E, MC13E, A02 and V8 — for the global market.",
+      "event_zh": "在比利时 Busworld 世界客车博览会上，金龙面向全球发布 MU12E、MC13E、A02、V8 四款全新新能源客车。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2025-10-24",
+      "event_en": "The board approves a plan to transfer free of charge the 63.0757% stake in Suzhou King Long (Higer) held by wholly owned subsidiary Xiamen King Long up to the listed company; under the plan the listed company's direct stake would rise from 2.1405% to 65.2162%.",
+      "event_zh": "董事会审议通过将全资子公司厦门金龙所持苏州金龙 63.0757% 股权无偿划转至上市公司的方案；按方案划转完成后，上市公司对苏州金龙直接持股将由 2.1405% 升至 65.2162%。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Overseas sales revenue (RMB 12.98 billion, +30.56%) exceeds domestic sales revenue (RMB 10.31 billion); net profit attributable to shareholders rises 196.90% to RMB 468 million.",
+      "event_zh": "海外销售收入 129.83 亿元（+30.56%）超过国内销售（103.09 亿元）；归母净利润 4.68 亿元，同比增长 196.90%。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2026-08-24",
+      "event_en": "The H1 2026 interim report shows revenue of RMB 11.085 billion (+7.34%) and net profit attributable to shareholders of RMB 276 million (+137.58%); H1 exports rose 26.76% to 17,800 buses.",
+      "event_zh": "2026 年半年度报告披露，上半年营业收入 110.85 亿元（+7.34%）、归母净利润 2.76 亿元（+137.58%）；上半年出口 1.78 万辆，同比增长 26.76%。",
+      "source_ids": ["s3", "s13"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "King Long (金龙客车)",
+      "name_zh": "金龙客车（大金龙）",
+      "role_en": "The group's flagship large and medium bus brand, covering 4.5m-18m buses for highway, tourism, transit, group commute, school and special-purpose markets; the group's main export brand, sold in more than 150 countries and regions with cumulative exports exceeding 160,000 units.",
+      "role_zh": "集团旗舰大中客品牌，覆盖 4.5 米至 18 米客车，面向公路客运、旅游、公交、团体通勤、校车及专用车市场；集团主要出口品牌，产品覆盖 150 多个国家和地区、累计出口超 16 万辆。",
+      "price_band": null,
+      "founded": 1988,
+      "owner_note_en": "Operated by Xiamen King Long United Automotive Industry Co., Ltd., a wholly owned subsidiary of the listed company. In 2025 the King Long brand delivered about 20,677 vehicles, of which 12,255 were exported; in H1 2026 it exported 8,075 buses (up 38%), ranking first among China's 3.5-metre-and-above bus exporters.",
+      "owner_note_zh": "运营主体为厦门金龙联合汽车工业有限公司，系上市公司全资子公司。据金龙客车官网，2025 年金龙品牌交付约 20,677 辆，其中出口 12,255 辆；2026 年上半年出口 8,075 辆（同比增长 38%），位居 3.5 米以上客车出口行业第一。",
+      "status": "active",
+      "source_ids": ["s1", "s8", "s24"]
+    },
+    {
+      "name_en": "Golden Dragon (金旅客车)",
+      "name_zh": "金旅客车（小金龙）",
+      "role_en": "Small and medium coach brand later extended to a full line-up; strong in light-coach and new-energy exports.",
+      "role_zh": "以中小型旅行客车起家，后扩展至全系客车，轻型客车与新能源出口表现突出。",
+      "price_band": null,
+      "founded": 1992,
+      "owner_note_en": "Operated by Xiamen Golden Dragon Bus Co., Ltd. (founded 14 August 1992; registered capital RMB 640 million). It became a wholly owned subsidiary in February 2025 after the group completed the acquisition of Jialong Group's 40% stake. In H1 2026 it exported 4,656 buses, ranking fourth among China's 3.5-metre-and-above bus exporters (per media statistics).",
+      "owner_note_zh": "运营主体为厦门金龙旅行车有限公司（1992 年 8 月 14 日成立，注册资本 6.4 亿元）。2025 年 2 月收购嘉隆集团所持 40% 股权完成后成为全资子公司。据媒体统计，2026 年上半年出口 4,656 辆，居 3.5 米以上客车出口行业第四。",
+      "status": "active",
+      "source_ids": ["s26", "s16"]
+    },
+    {
+      "name_en": "Higer (海格客车 / 苏州金龙)",
+      "name_zh": "海格客车（苏州金龙）",
+      "role_en": "Suzhou-based bus brand known for customisation, export growth and smart-bus (G-BOS telematics) technology; produces SCANIA-HIGER co-branded luxury coaches with Scania under a cooperation (not joint venture) model.",
+      "role_zh": "位于苏州的客车品牌，以定制化、出口增长与智慧客车（G-BOS 车联网）技术见长；与斯堪尼亚以「合作而非合资」模式生产「斯堪尼亚·海格」双品牌豪华客车。",
+      "price_band": null,
+      "founded": 1998,
+      "owner_note_en": "Operated by Higer Bus Company Limited (金龙联合汽车工业（苏州）有限公司), founded 31 December 1998 with registered capital of RMB 755.41 million. Under the October 2025 board-approved transfer plan, the listed company's direct stake in Higer will rise from 2.1405% to 65.2162%; Suzhou Chuangyuan Investment Development (Group) Co., Ltd. holds 34.7838%. The Higer trademark was registered in 2003. Its Scania cooperation (since 2006) is a partnership, not a joint venture: Scania supplies chassis and technology while Higer manufactures the vehicles. In H1 2026 it exported 5,110 buses, ranking third among China's 3.5-metre-and-above bus exporters (per media statistics).",
+      "owner_note_zh": "运营主体为金龙联合汽车工业（苏州）有限公司（1998 年 12 月 31 日成立，注册资本 7.5541 亿元）。按 2025 年 10 月董事会通过的划转方案，划转完成后上市公司直接持股将由 2.1405% 升至 65.2162%，苏州创元投资发展（集团）有限公司持股 34.7838%。「海格」商标 2003 年注册。其与斯堪尼亚自 2006 年起的合作属「合作」而非「合资」：斯堪尼亚提供底盘与技术、海格负责整车制造。据媒体统计，2026 年上半年出口 5,110 辆，居 3.5 米以上客车出口行业第三。",
+      "status": "active",
+      "source_ids": ["s25", "s20", "s21", "s16"]
+    },
+    {
+      "name_en": "King Long New Energy (厦门金龙汽车新能源科技有限公司)",
+      "name_zh": "金龙新能源（厦门金龙汽车新能源科技有限公司）",
+      "role_en": "New-energy three-electric (battery, motor, electric control) systems and components subsidiary.",
+      "role_zh": "新能源三电系统及零部件子公司。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "A subsidiary of the listed company engaged in new-energy vehicle parts, listed among the group's principal subsidiaries in the 2025 annual report.",
+      "owner_note_zh": "系上市公司子公司，从事新能源汽车零部件业务，2025 年年报将其列为集团主要子公司之一。",
+      "status": "active",
+      "source_ids": ["s1"]
+    },
+    {
+      "name_en": "King Long Ceremony Bus (厦门金龙礼宾车)",
+      "name_zh": "金龙礼宾车",
+      "role_en": "Premium ceremony, VIP and special-purpose coach line.",
+      "role_zh": "高端礼宾、VIP 接待及专用客车产品线。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "Operated by Xiamen King Long Ceremony Vehicle Co., Ltd., a controlling subsidiary of the listed company listed among its principal subsidiaries in the 2025 annual report.",
+      "owner_note_zh": "运营主体为厦门金龙礼宾车有限公司，系上市公司控股子公司，2025 年年报将其列为集团主要子公司之一。",
+      "status": "active",
+      "source_ids": ["s1"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (China Accounting Standards for Business Enterprises)",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 19400, "gross_margin_pct": 9.71, "net_profit": 75, "rnd": 749, "source_ids": ["s2"] },
+      { "fiscal_year": 2024, "revenue": 22966, "gross_margin_pct": 10.21, "net_profit": 158, "rnd": 823, "source_ids": ["s2"] },
+      { "fiscal_year": 2025, "revenue": 24547, "gross_margin_pct": 12.72, "net_profit": 468, "rnd": 916, "source_ids": ["s1"] }
+    ],
+    "note_en": "Fiscal year ends 31 December. Figures are consolidated figures of Xiamen King Long Motor Group Co., Ltd. (600686.SH) under PRC GAAP, in RMB millions, rounded to the nearest million; 'gross_margin_pct' is rounded to two decimals. 'net_profit' is profit attributable to owners of the parent (归属于上市公司股东的净利润 / 归母净利润), NOT total net profit including minority interests; FY2025 total net profit was RMB 586 million while profit attributable to owners of the parent was RMB 468 million. The company has no preference shares, so profit attributable to owners of the parent equals profit attributable to ordinary shareholders. 'gross_margin_pct' is computed from revenue and cost of sales disclosed in the income statement. FY2025 revenue, cost of sales and net profit are from the 2025 annual report; FY2023-FY2024 figures are from the 'major accounting data for the last three years' section of the 2024 annual report, whose comparative column restates FY2023 (revenue RMB 19,399.85 million; profit attributable to owners of the parent RMB 75.10 million). R&amp;D expense ('rnd', 研发费用) is expensed in the period (capitalisation rate 0%). FY2025 R&amp;D expense was RMB 916 million, 3.73% of revenue.",
+    "note_zh": "财年截至 12 月 31 日。数据为厦门金龙汽车集团股份有限公司（600686.SH）按中国企业会计准则编制的合并口径，以人民币百万元计，金额四舍五入至百万；'gross_margin_pct' 保留两位小数。'net_profit' 为归属于母公司股东的净利润（归母净利润），而非含少数股东损益的净利润总额：2025 财年净利润总额 5.86 亿元，归母净利润 4.68 亿元。公司无优先股，归属于母公司股东的净利润即归属于普通股股东的净利润。'gross_margin_pct' 由利润表披露的营业收入与营业成本计算。2025 财年营业收入、营业成本与净利润取自 2025 年年报；2023—2024 财年数据取自 2024 年年报「近三年主要会计数据」，其比较期间对 2023 年进行了列报（营业收入 193.9985 亿元、归母净利润 7510 万元）。研发费用（'rnd'）当期费用化（资本化率为 0）。2025 财年研发费用 9.16 亿元，占营业收入 3.73%。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Xiamen King Long Motor Group Co., Ltd. (SSE: 600686) is one of China's largest bus manufacturers and China's first listed bus company. Through three whole-vehicle subsidiaries — Xiamen King Long United Automotive Industry Co., Ltd., Xiamen Golden Dragon Bus Co., Ltd. and Higer Bus Company Limited (Suzhou) — it operates the King Long, Golden Dragon and Higer brands, covering 4.5-metre to 18-metre buses for highway, tourism, transit, group commute, school and special-purpose markets, sold in more than 180 countries and regions <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>. In FY2025 it reported revenue of RMB 24.55 billion (+6.89%) and net profit attributable to owners of the parent of RMB 468 million (+196.90%), and sold 51,250 buses <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-07/600686_20260107_2NP5.pdf\">[s4]</a>. In H1 2026 revenue reached RMB 11.085 billion (+7.34%) and net profit attributable to shareholders RMB 276 million (+137.58%) <a href=\"https://static.cninfo.com.cn/finalpage/2026-08-25/1225499077.PDF\">[s3]</a>.</p><p>King Long is a Fujian provincial state-controlled enterprise: controlling shareholder Fujian Motor Industry Group Co., Ltd. (福汽集团) held 32.25% at end-2025, and after buying 7,276,800 shares through centralised bidding between 2 June and 20 October 2026 its stake rose to 33.26%; the actual controller is the State-owned Assets Supervision and Administration Commission of the Fujian Provincial People's Government <a href=\"https://paper.cnstock.com/html/2026-10/21/content_2279476.htm\">[s6]</a><a href=\"https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF\">[s2]</a>. In 2025 overseas sales revenue of RMB 12.98 billion exceeded domestic sales revenue of RMB 10.31 billion, making export the group's primary growth driver <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</p><p>After a 2024-2025 restructuring, King Long and Golden Dragon are wholly owned subsidiaries. Suzhou King Long (Higer) remained a proposed transfer as of 2026-10-29: under the board-approved plan of October 2025, the listed company's direct stake would rise from 2.1405% to 65.2162% (before the transfer, Xiamen King Long holds 63.0757% and Suzhou Chuangyuan 34.7838%; afterwards, King Long would hold 65.2162% and Suzhou Chuangyuan 34.7838%). Tonghuashun's capital-operation page marks this transfer as in progress, and no announcement of a completed industrial-and-commercial registration was found. The company says the plan is intended to coordinate R&amp;D, procurement, sales and after-sales across the three brands <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-10-24/600686_20251024_KUN8.pdf\">[s25]</a><a href=\"https://static.cninfo.com.cn/finalpage/2025-02-11/1222503761.PDF\">[s26]</a><a href=\"https://basic.10jqka.com.cn/600686/capital.html\">[s33]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>.</p><p>For FY2025 the company proposed a cash dividend of RMB 2.00 per 10 shares (before tax), totalling RMB 143.41 million; combined with the interim dividend this gives a full-year cash dividend of RMB 164.92 million, or 35.21% of net profit attributable to shareholders <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>.</p>",
+      "zh": "<p>厦门金龙汽车集团股份有限公司（上交所：600686）是中国最大的客车制造商之一、中国客车行业首家上市公司。公司通过厦门金龙联合汽车工业有限公司、厦门金龙旅行车有限公司、金龙联合汽车工业（苏州）有限公司三家整车子公司，运营「金龙」「金旅」「海格」三大品牌，产品覆盖 4.5 米至 18 米客车，面向公路客运、旅游、公交、团体通勤、校车及专用车市场，销往全球 180 多个国家和地区 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。2025 财年实现营业收入 245.47 亿元（+6.89%）、归母净利润 4.68 亿元（+196.90%），销售客车 51,250 辆 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-07/600686_20260107_2NP5.pdf\">[s4]</a>。2026 年上半年营业收入 110.85 亿元（+7.34%）、归母净利润 2.76 亿元（+137.58%）<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-25/1225499077.PDF\">[s3]</a>。</p><p>金龙汽车为福建省属国有控股企业：控股股东福建省汽车工业集团有限公司（福汽集团）2025 年末持股 32.25%，2026 年 6 月 2 日至 10 月 20 日通过集中竞价方式购入公司股份 7,276,800 股后，持股比例升至 33.26%；实际控制人为福建省人民政府国有资产监督管理委员会 <a href=\"https://paper.cnstock.com/html/2026-10/21/content_2279476.htm\">[s6]</a><a href=\"https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF\">[s2]</a>。2025 年海外销售收入 129.83 亿元，超过国内销售（103.09 亿元），出口成为集团首要增长引擎 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</p><p>经 2024—2025 年重组，金龙、金旅为上市公司全资子公司。苏州金龙截至 2026-10-29 仍是拟划转：按 2025 年 10 月董事会通过的方案，上市公司直接持股将由 2.1405% 升至 65.2162%（划转前厦门金龙 63.0757%、苏州创元 34.7838%；划转后金龙汽车 65.2162%、苏州创元 34.7838%）。同花顺资本运作栏把这笔划转标为「进行中」，未见完成工商变更的公告。公司称该方案用于统筹三大品牌的研发、采购、销售、售后 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-10-24/600686_20251024_KUN8.pdf\">[s25]</a><a href=\"https://static.cninfo.com.cn/finalpage/2025-02-11/1222503761.PDF\">[s26]</a><a href=\"https://basic.10jqka.com.cn/600686/capital.html\">[s33]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。</p><p>2025 年度利润分配预案为每 10 股派发现金股利 2.00 元（含税），合计派现 1.4341 亿元；叠加中期分红后全年现金分红 1.6492 亿元，占归母净利润的 35.21% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>King Long's core business is bus development, manufacturing and sales. In FY2025 the 'automobiles and body parts' segment generated revenue of RMB 23.29 billion (94.89% of operating revenue) at a gross margin of 12.14%, with the remainder from other business <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>. By region, overseas sales reached RMB 12.98 billion (+30.56%, gross margin 16.69%) and domestic sales RMB 10.31 billion (-13.52%, gross margin 6.42%), overseas revenue exceeded domestic and was about 52.9% of total revenue <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://finance.sina.com.cn/stock/aigc/stockfs/2026-04-25/doc-inhvrtiq7655405.shtml\">[s31]</a>. In 2025 the group sold 51,250 buses (18,560 large, 10,528 medium, 22,162 light) and produced 52,723 (19,362 large, 11,024 medium, 22,337 light); it exported about 30,300 buses (+34.47%) <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-07/600686_20260107_2NP5.pdf\">[s4]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>. For industry context, CAAM data cited in the 2025 annual report show China sold 566,800 buses in 2025 (+11.9%), of which 150,300 were exported (+18.51%), while the domestic large and medium bus segment fell 10% <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>. King Long sells large and medium buses mainly through direct sales supplemented by dealers, and light buses mainly through dealers <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>. Its top five customers accounted for RMB 3.29 billion of sales (13.41% of the total) and its top five suppliers RMB 4.83 billion (24.9% of purchases) in 2025, and the group had 12,619 employees at end-2025; operating cash flow was RMB 1.664 billion (+33.01%) <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf\">[s12]</a>.</p><h3>Recent performance</h3><p>In H1 2026 the group reported revenue of RMB 11.085 billion (+7.34%), net profit attributable to shareholders of RMB 276 million (+137.58%) and deducted (non-GAAP) net profit of RMB 194 million (+1,472.77%); it sold 23,900 buses (+5.97%) and exported 17,800 (+26.76%), including 2,777 new-energy buses (+35.2%) <a href=\"https://static.cninfo.com.cn/finalpage/2026-08-25/1225499077.PDF\">[s3]</a><a href=\"https://www.stcn.com/article/detail/4109832.html\">[s13]</a><a href=\"https://xm.fjsen.com/2026-09/11/content_32250181.htm\">[s15]</a>. Overseas revenue reached RMB 7.336 billion (+21.84%), or 66.18% of operating revenue <a href=\"https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf\">[s34]</a>. For January-September 2026 the group sold 35,679 buses; September single-month sales were 4,137 units and cumulative large-bus sales 11,923 units <a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876\">[s28]</a>.</p><h3>Products and technology</h3><p>The group's portfolio spans highway coaches, city buses, school buses and special vehicles. In H1 2026 it completed development and upgrade of highway models (MC, C and Qiantu series) and transit models (M, MU9 and seventh-generation premium city bus) <a href=\"https://static.weeklyonstock.com/26/0824/ABB2619071750514.html\">[s29]</a>. On electrification it has its own ISG system and 'Yiqu' new-energy management system, plus the G-BOS telematics platform; a high-performance silicon-carbide controller is already in mass production and delivery, and a flat-wire motor product matrix is being expanded <a href=\"https://higer.com/hganniversary.html\">[s21]</a><a href=\"https://static.weeklyonstock.com/26/0824/ABB2619071750514.html\">[s29]</a>. The Longwei II scored 98.02 in C-SCAP and was rated 'China's super-five-star safety bus'; the Merry Combo's streamlined shape cuts drag by 11.8%; King Long has served the National People's Congress and CPPCC (lianghui) since 2001 with a 26-year unbroken attendance record <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a>. On autonomy and hydrogen, the group runs the Robovan A3 delivery vehicle, Apolong and M6S autonomous buses, and a 49-tonne hydrogen fuel-cell semi-truck (the company website says a -30°C quick start and a range of more than 600 km; Fujian Daily says 10-15 minute refuelling, a range of more than 500 km and a -30°C cold start); it helped draft national standard GB/T 47341-2026 and completed trial builds of a low-platinum fuel-cell system and an oxide solid-state hydrogen storage system <a href=\"https://king-long.com.cn/col46/2250\">[s24]</a><a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>.</p><h3>Production bases</h3><p>The group's main subsidiaries include Xiamen King Long United, Xiamen Golden Dragon, Suzhou King Long (Higer), King Long Intelligent Technology, King Long (Longhai) Investment, King Long Ceremony Vehicle and King Long New Energy <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>. Higer's new-energy bus base in Suzhou covers 430 mu (about 28.7 hectares) with phase-one investment of RMB 1.5 billion and planned annual capacity of 10,000 new-energy buses, and the Scania-Higer luxury coach plant (operational since 9 November 2016) has annual capacity of over 1,000 units <a href=\"https://higer.com/hganniversary.html\">[s21]</a><a href=\"https://www.higer.com/hiyear2016/2798.html\">[s20]</a>. King Long's engineering research institute is in Jimei District, Xiamen <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>.</p><h3>Overseas and domestic markets</h3><p>King Long's internationalisation is long-standing: volume exports to Iraq began in 2001, 82 buses went to Malta in 2003, and it passed UK VCA certification in 2005, and it now sells in more than 150 countries and regions with cumulative exports above 160,000 units <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a>. In 2025 it marked 20 years of cooperation with a Saudi partner, with the in-service King Long fleet in Saudi Arabia exceeding 10,000 units; 121 new-energy buses went to Chile to help build Latin America's first 100% electric-bus city, and 150 natural-gas buses entered Argentina <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>. At the October 2025 Busworld expo in Belgium it launched the MU12E, MC13E, A02 and V8 new-energy models <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>. In H1 2026 the King Long brand exported 8,075 buses (+38%), ranking first among China's 3.5-metre-and-above bus exporters, while Higer (5,110) and Golden Dragon (4,656) ranked third and fourth <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>. Domestically, the group delivered 300 new-energy buses to Liaoning, 65 M-series buses to Heilongjiang, 228 new-energy buses to Urumqi and 145 to Chongqing <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>.</p>",
+      "zh": "<h3>业务结构</h3><p>金龙以客车研发、制造与销售为主业。2025 财年「汽车及车身件」业务收入 232.92 亿元，占营业收入的 94.89%，毛利率 12.14%，其余为其他业务 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。分地区看，海外销售收入 129.83 亿元（+30.56%，毛利率 16.69%）、国内销售 103.09 亿元（-13.52%，毛利率 6.42%），海外收入超过国内，约占总营收的 52.9% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://finance.sina.com.cn/stock/aigc/stockfs/2026-04-25/doc-inhvrtiq7655405.shtml\">[s31]</a>。2025 年销售客车 51,250 辆（大型 18,560、中型 10,528、轻型 22,162），生产 52,723 辆（大型 19,362、中型 11,024、轻型 22,337）；出口约 3.03 万辆（+34.47%）<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-07/600686_20260107_2NP5.pdf\">[s4]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。行业背景方面，据年报引述中汽协数据，2025 年我国累计销售客车 56.68 万辆（+11.9%），其中出口 15.03 万辆（+18.51%），国内大中型客车销售下降 10% <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。金龙大中型客车以直销为主、经销为辅，轻型客车以经销为主、直销为辅 <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>；2025 年前五大客户合计销售金额 32.92 亿元，占年度销售总额 13.41%，前五名供应商合计采购金额 48.32 亿元，占年度采购总额 24.9%；截至 2025 年末员工 12,619 人，经营活动现金流量净额 16.64 亿元（+33.01%）<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf\">[s12]</a>。</p><h3>近期经营</h3><p>2026 年上半年，集团实现营业收入 110.85 亿元（+7.34%）、归母净利润 2.76 亿元（+137.58%）、扣非净利润 1.94 亿元（+1472.77%）；销售客车 2.39 万辆（+5.97%）、出口 1.78 万辆（+26.76%），其中新能源客车出口 2,777 辆（+35.2%）<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-25/1225499077.PDF\">[s3]</a><a href=\"https://www.stcn.com/article/detail/4109832.html\">[s13]</a><a href=\"https://xm.fjsen.com/2026-09/11/content_32250181.htm\">[s15]</a>。上半年境外收入 73.36 亿元（+21.84%），占营业总收入 66.18% <a href=\"https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf\">[s34]</a>。2026 年 1—9 月累计销售客车 35,679 辆，其中 9 月单月 4,137 辆、大型客车累计 11,923 辆 <a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876\">[s28]</a>。</p><h3>产品与技术</h3><p>集团产品谱系覆盖公路客车、城市公交、校车与专用车。2026 年上半年完成 MC 系列、C 系列、乾途系列等多款公路车型及 M 系列、MU9 系列、七代高端公交等多款公交车型的开发与升级拓展 <a href=\"https://static.weeklyonstock.com/26/0824/ABB2619071750514.html\">[s29]</a>。电动化方面，公司拥有自研 ISG 系统与「易驱」新能源管理系统、G-BOS 智慧运营车联网平台，高性能碳化硅控制器已量产并批量交付、扁线电机产品矩阵持续完善 <a href=\"https://higer.com/hganniversary.html\">[s21]</a><a href=\"https://static.weeklyonstock.com/26/0824/ABB2619071750514.html\">[s29]</a>。龙威Ⅱ代在 C-SCAP 测评中以 98.02 分获评「中国超五星级安全客车」，Merry Combo 通过流线造型降低 11.8% 风阻；金龙客车最早自 2001 年服务全国两会，实现 26 年无缺席、无故障的服务纪录 <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a>。智能驾驶与氢能方面，公司布局 Robovan A3 无人配送车、Apolong 与 M6S 自动驾驶巴士，以及 49 吨氢燃料电池半挂牵引车（官网称 -30°C 快速启动、续航超过 600 公里；福建日报称 10—15 分钟快速加氢、续航突破 500 公里，并可在 -30°C 冷启动）；还参与编制国标 GB/T 47341-2026，并完成低铂高安全燃料电池系统及氧化物固态储氢系统的整车试制 <a href=\"https://king-long.com.cn/col46/2250\">[s24]</a><a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>。</p><h3>生产基地</h3><p>集团主要子公司包括厦门金龙联合、厦门金龙旅行车、苏州金龙（海格）、金龙智能科技、金龙（龙海）投资、金龙礼宾车、金龙新能源等 <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。海格苏州新能源客车基地占地 430 亩、一期投资 15 亿元，规划年产 1 万辆新能源车；斯堪尼亚·海格豪华客车工厂（2016-11-09 投产）年产能 1000 台以上 <a href=\"https://higer.com/hganniversary.html\">[s21]</a><a href=\"https://www.higer.com/hiyear2016/2798.html\">[s20]</a>。金龙客车工程研究院位于厦门集美区 <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>。</p><h3>海外与国内市场</h3><p>金龙的国际化起步较早：2001 年批量出口伊拉克、2003 年 82 辆出口马耳他、2005 年通过英国 VCA 认证，如今已进入全球 150 多个国家和地区、累计出口超 16 万辆 <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a>。2025 年与沙特伙伴合作满 20 周年，金龙客车在沙特市场保有量突破 1 万台；121 台新能源公交出口智利，助力智利打造拉美首个 100% 电动公交城市；150 台天然气公交落地阿根廷 <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>。2025 年 10 月比利时 Busworld 展上，金龙发布 MU12E、MC13E、A02、V8 四款新能源车型 <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>。2026 年上半年，金龙客车品牌出口 8,075 辆（+38%），居 3.5 米以上客车出口行业第一；海格（5,110 辆）、金旅（4,656 辆）分列第三、第四 <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。国内方面，公司向辽宁交付 300 台新能源公交、向黑龙江交付 65 台 M 系列地铁巴士、向乌鲁木齐交付 228 台新能源客车、向重庆交付 145 台新能源公交 <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder and corporate history</h3><p>King Long has no single founder in the usual sense: its origins lie in the state-owned Xiamen King Long United Automotive Industry Co., Ltd. founded in 1988, and the modern listed company took shape through a 1993 listing on the Shanghai Stock Exchange <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</p><h3>Key management</h3><ul><li><strong>Chen Feng</strong> (陈锋, born March 1973), chairman and legal representative, elected on 2025-05-21 (term began 2025-05-22). He is currently deputy secretary of the party committee, director, general counsel and chief compliance officer of Fujian Motor Industry Group Co., Ltd. He previously served as director of the general office of Fujian Investment &amp; Development Group Co., Ltd., and as a party-group member, deputy general manager, general counsel and chief compliance officer of Fujian Motor Industry Group, concurrently party secretary and chairman of South East (Fujian) Motor Industry Co., Ltd., and chairman of Fujian Southeast Automobile Trading Co., Ltd. He received no remuneration from the listed company in 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-22/600686_20250522_38JP.pdf\">[s5]</a>.</li><li><strong>Peng Xiaodong</strong> (彭晓冬), CFO (财务总监) and officer in charge of accounting, whose term began 2025-08-27; he signed the 2025 annual report as the officer in charge of accounting <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-08/25/nw.D110000zgzqb_20260825_1-B139.htm\">[s11]</a>.</li><li><strong>Ji Xiaojian</strong> (季晓健), board secretary, in office since 2023-09-01 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</li><li><strong>Wen Guixiang</strong> (温桂香), director, elected at the 2025-06-10 extraordinary general meeting (term began 2025-06-11); <strong>Zheng Lin</strong> (郑琳) was elected supervisory board chairman in 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1224598131&announcementTime=2025-08-28&orgId=gssh0600686&plate=sse&stockCode=600686\">[s30]</a>.</li><li><strong>Huang Xunyou</strong> (黄循铀), director since 2025-09-26; he is also the legal representative of controlling shareholder Fujian Motor Industry Group and serves as a director of Fujian Benz Automotive Co., Ltd. <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>.</li><li><strong>Chen Wei</strong> (陈炜), director, who also serves as a director of Fujian Xinlongma Automobile Co., Ltd. and of South East (Fujian) Motor Industry Co., Ltd. <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>.</li><li><strong>Deputy general managers</strong>: Ma Xiang has been a deputy general manager since 2017-09-08, and the 11th board reappointed him on 2023-09-01 (the term start date in the annual-report executive table); Liu Zhijun and Peng Dongqing have a term start date of 2024-01-05; Liu Xiaoxia's term began on 2025-08-28 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</li><li><strong>Xie Siyu</strong> (谢思瑜, born 1965), former chairman, resigned on 2025-04-16 as chairman, director, chairman of the strategy committee and member of the audit committee due to job changes, and holds no other position in the company thereafter <a href=\"https://paper.cnstock.com/html/2025-04/16/content_2049589.htm\">[s27]</a>.</li></ul><h3>Ownership and governance</h3><p>Controlling shareholder Fujian Motor Industry Group Co., Ltd. held 231,227,846 shares (32.25%) at end-2025, and after buying 7,276,800 shares through centralised bidding between 2 June and 20 October 2026 its stake rose to 33.26% <a href=\"https://paper.cnstock.com/html/2026-10/21/content_2279476.htm\">[s6]</a>. The second-largest shareholder is Fujian Investment &amp; Development Group Co., Ltd. with 73,927,575 shares (10.31%) <a href=\"https://paper.cnstock.com/html/2026-10/21/content_2279476.htm\">[s6]</a>. Fujian Motor Industry Group is a wholly state-owned limited liability company (registered capital RMB 1,374.3 million, founded 29 November 1991) whose principal shareholder is the State-owned Assets Supervision and Administration Commission of the Fujian Provincial People's Government, which is the listed company's actual controller <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a><a href=\"https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF\">[s2]</a>.</p>",
+      "zh": "<h3>创始与沿革</h3><p>金龙并无通常意义上的单一创始人：其渊源是 1988 年成立的国有厦门金龙联合汽车工业有限公司，现代上市公司则成形于 1993 年上交所上市 <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</p><h3>核心管理层</h3><ul><li><strong>陈锋</strong>（1973 年 3 月生），董事长、法定代表人，2025-05-21 当选（任期自 2025-05-22 起）。现任福建省汽车工业集团有限公司党委副书记、董事、总法律顾问、首席合规官；曾任福建省投资开发集团有限责任公司办公室主任，福建省汽车工业集团有限公司党组成员、副总经理、总法律顾问、首席合规官，期间兼任东南（福建）汽车工业有限公司党委书记、董事长、福建省东南汽车贸易有限公司董事长等。2025 年未在上市公司领取薪酬 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-22/600686_20250522_38JP.pdf\">[s5]</a>。</li><li><strong>彭晓冬</strong>，财务总监、主管会计工作负责人，任期自 2025-08-27 起，2025 年年报以主管会计工作负责人身份签署 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-08/25/nw.D110000zgzqb_20260825_1-B139.htm\">[s11]</a>。</li><li><strong>季晓健</strong>，董事会秘书，2023-09-01 起任职 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</li><li><strong>温桂香</strong>，董事，2025-06-10 临时股东大会选举（任期自 2025-06-11 起）；<strong>郑琳</strong> 2025 年当选监事会主席 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1224598131&announcementTime=2025-08-28&orgId=gssh0600686&plate=sse&stockCode=600686\">[s30]</a>。</li><li><strong>黄循铀</strong>，2025-09-26 起任董事；同时为控股股东福汽集团的法定代表人，并兼任福建奔驰汽车有限公司董事 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。</li><li><strong>陈炜</strong>，董事，同时兼任福建新龙马汽车股份有限公司董事、东南（福建）汽车工业股份有限公司董事 <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。</li><li><strong>副总经理</strong>：马祥 2017-09-08 起任副总经理，2023-09-01 经第十一届董事会续聘（年报高管表任期起始日为 2023-09-01）；刘志军、彭东庆的任期起始日为 2024-01-05；刘晓霞自 2025-08-28 起任职<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</li><li><strong>谢思瑜</strong>（1965 年生），前任董事长，2025-04-16 因工作变动辞去公司董事长、董事、董事会战略委员会主任委员和董事会审计委员会委员职务，辞任后不在公司担任其他职务 <a href=\"https://paper.cnstock.com/html/2025-04/16/content_2049589.htm\">[s27]</a>。</li></ul><h3>股权与治理</h3><p>控股股东福建省汽车工业集团有限公司 2025 年末持股 231,227,846 股（32.25%），2026 年 6 月 2 日至 10 月 20 日通过集中竞价方式购入 7,276,800 股后，持股比例升至 33.26% <a href=\"https://paper.cnstock.com/html/2026-10/21/content_2279476.htm\">[s6]</a>。第二大股东福建省投资开发集团有限责任公司持股 73,927,575 股（10.31%）<a href=\"https://paper.cnstock.com/html/2026-10/21/content_2279476.htm\">[s6]</a>。福汽集团为国有独资有限责任公司（注册资本 137,430 万元，1991-11-29 成立），主要股东为福建省人民政府国有资产监督管理委员会，后者为上市公司的实际控制人 <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a><a href=\"https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF\">[s2]</a>。</p>"
+    },
+    "competition": {
+      "en": "<h3>Main competitors</h3><p>In China's bus market King Long competes mainly with Yutong Bus (the industry leader), Zhongtong Bus, Anhui Ankai and Beiqi Foton (AUV) <a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>. The phrase '一通三龙' refers to Yutong plus Suzhou King Long (Higer), Xiamen King Long and Xiamen Golden Dragon — the group's own three whole-vehicle plants — not Zhongtong, Ankai or Foton AUV <a href=\"https://auto.ifeng.com/roll/20110518/612274.shtml\">[s32]</a>. The company's own H1 2026 interim report states that its large and medium bus output and sales ranked second in the industry and its export sales ranked first <a href=\"https://static.weeklyonstock.com/26/0824/ABB2619071750514.html\">[s29]</a>. By growth, the group's three-year revenue CAGR of 10.4% ranked 7th among 12 commercial-vehicle companies that had disclosed 2025 data <a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf\">[s12]</a>.</p><h3>Strengths</h3><ul><li>Export scale: the group exported about 30,300 buses in 2025, keeping it among the industry leaders; in H1 2026 its three brands — King Long (8,075), Higer (5,110) and Golden Dragon (4,656) — ranked first, third and fourth respectively among China's exporters of buses of 3.5 metres and above, according to media statistics <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>.</li><li>Full line-up and brand matrix: products span 4.5m-18m, letting the group bid for transit, tourism and light-coach tenders simultaneously <a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>.</li><li>Profitability has improved: overall gross margin rose from 9.71% (2023) to 10.21% (2024) and 12.72% (2025), and weighted-average return on equity reached 13.91% in 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf\">[s12]</a>.</li></ul><h3>Weaknesses</h3><ul><li>Thin margins and reliance on non-recurring items: deducted (non-GAAP) net profit was negative in 2022-2024 (-RMB 596 million, -RMB 355 million and -RMB 158 million) and only turned positive (RMB 199 million) in 2025; non-recurring gains totalled about RMB 270 million in 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF\">[s2]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</li><li>Weak domestic business: 2025 domestic sales revenue fell 13.52% with a 6.42% gross margin, far below the 16.69% overseas margin <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</li><li>High leverage: the asset-liability ratio was about 84.81% at end-2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</li></ul><p>Our assessment: the disclosed figures show King Long's recent profit growth is concentrated in the overseas business — its higher margin (16.69% versus 6.42%) and faster growth offset the shrinking domestic market; but profitability remains weaker than Yutong's, and whether the improvement continues depends on export momentum and whether the 'three dragons integration' keeps lifting gross margin <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>.</p>",
+      "zh": "<h3>主要对手</h3><p>国内客车市场，金龙主要与行业龙头宇通客车、中通客车、安徽安凯、北汽福田（欧辉）等竞争 <a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。业内所称「一通三龙」指宇通，加上苏州金龙（海格）、厦门金龙（大金龙）和厦门金旅；三龙是金龙集团自己的三家整车厂，不是中通、安凯、欧辉 <a href=\"https://auto.ifeng.com/roll/20110518/612274.shtml\">[s32]</a>。公司 2026 年半年报自述，报告期内大中型客车产销量位居行业第二、出口销量行业第一 <a href=\"https://static.weeklyonstock.com/26/0824/ABB2619071750514.html\">[s29]</a>。就成长性而言，公司三年营业总收入复合增长率 10.4%，在商用车行业已披露 2025 年数据的 12 家公司中排名第 7 <a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf\">[s12]</a>。</p><h3>优势</h3><ul><li>出口规模：2025 年集团出口约 3.03 万辆、保持行业领先；2026 年上半年三大品牌金龙（8,075 辆）、海格（5,110 辆）、金旅（4,656 辆），据媒体统计，分列 3.5 米以上客车出口第一、第三、第四位 <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。</li><li>全谱系与多品牌矩阵：产品覆盖 4.5—18 米，可同时竞逐公交、旅游、轻客标单 <a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。</li><li>盈利能力改善：整体毛利率由 2023 年 9.71% 升至 2024 年 10.21%、2025 年 12.72%，2025 年加权平均净资产收益率达 13.91% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf\">[s12]</a>。</li></ul><h3>短板</h3><ul><li>利润率偏薄、依赖非经常性损益：2022—2024 年扣非净利润连续为负（-5.96 亿、-3.55 亿、-1.58 亿），2025 年才转正为 1.99 亿元；2025 年非经常性损益合计约 2.7 亿元 <a href=\"https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF\">[s2]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</li><li>国内业务偏弱：2025 年国内销售收入下降 13.52%，毛利率 6.42%，远低于海外 16.69% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</li><li>杠杆偏高：2025 年末资产负债率约 84.81% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</li></ul><p>我们的判断：披露数据显示，金龙近期的利润增长集中在海外业务——其更高毛利（16.69% 对 6.42%）与更快增速对冲了国内市场的萎缩；但盈利能力仍弱于宇通，能否延续改善取决于出口动能与「三龙整合」能否持续抬升毛利率 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets and plans</h3><p>In its 2025 annual report the company said the domestic large and medium bus market shrank in 2025, while the light-bus segment and exports grew; it described the overseas market as the core force driving industry growth, with Belt and Road countries and emerging markets increasing infrastructure spending and adopting electrification plans <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>. The company's stated strategy is to build 'four centres' (R&amp;D, procurement, sales, after-sales) to coordinate the three brands and keep their respective strengths ('three dragons dancing together'), and to continue the integration and internationalisation push <a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>. In a February 2026 interview, chairman Chen Feng said that over the next five years the group will focus on 'strong management and control, optimised systems, market expansion and greater efficiency', deepening technology in autonomous driving and green low-carbon areas, and consolidating its position as an export leader while deepening localised cooperation <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>. On technology the company says it will keep investing in smart driving, hydrogen storage and green transport <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a>.</p><h3>Our analysis</h3><p>Our assessment: export remains the most visible growth driver — H1 2026 overseas revenue rose 21.84% to RMB 7.336 billion, 66.18% of operating revenue — but this exposes the group to tariff, currency and geopolitical risks <a href=\"https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf\">[s34]</a>. The domestic bus business is structurally soft and partly policy-dependent; the group's domestic revenue fell 13.52% in 2025, and the September 2026 monthly figures (single-month sales -15.16%, large-bus cumulative sales -10.82%) suggest the domestic large-bus market remains under pressure <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876\">[s28]</a>. Whether profit growth continues depends on whether export volume and the overseas margin premium can keep outpacing the domestic decline, which is not assured <a href=\"https://www.stcn.com/article/detail/4109832.html\">[s13]</a>.</p>",
+      "zh": "<h3>公司目标与规划</h3><p>公司在 2025 年年报中称，2025 年国内大中型客车市场萎缩，轻型客车与出口则实现增长；公司把海外市场视为拉动行业增长的核心力量，「一带一路」沿线及新兴市场基础设施建设需求旺盛、多国出台电动化规划 <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。公司称将推进「建四大中心、促三龙共舞」战略，统筹研发、采购、销售、售后，保留三品牌各自优势，并继续推进整合与国际化 <a href=\"https://news.10jqka.com.cn/field/20260819/679067627.shtml\">[s16]</a>。在 2026 年 2 月的访谈中，董事长陈锋表示，未来 5 年集团将坚持「强管控、优体系、拓市场、增效能」方针，聚焦智能驾驶、绿色低碳深耕技术，以全球视野巩固出口龙头地位、深化本土化合作 <a href=\"https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html\">[s14]</a>。技术方面，公司表示将在智能驾驶、氢能储运、绿色交通等领域持续深耕 <a href=\"https://king-long.com.cn/col46/2325\">[s8]</a>。</p><h3>我们的分析</h3><p>我们的判断：出口仍是最可见的增长引擎——2026 年上半年境外收入 73.36 亿元（+21.84%），占营业总收入 66.18%——但这使公司更暴露于关税、汇率与地缘风险 <a href=\"https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf\">[s34]</a>。国内客车业务结构偏弱且部分依赖政策，2025 年国内收入下降 13.52%；2026 年 9 月单月销量 -15.16%、大型客车累计销量 -10.82%，显示国内大客市场仍承压 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876\">[s28]</a>。利润能否延续增长，取决于出口量与海外毛利溢价能否持续快于国内下滑，这一条件并非必然成立 <a href=\"https://www.stcn.com/article/detail/4109832.html\">[s13]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Operating risk:</strong> the domestic large and medium bus market is shrinking; the group's 2025 domestic sales revenue fell 13.52%, and September 2026 single-month sales fell 15.16% with cumulative large-bus sales down 10.82% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876\">[s28]</a>.</li><li><strong>Financial risk:</strong> the asset-liability ratio was about 84.81% at end-2025, and the group relies partly on non-recurring items (government subsidies, financial asset gains) to support profit; non-recurring gains totalled RMB 270 million in 2025 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>.</li><li><strong>Overseas risk:</strong> with overseas revenue at 66.18% of H1 2026 operating revenue, the group is highly exposed to tariffs, export-tax rebate changes, currency swings and geopolitical events <a href=\"https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf\">[s34]</a>.</li><li><strong>Policy risk:</strong> a significant part of domestic bus demand depends on the trade-in subsidy policy and new-energy purchase-tax policy; changes in these policies affect demand timing and volume <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>.</li><li><strong>Technology-route risk:</strong> the group runs pure-electric and hydrogen fuel-cell programmes in parallel — for example a 49-tonne hydrogen fuel-cell semi-truck — and new-energy buses are central to its export growth; a wrong bet on a technology route could hurt competitiveness <a href=\"https://king-long.com.cn/col46/2250\">[s24]</a>.</li></ul>",
+      "zh": "<ul><li><strong>经营风险：</strong>国内大中型客车市场萎缩，2025 年公司国内销售收入同比下降 13.52%；2026 年 9 月单月销量 -15.16%、大型客车累计销量 -10.82% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a><a href=\"https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876\">[s28]</a>。</li><li><strong>财务风险：</strong>2025 年末资产负债率约 84.81%，且利润部分依赖政府补助、金融资产收益等非经常性损益（2025 年非经常性损益合计约 2.7 亿元）<a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF\">[s1]</a>。</li><li><strong>海外风险：</strong>2026 年上半年境外收入占营业总收入 66.18%，公司高度暴露于关税、出口退税、汇率波动及地缘事件 <a href=\"https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf\">[s34]</a>。</li><li><strong>政策风险：</strong>国内客车需求相当部分依赖「以旧换新」补贴与新能源购置税政策，政策变化会影响需求释放时点与规模 <a href=\"https://paper.cnstock.com/html/2026-04/25/content_2206705.htm\">[s7]</a>。</li><li><strong>技术路线风险：</strong>公司并行推进纯电与氢燃料电池路线（例如 49 吨氢燃料电池半挂牵引车），新能源客车是其出口增长核心，技术路线押注失误会影响竞争力 <a href=\"https://king-long.com.cn/col46/2250\">[s24]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "金龙汽车 2025年年度报告 (King Long 2025 Annual Report)", "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225186471.PDF", "date": "2026-04-25", "tier": "A" },
+    { "id": "s2", "name": "金龙汽车 2024年年度报告 (King Long 2024 Annual Report)", "url": "https://static.cninfo.com.cn/finalpage/2025-04-26/1223327464.PDF", "date": "2025-04-26", "tier": "A" },
+    { "id": "s3", "name": "金龙汽车 2026年半年度报告摘要 (King Long 2026 Interim Report Summary)", "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499077.PDF", "date": "2026-08-25", "tier": "A" },
+    { "id": "s4", "name": "金龙汽车 2025年12月份产销数据快报 (上交所公告)", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-07/600686_20260107_2NP5.pdf", "date": "2026-01-07", "tier": "A" },
+    { "id": "s5", "name": "金龙汽车 关于选举公司董事长的公告 (上交所公告)", "url": "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-22/600686_20250522_38JP.pdf", "date": "2025-05-22", "tier": "A" },
+    { "id": "s6", "name": "金龙汽车 关于控股股东权益变动触及1%刻度及股份购入计划进展的提示性公告 (上海证券报)", "url": "https://paper.cnstock.com/html/2026-10/21/content_2279476.htm", "date": "2026-10-21", "tier": "A" },
+    { "id": "s7", "name": "金龙汽车 2025年年度报告摘要 (上海证券报)", "url": "https://paper.cnstock.com/html/2026-04/25/content_2206705.htm", "date": "2026-04-25", "tier": "A" },
+    { "id": "s8", "name": "金龙客车官网：承载七十载汽车工业荣光 书写中国自主客车驶向全球的强国答卷", "url": "https://king-long.com.cn/col46/2325", "date": "2026-08-06", "tier": "A" },
+    { "id": "s9", "name": "金龙客车官网：实力加冕 金龙客车以「中国智造」领航高质量发展", "url": "https://king-long.com.cn/col46/2247", "date": "2026-05-11", "tier": "A" },
+    { "id": "s10", "name": "厦门金龙汽车集团官网 (Xiamen King Long Motor Group website, accessed 2026-10-29)", "url": "https://www.xmklm.com.cn", "date": "2026-10-29", "tier": "A" },
+    { "id": "s11", "name": "金龙汽车 关于召开2026年半年度业绩说明会的公告 (中国证券报)", "url": "https://epaper.cs.com.cn/zgzqb/html/2026-08/25/nw.D110000zgzqb_20260825_1-B139.htm", "date": "2026-08-25", "tier": "A" },
+    { "id": "s12", "name": "中证网：金龙汽车2025年净利润同比增长196.90% 拟10派2元", "url": "https://newzzbcx.cs.com.cn/cxnews.html?name=new20260425091534dqvvdmyf", "date": "2026-04-25", "tier": "B" },
+    { "id": "s13", "name": "证券时报网：金龙汽车上半年净利润同比增长137.58% 拟10派0.15元", "url": "https://www.stcn.com/article/detail/4109832.html", "date": "2026-08-24", "tier": "B" },
+    { "id": "s14", "name": "福建日报：金龙出海 绿动世界", "url": "https://fjrb.fjdaily.com/pc/con/202602/15/content_514020.html", "date": "2026-02-15", "tier": "B" },
+    { "id": "s15", "name": "东南网：金龙汽车前8月客车销量31542辆 同比增长5.19%", "url": "https://xm.fjsen.com/2026-09/11/content_32250181.htm", "date": "2026-09-11", "tier": "B" },
+    { "id": "s16", "name": "同花顺财经：一个集团三个品牌 三条金龙一起把客车出口市场吃透了", "url": "https://news.10jqka.com.cn/field/20260819/679067627.shtml", "date": "2026-08-19", "tier": "B" },
+    { "id": "s17", "name": "厦门金龙汽车集团官网：福汽集团党委副书记陈锋赴权属企业开展安全生产督查", "url": "https://www.xmklm.com.cn/info/2081/51221.htm", "date": "2025-10-14", "tier": "A" },
+    { "id": "s18", "name": "央广网：金龙汽车集团与华为全面深化合作 携手共创智能路", "url": "https://xm.cnr.cn/hxcj/20241108/t20241108_526968499.shtml", "date": "2024-11-08", "tier": "B" },
+    { "id": "s19", "name": "中新网福建：厦企携手华为全面深化合作共创智能发展之路", "url": "https://www.fj.chinanews.com.cn/news/2024/2024-11-08/556672.html", "date": "2024-11-08", "tier": "B" },
+    { "id": "s20", "name": "海格客车官网：合作伙伴是斯堪尼亚 为啥这家客车新工厂这么牛", "url": "https://www.higer.com/hiyear2016/2798.html", "date": "2016-11-16", "tier": "A" },
+    { "id": "s21", "name": "海格客车官网：二十周年品牌奋斗史 (1998年成立、2003年注册海格商标)", "url": "https://higer.com/hganniversary.html", "date": "2018-12-31", "tier": "A" },
+    { "id": "s23", "name": "商用车新网：人事 金龙汽车最新公告 选举新董事长", "url": "https://www.cvnews.com.cn/dake/2025/05/22/details_2025052299225.html", "date": "2025-05-22", "tier": "B" },
+    { "id": "s24", "name": "金龙客车官网：行业首家！「金龙」商标荣获AAA知名商标品牌认证", "url": "https://king-long.com.cn/col46/2250", "date": "2026-05-11", "tier": "A" },
+    { "id": "s25", "name": "金龙汽车 关于金龙联合汽车工业(苏州)有限公司股权划转的公告 (上交所公告)", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-10-24/600686_20251024_KUN8.pdf", "date": "2025-10-24", "tier": "A" },
+    { "id": "s26", "name": "金龙汽车 关于受让厦门金龙旅行车有限公司40%股权完成工商变更登记的公告 (巨潮资讯)", "url": "https://static.cninfo.com.cn/finalpage/2025-02-11/1222503761.PDF", "date": "2025-02-11", "tier": "A" },
+    { "id": "s27", "name": "金龙汽车 关于董事长辞任的公告 (上海证券报)", "url": "https://paper.cnstock.com/html/2025-04/16/content_2049589.htm", "date": "2025-04-16", "tier": "A" },
+    { "id": "s28", "name": "金龙汽车 2026年9月份产销数据快报 (新华财经转载, 公告编号2026-038)", "url": "https://www.cnfin.com/announ/detail/index.html?dannoun=lcdetail&id=845139419876", "date": "2026-10-13", "tier": "B" },
+    { "id": "s29", "name": "证券市场周刊：金龙汽车2026年半年度净利润2.76亿元 同比增长137.58%", "url": "https://static.weeklyonstock.com/26/0824/ABB2619071750514.html", "date": "2026-08-24", "tier": "B" },
+    { "id": "s30", "name": "金龙汽车 2025年半年度报告 (巨潮资讯)", "url": "https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1224598131&announcementTime=2025-08-28&orgId=gssh0600686&plate=sse&stockCode=600686", "date": "2025-08-28", "tier": "A" },
+    { "id": "s31", "name": "新浪财经：金龙汽车2025年报解读 归母净利增196.90% 财务费用大降189.91%", "url": "https://finance.sina.com.cn/stock/aigc/stockfs/2026-04-25/doc-inhvrtiq7655405.shtml", "date": "2026-04-25", "tier": "B" },
+    { "id": "s32", "name": "中国汽车报（凤凰网转载）：客车行业强者恒强「一通三龙」地位稳固", "url": "https://auto.ifeng.com/roll/20110518/612274.shtml", "date": "2011-05-18", "tier": "B" },
+    { "id": "s33", "name": "同花顺 F10：金龙汽车（600686）资本运作（访问于 2026-10-29）", "url": "https://basic.10jqka.com.cn/600686/capital.html", "date": "2026-10-29", "tier": "B" },
+    { "id": "s34", "name": "金龙汽车 2026年半年度报告 (King Long 2026 Interim Report)", "url": "https://pdf.dfcfw.com/pdf/H2_AN202608241828371195_1.pdf", "date": "2026-08-24", "tier": "A" }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "linghui",
+  "name_en": "Linghui (BYD)",
+  "name_zh": "领汇（比亚迪）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand announced",
+      "label_zh": "品牌发布",
+      "value_en": "2026-02-02",
+      "value_zh": "2026-02-02",
+      "period": null,
+      "source_ids": ["s7", "s8", "s10", "s12", "s26"]
+    },
+    {
+      "label_en": "First MIIT filing",
+      "label_zh": "工信部首次申报",
+      "value_en": "2026-01-08 (catalog batch 403, four models filed under the new \"Linghui\" trademark)",
+      "value_zh": "2026-01-08（第 403 批公告，以「领汇牌」申报 e5、e7、e9、M9 四款车型）",
+      "period": null,
+      "source_ids": ["s7", "s9"]
+    },
+    {
+      "label_en": "Operating entity",
+      "label_zh": "运营主体",
+      "value_en": "BYD Auto Industry Co., Ltd. (96.79% held by BYD Company Limited and 3.21% by BYD (H.K.) Co., Limited)",
+      "value_zh": "比亚迪汽车工业有限公司（比亚迪股份有限公司持股 96.79%，BYD (H.K.) CO., LIMITED 持股 3.21%）",
+      "period": null,
+      "source_ids": ["s5", "s22"]
+    },
+    {
+      "label_en": "Operating entity established",
+      "label_zh": "运营主体成立时间",
+      "value_en": "2006-08-03",
+      "value_zh": "2006-08-03",
+      "period": null,
+      "source_ids": ["s5", "s22"]
+    },
+    {
+      "label_en": "Positioning",
+      "label_zh": "品牌定位",
+      "value_en": "B-end fleet operations (ride-hailing, taxi, official vehicles) plus C-end household use; positioning \"practitioner of ultra-value mobility\", vision \"redefining mobility through technological innovation\", principle \"technology without compromise, prices more affordable\"",
+      "value_zh": "B 端对公营运（网约车、出租、公务车）与 C 端个人家用双场景；定位「超价值出行践行者」、愿景「以技术创新重新定义出行」、主打「技术不妥协、价格更亲民」",
+      "period": null,
+      "source_ids": ["s26", "s3", "s10"]
+    },
+    {
+      "label_en": "Brand sequence",
+      "label_zh": "品牌序列",
+      "value_en": "BYD's fifth auto brand after the Dynasty/Ocean series, Denza, Fangchengbao and Yangwang (fourth independent sub-brand if the Dynasty/Ocean main marque is excluded)",
+      "value_zh": "比亚迪继王朝/海洋系列、腾势、方程豹、仰望之后的第五个汽车品牌（不计王朝/海洋主品牌则为第四个子品牌）",
+      "period": null,
+      "source_ids": ["s26", "s7"]
+    },
+    {
+      "label_en": "First strategic model",
+      "label_zh": "首款战略车型",
+      "value_en": "Linghui e7, launched 2026-04-15, RMB 95,800-115,800 (five trims); price-tracking sites later listed further trims up to RMB 145,800",
+      "value_zh": "领汇 e7，2026-04-15 上市，5 款配置 9.58 万-11.58 万元；截至研究截止日第三方报价网站另列更多配置，价格带上沿至 14.58 万元",
+      "period": null,
+      "source_ids": ["s2", "s3", "s11", "s32"]
+    },
+    {
+      "label_en": "Models on sale",
+      "label_zh": "在售车型",
+      "value_en": "e5, e7, e9, M9 (e3 filed but not yet launched)",
+      "value_zh": "e5、e7、e9、M9（另申报 e3，截至研究截止日未上市）",
+      "period": null,
+      "source_ids": ["s1", "s9", "s6"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市情况",
+      "value_en": "Not separately listed; part of BYD Company Limited (HKEX: 1211; SZSE: 002594)",
+      "value_zh": "未单独上市；隶属上市公司比亚迪（港交所 1211、深交所 002594）",
+      "period": null,
+      "source_ids": ["s5", "s9"]
+    },
+    {
+      "label_en": "Financials",
+      "label_zh": "财务数据",
+      "value_en": "Not separately disclosed at brand level",
+      "value_zh": "品牌层面未单独披露",
+      "period": null,
+      "source_ids": ["s5"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-05",
+      "event_en": "Within its fleet-business division, BYD launches the e-series e7 sedan from RMB 103,800; media later note that the Linghui e7 builds on the Sealion 06 EV platform.",
+      "event_zh": "比亚迪在对公事业部体系内以 10.38 万元起价推出 e 系列 e7 轿车；媒体此后报道领汇 e7 基于海狮 06 EV 平台打造。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-01-08",
+      "event_en": "MIIT catalog batch 403 lists BYD products under the new \"Linghui\" trademark: the e5, e7 and e9 pure-electric sedans and the M9 plug-in hybrid MPV, all based on existing BYD models.",
+      "event_zh": "工信部第 403 批公告公示比亚迪新增「领汇牌」商标，申报 e5、e7、e9（纯电轿车）与 M9（插混 MPV）四款车型，均基于比亚迪现有车型改款。",
+      "source_ids": ["s7", "s9"]
+    },
+    {
+      "date": "2026-02-02",
+      "event_en": "BYD officially announces Linghui, positioned as the \"practitioner of ultra-value mobility\" for B-end fleet and corporate clients with an independent sales and service channel.",
+      "event_zh": "比亚迪正式官宣领汇品牌，定位「超价值出行践行者」，面向 B 端对公客户，拥有独立销售与售后渠道。",
+      "source_ids": ["s7", "s8", "s10", "s12", "s26"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "The Linghui e5 compact sedan goes on sale without a dedicated launch event; third-party price-tracking sites list three 530 km trims at RMB 95,800-129,800, and it was not part of the official \"strategic model\" launch cadence.",
+      "event_zh": "领汇 e5 紧凑型轿车未单独举办上市发布即开售；第三方报价网站列 530 km 三款配置、9.58 万-12.98 万元，未列入官方「战略车型」发布节奏。",
+      "source_ids": ["s9", "s24", "s31"]
+    },
+    {
+      "date": "2026-04-15",
+      "event_en": "Linghui e7 officially launches at RMB 95,800-115,800 across five trims; the brand calls it its first \"large-space flash-charging mid-size pure-electric sedan\".",
+      "event_zh": "领汇 e7 正式上市，5 款配置、官方指导价 9.58 万-11.58 万元；官方称其为品牌「首款」大空间闪充中级纯电轿车。",
+      "source_ids": ["s2", "s3", "s11"]
+    },
+    {
+      "date": "2026-05-08",
+      "event_en": "Linghui signs a partnership with Chongqing mobility operator Chesheng Huidi and holds a first concentrated delivery ceremony in Chongqing.",
+      "event_zh": "领汇与重庆出行服务商车胜惠迪签约，并在重庆举行首批集中交付仪式。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2026-05-09",
+      "event_en": "Linghui e9, a C-class sedan based on the Han, launches at RMB 150,800-169,800 across three trims, marketed as the brand's second strategic model.",
+      "event_zh": "领汇 e9（基于汉平台的 C 级轿车）上市，3 款配置、官方指导价 15.08 万-16.98 万元，官方称其为第二款战略车型。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2026-05-09",
+      "event_en": "MIIT catalog batch 406 (formally published 2026-05-09) includes the Linghui e3; media describe it as a lower-cost pure-electric sedan for ride-hailing and driving-school use.",
+      "event_zh": "工信部第 406 批《道路机动车辆生产企业及产品公告》（2026-05-09 正式发布）包含领汇 e3 申报；媒体称其为面向网约车与教练车场景的低成本纯电轿车。",
+      "source_ids": ["s6", "s25"]
+    },
+    {
+      "date": "2026-06-27",
+      "event_en": "Linghui holds a concentrated delivery of the e7 to Beijing users; BYD fleet-business division assistant general manager Huang Yongming speaks on behalf of the brand.",
+      "event_zh": "领汇在北京为用户集中交付 e7；比亚迪对公事业部总经理助理黄永明代表品牌发言。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2026-06-29",
+      "event_en": "Linghui M9, a mid-to-large plug-in hybrid MPV based on the Xia, launches in two trims at RMB 188,800 and RMB 199,800.",
+      "event_zh": "领汇 M9（基于夏平台的中大型插混 MPV）上市，首批两款车型 18.88 万元、19.98 万元。",
+      "source_ids": ["s4", "s17", "s15"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Linghui e5",
+      "name_zh": "领汇 e5",
+      "role_en": "Compact pure-electric sedan based on the Qin Plus EV, for ride-hailing/taxi and household use.",
+      "role_zh": "基于秦 PLUS EV 改款的紧凑型纯电轿车，面向网约车/出租与家用。",
+      "price_band": "No official price announcement found; third-party price-tracking site Yiche lists three 530 km trims at RMB 95,800-129,800 (clue only)",
+      "founded": 2026,
+      "owner_note_en": "Dimensions 4805/1837/1530 mm and wheelbase 2718 mm with a 100 kW front motor, based on the Qin Plus EV. Third-party sites list a 57.6 kWh lithium-iron-phosphate (FinDreams) battery with 530 km CLTC range and about 30 minutes for a 30%-80% fast charge; media report it uses the first-generation Blade Battery without flash charging. A 450 km variant (about 48 kWh) was later reported via self-media energy-consumption filings; no official launch announcement was found.",
+      "owner_note_zh": "长宽高 4805×1837×1530 mm、轴距 2718 mm，搭载 100 kW 前置电机，基于秦 PLUS EV 改款。第三方报价网站列 57.6 kWh 磷酸铁锂（弗迪）电池、CLTC 530 km 续航、30%-80% 快充约 30 分钟；媒体称其搭载第一代刀片电池、未搭载闪充。据自媒体，后续另有约 48 kWh 的 450 km 版申报（能耗备案），截至研究截止日未见官方上市公告。",
+      "status": "active",
+      "source_ids": ["s9", "s24", "s31"]
+    },
+    {
+      "name_en": "Linghui e7",
+      "name_zh": "领汇 e7",
+      "role_en": "Mid-size pure-electric sedan, the brand's first officially launched strategic model, for both fleet operations and family use.",
+      "role_zh": "中级纯电轿车，品牌官方称的「首款」战略车型，兼顾营运与家用双场景。",
+      "price_band": "RMB 95,800-115,800 at launch (five trims, 2026-04-15); third-party price-tracking sites later listed further fleet trims up to RMB 145,800 (clue only)",
+      "founded": 2026,
+      "owner_note_en": "Dimensions 4780/1900 mm with wheelbase 2820 mm; the filing listed 1515 mm height while launch materials list 1530 mm. Media differ on the donor platform (CnEVPost says Sealion 06 EV, the National Business Daily and Hainan Daily say Sealion 07 EV). First Linghui model with the second-generation Blade Battery and flash charging (10%-70% in about 5 minutes, 10%-97% in about 9 minutes), with 100 kW and 130 kW motor options. Built to a 6-year/600,000 km operational durability standard, having passed 9,600 laps of rough-road testing.",
+      "owner_note_zh": "长宽 4780×1900 mm、轴距 2820 mm，申报稿车高 1515 mm、上市稿记 1530 mm；媒体对原型平台说法不一（CnEVPost 记为海狮 06 EV，每日经济新闻、南海网记为海狮 07 EV）。品牌首款搭载第二代刀片电池与闪充的车型（10%-70% 约 5 分钟、10%-97% 约 9 分钟），提供 100 kW、130 kW 两种电机。按 6 年/60 万公里营运级耐久标准打造，历经 9600 圈强化坏路测试。",
+      "status": "active",
+      "source_ids": ["s2", "s3", "s11", "s19", "s31", "s21"]
+    },
+    {
+      "name_en": "Linghui e9",
+      "name_zh": "领汇 e9",
+      "role_en": "C-class pure-electric sedan based on the Han, positioned as a flash-charging business sedan for family, premium ride-hailing, official and corporate use.",
+      "role_zh": "基于汉平台的 C 级纯电轿车，定位闪充商务轿车，面向家庭、高端网约、公务与商务接待。",
+      "price_band": "RMB 150,800-169,800 (three trims: 535 Luxury, 605 Flash-Charging Luxury, 605 Flash-Charging Flagship; launched 2026-05-09)",
+      "founded": 2026,
+      "owner_note_en": "Dimensions 4995/1940/1495 mm, wheelbase 2920 mm, with 135 kW or 150 kW motors and up to 605 km range. Official materials highlight flash charging, the second-generation Blade Battery and God's Eye driving assist (26 sensors, highway NOA). Launch benefits include a 6-year/600,000 km operational three-electric warranty.",
+      "owner_note_zh": "长宽高 4995×1940×1495 mm，轴距 2920 mm，提供 135 kW、150 kW 两种电机，续航最高 605 km。官方宣传搭载闪充、第二代刀片电池与天神之眼辅助驾驶（26 个传感器、高速 NOA）。上市权益含营运车三电 6 年或 60 万公里质保。",
+      "status": "active",
+      "source_ids": ["s1", "s9"]
+    },
+    {
+      "name_en": "Linghui M9",
+      "name_zh": "领汇 M9",
+      "role_en": "Mid-to-large plug-in hybrid MPV based on the Xia, for business reception, team travel and multi-child family use.",
+      "role_zh": "基于夏平台的中大型插混 MPV，面向商务接待、团队出行与多人口家庭。",
+      "price_band": "RMB 188,800 (1105 Luxury) and RMB 199,800 (1105 Prestige), launched 2026-06-29",
+      "founded": 2026,
+      "owner_note_en": "Dimensions 5200/1970/1805 mm, wheelbase 3045 mm, 2+2+3 seven-seat layout. Fifth-generation DM plug-in hybrid with a 1.5T engine, NEDC fuel consumption of 4.95 L/100 km, 145 km CLTC electric range and 1,105 km combined range; DiLink 100 cockpit and 470-2036 L luggage capacity. Seven airbags are standard (front, front-side, far-side and curtain); the 1105 Prestige trim adds two second-row side airbags. Launch benefits include a 6-year/600,000 km operational three-electric warranty.",
+      "owner_note_zh": "长宽高 5200×1970×1805 mm，轴距 3045 mm，2+2+3 七座布局。搭载第五代 DM 插混系统（1.5T 发动机），NEDC 亏电油耗 4.95 L/100km，CLTC 纯电续航 145 km，满油满电综合续航 1105 km；配 DiLink 100 座舱、行李厢 470-2036 L。全系标配 7 安全气囊（主副驾正面、前排侧、前排远端与双侧气帘），1105 尊贵版再加 2 个中排侧气囊。上市权益含营运三电 6 年或 60 万公里质保。",
+      "status": "active",
+      "source_ids": ["s4", "s17", "s15"]
+    },
+    {
+      "name_en": "Linghui e3",
+      "name_zh": "领汇 e3",
+      "role_en": "Pure-electric compact sedan filed for ride-hailing and driving-school (coach) use; launch status not confirmed as of the research date.",
+      "role_zh": "面向网约车与教练车场景的纯电紧凑型轿车；截至研究截止日上市状态未确认。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "Filed in MIIT catalog batch 406 (formally published 2026-05-09). Media citing the filing report a single motor and a lithium-iron-phosphate battery (capacity not announced); a 70 kW peak power and dimensions of about 4450/1760/1520 mm with a 2610 mm wheelbase appear only in self-media sources and are not confirmed by an A-tier source. No official launch announcement was found as of 2026-10-29.",
+      "owner_note_zh": "于工信部第 406 批《道路机动车辆生产企业及产品公告》（2026-05-09 正式发布）申报。媒体据申报信息称其为单电机纯电轿车、磷酸铁锂电池（容量未公布）；70 kW 峰值功率与约 4450×1760×1520 mm、轴距 2610 mm 等参数仅见汽车之家车家号等 C 级来源，未经 A 级来源确认。截至 2026-10-29 未见官方上市公告。",
+      "status": "announced",
+      "source_ids": ["s6", "s25"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not separately disclosed (brand level)",
+    "rows": [],
+    "note_en": "Linghui is a brand of BYD and does not disclose financials separately, so this table is empty. In the reports of its parent, BYD Company Limited (HKEX: 1211; SZSE: 002594), net profit is presented as \"profit attributable to owners of the parent\" (not \"attributable to ordinary shareholders\"), under PRC GAAP with additional IFRS disclosures, in CNY. See BYD's annual report (FY2025) and interim report (H1 2026) for revenue, gross margin, net profit attributable to owners of the parent and R&D spending.",
+    "note_zh": "领汇为比亚迪旗下独立品牌，未单独披露财务数据，故本表为空。其母公司比亚迪股份有限公司（港交所 1211、深交所 002594）按中国企业会计准则编制财报，并按国际财务报告准则补充披露，币种为人民币。净利润口径为「归属于母公司股东的净利润」（即归母净利润，非「归属于普通股股东」）。营收、毛利率、归母净利润、研发投入等指标见比亚迪 2025 年年度报告及 2026 年半年度报告（巨潮资讯）。"
+  },
+  "sections": {
+    "overview": {
+      "zh": "<p>领汇（Linghui）是比亚迪股份有限公司于 2026 年 2 月 2 日正式发布的独立汽车品牌，面向 B 端对公营运（网约车、出租车、公务车）与 C 端个人家用双场景，品牌定位「超价值出行践行者」、愿景「以技术创新重新定义出行」、主打「技术不妥协、价格更亲民」<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a><a href=\"https://news.qq.com/rain/a/20260203A05RD300\">[s8]</a>。领汇是比亚迪继王朝/海洋系列、腾势、方程豹、仰望之后的第五个汽车品牌（不计王朝/海洋主品牌则为第四个子品牌），由比亚迪汽车工业有限公司运营，拥有独立的销售与售后渠道<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a><a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>。设立背景是比亚迪主品牌车型因性价比高被大量用作网约车、形成「工具车」印象，将对公业务换标独立可让王朝网、海洋网专注个人家用与高端化，同时以专业车型服务营运市场<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>。领汇落地节奏较快：品牌官宣后，4 月上市 e7、5 月上市 e9、6 月上市 M9，并先后在重庆、北京开展集中交付<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a><a href=\"https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html\">[s14]</a><a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>。截至 2026-10-29，领汇已上市 e5、e7、e9、M9 四款车型并申报 e3；作为品牌，其财务数据未单独披露，相关指标并入母公司比亚迪（港交所 1211、深交所 002594）<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a>。</p>",
+      "en": "<p>Linghui (领汇) is an independent automotive brand formally unveiled by BYD Company Limited on 2 February 2026, targeting both B-end fleet operations (ride-hailing, taxi, official vehicles) and C-end household use, with the positioning \"practitioner of ultra-value mobility\", the vision \"redefining mobility through technological innovation\" and the principle \"technology without compromise, prices more affordable\"<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a><a href=\"https://news.qq.com/rain/a/20260203A05RD300\">[s8]</a>. It is BYD's fifth auto brand after the Dynasty/Ocean series, Denza, Fangchengbao and Yangwang (fourth independent sub-brand if the Dynasty/Ocean main marque is excluded), operated by BYD Auto Industry Co., Ltd. with an independent sales and service channel<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a><a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>. The brand was created because BYD's mainstream models are so widely used as ride-hailing cars that they acquired a \"workhorse\" image; spinning off the fleet business into a rebadged, independently channelled brand lets Dynasty and Ocean focus on private buyers and premiumisation while serving commercial operators with purpose-built vehicles<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>. The roll-out has been fast: after the unveiling, the e7 launched in April, the e9 in May and the M9 in June, followed by concentrated deliveries in Chongqing and Beijing<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a><a href=\"https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html\">[s14]</a><a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>. As of 2026-10-29 Linghui has launched four models (e5, e7, e9, M9) and filed a fifth (e3); as a brand it does not disclose financials separately, which are consolidated into parent BYD (HKEX: 1211; SZSE: 002594)<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a>.</p>"
+    },
+    "current": {
+      "zh": "<h3>品牌定位与设立背景</h3><p>领汇的设立目的是把比亚迪的对公（B 端）业务与面向个人的王朝网、海洋网业务区隔开。比亚迪主品牌车型因性价比高被大量用作网约车，带来「工具车」的品牌印象；领汇承接政府公务、出租、网约等批量采购，让主品牌专注个人家用与高端化<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://news.qq.com/rain/a/20260203A05RD300\">[s8]</a>。据接近比亚迪的知情人士，领汇整合了比亚迪原对公事业部的 e 系列新能源车型，并拥有独立的渠道体系<a href=\"https://m.cqn.com.cn/auto/content/2026-02/03/content_9142695.htm\">[s23]</a><a href=\"https://www.hinews.cn/page?n=2797063&m=1&s=1044\">[s31]</a>。官方称领汇瞄准新能源市场分化留下的空白，主打「营运级耐久」与「家用级舒适」兼顾的产品<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>。从品牌架构看，比亚迪主品牌（王朝网、海洋网）面向主流大众市场，腾势定位高端、方程豹定位专业个性化、仰望定位百万级豪华，领汇补上出行/营运市场一环<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>。官方称其业务范围重点覆盖出租车、网约车、租赁公司、公务用车等对公营运市场，与主品牌面向个人消费的市场形成区隔<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a>。</p><h3>品牌溯源与运营主体</h3><p>「领汇牌」商标与全新标识于 2026 年 1 月经工信部第 403 批产品公告首次亮相，品牌于 2 月 2 日由比亚迪正式官宣<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>。领汇整合了比亚迪原对公事业部的 e 系列车型——该事业部此前已推出 e7、e5 等对公车型，领汇首批车型在此基础上改款而来<a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a><a href=\"https://m.cqn.com.cn/auto/content/2026-02/03/content_9142695.htm\">[s23]</a>。首批四款车型涵盖纯电与插混两种动力：e5、e7、e9 为纯电轿车，M9 为唯一的插电式混合动力 MPV<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>。品牌运营主体比亚迪汽车工业有限公司成立于 2006-08-03，注册资本 375,765.452367 万美元，由比亚迪股份有限公司持股 96.79%、BYD (H.K.) CO., LIMITED 持股 3.21%<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a><a href=\"https://finance.sina.cn/2022-03-31/detail-imcwipii1568654.d.html\">[s22]</a>。</p><h3>车型谱系与价格</h3><p>首批四款车型均基于比亚迪王朝网/海洋网成熟车型改款而来，以复用模具与产线、控制成本：e5 对应秦 PLUS EV、e7 对应海洋网海狮纯电平台、e9 对应汉、M9 对应夏<a href=\"https://www.hinews.cn/page?n=2797063&m=1&s=1044\">[s31]</a><a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>。价格上，e7 于 2026-04-15 上市，5 款配置 9.58 万-11.58 万元（中国内地市场、正式指导价、含动力电池）<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a><a href=\"https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/\">[s11]</a>；截至研究截止日，第三方报价网站另列多款「出行版」配置，价格带上沿至 14.58 万元（550 闪充高能出行版），新增配置未见官方上市稿<a href=\"https://car.m.yiche.com/linghuie7/m188500/peizhi/?from=ybm\">[s32]</a>。e7 配置分为家用版与面向网约车的「出行版」两类，据第三方报价网站提供 450 km、520 km、550 km（闪充）三种续航，同续航的出行版指导价普遍高于家用版（仅作线索）<a href=\"https://car.m.yiche.com/linghuie7/m188500/peizhi/?from=ybm\">[s32]</a>。e9 于 2026-05-09 上市，3 款配置 15.08 万-16.98 万元<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>；M9 于 2026-06-29 上市，首批两款 18.88 万、19.98 万元<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a>。按价格与场景，四款车型形成梯度：e5 主打入门级营运（出租、网约），e7 主打中级闪充（专车与家用），e9 主打 C 级商务接待与公务，M9 主打商务 MPV 接待<a href=\"https://www.hinews.cn/page?n=2797063&m=1&s=1044\">[s31]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>。e5 未单独举办上市发布，第三方报价网站列 530 km 三款配置 9.58 万-12.98 万元（仅作线索）<a href=\"https://car.m.yiche.com/linghuie5/\">[s24]</a>。</p><h3>核心技术与补能</h3><p>领汇共享比亚迪三电技术。官方称未来车型将整合「天神之眼」辅助驾驶、云辇智能车身控制、e 平台 3.0 与第五代 DM 技术<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a>。e7、e9 搭载第二代刀片电池与闪充技术（10%-70% 约 5 分钟、10%-97% 约 9 分钟）<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>；M9 采用第五代 DM 插混系统<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a>。第二代刀片电池与闪充技术由比亚迪于 2026 年 3 月发布，官方称可在零下 30℃ 环境下充电、仅比常温多约 3 分钟<a href=\"https://www.bydglobal.com/cn/news/2026-04-22/1617162793219\">[s30]</a>。补能上，比亚迪 2026 年 3 月发布「闪充中国」战略，计划年底在全国建设 20000 座闪充站<a href=\"https://www.bydglobal.com/cn/news/2026-04-22/1617162793219\">[s30]</a>；据公司披露，截至 2026 年 8 月已建成 10000 座、覆盖 332 座城市，并计划一年内在海外部署 6000 座<a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s28]</a>。</p><h3>渠道、质保与运营</h3><p>领汇以独立的对公销售与售后体系区别于王朝网 4S 店，并针对营运车辆推出更长周期、覆盖核心部件的专属质保：e9、M9 上市权益含营运三电 6 年或 60 万公里质保<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a><a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>。2026-05-08，领汇与重庆出行服务商车胜惠迪签约并举行首批集中交付，叠加比亚迪全国售后网络以降低司机维修成本与停运损失<a href=\"https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html\">[s14]</a>。2026-06-27，领汇在北京为用户集中交付 e7<a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>。针对营运场景，大河财立方报道领汇 M9 保留了大量实体按键与耐磨内饰，以适配高频次、长周期的营运环境<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>。</p><h3>销量与市场表现</h3><p>比亚迪未在月度产销快报中单列领汇销量。以零售上险口径看，据盖世汽车数据，领汇 e9 自 2026 年 2 月上市以来至 2026 年 9 月累计上险 1,526 辆<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>。作为参照，母公司比亚迪 2025 年新能源汽车累计销量 460.24 万辆（同比增长 7.73%），其中纯电动乘用车 225.67 万辆（同比增长 27.86%）、插电式混合动力乘用车 228.87 万辆（同比下降 7.91%），乘用车及皮卡海外累计销售 104.96 万辆（同比增长 145%），出海足迹覆盖全球 119 个国家和地区<a href=\"https://www.bydglobal.com/cn/news/2026-03-13/1617162764900\">[s27]</a><a href=\"https://www.cnr.cn/2013qcpd/yc/20260104/t20260104_527482372.shtml\">[s29]</a>；2025 年全年研发投入 634 亿元，累计研发投入突破 2400 亿元<a href=\"https://www.bydglobal.com/cn/news/2026-04-22/1617162793219\">[s30]</a>。2026 年上半年，比亚迪营业收入约 3448 亿元（同比下降 7.13%）、归母净利润约 123 亿元、研发投入约 289 亿元、海外销量 79 万辆（同比增长 68%）、海外营收约 1813 亿元（占总营收 52.57%）；方程豹、腾势、仰望三大高端品牌合计销量 22.8 万辆、同比增长 61%，占总销量比重升至 12.6%<a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s28]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a>。领汇即诞生于这一集团多品牌布局之下。</p>",
+      "en": "<h3>Positioning and background</h3><p>Linghui was created to separate BYD's fleet (B-end) business from its consumer-facing Dynasty and Ocean lineups. Because BYD's mainstream models are widely used as ride-hailing cars, the main marque carries a \"workhorse\" image, and Linghui absorbs corporate and government fleet procurement so the main brand can focus on private buyers and premiumisation<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://news.qq.com/rain/a/20260203A05RD300\">[s8]</a>. People close to BYD said Linghui consolidates the e-series models of BYD's former fleet-business division and runs an independent channel<a href=\"https://m.cqn.com.cn/auto/content/2026-02/03/content_9142695.htm\">[s23]</a><a href=\"https://www.hinews.cn/page?n=2797063&m=1&s=1044\">[s31]</a>. BYD says Linghui targets a gap left by a polarising NEV market, combining \"operational-grade durability\" with \"household-grade comfort\"<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>. In BYD's brand architecture the main marque (Dynasty and Ocean) serves the mass market, Denza is premium, Fangchengbao is specialist-personalisation, Yangwang is million-yuan luxury, and Linghui adds the mobility/fleet segment<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>. BYD said Linghui's business focuses on taxis, ride-hailing, leasing companies and official vehicles, clearly separated from the main marque's consumer market<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a>.</p><h3>Origin and operating entity</h3><p>The \"Linghui\" trademark first appeared in the MIIT batch 403 catalog in January 2026, and BYD formally unveiled the brand on 2 February 2026<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>. Linghui consolidates the e-series models of BYD's former fleet-business division, which had already launched the e7 and e5; the first Linghui models were adapted from these cars<a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a><a href=\"https://m.cqn.com.cn/auto/content/2026-02/03/content_9142695.htm\">[s23]</a>. The first four models span pure-electric and plug-in hybrid power: the e5, e7 and e9 are pure-electric sedans and the M9 is the only plug-in hybrid MPV<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a><a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>. The operating entity, BYD Auto Industry Co., Ltd., was established on 2006-08-03 with registered capital of USD 375,765.452367, held 96.79% by BYD Company Limited and 3.21% by BYD (H.K.) Co., Limited<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a><a href=\"https://finance.sina.cn/2022-03-31/detail-imcwipii1568654.d.html\">[s22]</a>.</p><h3>Model lineup and pricing</h3><p>The first four models are adapted from BYD's mature Dynasty/Ocean models to reuse tooling and production lines: the e5 corresponds to the Qin Plus EV, the e7 to the Ocean-network Sealion platform, the e9 to the Han and the M9 to the Xia<a href=\"https://www.hinews.cn/page?n=2797063&m=1&s=1044\">[s31]</a><a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>. On pricing, the e7 launched on 2026-04-15 in five trims at RMB 95,800-115,800 (China market, official guidance price, including the battery)<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a><a href=\"https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/\">[s11]</a>; by the research date third-party price-tracking sites listed further fleet trims extending the band to RMB 145,800 (550 flash-charging fleet trim), without a new official launch release<a href=\"https://car.m.yiche.com/linghuie7/m188500/peizhi/?from=ybm\">[s32]</a>. The e7's trims split into household versions and ride-hailing \"fleet\" versions, offering 450 km, 520 km and 550 km (flash-charging) ranges on third-party price-tracking sites, with fleet versions generally priced above household versions of the same range (clue only)<a href=\"https://car.m.yiche.com/linghuie7/m188500/peizhi/?from=ybm\">[s32]</a>. The e9 launched on 2026-05-09 in three trims at RMB 150,800-169,800<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>, and the M9 on 2026-06-29 in two trims at RMB 188,800 and RMB 199,800<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a>. By price and use case the four models form a ladder: the e5 targets entry fleet use (taxis and ride-hailing), the e7 mid-size flash charging (premium ride-hailing and family), the e9 C-class business and official use, and the M9 business-MPV reception<a href=\"https://www.hinews.cn/page?n=2797063&m=1&s=1044\">[s31]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>. The e5 went on sale without a dedicated launch event; third-party price-tracking sites list three 530 km trims at RMB 95,800-129,800 (clue only)<a href=\"https://car.m.yiche.com/linghuie5/\">[s24]</a>.</p><h3>Technology and charging</h3><p>Linghui shares BYD's electric-drive technology. The company said future models will integrate the God's Eye driving-assist system, DiSus intelligent body control, e-Platform 3.0 and fifth-generation DM<a href=\"https://www.cnfin.com/kx/detail/20260202/4374998_1.html\">[s26]</a>. The e7 and e9 carry the second-generation Blade Battery and flash charging (10%-70% in about 5 minutes, 10%-97% in about 9 minutes)<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>, and the M9 uses the fifth-generation DM hybrid system<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a>. BYD unveiled the second-generation Blade Battery and flash charging in March 2026, saying the battery can charge at minus 30 degrees Celsius with only about three extra minutes<a href=\"https://www.bydglobal.com/cn/news/2026-04-22/1617162793219\">[s30]</a>. On charging, BYD announced its \"Flash Charging China\" strategy in March 2026, planning 20,000 stations nationwide by year-end<a href=\"https://www.bydglobal.com/cn/news/2026-04-22/1617162793219\">[s30]</a>; the company said 10,000 stations covering 332 cities had been built by August 2026, with plans for a further 6,000 overseas within a year<a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s28]</a>.</p><h3>Channels, warranty and operations</h3><p>Linghui runs an independent fleet sales and service network distinct from Dynasty-network 4S stores, with longer, core-component warranties for operating vehicles: launch benefits on the e9 and M9 include a 6-year/600,000 km operational three-electric warranty<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a><a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>. On 2026-05-08 Linghui signed with Chongqing mobility operator Chesheng Huidi and held a first concentrated delivery, adding BYD's nationwide after-sales network to lower driver repair costs and downtime<a href=\"https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html\">[s14]</a>. On 2026-06-27 Linghui delivered the e7 to Beijing users<a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>. For operating scenarios, Dahecube reported that the Linghui M9 keeps many physical buttons and wear-resistant interior materials to suit high-frequency, long-cycle commercial use<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>.</p><h3>Sales and market performance</h3><p>BYD does not break out Linghui in its monthly production and sales bulletins. On retail insurance registrations, Gasgoo data show the Linghui e9 accumulated 1,526 units from February to September 2026<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>. For context, parent BYD sold 4.6024 million NEVs in 2025 (up 7.73% year on year), comprising 2.2567 million battery-electric passenger vehicles (up 27.86%) and 2.2887 million plug-in hybrid passenger vehicles (down 7.91%), with 1.0496 million passenger vehicles and pickups sold overseas (up 145%) across 119 countries and regions<a href=\"https://www.bydglobal.com/cn/news/2026-03-13/1617162764900\">[s27]</a><a href=\"https://www.cnr.cn/2013qcpd/yc/20260104/t20260104_527482372.shtml\">[s29]</a>; full-year 2025 R&D spending was RMB 63.4 billion, lifting cumulative R&D investment past RMB 240 billion<a href=\"https://www.bydglobal.com/cn/news/2026-04-22/1617162793219\">[s30]</a>. In H1 2026 BYD reported revenue of about RMB 344.8 billion (down 7.13% year on year), net profit attributable to owners of the parent of about RMB 12.3 billion, R&D spending of about RMB 28.9 billion, overseas sales of 790,000 units (up 68%) and overseas revenue of about RMB 181.3 billion (52.57% of total revenue); its three premium brands Fangchengbao, Denza and Yangwang sold 228,000 units combined (up 61%), reaching 12.6% of total sales<a href=\"https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html\">[s28]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a>. Linghui was born within this multi-brand structure.</p>"
+    },
+    "leadership": {
+      "zh": "<p>领汇未单独设立上市公司治理架构，品牌运营主体为比亚迪汽车工业有限公司；据媒体报道，该公司官网与官方微博的认证主体均为比亚迪汽车工业有限公司<a href=\"https://news.qq.com/rain/a/20260203A05RD300\">[s8]</a>。比亚迪 2026 年半年度报告显示，比亚迪汽车工业有限公司成立于 2006-08-03，注册资本 375,765.452367 万美元，由比亚迪股份有限公司持股 96.79%、BYD (H.K.) CO., LIMITED 持股 3.21%<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a><a href=\"https://finance.sina.cn/2022-03-31/detail-imcwipii1568654.d.html\">[s22]</a>。截至 2026-10-29，比亚迪未公布「领汇品牌总经理」一职；公开露面的最高职务者为比亚迪对公事业部总经理助理黄永明，他在 2026-06-27 北京交付仪式上代表品牌发言，其上任时间未披露<a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>。领汇品牌源自比亚迪内部的对公事业部，由该事业部体系运营<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>。领汇未单独设立法人主体，其车型以「领汇牌」通过工信部产品公告由比亚迪汽车工业有限公司申报<a href=\"https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20264/f66eea329f224580a312ab5b26b09f75.doc\">[s6]</a>；品牌层面的组织架构与高管任命，截至研究截止日未在公开渠道完整披露。母公司比亚迪股份有限公司为港交所（1211）与深交所（002594）上市公司，其董事会与股权治理信息见比亚迪深度研究<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a>。比亚迪原对公 e 系列此前已有车型——比亚迪曾于 2025 年 5 月以 10.38 万元起价推出 e 系列 e7 轿车<a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>。品牌发布当日，领汇汽车在官方微博发布「你好，领汇」等内容，比亚迪官方称「欢迎领汇」<a href=\"https://carnewschina.com/2026/02/02/byd-ride-hailing-brand-linghui-officially-revealed-in-china/\">[s12]</a>。</p>",
+      "en": "<p>Linghui has no separate listed-company governance structure; its operating entity is BYD Auto Industry Co., Ltd., which media report is the certified owner of the brand's official website and Weibo account<a href=\"https://news.qq.com/rain/a/20260203A05RD300\">[s8]</a>. BYD's 2026 interim report shows BYD Auto Industry Co., Ltd. was established on 2006-08-03 with registered capital of USD 375,765.452367, held 96.79% by BYD Company Limited and 3.21% by BYD (H.K.) Co., Limited<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a><a href=\"https://finance.sina.cn/2022-03-31/detail-imcwipii1568654.d.html\">[s22]</a>. As of 2026-10-29 BYD had not announced a dedicated \"Linghui brand general manager\"; the most senior publicly named figure is Huang Yongming, assistant general manager of BYD's fleet-business division, who spoke for the brand at the 2026-06-27 Beijing delivery ceremony; his appointment date has not been disclosed<a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>. The brand originated from BYD's internal fleet-business division and operates within that organisation<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>. Linghui has no separate legal entity; its models are filed under the \"Linghui\" trademark by BYD Auto Industry Co., Ltd. through the MIIT product catalog<a href=\"https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20264/f66eea329f224580a312ab5b26b09f75.doc\">[s6]</a>; the brand's internal structure and executive appointments had not been fully disclosed in public channels as of the research date. The parent, BYD Company Limited, is listed on the HKEX (1211) and SZSE (002594); see the BYD deep dive for board and governance details<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF\">[s5]</a>. The e-series fleet business that Linghui absorbed already had models: BYD had launched the e7 sedan in May 2025 from RMB 103,800<a href=\"https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market\">[s9]</a>. On launch day Linghui opened its official Weibo account with a \"Hello, Linghui\" post and BYD said \"Welcome Linghui\"<a href=\"https://carnewschina.com/2026/02/02/byd-ride-hailing-brand-linghui-officially-revealed-in-china/\">[s12]</a>.</p>"
+    },
+    "competition": {
+      "zh": "<p>在网约车与出租市场，领汇面对广汽埃安（AION S 等）和吉利曹操出行（自有车队）等先行者；在公务/商务 MPV 领域则面对别克 GL8 的长期主导地位。大河财立方报道称，GL8 凭借市场积淀与高保值率在政企接待与商务租赁领域建立了壁垒，而领汇 M9 以 18.88 万元起价切入该 B 端商旅市场，主打耐用性与全生命周期运营效率而非豪华溢价<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>。领汇的优势在于共享比亚迪三电技术与供应链规模，以及闪充补能带来的营运周转效率；营运车专属三电质保（e9、M9 为 6 年或 60 万公里）进一步降低司机持有成本<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>。短板是品牌全新、B 端客户采购决策谨慎，且首批车型为既有车型改款、与主品牌区隔有限。以零售上险口径看，领汇 e9 在 2026 年 2-9 月累计 1,526 辆，规模远小于广汽埃安、曹操出行等在网约车市场的既有体量（我们的判断）<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>。我们的判断：领汇的核心价值在于为主品牌「去营运化」与高端化扫清障碍；其自身零售上险规模尚小，能否在已非蓝海的对公市场规模化，取决于与出行平台的合作落地、营运级质保与闪充网络的实际兑现<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>。另据盖世汽车分析师对大河财立方表示，随着 Robotaxi 等新兴出行生态商业化落地，领汇以独立品牌运作，便于未来与各大出行平台开展深度合作，甚至支撑比亚迪自建出行服务平台<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>。</p>",
+      "en": "<p>In ride-hailing and taxi markets, Linghui competes with incumbents such as GAC Aion (AION S and others) and Geely's Cao Cao Mobility, which runs its own fleet; in the official/business MPV segment it faces the long-standing dominance of the Buick GL8. Dahecube reported that the GL8 has built barriers in government and corporate reception and business leasing through market accumulation and high resale value, while the Linghui M9 enters that B-end business-travel territory from RMB 188,800, competing on durability and whole-life operating efficiency rather than luxury premium<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>. Linghui's strengths are access to BYD's electric-drive technology and supply-chain scale and the operating-turnover advantage of flash charging, while dedicated operational three-electric warranties (6 years/600,000 km on the e9 and M9) lower driver holding costs<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>. Its weaknesses are a brand-new nameplate, cautious B-end procurement decisions, and first models that are rebadged versions of existing cars with limited differentiation. On retail insurance registrations, the Linghui e9 totalled 1,526 units from February to September 2026, far smaller than the incumbent fleet volumes of GAC Aion and Cao Cao Mobility (our assessment)<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>. Our assessment: Linghui's core value is clearing the way for the main marque's de-commercialisation and premiumisation; its own retail volume is still small, and scale in a fleet market that is no longer uncontested will depend on partnerships with mobility platforms and on delivery of the operational warranty and flash-charging network<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>. Separately, a Gasgoo Research Institute analyst told Dahecube that as robotaxi and other emerging mobility ecosystems commercialise, running Linghui as a standalone brand makes it easier to cooperate deeply with mobility platforms and could even support BYD building its own mobility service platform<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>.</p>"
+    },
+    "outlook": {
+      "zh": "<p>公司公开规划：领汇官方称将推出覆盖多场景的车型系列（入门级轿车、多功能 MPV、多用型功能车），并整合天神之眼、云辇、e 平台 3.0、第五代 DM 等资源<a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>；补能上配合「闪充中国」战略，计划 2026 年底建成 20000 座闪充站，实现城区 5 公里、高速 50 公里覆盖<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>。官方还透露 M9 后续将推出 1163 云辇旗舰版，并搭载天神之眼辅助驾驶（高速 NOA、自动泊车）<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a>。官方提出「品牌发布快、门店落位快、车型上新快、闪充补能快」与「一月一上新」的节奏口号<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>。我们的分析：领汇已在 4-6 月连续推出 e7、e9、M9 三款车型，落地速度较快，并以 e7 的免费闪充权益、金融方案降低 B 端客户购车门槛<a href=\"https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/\">[s11]</a>；但 e5 与 e7 的「首款」表述存在出入、e3 尚未确认正式上市时间，产品节奏与官方口径仍需持续观察。放量的前提是出行平台与政企客户批量采购的落地，以及营运级质保与闪充网络的实际兑现；若对公放量不及预期，品牌可能长期停留在小规模、低曝光状态<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>。此外，若已申报的 e3 正式上市，将补足品牌在入门级纯电轿车一档的产品覆盖（我们的分析）。</p>",
+      "en": "<p>Company plans: Linghui says it will launch a model series covering multiple scenarios (entry sedans, multi-purpose MPVs and multi-use functional vehicles) and integrate God's Eye, DiSus, e-Platform 3.0 and fifth-generation DM technologies<a href=\"https://www.bjnews.com.cn/detail/1782563315129288.html\">[s13]</a>; on charging it rides the \"Flash Charging China\" plan for 20,000 stations by end-2026 with 5 km urban and 50 km highway coverage<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>. BYD has also said the M9 will later add a 1163 DiSus flagship trim with God's Eye driving assist (highway NOA and automated parking)<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb\">[s4]</a>. The brand promotes a cadence of \"fast brand launch, fast store roll-out, fast model updates and fast flash charging\" and \"a new model every month\"<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f\">[s1]</a>. Our analysis: Linghui launched the e7, e9 and M9 in rapid succession from April to June 2026 and lowered B-end purchasing thresholds with free flash-charging benefits and financing on the e7<a href=\"https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/\">[s11]</a>, but the differing \"first model\" descriptions for the e5 and e7 and the unconfirmed timing of the e3 mean the product cadence and official messaging still need monitoring. Volume scaling depends on bulk procurement by mobility platforms and government/enterprise clients, and on delivery of the operational warranty and flash-charging network; if fleet sales undershoot, the brand could remain small and low-profile for some time<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>. In addition, if the already-filed e3 launches, it would fill the brand's entry-level pure-electric sedan tier (our analysis).</p>"
+    },
+    "risks": {
+      "zh": "<ul><li><strong>销量与披露风险</strong>：比亚迪未在月度产销快报中单列领汇，第三方零售（上险）数据仅覆盖 e9 一款且规模很小，对公/车队批量交付的真实规模难以核实<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>。</li><li><strong>竞争风险</strong>：对公市场已有广汽埃安、吉利曹操出行等成熟玩家，商务 MPV 领域有别克 GL8 的既有壁垒<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>。</li><li><strong>品牌与渠道投入风险</strong>：独立渠道、专属质保与闪充网络建设需要持续投入，在规模未起之前可能增加集团成本<a href=\"https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html\">[s14]</a>。</li><li><strong>产品差异化风险</strong>：首批车型均为既有车型改款，若仅靠换标与减配，可能难以支撑独立品牌长期价值<a href=\"https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/\">[s11]</a>。</li><li><strong>海外与政策风险</strong>：出海（含右舵版本）仅见于百科类与自媒体线索，未经官方确认；海外进入及当地出租车电动化政策存在不确定性<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>。</li><li><strong>技术迭代与补能建设风险</strong>：闪充、第二代刀片电池等技术与补能网络仍处大规模建设期，若竞品在补能与电池体验上快速跟进，领汇的差异化优势可能被削弱<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>。</li></ul>",
+      "en": "<ul><li><strong>Sales and disclosure risk</strong>: BYD does not break out Linghui in monthly bulletins, and third-party retail (insurance-registration) data capture only the e9 at small volumes, so the true scale of bulk fleet deliveries is hard to verify<a href=\"https://m.gasgoo.com/qcxl/cxxl/2026/9/2610\">[s18]</a>.</li><li><strong>Competition risk</strong>: GAC Aion and Geely's Cao Cao Mobility are established in the fleet market, and the Buick GL8 has entrenched positions in business MPVs<a href=\"https://www.dahecube.com/article.html?artid=278624\">[s15]</a>.</li><li><strong>Brand and channel investment risk</strong>: the independent channel, dedicated warranties and flash-charging network require ongoing investment that may add group cost before volumes ramp up<a href=\"https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html\">[s14]</a>.</li><li><strong>Product differentiation risk</strong>: the first models are rebadged versions of existing cars, and a badge swap plus de-contenting alone may not support long-term brand value<a href=\"https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/\">[s11]</a>.</li><li><strong>Overseas and policy risk</strong>: overseas entry (including right-hand-drive versions) appears only in encyclopedia-style and self-media hints and is not officially confirmed; overseas expansion and local taxi-electrification policies remain uncertain<a href=\"https://www.stcn.com/article/detail/3625233.html\">[s7]</a>.</li><li><strong>Technology and charging-infrastructure risk</strong>: flash charging, the second-generation Blade Battery and the charging network are still in a large-scale build-out phase, and Linghui's differentiation could narrow if rivals quickly catch up on charging and battery experience<a href=\"https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml\">[s3]</a>.</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "新华网《领汇e9正式上市：搭载闪充技术 指导价15.08-16.98万元》", "url": "https://app.xinhuanet.com/news/article.html?articleId=202605096e096f565cb94501bc8474d389b8813f", "date": "2026-05-09", "tier": "A" },
+    { "id": "s2", "name": "央视网汽车频道《领汇e7上市 售价9.58万元起》", "url": "https://auto.cctv.cn/2026/04/16/ARTIejManXTbgmkOmW9lp8Ef260416.shtml", "date": "2026-04-16", "tier": "A" },
+    { "id": "s3", "name": "央广网《领汇e7上市售价9.58万元起，搭载第二代刀片电池及闪充技术》", "url": "https://www.cnr.cn/2013qcpd/cz/20260416/t20260416_527586891.shtml", "date": "2026-04-16", "tier": "A" },
+    { "id": "s4", "name": "新华网《领汇M9定位商务旗舰MPV 指导价18.88万元起》", "url": "https://app.xinhuanet.com/news/article.html?articleId=202606294e1dbf56eef34c74bf9b7e4dc80cafdb", "date": "2026-06-29", "tier": "A" },
+    { "id": "s5", "name": "比亚迪股份有限公司2026年半年度报告（巨潮资讯）", "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531838.PDF", "date": "2026-08-29", "tier": "A" },
+    { "id": "s6", "name": "工业和信息化部《道路机动车辆生产企业及产品公告》（第406批）", "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20264/f66eea329f224580a312ab5b26b09f75.doc", "date": "2026-05-09", "tier": "A" },
+    { "id": "s26", "name": "新华财经《比亚迪全新子品牌领汇汽车正式官宣亮相》", "url": "https://www.cnfin.com/kx/detail/20260202/4374998_1.html", "date": "2026-02-02", "tier": "A" },
+    { "id": "s27", "name": "比亚迪集团官网《比亚迪正式加入国际汽车工作组（IATF）》", "url": "https://www.bydglobal.com/cn/news/2026-03-13/1617162764900", "date": "2026-03-13", "tier": "A" },
+    { "id": "s28", "name": "中证网《比亚迪上半年实现归母净利润123亿元 海外收入占“半壁江山”》", "url": "https://www.cs.com.cn/ssgs/01/2026/08/28/detail_2026082810035401.html", "date": "2026-08-28", "tier": "A" },
+    { "id": "s29", "name": "央广网《中国汽车企业崛起的标志性时刻》（比亚迪2025年销量460.24万辆）", "url": "https://www.cnr.cn/2013qcpd/yc/20260104/t20260104_527482372.shtml", "date": "2026-01-04", "tier": "A" },
+    { "id": "s30", "name": "比亚迪集团官网《比亚迪第1600万辆新能源汽车下线 再铸就产业里程碑》", "url": "https://www.bydglobal.com/cn/news/2026-04-22/1617162793219", "date": "2026-04-22", "tier": "A" },
+    { "id": "s7", "name": "证券时报《比亚迪官宣新品牌领汇汽车，此前四款新车已曝光》", "url": "https://www.stcn.com/article/detail/3625233.html", "date": "2026-02-02", "tier": "B" },
+    { "id": "s8", "name": "每日经济新闻（腾讯新闻）《聚焦对公出行！比亚迪全新汽车品牌“领汇”正式官宣》", "url": "https://news.qq.com/rain/a/20260203A05RD300", "date": "2026-02-03", "tier": "B" },
+    { "id": "s9", "name": "CnEVPost - BYD creates Linghui sub-brand for ride-hailing market", "url": "https://cnevpost.com/2026/01/09/byd-creates-linghui-brand-ride-hailing-market", "date": "2026-01-09", "tier": "B" },
+    { "id": "s10", "name": "CnEVPost - BYD officially unveils Linghui sub-brand targeting ride-hailing market, corporate clients", "url": "https://cnevpost.com/2026/02/02/byd-unveils-linghui-sub-brand-ride-hailing-market/", "date": "2026-02-02", "tier": "B" },
+    { "id": "s11", "name": "CnEVPost - BYD sub-brand Linghui launches e7 sedan, targeting ride-hailing market with flash charging", "url": "https://cnevpost.com/2026/04/15/byd-sub-brand-linghui-launches-e7-sedan/", "date": "2026-04-15", "tier": "B" },
+    { "id": "s12", "name": "CarNewsChina - BYD ride-hailing brand Linghui officially revealed in China", "url": "https://carnewschina.com/2026/02/02/byd-ride-hailing-brand-linghui-officially-revealed-in-china/", "date": "2026-02-02", "tier": "B" },
+    { "id": "s13", "name": "新京报《比亚迪旗下领汇汽车在京交付领汇e7，未来车型系列将覆盖多场景》", "url": "https://www.bjnews.com.cn/detail/1782563315129288.html", "date": "2026-06-27", "tier": "B" },
+    { "id": "s14", "name": "重庆日报《比亚迪领汇落地重庆 绿色营运出行再添硬核力量》", "url": "https://cqrb.cn/shuzhifengxiang/2026-05-08/2661290_pc.html", "date": "2026-05-08", "tier": "B" },
+    { "id": "s15", "name": "大河财立方《瞄准商旅B端市场，领汇M9要挑战GL8》", "url": "https://www.dahecube.com/article.html?artid=278624", "date": "2026-06-29", "tier": "B" },
+    { "id": "s17", "name": "经济参考网《一周新车速递》", "url": "https://www.jjckb.cn/20260702/c4667140af6942368d6c893429ddee68/c.html", "date": "2026-07-02", "tier": "B" },
+    { "id": "s18", "name": "盖世汽车《2026年9月领汇e9零售上险销量》", "url": "https://m.gasgoo.com/qcxl/cxxl/2026/9/2610", "date": "2026-09-30", "tier": "B" },
+    { "id": "s19", "name": "每日经济新闻《比亚迪申报“领汇牌”新车 瞄准公务车市场》（e7 基于海狮 07EV）", "url": "https://www.nbd.com.cn/articles/2026-01-12/4216838.html", "date": "2026-01-12", "tier": "B" },
+    { "id": "s21", "name": "深圳特区报/读特《领汇汽车首款闪充轿车e7上市 搭载刀片电池与闪充技术》", "url": "https://www.dutenews.com/n/article/10584350", "date": "2026-04-15", "tier": "B" },
+    { "id": "s22", "name": "新浪财经《比亚迪成联合四川路桥成立矿业公司》（含比亚迪汽车工业有限公司股权结构）", "url": "https://finance.sina.cn/2022-03-31/detail-imcwipii1568654.d.html", "date": "2022-03-31", "tier": "B" },
+    { "id": "s23", "name": "中国质量新闻网《比亚迪全新品牌“领汇”亮相 主要针对B端市场》", "url": "https://m.cqn.com.cn/auto/content/2026-02/03/content_9142695.htm", "date": "2026-02-03", "tier": "B" },
+    { "id": "s31", "name": "南海网《比亚迪官宣全新子品牌领汇汽车》", "url": "https://www.hinews.cn/page?n=2797063&m=1&s=1044", "date": "2026-02-02", "tier": "B" },
+    { "id": "s24", "name": "易车《领汇e5》报价及参数（仅作线索）", "url": "https://car.m.yiche.com/linghuie5/", "date": "2026-10-27", "tier": "C" },
+    { "id": "s25", "name": "汽车之家车家号《领汇e3 EV完成申报，搭载单电机系统，匹配磷酸铁锂电池》（仅作线索）", "url": "https://chejiahao.m.autohome.com.cn/info/25195934", "date": "2026-04-11", "tier": "C" },
+    { "id": "s32", "name": "易车《领汇e7》配置及报价（仅作线索）", "url": "https://car.m.yiche.com/linghuie7/m188500/peizhi/?from=ybm", "date": "2026-10-27", "tier": "C" }
+  ]
+}

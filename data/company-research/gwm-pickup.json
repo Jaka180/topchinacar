@@ -1,0 +1,476 @@
+{
+  "id": "gwm-pickup",
+  "name_en": "Great Wall Pickup (GWM)",
+  "name_zh": "长城皮卡（长城汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Business origin",
+      "label_zh": "业务起点",
+      "value_en": "1996 (first Deer pickup rolled off the line)",
+      "value_zh": "1996 年（第一辆迪尔皮卡下线）",
+      "period": null,
+      "source_ids": ["s6", "s13"]
+    },
+    {
+      "label_en": "Independent brand",
+      "label_zh": "品牌独立运营",
+      "value_en": "2018 (became GWM's fourth vehicle brand, per media)",
+      "value_zh": "2018 年（据媒体报道成为长城汽车旗下第四大品牌）",
+      "period": null,
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Parent company",
+      "label_zh": "所属集团",
+      "value_en": "Great Wall Motor Company Limited",
+      "value_zh": "长城汽车股份有限公司",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Baoding, Hebei (same as parent)",
+      "value_zh": "河北省保定市（与母公司同址）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (brand of a private automaker)",
+      "value_zh": "民营（民营车企旗下品牌）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Wei Jianjun (actual controller of parent Great Wall Motor)",
+      "value_zh": "魏建军（母公司长城汽车实际控制人）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; part of Great Wall Motor (SSE 601633 / HKEX 02333)",
+      "value_zh": "未单独上市；属长城汽车（上交所 601633 / 港交所 02333）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Brand financials",
+      "label_zh": "品牌财务",
+      "value_en": "Not separately disclosed (brand-level financials are not published)",
+      "value_zh": "未单独披露（品牌层面不发布财务数据）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Vehicle sales (FY2025)",
+      "label_zh": "最近财年销量",
+      "value_en": "178,936 vehicles (+2.22% YoY), of which 118,237 domestic and 60,699 exports (annual report; monthly-brief total 181,660)",
+      "value_zh": "178,936 辆（同比 +2.22%），其中内销 118,237 辆、出口 60,699 辆（年报口径；产销快报口径 181,660 辆）",
+      "period": "2025",
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "label_en": "Vehicle sales (Jan-Sep 2026)",
+      "label_zh": "2026 年前三季度销量",
+      "value_en": "135,826 vehicles (-0.29% YoY, monthly-brief basis)",
+      "value_zh": "135,826 辆（同比 -0.29%，产销快报口径）",
+      "period": "2026 Jan-Sep",
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Market position",
+      "label_zh": "市场地位",
+      "value_en": "China's best-selling pickup for 28 consecutive years; cumulative global sales over 2.85 million units; Poer over 800,000 units",
+      "value_zh": "连续 28 年蝉联中国皮卡销量冠军；全球累计销量超 285 万辆，其中长城炮超 80 万辆",
+      "period": "2025",
+      "source_ids": ["s2", "s20"]
+    },
+    {
+      "label_en": "Main production base",
+      "label_zh": "主要生产基地",
+      "value_en": "Chongqing Yongchuan smart plant (opened August 2019) and Hubei Jingmen smart plant",
+      "value_zh": "重庆永川智慧工厂（2019 年 8 月投产）与湖北荆门智慧工厂",
+      "period": null,
+      "source_ids": ["s16", "s17"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1996",
+      "event_en": "The first Deer (迪尔) pickup rolls off the line, starting GWM's pickup business and leading what the brand later calls the '1.0 tool-vehicle era' of China's pickup market.",
+      "event_zh": "第一辆迪尔皮卡下线，开启长城汽车皮卡业务，引领品牌后来所称的中国皮卡「1.0 工具车时代」。",
+      "source_ids": ["s6", "s13"]
+    },
+    {
+      "date": "1997-10",
+      "event_en": "The first batch of Great Wall pickups is exported to the Middle East, GWM's earliest whole-vehicle exports.",
+      "event_zh": "首批长城皮卡出口中东，为长城汽车最早的整车出口。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "1998",
+      "event_en": "Great Wall Pickup ranks first in China's pickup market for the first time, starting the run of consecutive annual championships that reached 28 years by 2025, and the brand describes 1998 as the year it began selling vehicles overseas.",
+      "event_zh": "长城皮卡首次夺得中国皮卡市场销量第一，开启连续多年蝉联销冠的纪录（至 2025 年已连续 28 年）；品牌亦将 1998 年视为其整车走向海外市场的起点。",
+      "source_ids": ["s13", "s18"]
+    },
+    {
+      "date": "2006",
+      "event_en": "The Wingle (风骏) pickup is launched; it has since sold for 20 years with cumulative global sales above 1.8 million units, in the brand's framing as the '2.0 multi-purpose commercial era'.",
+      "event_zh": "风骏皮卡上市，此后持续销售 20 年、全球累计销量超 180 万辆，被品牌称为中国皮卡「2.0 多用途商用化时代」。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2018",
+      "event_en": "Per media reporting, Great Wall Pickup becomes an independently operated brand, GWM's fourth vehicle brand.",
+      "event_zh": "据媒体报道，长城皮卡正式独立运营，成为长城汽车旗下第四大品牌。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2019-08-18",
+      "event_en": "The new pickup brand Great Wall Poer (长城炮) is launched, initially covering passenger, commercial and off-road categories.",
+      "event_zh": "皮卡新品牌长城炮正式发布，初期涵盖乘用、商用、越野三大板块。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2019-08-30",
+      "event_en": "GWM's Chongqing Yongchuan smart factory is completed and put into production, with the global 'P series' passenger pickup (Poer) rolling off the line; the plant has a planned capacity of 160,000 vehicles and total investment of RMB 4.5 billion.",
+      "event_zh": "长城汽车重庆永川智慧工厂建成投产，全球「P 系列」乘用皮卡（长城炮）下线；工厂规划年产能 16 万辆、总投资 45 亿元。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2019-09-05",
+      "event_en": "The Poer passenger pickup goes on sale at the Chengdu auto show, priced from RMB 126,800, positioned as China's first passenger-oriented pickup with multi-link rear suspension and a ZF 8AT.",
+      "event_zh": "长城炮乘用皮卡在成都车展正式上市，起售价 12.68 万元，定位中国首款多连杆后悬架、采埃孚 8AT 的乘用化皮卡。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2019-10-24",
+      "event_en": "The Poer commercial pickup goes on sale, priced RMB 97,800-128,800, with petrol and diesel, 2WD/4WD and manual/8AT variants.",
+      "event_zh": "长城炮商用皮卡上市（9.78 万-12.88 万元），提供汽/柴油、两/四驱、6MT/8AT 等多种版本。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2019-12-05",
+      "event_en": "The 10,000th Poer rolls off the line at the Chongqing Yongchuan plant, three months after the first unit.",
+      "event_zh": "第 1 万台长城炮在重庆永川智慧工厂下线，距首台下线仅三个月。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2022-03-22",
+      "event_en": "The Jingangpo (King Kong Poer), a fashion-commercial pickup sharing the Poer platform, is launched with a 2.0T + 6MT powertrain.",
+      "event_zh": "与长城炮同平台的时尚商用皮卡金刚炮上市，搭载 2.0T + 6MT。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2022-05-08",
+      "event_en": "The 300,000th Poer rolls off the line at the Chongqing smart plant, reaching 300,000 units in 2 years and 8 months.",
+      "event_zh": "长城炮第 30 万台整车在重庆智慧工厂下线，从 0 到 30 万辆用时 2 年零 8 个月。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2022-10-27",
+      "event_en": "The CAAM Pickup Branch is established; GWM is elected the first rotating-chairman member and Poer brand CEO Zhang Haobao becomes its first chairman. A day earlier the State Council had called for lifting urban pickup-access restrictions.",
+      "event_zh": "中国汽车工业协会皮卡分会成立，长城汽车当选首届理事长单位，皮卡品牌 CEO 张昊保任首届理事长；此前一日国务院通知要求「推动取消皮卡车进城限制」。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2022-12-30",
+      "event_en": "The Shanhaipo, a large high-performance luxury pickup, is launched at the Guangzhou auto show with a 3.0T V6 petrol engine and longitudinal 9AT, priced RMB 228,800-301,800.",
+      "event_zh": "大型高性能豪华皮卡山海炮于广州车展上市，搭载 3.0T V6 汽油发动机 + 纵置 9AT，售价 22.88 万-30.18 万元。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2023",
+      "event_en": "The 500,000th Poer rolls off the line, making it the first Chinese premium pickup brand to pass 500,000 units; full-year sales reach 202,330 vehicles (monthly-brief basis), and the brand leads China's pickup market for a 26th consecutive year.",
+      "event_zh": "长城炮第 50 万台整车下线，成为首个突破 50 万辆的中国高端皮卡品牌；全年销售 202,330 辆（产销快报口径），连续 26 年蝉联中国皮卡销量第一。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2024",
+      "event_en": "Full-year sales reach 175,057 vehicles (-13.07% YoY) including 50,172 exports (regular-report basis; the monthly brief records 177,100). The brand also rolled out the 2.4T Poer line and the Shanhaipo cross-country edition.",
+      "event_zh": "全年销售 175,057 辆（同比 -13.07%），其中出口 50,172 辆（定期报告口径；产销快报口径 177,100 辆）；年内密集投放 2.4T 长城炮、山海炮穿越版等车型。",
+      "source_ids": ["s5", "s14"]
+    },
+    {
+      "date": "2025-06-23",
+      "event_en": "The Shanhaipo Hi4-T, positioned as the world's first off-road hybrid pickup and built on GWM's Hi4-T architecture, goes on sale (Global Edition RMB 228,800, Performance Edition RMB 249,800), alongside the Shanhaipo 2.4T Global Edition at RMB 193,800.",
+      "event_zh": "山海炮 Hi4-T 正式上市，定位全球首款越野混动皮卡、基于长城 Hi4-T 架构打造：全球版 22.88 万元、性能版 24.98 万元；同步上市山海炮 2.4T 全球版 19.38 万元。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Full-year sales reach 178,936 vehicles (+2.22% YoY) including 60,699 exports, with domestic terminal market share near 50% and China's pickup sales leadership for a 28th consecutive year; cumulative global sales exceed 2.85 million units and Poer exceeds 800,000.",
+      "event_zh": "全年销售 178,936 辆（同比 +2.22%），其中出口 60,699 辆，国内终端市占率近 50%，连续 28 年蝉联中国皮卡销量冠军；全球累计销量超 285 万辆，长城炮超 80 万辆。",
+      "source_ids": ["s1", "s20"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "The new Wingle 7 goes on sale, per media reporting, extending the Wingle line that has sold for 20 years.",
+      "event_zh": "据媒体报道，新风骏 7 上市，延续风骏系列 20 年产品生命周期。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2026-04",
+      "event_en": "Per media reporting, the Poer Hi4-T series begins pre-sales at the Beijing auto show, extending GWM's Hi4-T off-road hybrid architecture into the Poer line.",
+      "event_zh": "据媒体报道，长城炮 Hi4-T 系列在北京车展开启预售，将长城 Hi4-T 越野混动架构延展至长城炮车系。",
+      "source_ids": ["s12"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Poer (Cannon) series",
+      "name_zh": "长城炮系列",
+      "role_en": "Passenger-oriented pickup series launched in 2019; the brand's volume anchor and the first Chinese pickup to bring passenger-car features into the segment.",
+      "role_zh": "2019 年推出的乘用化皮卡系列，品牌销量支柱，中国首款将乘用车功能引入皮卡的产品。",
+      "price_band": "中国市场官方建议零售起售价（2026-10-29 访问官网）：2026 款商用炮 9.98 万元、2026 款乘用炮 12.68 万元、2026 款越野炮 17.98 万元、乘用炮 Hi4-T 17.68 万元、商用炮 PHEV 14.98 万元、火炮 18.28 万元、V6 火炮 22.98 万元。插混车型价格为含动力电池整车价，燃油版不含动力电池。China website suggested retail starting prices (accessed 2026-10-29): 2026 Commercial Poer RMB 99,800; 2026 Passenger Poer RMB 126,800; 2026 Off-road Poer RMB 179,800; Passenger Poer Hi4-T RMB 176,800; Commercial Poer PHEV RMB 149,800; Huopao RMB 182,800; V6 Huopao RMB 229,800. PHEV prices include the traction battery; fuel versions do not.",
+      "founded": 2019,
+      "owner_note_en": "Launched on 18 August 2019 with passenger, commercial and off-road categories; the passenger version went on sale at the Chengdu show in September 2019 and the commercial version in October 2019. Built on GWM's Chongqing Yongchuan smart plant, it was China's first pickup with a multi-link rear suspension and 8AT, opening the '3.0 passenger-oriented era'. The 300,000th unit rolled off in May 2022 and the 500,000th in 2023 (first Chinese premium pickup brand to pass 500,000). Per the 2025 annual results, Poer cumulative global sales exceed 800,000 units, keeping it China's best-selling pickup. In 2025 the Poer recorded global sales of 132,488 units and 62 consecutive months above 10,000 units, per CRI. Media report that by April 2026 Poer had posted 65 consecutive months above 10,000 units with cumulative sales over 850,000, and that the Poer Hi4-T series began pre-sales at the April 2026 Beijing auto show.",
+      "owner_note_zh": "2019 年 8 月 18 日发布，初期涵盖乘用、商用、越野三大品类；同年 9 月乘用版于成都车展上市、10 月商用版上市。在重庆永川智慧工厂生产，为中国首款多连杆后悬架、8AT 皮卡，开启皮卡「3.0 多用途乘用化时代」；2022 年 5 月第 30 万台下线，2023 年第 50 万台下线（中国高端皮卡品牌首个突破 50 万）。据 2025 年业绩公告，长城炮全球累计销量超 80 万辆，蝉联中国皮卡销量冠军。据国际在线，2025 年长城炮全球销售 132,488 辆、累计 62 个月销量过万。据媒体报道，截至 2026 年 4 月长城炮已连续 65 个月月销破万、累计销量突破 85 万辆；2026 年 4 月北京车展长城炮 Hi4-T 系列开启预售。",
+      "status": "active",
+      "source_ids": ["s2", "s6", "s7", "s12", "s13", "s18"]
+    },
+    {
+      "name_en": "Shanhaipo (Poer Sahar)",
+      "name_zh": "山海炮",
+      "role_en": "Large high-performance luxury pickup line launched in December 2022; GWM's premium pickup aimed at high-end leisure and off-road users.",
+      "role_zh": "2022 年 12 月推出的大型高性能豪华皮卡，面向中高端休闲、越野用户的高端产品线。",
+      "price_band": "中国市场官方建议零售起售价（2026-10-29 访问官网）：山海炮乘用版 22.88 万元、山海炮 Hi4-T 22.88 万元、山海炮 2.4T 全球版 19.38 万元、山海炮穿越版 24.98 万元、山海炮性能版 27.98 万元。插混版价格为含动力电池整车价。China website suggested retail starting prices (accessed 2026-10-29): Shanhaipo Passenger RMB 228,800; Shanhaipo Hi4-T RMB 228,800; Shanhaipo 2.4T Global RMB 193,800; Shanhaipo Cross-country RMB 249,800; Shanhaipo Performance RMB 279,800. The PHEV price includes the traction battery.",
+      "founded": 2022,
+      "owner_note_en": "Launched on 30 December 2022 at the Guangzhou auto show with a 3.0T V6 petrol engine and longitudinal 9AT, priced RMB 228,800-301,800. The Shanhaipo Hi4-T, positioned as the world's first off-road hybrid pickup on the Hi4-T architecture, launched on 23 June 2025 (Global Edition RMB 228,800, Performance Edition RMB 249,800), with the Shanhaipo 2.4T Global Edition (RMB 193,800) launched alongside. The Hi4-T entered Australia in May 2025 and won a '2025 best new-energy pickup' award from Australian media; it will next launch in Thailand and Mexico, per company statements. The Shanhaipo family holds A-NCAP and C-NCAP five-star safety certifications.",
+      "owner_note_zh": "2022 年 12 月 30 日于广州车展上市，搭载 3.0T V6 汽油发动机 + 纵置 9AT，售价 22.88 万-30.18 万元。2025 年 6 月 23 日山海炮 Hi4-T 上市（全球版 22.88 万元、性能版 24.98 万元），定位全球首款越野混动皮卡、基于 Hi4-T 架构打造，同步上市山海炮 2.4T 全球版（19.38 万元）。山海炮 Hi4-T 于 2025 年 5 月登陆澳大利亚，并获当地媒体「2025 年度最佳新能源皮卡」奖；公司称后续将在泰国、墨西哥上市。山海炮车系获 A-NCAP、C-NCAP 双五星安全认证。",
+      "status": "active",
+      "source_ids": ["s6", "s7", "s11", "s22"]
+    },
+    {
+      "name_en": "Jingangpo (King Kong Poer)",
+      "name_zh": "金刚炮",
+      "role_en": "Fashion-commercial pickup launched in March 2022 for small merchants and new-business users, built on the Poer platform.",
+      "role_zh": "2022 年 3 月推出的时尚商用皮卡，面向中小商户与新业态从业者，与长城炮同平台。",
+      "price_band": "中国市场官方建议零售起售价（2026-10-29 访问官网）：2026 款金刚炮 8.98 万元起。燃油车型不含动力电池。China website suggested retail starting price (accessed 2026-10-29): 2026 Jingangpo from RMB 89,800. Fuel versions do not carry a traction battery.",
+      "founded": 2022,
+      "owner_note_en": "Launched on 22 March 2022 with a 2.0T + 6MT powertrain, sharing the Poer platform and built at GWM's Hubei Jingmen smart plant. Per CRI, its cumulative production reached 100,000 units in 2025, when the 100,000th vehicle was delivered to the Jingmen Blue Sky Emergency Rescue Centre. Per the 2025 annual results, Poer, Wingle and Jingangpo together held the top three spots among China's pickup models in 2025.",
+      "owner_note_zh": "2022 年 3 月 22 日上市，搭载 2.0T + 6MT，与长城炮同平台，在长城汽车湖北荆门智慧工厂生产。据国际在线，2025 年金刚炮累计产量达 10 万辆，第 10 万辆整车下线并交付给荆门市蓝天应急救援中心。据 2025 年业绩公告，长城炮、风骏、金刚炮包揽 2025 年国内皮卡单车销量前三。",
+      "status": "active",
+      "source_ids": ["s2", "s7", "s8", "s18"]
+    },
+    {
+      "name_en": "Wingle (Fengjun) series",
+      "name_zh": "风骏系列",
+      "role_en": "Commercial tool pickup series (Wingle 5 and Wingle 7) launched in 2006 and predating Poer; GWM's economy commercial base for grassroots business users.",
+      "role_zh": "2006 年推出、早于长城炮的商用工具皮卡系列（风骏 5、风骏 7），面向基层创富用户的经济型商用基本盘。",
+      "price_band": "中国市场官方建议零售起售价（2026-10-29 访问官网）：2026 款风骏 5 6.98 万元、风骏 7 8.58 万元。燃油车型不含动力电池。China website suggested retail starting prices (accessed 2026-10-29): 2026 Wingle 5 RMB 69,800; Wingle 7 RMB 85,800. Fuel versions do not carry a traction battery.",
+      "founded": 2006,
+      "owner_note_en": "Launched in 2006, the Wingle series has sold for 20 years with cumulative global sales above 1.8 million units and is described by media as China's highest-ownership pickup and one of its longest-lived models. The new Wingle 7 went on sale in March 2026. Per the 2025 annual results, Wingle, Poer and Jingangpo took the top three places among China's pickup models in 2025.",
+      "owner_note_zh": "2006 年上市，至今持续销售 20 年、全球累计销量超 180 万辆，被媒体称为中国保有量最大的皮卡车型、生命周期最长的车型之一；新风骏 7 于 2026 年 3 月上市。据 2025 年业绩公告，风骏、长城炮、金刚炮包揽 2025 年国内皮卡单车销量前三。",
+      "status": "active",
+      "source_ids": ["s2", "s7", "s21"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (parent company Great Wall Motor; the pickup brand itself is not separately disclosed)",
+    "rows": [],
+    "source_ids": ["s1", "s2"],
+    "note_en": "Great Wall Pickup is a brand of Great Wall Motor Company Limited and does not publish separate financial statements, so no brand-level revenue, gross margin, net profit, R&D or cash-flow figures are disclosed (financials.rows is therefore empty). Because no brand-level net profit exists, there is no figure to classify as attributable to owners of the parent versus ordinary shareholders. For reference, the parent's 2025 annual report (PRC GAAP) reports operating revenue of RMB 222,824 million (up 10.20% year on year) and net profit attributable to shareholders of the listed company of RMB 9,865 million (down 22.07% year on year). Parent financials are covered in the Great Wall Motor (gwm) deep research. This page does not constitute any trading recommendation.",
+    "note_zh": "长城皮卡为长城汽车股份有限公司旗下品牌，未单独披露品牌层面的财务数据（营收、毛利率、净利润、研发投入、现金流等），故 financials.rows 为空。因不存在品牌层面的净利润，也就无从区分「归属于母公司股东」或「归属于普通股股东」的口径。作为参照，母公司长城汽车 2025 年年度报告（中国企业会计准则）披露营业总收入 2,228.24 亿元（同比增长 10.20%）、归属于上市公司股东的净利润 98.65 亿元（同比下降 22.07%）。母公司财务数据见长城汽车（gwm）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Great Wall Pickup (长城皮卡) is the pickup business and founding business line of Great Wall Motor Company Limited (GWM). It dates to 1996, when the first Deer pickup rolled off the line, with first exports to the Middle East following in 1997 and a first-place ranking in both domestic sales and exports by 1998.<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a><a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a> Media report that in 2018 Great Wall Pickup became an independently operated brand, GWM's fourth vehicle brand, and in 2019 GWM launched the Poer (Cannon) series, which brought passenger-car features such as a multi-link rear suspension and 8AT into China's pickup segment.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> Today the brand spans the Wingle, Jingangpo, Poer and Shanhaipo families, covering petrol, diesel and Hi4-T/PHEV plug-in-hybrid powertrains.<a href=\"https://pickup.gwm.com.cn/\">[s7]</a></p><p>Per the 2025 annual results, Great Wall Pickup sold 178,936 vehicles in 2025 (+2.22% year on year), including 60,699 exports (+20.98%), with domestic terminal market share near 50%; it has been China's best-selling pickup for 28 consecutive years, with cumulative global sales above 2.85 million units and the Poer line above 800,000.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf\">[s2]</a> In the first nine months of 2026 the brand sold 135,826 vehicles, down 0.29% year on year on the monthly-brief basis.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a> As a brand of a listed automaker, Great Wall Pickup publishes no separate financial statements; this page covers the brand's products, history, leadership and competition, with parent-level financials referenced from GWM's filings.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>",
+      "zh": "<p>长城皮卡是长城汽车股份有限公司的皮卡业务，也是公司的起家业务。其历史可追溯至 1996 年第一辆迪尔皮卡下线，1997 年首批皮卡出口中东，1998 年即实现国内、出口销量双第一。<a href=\"https://www.gwm.com.cn/history.html\">[s6]</a><a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a> 据媒体报道，2018 年长城皮卡独立运营，成为长城汽车第四大品牌；2019 年公司推出长城炮系列，把多连杆后悬架、8AT 等乘用车技术引入中国皮卡市场。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 如今品牌覆盖风骏、金刚炮、长城炮、山海炮四大车系，横跨汽油、柴油与 Hi4-T/PHEV 插电混动多动力路线。<a href=\"https://pickup.gwm.com.cn/\">[s7]</a></p><p>据 2025 年业绩公告，2025 年长城皮卡销售 178,936 辆（同比 +2.22%），其中出口 60,699 辆（同比 +20.98%），国内终端市占率近 50%，连续 28 年蝉联中国皮卡销量冠军，全球累计销量超 285 万辆，其中长城炮超 80 万辆。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf\">[s2]</a> 2026 年前三季度销售 135,826 辆，同比 -0.29%（产销快报口径）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a> 作为上市车企旗下品牌，长城皮卡不单独披露财务数据；本页覆盖其产品、历史、管理层与竞争格局，母公司层面财务数据以长城汽车公告为参照。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Model line-up and pricing</h3><p>As of the research cut-off date, the official Great Wall Pickup China website lists four model families: the Poer series (2026 Commercial Poer, 2026 Passenger Poer, 2026 Off-road Poer, Passenger Poer Hi4-T, Commercial Poer PHEV, Huopao and V6 Huopao), the Shanhaipo series (Passenger, Hi4-T, 2.4T Global, Cross-country and Performance editions), the Jingangpo, and the Wingle 5 and Wingle 7. Official suggested retail starting prices, accessed on 2026-10-29, run from the 2026 Wingle 5 at RMB 69,800 up to the Shanhaipo Performance Edition at RMB 279,800; within the range, the 2026 Commercial Poer starts at RMB 99,800, the 2026 Passenger Poer at RMB 126,800, the 2026 Off-road Poer at RMB 179,800, the Passenger Poer Hi4-T at RMB 176,800, the Commercial Poer PHEV at RMB 149,800, the Jingangpo at RMB 89,800, and the Shanhaipo Hi4-T at RMB 228,800.<a href=\"https://pickup.gwm.com.cn/\">[s7]</a> Plug-in-hybrid (Hi4-T/PHEV) prices are for the whole vehicle including the traction battery; petrol and diesel versions do not carry a traction battery.<a href=\"https://pickup.gwm.com.cn/\">[s7]</a></p><h3>Technology and platforms</h3><p>The Poer is described by media as China's first passenger-oriented pickup, with a multi-link rear suspension, a ZF 8AT and L2 driving assistance, and it is built on GWM's Chongqing Yongchuan smart plant.<a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a> The Jingangpo shares the Poer platform and is built at the Hubei Jingmen smart plant.<a href=\"https://pickup.gwm.com.cn/news/3402073.html\">[s8]</a> The Shanhaipo fuel line uses a self-developed 3.0T V6 petrol engine with a longitudinal 9AT.<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf\">[s5]</a> On the new-energy side, the Shanhaipo Hi4-T is built on GWM's Hi4-T off-road super-hybrid architecture with a Miller-cycle 2.0T engine, a 9HAT and an integrated P2 front motor, delivering combined power of 300 kW and combined torque of 750 N·m; it carries a 37.1 kWh battery with NEDC pure-electric range of 115 km, NEDC combined range of about 1,000 km and combined fuel consumption of 1.7 L/100 km, plus a BorgWarner 4A+Mlock four-wheel-drive system and three locking differentials.<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a> Media report the 2026 Poer range is built on GWM's Tank platform, sharing the off-road architecture used by the Tank brand.<a href=\"https://auto.cri.cn/20260104/09351c85-3569-487a-ad12-45ee0afb58a6.html\">[s18]</a></p><h3>Product iterations</h3><p>In 2024 the brand rolled out the Jingangpo 8AT, the 2.4T Passenger/Commercial/Off-road Poer and the Shanhaipo Cross-country edition, and previewed the Shanhaipo Hi4-T built on the Hi4-T architecture; the Poer alone sold 130,416 units in 2024, its 51st consecutive month above 10,000 units, per media.<a href=\"https://www.cnpickups.com/news/804112.html\">[s14]</a> In 2025 the brand launched the Shanhaipo Hi4-T, the V6 Huopao and the 2026 Poer and 2026 Jingangpo ranges, and the new Wingle 7 followed in March 2026.<a href=\"https://auto.cri.cn/20260104/09351c85-3569-487a-ad12-45ee0afb58a6.html\">[s18]</a><a href=\"https://www.ctdsb.net/c1669_202604/2711640.html\">[s21]</a></p><h3>Brand positioning</h3><p>Media describe the brand as spanning four tracks: the Wingle series as the commercial-tool base, the Jingangpo as fashion-commercial, the Poer as passenger-leisure, and the Shanhaipo as high-end luxury and performance.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></p><h3>Plants and capacity</h3><p>The main pickup production base is the Chongqing Yongchuan smart plant, GWM's fifth full-process vehicle base and its first in South China, completed and put into production on 30 August 2019 with a planned capacity of 160,000 vehicles and total investment of RMB 4.5 billion; it produces the Poer 'P series' as well as HAVAL SUVs.<a href=\"https://res.gwm.com.cn/2020/03/11/GreatWallMotorChongqingSmartFactoryCompletionandPSeriesNewPickupRolloutCeremony.pdf\">[s16]</a> By 2025 the Chongqing government described the Yongchuan base as having total investment of RMB 9.88 billion and designed annual capacity of 250,000 pickups and SUVs, claiming one Poer rolls off every 72 seconds and one in four China-built pickups is made in Yongchuan.<a href=\"https://cq.gov.cn/ywdt/zwhd/qxdt/202509/t20250905_14971307.html\">[s17]</a> The Jingangpo and other commercial models are built at the Hubei Jingmen smart plant.<a href=\"https://pickup.gwm.com.cn/news/3402073.html\">[s8]</a></p><h3>Overseas business</h3><p>Great Wall Pickup is China's earliest vehicle exporter and has kept the leading position in China-brand pickup exports. In 2025 it exported 60,699 pickups (+20.98% year on year) on the annual-report basis.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> Media report that the 2.4T Poer was launched in Chile, South Africa, Australia and Peru in 2025, and that the Shanhaipo Hi4-T entered Australia in May 2025 and won a '2025 best new-energy pickup' award from Australian outlet CarExpert; the Shanhaipo HEV won a 'best hybrid pickup' award in Thailand in March 2025, and the Poer took the top spot in Chile's new-pickup sales chart in May 2025.<a href=\"https://www.cinn.cn/hz/2025/07-15/jk3w7gYk.html\">[s22]</a> The company said the Shanhaipo Hi4-T will next launch in Thailand and Mexico, and that the Shanhaipo now spans Hi4-T, HEV, 3.0T petrol and 2.4T diesel powertrains.<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a></p><h3>Policy and market position</h3><p>The brand has been a key promoter of relaxing China's pickup-access restrictions: GWM was the lead organiser of the CAAM Pickup Branch, established on 27 October 2022, and a State Council notice the day before called for lifting urban pickup-access restrictions.<a href=\"https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html\">[s9]</a> Media report that over 90% of prefecture-level-and-above cities have opened up pickup access. In 2025 the Poer, Wingle and Jingangpo held the top three places among China's pickup models, per the annual results.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf\">[s2]</a></p>",
+      "zh": "<h3>车型谱系与定价</h3><p>截至研究截止日，长城皮卡中国官网列示四大车系：长城炮系列（2026 款商用炮、2026 款乘用炮、2026 款越野炮、乘用炮 Hi4-T、商用炮 PHEV、火炮、V6 火炮），山海炮系列（乘用版、Hi4-T、2.4T 全球版、穿越版、性能版），金刚炮，以及风骏 5、风骏 7。2026-10-29 访问官网的官方建议零售起售价自 2026 款风骏 5 的 6.98 万元起，最高至山海炮性能版 27.98 万元；其中 2026 款商用炮 9.98 万元、2026 款乘用炮 12.68 万元、2026 款越野炮 17.98 万元、乘用炮 Hi4-T 17.68 万元、商用炮 PHEV 14.98 万元、金刚炮 8.98 万元、山海炮 Hi4-T 22.88 万元。<a href=\"https://pickup.gwm.com.cn/\">[s7]</a> 插电混动（Hi4-T/PHEV）车型价格为含动力电池的整车价格，汽油、柴油版不含动力电池。<a href=\"https://pickup.gwm.com.cn/\">[s7]</a></p><h3>技术与平台</h3><p>据媒体报道，长城炮是中国首款乘用化皮卡，配备多连杆后悬架、采埃孚 8AT 与 L2 级辅助驾驶，在长城汽车重庆永川智慧工厂生产。<a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a> 金刚炮与长城炮同平台，在湖北荆门智慧工厂生产。<a href=\"https://pickup.gwm.com.cn/news/3402073.html\">[s8]</a> 山海炮燃油版搭载自研 3.0T V6 汽油发动机 + 纵置 9AT。<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf\">[s5]</a> 新能源方面，山海炮 Hi4-T 基于长城 Hi4-T 越野超级混动架构打造，采用米勒循环 2.0T 发动机 + 9HAT + 集成式 P2 前置电机，综合功率 300kW、综合扭矩 750N·m，搭载 37.1kWh 电池，NEDC 纯电续航 115km、NEDC 综合续航约 1000km、百公里综合油耗 1.7L，并配博格华纳 4A+Mlock 四驱与「真三把锁」。<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a> 据媒体报道，2026 款长城炮全系基于长城坦克平台打造，与坦克品牌共享越野架构。<a href=\"https://auto.cri.cn/20260104/09351c85-3569-487a-ad12-45ee0afb58a6.html\">[s18]</a></p><h3>产品迭代</h3><p>2024 年品牌密集投放金刚炮 8AT、2.4T 乘用炮/商用炮/越野炮、山海炮穿越版等车型，并亮相基于 Hi4-T 架构打造的山海炮 Hi4-T；据媒体报道，仅长城炮 2024 年就销售 130,416 辆、累计 51 个月销量过万。<a href=\"https://www.cnpickups.com/news/804112.html\">[s14]</a> 2025 年品牌先后上市山海炮 Hi4-T、V6 火炮、2026 款长城炮、2026 款金刚炮等车型，2026 年 3 月新风骏 7 上市。<a href=\"https://auto.cri.cn/20260104/09351c85-3569-487a-ad12-45ee0afb58a6.html\">[s18]</a><a href=\"https://www.ctdsb.net/c1669_202604/2711640.html\">[s21]</a></p><h3>品牌定位</h3><p>据媒体报道，品牌覆盖四大核心赛道：风骏系列主打商用工具，金刚炮主打时尚商用，长城炮主打乘用休闲，山海炮主打高端豪华与性能。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></p><h3>工厂与产能</h3><p>主要生产基地为重庆永川智慧工厂，是长城汽车全球第五个整车生产基地、南方首个整车基地，2019 年 8 月 30 日建成投产，规划年产能 16 万辆、总投资 45 亿元，主要生产长城炮「P 系列」及哈弗 SUV。<a href=\"https://res.gwm.com.cn/2020/03/11/GreatWallMotorChongqingSmartFactoryCompletionandPSeriesNewPickupRolloutCeremony.pdf\">[s16]</a> 重庆市政府 2025 年介绍，永川基地总投资 98.8 亿元、设计年产皮卡及 SUV 达 25 万辆，号称「每 72 秒下线一台长城炮皮卡，全国每 4 辆皮卡就有 1 辆永川造」。<a href=\"https://cq.gov.cn/ywdt/zwhd/qxdt/202509/t20250905_14971307.html\">[s17]</a> 金刚炮等商用车型在湖北荆门智慧工厂生产。<a href=\"https://pickup.gwm.com.cn/news/3402073.html\">[s8]</a></p><h3>海外业务</h3><p>长城皮卡是中国最早的整车出口车企之一，长期保持中国品牌皮卡出口领先。2025 年按年报口径出口 60,699 辆（同比 +20.98%）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 据媒体报道，2025 年 2.4T 长城炮先后在智利、南非、澳洲、秘鲁上市；山海炮 Hi4-T 于 2025 年 5 月登陆澳大利亚并获当地媒体 CarExpert「2025 年度最佳新能源皮卡」奖，山海炮 HEV 于 2025 年 3 月在泰国获「最佳混合动力皮卡」奖，5 月长城炮在智利皮卡新车畅销榜登顶。<a href=\"https://www.cinn.cn/hz/2025/07-15/jk3w7gYk.html\">[s22]</a> 公司称山海炮 Hi4-T 后续将在泰国、墨西哥上市，山海炮已构建 Hi4-T 超混、HEV、3.0T 汽油、2.4T 柴油全动力矩阵。<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a></p><h3>皮卡政策与行业地位</h3><p>品牌是皮卡进城限制解禁的重要推动者：长城汽车是中汽协皮卡分会筹备牵头单位，该分会于 2022 年 10 月 27 日成立；此前一日国务院通知要求「推动取消皮卡车进城限制」。<a href=\"https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html\">[s9]</a> 据媒体报道，全国超 90% 地级以上城市已放开皮卡进城限制。2025 年长城炮、风骏、金刚炮包揽国内皮卡单车销量前三，见 2025 年业绩公告。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf\">[s2]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Great Wall Motor founder Wei Jianjun is the parent company's chairman and actual controller, and Great Wall Pickup is the business line he built from the first Deer pickup in 1996. The 2025 annual report lists Great Wall Pickup among the group's brands (alongside Haval, WEY, Tank and ORA) and identifies Wei Jianjun as the group's actual controller.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> Further detail on the founder and the parent group is covered in the Great Wall Motor (gwm) deep research.</p><h3>Current brand CEO</h3><p>Zhang Haobao (张昊保) is the CEO of the Great Wall Pickup brand and chairman of the CAAM Pickup Branch. When the CAAM Pickup Branch was founded on 27 October 2022, GWM was elected the first rotating-chairman member and Zhang Haobao, then Poer brand CEO, became its first chairman.<a href=\"https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html\">[s9]</a> Media report that Zhang has more than 20 years in the pickup industry; before joining GWM he worked at Zhengzhou Nissan in roles including deputy head of the marketing-PR department, head of the market-vehicle-type department and head of the market department. He joined GWM in 2019 as pickup marketing director, led the Poer brand launch, and rose through pickup-brand marketing general manager and pickup-brand company general manager to brand CEO.<a href=\"https://finance.sina.com.cn/tech/roll/2025-05-23/doc-inexpeuk6277134.shtml\">[s19]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> GWM has not issued a formal exchange announcement of this appointment, so the exact start date of his CEO title is not disclosed; the reporting is based on media and his public titles.</p><h3>Brand ownership and governance</h3><p>Great Wall Pickup is not a separately listed company but a brand operated within Great Wall Motor, whose actual controller is Wei Jianjun. The brand does not separately disclose a board of directors; group governance is covered in the Great Wall Motor (gwm) deep research.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> A December 2019 media report identified Zhang Jiaming as then general manager of the pickup brand, a different person from Zhang Haobao, speaking at the 10,000th-Poer ceremony.<a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a></p>",
+      "zh": "<h3>创始人</h3><p>长城汽车创始人魏建军现任母公司董事长、实际控制人，长城皮卡即其自 1996 年第一辆迪尔皮卡起家打造的业务。2025 年年报将长城皮卡列为集团旗下品牌之一（与哈弗、魏牌、坦克、欧拉等并列），并认定魏建军为集团实际控制人。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 创始人及母公司更详细信息见长城汽车（gwm）深度研究。</p><h3>现任品牌 CEO</h3><p>张昊保现任长城汽车皮卡品牌 CEO、中国汽车工业协会皮卡分会理事长。2022 年 10 月 27 日中汽协皮卡分会成立，长城汽车当选首届理事长单位，时任长城汽车皮卡品牌 CEO 的张昊保任首届理事长。<a href=\"https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html\">[s9]</a> 据媒体报道，张昊保深耕皮卡行业超 20 年，加入长城汽车前曾长期供职郑州日产，历任市场公关部副部长、市场车型部部长、市场部部长等职务；2019 年加入长城汽车任皮卡营销总监，主导长城炮品牌发布，后历任皮卡品牌营销总经理、皮卡品牌公司总经理，晋升至现任皮卡品牌 CEO。<a href=\"https://finance.sina.com.cn/tech/roll/2025-05-23/doc-inexpeuk6277134.shtml\">[s19]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 长城汽车未就该任命发布交易所正式公告，其 CEO 职务的精确上任日期未披露，相关表述依据媒体报道与其公开头衔。</p><h3>品牌归属与治理</h3><p>长城皮卡并非单独上市公司，而是长城汽车旗下品牌，长城汽车实际控制人为魏建军。品牌不单独披露董事会，集团治理详见长城汽车（gwm）深度研究。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a> 2019 年 12 月的一则媒体报道称，张佳明时任长城汽车皮卡品牌总经理，在长城炮第 1 万台下线仪式上致辞；这是与张昊保不同的前任品牌负责人。<a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a></p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: competitive scope.</strong> Great Wall Pickup competes in China's pickup market and increasingly in export markets. Domestic peers include Jiangling (JMC), Zhengzhou Nissan, Foton, SAIC Maxus and Changan, and in new-energy pickups Geely's Radar; internationally it faces the incumbent leaders Ford and Toyota. This is our analytical peer selection, not a sales ranking.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> Per CAAM data quoted by media, China's pickup sales were about 548,000 in 2024 (+5.3%), a fourth consecutive year above 500,000, with exports the main growth driver.<a href=\"https://auto.anhuinews.com/rdzx/202504/t20250427_8427912.html\">[s10]</a></p><p><strong>Our judgment: strengths.</strong> The brand holds a large installed base — 28 consecutive years as China's pickup sales leader, cumulative global sales above 2.85 million units, and the top three China pickup models in 2025 — plus a complete fuel, diesel and Hi4-T hybrid line-up and a first-mover position in passenger-oriented pickups.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf\">[s2]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a><a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a> Export strength (60,699 vehicles in 2025, +20.98%) provides a second growth axis.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p><strong>Our judgment: weaknesses and uncertainty.</strong> Volume has been flat to declining: 175,057 in 2024 (-13.07%), 178,936 in 2025, and 135,826 in the first nine months of 2026 (-0.29%).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf\">[s5]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a> Third-party terminal data cited by media show domestic terminal share fell to 29.7% in the first quarter of 2026 from a long-stable near-50%, as the tool-vehicle base (Wingle) came under pressure and new-energy rivals such as Geely Radar gained share in the only growing sub-segment.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> The brand's new-energy pickups (Shanhaipo Hi4-T, Poer Hi4-T/PHEV) only began scaling in 2025-2026, later than some rivals.<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>长城皮卡参与中国皮卡市场竞争，并日益进入出口市场。国内对手包括江铃（JMC）、郑州日产、福田、上汽大通、长安，新能源皮卡领域有吉利雷达；海外则面对福特、丰田等传统皮卡巨头。这是分析所选的竞争范围，不是销量排名。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 据中汽协会数据（经媒体引用），2024 年中国皮卡销量约 54.8 万辆、同比增长 5.3%，连续四年超 50 万辆，出口为主要增量来源。<a href=\"https://auto.anhuinews.com/rdzx/202504/t20250427_8427912.html\">[s10]</a></p><p><strong>我们的判断：优势。</strong>品牌拥有庞大存量基础——连续 28 年蝉联中国皮卡销量第一、全球累计销量超 285 万辆、2025 年包揽皮卡单车销量前三，并具备燃油、柴油、Hi4-T 混动完整矩阵与乘用化皮卡先发优势。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf\">[s2]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a><a href=\"https://www.sohu.com/a/358614784_430289\">[s13]</a> 出口（2025 年 60,699 辆、同比 +20.98%）构成第二增长轴。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p><p><strong>我们的判断：短板与不确定性。</strong>销量呈持平或下滑：2024 年 175,057 辆（-13.07%）、2025 年 178,936 辆、2026 年前三季度 135,826 辆（-0.29%）。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf\">[s5]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a> 据媒体引用的第三方终端数据，2026 年一季度国内终端市占率已从长期稳定的近 50% 跌至 29.7%：工具车基本盘（风骏）承压，吉利雷达等新能源竞品在唯一增长的细分市场抢占份额。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 品牌的新能源皮卡（山海炮 Hi4-T、长城炮 Hi4-T/PHEV）自 2025-2026 年才逐步上量，晚于部分对手。<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> The brand's stated direction is to advance the new-energy and globalisation of pickups. The Shanhaipo Hi4-T was described at launch as opening the 'first year of pickup new energy', and the company said the model will next enter Thailand and Mexico, with the Shanhaipo family spanning Hi4-T, HEV, 3.0T petrol and 2.4T diesel powertrains.<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a> Per media, the Poer Hi4-T series began pre-sales at the April 2026 Beijing auto show to fill the new-energy gap.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> These are disclosed directions, not completed results.</p><p><strong>Our judgment.</strong> The near-term question is whether export growth can offset domestic share erosion. Exports rose to 60,699 vehicles in 2025 (+20.98%) and September 2026 sales grew 16.43% year on year on export strength, while domestic terminal share declined.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> Restoring volume depends on scaling the Hi4-T/PHEV pickups against Geely Radar and other new-energy entrants and on the strength of the domestic commercial market; the 0.29% nine-month decline does not yet confirm a turnaround.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> Sustained export growth (up 20.98% in 2025) is a structural advantage relative to domestic peers, but converting it into stable overseas share and profit depends on local operations and the trade environment.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>品牌披露的方向是推进皮卡新能源化与全球化。山海炮 Hi4-T 上市时被表述为开启「皮卡新能源元年」，公司称该车后续将在泰国、墨西哥上市，山海炮已构建 Hi4-T 超混、HEV、3.0T 汽油、2.4T 柴油全动力矩阵。<a href=\"https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml\">[s11]</a> 据媒体报道，长城炮 Hi4-T 系列于 2026 年 4 月北京车展开启预售以补齐新能源短板。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 以上为公司披露的方向，不是已实现的业绩。</p><p><strong>我们的判断。</strong>近期的关键问题是出口增长能否抵消国内份额的收缩。2025 年出口增至 60,699 辆（+20.98%），2026 年 9 月销量在出口拉动下同比增长 16.43%，而同期国内终端份额下滑。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 恢复销量取决于 Hi4-T/PHEV 皮卡能否在与吉利雷达等新能源入局者的竞争中上量，以及国内商用市场需求能否回暖；前三季度 0.29% 的下滑尚不足以确认拐点。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a><a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a> 出口的持续高增长（2025 年品牌出口同比增长 20.98%）是相对国内同行的结构性优势，但能否转化为稳定的海外份额与利润，取决于本地化运营与贸易环境。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Domestic share erosion.</strong> Third-party terminal data cited by media show domestic terminal share fell to 29.7% in the first quarter of 2026 from a long-stable near-50%, under weak commercial demand and new-energy competition.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></li><li><strong>Volume decline.</strong> Sales were 175,057 vehicles in 2024 (-13.07%) and 135,826 in the first nine months of 2026 (-0.29%).<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf\">[s5]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a></li><li><strong>New-energy gap.</strong> The brand's electric and hybrid pickups only began scaling in 2025-2026, later than rivals such as Geely Radar, whose pure-electric pickups have taken a large share of that sub-segment.<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></li><li><strong>Policy dependence.</strong> Pickup demand has been supported by the relaxation of urban access restrictions and by policies on scrapping and annual inspection; a reversal would weigh on the category.<a href=\"https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html\">[s9]</a></li><li><strong>Dependence on the parent.</strong> The brand does not publish separate financials, so its standalone economics cannot be assessed from public filings; its results sit within Great Wall Motor, whose 2025 attributable net profit fell 22.07% year on year.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li><li><strong>Overseas risks.</strong> The parent's 2025 annual report identifies geopolitical conflict and rising trade barriers as sources of uncertainty in overseas markets, which likewise affect pickup exports.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li></ul>",
+      "zh": "<ul><li><strong>国内份额收缩。</strong>据媒体引用的第三方终端数据，2026 年一季度国内终端市占率从长期稳定的近 50% 跌至 29.7%，主因是商用需求疲软与新能源竞争。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></li><li><strong>销量下滑。</strong>2024 年销售 175,057 辆（-13.07%），2026 年前三季度 135,826 辆（-0.29%）。<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf\">[s5]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf\">[s3]</a></li><li><strong>新能源短板。</strong>品牌的纯电、混动皮卡自 2025-2026 年才逐步上量，晚于吉利雷达等对手，后者的纯电皮卡已占据该细分市场较大份额。<a href=\"https://xch.chooseauto.com.cn/news/897338.shtml\">[s12]</a></li><li><strong>政策依赖。</strong>皮卡需求长期受益于进城限制放宽及报废、年检等政策，若政策收紧将拖累品类。<a href=\"https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html\">[s9]</a></li><li><strong>依赖母公司。</strong>品牌未单独披露财务，无法从公开文件评估其独立盈利能力；其经营成果并入长城汽车，而母公司 2025 年归母净利润同比下降 22.07%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li><li><strong>海外风险。</strong>母公司 2025 年年报将国际地缘冲突、贸易壁垒增多列为海外市场不确定性来源，同样影响皮卡出口。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf\">[s1]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "Great Wall Motor 2025 Annual Report, HKEX filing (长城汽车 2025 年年度报告·港交所)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702376_c.pdf",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "Great Wall Motor 2025 Annual Results Announcement, HKEX filing (长城汽车 2025 年年度业绩公告·港交所)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032703337_c.pdf",
+      "date": "2026-03-27",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "Great Wall Motor September 2026 production and sales brief, HKEX filing (长城汽车 2026 年 9 月产销快报·港交所)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1001/2026100100028_c.pdf",
+      "date": "2026-10-01",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "Great Wall Motor December 2025 production and sales brief, HKEX filing (长城汽车 2025 年 12 月产销快报·港交所)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0101/2026010100010_c.pdf",
+      "date": "2026-01-01",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "CCXI Great Wall Motor 2025 annual tracking report, SSE filing (中诚信国际·长城汽车 2025 年度跟踪报告·上交所)",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-05-10/601633_20250510_XIQ2.pdf",
+      "date": "2025-05-10",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "Great Wall Motor official website: development history, accessed 2026-10-29 (长城汽车官网·发展历程)",
+      "url": "https://www.gwm.com.cn/history.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "Great Wall Pickup official China website: model line-up and suggested retail prices, accessed 2026-10-29 (长城皮卡官网·车型与建议零售价)",
+      "url": "https://pickup.gwm.com.cn/",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "Great Wall Pickup official news: Jingangpo launch (长城皮卡官网新闻·金刚炮上市)",
+      "url": "https://pickup.gwm.com.cn/news/3402073.html",
+      "date": "2022-03-22",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "China Youth Daily Auto (中青汽车): CAAM Pickup Branch established, GWM elected first rotating-chairman member",
+      "url": "https://auto.cyol.com/gb/articles/2022-10/29/content_WemdzCpq8.html",
+      "date": "2022-10-29",
+      "tier": "B"
+    },
+    {
+      "id": "s10",
+      "name": "中安在线: Great Wall Poer category innovation and CAAM Pickup Branch council (2025)",
+      "url": "https://auto.anhuinews.com/rdzx/202504/t20250427_8427912.html",
+      "date": "2025-04-27",
+      "tier": "B"
+    },
+    {
+      "id": "s11",
+      "name": "CCTV Auto / Xinhua Net (央视网·新华网): Shanhaipo Hi4-T launch at RMB 228,800 (2025-06-23)",
+      "url": "https://big5.cctv.com/gate/big5/auto.cctv.cn/2025/06/24/ARTI3jmOF1um6uOeRXe8TZrs250624.shtml",
+      "date": "2025-06-24",
+      "tier": "B"
+    },
+    {
+      "id": "s12",
+      "name": "ChooseAuto (reprint of PCauto): GWM Pickup sales decline and share below 30%; Zhang Haobao profile",
+      "url": "https://xch.chooseauto.com.cn/news/897338.shtml",
+      "date": "2026-05-08",
+      "tier": "B"
+    },
+    {
+      "id": "s13",
+      "name": "Sohu Auto: Poer 10,000th vehicle off the line and 2019 launch timeline",
+      "url": "https://www.sohu.com/a/358614784_430289",
+      "date": "2019-12-05",
+      "tier": "B"
+    },
+    {
+      "id": "s14",
+      "name": "China Pickup Network (中国皮卡网): Great Wall Pickup 2024 review, Poer 130,416 units",
+      "url": "https://www.cnpickups.com/news/804112.html",
+      "date": "2025-01-02",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "Workers' Daily / China Economic Net (中工网·中国经济网): GWM 2023 full-year sales, Great Wall Pickup 202,330 units",
+      "url": "https://www.workercn.cn/c/2024-01-05/8103532.shtml",
+      "date": "2024-01-05",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "Great Wall Motor official: Chongqing Smart Factory completion and P series new pickup rollout ceremony (长城汽车·重庆智慧工厂投产及 P 系列下线)",
+      "url": "https://res.gwm.com.cn/2020/03/11/GreatWallMotorChongqingSmartFactoryCompletionandPSeriesNewPickupRolloutCeremony.pdf",
+      "date": "2019-08-30",
+      "tier": "A"
+    },
+    {
+      "id": "s17",
+      "name": "Chongqing Municipal Government (重庆市人民政府网): 2025 Smart China Expo, Yongchuan GWM base capacity",
+      "url": "https://cq.gov.cn/ywdt/zwhd/qxdt/202509/t20250905_14971307.html",
+      "date": "2025-09-05",
+      "tier": "A"
+    },
+    {
+      "id": "s18",
+      "name": "CRI Online (国际在线): Great Wall Pickup 2025 global sales 181,660; Poer 132,488 and 62 consecutive months",
+      "url": "https://auto.cri.cn/20260104/09351c85-3569-487a-ad12-45ee0afb58a6.html",
+      "date": "2026-01-04",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "Sina Finance / Operator Finance (新浪财经·运营商财经网): Zhang Haobao career profile",
+      "url": "https://finance.sina.com.cn/tech/roll/2025-05-23/doc-inexpeuk6277134.shtml",
+      "date": "2025-05-23",
+      "tier": "B"
+    },
+    {
+      "id": "s20",
+      "name": "China Machinery Industry Federation (机经网): Great Wall Motor 2025 results, pickup 178,936 units and 28th consecutive title",
+      "url": "https://cmif.org.cn/qcgy/202603/612906787678492565.html",
+      "date": "2026-03-27",
+      "tier": "B"
+    },
+    {
+      "id": "s21",
+      "name": "Jimu News (极目新闻): Great Wall Motor 1000th vehicle review; Wingle 20 years and 1.8 million cumulative sales",
+      "url": "https://www.ctdsb.net/c1669_202604/2711640.html",
+      "date": "2026-04-09",
+      "tier": "B"
+    },
+    {
+      "id": "s22",
+      "name": "China Industry News (中国工业新闻网): Great Wall Pickup overseas expansion, Shanhaipo Hi4-T Australia launch and awards",
+      "url": "https://www.cinn.cn/hz/2025/07-15/jk3w7gYk.html",
+      "date": "2025-07-15",
+      "tier": "B"
+    }
+  ]
+}

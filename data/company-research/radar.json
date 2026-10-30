@@ -1,0 +1,295 @@
+{
+  "id": "radar",
+  "name_en": "Radar (RIDDARA)",
+  "name_zh": "雷达（RIDDARA）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand established",
+      "label_zh": "品牌发布",
+      "value_en": "12 July 2022 (first pure-electric pickup brand under Geely Holding)",
+      "value_zh": "2022 年 7 月 12 日（吉利控股集团旗下首个纯电皮卡品牌）",
+      "period": null,
+      "source_ids": ["s1", "s11"]
+    },
+    {
+      "label_en": "Parent company",
+      "label_zh": "所属集团",
+      "value_en": "Geely Automobile Holdings Limited (0175.HK) since May 2026; previously under Geely Holding Group",
+      "value_zh": "2026 年 5 月起为吉利汽车控股有限公司（0175.HK）全资附属；此前属吉利控股集团",
+      "period": null,
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Operating entities established in China (Radar New Energy Vehicle (Zhejiang) Co., Ltd. and Radar Auto (Shandong) Co., Ltd. per the HKEX announcement); manufacturing base in Zichuan, Zibo, Shandong",
+      "value_zh": "运营主体于中国成立（港交所公告载明雷达新能源汽车（浙江）有限公司、雷达汽车（山东）有限公司）；生产基地在山东淄博淄川",
+      "period": null,
+      "source_ids": ["s4", "s2", "s22"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (new-energy pickup brand of a private automaker)",
+      "value_zh": "民营（民营车企旗下新能源皮卡品牌）",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Ultimate controlling person",
+      "label_zh": "最终控制人",
+      "value_en": "Li Shufu (via Geely Holding Group)",
+      "value_zh": "李书福（通过吉利控股集团）",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; parent Geely Automobile Holdings is listed on the Hong Kong Stock Exchange (0175.HK)",
+      "value_zh": "未独立上市；母公司吉利汽车控股于港交所上市（0175.HK）",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收 / 净利润",
+      "value_en": "Brand-level revenue not separately disclosed. Unaudited HKFRS after-tax results (RMB thousand) in the 15 May 2026 HKEX announcement: Radar Auto (Shandong) 2025 loss of RMB 8.646 million (2024 profit RMB 67.743 million); Radar Auto Sales 2025 profit of RMB 12.325 million; Riddara Automobile (Thailand) 2025 loss of RMB 10.697 million",
+      "value_zh": "品牌层面营收未单独披露。2026 年 5 月 15 日港交所公告按香港财务报告准则、以人民币千元列示且注明未经审核的税后业绩：雷达汽车（山东）2025 年亏损 864.6 万元（2024 年溢利 6,774.3 万元）；雷达汽车销售 2025 年溢利 1,232.5 万元；Riddara Automobile (Thailand) 2025 年亏损 1,069.7 万元",
+      "period": "2024-2025",
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Vehicle sales (FY2025)",
+      "label_zh": "2025 年销量",
+      "value_en": "About 13,040 vehicles (full-year 2025, as reported by media citing official figures)",
+      "value_zh": "约 13,040 辆（2025 年全年，媒体援引官方公布数据）",
+      "period": "2025",
+      "source_ids": ["s22"]
+    },
+    {
+      "label_en": "Thailand sales (FY2025)",
+      "label_zh": "泰国 2025 年销量",
+      "value_en": "About 1,000 vehicles (MarkLines citing Thai media)",
+      "value_zh": "约 1,000 辆（MarkLines 援引泰国媒体）",
+      "period": "2025",
+      "source_ids": ["s21"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2022-07",
+      "event_en": "Geely Holding Group officially launched the RADAR brand (Chinese name 雷达), its first pure-electric pickup brand, on 12 July; the first model, the RD6, made its debut. Ling Shiquan was introduced as Radar CEO and Yi Han as Chief Growth Officer (CGO). The same launch introduced the outdoor-lifestyle merchandise sub-brand RADAR Weekend and partnerships with camping-gear brand Naturehike and National Geographic (Chinese edition).",
+      "event_zh": "7 月 12 日，吉利控股集团正式发布 RADAR 品牌（中文名「雷达」），为其首个纯电皮卡品牌，首款车型 RD6 首次亮相；凌世权以雷达汽车 CEO、易寒以首席业务增长官（CGO）身份亮相。同场发布户外生活方式精品子品牌 RADAR Weekend，并宣布与露营装备品牌挪客（Naturehike）、《国家地理》中文版开展合作。",
+      "source_ids": ["s1", "s11"]
+    },
+    {
+      "date": "2022-08",
+      "event_en": "Radar announced its outdoor-ecosystem Duoyuan Benfu programme (多元奔赴计划) on its official site.",
+      "event_zh": "雷达官网发布户外生态「多元奔赴计划」。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "The RD6 rolled off the line at the Zibo smart factory in Shandong and opened pre-sales from RMB 180,000.",
+      "event_zh": "RD6 在山东淄博智慧工厂量产下线并开启预售，预售价 18 万元起。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2022-11",
+      "event_en": "The Radar RD6 went on official sale in Hangzhou on 9 November, in four versions (Qihang, Chuangke, Yuexiang, Yueye) priced RMB 178,800-268,800. Geely Holding Group CEO Li Donghui said at the event that the group would preserve Radar's independent brand positioning, governance and development strategy while providing full support in R&D, smart manufacturing, quality management, channel services, supply-chain coordination and talent development.",
+      "event_zh": "11 月 9 日，雷达 RD6 在杭州正式上市，共启航版、创客版、悦享版、悦野版四款车型，售价 17.88 万-26.88 万元。吉利控股集团 CEO 李东辉在发布会上表示，将保持雷达品牌定位、治理架构、发展战略的独立性，并在技术研发、智能制造、品质管理、渠道服务、供应链协同、人才培养等方面提供全方位支持。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2023",
+      "event_en": "Per RIDDARA and media reports, Radar's new-energy pickup market share in China exceeded 60% in 2023, with a single-month share peaking at 84.2%.",
+      "event_zh": "据 RIDDARA 官网与媒体报道，2023 年雷达新能源皮卡在中国的市占率超 60%，单月市占率最高达 84.2%。",
+      "source_ids": ["s6", "s17"]
+    },
+    {
+      "date": "2024-04",
+      "event_en": "Radar launched the four-wheel-drive pure-electric pickup Radar Horizon (地平线) in Beijing on 23 April, priced RMB 181,800-221,800, alongside the 2024 RD6.",
+      "event_zh": "4 月 23 日，四驱纯电超级皮卡「雷达地平线」在北京上市，售价 18.18 万-22.18 万元，并同步发布 2024 款 RD6。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2024-05",
+      "event_en": "RIDDARA's Thailand site said the brand established a subsidiary in Thailand in May 2024 as RIDDARA (Thailand) Co., Ltd.; Geely Auto's HKEX filings use the name Riddara Automobile (Thailand) Co., Ltd. (also Radar Thailand). Some media later reported that the subsidiary was established in July 2024.",
+      "event_zh": "RIDDARA 泰国官网称，品牌于 2024 年 5 月在泰国成立子公司 RIDDARA (Thailand) Co., Ltd.；吉利汽车港交所文件中的正式名称为 Riddara Automobile (Thailand) Co., Ltd.（亦称 Radar Thailand）。部分媒体另称该公司于 2024 年 7 月成立。",
+      "source_ids": ["s8", "s5", "s22"]
+    },
+    {
+      "date": "2024-10",
+      "event_en": "The RIDDARA RD6 was officially launched in Thailand on 29 October, becoming the first EV pickup sold in the Thai market, starting at THB 899,000; Thailand's Deputy Prime Minister Prasert Jantararuangtong attended.",
+      "event_zh": "10 月 29 日，RIDDARA RD6 在泰国正式上市，成为泰国市场首款在售纯电皮卡，起售价 89.9 万泰铢；泰国副总理兼数字经济与社会部长 Prasert Jantararuangtong 出席。",
+      "source_ids": ["s6", "s17"]
+    },
+    {
+      "date": "2024-12",
+      "event_en": "RIDDARA said Thailand bookings for the RD6 exceeded 1,000 units within two months of launch, including 523 at the Thailand International Motor Expo 2024.",
+      "event_zh": "RIDDARA 称 RD6 在泰国上市两个月累计订单突破 1,000 辆，其中 2024 泰国国际车展期间订单 523 辆。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2025-05",
+      "event_en": "Radar launched two plug-in-hybrid pickups, the King Kong EM-P (金刚 EM-P) and Horizon EM-P (地平线 EM-P), on 28 May in Chengdu, priced from RMB 139,800, using Geely's NordThor EM-P super-hybrid system.",
+      "event_zh": "5 月 28 日，雷达在成都上市金刚 EM-P 与地平线 EM-P 两款超级电混皮卡，13.98 万元起，搭载吉利雷神 EM-P 超级电混系统。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-01",
+      "event_en": "Media reported Radar's Thailand subsidiary cut its 2026 sales target to 3,000 units, after 2025 sales of about 1,000 units fell far short of an initial 10,000-unit annual goal.",
+      "event_zh": "据媒体报道，雷达泰国公司将 2026 年销量目标下调至 3,000 辆；此前 2025 年实际销量约 1,000 辆，远低于最初 1 万辆/年的目标。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "At the March 2026 Bangkok International Motor Show, Radar received 2,569 orders for the King Kong EV, up 283% year-on-year, according to media reports.",
+      "event_zh": "据媒体报道，在 2026 年 3 月曼谷国际车展上，雷达金刚 EV 收获 2,569 辆订单，同比增长 283%。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2026-04",
+      "event_en": "The 2026-model Radar King Kong EV (金刚 EV) was launched at the Beijing auto show on 24 April, priced from RMB 119,800 and the first pickup to carry Flyme Auto smart cockpit.",
+      "event_zh": "4 月 24 日，2026 款雷达金刚 EV 在北京车展上市，11.98 万元起，为皮卡中首发搭载 Flyme Auto 智能座舱。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2026-05-15",
+      "event_en": "Geely Automobile Holdings (0175.HK) announced the acquisition of Radar Auto (Shandong) for RMB 159 million, Radar Auto Sales for RMB 59 million, and Riddara Automobile (Thailand) for RMB 0.49 million, all from Geely Holding-related sellers, in a connected transaction.",
+      "event_zh": "吉利汽车控股（0175.HK）公告收购雷达汽车（山东）100% 股权（1.59 亿元）、雷达汽车销售 100% 股权（5,900 万元）及 Riddara Automobile (Thailand) 全部股本（49 万元），构成关连交易。",
+      "source_ids": ["s4", "s12"]
+    },
+    {
+      "date": "2026-05",
+      "event_en": "The acquisition completed in May 2026; the three entities became wholly-owned subsidiaries of Geely Auto and were consolidated as a combination under common control.",
+      "event_zh": "收购于 2026 年 5 月完成，三家公司成为吉利汽车全资附属公司，并按共同控制下的企业合并入账。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-05",
+      "event_en": "Media reported that Radar would be folded into Geely Auto's China Star (中国星) brand under its pickup business line, at an early integration stage.",
+      "event_zh": "据媒体报道，雷达品牌将并入吉利汽车旗下「中国星」品牌、隶属其皮卡业务线，当时处于整合阶段。",
+      "source_ids": ["s13"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Radar RD6",
+      "name_zh": "雷达 RD6",
+      "role_en": "First model; two-wheel-drive pure-electric pickup positioned as a native electric platform pickup for outdoor and work scenarios.",
+      "role_zh": "首款车型；两驱纯电皮卡，定位「原生纯电平台皮卡」，面向户外与作业场景。",
+      "price_band": "RMB 178,800-268,800 (2022 launch); 2024 model RMB 151,800-199,800",
+      "founded": 2022,
+      "owner_note_en": "Radar brand model under Geely; consolidated into Geely Automobile Holdings (0175.HK) since May 2026.",
+      "owner_note_zh": "雷达品牌旗下车型，属吉利；2026 年 5 月起并入吉利汽车控股（0175.HK）。",
+      "status": "active",
+      "source_ids": ["s2", "s10", "s9"]
+    },
+    {
+      "name_en": "Radar Horizon (Horizon EV)",
+      "name_zh": "雷达地平线（地平线 EV）",
+      "role_en": "Four-wheel-drive pure-electric super pickup launched April 2024, with up to 21 kW vehicle-to-load and 865 kg rated payload.",
+      "role_zh": "四驱纯电「超级皮卡」，2024 年 4 月上市，最高 21 kW 外放电、额定载重 865 kg。",
+      "price_band": "RMB 181,800-221,800 (2024 launch)",
+      "founded": 2024,
+      "owner_note_en": "Radar brand model under Geely; consolidated into Geely Automobile Holdings (0175.HK) since May 2026.",
+      "owner_note_zh": "雷达品牌旗下车型，属吉利；2026 年 5 月起并入吉利汽车控股（0175.HK）。",
+      "status": "active",
+      "source_ids": ["s9"]
+    },
+    {
+      "name_en": "Radar King Kong (King Kong EV / King Kong EM-P)",
+      "name_zh": "雷达金刚（金刚 EV / 金刚 EM-P）",
+      "role_en": "Commercial and dual-use pickup line; the King Kong EM-P plug-in hybrid launched May 2025 and the refreshed 2026 King Kong EV launched April 2026.",
+      "role_zh": "商用及家商两用皮卡产品线；金刚 EM-P 插混于 2025 年 5 月上市，2026 款金刚 EV 于 2026 年 4 月焕新上市。",
+      "price_band": "EM-P from RMB 139,800 (2025); 2026 King Kong EV from RMB 119,800",
+      "founded": 2025,
+      "owner_note_en": "Radar brand model under Geely; consolidated into Geely Automobile Holdings (0175.HK) since May 2026.",
+      "owner_note_zh": "雷达品牌旗下车型，属吉利；2026 年 5 月起并入吉利汽车控股（0175.HK）。",
+      "status": "active",
+      "source_ids": ["s15", "s18"]
+    },
+    {
+      "name_en": "RADAR Weekend",
+      "name_zh": "RADAR Weekend",
+      "role_en": "Outdoor-lifestyle merchandise sub-brand launched together with the Radar brand in July 2022.",
+      "role_zh": "户外生活方式精品子品牌，2022 年 7 月随雷达品牌一同发布。",
+      "price_band": "N/A (lifestyle/merchandise sub-brand, not a vehicle line)",
+      "founded": 2022,
+      "owner_note_en": "Sub-brand of Radar (Geely); not a vehicle line.",
+      "owner_note_zh": "雷达（吉利）旗下子品牌，非车型产品线。",
+      "status": "active",
+      "source_ids": ["s1", "s3"]
+    }
+  ],
+  "financials": {
+    "currency": "N/A",
+    "unit": "N/A",
+    "standard": "Not separately disclosed (Radar is a new-energy pickup brand; its operating entities were consolidated into Geely Automobile Holdings (0175.HK) in May 2026)",
+    "rows": [],
+    "note_en": "Radar is a new-energy pickup brand launched by Geely Holding in 2022 and does not publish standalone financial statements for the brand (revenue, gross margin, net profit, R&D, cash flow), so no brand-level figures are listed and financials.rows is empty. Its operating entities (Radar Auto (Shandong), Radar Auto Sales, and Riddara Automobile (Thailand)) were acquired by Geely Automobile Holdings Limited (0175.HK) in May 2026 and consolidated under the merger-accounting method for business combinations under common control, so the brand's financials are reflected only in the parent's consolidated statements and are not shown separately. The 15 May 2026 acquisition announcement disclosed the target companies' results in RMB thousand, prepared under Hong Kong Financial Reporting Standards and stated as unaudited: for 2025, Radar Auto (Shandong) posted an after-tax loss of RMB 8.646 million after a 2024 after-tax profit of RMB 67.743 million; Radar Auto Sales posted a 2025 after-tax profit of RMB 12.325 million; and Riddara Automobile (Thailand) widened to a 2025 after-tax loss of RMB 10.697 million. For reference, Geely Automobile Holdings reports under IFRS and its net profit is profit attributable to equity holders of the company (i.e. attributable to the parent); Geely Automobile Holdings' own multi-year financial table is in the Geely (geely) deep research. This page does not constitute any trading recommendation.",
+    "note_zh": "雷达为吉利控股集团 2022 年推出的新能源皮卡品牌，品牌本身未单独披露财务数据（营收、毛利率、净利润、研发投入、现金流等），故本表 financials.rows 为空数组，不列财务数字。其运营主体（雷达汽车（山东）、雷达汽车销售、Riddara Automobile (Thailand) 等）于 2026 年 5 月被吉利汽车控股有限公司（0175.HK）收购，并按共同控制下企业合并的合并会计方法入账，品牌财务仅体现于母公司合并报表中，不再单独列示。2026 年 5 月 15 日收购公告以人民币千元列示标的公司经营业绩，按香港财务报告准则编制并注明未经审核：2025 年雷达汽车（山东）税后亏损 864.6 万元（2024 年税后溢利 6,774.3 万元）、雷达汽车销售税后利润 1,232.5 万元、Riddara Automobile (Thailand) 税后亏损扩大至 1,069.7 万元。供参考：母公司吉利汽车控股按国际财务报告准则（IFRS）编制报表，其净利润为「归属于本公司股权持有人」（即归属于母公司股东）的溢利；吉利汽车控股自身的多年财务表见吉利控股集团（geely）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Radar (RADAR; sold overseas as RIDDARA) is a new-energy pickup brand launched by Geely Holding Group on 12 July 2022, and Geely's first pure-electric pickup brand, positioned in mid-to-high-end new-energy pickups and outdoor-lifestyle use.<a href=\"https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/\">[s1]</a><a href=\"https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm\">[s11]</a> Its first model is the RD6, a pure-electric pickup built on Geely's SEA architecture and the brand's native new-energy pickup platform, M.A.P Radar Hanhai.<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a> The brand was born as local pickup road-access restrictions were progressively lifted, pickups shifted toward passenger-oriented and premium positioning, and EV penetration rose, making the electric pickup a new market opportunity.<a href=\"https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm\">[s11]</a></p><p>The 15 May 2026 HKEX announcement states that Zhejiang Radar Automobile (Radar New Energy Vehicle (Zhejiang) Co., Ltd.) was ultimately wholly owned by Li Shufu and his associates, while Radar HK Limited and Radar Auto Limited (Radar BVI) were each indirectly 85%-owned by Li Shufu and his associates; the Thai distributor was held 99% by Radar HK and 1% by Radar BVI.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a> In May 2026, Geely Automobile Holdings Limited (0175.HK) announced the acquisition of Radar Auto (Shandong), Radar Auto Sales and Riddara Automobile (Thailand) for about RMB 218 million in total, after which the entities became wholly-owned subsidiaries of Geely Auto and the brand entered the listed company.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.cnfin.com/yw-lb/detail/20260515/4413288_1.html\">[s12]</a></p><p>Media citing official figures reported that Radar sold about 13,040 vehicles in full-year 2025.<a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a></p>",
+      "zh": "<p>雷达（RADAR，海外以 RIDDARA 品牌销售）是吉利控股集团于 2022 年 7 月 12 日推出的新能源皮卡品牌，也是吉利旗下首个纯电皮卡品牌，定位中高端新能源皮卡与户外生活方式。<a href=\"https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/\">[s1]</a><a href=\"https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm\">[s11]</a> 首款车型为基于吉利 SEA 浩瀚架构与品牌原生新能源皮卡平台 M.A.P 雷达瀚海平台打造的纯电皮卡 RD6。<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a> 品牌诞生背景是 2022 年前后国内皮卡进城限制持续松绑、皮卡向乘用化与高端化转型，以及新能源渗透率提升，电动皮卡被视为新的市场机会。<a href=\"https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm\">[s11]</a></p><p>2026 年 5 月 15 日港交所公告载明：浙江雷达汽车（全称雷达新能源汽车（浙江）有限公司）由李书福及其联系人最终全资拥有；Radar HK Limited 与 Radar Auto Limited（Radar BVI）各由李书福及其联系人间接拥有 85% 权益；泰国分销主体由这两家分别持有 99% 和 1%。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a> 2026 年 5 月，吉利汽车控股有限公司（0175.HK）公告以合计约 2.18 亿元收购雷达汽车（山东）、雷达汽车销售及泰国子公司 Riddara Automobile (Thailand)，交易完成后上述实体成为吉利汽车全资附属公司，品牌随之进入上市公司。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.cnfin.com/yw-lb/detail/20260515/4413288_1.html\">[s12]</a></p><p>媒体援引官方公布数据称，雷达 2025 年全年销量约 13,040 辆。<a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and product line-up</h3><p>Radar focuses on a single new-energy pickup business and runs a dual pure-electric and plug-in-hybrid technology path, which the company describes as covering high-frequency urban use with pure-electric models and cross-city, cold-climate and under-served charging regions with hybrids.<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a> The pure-electric line includes the two-wheel-drive RD6 (launched 2022), the four-wheel-drive pure-electric Horizon (地平线, launched April 2024) and the commercial-oriented King Kong EV (金刚 EV); the plug-in-hybrid line comprises the King Kong EM-P and Horizon EM-P launched in May 2025.<a href=\"https://auto.ce.cn/auto/gundong/202211/10/t20221110_38221011.shtml\">[s10]</a><a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a><a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a> The company claims Radar is the only new-energy pickup brand in China running both pure-electric and plug-in-hybrid paths, and positions the brand as a mobile multi-functional electrified space that builds an outdoor ecosystem across user, industry, IoT, energy, outdoor and service ecosystems.<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a><a href=\"https://www.radar-ev.com/news-detail?essayId=WZ111202103459872&subjectId=1\">[s3]</a></p><p>After the May 2026 acquisition the three operating entities became wholly-owned subsidiaries of Geely Automobile Holdings (0175.HK); the acquisition announcement disclosed the targets' results, with the core entity Radar Auto (Shandong) turning from a 2024 after-tax profit of RMB 67.743 million to a 2025 after-tax loss of RMB 8.646 million, Radar Auto Sales posting a 2025 after-tax profit of RMB 12.325 million, and Riddara Automobile (Thailand) widening to a 2025 after-tax loss of RMB 10.697 million.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a></p><h3>Technology and platform</h3><p>The brand draws on Geely's SEA architecture and its own native new-energy pickup platform M.A.P Radar Hanhai, which the company says supports pure-electric, plug-in-hybrid and range-extender powertrains.<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> The hybrid pickups use Geely's NordThor EM-P super-hybrid system (a 3DHT layout with a 1.5T engine and dual motors, 260 kW combined and 914 N·m peak torque), with a CLTC combined range above 1,000 km.<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a> The 2026 King Kong EV is the first pickup to carry the Flyme Auto smart cockpit, with a 14.6-inch screen and L2 driving assistance.<a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a></p><h3>Model specifications</h3><p>The RD6 has a company-stated 0-100 km/h time in the 6-second range and pure-electric range above 600 km, with a large storage space and high-power vehicle-to-load.<a href=\"https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm\">[s11]</a> The four-wheel-drive Horizon uses a dual-motor drive of 315 kW and 594 N·m, with 0-100 km/h in 4.5 seconds, a top speed of 190 km/h, 815 mm wading depth, a 3.5-metre turning radius, 865 kg rated payload, 3,000 kg towing and up to 21 kW vehicle-to-load.<a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a> The 2026 King Kong EV carries a 280 kW / 485 N·m e-drive, over 1,300 kg design load, 910 kg rated payload, a 1,765 mm / 1,400 L cargo box and 55% full-load gradeability.<a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a> The King Kong EM-P and Horizon EM-P hybrids deliver 260 kW and 914 N·m combined, 0-100 km/h in 6.3 seconds unladen and over 1,000 km CLTC combined range; the King Kong EM-P 4WD standard-box version is priced RMB 139,800 (long box plus RMB 2,000), the Horizon EM-P all-round 4WD long box RMB 149,800 and the smart 4WD long box RMB 159,800, while the 2026 King Kong EV is split into Zhaocai King Kong 2WD and Dali King Kong 4WD series priced RMB 119,800-159,800.<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a><a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a></p><h3>Factory and capacity</h3><p>Production is at the Radar smart factory in Zichuan district, Zibo, Shandong, which the company describes as China's first native new-energy pickup plant and its global core production base; the RD6 began rolling off this line in September 2022 (media covering the 2026 acquisition also locate the plant in Zichuan, Zibo).<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a><a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a> The company says the line uses intelligent production systems, with robots able to auto-identify and auto-assemble different models with 100% recognition, a 97% CNC rate for key equipment, over 90% overall equipment efficiency and 100% data collection across the production process.<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a></p><h3>Market environment</h3><p>Pickups remain a large, mostly fuel-powered segment in Thailand.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a> In Thailand, pickups have long accounted for over 40% of vehicle sales as the country's top-selling segment, but mostly fuel-powered.<a href=\"https://auto.cri.cn/20241105/ea267e55-787e-176c-2499-2ffe2ae78e84.html\">[s17]</a></p><h3>Domestic position and sales</h3><p>Per CPCA Pickup Branch data compiled by media, Radar wholesaled 8,052 pickups in 2024 (+20%, ranked 10th among pickup makers). Media citing official figures reported full-year 2025 sales of about 13,040 vehicles.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a><a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a><a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a> Media citing official figures also reported about 13,040 vehicles in 2025.<a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a></p><h3>Overseas business</h3><p>Overseas, Radar operates under the RIDDARA name. RIDDARA's Thailand site said it set up a subsidiary in Thailand in May 2024; some media later reported a July 2024 date. The RIDDARA RD6 launched there on 29 October 2024.<a href=\"https://thailand.riddara.com/en/newsroom/20240703\">[s8]</a><a href=\"https://www.riddara.com/newsroom/20241104\">[s6]</a><a href=\"https://auto.cri.cn/20241105/ea267e55-787e-176c-2499-2ffe2ae78e84.html\">[s17]</a> RIDDARA says it has already launched electric pickups in Eastern Europe, the Middle East, Central Asia, Central America and South America.<a href=\"https://www.riddara.com/newsroom/20241104\">[s6]</a> MarkLines, citing Thai media, reported Radar's 2025 Thailand sales at about 1,000 units and a 2026 target of 3,000 units. Media reported 2,569 orders for the King Kong EV at the March 2026 Bangkok International Motor Show, up 283% year on year.<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a><a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a> The RIDDARA RD6 in Thailand is offered in 2WD and 4WD versions from THB 899,000, with a 6-year or 150,000 km vehicle warranty and an 8-year or 200,000 km motor-and-battery warranty.<a href=\"https://thailand.riddara.com/en/newsroom/20241213\">[s7]</a></p>",
+      "zh": "<h3>业务结构与产品矩阵</h3><p>雷达聚焦单一的新能源皮卡业务，坚持「纯电 + 插混」双技术路线；官方称纯电面向城市高频出行、插混面向跨城长途、北方高寒及补能设施不完善地区。<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a> 纯电产品线包括两驱纯电皮卡 RD6（2022 年上市）、四驱纯电超级皮卡地平线（2024 年 4 月上市）及面向商用场景的金刚 EV；插混产品线为 2025 年 5 月上市的金刚 EM-P 与地平线 EM-P。<a href=\"https://auto.ce.cn/auto/gundong/202211/10/t20221110_38221011.shtml\">[s10]</a><a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a><a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a> 官方称雷达是中国唯一同时布局纯电与电混双技术路线的新能源皮卡品牌，品牌定位为「移动多元带电空间」，并致力于从用户生态、产业生态、物联生态、能源生态、户外生态、服务生态六大领域构建户外生态圈。<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a><a href=\"https://www.radar-ev.com/news-detail?essayId=WZ111202103459872&subjectId=1\">[s3]</a></p><p>2026 年 5 月收购完成后，三家运营主体成为吉利汽车控股（0175.HK）的全资附属公司；收购公告披露了标的公司经营情况：核心运营主体雷达汽车（山东）由 2024 年税后溢利 6,774.3 万元转为 2025 年税后亏损 864.6 万元，雷达汽车销售 2025 年税后利润 1,232.5 万元，Riddara Automobile (Thailand) 2025 年税后亏损扩大至 1,069.7 万元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a></p><h3>技术与平台</h3><p>品牌依托吉利的 SEA 浩瀚架构与自研原生新能源皮卡平台 M.A.P 雷达瀚海平台，官方称该平台支持纯电、插电及增程等多种动力形式。<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> 插混车型搭载吉利雷神 EM-P 超级电混系统（3DHT 构型、1.5T 发动机加双电机，综合最大功率 260 kW、峰值扭矩 914 N·m），CLTC 综合续航超 1,000 km。<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a> 2026 款金刚 EV 为皮卡中首搭 Flyme Auto 智能座舱，配 14.6 英寸屏与 L2 级驾驶辅助。<a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a></p><h3>车型谱系与关键参数</h3><p>RD6 是品牌首款车型，官方称其百公里加速 6 秒级、纯电续航超 600 公里，具备大储物空间与大功率全场景放电功能。<a href=\"https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm\">[s11]</a> 四驱纯电地平线搭载双电驱系统，最大功率 315 kW、峰值扭矩 594 N·m，零百加速 4.5 秒，最高车速 190 km/h，最大涉水深度 815 mm，最小转弯半径 3.5 米，最大额定载重 865 kg、拖拽能力 3,000 kg，外放电功率最高 21 kW。<a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a> 2026 款金刚 EV 搭载最大功率 280 kW、峰值扭矩 485 N·m 的电驱系统，设计承载能力超 1,300 kg、额定载重 910 kg，货箱长 1,765 mm、容积 1,400 L，满载爬坡度达 55%。<a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a> 插混的金刚 EM-P 与地平线 EM-P 综合最大功率 260 kW、峰值扭矩 914 N·m，空载零百加速 6.3 秒，CLTC 综合续航超 1,000 km；其中金刚 EM-P 千里金刚四驱标箱售价 13.98 万元（长箱加 2,000 元），地平线 EM-P 全能版四驱长箱 14.98 万元、智能版四驱长箱 15.98 万元，2026 款金刚 EV 分「招财金刚」两驱与「大力金刚」四驱两大系列、售价区间 11.98 万-15.98 万元。<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a><a href=\"https://tech.ifeng.com/c/8saIoHEoyfe\">[s18]</a></p><h3>工厂与产能</h3><p>生产基地位于山东省淄博市淄川区的雷达智慧工厂，官方称其为国内首个原生新能源皮卡专业工厂、也是雷达全球核心生产基地；RD6 于 2022 年 9 月起在该厂下线。<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a><a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a> 据官方介绍，该厂生产线采用智能生产信息化系统，机器人可 100% 自动识别不同车型并自动装配，关键装备数控化率 97%，设备综合利用率大于 90%，全生产工艺流程数据采集率 100%。<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a></p><h3>市场环境</h3><p>皮卡在泰国仍是以燃油车为主的大盘车型。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a> 泰国方面，皮卡长期占据该国汽车市场 40% 以上份额，是当地第一大热销车型，但以燃油车为主。<a href=\"https://auto.cri.cn/20241105/ea267e55-787e-176c-2499-2ffe2ae78e84.html\">[s17]</a></p><h3>国内市场地位与销量</h3><p>据媒体整理的乘联分会口径数据，雷达 2024 年批发销售皮卡 8,052 辆（同比 +20%，皮卡厂商中排名第 10）。媒体援引官方公布数据称，2025 年全年销量约 13,040 辆。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a><a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a><a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a> 媒体援引官方公布数据亦称 2025 年全年约 13,040 辆。<a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a></p><h3>海外业务</h3><p>海外以 RIDDARA 品牌运营。RIDDARA 泰国官网称 2024 年 5 月在泰国设立子公司，部分媒体另称成立于 2024 年 7 月；2024 年 10 月 29 日 RIDDARA RD6 在泰国正式上市。<a href=\"https://thailand.riddara.com/en/newsroom/20240703\">[s8]</a><a href=\"https://www.riddara.com/newsroom/20241104\">[s6]</a><a href=\"https://auto.cri.cn/20241105/ea267e55-787e-176c-2499-2ffe2ae78e84.html\">[s17]</a> RIDDARA 官网称，雷达已在东欧、中东、中亚、中美洲和南美洲市场推出电动皮卡。<a href=\"https://www.riddara.com/newsroom/20241104\">[s6]</a> 据 MarkLines 援引泰国当地媒体，雷达 2025 年在泰国销量约 1,000 辆，2026 年目标为 3,000 辆。媒体报道，2026 年 3 月曼谷国际车展雷达金刚 EV 获得 2,569 辆订单，同比增长 283%。<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a><a href=\"https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml\">[s22]</a> RIDDARA RD6 在泰国提供两驱与四驱版本，起售价 89.9 万泰铢，提供 6 年或 15 万公里整车质保、8 年或 20 万公里电机电池质保。<a href=\"https://thailand.riddara.com/en/newsroom/20241213\">[s7]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Brand ownership and governance</h3><p>Radar is not a separately listed company. The 15 May 2026 HKEX announcement states that Zhejiang Radar Automobile was ultimately wholly owned by Li Shufu and his associates, while Radar HK and Radar BVI were each indirectly 85%-owned by Li Shufu and his associates; since May 2026 the operating entities have been wholly-owned subsidiaries of Geely Automobile Holdings (0175.HK).<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf\">[s5]</a> The HKEX announcement states that the seller Zhejiang Radar Automobile was ultimately wholly owned by Li Shufu and his associates, while the sellers of the Thai entity, Radar HK and Radar BVI, were each indirectly 85%-owned by Li Shufu and his associates; all of them were connected persons of Geely Auto, so the acquisition was an exempted connected transaction.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a></p><h3>Brand CEO Ling Shiquan</h3><p>Ling Shiquan was introduced as Radar CEO at the July 2022 launch. A March 2026 media profile still described him in that role, overseeing strategy and operations; later A-tier filings after the May 2026 acquisition do not restate the brand CEO title.<a href=\"https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/\">[s1]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> He holds the title of professor-level senior engineer and graduated with a master's degree in vehicle engineering from Harbin Institute of Technology in July 1997; the same profile said he was already disclosed as vice president of Geely Auto Group by 2018 and had served as CEO of Shandong Geely New Energy Commercial Vehicle.<a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> The same profile said he had been responsible for the engineering of new and facelifted products across the Honda, Geely, Zeekr, Lynk &amp; Co, Lotus, Volvo, Polestar, Smart and Radar brands.<a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> Company materials also refer to him as Dr. Ling Shiquan.<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a><a href=\"https://www.riddara.com/newsroom/20241104\">[s6]</a></p><h3>Other early executives</h3><p>At the 2022 launch, Yi Han was introduced as Chief Growth Officer (CGO) and Chen Aiguo as manufacturing general manager.<a href=\"https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/\">[s1]</a><a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a></p><h3>Reporting line after integration</h3><p>A March 2026 media profile, written before the May 2026 acquisition, said Radar had been integrated into Geely Auto Group under CEO Gan Jiayue. Later A-tier filings do not restate that reporting line.<a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> All of the above are public positions and business histories.</p>",
+      "zh": "<h3>品牌归属与治理</h3><p>雷达并非独立上市公司。港交所公告载明浙江雷达汽车由李书福及其联系人最终全资拥有，Radar HK 及 Radar BVI 各由李书福及其联系人间接拥有 85% 权益；2026 年 5 月起运营主体成为吉利汽车控股（0175.HK）的全资附属公司。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf\">[s5]</a> 港交所公告载明，卖方浙江雷达汽车由李书福及其联系人最终全资拥有，而泰国实体的卖方 Radar HK 及 Radar BVI 各由李书福及其联系人间接拥有 85% 权益；上述卖方均为吉利汽车的关连人士，故该交易构成获豁免关连交易。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a></p><h3>品牌 CEO 凌世权</h3><p>凌世权在 2022 年 7 月品牌发布会上以雷达汽车 CEO 身份亮相。2026 年 3 月的媒体人物稿仍如此称呼并称其负责品牌战略与运营；2026 年 5 月收购完成后的 A 级公告未再重述该职务。<a href=\"https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/\">[s1]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> 他拥有教授级高级工程师职称，1997 年 7 月硕士毕业于哈尔滨工业大学车辆工程专业；同一人物稿称，2018 年对外披露的职务已是吉利汽车集团副总裁，并曾任山东吉利新能源商用车有限公司 CEO。<a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> 同一人物稿还称，他曾负责本田、吉利、极氪、领克、路特斯、沃尔沃、极星、Smart、雷达等品牌全新开发及改款产品的工程技术工作。<a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> 公司官方材料亦称其为「凌世权博士」。<a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a><a href=\"https://www.riddara.com/newsroom/20241104\">[s6]</a></p><h3>其他早期管理层</h3><p>2022 年品牌发布时，易寒担任首席业务增长官（CGO），陈爱国担任制造总经理。<a href=\"https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/\">[s1]</a><a href=\"https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1\">[s2]</a></p><h3>整合后的汇报关系</h3><p>2026 年 3 月、早于 5 月收购的一篇媒体人物稿称，雷达汽车已整合进吉利汽车集团、由集团 CEO 淦家阅领导。此后 A 级公告未再重述该汇报关系。<a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a> 以上均为公开职务与商业履历。</p>"
+    },
+    "competition": {
+      "en": "<p>Radar's competitors fall into two groups: established fuel-pickup makers that still dominate in absolute volume, and new-energy pickup entrants including BYD. Per media compiled from CPCA data, Great Wall sold 177,100 pickups in 2024, with JAC, JMC, Changan, SAIC Maxus, Zhengzhou Nissan and Foton also in the top 10; Radar ranked 10th among pickup makers in 2024.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a> Media covering the 2026 acquisition noted that Great Wall, Changan and BYD have also entered the new-energy pickup segment, according to coverage of the May 2026 acquisition.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a></p><p>In Thailand, Radar faces entrenched Japanese pickups - the Toyota Hilux, Isuzu D-Max and Mitsubishi Triton dominate - while Chinese brands sit in a third tier; MarkLines reported, citing Thai media, that Radar sold about 1,000 units in Thailand in 2025, far below its initial 10,000-unit annual goal.<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a></p><p>Our assessment: Radar's strengths are Geely's technology platforms (SEA architecture, NordThor EM-P hybrid) and supply-chain synergies, the payload and vehicle-to-load capability of its native electric-pickup platform, and the brand recognition built from entering the new-energy pickup segment early.<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a><a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a> Its weaknesses are the small absolute scale (about 13,040 vehicles in 2025 and 8,052 in 2024), a young brand with a thinner sales and after-sales network than incumbent pickup makers, and an overseas business still at an early stage.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a><a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a></p>",
+      "zh": "<p>雷达的竞争对手分两类：一是在绝对销量上仍占主导的传统燃油皮卡厂商，二是包括比亚迪在内的新能源皮卡新进入者。据媒体整理的乘联分会口径，长城 2024 年皮卡销量 17.71 万辆，江淮、江铃、长安、上汽大通、郑州日产、福田亦进入前十，雷达 2024 年在皮卡厂商中排名第 10。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a> 媒体在报道 2026 年收购时亦提到，长城、长安、比亚迪等企业均已布局新能源皮卡赛道（见收购报道）。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a></p><p>在泰国，雷达面对根深蒂固的日系皮卡——丰田 Hilux、五十铃 D-Max、三菱 Triton 主导市场，中国品牌处于第三梯队；据 MarkLines 援引泰国当地媒体，雷达 2025 年在泰国销量约 1,000 辆，远低于最初 1 万辆/年的目标。<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a></p><p>我们的判断：雷达的优势在于吉利集团的技术平台（SEA 浩瀚架构、雷神 EM-P 电混）与供应链协同、原生纯电皮卡平台带来的承载与外放电能力，以及较早切入新能源皮卡赛道形成的品牌认知。<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a><a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a> 短板在于绝对销量规模仍小（2025 年约 13,040 辆、2024 年 8,052 辆），品牌年轻、销售与售后网络不及传统皮卡厂商，海外业务尚处起步阶段。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a><a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a></p>"
+    },
+    "outlook": {
+      "en": "<h3>Company-stated goals and plans</h3><p>On overseas expansion, MarkLines reported, citing Thai media, that Radar's Thailand subsidiary set a 2026 sales target of 3,000 units, after an initial goal of 10,000 units a year when it entered Thailand in late 2024.<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a> At the Horizon launch in April 2024, the company said it would accelerate overseas expansion to Asia-Pacific, Central Asia, Southeast Asia, the Middle East, Africa, Australia-New Zealand and Central/South America.<a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a></p><h3>Integration into Geely Auto</h3><p>Per Geely Auto's May 2026 announcement, the acquisition brings a new-energy pickup brand into its business and expands its product portfolio, and the directors expect integration to strengthen the group's position in the pickup segment and support export growth through the group's international distribution channels; the parties also entered a comprehensive-services procurement agreement with annual caps of about RMB 396.1 million, RMB 451.6 million and RMB 498.6 million for the three fiscal years to end-2028.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.cnfin.com/yw-lb/detail/20260515/4413288_1.html\">[s12]</a> Media reported that Radar would be folded into Geely Auto's China Star (中国星) brand under its pickup business line.<a href=\"https://www.mrjjxw.com/articles/2026-05-18/4396873.html\">[s13]</a></p><h3>Our analysis</h3><p>Our assessment: after consolidation into the listed Geely Auto, Radar should gain distribution, supply-chain and overseas synergies, but its room for independent development may narrow. New-energy pickups remain a small niche in China relative to the overall pickup market, and with BYD and others stepping up, Radar's scaling depends on product cadence, pickup road-access policy and the pace of overseas market entry. Media covering the acquisition cited CAAM figures that China pickup exports exceeded 300,000 units in 2025, with new-energy pickups seen as a new growth direction.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a></p>",
+      "zh": "<h3>公司公开的目标与规划</h3><p>海外方面，据 MarkLines 援引泰国当地媒体报道，雷达泰国公司将 2026 年销量目标定为 3,000 辆，而 2024 年下半年进入泰国时的初始目标为年销 1 万辆。<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a> 在 2024 年 4 月地平线上市时，公司表示将加速向亚太、中亚、东南亚、中东、非洲、澳新、中南美等市场拓展。<a href=\"https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html\">[s9]</a></p><h3>并入吉利汽车</h3><p>据吉利汽车 2026 年 5 月公告，收购将把新能源皮卡品牌纳入业务、扩充产品组合，董事预期整合可巩固集团在皮卡细分市场的地位，并借助集团国际分销渠道促进出口增长；双方并订立综合服务采购协议，截至 2028 年 12 月 31 日止三个财政年度的年度上限分别约 3.961 亿元、4.516 亿元、4.986 亿元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.cnfin.com/yw-lb/detail/20260515/4413288_1.html\">[s12]</a> 媒体报道，雷达品牌将并入吉利汽车旗下「中国星」品牌、隶属其皮卡业务线。<a href=\"https://www.mrjjxw.com/articles/2026-05-18/4396873.html\">[s13]</a></p><h3>我们的分析</h3><p>我们的判断：并入吉利汽车上市公司后，雷达有望获得渠道、供应链与海外分销的协同支持，但品牌独立发展空间可能收窄。新能源皮卡在国内仍是相对整体皮卡市场的小众细分，叠加比亚迪等对手加码，雷达的规模扩张仍取决于产品投放节奏、皮卡路权政策与海外市场落地速度。媒体在报道此次收购时援引中汽协数据称，2025 年中国皮卡出口突破 30 万辆，新能源皮卡被视为行业新增长方向。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a></p>"
+    },
+    "risks": {
+      "en": "<p>Integration-period operating volatility: the acquisition announcement showed that in 2025 the core entity Radar Auto (Shandong) swung to an after-tax loss of RMB 8.646 million and Riddara Automobile (Thailand) widened to an after-tax loss of RMB 10.697 million, so the brand remains in an investment phase, and the pace of reaching profitability after consolidation is uncertain.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a></p><p>Market size and competition: China's new-energy pickup segment remains small in absolute terms, and Radar faces pressure from both new-energy entrants such as BYD and incumbent fuel-pickup makers; its low sales base, including 8,052 wholesale units in 2024, limits resilience to volatility.<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a></p><p>Overseas markets: Southeast Asian pickup markets are long dominated by Japanese models such as the Toyota Hilux and Isuzu D-Max, with Chinese brands in a third tier; Radar's Thailand subsidiary acknowledged it had overestimated local EV-pickup demand.<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a></p><p>Dependence on the group: Radar's platform, technology, supply chain and channels rely heavily on the Geely group; after integration into the listed company, its independence and priority for resource allocation face uncertainty.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a></p><p>Policy and technology path: pickup road-access deregulation is an important precondition for new-energy pickup demand; a slower policy pace would weigh on growth, and the dual pure-electric/plug-in-hybrid path adds R&amp;D and channel investment pressure.<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a></p><p>Financial transparency: the brand does not publish standalone financials, so its profitability and per-vehicle economics cannot be assessed independently, and external observers can only see it through the parent's consolidated figures.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf\">[s5]</a></p>",
+      "zh": "<p>整合初期的经营波动：收购公告披露的标的公司数据显示，2025 年核心运营主体雷达汽车（山东）由盈转亏（税后亏损 864.6 万元）、Riddara Automobile (Thailand) 税后亏损扩大至 1,069.7 万元，品牌整体仍处投入期，并入上市公司后扭亏与降本增效的节奏存在不确定性。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a></p><p>市场规模与竞争：中国新能源皮卡细分市场绝对规模仍小，且面临比亚迪等新能源车企与传统燃油皮卡厂商的双重挤压，雷达销量基数低（2024 年批发 8,052 辆），抗波动能力有限。<a href=\"https://big5.askci.com/news/20250120/135735273735265557130432.shtml\">[s19]</a></p><p>海外市场：东南亚皮卡市场长期由丰田 Hilux、五十铃 D-Max 等日系车型主导，中国品牌处于第三梯队；雷达泰国公司承认此前高估了当地电动皮卡需求。<a href=\"https://www.marklines.com/cn/news/339177\">[s21]</a></p><p>依赖集团资源：雷达的平台、技术、供应链与渠道高度依赖吉利集团，并入上市公司后，其独立性与资源配置优先级存在不确定性。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml\">[s16]</a></p><p>政策与技术路线：皮卡进城路权政策的松绑是新能源皮卡需求的重要前提，政策节奏放缓将影响增长；纯电与插混双路线也带来研发与渠道投入压力。<a href=\"https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39\">[s15]</a></p><p>财务透明度：品牌未单独披露财务数据，其盈利状况与单车成本难以独立评估，外部只能通过母公司合并口径观察。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf\">[s4]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf\">[s5]</a></p>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "Geely Holding Group Media Center - RADAR brand launched", "url": "https://zgh.com/media-center/news/radar%E9%9B%B7%E8%BE%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BA%AF%E7%94%B5%E7%9A%AE%E5%8D%A1%E6%B5%A9%E7%80%9A%E5%87%BA%E5%8F%91/", "date": "2022-07-18", "tier": "A" },
+    { "id": "s2", "name": "Radar Auto official site - RD6 mass production and pre-sale", "url": "https://www.radar-ev.com/news-detail?essayId=WZ115371252121632&subjectId=1", "date": "2022-09-29", "tier": "A" },
+    { "id": "s3", "name": "Radar Auto official site - Duoyuan Benfu programme", "url": "https://www.radar-ev.com/news-detail?essayId=WZ111202103459872&subjectId=1", "date": "2022-08-11", "tier": "A" },
+    { "id": "s4", "name": "HKEX - Geely Automobile connected transaction and continuing connected transaction announcement", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0515/2026051500440_c.pdf", "date": "2026-05-15", "tier": "A" },
+    { "id": "s5", "name": "HKEX - Geely Automobile interim results for the six months ended 30 June 2026", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf", "date": "2026-08-17", "tier": "A" },
+    { "id": "s6", "name": "RIDDARA official site - RIDDARA RD6 launch in Thailand", "url": "https://www.riddara.com/newsroom/20241104", "date": "2024-11-04", "tier": "A" },
+    { "id": "s7", "name": "RIDDARA Thailand - RD6 exceeded 1,000 bookings within two months", "url": "https://thailand.riddara.com/en/newsroom/20241213", "date": "2024-12-13", "tier": "A" },
+    { "id": "s8", "name": "RIDDARA Thailand - Hello Thailand (subsidiary established)", "url": "https://thailand.riddara.com/en/newsroom/20240703", "date": "2024-07-03", "tier": "A" },
+    { "id": "s9", "name": "Xinhuanet - Radar Horizon launch (RMB 181,800 from)", "url": "https://www.xinhuanet.com/auto/20240424/b180ba31995b485986521ae7c689b2ef/c.html", "date": "2024-04-24", "tier": "B" },
+    { "id": "s10", "name": "China Economic Net - RD6 launch (RMB 178,800 from)", "url": "https://auto.ce.cn/auto/gundong/202211/10/t20221110_38221011.shtml", "date": "2022-11-10", "tier": "B" },
+    { "id": "s11", "name": "China Securities Net (Shanghai Securities News) - RADAR brand launch", "url": "https://company.cnstock.com/company/scp_gsxw/202207/4919677.htm", "date": "2022-07-12", "tier": "B" },
+    { "id": "s12", "name": "Xinhua Finance / China Financial Information Network - Geely Auto to acquire Radar", "url": "https://www.cnfin.com/yw-lb/detail/20260515/4413288_1.html", "date": "2026-05-15", "tier": "B" },
+    { "id": "s13", "name": "National Business Daily - Geely Auto folds Radar into China Star brand", "url": "https://www.mrjjxw.com/articles/2026-05-18/4396873.html", "date": "2026-05-18", "tier": "B" },
+    { "id": "s14", "name": "Zibo News - Zibo-built pickup breaks through in Thailand", "url": "https://www.zbnews.net/content/2026-04/15/content_3190790.html", "date": "2026-04-15", "tier": "B" },
+    { "id": "s15", "name": "Southcn Plus - Radar King Kong EM-P and Horizon EM-P launch", "url": "https://static.nfnews.com/content/202505/29/c11345869.html?enterColumnId=39", "date": "2025-05-29", "tier": "B" },
+    { "id": "s16", "name": "Sina Finance (Operator Finance) - Radar CEO Ling Shiquan profile", "url": "https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxfxr9871592.shtml", "date": "2026-03-05", "tier": "B" },
+    { "id": "s17", "name": "CRI Online - RIDDARA RD6 lands in Thailand", "url": "https://auto.cri.cn/20241105/ea267e55-787e-176c-2499-2ffe2ae78e84.html", "date": "2024-11-05", "tier": "B" },
+    { "id": "s18", "name": "ifeng Tech - 2026 Radar King Kong EV launch (RMB 119,800 from)", "url": "https://tech.ifeng.com/c/8saIoHEoyfe", "date": "2026-04-24", "tier": "B" },
+    { "id": "s19", "name": "AskCI - 2024 China pickup maker sales ranking TOP10", "url": "https://big5.askci.com/news/20250120/135735273735265557130432.shtml", "date": "2025-01-20", "tier": "B" },
+    { "id": "s20", "name": "Tencent News (Cheyiquan / 车壹圈) - H1 2026 pickup market recap (author-stated personal view)", "url": "https://news.qq.com/rain/a/20260716A09EZO00", "date": "2026-07-16", "tier": "C" },
+    { "id": "s21", "name": "MarkLines - Radar adjusts Thailand EV pickup strategy, 2026 target 3,000 units", "url": "https://www.marklines.com/cn/news/339177", "date": "2026-01-26", "tier": "B" },
+    { "id": "s22", "name": "Sina Finance - Geely Auto acquires three Radar companies to accelerate NEV pickup integration", "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-05-18/doc-inhyhyqp2898616.shtml", "date": "2026-05-18", "tier": "B" }
+  ]
+}

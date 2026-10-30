@@ -1,0 +1,519 @@
+{
+  "id": "foton",
+  "name_en": "BAIC Foton Motor Co., Ltd.",
+  "name_zh": "北汽福田汽车股份有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "28 August 1996 (established as Beiqi Foton Vehicle Co., Ltd. by Beijing Auto & Motorcycle Co. and about 100 corporate shareholders)",
+      "value_zh": "1996 年 8 月 28 日（由北京汽车摩托车联合制造公司与约 100 家法人股东共同发起，成立北汽福田车辆股份有限公司）",
+      "period": null,
+      "source_ids": ["s6", "s13"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Changping District, Beijing, China",
+      "value_zh": "中国北京市昌平区",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-controlled listed company",
+      "value_zh": "国有控股上市公司",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Ultimate controller",
+      "label_zh": "实际控制人",
+      "value_en": "Beijing Municipal SASAC (via Beijing State-owned Capital Operation and Management Co., Ltd., the sole shareholder of BAIC Group, which itself also holds 3.75% of Foton directly)",
+      "value_zh": "北京市人民政府国有资产监督管理委员会（通过北京国有资本运营管理有限公司——该公司为北汽集团唯一股东，并直接持有福田 3.75% 股份）",
+      "period": "2025-12-31",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Shanghai Stock Exchange: 600166 (listed 2 June 1998)",
+      "value_zh": "上海证券交易所：600166（1998 年 6 月 2 日上市）",
+      "period": null,
+      "source_ids": ["s2", "s13"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工总数",
+      "value_en": "22,724 (end-2025, +12.95% year on year)",
+      "value_zh": "22,724 人（2025 年末，同比 +12.95%）",
+      "period": "2025-12-31",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "RMB 61.247 billion (+28.41%)",
+      "value_zh": "人民币 612.47 亿元（同比 +28.41%）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Net profit attributable to shareholders (FY2025)",
+      "label_zh": "归母净利润（2025 财年）",
+      "value_en": "RMB 1.364 billion (+1,593.29%)",
+      "value_zh": "人民币 13.64 亿元（同比 +1593.29%）",
+      "period": "FY2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Vehicle sales (2025)",
+      "label_zh": "整车销量（2025 年）",
+      "value_en": "650,100 units (+5.85%), market share 15.13%",
+      "value_zh": "65.01 万辆（同比 +5.85%），市场占有率 15.13%",
+      "period": "2025",
+      "source_ids": ["s2", "s22"]
+    },
+    {
+      "label_en": "New-energy vehicle sales (2025)",
+      "label_zh": "新能源销量（2025 年）",
+      "value_en": "101,200 units (+87.21%)",
+      "value_zh": "10.12 万辆（同比 +87.21%）",
+      "period": "2025",
+      "source_ids": ["s2", "s22"]
+    },
+    {
+      "label_en": "Overseas sales (2025)",
+      "label_zh": "海外销量（2025 年）",
+      "value_en": "164,500 units (+7.27%), China's No.1 commercial-vehicle exporter by volume",
+      "value_zh": "16.45 万辆（同比 +7.27%），居中国商用车出口第一",
+      "period": "2025",
+      "source_ids": ["s1", "s22"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1996-08-28",
+      "event_en": "Beiqi Foton Vehicle Co., Ltd. is established by Beijing Auto & Motorcycle Co., Jiangsu Changchai and about 100 corporate shareholders, a restructuring known as 'a hundred legal persons building Foton'.",
+      "event_zh": "北汽福田车辆股份有限公司成立，由北京汽车摩托车联合制造公司、江苏常柴等约 100 家法人企业共同发起，即「百家法人造福田」的股份制改造。",
+      "source_ids": ["s6", "s13"]
+    },
+    {
+      "date": "1998-06-02",
+      "event_en": "Foton lists on the Shanghai Stock Exchange as 600166, raising RMB320 million, having obtained a whole-vehicle production catalogue.",
+      "event_zh": "福田股份在上海证券交易所挂牌上市（600166），融资 3.2 亿元；同年取得整车生产目录。",
+      "source_ids": ["s2", "s13"]
+    },
+    {
+      "date": "1999",
+      "event_en": "Foton becomes China's No.1 light-truck seller, the first of its 'four leaps' described in the company's official history.",
+      "event_zh": "福田轻卡销量跃居全国第一，公司官方历史将 1996–1999 年归为第一次跨越式发展（完成股份制改造、上市并登顶轻卡销量）。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2009",
+      "event_en": "The company's official history frames 2000–2009 as the second leap: Foton completed a full commercial-vehicle range and ranked No.1 in global sales volume.",
+      "event_zh": "公司官方历史将 2000–2009 年归为第二次跨越：完成商用车全系列布局，销量全球第一。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2021",
+      "event_en": "The company's official history frames 2010–2021 as the globalisation stage, and describes Foton as a commercial-vehicle maker that reached 10 million cumulative sales in a very short time globally.",
+      "event_zh": "公司官方历史将 2010–2021 年归为全球化发展阶段，称福田成为全球突破千万销量用时极短的商用车企业。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2022-01-18",
+      "event_en": "Chang Rui is approved as chairman of the board, succeeding Gong Yueqiong.",
+      "event_zh": "董事会批准常瑞担任董事长，接替巩月琼。",
+      "source_ids": ["s14", "s17"]
+    },
+    {
+      "date": "2024-08-28",
+      "event_en": "Foton marks its 28th anniversary; cumulative output surpasses 11 million units, and the Auman Galaxy 9 flagship heavy truck is unveiled at the 828 Brand Night.",
+      "event_zh": "福田迎来成立 28 周年，累计产销突破 1100 万辆；828 品牌之夜发布全新平台旗舰重卡欧曼银河 9。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2024",
+      "event_en": "FY2024 attributable net profit falls 91.14% to RMB 81 million, which the company attributes mainly to the Mercedes-Benz-brand truck business of the Foton Daimler JV operating at a loss, weighing on investment income.",
+      "event_zh": "2024 财年归母净利润同比下降 91.14% 至 0.81 亿元，公司称主要因福田戴姆勒的奔驰品牌卡车业务前期投入大、重资产运营、销量不及预期、盈利能力大幅下降，导致投资收益大幅降低。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2025",
+      "event_en": "In a 'second venture' turnaround, FY2025 revenue reaches RMB 61.247 billion and attributable net profit RMB1.364 billion; sales total 650,100 units and Foton retains the No.1 commercial-vehicle position in China.",
+      "event_zh": "「二次创业」成效显现：2025 财年营业收入 612.47 亿元、归母净利润 13.64 亿元，全年销量 65.01 万辆，持续保持中国商用车行业销量第一。",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "date": "2026-01-30",
+      "event_en": "Foton chairman Chang Rui is appointed deputy Party secretary, director and general manager of BAIC Group while continuing to oversee Foton.",
+      "event_zh": "福田汽车董事长常瑞升任北汽集团党委副书记、董事、总经理，同时继续分管福田汽车。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-03-16",
+      "event_en": "Foton announces that BAIC Group has recommended Lu Zhenghua as director and general manager candidate, with Wu Xibin proposed to step down as director and general manager.",
+      "event_zh": "福田公告称北汽集团推荐鹿政华为公司董事、总经理人选，武锡斌拟不再担任董事、总经理职务（推荐尚需董事会与股东会审议，未生效）。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-03-25",
+      "event_en": "The board formally appoints Lu Zhenghua as general manager for a three-year term and nominates him as a director candidate of the 10th board; Wu Xibin steps down as general manager, with his directorship to end after shareholder approval.",
+      "event_zh": "董事会审议通过聘任鹿政华为公司总经理（任期三年），并提名其为第十届董事会董事候选人；武锡斌卸任总经理（其董事职务待股东会审议后离任）。",
+      "source_ids": ["s4", "s20"]
+    },
+    {
+      "date": "2026-04-10",
+      "event_en": "At the 2026 second extraordinary shareholders' meeting, Lu Zhenghua and Zhu Liguang are elected directors of the 10th board; Wu Xibin and Gu Xin step down as directors.",
+      "event_zh": "2026 年第二次临时股东会选举鹿政华、朱励光为第十届董事会董事，武锡斌、顾鑫不再担任董事。",
+      "source_ids": ["s19", "s4"]
+    },
+    {
+      "date": "2026-08-28",
+      "event_en": "At the Foton brand day, the company announces the Galaxus R9 high-end heavy truck for the Americas market, and launches the Kawan Xinghai new-energy flagship heavy truck, the Lefu V7 van and the Cangqiong assisted-driving architecture.",
+      "event_zh": "品牌日上，福田宣布面向美洲市场的高端重卡 Galaxus R9，并发布卡文星海新能源旗舰重卡、乐福 V7 与「苍穹」智驾架构。",
+      "source_ids": ["s16", "s9"]
+    },
+    {
+      "date": "2026-09-29",
+      "event_en": "Foton releases its '15th Five-Year' (2026–2030) strategy, targeting 1 million vehicle sales, 500,000 new-energy sales and 400,000 overseas sales by 2030.",
+      "event_zh": "福田正式发布「十五五」战略（2026–2030 年），提出 2030 年整车销量 100 万辆、新能源销量 50 万辆、海外销量 40 万辆。",
+      "source_ids": ["s7"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Auman (Ouman)",
+      "name_zh": "欧曼（Auman）",
+      "role_en": "Heavy- and medium-duty truck brand covering tractors, cargo, dump and special vehicles, across diesel, gas, electric, hybrid and hydrogen powertrains.",
+      "role_zh": "中重型卡车品牌，覆盖牵引、载货、自卸、专用等品类，涵盖柴油、燃气、纯电、混动、氢能等动力。",
+      "price_band": "Heavy trucks",
+      "founded": 2002,
+      "owner_note_en": "Produced within Beijing Foton Daimler Automotive Co., Ltd., a 50:50 joint venture between Foton and Daimler Truck. The 2025 annual report discloses the 50:50 ownership split. Foton sold 151,330 medium- and heavy trucks in 2025 (+57.1%) and 100,605 in H1 2026 (+39.3%); these are segment totals including Auman, not Auman-only sales.",
+      "owner_note_zh": "由福田与戴姆勒卡车各持股 50% 的合资企业北京福田戴姆勒汽车有限公司生产；50:50 股权见福田汽车 2025 年年报。2025 年福田中重卡销量 151,330 辆（+57.1%）、2026 年上半年 100,605 辆（+39.3%），为含欧曼的分部合计，非欧曼单一品牌销量。",
+      "status": "active",
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "name_en": "Beijing Foton Daimler Automotive (BFDA)",
+      "name_zh": "北京福田戴姆勒（BFDA）",
+      "role_en": "50:50 joint venture with Daimler Truck producing Auman and Mercedes-Benz-brand trucks; its Mercedes-Benz truck business was loss-making and weighed on Foton's 2024 profit.",
+      "role_zh": "与戴姆勒卡车各持股 50% 的合资企业，生产欧曼及梅赛德斯-奔驰品牌卡车；其奔驰品牌卡车业务亏损，拖累福田 2024 年利润。",
+      "price_band": "Trucks",
+      "founded": 2012,
+      "owner_note_en": "Foton Motor and Daimler Truck each hold 50%. Foton's 2024 annual report attributes the 91.14% drop in FY2024 attributable net profit mainly to losses in the Mercedes-Benz-brand truck business. The 2025 annual report and the June 2026 production-and-sales flash report (Lin 2026-038, 6 July 2026) and the July 2026 flash report still list Foton Daimler and Foton Cummins as 50:50 joint ventures.",
+      "owner_note_zh": "福田汽车与戴姆勒卡车各持股 50%。福田 2024 年年报将当年归母净利润下滑 91.14% 主要归因于奔驰品牌卡车业务亏损。2025 年年报，以及 2026 年 6 月产销快报（临 2026-038，2026 年 7 月 6 日）和 2026 年 7 月产销快报，仍列示福田戴姆勒、福田康明斯为 50:50 合资公司。",
+      "status": "active",
+      "source_ids": ["s5", "s1", "s25"]
+    },
+    {
+      "name_en": "Foton Cummins",
+      "name_zh": "福田康明斯",
+      "role_en": "50:50 engine joint venture with Cummins producing light, medium and heavy diesel engines.",
+      "role_zh": "与康明斯各持股 50% 的发动机合资企业，生产轻型、中重型柴油发动机。",
+      "price_band": "Engines",
+      "founded": 2008,
+      "owner_note_en": "A 50:50 joint venture with Cummins. It sold 197,262 engines in 2025 (+24.8%), according to the 2025 annual report.",
+      "owner_note_zh": "与康明斯各持股 50%。据 2025 年年报，福田康明斯 2025 年销售发动机 197,262 台（+24.8%）。",
+      "status": "active",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "name_en": "Aumark",
+      "name_zh": "欧马可（Aumark）",
+      "role_en": "High-end light-truck brand positioned at premium urban logistics customers.",
+      "role_zh": "高端轻卡品牌，面向高端城市物流客户。",
+      "price_band": "Light trucks",
+      "founded": null,
+      "owner_note_en": "Part of Foton's light-truck business. In the 2025 annual report the light-truck segment (including mini trucks) sold 446,113 units (-4%) with an 18.2% share; Aumark, Ollin and Forland Linghang operate together, with Aumark focused on the high-end.",
+      "owner_note_zh": "属于福田轻卡业务。2025 年年报披露轻卡（含微卡）销量 446,113 辆（-4%）、市占率 18.2%；欧马可、奥铃、时代领航协同运营，欧马可聚焦高端引领。",
+      "status": "active",
+      "source_ids": ["s2"]
+    },
+    {
+      "name_en": "Ollin",
+      "name_zh": "奥铃（Ollin）",
+      "role_en": "Value-oriented light-truck brand.",
+      "role_zh": "面向价值型市场的轻卡品牌。",
+      "price_band": "Light trucks",
+      "founded": null,
+      "owner_note_en": "Part of Foton's light-truck portfolio alongside Aumark and Forland Linghang; the 2025 annual report lists the three brands as coordinating across market segments.",
+      "owner_note_zh": "与欧马可、时代领航同属福田轻卡产品体系；2025 年年报列示三大品牌协同覆盖不同细分市场。",
+      "status": "active",
+      "source_ids": ["s2"]
+    },
+    {
+      "name_en": "Forland / Linghang (Leader)",
+      "name_zh": "时代领航（Forland / 领航）",
+      "role_en": "Light-truck and mini-truck brand focused on urban and county-level markets.",
+      "role_zh": "轻卡、微卡品牌，聚焦城市基盘与县域市场。",
+      "price_band": "Light and mini trucks",
+      "founded": null,
+      "owner_note_en": "The 2025 annual report describes Linghang as consolidating the 'urban market base + county markets'. It belongs to Foton's light-truck segment.",
+      "owner_note_zh": "2025 年年报将「领航」定位为夯实「城市市场基盘+深耕县域市场」，属于福田轻卡分部。",
+      "status": "active",
+      "source_ids": ["s2"]
+    },
+    {
+      "name_en": "AUV (Ouhui)",
+      "name_zh": "欧辉（AUV）",
+      "role_en": "Bus brand covering large and medium city buses and intercity coaches, with pure-electric and hydrogen routes.",
+      "role_zh": "客车品牌，覆盖大中型城市客车与城间客车，布局纯电、氢能等技术路线。",
+      "price_band": "Buses",
+      "founded": null,
+      "owner_note_en": "Foton's bus business. Large and medium bus sales were 6,021 units in 2025 (+7.4%) and 2,716 units in H1 2026 (+17.4%).",
+      "owner_note_zh": "福田客车业务。2025 年大中型客车销量 6,021 辆（+7.4%），2026 年上半年 2,716 辆（+17.4%）。",
+      "status": "active",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "name_en": "View (Fengjing)",
+      "name_zh": "风景（View / 风景 i）",
+      "role_en": "Light-bus and VAN brand covering urban logistics and passenger transport.",
+      "role_zh": "轻型客车（VAN）品牌，覆盖城市物流与客运场景。",
+      "price_band": "Light vans and buses",
+      "founded": null,
+      "owner_note_en": "Light-bus sales were 39,701 units in 2025 (-11.8%) and 18,946 units in H1 2026; the company said market share fell as new-product response lagged, and it is rolling out the View i and Lefu models.",
+      "owner_note_zh": "2025 年轻型客车销量 39,701 辆（-11.8%），2026 年上半年 18,946 辆；公司称因产品响应滞后导致份额下滑，正投放风景 i、乐福等新产品。",
+      "status": "active",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "name_en": "Kawan",
+      "name_zh": "卡文（Kawan）",
+      "role_en": "New-energy commercial-vehicle brand operated through Beijing Kawan New Energy Vehicle Co., Ltd., a consolidated subsidiary.",
+      "role_zh": "新能源商用车品牌，由控股子公司北京卡文新能源汽车有限公司运营。",
+      "price_band": "New-energy commercial vehicles",
+      "founded": null,
+      "owner_note_en": "Beijing Kawan New Energy Vehicle Co., Ltd. is listed among Foton's consolidated subsidiaries. At the August 2026 brand day, Foton launched the Kawan Xinghai new-energy flagship heavy truck (electric range over 600 km) and the Lefu V7.",
+      "owner_note_zh": "北京卡文新能源汽车有限公司列入福田控股子公司。2026 年 8 月品牌日，福田发布卡文星海新能源旗舰重卡（纯电续航超 600 公里）与乐福 V7。",
+      "status": "active",
+      "source_ids": ["s1", "s16"]
+    },
+    {
+      "name_en": "ZF Foton",
+      "name_zh": "采埃孚福田",
+      "role_en": "Transmission joint venture with ZF; ZF Foton Automatic Transmission (Jiaxing) Co., Ltd. is an associate company of Foton.",
+      "role_zh": "与采埃孚的变速箱合资企业；采埃孚福田自动变速箱（嘉兴）有限公司为福田参股公司。",
+      "price_band": "Transmissions",
+      "founded": null,
+      "owner_note_en": "Listed among Foton's associate companies on the official investor-relations page. The founding year is not stated in the sources reviewed.",
+      "owner_note_zh": "公司投资者关系页面将其列入参股公司。所核对资料未写明成立年份。",
+      "status": "active",
+      "source_ids": ["s12"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (Chinese Accounting Standards for Business Enterprises)",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 56097, "gross_margin_pct": 10.87, "net_profit": 909, "rnd": 2251, "source_ids": ["s2", "s5", "s23"] },
+      { "fiscal_year": 2024, "revenue": 47698, "gross_margin_pct": 12.64, "net_profit": 81, "rnd": 2123, "source_ids": ["s2", "s5"] },
+      { "fiscal_year": 2025, "revenue": 61247, "gross_margin_pct": 9.97, "net_profit": 1364, "rnd": 2306, "source_ids": ["s1", "s2"] }
+    ],
+    "note_en": "Fiscal year ends 31 December. Figures are consolidated for BAIC Foton Motor Co., Ltd. (600166.SH) under Chinese Accounting Standards for Business Enterprises (CAS), in RMB millions, rounded to the nearest million. net_profit is profit attributable to shareholders of the parent company (A-share disclosure item 'net profit attributable to shareholders of the listed company', 归母净利润). The company has no preferred shares, so this also equals profit attributable to ordinary shareholders; it excludes minority interests. Note that in 2025 the company's total net profit including minority interests was RMB1,285.8 million, lower than attributable net profit of RMB1,363.8 million, because minority interests of consolidated subsidiaries recorded a loss. gross_margin_pct is the gross margin ratio computed as (operating revenue minus operating cost) divided by operating revenue, from the income statement: 2025 revenue RMB61,247.4 million and cost RMB55,139.9 million (9.97%); 2024 revenue RMB47,697.5 million and cost RMB41,666.9 million (12.64%); 2023 revenue RMB56,096.8 million and cost RMB49,997.7 million (10.87%, restated basis). rnd is total research and development investment (研发投入, including capitalised expenditure): RMB2,306 million in 2025 (3.77% of revenue, capitalisation rate 55.02%), RMB2,123 million in 2024 (4.45% of revenue, capitalisation rate 44.97%), and RMB2,251 million in 2023 (the 2023 annual report states total R&D investment of RMB2,251,074,839.80). FY2023 and FY2024 revenue and net profit use the 'three-year key accounting data' in the 2025 annual report summary, consistent with the 2024 annual report summary; FY2025 is from the 2025 annual report and its summary.",
+    "note_zh": "财年截至 12 月 31 日。数据为北汽福田汽车股份有限公司（600166.SH）按中国企业会计准则（CAS）编制的合并口径，以人民币百万元计，金额四舍五入至百万。net_profit 为「归属于母公司股东的净利润」（A 股口径「归属于上市公司股东的净利润」，即归母净利润）；公司无优先股，故该口径亦等于归属于普通股股东的净利润，不含少数股东损益。需注意，2025 年公司含少数股东损益的净利润总额为 12.86 亿元，低于归母净利润 13.64 亿元，系合并范围内少数股东录得亏损所致。gross_margin_pct 为销售毛利率，按「（营业收入－营业成本）÷营业收入」计算：2025 年营业收入 612.47 亿元、营业成本 551.40 亿元（9.97%）；2024 年 476.98 亿元、416.67 亿元（12.64%）；2023 年 560.97 亿元、499.98 亿元（10.87%，重述后口径）。rnd 为研发投入（含资本化支出）金额：2025 年 23.06 亿元（占营业收入 3.77%，资本化率 55.02%）、2024 年 21.23 亿元（占比 4.45%，资本化率 44.97%）、2023 年 22.51 亿元（2023 年年报「研发投入合计」2,251,074,839.80 元）。2023、2024 年营收与归母净利润采用 2025 年年度报告摘要「近 3 年主要会计数据」口径，与 2024 年年报摘要一致；2025 年取自 2025 年年报及年报摘要。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>BAIC Foton Motor Co., Ltd. (Foton, SSE: 600166) is China's largest commercial-vehicle maker by sales volume and sits within the BAIC Group. Founded on 28 August 1996 and listed on the Shanghai Stock Exchange in 1998, it makes a full commercial range of heavy trucks, light trucks (including mini trucks), vans, pickups and buses, and it also builds engines and other key components <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://www.foton.com.cn/newsDetail7919e8.html\">[s6]</a>. The company pursues 'full internationalisation, full new-energy and full intelligentisation', with a business spanning whole vehicles, core components and a commercial ecosystem of aftermarket, finance and leasing services <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>. In 2025 it sold 650,100 vehicles (+5.85%) for a 15.13% market share and, per its own disclosure, retained the No.1 position in Chinese commercial-vehicle sales and the No.1 position in Chinese commercial-vehicle exports <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>.</p><p>FY2025 revenue was RMB 61.247 billion (+28.41%) and net profit attributable to shareholders RMB1.364 billion (+1,593.29%), with non-recurring-adjusted attributable profit of RMB826 million, a swing to profit <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>. In H1 2026 revenue reached RMB 33.668 billion (+10.86%) and attributable net profit RMB905 million (+16.54%) <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>.</p><p>The company is state-controlled: BAIC Group held 40.84% directly at end-2025. On 22 October 2026 the company announced that, after increasing its stake, BAIC Group directly held 3,251,630,662 shares, or 41.07%. The ultimate controller is the Beijing Municipal SASAC through Beijing State-owned Capital Operation and Management Co., Ltd., the sole shareholder of BAIC Group <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5164726.shtml\">[s24]</a>. Its heavy-truck business runs mainly through the 50:50 Foton Daimler joint venture with Daimler Truck, while light trucks, new energy and overseas markets form the other pillars <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>.</p>",
+      "zh": "<p>北汽福田汽车股份有限公司（福田汽车，上交所：600166）是中国按销量计规模最大的商用车企业，隶属北京汽车集团（北汽集团）。公司成立于 1996 年 8 月 28 日，1998 年在上交所上市，产品覆盖重卡、轻卡（含微卡）、VAN、皮卡、客车等全品类商用车，并自产发动机等关键零部件 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://www.foton.com.cn/newsDetail7919e8.html\">[s6]</a>。公司坚持「全面国际化、全面新能源化、全面智能化」三大战略转型，业务覆盖整车、核心零部件以及后市场、金融、租赁等商业生态 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。2025 年公司整车销量 65.01 万辆（同比 +5.85%）、市场占有率 15.13%，据公司披露持续保持中国商用车销量第一、出口第一 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。</p><p>2025 财年公司实现营业收入 612.47 亿元（同比 +28.41%）、归母净利润 13.64 亿元（同比 +1593.29%），扣非归母净利润 8.26 亿元、实现扭亏为盈 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。2026 年上半年营收 336.68 亿元（+10.86%）、归母净利润 9.05 亿元（+16.54%）<a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。</p><p>公司为国有控股上市公司：截至 2025 年末北汽集团直接持股 40.84%。2026 年 10 月 22 日公司公告，北汽集团增加持股后直接持有 3,251,630,662 股，持股比例 41.07%。最终控制方为北京市国资委（经北汽集团唯一股东北京国有资本运营管理有限公司）<a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5164726.shtml\">[s24]</a>。重卡业务主要通过与戴姆勒卡车各持股 50% 的福田戴姆勒合资公司经营，轻卡、新能源与海外构成其余业务支柱 <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and sales</h3><p>Foton is organised around whole vehicles, key components and a services ecosystem. In 2025 the product split was: medium- and heavy-duty trucks 151,330 units (+57.1%, 11.9% share), of which heavy trucks 142,185 (+103.6%, 12.4% share); light trucks including mini trucks 446,113 units (-4%, 18.2% share); large and medium buses 6,021 (+7.4%); light buses 39,701 (-11.8%). New-energy vehicle sales were 101,200 units (+87.21%) and exports 164,500 units (+7.27%, 15.5% export share). Engine sales were 281,854 units (+8.2%), including 197,262 from Foton Cummins <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://www.foton.com.cn/newsDetail5f7802.html\">[s22]</a>.</p><p>In H1 2026 Foton sold 360,400 vehicles (+10.1%, 15.7% share): medium- and heavy trucks 100,605 (+39.3%, of which heavy trucks 90,029, +35.3%), light trucks including mini trucks 234,886 (+2.4%), large and medium buses 2,716 (+17.4%), light buses 18,946; exports were 109,000 (+38.9%) and new-energy sales 59,000 (+17.9%) <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>. The company attributes the 2025 profit rebound mainly to the 'second venture' strategy, structural opportunities from the trade-in policy, overseas localisation, a higher contribution from new products, marketing-model innovation and aftermarket business, and company-wide cost reduction that lowered the period-expense ratio <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>.</p><h3>Technology and platforms</h3><p>Foton pursues battery-electric, hybrid and hydrogen fuel-cell routes in parallel and says its core 'three-electric' (battery, motor, control) technologies are developed and built in-house. Its self-developed Aiyike power battery became the first commercial-vehicle battery brand in China to pass CATARC's NESTA battery-safety verification, and the company has laid out all-new platforms including the Qimingxing pure-electric light-truck platform, the Auman Galaxy high-end heavy-truck platform and the Kawan BEACON dual-power (electric/hydrogen) heavy-truck platform <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>. On intelligent driving, Foton says it has achieved full-stack self-developed L2 assisted-driving algorithms across its product line, and has launched L4 intelligent buses and high-speed line-haul intelligent driving with over 75 million km of operating mileage <a href=\"https://www.foton.com.cn/newsDetailb3c701.html\">[s10]</a>. At the August 2026 brand day it launched the Cangqiong assisted-driving architecture (A, B, C platforms) and the Kawan Xinghai new-energy flagship heavy truck with a pure-electric range of over 600 km <a href=\"https://www.nbd.com.cn/articles/2026-08-28/4565361.html\">[s16]</a>.</p><h3>Manufacturing and capacity</h3><p>Foton has 10 whole-vehicle bases in China (including Foton Daimler) and 8 component bases (including Foton Cummins and ZF Foton), and it has built 32 localised manufacturing bases overseas together with partners. It operates 19 R&amp;D centres worldwide, and per the 2025 sustainability report it had 4,025 R&amp;D personnel and filed 617 patent applications in 2025 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://www.foton.com.cn/newsDetailb3c701.html\">[s10]</a>. The sources reviewed did not disclose a single comparable annual whole-vehicle capacity figure.</p><h3>Overseas localisation</h3><p>Foton has upgraded overseas operations from product export to local production. According to its February 2026 newsletter, in 2025 the Brazil plant started production and rolled out its first locally built light truck, and the company completed its 12-millionth vehicle; the South Africa CKD assembly plant rolled out its first AMT tractor, making Foton the first Chinese commercial-vehicle brand with CKD production there; the Thailand plant completed its 2,000th heavy truck; and Foton signed a memorandum on a localised factory in Saudi Arabia and delivered 1,000 school buses there <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>. The 2025 annual report shows overseas revenue of RMB16.83 billion (+19.40%) and exports of 164,500 units with export share rising to 15.5% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a>; H1 2026 exports reached 109,000 units (+38.9%) <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>.</p><h3>Sales network and ecosystem</h3><p>Foton's domestic sales and service network exceeds 10,000 outlets, and its overseas network exceeds 1,200. The company has built the Aiyike smart-ecosystem brand spanning energy, leasing, digital intelligence, maintenance and used-vehicle services <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>. Its decarbonisation roadmap targets a carbon peak by 2028, carbon neutrality at core plants by 2035 and value-chain carbon neutrality by 2050 <a href=\"https://www.foton.com.cn/newsDetailb3c701.html\">[s10]</a>.</p>",
+      "zh": "<h3>业务结构与销量</h3><p>福田以整车、核心零部件与商业生态三大板块经营。2025 年分车型：中重型卡车 151,330 辆（+57.1%，市占率 11.9%），其中重卡 142,185 辆（+103.6%，市占率 12.4%）；轻卡（含微卡）446,113 辆（-4%，市占率 18.2%）；大中型客车 6,021 辆（+7.4%）；轻型客车 39,701 辆（-11.8%）。新能源销量 10.12 万辆（+87.21%），出口 16.45 万辆（+7.27%，出口市占率 15.5%）。发动机销售 281,854 台（+8.2%），其中福田康明斯 197,262 台 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://www.foton.com.cn/newsDetail5f7802.html\">[s22]</a>。</p><p>2026 年上半年，福田整车销量 36.04 万辆（+10.1%，市占率 15.7%）：中重卡 100,605 辆（+39.3%，其中重卡 90,029 辆、+35.3%）、轻卡（含微卡）234,886 辆（+2.4%）、大中型客车 2,716 辆（+17.4%）、轻型客车 18,946 辆；出口 10.9 万辆（+38.9%）、新能源 5.9 万辆（+17.9%）<a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。公司将 2025 年盈利大幅改善归因于「二次创业」战略推进、以旧换新政策带来的结构性机会、海外属地产业化、新产品销量贡献提升，以及营销模式创新与后市场成为新利润增长点、全价值链降本增效推动期间费用率下降 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。</p><h3>技术与平台</h3><p>福田坚持纯电、混动、氢燃料「三线并举」，公司称新能源「三电」（电池、电机、电控）核心技术实现自研自制。其自研「爱易科」动力电池成为国内首个通过中汽研 NESTA 电池安全验证的商用车动力电池品牌，并布局启明星纯电轻卡专属平台、欧曼银河高端重卡平台、卡文 BEACON「可电可氢」重卡平台等正向开发平台 <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>。智能驾驶方面，公司称实现 L2 级智能驾驶算法全栈自研与全产品线量产，并推出 L4 级智能巴士、高速干线物流智能驾驶商业化落地，运营里程超 7500 万公里 <a href=\"https://www.foton.com.cn/newsDetailb3c701.html\">[s10]</a>。2026 年 8 月品牌日发布「苍穹」智驾架构（A、B、C 三大平台）与卡文星海新能源旗舰重卡（纯电续航超 600 公里）<a href=\"https://www.nbd.com.cn/articles/2026-08-28/4565361.html\">[s16]</a>。</p><h3>制造与产能</h3><p>福田国内布局 10 个整车基地（含福田戴姆勒）和 8 个零部件基地（含福田康明斯、采埃孚福田），并联合合作伙伴在海外建设 32 个属地化智能制造基地；全球布局 19 个研发中心。据 2025 年可持续发展报告，公司研发人员 4,025 人，2025 年申请专利 617 件 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://www.foton.com.cn/newsDetailb3c701.html\">[s10]</a>。所核对资料未披露可横向比较的单一整车年产能数字。</p><h3>海外属地化</h3><p>福田将海外业务从产品出口升级为本地化生产与运营。据公司 2026 年 2 月《董办简报》，2025 年巴西工厂正式投产并下线首台本土化轻卡，全年完成第 1200 万辆整车下线；南非本地化组装厂下线首台 AMT 牵引车，成为首个在当地实现 CKD 本土化生产的中国商用车品牌；泰国工厂完成第 2000 辆重卡下线；公司还与沙特政府及企业签署属地化工厂建设备忘录，并向沙特集中交付 1000 辆校车 <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>。2025 年年报显示海外营收 168.33 亿元（+19.40%）、出口 16.45 万辆、出口市占率升至 15.5% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a>；2026 年上半年出口 10.9 万辆（+38.9%）<a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。</p><h3>销售网络与生态</h3><p>福田国内销售与服务网络超 10000 家，海外销售与服务网络超 1200 家。公司打造「爱易科」全域智慧生态品牌，覆盖能源、租赁、数智、修养配、二手车等生态服务 <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>。其双碳路线图提出 2028 年碳达峰、2035 年核心工厂碳中和、2050 年全价值链碳中和 <a href=\"https://www.foton.com.cn/newsDetailb3c701.html\">[s10]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Origin and founders</h3><p>Foton has no single private founder. It was established on 28 August 1996 by Beijing Auto &amp; Motorcycle Co., Jiangsu Changchai and about 100 corporate shareholders, a restructuring the company calls 'a hundred legal persons building Foton'; its predecessor included the Zhucheng motor-vehicle plant that had been merged into Beijing Auto &amp; Motorcycle Co. <a href=\"https://www.foton.com.cn/newsDetail7919e8.html\">[s6]</a><a href=\"https://www.ctaxnews.net.cn/paper/pad/con/201812/03/content_157370.html\">[s13]</a>.</p><h3>Current core management</h3><ul><li><strong>Chang Rui</strong> (常瑞), chairman. Born January 1976, master's degree in marketing from Nankai University. He joined Foton in 2004 and rose through the overseas-business division to general manager; he became chairman on 18 January 2022. Since 30 January 2026 he has also served as deputy Party secretary, director and general manager of BAIC Group while continuing to chair Foton <a href=\"https://epaper.cs.com.cn/zgzqb/html/2022-10/29/nw.D110000zgzqb_20221029_1-B208.htm\">[s14]</a><a href=\"https://www.jiemian.com/article/8447017.html\">[s17]</a><a href=\"https://www.mrjjxw.com/articles/2026-03-16/4293748.html\">[s15]</a><a href=\"https://www.foton.com.cn/webback/about/brand/newsDetail7d793e.html\">[s11]</a>.</li><li><strong>Lu Zhenghua</strong> (鹿政华), director, general manager and Party secretary. He joined Foton in 2000 and has successively headed or overseen the overseas business division, the engineering research institute, Zhibo Technology, Foton intelligent-driving, the pickup business and strategy and investment management. The April 2026 shareholders' meeting materials listed his roles at that time as Party secretary and general manager, concurrently president of the overseas business group; the investor-relations page now lists him as Party secretary and general manager. He was recommended by BAIC Group in March 2026, formally appointed general manager by the board on 25 March 2026 for a three-year term, and elected a director on 10 April 2026, succeeding Wu Xibin <a href=\"https://www.mrjjxw.com/articles/2026-03-16/4293748.html\">[s15]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-01/600166_20260401_A4NF.pdf\">[s20]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-04/11/nw.D110000zgzqb_20260411_10-B084.htm\">[s19]</a><a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_XQ7J.pdf\">[s4]</a><a href=\"https://m.foton.com.cn/investor.html\">[s12]</a>.</li></ul><p>Other executives disclosed on the investor-relations page include executive deputy general manager Liu Xuguang, deputy general managers Cui Shipeng, Liang Zhaowen, Qin Zhidong, Wang Shuhai, Li Qinghua (also CFO), Guo Tongjin, Sun Jing and Li Xiaolong, and board secretary Chen Weijuan <a href=\"https://m.foton.com.cn/investor.html\">[s12]</a>.</p><h3>Ownership and governance</h3><p>The controlling shareholder is Beijing Automotive Group Co., Ltd., which held 3,233,860,362 shares, or 40.84% of total share capital (7,917,400,367 shares), at end-2025. On 22 October 2026 the company announced that BAIC Group directly held 3,251,630,662 shares, or 41.07%, after increasing its stake. Beijing State-owned Capital Operation and Management Co., Ltd. held 296,626,400 shares (3.75%) and is the sole shareholder of BAIC Group, so the ultimate controller is the Beijing Municipal SASAC. Other major shareholders include Changchai (1.83%) and Weichai Power (1.01%) <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5164726.shtml\">[s24]</a>. The board includes directors from BAIC Group, Beijing State-owned Capital Operation and Management and Weichai Power, plus independent directors such as Ye Shengji, Li Ya, Liu Tingli and Li Weiqing <a href=\"https://m.foton.com.cn/investor.html\">[s12]</a>.</p>",
+      "zh": "<h3>起源与创始人</h3><p>福田并非民营意义上的单一创始人企业。公司于 1996 年 8 月 28 日由北京汽车摩托车联合制造公司、江苏常柴等约 100 家法人企业共同发起成立，即「百家法人造福田」的股份制改造；其前身包括并入北汽摩的诸城机动车辆厂 <a href=\"https://www.foton.com.cn/newsDetail7919e8.html\">[s6]</a><a href=\"https://www.ctaxnews.net.cn/paper/pad/con/201812/03/content_157370.html\">[s13]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>常瑞</strong>，董事长。1976 年 1 月生，南开大学市场营销硕士。2004 年加入福田，历任海外事业部相关职务至总经理，2022 年 1 月 18 日任董事长；2026 年 1 月 30 日起兼任北汽集团党委副书记、董事、总经理，同时继续担任福田董事长 <a href=\"https://epaper.cs.com.cn/zgzqb/html/2022-10/29/nw.D110000zgzqb_20221029_1-B208.htm\">[s14]</a><a href=\"https://www.jiemian.com/article/8447017.html\">[s17]</a><a href=\"https://www.mrjjxw.com/articles/2026-03-16/4293748.html\">[s15]</a><a href=\"https://www.foton.com.cn/webback/about/brand/newsDetail7d793e.html\">[s11]</a>。</li><li><strong>鹿政华</strong>，董事、总经理、党委书记。2000 年加入福田，先后主管或分管海外事业部、工程研究总院、智博科技、福田智驾、皮卡、战略与投资管理等业务。2026 年 4 月股东会会议资料载明，其当时担任党委书记、总经理，兼任海外 BG 总裁；投资者关系页现任名单为党委书记、总经理。2026 年 3 月获北汽集团推荐，2026 年 3 月 25 日董事会审议通过聘任其为总经理、任期三年，2026 年 4 月 10 日股东会选举其为董事，接替武锡斌 <a href=\"https://www.mrjjxw.com/articles/2026-03-16/4293748.html\">[s15]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-01/600166_20260401_A4NF.pdf\">[s20]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2026-04/11/nw.D110000zgzqb_20260411_10-B084.htm\">[s19]</a><a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_XQ7J.pdf\">[s4]</a><a href=\"https://m.foton.com.cn/investor.html\">[s12]</a>。</li></ul><p>投资者关系页面披露的其他高管包括常务副总经理刘旭光，副总经理崔士朋、梁兆文、秦志东、王术海、李庆华（兼财务负责人）、郭同金、孙京、李晓龙，董事会秘书陈维娟 <a href=\"https://m.foton.com.cn/investor.html\">[s12]</a>。</p><h3>股权与治理</h3><p>控股股东为北京汽车集团有限公司，截至 2025 年末直接持股 3,233,860,362 股、占总股本（7,917,400,367 股）40.84%。2026 年 10 月 22 日公司公告，北汽集团增加持股后直接持有 3,251,630,662 股，持股比例 41.07%。北京国有资本运营管理有限公司持股 296,626,400 股（3.75%）且为北汽集团唯一股东，故最终控制方为北京市国资委。其他主要股东包括常柴股份（1.83%）、潍柴动力（1.01%）等 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5164726.shtml\">[s24]</a>。董事会成员包括来自北汽集团、北京国有资本运营管理、潍柴动力的董事，以及叶盛基、李亚、刘亭立、黎韦清等独立董事 <a href=\"https://m.foton.com.cn/investor.html\">[s12]</a>。</p>"
+    },
+    "competition": {
+      "en": "<h3>Comparison scope</h3><p>Our assessment: Foton should be compared mainly with Sinotruk, FAW Jiefang, Dongfeng Commercial Vehicle and Shacman in heavy trucks; with Jiangling, JAC and Qingling in light trucks; and with Yutong and King Long in buses. Its disclosed rankings use its own shipment scope (including Foton Daimler), so they should be read together with the China Association of Automobile Manufacturers industry data cited in its reports <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>. For market context, Foton's H1 2026 report cites CAAM data showing Chinese commercial-vehicle industry sales of 2.297 million units in H1 2026 (+8.28%), with commercial new-energy sales of 549,000 (+36.6%, 23.9% penetration) and commercial-vehicle exports of 664,000 (+32.5%) <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_XQ7J.pdf\">[s4]</a>.</p><h3>Strengths</h3><p>Our assessment: its strengths rest on three disclosed facts. First, scale and breadth: 650,100 units sold in 2025 with the light-truck line No.1 in China <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>. Second, export leadership: 164,500 units exported in 2025 and 109,000 in H1 2026 <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>. Third, in-house core components (three-electric systems, engines via Foton Cummins, transmissions via ZF Foton) and 19 R&amp;D centres <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>.</p><h3>Weaknesses</h3><p>Our assessment: margins are thin and volatile. Gross margin was 9.97% in 2025 versus 12.64% in 2024, and FY2024 attributable profit collapsed 91.14% mainly on losses in the Foton Daimler Mercedes-Benz truck business, showing heavy dependence on the heavy-truck JV's performance <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>. The light-bus segment lost 3.4 percentage points of share in H1 2026 on lagging new products <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>.</p>",
+      "zh": "<h3>比较范围</h3><p>我们的判断：重卡业务宜与中国重汽、一汽解放、东风商用车、陕汽比较；轻卡宜与江铃、江淮、庆铃比较；客车宜与宇通、金龙比较。公司披露的排名采用其自身出货口径（含福田戴姆勒），应结合其报告中引用的中汽协行业数据一并阅读 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。就市场背景而言，福田 2026 年半年报引用中汽协数据：2026 年上半年中国商用车行业销量 229.7 万辆（+8.28%），其中商用车新能源销量 54.9 万辆（+36.6%，渗透率 23.9%）、商用车出口 66.4 万辆（+32.5%）<a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_XQ7J.pdf\">[s4]</a>。</p><h3>优势</h3><p>我们的判断：其优势建立在三点已披露事实上。一是规模与品类齐全——2025 年销量 65.01 万辆，轻卡（含微卡）居国内第一 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。二是出口领先——2025 年出口 16.45 万辆、2026 年上半年 10.9 万辆 <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。三是核心零部件自制与研发布局——三电自研、福田康明斯发动机、采埃孚福田变速箱，全球 19 个研发中心 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。</p><h3>短板</h3><p>我们的判断：利润率偏薄且波动较大。2025 年毛利率 9.97%（2024 年为 12.64%）；2024 财年归母净利润同比下滑 91.14%，主因福田戴姆勒奔驰品牌卡车业务亏损，显示业绩对重卡合资公司表现依赖较重 <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>。轻型客车板块 2026 年上半年市占率下滑 3.4 个百分点，新产品投放滞后 <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets and plans</h3><p>In its '15th Five-Year' (2026–2030) strategy released on 29 September 2026, Foton targets 1 million vehicle sales by 2030, including 500,000 new-energy sales and 400,000 overseas sales, through whole vehicles, intelligent driving and unmanned equipment, components and aftermarket businesses <a href=\"https://www.foton.com.cn/webback/about/brand/newsDetail45aeec.html\">[s7]</a>. The company also states a 'new-energy 30·50' strategy — more than 50% new-energy share by 2030 and a global green-transport ecosystem leader by 2050 <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>. On overseas business, its early-2026 newsletter set out a GREEN3030 goal of 300,000 overseas sales with 30% new-energy share by 2030, a target later raised in the 15th Five-Year plan to 400,000 overseas sales <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>. At the November 2025 global partner conference, chairman Chang Rui set out a plan to build more than 10 overseas industrial bases in Thailand, Indonesia, South Africa, Brazil, Mexico, Saudi Arabia and the EU over five years <a href=\"https://www.foton.com.cn/webback/activities/newsDetailbc6acc.html\">[s8]</a>. These are company plans, not completed outcomes.</p><h3>Our analysis</h3><p>Our assessment: the 2030 targets require roughly 50% growth in annual volume from 650,100 units in 2025, with the bulk of the increment from new energy and overseas. The direction is consistent with 2025–H1 2026 trends (new-energy sales +87.21% in 2025, exports +38.9% in H1 2026) <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>. On profitability, the picture has shifted: in 2025 Foton's investment income from associates and joint ventures turned positive (RMB518 million, within total investment income of RMB588 million), and the 2025 annual report no longer cites Foton Daimler losses as a drag <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a>. Whether volume growth converts into sustained margin improvement still depends on gross margin and export collections. Multi-powertrain and multi-market expansion requires sustained R&amp;D and localisation spending, so we will judge the transformation against segment profitability and actual localisation progress rather than treating management targets as a fixed industry forecast <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a>.</p>",
+      "zh": "<h3>公司目标与规划</h3><p>2026 年 9 月 29 日正式发布的「十五五」战略（2026–2030 年）提出，2030 年整车销量 100 万辆，其中新能源销量 50 万辆、海外销量 40 万辆，通过整车、智能驾驶及无人装备、零部件、后市场四大核心业务协同实现 <a href=\"https://www.foton.com.cn/webback/about/brand/newsDetail45aeec.html\">[s7]</a>。公司还提出「新能源 30·50 战略」——2030 年新能源占比超 50%、2050 年成为全球绿色交通生态领导者 <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>。海外方面，公司 2026 年初《董办简报》披露的 GREEN3030 目标为 2030 年海外销量 30 万辆、新能源占比 30%，其后「十五五」将海外目标进一步上调为 40 万辆 <a href=\"https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf\">[s21]</a>。2025 年 11 月全球合作伙伴大会上，董事长常瑞提出未来五年在泰国、印尼、南非、巴西、墨西哥、沙特、欧盟等地建设超 10 个产业化基地 <a href=\"https://www.foton.com.cn/webback/activities/newsDetailbc6acc.html\">[s8]</a>。以上为公司计划，不代表已经完成。</p><h3>我们的分析</h3><p>我们的判断：2030 年目标要求在 2025 年 65.01 万辆基础上实现约 50% 的销量增长，增量主要来自新能源与海外。这一方向与 2025–2026 上半年的趋势一致（2025 年新能源 +87.21%、2026 年上半年出口 +38.9%）<a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a><a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。盈利端情况已发生变化：2025 年公司对联营企业和合营企业的投资收益由负转正、为 5.18 亿元（投资收益合计 5.88 亿元），2025 年年报对业绩增长的说明不再将福田戴姆勒亏损列为当期拖累 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a>。销量增长能否转化为毛利率持续改善，仍取决于毛利率与出口回款情况。多动力路线与多市场扩张需要持续的研发与属地化投入，因此我们将以分部盈利与实际落地进展检验转型效果，不把管理层目标写成确定的行业预测 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Thin and volatile profitability:</strong> gross margin was 9.97% in 2025 (12.64% in 2024), and FY2024 attributable net profit fell 91.14% mainly on losses in the Foton Daimler Mercedes-Benz truck business <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>.</li><li><strong>Heavy-truck JV dependence:</strong> the Foton Daimler 50:50 JV with Daimler Truck is a key profit variable; its Mercedes-Benz truck business loss was the main reason for the 91.14% drop in FY2024 attributable net profit <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>. The 2025 annual report, the June 2026 production-and-sales flash report (Lin 2026-038, 6 July 2026) and the July 2026 flash report still list Foton Daimler and Foton Cummins as 50:50 joint ventures <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-06/1225459989.PDF\">[s25]</a>.</li><li><strong>Leverage:</strong> the asset-liability ratio was 69.67% at end-2025 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>.</li><li><strong>Segment share loss:</strong> light-bus market share fell 3.4 percentage points in H1 2026 on lagging new products <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>.</li><li><strong>Overseas and tariff risk:</strong> exports are a growth driver but expose the company to trade policy and exchange-rate changes in target markets; the company is localising production in Thailand, South Africa and Brazil to manage this <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>.</li></ul>",
+      "zh": "<ul><li><strong>盈利偏薄且波动：</strong>2025 年毛利率 9.97%（2024 年 12.64%），2024 财年归母净利润同比下滑 91.14%，主因福田戴姆勒奔驰品牌卡车业务亏损 <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>。</li><li><strong>重卡合资依赖：</strong>福田与戴姆勒卡车各持股 50% 的福田戴姆勒是重要利润变量，其奔驰品牌卡车业务亏损是 2024 财年归母净利润下滑 91.14% 的主因 <a href=\"https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf\">[s5]</a>。2025 年年报、2026 年 6 月产销快报（临 2026-038，2026 年 7 月 6 日）和 2026 年 7 月产销快报仍列示福田戴姆勒、福田康明斯为 50:50 合资公司 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF\">[s1]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-06/1225459989.PDF\">[s25]</a>。</li><li><strong>杠杆水平：</strong>2025 年末资产负债率 69.67% <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。</li><li><strong>分部份额下滑：</strong>2026 年上半年轻型客车市占率同比下滑 3.4 个百分点，新产品投放滞后 <a href=\"https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf\">[s3]</a>。</li><li><strong>海外与关税风险：</strong>出口是增长引擎，但使公司暴露于目标市场的贸易政策与汇率变动；公司正通过泰国、南非、巴西等地属地化生产加以应对 <a href=\"https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166\">[s2]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "北汽福田汽车股份有限公司 2025 年年度报告",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225194454.PDF",
+      "date": "2026-04-25",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "北汽福田汽车股份有限公司 2025 年年度报告摘要（巨潮资讯网）",
+      "url": "https://www.cninfo.com.cn/new/disclosure/detail?announcementId=1225194474&announcementTime=2026-04-25&orgId=gssh0600166&plate=sse&stockCode=600166",
+      "date": "2026-04-25",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "北汽福田汽车股份有限公司 2026 年半年度报告摘要（上交所披露）",
+      "url": "https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_MA73.pdf",
+      "date": "2026-08-29",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "北汽福田汽车股份有限公司 2026 年半年度报告（上交所披露）",
+      "url": "https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/600166_20260829_XQ7J.pdf",
+      "date": "2026-08-29",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "北汽福田汽车股份有限公司 2024 年年度报告摘要（中国证券报）",
+      "url": "https://epaper.cs.com.cn/zgzqb/images/2025-04/26/B735/zqB73526.pdf",
+      "date": "2025-04-26",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "福田汽车官网：828 品牌夜暨 28 周年（公司历史与「四次跨越」）",
+      "url": "https://www.foton.com.cn/newsDetail7919e8.html",
+      "date": "2024-08-28",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "福田汽车官网：福田汽车发布「十五五」战略发展规划",
+      "url": "https://www.foton.com.cn/webback/about/brand/newsDetail45aeec.html",
+      "date": "2026-09-29",
+      "tier": "A"
+    },
+    {
+      "id": "s8",
+      "name": "福田汽车官网：2026 全球合作伙伴大会（常瑞发布全球战略报告）",
+      "url": "https://www.foton.com.cn/webback/activities/newsDetailbc6acc.html",
+      "date": "2025-11-09",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "福田汽车官网：半年狂揽 36 万辆（2026 上半年销量）",
+      "url": "https://www.foton.com.cn/webback/about/newsDetailca2344.html",
+      "date": "2026-08-28",
+      "tier": "A"
+    },
+    {
+      "id": "s10",
+      "name": "福田汽车官网：以 ESG 筑基 向一流奋进——2025 年可持续发展报告解读",
+      "url": "https://www.foton.com.cn/newsDetailb3c701.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s11",
+      "name": "福田汽车官网：北汽福田与山港物流战略合作暨合资公司揭牌（管理层职务）",
+      "url": "https://www.foton.com.cn/webback/about/brand/newsDetail7d793e.html",
+      "date": "2026-02-12",
+      "tier": "A"
+    },
+    {
+      "id": "s12",
+      "name": "福田汽车官网：投资者关系（公司治理与第十届董事会、经理层名单）",
+      "url": "https://m.foton.com.cn/investor.html",
+      "date": "2026-10-29",
+      "tier": "A"
+    },
+    {
+      "id": "s13",
+      "name": "中国税务报：「送出去的孩子」成巨人（福田股份制改造与上市）",
+      "url": "https://www.ctaxnews.net.cn/paper/pad/con/201812/03/content_157370.html",
+      "date": "2018-12-03",
+      "tier": "B"
+    },
+    {
+      "id": "s14",
+      "name": "中国证券报：北汽福田汽车股份有限公司第九届董事会候选人常瑞简历",
+      "url": "https://epaper.cs.com.cn/zgzqb/html/2022-10/29/nw.D110000zgzqb_20221029_1-B208.htm",
+      "date": "2022-10-29",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "每日经济新闻：福田汽车官宣人事调整 鹿政华拟接任总经理",
+      "url": "https://www.mrjjxw.com/articles/2026-03-16/4293748.html",
+      "date": "2026-03-16",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "每日经济新闻：扣非净利增 41.04%（含苍穹智驾、新品发布）",
+      "url": "https://www.nbd.com.cn/articles/2026-08-28/4565361.html",
+      "date": "2026-08-28",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "界面新闻：常瑞升任福田汽车董事长，新一届领导班子就位",
+      "url": "https://www.jiemian.com/article/8447017.html",
+      "date": "2022-11-21",
+      "tier": "B"
+    },
+    {
+      "id": "s19",
+      "name": "北汽福田汽车股份有限公司 2026 年第二次临时股东会决议公告（中国证券报）",
+      "url": "https://epaper.cs.com.cn/zgzqb/html/2026-04/11/nw.D110000zgzqb_20260411_10-B084.htm",
+      "date": "2026-04-11",
+      "tier": "A"
+    },
+    {
+      "id": "s20",
+      "name": "北汽福田汽车股份有限公司 2026 年第二次临时股东会会议资料（上交所披露）",
+      "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-01/600166_20260401_A4NF.pdf",
+      "date": "2026-04-01",
+      "tier": "A"
+    },
+    {
+      "id": "s21",
+      "name": "福田汽车《董办简报》2026 年第 1 期（新能源 30·50、GREEN3030、海外属地化）",
+      "url": "https://www.foton.com.cn/futian/b1374bc1-78c6-4e91-ba08-265286616ac8.pdf",
+      "date": "2026-02-06",
+      "tier": "A"
+    },
+    {
+      "id": "s22",
+      "name": "福田汽车官网：2025 年业绩预增新闻稿（新能源、重卡、海外）",
+      "url": "https://www.foton.com.cn/newsDetail5f7802.html",
+      "date": "2026-01-29",
+      "tier": "A"
+    },
+    {
+      "id": "s23",
+      "name": "北汽福田汽车股份有限公司 2023 年年度报告（研发投入合计）",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-04-27/1219874932.PDF",
+      "date": "2024-04-27",
+      "tier": "A"
+    },
+    {
+      "id": "s24",
+      "name": "新浪财经（转述公司公告）：福田汽车关于控股股东增加持股实施进展的公告",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5164726.shtml",
+      "date": "2026-10-22",
+      "tier": "B"
+    },
+    {
+      "id": "s25",
+      "name": "北汽福田汽车股份有限公司 2026 年 7 月份各产品产销数据快报（临 2026-041）",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225459989.PDF",
+      "date": "2026-08-05",
+      "tier": "A"
+    }
+  ]
+}

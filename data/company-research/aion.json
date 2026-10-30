@@ -1,0 +1,502 @@
+{
+  "id": "aion",
+  "name_en": "Aion (GAC Group)",
+  "name_zh": "埃安（广汽集团）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand / company founded",
+      "label_zh": "品牌／公司成立",
+      "value_en": "2017-07-28 (GAC New Energy established, Aion's predecessor)",
+      "value_zh": "2017 年 7 月 28 日（成立广汽新能源，埃安前身）",
+      "period": null,
+      "source_ids": ["s6", "s13", "s47"]
+    },
+    {
+      "label_en": "Brand became independent",
+      "label_zh": "品牌独立",
+      "value_en": "2020-11-20 (announced at the Guangzhou Auto Show)",
+      "value_zh": "2020 年 11 月 20 日（广州车展宣布）",
+      "period": null,
+      "source_ids": ["s13", "s14"]
+    },
+    {
+      "label_en": "Operating entity",
+      "label_zh": "运营主体",
+      "value_en": "GAC Aion New Energy Automobile Co., Ltd.",
+      "value_zh": "广汽埃安新能源汽车股份有限公司",
+      "period": null,
+      "source_ids": ["s6", "s13"]
+    },
+    {
+      "label_en": "Parent group",
+      "label_zh": "所属集团",
+      "value_en": "Guangzhou Automobile Group (GAC Group; SSE 601238 / HKEX 02238)",
+      "value_zh": "广州汽车集团股份有限公司（广汽集团；上交所 601238／港交所 02238）",
+      "period": null,
+      "source_ids": ["s2", "s13"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Guangzhou, Guangdong (Panyu)",
+      "value_zh": "广东省广州市（番禺）",
+      "period": null,
+      "source_ids": ["s3", "s13"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-controlled; GAC-controlled mixed-ownership company after the 2022 Series-A financing",
+      "value_zh": "国有控股；2022 年 A 轮融资后为广汽集团控股的混合所有制企业",
+      "period": null,
+      "source_ids": ["s6", "s13"]
+    },
+    {
+      "label_en": "Series-A financing",
+      "label_zh": "A 轮融资",
+      "value_en": "RMB18.294 billion from 53 strategic investors for 17.72% of shares; post-money valuation RMB103.239 billion; GAC holding falls from 93.45% to 76.89%",
+      "value_zh": "53 名战投融资 182.94 亿元、释放 17.72% 股份，投后估值 1032.39 亿元；广汽直接及间接持股由 93.45% 降至 76.89%",
+      "period": "2022-10",
+      "source_ids": ["s6", "s13", "s16"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市状态",
+      "value_en": "Not listed; listing venue and timetable not confirmed (media have reported a planned Hong Kong listing)",
+      "value_zh": "未上市；上市板块与时间表未确认（媒体曾报道拟赴港上市）",
+      "period": null,
+      "source_ids": ["s27", "s28"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收／净利润",
+      "value_en": "Sales revenue in GAC Group's table of principal subsidiaries: RMB37.421 billion in 2024 (down 29.70% year on year), RMB28.384 billion in 2025 (down 24.15%), and RMB18.838 billion in H1 2026 (up 82.82%; H1 2025 operating revenue RMB10.304 billion). Net profit, gross margin and R&D are not disclosed separately",
+      "value_zh": "销售收入见广汽集团主要控股公司表：2024年374.21亿元（同比-29.70%），2025年283.84亿元（同比-24.15%），2026年上半年188.38亿元（同比+82.82%；2025年上半年营业收入103.04亿元）。净利润、毛利率、研发投入未单列",
+      "period": "2024–2026 H1",
+      "source_ids": ["s43", "s44", "s45", "s46"]
+    },
+    {
+      "label_en": "Sales FY2025",
+      "label_zh": "2025 年销量",
+      "value_en": "290,081 units, down 22.62% year on year (unaudited production/sales flash report)",
+      "value_zh": "290,081 辆，同比下滑 22.62%（产销快报，未经审计）",
+      "period": "2025",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Sales FY2024",
+      "label_zh": "2024 年销量",
+      "value_en": "374,884 units, down 21.90% year on year",
+      "value_zh": "374,884 辆，同比下滑 21.90%",
+      "period": "2024",
+      "source_ids": ["s43"]
+    },
+    {
+      "label_en": "Sales FY2023 (peak)",
+      "label_zh": "2023 年销量（峰值）",
+      "value_en": "About 480,000 units, up about 77% year on year",
+      "value_zh": "约 48 万辆，同比增长约 77%",
+      "period": "2023",
+      "source_ids": ["s18", "s29"]
+    },
+    {
+      "label_en": "Sales H1 2026",
+      "label_zh": "2026 上半年销量",
+      "value_en": "181,579 units, up 67.08% year on year; C-end retail share above 80%",
+      "value_zh": "181,579 辆，同比增长 67.08%；C 端零售占比超 80%",
+      "period": "2026 H1",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "label_en": "Hyptec-Aion BU retail sales, Sep 2026",
+      "label_zh": "2026 年 9 月昊铂埃安 BU 终端销量",
+      "value_en": "35,494 retail units, up 21.91% year on year, the seventh straight month of year-on-year growth (retail/end-consumer basis)",
+      "value_zh": "终端销量 35,494 辆，同比增长 21.91%，连续 7 个月同比正增长（终端零售口径）",
+      "period": "2026-09",
+      "source_ids": ["s24"]
+    },
+    {
+      "label_en": "Cumulative production & sales",
+      "label_zh": "累计产销",
+      "value_en": "Passed one million vehicles on 2023-12-28, which Aion called the fastest such milestone for a pure-electric brand",
+      "value_zh": "2023 年 12 月 28 日累计产销突破 100 万辆，埃安称其为全球最快达成百万辆的纯电品牌",
+      "period": "2023-12",
+      "source_ids": ["s29"]
+    },
+    {
+      "label_en": "Overseas presence",
+      "label_zh": "海外布局",
+      "value_en": "First overseas plant (Thailand, Rayong) opened July 2024 with a THB2.3 billion investment and 50,000-unit first-phase capacity (expandable to 100,000); no official Aion-brand overseas sales figure",
+      "value_zh": "首个海外工厂（泰国罗勇）2024 年 7 月投产，总投资 23 亿泰铢、一期年产能 5 万辆（可扩至 10 万辆）；埃安品牌海外销量无官方披露",
+      "period": "2024–2026",
+      "source_ids": ["s8", "s9", "s39"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2017-07-28",
+      "event_en": "GAC Group establishes GAC New Energy (GAC Aion's predecessor) as its carrier for intelligent connected new-energy vehicles.",
+      "event_zh": "广汽集团成立广汽新能源（广汽埃安前身），作为发展智能网联新能源汽车的载体。",
+      "source_ids": ["s6", "s13", "s47"]
+    },
+    {
+      "date": "2019-04",
+      "event_en": "The first model, the AION S sedan, goes on sale; Aion sells about 42,000 vehicles in 2019.",
+      "event_zh": "首款车型 AION S 轿车上市；埃安 2019 年销量约 4.2 万辆。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2020-11-20",
+      "event_en": "At the Guangzhou Auto Show, the Aion brand is declared independent and operates alongside the Trumpchi brand; GAC New Energy is renamed GAC Aion New Energy Automobile Co., Ltd.",
+      "event_zh": "广州车展上宣布埃安品牌独立运营、与传祺品牌并行发展，广汽新能源更名为广汽埃安新能源汽车有限公司。",
+      "source_ids": ["s13", "s14"]
+    },
+    {
+      "date": "2021",
+      "event_en": "Aion sells about 60,000 vehicles in 2020 and about 120,200 in 2021.",
+      "event_zh": "埃安 2020 年销量约 6 万辆，2021 年约 12.02 万辆。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2021-03",
+      "event_en": "Aion releases the Magazine Battery (Danxia battery) system safety technology.",
+      "event_zh": "广汽埃安发布弹匣电池系统安全技术。",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2021-08-30",
+      "event_en": "GAC Aion launches its mixed-ownership reform and investor-invitation process.",
+      "event_zh": "广汽埃安启动混合所有制改革及引战工作。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2022-03",
+      "event_en": "GAC's board approves employee equity incentives, GAC R&D Institute technologist shareholding and partial investor introduction, raising RMB2.566 billion.",
+      "event_zh": "广汽董事会审议通过员工股权激励、广汽研究院科技人员持股及同步部分引战，融资 25.66 亿元。",
+      "source_ids": ["s35", "s19"]
+    },
+    {
+      "date": "2022-09-15",
+      "event_en": "Aion unveils a new logo and the high-end Hyper (Haobo) brand; the Hyper SSR electric supercar makes its debut. GAC Aion had completed its joint-stock reform on 6 September 2022.",
+      "event_zh": "发布全新 LOGO 并推出高端品牌昊铂（Hyper），首款纯电超跑 Hyper SSR 亮相；此前于 2022 年 9 月 6 日完成股份制改革。",
+      "source_ids": ["s17", "s19"]
+    },
+    {
+      "date": "2022-10-12",
+      "event_en": "Aion's second smart manufacturing centre is completed, lifting planned capacity to 400,000 units a year (up to 600,000 in multi-shift operation).",
+      "event_zh": "第二智造中心竣工投产，整体规划产能突破 40 万辆（多班生产最高可达 60 万辆）。",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2022-10-20",
+      "event_en": "Series-A financing is completed: 53 strategic investors subscribe RMB18.294 billion for 17.72% of shares at a post-money valuation of RMB103.239 billion; GAC's holding falls from 93.45% to 76.89% and Aion remains a GAC subsidiary.",
+      "event_zh": "完成 A 轮融资：引入 53 名战略投资者，融资 182.94 亿元、释放 17.72% 股份，投后估值 1032.39 亿元；广汽持股由 93.45% 降至 76.89%，埃安仍为广汽控股子公司。",
+      "source_ids": ["s6", "s13", "s16"]
+    },
+    {
+      "date": "2023-12-28",
+      "event_en": "Cumulative production and sales pass one million vehicles, which Aion describes as the fastest such milestone for a pure-electric brand.",
+      "event_zh": "累计产销突破 100 万辆，埃安称其为全球最快达成百万辆的纯电品牌。",
+      "source_ids": ["s29"]
+    },
+    {
+      "date": "2024-07-17",
+      "event_en": "The GAC Aion Thailand smart factory in Rayong is completed and begins production, with a THB2.3 billion investment and a designed first-phase capacity of 50,000 vehicles a year; the second-generation AION V rolls off the line globally.",
+      "event_zh": "广汽埃安泰国罗勇智能工厂竣工投产，总投资 23 亿泰铢、一期设计年产能 5 万辆，第二代 AION V 全球同步下线。",
+      "source_ids": ["s8", "s9", "s39"]
+    },
+    {
+      "date": "2024-08-21",
+      "event_en": "The former GAC Mitsubishi Changsha plant, refitted by GAC Aion, is completed and put into production.",
+      "event_zh": "广汽埃安接管改造的原广汽三菱长沙工厂竣工投产。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2024",
+      "event_en": "Aion's annual sales fall to 374,884 units, down 21.9% year on year, as the ride-hailing market saturates; the brand begins its retail-first transformation.",
+      "event_zh": "埃安全年销量降至 374,884 辆，同比下滑 21.9%，网约车市场趋于饱和；品牌开始向 C 端零售转型。",
+      "source_ids": ["s2", "s20"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "GAC Group chairman Zeng Qinghong retires at the statutory age and Feng Xingya succeeds him as GAC Group chairman (and general manager).",
+      "event_zh": "广汽集团董事长曾庆洪到龄退休，冯兴亚接任广汽集团董事长（并兼任总经理）。",
+      "source_ids": ["s22", "s38"]
+    },
+    {
+      "date": "2025-03",
+      "event_en": "Gu Huinan, Aion's founding general manager, retires at the statutory age, according to multiple media reports.",
+      "event_zh": "据多家媒体报道，埃安首任总经理古惠南到龄退休。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2025-06",
+      "event_en": "In a business-registration change, GAC Group chairman Feng Xingya steps down as GAC Aion's legal representative and chairman, succeeded by Xia Xianqing.",
+      "event_zh": "工商变更：广汽集团董事长冯兴亚卸任广汽埃安法定代表人、董事长，由閤先庆接任。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2025-11-16",
+      "event_en": "The AION i60 compact SUV goes on sale in pure-electric and range-extended versions, becoming Aion's first EREV model, at a limited-time launch price from RMB104,800. The same day GAC appoints Xia Xianqing as group general manager.",
+      "event_zh": "埃安 i60 紧凑型 SUV 上市，提供纯电与增程两种动力，为埃安首款增程车型，上市限时焕新价 10.48 万元起；同日广汽集团聘任閤先庆为总经理。",
+      "source_ids": ["s32", "s38", "s48"]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "GAC merges Hyptec and Aion into a single 'Hyptec-Aion BU' business unit and starts channel integration.",
+      "event_zh": "广汽将昊铂与埃安合并组建为「昊铂埃安 BU」业务单元并开启渠道融合。",
+      "source_ids": ["s1", "s30"]
+    },
+    {
+      "date": "2026-04",
+      "event_en": "Aion completes a brand renewal with a new logo and the 'Easy Life' proposition, targeting young family users, and launches the N60 smart urban SUV with LiDAR as standard.",
+      "event_zh": "埃安完成品牌焕新，启用新 LOGO 与「智悦生活 Easy Life」主张，聚焦年轻家庭用户，并推出全系标配激光雷达的 N60 智美都市 SUV。",
+      "source_ids": ["s20", "s5"]
+    },
+    {
+      "date": "2026-09-15",
+      "event_en": "The 2027-model AION i60 is refreshed and launched with a limited-time price from RMB106,800; Aion says first-month orders passed 20,000 and the i60 line's cumulative users passed 100,000.",
+      "event_zh": "2027 款埃安 i60 焕新上市，限时焕新价 10.68 万元起；埃安称其上市当月订单突破 2 万辆、i60 车系累计用户突破 10 万。",
+      "source_ids": ["s24", "s41"]
+    },
+    {
+      "date": "2026-09-21",
+      "event_en": "The Ray 7, the first model of the new Ray series, opens its pre-sale programme, positioned as a mid-to-large pure-electric sedan.",
+      "event_zh": "全新 Ray 系列首款车型 Ray7 开启先享计划，定位中大型纯电轿车。",
+      "source_ids": ["s4"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "AION S",
+      "name_zh": "AION S",
+      "role_en": "Compact-to-mid-size pure-electric sedan; the 2019 first model and long-running ride-hailing workhorse.",
+      "role_zh": "紧凑至中型纯电轿车，2019 年首款车型，长期以来的网约车主力。",
+      "price_band": "Current guide price about RMB 118,800-169,900",
+      "founded": 2019,
+      "owner_note_en": "Launched April 2019 as Aion's first model. AION S (and later S Plus variants) became the backbone of the ride-hailing fleet: a media outlet (Dian Dong Gong Hui) counted its 2021 B-end (business) share at 63.01%, and in 2023 about 45% of Aion's overall sales were in the online-hailing market, according to media citing company/interview figures.",
+      "owner_note_zh": "2019 年 4 月上市，为埃安首款车型。AION S（及后续 S Plus 等版本）长期是网约车主力：媒体（电动公会）统计其 2021 年 B 端占比为 63.01%；另据媒体转引，2023 年埃安全年约 45% 的销量来自网约车市场。",
+      "status": "active",
+      "source_ids": ["s18", "s20", "s36"]
+    },
+    {
+      "name_en": "AION Y / Y Plus",
+      "name_zh": "AION Y／Y Plus",
+      "role_en": "Compact pure-electric SUV; a top seller in both ride-hailing and family segments.",
+      "role_zh": "紧凑型纯电 SUV，网约车与家用市场的主力车型。",
+      "price_band": "Current guide price about RMB 99,800-123,800",
+      "founded": 2021,
+      "owner_note_en": "Alongside the AION S, the AION Y was a core ride-hailing model, with a 2021 B-end share of 20.33% by one media count. The Y Plus also became Aion's first overseas product, launched in Thailand in September 2023, and is now among its main export models in Southeast Asia.",
+      "owner_note_zh": "与 AION S 同为网约车核心车型，媒体（电动公会）统计其 2021 年 B 端占比 20.33%。Y Plus 是埃安首款出海产品，2023 年 9 月在泰国上市，现为埃安东南亚主力出口车型之一。",
+      "status": "active",
+      "source_ids": ["s20", "s36", "s37"]
+    },
+    {
+      "name_en": "AION V (Bawanglong)",
+      "name_zh": "AION V（霸王龙）",
+      "role_en": "Compact pure-electric SUV; the second generation (2024) is a global strategic model.",
+      "role_zh": "紧凑型纯电 SUV；第二代（2024 年）为全球战略车型。",
+      "price_band": "Current guide price about RMB 109,800-141,800",
+      "founded": 2020,
+      "owner_note_en": "The second-generation AION V was the first model to roll off the Thailand plant on 17 July 2024 and is produced locally there. By mid-2026 it had won Euro NCAP and ANCAP five-star safety ratings and entered European markets including the UK and Spain.",
+      "owner_note_zh": "第二代 AION V 是 2024 年 7 月 17 日泰国工厂首款下线车型，并在泰国本地化生产。2026 年年中已获 Euro NCAP、ANCAP 双五星安全认证，登陆英国、西班牙等欧洲市场。",
+      "status": "active",
+      "source_ids": ["s8", "s12"]
+    },
+    {
+      "name_en": "AION LX",
+      "name_zh": "AION LX",
+      "role_en": "Mid-to-large premium pure-electric SUV, the brand's early upper-end model.",
+      "role_zh": "中大型高端纯电 SUV，品牌早期上攻车型。",
+      "price_band": "Current guide price about RMB 286,600-469,600",
+      "founded": 2019,
+      "owner_note_en": "An early upmarket attempt; media have noted the LX showed that high-priced Aion EVs had difficulty attracting buyers on cost-performance alone, and it is a low-volume model.",
+      "owner_note_zh": "早期的品牌上攻尝试；媒体指出 LX 表明高端纯电靠性价比难以吸引消费者，为低销量车型。",
+      "status": "active",
+      "source_ids": ["s17"]
+    },
+    {
+      "name_en": "AION UT",
+      "name_zh": "AION UT",
+      "role_en": "Small pure-electric hatchback aimed at the entry and family market.",
+      "role_zh": "小型纯电两厢车，面向入门与家用市场。",
+      "price_band": "Current guide price about RMB 69,800-101,800",
+      "founded": 2025,
+      "owner_note_en": "Launched in 2025 as a C-end (retail) product to dilute the ride-hailing image. GAC jointly created an 'AION UT super' variant with JD.com and CATL, and by mid-2026 the UT was described by GAC as a global best-selling model.",
+      "owner_note_zh": "2025 年推出，定位 C 端零售产品以淡化网约车标签。广汽联手京东与宁德时代推出「埃安 UT super」；2026 年年中广汽称 UT 为全球化爆款车型。",
+      "status": "active",
+      "source_ids": ["s1", "s12", "s20"]
+    },
+    {
+      "name_en": "AION RT",
+      "name_zh": "AION RT",
+      "role_en": "Compact pure-electric sedan, one of the 2024 C-end global strategic models.",
+      "role_zh": "紧凑型纯电轿车，2024 年推出的 C 端全球战略车型之一。",
+      "price_band": "Current guide price about RMB 99,800-128,800",
+      "founded": 2024,
+      "owner_note_en": "Launched in 2024 under the brand's retail-focused push. Media report its 2027 model uses GAC's self-developed amorphous-alloy e-drive, which set a low energy-consumption record (8.571 kWh/100km); the 0.025mm amorphous-alloy ribbon was co-developed by GAC and the CAS Dongguan Institute.",
+      "owner_note_zh": "2024 年上市，属于品牌向 C 端转型的产品；据媒体报道，2027 款搭载广汽自研非晶合金电驱，以 8.571kWh/100km 电耗创下纪录，该 0.025mm 非晶合金薄带由广汽与中国科学院东莞材料科学与技术研究所联合攻关。",
+      "status": "active",
+      "source_ids": ["s24"]
+    },
+    {
+      "name_en": "AION i60",
+      "name_zh": "AION i60",
+      "role_en": "Compact five-seat SUV available in pure-electric and range-extended versions; the volume anchor since late 2025.",
+      "role_zh": "紧凑型大五座 SUV，提供纯电与增程两种动力；2025 年底以来的销量主力。",
+      "price_band": "Launched at a limited-time price from RMB 104,800 (Nov 2025); 2027 model from RMB 106,800 (Sep 2026)",
+      "founded": 2025,
+      "owner_note_en": "Launched on 16 November 2025 as Aion's first EREV + BEV dual-powertrain model; it is 4,685 mm long, 1,854 mm wide and 1,660 mm high with a 2,775 mm wheelbase. Cumulative sales reached 20,123 units by early January 2026, and GAC said the i60 stayed above 10,000 units a month since launch. The refreshed 2027 model launched on 15 September 2026 took over 20,000 orders in its first month, and the i60 line passed 100,000 cumulative users within a year.",
+      "owner_note_zh": "2025 年 11 月 16 日上市，为埃安首款增程＋纯电双动力车型，长宽高 4685/1854/1660 mm、轴距 2775 mm。截至 2026 年 1 月上旬累计销量达 20,123 辆，广汽称其上市后月销持续破万辆。2027 款于 2026 年 9 月 15 日焕新上市，首月订单突破 2 万辆，i60 车系上市不到一年累计用户突破 10 万。",
+      "status": "active",
+      "source_ids": ["s32", "s1", "s11", "s24"]
+    },
+    {
+      "name_en": "AION N60",
+      "name_zh": "AION N60",
+      "role_en": "Smart urban SUV launched with the 2026 brand renewal, with LiDAR as standard.",
+      "role_zh": "2026 年品牌焕新时推出的智美都市 SUV，全系标配激光雷达。",
+      "price_band": "Guide price RMB 109,800-129,800",
+      "founded": 2026,
+      "owner_note_en": "Launched in late April 2026 with LiDAR and high-level driving assist standard across the range, at 4,615 mm long with a 2,775 mm wheelbase; GAC said deliveries passed 10,000 within about two months of launch and the N60 passed 20,000 users within five months, taking the 100,000-130,000-yuan LiDAR sedan/SUV sales crown for five straight months.",
+      "owner_note_zh": "2026 年 4 月底上市，全系标配激光雷达与高阶智驾，车长 4615 mm、轴距 2775 mm；广汽称其上市约两个月交付即突破万辆，上市不足 5 个月用户突破 2 万，连续 5 个月位居 10 万-13 万元激光雷达车型销冠。",
+      "status": "active",
+      "source_ids": ["s5", "s11", "s12", "s24"]
+    },
+    {
+      "name_en": "Ray series (Ray 7)",
+      "name_zh": "Ray 系列（Ray7）",
+      "role_en": "New model series targeting young drivers; the Ray 7 is a mid-to-large pure-electric sedan.",
+      "role_zh": "面向年轻用户的全新车系；Ray7 为中大型纯电轿车。",
+      "price_band": "Pre-sale from about RMB 128,800 (media); positioned in the RMB 150,000-180,000 class",
+      "founded": 2026,
+      "owner_note_en": "The Ray 7 opened its pre-sale programme on 21 September 2026. It is 4,960 mm long, 1,900 mm wide and 1,455 mm high with a 2,920 mm wheelbase and a 180 kW motor; media report it is the first model to use Huawei EMB brake-by-wire and Huawei iTRACK torque control, with an aluminium-hybrid front double-wishbone and rear five-link suspension plus FSD dampers.",
+      "owner_note_zh": "Ray7 于 2026 年 9 月 21 日开启先享计划。车长 4960 mm、宽 1900 mm、高 1455 mm，轴距 2920 mm，电机最大功率 180kW；据媒体报道，为首搭华为 EMB 全电线控制动与华为 iTRACK 智能扭矩控制系统、采用铝混前双叉臂＋后五连杆悬挂并配备 FSD 可变阻尼悬架的车型。",
+      "status": "active",
+      "source_ids": ["s4", "s24", "s41"]
+    },
+    {
+      "name_en": "Hyptec (Hyper)",
+      "name_zh": "昊铂（Hyptec）",
+      "role_en": "Aion's high-end new-energy sub-brand (BEV plus EREV), now operated within the merged Hyptec-Aion BU.",
+      "role_zh": "埃安旗下高端新能源子品牌（纯电＋增程），现并入昊铂埃安 BU 运营。",
+      "price_band": null,
+      "founded": 2022,
+      "owner_note_en": "Launched September 2022 with the Hyper SSR supercar; models include GT, HT, SSR, HL, A800 and S600. Under the dual-brand strategy, Hyptec focuses on the 'elite car' positioning and launched the A800 and S600 in H1 2026; the S600 is a mid-to-large SUV (pure-electric range 660 km, EREV combined up to 1,260 km) guided at RMB 199,900-226,900. Hyptec has a separate deep-research page on this site.",
+      "owner_note_zh": "2022 年 9 月发布，以 Hyper SSR 超跑开篇，车型包括 GT、HT、SSR、HL、A800、S600。双品牌战略下，昊铂聚焦「精英座驾」定位，2026 年上半年推出 A800、S600 两款车型；其中 S600 为中大型 SUV（纯电续航 660km、增程综合续航最高 1260km），指导价 19.99 万-22.69 万元。昊铂在本站有独立深度研究页面。",
+      "status": "active",
+      "source_ids": ["s17", "s30", "s11", "s41"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP; sales revenue of a principal subsidiary in GAC Group filings (not a standalone Aion income statement)",
+    "rows": [
+      {
+        "fiscal_year": 2024,
+        "revenue": 37421,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": ["s43"]
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 28384,
+        "gross_margin_pct": null,
+        "net_profit": null,
+        "rnd": null,
+        "source_ids": ["s44"]
+      }
+    ],
+    "note_en": "Figures are in million yuan. Revenue in the table is sales revenue of GAC Aion in GAC Group's table of principal subsidiaries under PRC GAAP, not a line from a standalone Aion income statement: RMB37.421 billion in 2024 (down 29.70% year on year) and RMB28.384 billion in 2025 (down 24.15%). Gross margin, net profit and R&D are not broken out in those filings, so those cells are null and are not estimated. The same table in the 2026 interim report shows H1 2026 sales revenue of RMB18.838 billion, up 82.82% year on year; the 2025 interim report states H1 2025 operating revenue of RMB10.304 billion. Parent-level net profit attributable to owners of the parent is disclosed by GAC Group and is covered in the GAC (gac) deep research: an audited 2025 loss of RMB8.784 billion, with the board approving the annual report on 27 March 2026, after a 2024 profit of RMB824 million. This page does not constitute any trading recommendation.",
+    "note_zh": "单位：百万元人民币。表内收入是广汽集团年报主要控股公司表中的广汽埃安销售收入，按中国企业会计准则列示，不是埃安单独利润表的项目：2024 年 374.21 亿元（同比 -29.70%），2025 年 283.84 亿元（同比 -24.15%）。毛利率、净利润、研发投入在这些报表中未单列，故相关单元格为 null，不做估算。2026 年中期报告同一口径列示 2026 年上半年销售收入 188.38 亿元，同比 +82.82%；2025 年中期报告写明 2025 年上半年营业收入 103.04 亿元。母公司层面归属于母公司股东的净利润由广汽集团披露，见广汽集团（gac）深度研究：2025 年经审计亏损 87.84 亿元（董事会于 2026 年 3 月 27 日批准年报），2024 年盈利 8.24 亿元。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Aion is the mainstream new-energy vehicle brand of Guangzhou Automobile Group (GAC Group, SSE 601238 / HKEX 02238). Its predecessor, GAC New Energy, was established on 28 July 2017 as GAC's carrier for intelligent connected new-energy vehicles, and the brand became independent at the Guangzhou Auto Show on 20 November 2020.<a href=\"https://www.gz.gov.cn/xw/zwlb/bmdt/sdfjrjdglj/content/post_8639925.html\">[s6]</a><a href=\"https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html\">[s13]</a><a href=\"https://auto.cctv.com/2020/11/20/ARTIGWcON2d5nwaSG7kWIQhs201120.shtml\">[s14]</a> The operating entity is GAC Aion New Energy Automobile Co., Ltd., which brought in 53 strategic investors in a Series-A round in October 2022 (RMB18.294 billion, post-money valuation RMB103.239 billion), leaving GAC Group with 76.89%.<a href=\"https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html\">[s13]</a><a href=\"https://www.ce.cn/cysc/newmain/yc/jsxw/202210/22/t20221022_38186850.shtml\">[s16]</a> Aion sells pure-electric and range-extended models mainly in the RMB 70,000-150,000 mainstream band, plus the high-end Hyptec (Hyper) sub-brand.<a href=\"https://www.aion.com.cn/\">[s3]</a></p><p>Aion grew from about 42,000 vehicles in 2019 to a peak of about 480,000 in 2023, driven heavily by ride-hailing fleets, then fell to 374,884 in 2024 and 290,081 in 2025 as the ride-hailing market saturated.<a href=\"https://thepaper.cn/newsDetail_forward_27761533\">[s18]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-08/601238_20260108_PA7U.pdf\">[s2]</a> From late 2025 the brand shifted to a dual-brand strategy (Aion as 'national good car', Hyptec as 'elite car') and a retail-first push; the merged Hyptec-Aion BU sold 181,579 units in H1 2026, up 67.08% year on year with the C-end share above 80%, and 35,494 units in September 2026, up 21.91%, its seventh straight month of year-on-year growth.<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-07-03/601238_20260703_QBQD.pdf\">[s10]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a> Within GAC Group, Aion is the core of the group's own-brand new-energy business and was merged with Hyptec into the 'Hyptec-Aion BU' in December 2025.<a href=\"https://www.gac.com.cn/cn/news/detail?baseid=19069\">[s1]</a><a href=\"https://www.legaldaily.com.cn/Company/content/2026-01/21/content_9327416.html\">[s30]</a></p>",
+      "zh": "<p>埃安（Aion）是广州汽车集团股份有限公司（广汽集团，上交所 601238／港交所 02238）旗下的主流新能源汽车品牌。其前身广汽新能源于 2017 年 7 月 28 日成立，是广汽发展智能网联新能源汽车的载体，2020 年 11 月 20 日在广州车展上宣布品牌独立。<a href=\"https://www.gz.gov.cn/xw/zwlb/bmdt/sdfjrjdglj/content/post_8639925.html\">[s6]</a><a href=\"https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html\">[s13]</a><a href=\"https://auto.cctv.com/2020/11/20/ARTIGWcON2d5nwaSG7kWIQhs201120.shtml\">[s14]</a> 运营主体为广汽埃安新能源汽车股份有限公司，2022 年 10 月完成 A 轮融资、引入 53 名战略投资者（融资 182.94 亿元、投后估值 1032.39 亿元），广汽直接及间接持股降至 76.89%。<a href=\"https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html\">[s13]</a><a href=\"https://www.ce.cn/cysc/newmain/yc/jsxw/202210/22/t20221022_38186850.shtml\">[s16]</a> 埃安主销约 7 万-15 万元主流价位的纯电与增程车型，另有高端子品牌昊铂（Hyptec）。<a href=\"https://www.aion.com.cn/\">[s3]</a></p><p>埃安销量从 2019 年约 4.2 万辆增长到 2023 年约 48 万辆的峰值，主要依靠网约车市场拉动，随后在网约车市场饱和的背景下回落至 2024 年 374,884 辆、2025 年 290,081 辆（同比 -22.62%）。<a href=\"https://thepaper.cn/newsDetail_forward_27761533\">[s18]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-08/601238_20260108_PA7U.pdf\">[s2]</a> 2025 年底起，品牌转向「埃安国民好车、昊铂精英座驾」的双品牌战略并主攻 C 端零售，2026 年上半年合并口径的昊铂埃安 BU 累计销量回升至 181,579 辆，同比增长 67.08%，C 端用户占比超 80%；2026 年 9 月终端销量 35,494 辆，同比增长 21.91%，连续 7 个月同比正增长。<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-07-03/601238_20260703_QBQD.pdf\">[s10]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a> 在广汽集团内部，埃安是自主新能源业务的核心，2025 年 12 月与昊铂合并组建「昊铂埃安 BU」。<a href=\"https://www.gac.com.cn/cn/news/detail?baseid=19069\">[s1]</a><a href=\"https://www.legaldaily.com.cn/Company/content/2026-01/21/content_9327416.html\">[s30]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Model line-up and positioning</h3><p>As of the research cut-off (2026-10-29), Aion's China line-up spans the AION S and RT sedans, the AION Y and V SUVs, the small UT hatchback, the upper-end LX, the i60 (BEV/EREV) and N60, plus the Ray 7 in pre-sale, spanning a mainstream band of roughly RMB 70,000-150,000, plus the upper-end AION LX (about RMB 286,600-469,600).<a href=\"https://www.aion.com.cn/\">[s3]</a> The N60 carries LiDAR and high-level driving assist as standard from RMB 109,800-129,800, with a 4,615 mm body and 2,775 mm wheelbase; within about two months it delivered over 10,000 units and passed 20,000 users in under five months.<a href=\"https://www.aion.com.cn/vehicle/config/table?cid=NzA%3D\">[s5]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a> The i60 (launched at a limited-time RMB 104,800, 2027 model from RMB 106,800) is the current volume anchor; GAC said it stayed above 10,000 units a month after launch, and the refreshed 2027 model took over 20,000 orders in its first month.<a href=\"https://auto.cri.cn/20251117/f12d622f-acc6-4c6d-ac82-d4f9e99c7e31.html\">[s32]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a> In April 2026 the brand completed a renewal with a new logo and the 'Easy Life' proposition, repositioning around 'fashion, smart, peace of mind' for young families; under the dual-brand strategy Aion is positioned as the 'national good car' while Hyptec focuses on the 'elite car'.<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a></p><h3>Core technology</h3><p>Aion's technology stack includes the AEP pure-electric platform (AEP 3.0 released November 2022), the Magazine Battery safety system, the Xingling electronic/electrical architecture (upgraded to Xingling 4.0 in 2026), the ADiGO cockpit system and the self-developed GSD driving-assist system.<a href=\"https://stcn.com/article/detail/705033.html\">[s17]</a><a href=\"https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml\">[s15]</a> The brand self-supplies batteries through Inpai Battery (established October 2022, GAC Aion-controlled; media report a RMB10.9 billion total investment and over 300,000 battery packs produced by October 2026) and e-drives through Ruipai Power.<a href=\"https://static.nfapp.southcn.com/content/202210/28/c7013379.html\">[s21]</a><a href=\"https://m.news18a.com/news/storys_306347.html\">[s25]</a> GAC says the Magazine Battery 2.0 has logged 50 billion kilometres without a self-ignition incident; GAC's 2025 'Xingyuan EREV' system (oil-to-electricity conversion 3.73 kWh/L, sustained output 85 kW, 5.5 L/100km at low charge) is fitted to the i60 and Hyptec HL.<a href=\"https://auto.cri.cn/20251117/f12d622f-acc6-4c6d-ac82-d4f9e99c7e31.html\">[s32]</a> GAC says its upgraded ADiGO GSD driving assist covers 99.9% of road scenarios, and its self-developed amorphous-alloy e-drive (0.025mm ribbon, co-developed with the CAS Dongguan Institute) is used on the RT, N60 and i60.<a href=\"https://www.gac.com.cn/cn/news/detail?baseid=19069\">[s1]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a></p><h3>Plants and capacity</h3><p>Aion's main base is the Guangzhou Panyu intelligent new-energy eco-plant; after the second smart manufacturing centre was completed in October 2022, planned annual capacity reached 400,000 units (up to 600,000 in multi-shift operation), of which 200,000 units is dedicated to the AION Y Plus.<a href=\"https://stcn.com/article/detail/705033.html\">[s17]</a> The refitted former GAC Mitsubishi Changsha plant was completed and started production on 21 August 2024.<a href=\"https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202408/t20240821_33435869.html\">[s7]</a> Overseas, the GAC Aion Thailand smart factory in Rayong (Eastern Economic Corridor) opened on 17 July 2024 with a THB2.3 billion investment and a 50,000-unit first phase, expandable to 100,000 units; it produces the second-generation AION V and AION Y Plus, and Aion has said an Indonesia plant was planned as its second overseas base.<a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a><a href=\"https://m.cnfin.com/gs-lb//zixun/20240717/4076795_1.html\">[s9]</a><a href=\"https://www.workercn.cn/c/2024-07-18/8306872.shtml\">[s39]</a></p><h3>Overseas business</h3><p>GAC said its business covered 86 countries and regions by end-2025 with more than 630 outlets; H1 2026 group self-brand exports reached 121,500 units, up 132% year on year, with Hyptec-Aion models present in Singapore, Thailand, Colombia, Saudi Arabia, the UAE and Greece (where it ranked second and third in the pure-electric segment in July and August 2026).<a href=\"https://www.gac.com.cn/cn/news/detail?baseid=19069\">[s1]</a><a href=\"https://www.gz.gov.cn/ysgz/xwdt/ysdt/content/post_10886171.html\">[s40]</a><a href=\"https://new.qq.com/rain/a/20261003A0A96M00\">[s41]</a> The second-generation AION V won Euro NCAP and ANCAP five-star ratings and entered European markets including the UK and Spain.<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19173\">[s12]</a> The first stage of channel integration for the Hyptec-Aion BU was completed, with 254 stores across 147 cities upgraded for dual-brand operation.<a href=\"https://new.qq.com/rain/a/20261003A0A96M00\">[s41]</a></p>",
+      "zh": "<h3>车型谱系与定位</h3><p>截至研究截止日（2026-10-29），埃安国内在售车型包括 AION S、RT 轿车，AION Y、V 两款 SUV，小型两厢车 UT，上攻车型 LX，以及 i60（纯电／增程）、N60 和开启先享计划的 Ray7，整体覆盖约 7 万-15 万元主流价位，另有上攻车型 AION LX（约 28.66 万-46.96 万元）。<a href=\"https://www.aion.com.cn/\">[s3]</a> N60 全系标配激光雷达与高阶智驾，指导价 10.98 万-12.98 万元，车长 4615 mm、轴距 2775 mm，上市约两个月交付突破万辆、不足 5 个月用户突破 2 万。<a href=\"https://www.aion.com.cn/vehicle/config/table?cid=NzA%3D\">[s5]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a> i60（上市限时焕新价 10.48 万元起、2027 款 10.68 万元起）是当前销量主力：广汽称其上市后月销持续破万辆，2027 款焕新上市首月订单突破 2 万辆。<a href=\"https://auto.cri.cn/20251117/f12d622f-acc6-4c6d-ac82-d4f9e99c7e31.html\">[s32]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a> 2026 年 4 月品牌完成焕新，启用新 LOGO 与「智悦生活 Easy Life」主张，重新聚焦「时尚、智能、安心」，瞄准年轻家庭用户；双品牌战略下，埃安主打「国民好车」、昊铂聚焦「精英座驾」。<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a></p><h3>核心技术</h3><p>埃安的技术栈包括 AEP 纯电专属平台（2022 年 11 月发布 AEP 3.0）、弹匣电池安全技术、星灵电子电气架构（2026 年升级至星灵架构 4.0）、ADiGO 智能座舱与自研 GSD 智驾系统。<a href=\"https://stcn.com/article/detail/705033.html\">[s17]</a><a href=\"https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml\">[s15]</a> 品牌通过因湃电池（2022 年 10 月成立，由广汽埃安控股，媒体称总投资 109 亿元、截至 2026 年 10 月累计电池包下线突破 30 万套）与锐湃动力自研自产电池与电驱。<a href=\"https://static.nfapp.southcn.com/content/202210/28/c7013379.html\">[s21]</a><a href=\"https://m.news18a.com/news/storys_306347.html\">[s25]</a> 广汽称弹匣电池 2.0 已达成 500 亿公里 0 自燃纪录；广汽 2025 年发布的「星源增程」技术（油电转化率高达 3.73kWh/L、持续发电功率 85kW、亏电油耗 5.5L/100km）已搭载于 i60 与昊铂 HL。<a href=\"https://auto.cri.cn/20251117/f12d622f-acc6-4c6d-ac82-d4f9e99c7e31.html\">[s32]</a> 广汽称其升级后的 ADiGO GSD 智驾系统已覆盖 99.9% 道路场景；自研非晶合金电驱（0.025mm 薄带，与中科院东莞材料所联合攻关）已应用于 RT、N60、i60 等车型。<a href=\"https://www.gac.com.cn/cn/news/detail?baseid=19069\">[s1]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a></p><h3>工厂与产能</h3><p>埃安主基地为广州番禺智能新能源汽车生态工厂，2022 年 10 月第二智造中心竣工后规划年产能达 40 万辆（多班生产最高 60 万辆），其中 20 万辆产能专注于 AION Y Plus 车型生产。<a href=\"https://stcn.com/article/detail/705033.html\">[s17]</a> 接管改造的原广汽三菱长沙工厂于 2024 年 8 月 21 日竣工投产。<a href=\"https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202408/t20240821_33435869.html\">[s7]</a> 海外方面，广汽埃安泰国罗勇智能工厂（位于东部经济走廊）2024 年 7 月 17 日竣工投产，总投资 23 亿泰铢、一期年产能 5 万辆、可扩能至 10 万辆，生产第二代 AION V 与 AION Y Plus；埃安曾表示印尼工厂是其规划中的第二个海外基地。<a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a><a href=\"https://m.cnfin.com/gs-lb//zixun/20240717/4076795_1.html\">[s9]</a><a href=\"https://www.workercn.cn/c/2024-07-18/8306872.shtml\">[s39]</a></p><h3>海外业务</h3><p>广汽称截至 2025 年底业务已覆盖 86 个国家和地区、网点超 630 个；2026 年上半年集团自主品牌出口达 12.15 万辆、同比增长 132%，昊铂埃安车型已进入新加坡、泰国、哥伦比亚、沙特、阿联酋、希腊等市场（其中 2026 年 7 月、8 月在希腊纯电细分市场分列第二、第三）。<a href=\"https://www.gac.com.cn/cn/news/detail?baseid=19069\">[s1]</a><a href=\"https://www.gz.gov.cn/ysgz/xwdt/ysdt/content/post_10886171.html\">[s40]</a><a href=\"https://new.qq.com/rain/a/20261003A0A96M00\">[s41]</a> 第二代 AION V 已获 Euro NCAP、ANCAP 双五星安全认证，登陆英国、西班牙等欧洲市场。<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19173\">[s12]</a> 昊铂埃安 BU 第一阶段渠道融合已完成，全国 147 个城市 254 家门店完成双品牌融合升级。<a href=\"https://new.qq.com/rain/a/20261003A0A96M00\">[s41]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Ownership and governance</h3><p>Aion is not a separate listed company. It is operated by GAC Aion New Energy Automobile Co., Ltd., a GAC-controlled subsidiary. After the October 2022 Series-A financing (53 strategic investors, 17.72% of shares), GAC Group's direct and indirect holding fell from 93.45% to 76.89%, and Aion remained GAC's controlled subsidiary.<a href=\"https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html\">[s13]</a><a href=\"https://www.ce.cn/cysc/newmain/yc/jsxw/202210/22/t20221022_38186850.shtml\">[s16]</a> On listing, GAC said in mid-2025 it would 'proceed with capitalisation at the right time'; in August 2026 GAC told investors Aion was 'focusing on its main business' without confirming IPO progress; in September 2026 financial media reported, citing a Beijing Equity Exchange document, that China Cinda was transferring part of its Aion stake while Aion prepared for a Hong Kong IPO.<a href=\"https://www.lanjinger.com/answer/46986\">[s27]</a><a href=\"https://aastocks.com/sc/stocks/news/aafn-con/NOW.1368983/industry-news/hk6\">[s28]</a></p><h3>Current management</h3><p>The chairman and legal representative of GAC Aion is Xia Xianqing (閤先庆), who took over from GAC Group chairman Feng Xingya in a business-registration change in June 2025. Xia (born December 1973, bachelor's degree) was appointed general manager of GAC Group on 16 November 2025; he previously served as GAC Group deputy general manager, head of its strategic development division, chairman and general manager of GAC Trading, and deputy general manager and head of sales at GAC Honda. GAC's 2025 annual report lists his current posts as executive director and general manager, and concurrently chairman of GAC Toyota, chairman of GAC Aion, chairman of Qijing Auto, vice chairman of GAC Toyota Engine and a director of GAC International. The report's glossary identifies Qijing Auto as Qijing Intelligent Automobile Technology (Guangzhou) Co., Ltd., formerly Huawang Automobile Technology (Guangzhou) Co., Ltd.<a href=\"https://news.qq.com/rain/a/20250610A029HW00\">[s26]</a><a href=\"https://stcn.com/article/detail/3498827.html\">[s38]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf\">[s44]</a> Gu Huinan (古惠南), Aion's founding general manager since 2017, retired at the statutory age in March 2025.<a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s22]</a> China National Radio reported on 18 December 2025 that Zhang Xiong (张雄) would serve as president of the Hyptec-Aion BU; that account is a media report, not a board announcement. The same report says public information shows he graduated from Tsinghua University in 2007 and later joined the GAC R&D Institute as an engineer.<a href=\"https://www.cnr.cn/2013qcpd/djfb/20251218/t20251218_527464512.shtml\">[s33]</a></p><h3>Founding management</h3><p>Gu Huinan joined Guangzhou Peugeot after graduating in 1987, then moved to the GAC Toyota engine plant and became a co-founder of GAC Trumpchi in 2007; from 2017 he led GAC Aion and grew its sales to about 480,000 in 2023.<a href=\"https://finance.sina.com.cn/tech/roll/2024-06-26/doc-inazzscp6277307.shtml\">[s31]</a><a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s22]</a><a href=\"https://thepaper.cn/newsDetail_forward_27761533\">[s18]</a></p>",
+      "zh": "<h3>股权与治理</h3><p>埃安并非单独上市公司，运营主体为广汽集团控股的广汽埃安新能源汽车股份有限公司。2022 年 10 月 A 轮融资（53 名战投、释放 17.72% 股份）后，广汽集团直接及间接持股由 93.45% 降至 76.89%，埃安仍为广汽集团控股子公司。<a href=\"https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html\">[s13]</a><a href=\"https://www.ce.cn/cysc/newmain/yc/jsxw/202210/22/t20221022_38186850.shtml\">[s16]</a> 就上市，广汽集团 2025 年年中称「等待合适时机推进资本化进程」，2026 年 8 月在投资者互动中称埃安「聚焦主业」、未确认 IPO 进展；2026 年 9 月有财经媒体援引北京产权交易所招商文件称，中国信达正挂牌转让所持埃安部分股权、埃安正推进港股 IPO。<a href=\"https://www.lanjinger.com/answer/46986\">[s27]</a><a href=\"https://aastocks.com/sc/stocks/news/aafn-con/NOW.1368983/industry-news/hk6\">[s28]</a></p><h3>现任管理层</h3><p>广汽埃安法定代表人、董事长为閤先庆，2025 年 6 月工商变更中接替广汽集团董事长冯兴亚出任。閤先庆 1973 年 12 月生、大学本科学历，2025 年 11 月 16 日获聘为广汽集团总经理；此前曾任广汽集团副总经理、战略发展本部本部长，广汽商贸董事长、总经理，广汽本田副总经理、销售本部本部长。广汽集团 2025 年年报列其现任为公司执行董事、总经理，兼任广汽丰田董事长、广汽埃安董事长、启境汽车董事长、广汽丰田发动机副董事长、广汽国际董事。年报释义写明，启境汽车指启境智能汽车科技（广州）有限公司，前称华望汽车技术（广州）有限公司。<a href=\"https://news.qq.com/rain/a/20250610A029HW00\">[s26]</a><a href=\"https://stcn.com/article/detail/3498827.html\">[s38]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf\">[s44]</a> 埃安首任总经理古惠南于 2025 年 3 月到龄退休。<a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s22]</a> 央广网 2025 年 12 月 18 日报道，张雄将担任昊铂埃安 BU 总裁；该说法来自媒体报道，不是董事会公告。同一报道称，公开信息显示张雄 2007 年毕业于清华大学，后加入广汽研究院成为工程师。<a href=\"https://www.cnr.cn/2013qcpd/djfb/20251218/t20251218_527464512.shtml\">[s33]</a></p><h3>创始管理层</h3><p>古惠南 1987 年毕业后进入广州标致，后转战广汽丰田发动机工厂，2007 年成为广汽传祺联合创始人；2017 年起执掌广汽埃安，带领品牌销量增长至 2023 年约 48 万辆。<a href=\"https://finance.sina.com.cn/tech/roll/2024-06-26/doc-inazzscp6277307.shtml\">[s31]</a><a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s22]</a><a href=\"https://thepaper.cn/newsDetail_forward_27761533\">[s18]</a></p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: the competitive field.</strong> By Aion's RMB 70,000-150,000 mainstream pure-electric and EREV line-up, its main rivals include BYD's Dynasty/Ocean models, Geely Galaxy, Changan's Deepal and Nevo, Leapmotor, and Xiaomi's entry models, plus the SAIC-GM-Wuling and other small-EV lines in the entry segment. This is an analytical selection, not a sales ranking.<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a><a href=\"https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml\">[s15]</a></p><p><strong>Our judgment: strengths.</strong> Aion retains GAC's full-stack manufacturing base, a self-supplied battery and e-drive chain (Inpai Battery, Ruipai Power), a state-owned group's capital and channel support, and an early overseas manufacturing footprint in Thailand.<a href=\"https://static.nfapp.southcn.com/content/202210/28/c7013379.html\">[s21]</a><a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a> The i60 and N60 show the brand can re-gain momentum with retail-targeted products: H1 2026 sales rose 67.08% year on year with the C-end share above 80%, and September 2026 retail sales rose 21.91% year on year for the seventh straight month.<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a></p><p><strong>Our judgment: weaknesses.</strong> The ride-hailing label is slow to fade: in 2023 about 45% of Aion's sales were in the online-hailing market, and the brand's earlier upmarket attempt (the LX) gained little traction, leaving it concentrated in the low-margin mainstream band.<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a> Sales fell for two consecutive years (2024 and 2025) before the 2026 rebound, and the brand remains smaller than BYD and several new-energy rivals in absolute volume; the 2026 rebound also relies heavily on the two new products (i60 and N60), so the line-up is not yet balanced.<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-08/601238_20260108_PA7U.pdf\">[s2]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>按埃安 7 万-15 万元主流的纯电与增程产品线，其主要对手包括比亚迪王朝／海洋系列、吉利银河、长安深蓝与启源、零跑、小米入门车型，以及入门级市场的上汽通用五菱等小车产品。此为分析所选的竞争范围，不是销量排名。<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a><a href=\"https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml\">[s15]</a></p><p><strong>我们的判断：优势。</strong>埃安保有广汽集团的全栈制造基础、自供的电池与电驱链条（因湃电池、锐湃动力）、国有集团的资本与渠道支持，以及泰国等地的早期海外制造布局。<a href=\"https://static.nfapp.southcn.com/content/202210/28/c7013379.html\">[s21]</a><a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a> i60 与 N60 表明品牌能以零售导向产品重新起量：2026 年上半年销量同比增长 67.08%，C 端占比超 80%；2026 年 9 月终端销量同比增长 21.91%，连续 7 个月同比正增长。<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19170\">[s11]</a><a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a></p><p><strong>我们的判断：短板。</strong>网约车标签消退较慢：2023 年约 45% 的销量来自网约车市场，此前的高端上攻（LX）成效有限，使品牌集中于利润率较低的主流价位。<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a> 销量在 2026 年回升前连续两年（2024、2025）下滑，绝对规模仍小于比亚迪及多家新能源竞品；且 2026 年的回升主要依赖 i60、N60 两款新品的零售放量，产品结构尚未恢复均衡。<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-08/601238_20260108_PA7U.pdf\">[s2]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Aion's disclosed direction is to deepen the dual-brand strategy ('Aion as the national good car, Hyptec as the elite car'), push the retail share higher, and expand overseas manufacturing and export. GAC's H1 2026 report said the group would launch several key models in H2 2026 including the Aion Ray 7, the first model of the new Ray series, which opened its pre-sale programme in September 2026.<a href=\"https://www.xkb.com.cn/articleDetail/519999\">[s34]</a><a href=\"https://www.aion.com.cn/show/newdetail/133880.html\">[s4]</a> Media reported that the Hyptec-Aion BU set a 2026 full-year sales goal of 350,000 units and delivered 281,494 units in January-September 2026, about 80.4% of that goal.<a href=\"https://new.qq.com/rain/a/20261003A0A96M00\">[s41]</a> Aion previously set a long-term target, reported by media in 2022, of exceeding 1.5 million vehicles of annual production and sales by 2030; this is a historical target statement, not a committed result.<a href=\"https://thepaper.cn/newsDetail_forward_27761533\">[s18]</a> On listing, GAC has said Aion will 'proceed at the right time' and, more recently, that Aion is 'focusing on its main business', so the IPO timetable is not confirmed.<a href=\"https://aastocks.com/sc/stocks/news/aafn-con/NOW.1368983/industry-news/hk6\">[s28]</a></p><p><strong>Our judgment.</strong> The 2026 rebound rests on the i60 and N60 and the incoming Ray 7; whether it is durable depends on sustaining the i60/N60 run, converting the Ray series into volume, and turning overseas plants (Thailand first) into profitable local sales amid import-duty and cost pressures. This is our analysis, not a forecast of financial results.<a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a><a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>埃安披露的方向是深化「埃安国民好车、昊铂精英座驾」的双品牌战略、提升 C 端零售占比，并扩大海外制造与出口。广汽集团 2026 年半年报称，下半年将推出包括埃安 Ray7 在内的多款重点车型；Ray7 为全新 Ray 系列首款车型，2026 年 9 月已开启先享计划。<a href=\"https://www.xkb.com.cn/articleDetail/519999\">[s34]</a><a href=\"https://www.aion.com.cn/show/newdetail/133880.html\">[s4]</a> 据媒体报道，昊铂埃安 BU 2026 年全年销量目标为 35 万辆，2026 年 1-9 月累计交付 281,494 辆，完成约 80.4%。<a href=\"https://new.qq.com/rain/a/20261003A0A96M00\">[s41]</a> 埃安曾提出长期产销目标：据媒体报道，其 2022 年提出到 2030 年产销突破 150 万辆。此为历史目标表述，而非已兑现的业绩。<a href=\"https://thepaper.cn/newsDetail_forward_27761533\">[s18]</a> 就上市，广汽集团曾表示埃安将「等待合适时机推进」，近期又称埃安「聚焦主业」，IPO 时间表尚未确认。<a href=\"https://aastocks.com/sc/stocks/news/aafn-con/NOW.1368983/industry-news/hk6\">[s28]</a></p><p><strong>我们的判断。</strong>2026 年的回升建立在 i60、N60 与即将上市的 Ray7 之上；能否持续，取决于能否稳住 i60／N60 的势头、把 Ray 系列转化为销量，并在进口关税与成本压力下将海外工厂（以泰国为先）转化为有盈利的本地销量。以上为我们的分析，不构成对财务结果的预测。<a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a><a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>New-product reliance.</strong> The 2026 rebound depends heavily on the i60 and N60; the line-up is not yet balanced, so fading momentum in these models could pull sales back down.<a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a></li><li><strong>Ride-hailing dependence.</strong> Aion's past growth leaned on the ride-hailing market, which has been saturating; about 45% of 2023 sales were in that channel.<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a></li><li><strong>Incomplete separate financial disclosure.</strong> GAC Group's table of principal subsidiaries discloses the operating company's sales revenue (RMB37.421 billion in 2024 and RMB28.384 billion in 2025), but net profit, gross margin and R&D are not broken out, so standalone profitability cannot be read from a full income statement.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042502716_c.pdf\">[s43]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf\">[s44]</a></li><li><strong>Parent-group loss.</strong> GAC Group's audited net loss attributable to owners of the parent was RMB8.784 billion in 2025 (the board approved the annual report on 27 March 2026), after a 2024 profit attributable to owners of the parent of RMB824 million, reflecting the wider profitability pressure on the own-brand new-energy business that Aion sits within.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf\">[s44]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042502716_c.pdf\">[s43]</a></li><li><strong>Mainstream price-band margin pressure.</strong> The brand competes mostly in the RMB 70,000-150,000 band against BYD and others, where price competition is intense.<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a></li><li><strong>Overseas cost and policy risks.</strong> Aion's Thai production carries local cost and subsidy-rollback pressures, and export growth faces import-duty and local-competition uncertainty.<a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a><a href=\"https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml\">[s15]</a></li><li><strong>Management transition.</strong> The founding general manager retired in March 2025 and the marketing leadership changed in September-December 2025, adding execution uncertainty during the brand renewal.<a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s22]</a></li></ul>",
+      "zh": "<ul><li><strong>新品依赖。</strong>2026 年的回升高度依赖 i60、N60 两款新品，产品结构尚不均衡，若新品热度消退，存在销量回落风险。<a href=\"https://www.toutiao.com/article/7691683124391985706\">[s24]</a></li><li><strong>网约车依赖。</strong>埃安过去的增长倚重网约车市场，而该市场正趋于饱和；2023 年约 45% 的销量来自这一渠道。<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a></li><li><strong>财务披露不完整。</strong>广汽集团主要控股公司表已列示运营主体销售收入（2024 年 374.21 亿元、2025 年 283.84 亿元），但净利润、毛利率、研发投入未单列，无法从完整利润表评估其独立盈利能力。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042502716_c.pdf\">[s43]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf\">[s44]</a></li><li><strong>母公司亏损。</strong>广汽集团 2025 年经审计归母净利润为亏损 87.84 亿元（董事会于 2026 年 3 月 27 日批准年报），2024 年归母净利润为盈利 8.24 亿元，反映出埃安所处的自主新能源业务的整体盈利压力。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf\">[s44]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042502716_c.pdf\">[s43]</a></li><li><strong>主流价位毛利压力。</strong>品牌主要在 7 万-15 万元区间与比亚迪等竞争，价格竞争激烈。<a href=\"https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html\">[s20]</a></li><li><strong>海外成本与政策风险。</strong>埃安泰国生产面临本地成本与补贴退坡压力，出口增长受进口关税与当地竞争不确定性影响。<a href=\"https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html\">[s8]</a><a href=\"https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml\">[s15]</a></li><li><strong>管理层更替。</strong>创始总经理 2025 年 3 月退休、营销负责人 2025 年 9-12 月更替，品牌焕新期存在执行层面的不确定性。<a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s22]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "广汽集团官网·2025年连续3个季度销量环比正增长（埃安12月销量4.2万、i60累计20123辆、业务覆盖86国）", "url": "https://www.gac.com.cn/cn/news/detail?baseid=19069", "date": "2026-01-07", "tier": "A" },
+    { "id": "s2", "name": "广汽集团2025年12月产销快报（上交所，公告编号2026-003；埃安2025年销量290081辆、同比-22.62%）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-01-08/601238_20260108_PA7U.pdf", "date": "2026-01-08", "tier": "A" },
+    { "id": "s3", "name": "广汽埃安官网（在售车型）", "url": "https://www.aion.com.cn/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s4", "name": "广汽埃安官网·Ray7开启先享计划", "url": "https://www.aion.com.cn/show/newdetail/133880.html", "date": "2026-09-21", "tier": "A" },
+    { "id": "s5", "name": "广汽埃安官网·AION N60车型配置表", "url": "https://www.aion.com.cn/vehicle/config/table?cid=NzA%3D", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "广州市人民政府门户网站·广汽埃安完成A轮融资183亿元", "url": "https://www.gz.gov.cn/xw/zwlb/bmdt/sdfjrjdglj/content/post_8639925.html", "date": "2022-10-26", "tier": "A" },
+    { "id": "s7", "name": "湖南省政府·广汽埃安长沙工厂竣工投产", "url": "https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202408/t20240821_33435869.html", "date": "2024-08-21", "tier": "A" },
+    { "id": "s8", "name": "新华社（英文）·GAC Aion opens EV factory in Thailand", "url": "https://english.news.cn/20240718/a8a05bdbc0a04755aa6e45eb62f0ce57/c.html", "date": "2024-07-18", "tier": "A" },
+    { "id": "s9", "name": "新华财经·广汽埃安泰国智能工厂竣工投产", "url": "https://m.cnfin.com/gs-lb//zixun/20240717/4076795_1.html", "date": "2024-07-17", "tier": "A" },
+    { "id": "s10", "name": "广汽集团2026年6月产销快报（上交所，公告编号2026-039；埃安上半年181579辆、同比+67.08%）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-07-03/601238_20260703_QBQD.pdf", "date": "2026-07-03", "tier": "A" },
+    { "id": "s11", "name": "广汽集团官网·1-6月销量77.31万辆（昊铂埃安BU上半年18.16万辆、C端超80%、自主出口12.15万辆）", "url": "https://www.gacgroup.com/cn/news/detail?baseid=19170", "date": "2026-07-02", "tier": "A" },
+    { "id": "s12", "name": "广汽集团官网·2026年中期工作会议（i60连续多月破万、N60两月破万、AION V双五星登陆英西）", "url": "https://www.gacgroup.com/cn/news/detail?baseid=19173", "date": "2026-07-11", "tier": "A" },
+    { "id": "s13", "name": "广州市地方金融管理局·广汽埃安完成A轮融资183亿元（成立时间、品牌独立、投后估值等）", "url": "https://jrjgj.gz.gov.cn/gzdt/content/post_8634798.html", "date": "2022-10-21", "tier": "A" },
+    { "id": "s14", "name": "央视网·广汽埃安品牌独立开启新纪元", "url": "https://auto.cctv.com/2020/11/20/ARTIGWcON2d5nwaSG7kWIQhs201120.shtml", "date": "2020-11-20", "tier": "B" },
+    { "id": "s15", "name": "央广网·广汽集团2026年半年报（埃安上半年18.16万辆、C端超80%）", "url": "https://auto.cnr.cn/hy/20260829/t20260829_527797982.shtml", "date": "2026-08-29", "tier": "B" },
+    { "id": "s16", "name": "中国经济网（证券日报）·53名战投183亿元豪掷广汽埃安", "url": "https://www.ce.cn/cysc/newmain/yc/jsxw/202210/22/t20221022_38186850.shtml", "date": "2022-10-22", "tier": "B" },
+    { "id": "s17", "name": "证券时报网·千亿新能源车企引入53家战略投资者（历史销量、产能、AEP 3.0）", "url": "https://stcn.com/article/detail/705033.html", "date": "2022-10-21", "tier": "B" },
+    { "id": "s18", "name": "澎湃新闻·广汽集团销量降24.5% 埃安月均仅售2万辆（历史销量与财务）", "url": "https://thepaper.cn/newsDetail_forward_27761533", "date": "2024-06-17", "tier": "B" },
+    { "id": "s19", "name": "人民日报客户端·广汽埃安完成182亿元A轮融资（转引广汽审计报告：2019-2021营收与净亏损）", "url": "https://www.peopleapp.com/rmharticle/30030190289", "date": "2022-10-20", "tier": "B" },
+    { "id": "s20", "name": "中国城市网·冯兴亚回应埃安网约车标签争议（2023网约车占比约45%、2024销量、品牌焕新）", "url": "https://www.zgcsb.com/news/shouYe/2026-05/19/a_667709.html", "date": "2026-05-19", "tier": "B" },
+    { "id": "s21", "name": "南方+·广汽埃安下场造电池（因湃电池、锐湃动力成立）", "url": "https://static.nfapp.southcn.com/content/202210/28/c7013379.html", "date": "2022-10-28", "tier": "B" },
+    { "id": "s22", "name": "太平洋汽车·广汽集团选出总经理（古惠南退休等埃安人事）", "url": "https://hj.pcauto.com.cn/article/3137856.html", "date": "2025-11-17", "tier": "B" },
+    { "id": "s23", "name": "搜狐·张雄杨龙携手操盘 广汽埃安焕新出发", "url": "https://www.sohu.com/a/1056615657_379072", "date": "2026-10-13", "tier": "C" },
+    { "id": "s24", "name": "南方都市报（今日头条转载）·昊铂埃安9月终端销量35494辆 同比增长21.91%", "url": "https://www.toutiao.com/article/7691683124391985706", "date": "2026-10-01", "tier": "B" },
+    { "id": "s25", "name": "网通社·因湃电池第30万套电池包量产下线", "url": "https://m.news18a.com/news/storys_306347.html", "date": "2026-10-15", "tier": "B" },
+    { "id": "s26", "name": "腾讯新闻·冯兴亚卸任广汽埃安董事长 閤先庆接任", "url": "https://news.qq.com/rain/a/20250610A029HW00", "date": "2025-06-10", "tier": "B" },
+    { "id": "s27", "name": "蓝鲸财经·国企新能源子品牌开启IPO竞赛（埃安Pre-IPO阶段）", "url": "https://www.lanjinger.com/answer/46986", "date": "2025-12-03", "tier": "B" },
+    { "id": "s28", "name": "阿斯达克财经·广汽埃安正推进香港IPO 挂牌转让部分股权", "url": "https://aastocks.com/sc/stocks/news/aafn-con/NOW.1368983/industry-news/hk6", "date": "2026-09-16", "tier": "B" },
+    { "id": "s29", "name": "中国经营报·2023年新势力车企销量盘点（埃安约48万辆、累计产销破百万）", "url": "https://app.cb.com.cn/share/article/240258", "date": "2024-01-08", "tier": "B" },
+    { "id": "s30", "name": "法治网·广汽集团回应传言（昊铂埃安BU组建、2025年销量）", "url": "https://www.legaldaily.com.cn/Company/content/2026-01/21/content_9327416.html", "date": "2026-01-21", "tier": "B" },
+    { "id": "s31", "name": "新浪财经（运营商财经）·广汽埃安总经理古惠南履历", "url": "https://finance.sina.com.cn/tech/roll/2024-06-26/doc-inazzscp6277307.shtml", "date": "2024-06-26", "tier": "B" },
+    { "id": "s32", "name": "国际在线（中央广电总台）·埃安i60增程版上市（大五座SUV、限时焕新价10.48万起）", "url": "https://auto.cri.cn/20251117/f12d622f-acc6-4c6d-ac82-d4f9e99c7e31.html", "date": "2025-11-17", "tier": "B" },
+    { "id": "s33", "name": "央广网·张雄将任昊铂埃安BU总裁", "url": "https://www.cnr.cn/2013qcpd/djfb/20251218/t20251218_527464512.shtml", "date": "2025-12-18", "tier": "B" },
+    { "id": "s34", "name": "新快网·广汽集团半年报（东南亚终端约2.3万、美洲约2.5万、下半年推出埃安Ray7）", "url": "https://www.xkb.com.cn/articleDetail/519999", "date": "2026-08-28", "tier": "B" },
+    { "id": "s35", "name": "21世纪经济报道·广汽埃安员工股权激励（融资25.66亿元）", "url": "https://m.21jingji.com/article/20220317/herald/1bc17d014738be870eed38c5bb4c101d_zaker.html", "date": "2022-03-17", "tier": "B" },
+    { "id": "s36", "name": "新浪财经（电动公会）·2021年埃安AION S/AION Y B端占比", "url": "https://finance.sina.cn/2024-01-31/detail-inafmhzy1539673.d.html", "date": "2024-01-31", "tier": "B" },
+    { "id": "s37", "name": "新浪·电车出海（埃安出海3年19国、累计约4.4万辆，第三方估算）", "url": "https://www.sina.cn/news/detail/5331375840299155.html", "date": "2026-08-05", "tier": "C" },
+    { "id": "s38", "name": "证券时报网·广汽集团新一届职业经理人名单公布（閤先庆简历、2025-11-16董事会第13次会议）", "url": "https://stcn.com/article/detail/3498827.html", "date": "2025-11-17", "tier": "B" },
+    { "id": "s39", "name": "中工网·广汽埃安泰国工厂竣工投产（总投资23亿泰铢、首期5万辆、扩能10万）", "url": "https://www.workercn.cn/c/2024-07-18/8306872.shtml", "date": "2024-07-18", "tier": "B" },
+    { "id": "s40", "name": "广州市人民政府·广汽集团上半年汽车销量超77万辆（昊铂埃安18.16万辆、+67.08%、i60破万）", "url": "https://www.gz.gov.cn/ysgz/xwdt/ysdt/content/post_10886171.html", "date": "2026-07-02", "tier": "A" },
+    { "id": "s41", "name": "腾讯新闻·昊铂埃安9月终端销量35494辆（35万辆全年目标、1-9月281494辆、渠道融合、海外）", "url": "https://new.qq.com/rain/a/20261003A0A96M00", "date": "2026-10-03", "tier": "B" },
+    { "id": "s42", "name": "中国网财经·广汽集团预计2025年净亏损至少80亿元（2024年归母净利8.24亿元）", "url": "https://m.gxfin.com/article/finance/cj/default/2026-01-31/6292269.html", "date": "2026-01-31", "tier": "B" },
+    { "id": "s43", "name": "广汽集团2024年年报（港交所，2025-04-25；主要控股公司表：埃安销量374884辆、同比-21.90%，销售收入374.21亿元、同比-29.70%；归母净利润约8.24亿元）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042502716_c.pdf", "date": "2025-04-25", "tier": "A" },
+    { "id": "s44", "name": "广汽集团2025年年报（港交所，2026-04-29刊发，董事会2026-03-27批准；埃安销售收入283.84亿元、同比-24.15%；归母净亏损87.84亿元；閤先庆现任职务与启境释义）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042902581_c.pdf", "date": "2026-04-29", "tier": "A" },
+    { "id": "s45", "name": "广汽集团2026年中期报告（港交所，2026-08-28；埃安销售收入188.38亿元、同比+82.82%）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082803019_c.pdf", "date": "2026-08-28", "tier": "A" },
+    { "id": "s46", "name": "广汽集团2025年中期报告（港交所，2025-08-29；2025年上半年埃安营业收入103.04亿元）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0829/2025082902466_c.pdf", "date": "2025-08-29", "tier": "A" },
+    { "id": "s47", "name": "上海证券报·广汽集团关于控股子公司实施员工股权激励的公告（临2022-013，广汽埃安成立于2017年7月28日）", "url": "https://paper.cnstock.com/html/2022-03/18/content_1580852.htm", "date": "2022-03-18", "tier": "A" },
+    { "id": "s48", "name": "汽车之家·埃安AION i60上市（紧凑型SUV，长宽高4685/1854/1660、轴距2775）", "url": "https://www.autohome.com.cn/news/202511/1310481.html", "date": "2025-11-16", "tier": "C" }
+  ]
+}

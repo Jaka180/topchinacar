@@ -1,0 +1,405 @@
+{
+  "id": "hyptec",
+  "name_en": "Hyptec (GAC Group)",
+  "name_zh": "昊铂（广汽集团）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "2022-09-15 (unveiled as the high-end 'Hyper' brand at Aion's brand night in Guangzhou)",
+      "value_zh": "2022 年 9 月 15 日（在埃安品牌之夜发布高端品牌「Hyper 昊铂」）",
+      "period": null,
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "label_en": "English name changed",
+      "label_zh": "英文名更名",
+      "value_en": "2024-08 (Hyper renamed HYPTEC, brand colour changed to orange)",
+      "value_zh": "2024 年 8 月（Hyper 更名 HYPTEC，品牌主色改为橙色）",
+      "period": null,
+      "source_ids": ["s11", "s12"]
+    },
+    {
+      "label_en": "Brand became independent",
+      "label_zh": "品牌独立",
+      "value_en": "2025-01 (spun off from Aion as 'GAC Hyptec', one of GAC's three self-owned brands)",
+      "value_zh": "2025 年 1 月（从埃安子品牌独立为「广汽昊铂」，与埃安、传祺并列为广汽三大自主品牌）",
+      "period": null,
+      "source_ids": ["s14", "s17"]
+    },
+    {
+      "label_en": "Parent group / operating carrier",
+      "label_zh": "所属集团／运营主体",
+      "value_en": "Guangzhou Automobile Group (GAC Group; SSE 601238 / HKEX 02238); the brand was incubated by GAC Aion New Energy Automobile Co., Ltd.",
+      "value_zh": "广州汽车集团股份有限公司（广汽集团；上交所 601238／港交所 02238）；品牌由广汽埃安新能源汽车股份有限公司孵化",
+      "period": null,
+      "source_ids": ["s3", "s14"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Guangzhou, Guangdong (GAC's Panyu headquarters)",
+      "value_zh": "广东省广州市（广汽集团番禺总部）",
+      "period": null,
+      "source_ids": ["s14"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-controlled (a brand under GAC Group)",
+      "value_zh": "国有控股（广汽集团旗下品牌）",
+      "period": null,
+      "source_ids": ["s14", "s17"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; see GAC Group (601238.SH / 02238.HK)",
+      "value_zh": "未单独上市；见广汽集团（601238.SH／02238.HK）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收／净利润",
+      "value_en": "Not separately disclosed at brand level; see GAC Group deep research",
+      "value_zh": "品牌层面未单独披露；见广汽集团深度研究",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Sales FY2025",
+      "label_zh": "2025 年销量",
+      "value_en": "Two third-party counts, listed separately: 15,150 units (21st Century Business Herald); about 14,800 units (Guancha, via Tencent)",
+      "value_zh": "两个第三方口径并列，不是同一个数：15150 台（21世纪经济报道）；约 1.48 万辆（观察者网，腾讯转载）",
+      "period": "2025",
+      "source_ids": ["s23", "s30"]
+    },
+    {
+      "label_en": "Sales FY2024",
+      "label_zh": "2024 年销量",
+      "value_en": "Two third-party counts, listed separately: 17,000 units (China Entrepreneur, via China Economic Net); about 17,300 units (Guancha, via Tencent)",
+      "value_zh": "两个第三方口径并列：1.7 万辆（《中国企业家》，中国经济网转载）；约 1.73 万辆（观察者网，腾讯转载）",
+      "period": "2024",
+      "source_ids": ["s14", "s30"]
+    },
+    {
+      "label_en": "Sales FY2023",
+      "label_zh": "2023 年销量",
+      "value_en": "8,087 units (China Entrepreneur, via China Economic Net)",
+      "value_zh": "8087 辆（《中国企业家》，中国经济网转载）",
+      "period": "2023",
+      "source_ids": ["s14"]
+    },
+    {
+      "label_en": "Hyptec-Aion BU sales H1 2026",
+      "label_zh": "2026 上半年昊铂埃安 BU 销量",
+      "value_en": "181,600 units, up 67.08% YoY (CCTV); 174,938 retail units, up 15% YoY (CNR)",
+      "value_zh": "18.16 万辆、同比增长 67.08%（央视网）；终端销量 17.49 万辆、同比增长 15%（央广网）",
+      "period": "2026 H1",
+      "source_ids": ["s24", "s25"]
+    },
+    {
+      "label_en": "Hyptec-Aion BU sales Q1-Q3 2026",
+      "label_zh": "2026 前三季度昊铂埃安 BU 销量",
+      "value_en": "Over 280,000 units combined, up over 56% YoY",
+      "value_zh": "双品牌合计超 28 万辆，同比增长超 56%",
+      "period": "2026 Q1-Q3",
+      "source_ids": ["s27"]
+    },
+    {
+      "label_en": "Panyu Action target",
+      "label_zh": "番禺行动目标",
+      "value_en": "By 2027, self-owned-brand sales to exceed 60% of GAC's total, challenging 2 million units",
+      "value_zh": "到 2027 年自主品牌销量占集团总销量 60% 以上，挑战 200 万辆",
+      "period": "2027",
+      "source_ids": ["s14"]
+    },
+    {
+      "label_en": "Overseas presence",
+      "label_zh": "海外布局",
+      "value_en": "SSR overseas version rolled off the line on 1 August 2024; the first overseas SSR was delivered in Thailand on 9 December 2024; it debuted at the Paris Motor Show in October 2024. The brand targets Southeast Asia, the Middle East, South America and Europe.",
+      "value_zh": "SSR 海外版 2024 年 8 月 1 日下线，同年 10 月亮相巴黎车展，2024 年 12 月 9 日海外首台 SSR 在泰国交付；品牌以东南亚、中东、南美、欧洲为目标市场",
+      "period": "2024",
+      "source_ids": ["s11", "s13", "s33"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2022-09-15",
+      "event_en": "At Aion's brand night, GAC Aion unveils a new logo and the high-end brand 'Hyper' (Haobo); the Hyper SSR supercar debuts at a pre-sale price of RMB1.286 million (RMB1.688 million for the Ultimate track version).",
+      "event_zh": "埃安品牌之夜发布全新 LOGO 与高端品牌「Hyper 昊铂」，首款车型超跑 Hyper SSR 亮相，预售 128.6 万元（Ultimate 赛道版 168.8 万元）。",
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "date": "2022-09",
+      "event_en": "Aion and China Aerospace establish the 'Haobo Research Laboratory' for joint R&D in batteries, e-drive, aerodynamics, materials and AI.",
+      "event_zh": "埃安与中国航天联合成立「昊铂科研实验室」，在电池、电驱、空气动力学、材料、AI 等领域联合研发。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2022-12-30",
+      "event_en": "The Hyper GT sedan is unveiled at the Guangzhou Auto Show.",
+      "event_zh": "昊铂 GT 轿车在广州车展亮相。",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2023-04-16",
+      "event_en": "Hyper GT opens pre-sales in five versions priced RMB219,900-339,900, ahead of the Shanghai Auto Show.",
+      "event_zh": "昊铂 GT 开启预售，共 5 款车型，售价 21.99 万—33.99 万元。",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2023-07-03",
+      "event_en": "The Hyper GT goes on sale; it becomes China's 20-millionth new-energy vehicle to roll off the line.",
+      "event_zh": "昊铂 GT 正式上市，并成为中国第 2000 万辆下线的新能源汽车。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2023-10-09",
+      "event_en": "The Hyper SSR supercar is launched and delivered in three versions priced RMB1.286-1.686 million, described as China's first mass-produced pure-electric supercar.",
+      "event_zh": "昊铂 SSR 超跑上市并开启交付，3 款车型售价 128.6 万—168.6 万元，被称为中国首款量产纯电超跑。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2023-11-15",
+      "event_en": "The Hyper HT mid-to-large pure-electric SUV is launched in six versions priced RMB213,900-329,900, with optional gull-wing doors.",
+      "event_zh": "昊铂 HT 中大型纯电 SUV 上市，6 款车型售价 21.39 万—32.99 万元，可选鸥翼门。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2024-06-06",
+      "event_en": "The Hyptec GT global edition goes on sale (RMB203,900-259,900), featuring an 800V high-voltage supercharging platform and 'mapless global' driving assist.",
+      "event_zh": "昊铂 GT 全球款上市（20.39 万—25.99 万元），搭载 800V 高压超充平台与「无图全球通」智驾。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2024-08",
+      "event_en": "The brand's English name changes from Hyper to HYPTEC, with a new orange brand colour and the 'Hyper Technology Life' slogan; on 1 August the SSR overseas version rolls off the line, marking the first batch export of a Chinese supercar.",
+      "event_zh": "品牌英文名由 Hyper 更改为 HYPTEC，启用橙色品牌色与「超凡科技享受」口号；8 月 1 日 SSR 海外版正式下线，标志中国超跑首次批量出海。",
+      "source_ids": ["s11", "s12"]
+    },
+    {
+      "date": "2024-10-14",
+      "event_en": "The SSR overseas version debuts at the 2024 Paris Motor Show.",
+      "event_zh": "昊铂 SSR 海外版亮相 2024 巴黎车展。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2024-11-15",
+      "event_en": "The Hyptec HL large SUV is unveiled at the Guangzhou Auto Show.",
+      "event_zh": "昊铂 HL 大型 SUV 亮相广州车展。",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2024-12-09",
+      "event_en": "The first overseas Hyptec SSR is delivered in Thailand, per GAC Group's official corporate history.",
+      "event_zh": "海外首台昊铂 SSR 在泰国正式交付（据广汽集团官网发展历史）。",
+      "source_ids": ["s33"]
+    },
+    {
+      "date": "2025-01",
+      "event_en": "Hyptec is spun off from Aion as 'GAC Hyptec', one of GAC's three self-owned brands alongside Trumpchi and Aion; media reported Ma Haiyang as CEO.",
+      "event_zh": "昊铂从埃安子品牌独立为「广汽昊铂」，与埃安、传祺并列为广汽三大自主品牌；媒体报道马海洋出任 CEO。",
+      "source_ids": ["s14", "s17", "s18"]
+    },
+    {
+      "date": "2025-04-12",
+      "event_en": "CRI's launch report says the Hyptec HL went on sale on 12 April 2025 in eight versions (BEV and EREV, five and six seats) at a guide price of RMB269,800-319,800, as the first flagship after the brand renewal. 21st Century Business Herald separately dates the EREV launch to 19 August 2025. Both accounts are sourced; they are not treated here as two independent facts.",
+      "event_zh": "国际在线上市通稿称，昊铂 HL 于 2025 年 4 月 12 日上市，纯电／增程、五座／六座共 8 款，官方指导价 26.98 万—31.98 万元，为品牌焕新后首款旗舰。21 世纪经济报道另称增程版于 2025 年 8 月 19 日上市。两说都有出处，此处标明冲突，不写成两件独立事实。",
+      "source_ids": ["s15", "s16", "s17"]
+    },
+    {
+      "date": "2025-08-19",
+      "event_en": "21st Century Business Herald dates the Hyptec HL EREV launch to 19 August 2025. This conflicts with CRI's 12 April 2025 launch report, which said BEV and EREV versions (eight in total) were already on sale that day. Both dates are kept and the conflict is noted.",
+      "event_zh": "21 世纪经济报道称昊铂 HL 增程版于 2025 年 8 月 19 日上市。这与国际在线 4 月 12 日上市通稿（称当日纯电／增程共 8 款已经上市）不一致，两说并列。",
+      "source_ids": ["s15", "s17"]
+    },
+    {
+      "date": "2025-12-18",
+      "event_en": "GAC launches its self-owned-brand BU reform; the Hyptec-Aion BU is the first to be formed, with Zhang Xiong appointed its president, merging Hyptec and Aion under one business unit.",
+      "event_zh": "广汽启动自主品牌 BU 改革，昊铂埃安 BU 率先组建，张雄出任总裁，昊铂与埃安纳入同一事业部统筹运营。",
+      "source_ids": ["s3", "s4"]
+    },
+    {
+      "date": "2026-03-04",
+      "event_en": "The Hyptec A800 flagship EREV sedan is launched in four versions priced RMB189,800-299,800 (RMB164,800-274,800 after trade-in subsidies), with Huawei Qiankun ADS 4.1 and HarmonyOS cockpit.",
+      "event_zh": "昊铂 A800 增程旗舰轿车上市，4 款车型售价 18.98 万—29.98 万元（置换补贴价 16.48 万—27.48 万元），搭载华为乾崑智驾 ADS 4.1 与鸿蒙座舱。",
+      "source_ids": ["s19", "s20"]
+    },
+    {
+      "date": "2026-04",
+      "event_en": "At the Beijing Auto Show, Hyptec and Aion complete a brand renewal; Hyptec adopts the 'Living Empowered' proposition targeting mainstream consumers, emphasising taste, technology and self-pleasure.",
+      "event_zh": "北京车展期间，昊铂与埃安完成品牌焕新；昊铂以「智享生活 Living Empowered」为核心主张，面向中坚消费群体，主打品位、科技、悦己三大特质。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2026-06-12",
+      "event_en": "The Hyptec S600 mid-to-large SUV is launched in four versions (BEV and EREV) with an official guide price of RMB199,900-219,900 and a limited-time price from RMB179,900.",
+      "event_zh": "昊铂 S600 中大型 SUV 上市，纯电／增程共 4 款车型，官方指导价 19.99 万—21.99 万元，限时权益价 17.99 万元起。",
+      "source_ids": ["s21", "s22"]
+    },
+    {
+      "date": "2026-07",
+      "event_en": "For H1 2026, the merged Hyptec-Aion BU reports 181,600 units (up 67.08% YoY, CCTV) and 174,938 retail units (up 15% YoY, CNR), with the C-end share at about 81%.",
+      "event_zh": "2026 年上半年，合并口径的昊铂埃安 BU 销量 18.16 万辆（同比增长 67.08%，央视网）、终端销量 17.49 万辆（同比增长 15%，央广网），C 端占比约 81%。",
+      "source_ids": ["s24", "s25"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Hyptec SSR",
+      "name_zh": "昊铂 SSR",
+      "role_en": "Pure-electric supercar; the brand's first model and its halo product.",
+      "role_zh": "纯电超跑，品牌首款车型与旗舰标杆。",
+      "price_band": "RMB1.286-1.686 million",
+      "founded": 2023,
+      "owner_note_en": "Launched and delivered on 9 October 2023 in three versions, with 1,225 hp (900 kW), 12,000 N of peak wheel torque (Xinhua writes 12000N, not N·m), 0-100 km/h in 1.9 s, a 900V silicon-carbide system, an all-aluminium frame with the body 100% covered in carbon fibre, described as the first domestic model to use carbon fibre for all exterior panels, and built at the Hyptec supercar dream factory. Volume is minimal: third-party data put 2025 sales at just 7 units (down 75% YoY).",
+      "owner_note_zh": "2023 年 10 月 9 日上市交付，共 3 款版本，1225 匹马力（900kW）、轮上峰值扭矩 12000N（新华网原文作 12000N，不是牛·米）、百公里加速 1.9 秒、900V 碳化硅系统、全铝车架、车身 100% 碳纤维覆盖，为国内首个全外覆盖件使用碳纤维的车型，在昊铂超跑梦工厂生产。销量极低，第三方统计 2025 年仅售出 7 台，同比下降 75%。",
+      "status": "active",
+      "source_ids": ["s7", "s23"]
+    },
+    {
+      "name_en": "Hyptec GT",
+      "name_zh": "昊铂 GT",
+      "role_en": "Mid-to-large pure-electric sport sedan; the first volume-oriented model.",
+      "role_zh": "中大型纯电运动轿车，首款面向走量的车型。",
+      "price_band": "RMB219,900-339,900 after subsidies（补贴后） (global edition from RMB203,900)",
+      "founded": 2023,
+      "owner_note_en": "Pre-sold April 2023 and launched 3 July 2023 as China's 20-millionth new-energy vehicle, built on the AEP 3.0 platform and the Xingling architecture with a 0.197 Cd drag coefficient, 560/600/710 km ranges and optional scissor doors. Third-party data put 2025 sales at only 802 units, down 85% YoY.",
+      "owner_note_zh": "2023 年 4 月预售、7 月 3 日上市，为中国第 2000 万辆下线新能源汽车，基于 AEP 3.0 平台与星灵架构打造，风阻系数 0.197，提供 560／600／710 公里三种续航，可选旋翼门。第三方统计 2025 年销量仅 802 台，同比下滑 85%。",
+      "status": "active",
+      "source_ids": ["s8", "s23"]
+    },
+    {
+      "name_en": "Hyptec HT",
+      "name_zh": "昊铂 HT",
+      "role_en": "Mid-to-large pure-electric SUV; the brand's top-selling model.",
+      "role_zh": "中大型纯电 SUV，品牌销量主力。",
+      "price_band": "RMB213,900-329,900",
+      "founded": 2023,
+      "owner_note_en": "Launched 15 November 2023 as the brand's first pure-electric SUV, built on the AEP 3.0 platform and Xingling architecture with optional gull-wing doors, 800V fast charging and up to 770 km of range. It has been the brand's best-seller, but third-party data put 2025 sales at 9,885 units, down 31% YoY.",
+      "owner_note_zh": "2023 年 11 月 15 日上市，为品牌首款纯电 SUV，基于 AEP 3.0 平台与星灵架构打造，可选鸥翼门，搭载 800V 快充、最高续航 770 公里。长期为品牌销量主力，第三方统计 2025 年销量 9885 台，同比下滑 31%。",
+      "status": "active",
+      "source_ids": ["s10", "s23"]
+    },
+    {
+      "name_en": "Hyptec HL",
+      "name_zh": "昊铂 HL",
+      "role_en": "Large luxury flagship SUV, positioned as a family smart luxury SUV.",
+      "role_zh": "大型豪华旗舰 SUV，定位「家庭智能新豪华 SUV」。",
+      "price_band": "RMB269,800-319,800",
+      "founded": 2025,
+      "owner_note_en": "Launched 12 April 2025 in BEV and EREV versions with five/six-seat layouts, a 5,126 mm body and 3,088 mm wheelbase, built on the 800V AEP 3.0 platform with GSD driving assist, LiDAR and Orin-X chips, and styled around a 'land yacht' concept. The EREV version uses the 'Xingyuan' range-extender with a 60 kWh Xiaoyao battery; third-party data put 2025 sales at 4,464 units.",
+      "owner_note_zh": "2025 年 4 月 12 日上市，纯电／增程双动力、五座／六座布局，车长 5126 mm、轴距 3088 mm，基于 800V 的 AEP 3.0 平台，搭载 GSD 智驾、激光雷达与 Orin-X 芯片，以「陆地游艇」理念设计。增程版采用「星源增程」与 60kWh 骁遥电池；第三方统计 2025 年销量 4464 台。",
+      "status": "active",
+      "source_ids": ["s15", "s16", "s23"]
+    },
+    {
+      "name_en": "Hyptec A800",
+      "name_zh": "昊铂 A800",
+      "role_en": "Mid-to-large flagship EREV sedan; the brand's most Huawei-heavy model.",
+      "role_zh": "中大型增程旗舰轿车，品牌「含华量」最高的车型。",
+      "price_band": "RMB189,800-299,800 (RMB164,800-274,800 after trade-in subsidies)",
+      "founded": 2026,
+      "owner_note_en": "Launched 4 March 2026 in four EREV versions with GAC's three-motor four-wheel-drive digital chassis, Huawei Qiankun ADS 4.1 and HarmonyOS cockpit 5, plus 14 airbags and 61 tests. Fast Technology's same-day trim comparison says the top Wisdom Flagship version uses an 896-line LiDAR, the same unit as on the Maextro S800, with four LiDARs on the car; the next trim down is cut to one LiDAR. Media reported weak early sales.",
+      "owner_note_zh": "2026 年 3 月 4 日上市，4 款增程版本，搭载三电机四驱智慧数字底盘、华为乾崑智驾 ADS 4.1、鸿蒙座舱 5，配备 14 安全气囊、完成 61 项测试。快科技同日配置文称，顶配智慧旗舰版搭载 896 线激光雷达，与尊界 S800 同款，全车 4 颗；次顶配减为 1 颗。媒体报道其上市初期销量低迷。",
+      "status": "active",
+      "source_ids": ["s20", "s23", "s36"]
+    },
+    {
+      "name_en": "Hyptec S600",
+      "name_zh": "昊铂 S600",
+      "role_en": "Mid-to-large sport SUV, positioned as a 'new luxury smart sport SUV'.",
+      "role_zh": "中大型运动 SUV，定位「新豪华智慧运动 SUV」。",
+      "price_band": "RMB199,900-219,900 (limited-time price from RMB179,900)",
+      "founded": 2026,
+      "owner_note_en": "Launched 12 June 2026 in four versions (BEV and EREV). China Securities Journal reported it as the only sub-RMB200,000 model with dual-chamber air suspension and SDC dampers standard across the whole lineup, plus LiDAR as standard; the AWD EREV does 0-100 km/h in 4.3 s. Media noted the brand's monthly sales had hovered in the three-digit range into 2026.",
+      "owner_note_zh": "2026 年 6 月 12 日上市，纯电／增程共 4 款车型。中证网报道其为 20 万元内唯一全系搭载双腔空气悬架、SDC 可变阻尼减振的运动 SUV，全系标配激光雷达；增程四驱版零百加速 4.3 秒。媒体指出 2026 年以来品牌单月销量持续徘徊在三位数。",
+      "status": "active",
+      "source_ids": ["s21", "s22", "s23"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "yuan",
+    "standard": "PRC GAAP (GAC Group consolidated; Hyptec brand-level not separately disclosed)",
+    "rows": [],
+    "note_en": "Hyptec is a brand operated within GAC Group (via GAC Aion), not a separately listed company, and it publishes no brand-level financial statements, so no brand-level revenue, gross margin, net profit or R&D figures are listed here and none are estimated. Net profit figures below, where quoted, are net profit attributable to owners of the parent (归属于母公司股东的净利润). For reference, GAC Group's 2025 annual report recorded operating revenue of RMB95,661,525,530 (about RMB95.662 billion) and a net loss attributable to owners of the parent of RMB-8,783,621,243 (about RMB-8.784 billion) for FY2025 under PRC GAAP; parent-level figures are covered in the GAC (gac) deep research. This page does not constitute any trading recommendation.",
+    "note_zh": "昊铂为广汽集团（通过广汽埃安）运营的高端新能源汽车品牌，并非单独上市公司，不单独披露品牌层面财务报表，故本表不列品牌层面的营收、毛利率、净利润、研发投入等数字，也不做估算。本文引用的净利润口径均为「归属于母公司股东的净利润」（中国企业会计准则）。参考：广汽集团 2025 年年度报告披露营业收入 95,661,525,530 元（约 956.62 亿元）、归属于母公司股东的净利润 -8,783,621,243 元（约 -87.84 亿元），2025 财年，中国企业会计准则；集团财务详见广汽集团（gac）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Hyptec (昊铂; English name Hyper before August 2024) is the high-end new-energy vehicle brand of Guangzhou Automobile Group (GAC Group, SSE 601238 / HKEX 02238). It was unveiled on 15 September 2022 by GAC Aion alongside the new 'AI Divine Arrow' logo, with the Hyper SSR supercar as its first product.<a href=\"https://auto.cctv.com/2022/09/16/ARTI3yuYaCiwTsbvWMUYoVf5220916.shtml\">[s5]</a> The brand is positioned around 'technology, luxury and taste' and the 'elite car' segment, spanning supercars, sedans and SUVs mainly in the RMB 200,000-300,000 band.<a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a> In January 2025 it was spun off from Aion as 'GAC Hyptec', one of GAC's three self-owned brands alongside Trumpchi and Aion; in December 2025 GAC launched its BU reform and merged Hyptec back with Aion into the 'Hyptec-Aion BU'.<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a> China Entrepreneur (via China Economic Net) put 2023 sales at 8,087 units and 2024 sales at 17,000; Guancha (via Tencent) put 2024 at about 17,300 and 2025 at about 14,800; 21st Century Business Herald put 2025 at 15,150 units. These are separate third-party counts, not conversions of one figure.<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://news.qq.com/rain/a/20260318A081YJ00\">[s30]</a><a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a></p><p>Hyptec was created to shed Aion's ride-hailing image and push GAC upmarket: it opened in September 2022 with the million-yuan SSR supercar as a technology halo, then stepped down into the RMB 200,000-300,000 mainstream premium band with the GT and HT; in 2024 GAC detached Hyptec from Aion to operate it independently and, that August, changed its English name from Hyper to HYPTEC to support global expansion.<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://static.nfnews.com/content/202408/02/c9233979.html\">[s11]</a> The brand was incubated by GAC Aion and shares GAC's R&amp;D and manufacturing base; its financials are not disclosed separately, so parent-level data sits in the GAC (gac) deep research.<a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a></p>",
+      "zh": "<p>昊铂（Hyptec，2024 年 8 月前英文名为 Hyper）是广汽集团（上交所 601238／港交所 02238）旗下的高端新能源汽车品牌，2022 年 9 月 15 日由广汽埃安在品牌之夜发布，首款车型为纯电超跑昊铂 SSR。<a href=\"https://auto.cctv.com/2022/09/16/ARTI3yuYaCiwTsbvWMUYoVf5220916.shtml\">[s5]</a> 品牌定位「科技、豪华、高品位」，面向「精英座驾」赛道，产品覆盖超跑、轿车与 SUV，主力价位集中在 20 万—30 万元区间。<a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a> 2025 年 1 月，昊铂从广汽埃安子品牌独立为「广汽昊铂」，与埃安、传祺并列为广汽三大自主品牌；2025 年 12 月，广汽启动自主品牌 BU 改革，昊铂与埃安重新合并为「昊铂埃安 BU」统筹运营。<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a> 《中国企业家》（中国经济网转载）称 2023 年销量 8087 辆、2024 年 1.7 万辆；观察者网（腾讯转载）称 2024 年约 1.73 万辆、2025 年 1.48 万辆；21 世纪经济报道称 2025 年 15150 台。以上为不同第三方口径，并列而非换算。<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://news.qq.com/rain/a/20260318A081YJ00\">[s30]</a><a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a></p><p>昊铂的诞生承载广汽为埃安摆脱网约车形象、向上突破的意图：先以百万级超跑 SSR 树立技术标杆，再以 GT、HT 下探到 20 万—30 万元主流高端区间；2024 年广汽将其抽离埃安体系独立运营，同年 8 月把英文名由 Hyper 改为 HYPTEC 以推进全球化。<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://static.nfnews.com/content/202408/02/c9233979.html\">[s11]</a> 品牌由广汽埃安孵化，共享广汽研究院与埃安的研发、制造体系，财务不单独披露，集团数据见广汽集团（gac）深度研究。<a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Model line-up and positioning</h3><p>As of the research cut-off (2026-10-29), Hyptec's China line-up comprises the SSR supercar, the GT sport sedan, the HT and S600 SUVs, the HL large SUV and the A800 EREV sedan.<a href=\"https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml\">[s20]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html\">[s21]</a> The SSR (RMB1.286-1.686 million) is a pure-electric supercar with 1,225 hp, 12,000 N of peak wheel torque (Xinhua writes 12000N, not N·m), 0-100 km/h in 1.9 s and a 900V silicon-carbide system.<a href=\"https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html\">[s7]</a> The GT (RMB219,900-339,900 after subsidies) is a mid-to-large sport sedan on the AEP 3.0 platform with a 0.197 Cd drag coefficient and 560/600/710 km ranges; the HT (RMB213,900-329,900) is a mid-to-large SUV with optional gull-wing doors, an 800V platform and up to 770 km of range.<a href=\"https://xinwen.bjd.com.cn/content/s64a50a03e4b042ca9e8ea71e.html\">[s8]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/17/t20231117_38795178.shtml\">[s10]</a> The HL (RMB269,800-319,800) is a 5,126 mm-long large SUV with a 3,088 mm wheelbase, offered in BEV and EREV with five/six seats.<a href=\"https://auto.cri.cn/20250414/37b75e87-394e-6df2-ff68-43f4f26a92f7.html\">[s15]</a> China Securities Journal called the S600 the core volume model after the Hyptec-Aion merger and a key answer to the Panyu Action; 21st Century Business Herald called the A800 and S600 the two strategic products for 2026, seen as the hope of saving the brand. On the products: the A800 (4 March 2026, RMB189,800-299,800) is an EREV-only sedan pairing GAC's three-motor digital chassis with Huawei Qiankun ADS 4.1, HarmonyOS cockpit 5 and an 896-line LiDAR; the S600 (12 June 2026, RMB199,900-219,900) is a sport SUV in BEV and EREV with dual-chamber air suspension, SDC dampers and LiDAR as standard.<a href=\"https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml\">[s20]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html\">[s21]</a><a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a> Since the late-2025 BU reform, Hyptec has been positioned as the 'elite car' while Aion anchors the 'national good car'.<a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a></p><h3>Core technology</h3><p>Hyptec shares GAC's technology stack with Aion and the GAC R&amp;D institute: the AEP 3.0 pure-electric platform, the Xingling electronic-electrical architecture, the Magazine Battery 2.0, an 800V high-voltage platform (900V silicon carbide on the SSR), the ADiGO cockpit and the GSD driving-assist system, plus the 'Xingyuan' range-extender used on the HL EREV, A800 and S600.<a href=\"https://www.toutiao.com/article/7492608048968761882\">[s16]</a><a href=\"https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml\">[s20]</a> The HL EREV pairs a 60 kWh CATL Xiaoyao battery (about 350 km of pure-electric range) with a 53L fuel tank. CRI's launch report, which credits GAC Hyptec as the source, gives an oil-to-electric rate of 3.7 kWh/L and a combined range that 'breaks through 1,200 km'; 21st Century Business Herald gives 3.73 kWh/L for the Xingyuan range-extender. The two figures are listed side by side. The BEV tops out with a 108 kWh CTP pack and 750 km of CLTC range.<a href=\"https://auto.cri.cn/20250414/37b75e87-394e-6df2-ff68-43f4f26a92f7.html\">[s15]</a><a href=\"https://www.toutiao.com/article/7492608048968761882\">[s16]</a> 21st Century Business Herald reported that the Xingyuan range-extender uses an amorphous (non-silicon-steel) motor and a crankshaft-direct generator link, reaching 3.73 kWh/L versus a mainstream level of about 3.4 kWh/L.<a href=\"https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html\">[s17]</a> The A800 adds Huawei-supplied intelligent driving (Qiankun ADS 4.1) and HarmonyOS cockpit 5, the brand's most Huawei-heavy product.<a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a></p><h3>Manufacturing and channels</h3><p>Hyptec relies on GAC Aion's manufacturing base; Aion's Panyu smart eco-factory in Guangzhou is, per Xinhua, the world's only 'lighthouse factory' in the new-energy vehicle sector, with a standard annual capacity of 200,000 units, a 53-second takt time and more than 600 robots.<a href=\"https://www.xinhuanet.com/20250413/ae12f81053c54253ae13cb6c8c30470d/c.html\">[s32]</a> On product development, CNR reported that, under the IPD (Integrated Product Development) system, the Hyptec-Aion new-vehicle development cycle was cut from 26 months to 18-21 months and overall R&amp;D cost fell by over 10%; China Economic Net separately quoted GAC chairman Feng Xingya as saying the cycle was cut from 30 months to 18-24 months with product development cost down 10%.<a href=\"https://auto.cnr.cn/hy/20260706/t20260706_527693593.shtml\">[s25]</a><a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a> After the December 2025 BU reform, per 21st Century Business Herald, the merged channel passed 1,000 outlets with 100% coverage of cities above the fourth tier (四线以上); a July 2026 CNR report instead says full coverage of fourth-tier cities and above (四线及以上).<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a><a href=\"https://auto.cnr.cn/hy/20260706/t20260706_527693593.shtml\">[s25]</a></p><h3>Overseas business</h3><p>The SSR overseas version rolled off the line on 1 August 2024 as China's first batch-exported supercar; the first overseas SSR was delivered in Thailand on 9 December 2024, and Aion's Thailand smart factory in Rayong was completed and put into production on 17 July 2024, per GAC's official history.<a href=\"https://www.gacgroup.com/cn/about/history\">[s33]</a> The brand has targeted Southeast Asia, the Middle East, South America and Europe, and the SSR overseas version debuted at the 2024 Paris Motor Show.<a href=\"https://static.nfnews.com/content/202408/02/c9233979.html\">[s11]</a><a href=\"https://www.toutiao.com/article/7426949075297223209/\">[s13]</a> At the Thai motor show, media reported about a dozen orders per day over roughly ten days for the SSR, and more than 1,000 orders for the Hyptec HT in Thailand.<a href=\"https://static.nfnews.com/content/202408/02/c9233979.html\">[s11]</a></p>",
+      "zh": "<h3>车型谱系与定位</h3><p>截至研究截止日（2026-10-29），昊铂国内在售车型包括 SSR 超跑、GT 运动轿车、HT 与 S600 两款 SUV、HL 大型 SUV，以及 A800 增程轿车。<a href=\"https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml\">[s20]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html\">[s21]</a> SSR（128.6 万—168.6 万元）为纯电超跑，1225 匹马力、轮上峰值扭矩 12000N（新华网原文作 12000N，不是牛·米）、百公里加速 1.9 秒、900V 碳化硅系统。<a href=\"https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html\">[s7]</a> GT（补贴后 21.99 万—33.99 万元）为基于 AEP 3.0 平台的中大型运动轿车，风阻系数 0.197，提供 560／600／710 公里三种续航；HT（21.39 万—32.99 万元）为中大型 SUV，可选鸥翼门，800V 平台、最高续航 770 公里。<a href=\"https://xinwen.bjd.com.cn/content/s64a50a03e4b042ca9e8ea71e.html\">[s8]</a><a href=\"https://auto.ce.cn/auto/gundong/202311/17/t20231117_38795178.shtml\">[s10]</a> HL（26.98 万—31.98 万元）为车长 5126 mm、轴距 3088 mm 的大型 SUV，纯电／增程双动力、五座／六座布局。<a href=\"https://auto.cri.cn/20250414/37b75e87-394e-6df2-ff68-43f4f26a92f7.html\">[s15]</a> 中证网称 S600 是昊铂、埃安整合后的核心走量车型，被视作番禺行动的关键答卷；21 世纪经济报道称 A800 与 S600 是 2026 年两款战略级产品，被视作拯救品牌的希望。产品方面：A800（2026 年 3 月 4 日上市，18.98 万—29.98 万元）为仅增程的轿车，将广汽三电机数字底盘与华为乾崑智驾 ADS 4.1、鸿蒙座舱 5、896 线激光雷达结合；S600（2026 年 6 月 12 日上市，19.99 万—21.99 万元）为运动 SUV，提供纯电／增程，全系标配双腔空气悬架、SDC 减振器与激光雷达。<a href=\"https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml\">[s20]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html\">[s21]</a><a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a> 自 2025 年底 BU 改革以来，昊铂聚焦「精英座驾」、埃安锚定「国民好车」，形成高低搭配。<a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a></p><h3>核心技术</h3><p>昊铂的技术栈与广汽埃安、广汽研究院共享：AEP 3.0 纯电专属平台、星灵电子电气架构、弹匣电池 2.0、800V 高压平台（SSR 采用 900V 碳化硅）、ADiGO 智能座舱与 GSD 智驾系统，另有用于 HL 增程版、A800、S600 的广汽「星源增程」增程系统。<a href=\"https://www.toutiao.com/article/7492608048968761882\">[s16]</a><a href=\"https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml\">[s20]</a> HL 增程版采用 60kWh 宁德时代骁遥电池（纯电续航约 350 公里）配 53L 油箱。国际在线上市通稿（资料来源写广汽昊铂）称油电转化效率 3.7kWh/L、综合续航突破 1200 公里；21 世纪经济报道称星源增程油电转化率 3.73kWh/L。两套口径并列。纯电版最高搭载 108kWh CTP 电池包，CLTC 续航 750 公里。<a href=\"https://auto.cri.cn/20250414/37b75e87-394e-6df2-ff68-43f4f26a92f7.html\">[s15]</a><a href=\"https://www.toutiao.com/article/7492608048968761882\">[s16]</a> 21 世纪经济报道称，星源增程采用非晶电机与曲轴直连发电机方案，油电转化率达 3.73kWh/L，高于国内主流约 3.4kWh/L 的水平。<a href=\"https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html\">[s17]</a> A800 进一步引入华为乾崑智驾 ADS 4.1 与鸿蒙座舱 5，为品牌迄今「含华量」最高的产品。<a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a></p><h3>制造与渠道</h3><p>昊铂依托广汽埃安的制造体系；据新华网报道，埃安位于广州番禺的智能生态工厂是新能源汽车领域全球唯一「灯塔工厂」，年标准产能 20 万辆、生产节拍 53 秒/辆、部署 600 余台机器人。<a href=\"https://www.xinhuanet.com/20250413/ae12f81053c54253ae13cb6c8c30470d/c.html\">[s32]</a> 产品开发上，央广网称依托 IPD 研发体系，昊铂埃安新车开发周期由 26 个月缩短至 18 至 21 个月、研发成本下降 10% 以上；中国经济网另引广汽董事长冯兴亚在央视《对话》中的表述为由 30 个月缩至 18—24 个月、产品开发成本下降 10%。<a href=\"https://auto.cnr.cn/hy/20260706/t20260706_527693593.shtml\">[s25]</a><a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a> 2025 年 12 月 BU 改革后，据 21 世纪经济报道，融合后的昊铂埃安 BU 渠道已突破 1000 家销售网点、100% 覆盖全国四线以上城市；央广网 2026 年 7 月的报道则写为「四线及以上城市」全覆盖。<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a><a href=\"https://auto.cnr.cn/hy/20260706/t20260706_527693593.shtml\">[s25]</a></p><h3>海外业务</h3><p>据广汽集团官网发展历史，SSR 海外版于 2024 年 8 月 1 日下线、成为首款批量出海的中国超跑；2024 年 12 月 9 日海外首台 SSR 在泰国交付；广汽埃安泰国智能工厂于 2024 年 7 月 17 日在罗勇府竣工投产。<a href=\"https://www.gacgroup.com/cn/about/history\">[s33]</a> 品牌以东南亚、中东、南美、欧洲为目标市场，SSR 海外版亮相 2024 巴黎车展。<a href=\"https://static.nfnews.com/content/202408/02/c9233979.html\">[s11]</a><a href=\"https://www.toutiao.com/article/7426949075297223209/\">[s13]</a> 在泰国车展，媒体报道 SSR 大约十天、每天十几张订单，而昊铂 HT 在泰国收获上千台订单。<a href=\"https://static.nfnews.com/content/202408/02/c9233979.html\">[s11]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Ownership and governance</h3><p>Hyptec is not a separate listed company. It was incubated by GAC Aion New Energy Automobile Co., Ltd., a GAC-controlled subsidiary, and after its January 2025 spin-off operated as 'GAC Hyptec' within GAC Group before being merged back into the Hyptec-Aion BU in December 2025.<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a> GAC Group is state-controlled; no separate controlling-shareholder disclosure applies at brand level.</p><h3>Current management</h3><p>After the December 2025 BU reform, Zhang Xiong (张雄) became president of the Hyptec-Aion BU. He graduated from Tsinghua University's automotive engineering programme in 2007, joined the GAC R&amp;D institute as an engineer, and was among the first cohort of GAC's new-energy vehicle R&amp;D engineers with nearly two decades of technical work before taking the BU post.<a href=\"https://www.cnr.cn/2013qcpd/djfb/20251218/t20251218_527464512.shtml\">[s4]</a><a href=\"https://news.qq.com/rain/a/20260824A08I4800\">[s28]</a> Yang Long (杨龙) is a BU vice president in charge of marketing and channel operations, with a career across GAC Honda, GAC Mitsubishi and GAC Trading; Feng Yu (冯煜) is a BU vice president focused on product design.<a href=\"https://news.qq.com/rain/a/20260824A08I4800\">[s28]</a> On 16 November 2025 GAC appointed Xia Xianqing (閤先庆) general manager. As of the 22 October 2026 GAC news on the FAW-GAC joint working group, he is deputy party secretary and general manager; he also chairs GAC Aion.<a href=\"https://www.nfnews.com/content/G3OALQDgor.html\">[s35]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19195\">[s34]</a><a href=\"https://news.qq.com/rain/a/20260824A08I4800\">[s28]</a></p><h3>Brand-level and early management</h3><p>At brand level, media reported on 14 February 2025 that Ma Haiyang (马海洋) took office as GAC Hyptec CEO; a March 2025 AutoRen interview still referred to him as CEO of GAC Hyptec.<a href=\"https://k.sina.cn/article_1644114654_61ff32de02001xi76.html\">[s18]</a><a href=\"https://www.cnqcr.com/jd/guonei/50814.html\">[s31]</a> As of the research cut-off there is no public confirmation of a change to his role; since the December 2025 BU reform, public reporting on Hyptec-Aion operations has centred on Zhang Xiong, Yang Long and Feng Yu. Huang Yongqiang (黄永强), a member of GAC's executive committee and head of its brand marketing department, set out four directions for Hyptec under the Panyu Action: a dedicated design team (led by Pontus of the Los Angeles design centre), a dedicated high-end supply chain, a dedicated production line, and giving Hyptec GAC's highest-end technology first.<a href=\"https://www.cnqcr.com/jd/guonei/50814.html\">[s31]</a> In the brand's early days, GAC Aion's first general manager Gu Huinan (古惠南) steered Hyptec as its 'brand principal'; media reported his retirement in March 2025.<a href=\"https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html\">[s7]</a><a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s29]</a> Feng Xingya (冯兴亚) is GAC Group's party secretary and chairman. The 22 October 2026 GAC news does not call him general manager; that post is Xia Xianqing's.<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19195\">[s34]</a> All of the above is public role and business information.</p>",
+      "zh": "<h3>股权与治理</h3><p>昊铂并非单独上市公司，由广汽集团控股的广汽埃安新能源汽车股份有限公司孵化，2025 年 1 月独立后以「广汽昊铂」名义在广汽集团体系内运营，2025 年 12 月重新并入昊铂埃安 BU。<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a><a href=\"https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html\">[s3]</a> 广汽集团为国有控股企业；品牌层面无单独的实际控制人认定披露。</p><h3>现任管理层</h3><p>2025 年 12 月 BU 改革后，张雄出任昊铂埃安 BU 总裁。他 2007 年毕业于清华大学车辆工程专业，入职广汽研究院任工程师，是广汽新能源汽车研发首批成员之一，有近二十年技术积累，后出任该 BU 总裁。<a href=\"https://www.cnr.cn/2013qcpd/djfb/20251218/t20251218_527464512.shtml\">[s4]</a><a href=\"https://news.qq.com/rain/a/20260824A08I4800\">[s28]</a> 杨龙任昊铂埃安 BU 副总裁，负责营销与渠道运营，履历横跨广汽本田、广汽三菱、广汽商贸；冯煜任 BU 副总裁，专注产品设计。<a href=\"https://news.qq.com/rain/a/20260824A08I4800\">[s28]</a> 2025 年 11 月 16 日，广汽集团聘任閤先庆为总经理。截至 2026 年 10 月 22 日广汽集团关于一汽与广汽联合工作组的新闻，他的职务是党委副书记、总经理，并兼任广汽埃安董事长。<a href=\"https://www.nfnews.com/content/G3OALQDgor.html\">[s35]</a><a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19195\">[s34]</a><a href=\"https://news.qq.com/rain/a/20260824A08I4800\">[s28]</a></p><h3>品牌层面与早期管理层</h3><p>品牌层面，媒体报道马海洋于 2025 年 2 月 14 日出任广汽昊铂首席执行官；2025 年 3 月《汽车人》采访仍称其为广汽昊铂品牌首席执行官。<a href=\"https://k.sina.cn/article_1644114654_61ff32de02001xi76.html\">[s18]</a><a href=\"https://www.cnqcr.com/jd/guonei/50814.html\">[s31]</a> 截至研究截止日，未见其职务变动的公开确认；2025 年 12 月 BU 改革后，公开报道中昊铂埃安运营主要由张雄、杨龙、冯煜负责。广汽集团执委会委员、品牌营销本部负责人黄永强在「番禺行动」下为昊铂提出四个方向：配备专属设计团队（由洛杉矶设计中心蓬托斯主理）、专属高端供应链、专用生产线，以及将广汽最高端技术率先搭载到昊铂。<a href=\"https://www.cnqcr.com/jd/guonei/50814.html\">[s31]</a> 品牌创立初期由广汽埃安首任总经理古惠南以「昊铂品牌主理人」身份掌舵，媒体报道其于 2025 年 3 月退休。<a href=\"https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html\">[s7]</a><a href=\"https://hj.pcauto.com.cn/article/3137856.html\">[s29]</a> 冯兴亚为广汽集团党委书记、董事长。2026 年 10 月 22 日广汽集团新闻没有再称他为总经理，总经理一职为閤先庆。<a href=\"https://www.gacgroup.com/cn/news/detail?baseid=19195\">[s34]</a> 以上均为公开职务与商业履历。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: the competitive field.</strong> In the RMB 200,000-300,000 premium EV/EREV band, Hyptec's main rivals include Tesla's Model 3/Model Y, BYD's Han/Tang and Denza, Xiaomi's SU7, Zeekr, IM Motors, Arcfox, Avatr and Huawei HIMA models. Media reported that the GT was aimed at Tesla's Model 3 and the HT at the Model Y, and that the A800 competes with the BYD Han, Xpeng P7+, Voyah Zhuiguang L and Zeekr 007. This is an analytical selection, not a sales ranking.<a href=\"https://auto.ce.cn/auto/gundong/202311/17/t20231117_38795178.shtml\">[s10]</a><a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a></p><p><strong>Our judgment: strengths.</strong> Hyptec draws on GAC's full-stack manufacturing base and shared technology (AEP 3.0, Magazine Battery, GSD, Xingyuan range-extender), plus Huawei-supplied smart-driving on the A800, and it retains a halo in the SSR as China's first mass-produced pure-electric supercar.<a href=\"https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html\">[s7]</a><a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a> The merged BU's H1 2026 rebound (up 67.08% YoY) shows the shared channel and product push can lift volume, though that rebound is led by Aion models.<a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p><p><strong>Our judgment: weaknesses.</strong> Hyptec has not produced a hit model: 21st Century Business Herald counted 15,150 units in 2025, including 7 SSRs and 802 GTs, and said the A800's first full month was weak; Guancha (via Tencent) separately counted about 14,800 units for 2025. The two counts are listed side by side.<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a><a href=\"https://news.qq.com/rain/a/20260318A081YJ00\">[s30]</a> China Entrepreneur, reprinted by China Economic Net on 23 October 2025, reported January-August 2025 sales of 8,992 units, still far from the 60,000-unit annual target.<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a> It also faces an internal competitor in Qijing (启境; the sources cited here do not confirm an official English name), the GAC-Huawei premium brand established on 19 September 2025, whose first model (the GT7) launched in June 2026.<a href=\"https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html\">[s17]</a><a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>在 20 万—30 万元的高端新能源（纯电／增程）区间，昊铂的主要对手包括特斯拉 Model 3／Model Y、比亚迪汉／唐与腾势、小米 SU7、极氪、智己、极狐、阿维塔及华为鸿蒙智行车型。媒体报道昊铂 GT 对标特斯拉 Model 3、HT 对标 Model Y，A800 与比亚迪汉、小鹏 P7+、岚图追光 L、极氪 007 竞争。此为分析所选的竞争范围，不是销量排名。<a href=\"https://auto.ce.cn/auto/gundong/202311/17/t20231117_38795178.shtml\">[s10]</a><a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a></p><p><strong>我们的判断：优势。</strong>昊铂依托广汽的全栈制造基础与共享技术（AEP 3.0、弹匣电池、GSD、星源增程），A800 引入华为智驾，并以 SSR 这一中国首款量产纯电超跑保有品牌高度。<a href=\"https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html\">[s7]</a><a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a> 合并后 BU 在 2026 年上半年同比增长 67.08%，显示共享渠道与产品攻势能拉起体量，但该回升主要由埃安车型带动。<a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p><p><strong>我们的判断：短板。</strong>昊铂尚未打造出爆款：21 世纪经济报道统计 2025 年销量 15150 台，其中 SSR 仅 7 台、GT 仅 802 台，并指出 A800 上市首个完整月份销量低迷；观察者网（腾讯转载）另计 2025 年为 1.48 万辆。两口径并列，不是同一个数。<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a><a href=\"https://news.qq.com/rain/a/20260318A081YJ00\">[s30]</a> 《中国企业家》（中国经济网 2025 年 10 月 23 日转载）指出，2025 年 1—8 月昊铂累计销量为 8992 辆，距离 6 万辆的年度目标仍有较大差距。<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml\">[s14]</a> 同时品牌还面临 2025 年 9 月 19 日成立的广汽与华为新高端品牌「启境」（首款车型 GT7 于 2026 年 6 月上市）的内部竞争。<a href=\"https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html\">[s17]</a><a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Under GAC's 'Panyu Action' reform, Hyptec is positioned as the 'elite car' line against Aion's 'national good car'; the phased channel merger had, by 31 March 2026, already lifted the merged Hyptec-Aion BU past 1,000 sales outlets with 100% coverage of cities above the fourth tier (四线以上).<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a> GAC chairman Feng Xingya said in early 2025 that GAC would support Hyptec 'without an upper limit for three years'; Huang Yongqiang set out four directions when the brand went independent (dedicated design team, dedicated high-end supply chain, dedicated production line, and highest-end technology first).<a href=\"https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html\">[s17]</a><a href=\"https://www.cnqcr.com/jd/guonei/50814.html\">[s31]</a> The A800 and S600 were framed as the two strategic products for 2026, and the brand has continued to lean on Huawei technology for smart driving; at the same time, Qijing (启境; official English name not confirmed), GAC's independently run premium brand co-developed with Huawei Qiankun, launched its first model (the GT7) in June 2026, with 5,200 firm orders within 24 hours.<a href=\"https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html\">[s21]</a><a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p><p><strong>Our judgment.</strong> Hyptec's near-term path depends on whether the A800 and S600 can finally create a volume model, whether the Huawei partnership differentiates it from the sibling Qijing brand (启境; official English name not confirmed), and whether the BU's shared channel and R&amp;D can cut its cost base. Its low 2025 base (about 15,000 units) means even modest absolute gains would register as large growth, but the premium band remains crowded and price competition is intense. This is our analysis, not a forecast of financial results.<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a><a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>在广汽「番禺行动」改革下，昊铂被定位为「精英座驾」、与埃安「国民好车」错位；分阶段的渠道融合已于 2026 年 3 月 31 日后让昊铂埃安 BU 拥有超 1000 家销售网点、100% 覆盖全国四线以上城市。<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a> 广汽董事长冯兴亚 2025 年初曾表示「未来三年不设上限」支持昊铂；黄永强在品牌独立时提出四个方向（专属设计团队、专属高端供应链、专用生产线、最高端技术优先）。<a href=\"https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html\">[s17]</a><a href=\"https://www.cnqcr.com/jd/guonei/50814.html\">[s31]</a> A800、S600 被定位为 2026 年两款战略产品，品牌继续借助华为技术补齐智驾；与此同时，广汽与华为乾崑联合打造、独立运营的新高端品牌「启境」于 2026 年 6 月上市首款车型 GT7，24 小时大定突破 5200 辆。<a href=\"https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html\">[s21]</a><a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p><p><strong>我们的判断。</strong>昊铂短期走向取决于 A800、S600 能否真正打造出走量车型，华为合作能否使其区别于同门「启境」品牌，以及 BU 共享渠道与研发能否压低成本。其 2025 年约 1.5 万辆的低基数意味着即便绝对增量有限、增速也会显得可观，但高端区间竞争拥挤、价格战激烈。以上为我们的分析，不构成对财务结果的预测。<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a><a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>No hit model.</strong> Hyptec has yet to produce a volume model; third-party data put 2025 sales at about 15,000 units, with the SSR at 7 units and the GT at 802, and media reported weak early sales for the A800.<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a></li><li><strong>Repeated repositioning.</strong> 21st Century Business Herald reported that weaker-than-expected sales after the spin-off, and the cash drain from duplicated channel investment, led GAC in December 2025 to merge Hyptec back with Aion and combine the channels. The same report said the lineup had shifted from sporty models (SSR, HT, GT) to tech-and-business models (HL, A800), leaving the brand image split. The 23 October 2025 China Entrepreneur piece does not contain this judgment, and it predates the December BU merger.<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a></li><li><strong>No separate financial disclosure.</strong> Hyptec publishes no brand-level revenue or profit, so its standalone economics cannot be read from public filings; its parent GAC Group posted a net loss attributable to owners of the parent of RMB8.784 billion for 2025.<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0329/2026032900419_c.pdf\">[s1]</a></li><li><strong>Intense premium competition.</strong> The RMB 200,000-300,000 band is crowded with Tesla, BYD, Xiaomi and Huawei HIMA models, and price competition is severe.<a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a></li><li><strong>Internal overlap with Qijing.</strong> GAC's Huawei co-developed premium brand Qijing (启境; official English name not confirmed; first model GT7 launched June 2026) overlaps with Hyptec's high-end, Huawei-leaning positioning.<a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></li><li><strong>Overseas cost and policy risks.</strong> European expansion faces EU tariffs on Chinese EVs and local-competition uncertainty, as media noted around the 2024 Paris Motor Show.<a href=\"https://www.toutiao.com/article/7426949075297223209/\">[s13]</a></li></ul>",
+      "zh": "<ul><li><strong>尚无爆款。</strong>昊铂尚未打造出走量车型：第三方统计 2025 年销量约 1.5 万辆，其中 SSR 仅 7 台、GT 仅 802 台，媒体亦报道 A800 上市初期销量偏低。<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a></li><li><strong>定位反复。</strong>21 世纪经济报道称，昊铂独立后销量不及预期，渠道投入重复带来资金消耗，广汽因此在 2025 年 12 月把昊铂与埃安重新合并、融合渠道；同一报道称产品由 SSR、HT、GT 的运动风格转到 HL、A800 的科技商务风格，品牌形象存在割裂。「渠道投入重复」出自这篇 2026 年 5 月 24 日的报道，不是 2025 年 10 月 23 日的《中国企业家》。<a href=\"https://news.qq.com/rain/a/20260524A07TBY00\">[s23]</a></li><li><strong>无单独财务披露。</strong>昊铂不披露品牌层面营收与利润，无法从公开文件评估其独立经营状况；其母公司广汽集团 2025 年归属于母公司股东的净利润为亏损 87.84 亿元。<a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0329/2026032900419_c.pdf\">[s1]</a></li><li><strong>高端竞争激烈。</strong>20 万—30 万元区间聚集特斯拉、比亚迪、小米与华为鸿蒙智行等车型，价格竞争激烈。<a href=\"https://www.toutiao.com/article/7613687866933199379/\">[s19]</a></li><li><strong>与启境品牌内部重叠。</strong>广汽与华为联合打造的新高端品牌「启境」（首款车型 GT7 于 2026 年 6 月上市）与昊铂的高端及华为化定位存在重叠。<a href=\"https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml\">[s24]</a></li><li><strong>海外成本与政策风险。</strong>欧洲市场面临欧盟对中国电动车加征关税与当地竞争的不确定性，媒体在 2024 巴黎车展期间亦有提及。<a href=\"https://www.toutiao.com/article/7426949075297223209/\">[s13]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "广汽集团2025年年度报告（H股，港交所披露易）", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0329/2026032900419_c.pdf", "date": "2026-03-29", "tier": "A" },
+    { "id": "s2", "name": "广汽集团·上交所业绩预告监管工作函回复公告（埃安及昊铂2025年销量29万辆）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-03-16/601238_20260316_QV23.pdf", "date": "2026-03-16", "tier": "A" },
+    { "id": "s3", "name": "新华网广东·广汽自主品牌BU改革启动 昊铂埃安渠道率先融合", "url": "https://www.gd.news.cn/20251218/5165c16104d44b4eacfe2ddc6a29760a/c.html", "date": "2025-12-18", "tier": "B" },
+    { "id": "s4", "name": "央广网·广汽开启自主品牌BU改革 张雄任昊铂埃安BU总裁", "url": "https://www.cnr.cn/2013qcpd/djfb/20251218/t20251218_527464512.shtml", "date": "2025-12-18", "tier": "B" },
+    { "id": "s5", "name": "央视网·埃安发布AI神箭新LOGO 中国第一超跑Hyper SSR闪耀登场", "url": "https://auto.cctv.com/2022/09/16/ARTI3yuYaCiwTsbvWMUYoVf5220916.shtml", "date": "2022-09-16", "tier": "B" },
+    { "id": "s6", "name": "中国青年报汽车频道·埃安和中国航天成立联合实验室并发布全新品牌昊铂", "url": "https://auto.cyol.com/gb/articles/2022-09/17/content_gLWlmimoy.html", "date": "2022-09-17", "tier": "B" },
+    { "id": "s7", "name": "新华网·昊铂SSR正式交付（128.6万-168.6万元）", "url": "https://www.news.cn/auto/20231011/eef75fb95a0042c78b8b1b4648a4d8eb/c.html", "date": "2023-10-11", "tier": "B" },
+    { "id": "s8", "name": "北京日报·21.99万元起售 昊铂GT上市", "url": "https://xinwen.bjd.com.cn/content/s64a50a03e4b042ca9e8ea71e.html", "date": "2023-07-05", "tier": "B" },
+    { "id": "s9", "name": "中国日报（英文）·Aion starts presales of new marque Hyper's first model", "url": "https://www.chinadaily.com.cn/a/202304/17/WS643cb67fa310b6054face09d.html", "date": "2023-04-17", "tier": "B" },
+    { "id": "s10", "name": "中国经济网·昊铂HT上市21.39万元起（对标Model Y）", "url": "https://auto.ce.cn/auto/gundong/202311/17/t20231117_38795178.shtml", "date": "2023-11-17", "tier": "B" },
+    { "id": "s11", "name": "南方+·广汽埃安古惠南专访（昊铂更名HYPTEC及出海规划）", "url": "https://static.nfnews.com/content/202408/02/c9233979.html", "date": "2024-08-02", "tier": "B" },
+    { "id": "s12", "name": "汽车产经网·昊铂官方更改品牌英文名为HYPTEC（GT全球款售价）", "url": "https://www.autoreport.cn/zonghexinwen/20240805/1593257870.html", "date": "2024-08-05", "tier": "B" },
+    { "id": "s13", "name": "南方+·昊铂SSR亮相2024巴黎车展", "url": "https://www.toutiao.com/article/7426949075297223209/", "date": "2024-10-18", "tier": "B" },
+    { "id": "s14", "name": "中国经济网·半年亏损25亿元 广汽转型生死时速（昊铂独立、销量、番禺行动）", "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202510/t20251023_2533293.shtml", "date": "2025-10-23", "tier": "B" },
+    { "id": "s15", "name": "国际在线·陆地游艇昊铂HL正式上市（26.98万-31.98万元）", "url": "https://auto.cri.cn/20250414/37b75e87-394e-6df2-ff68-43f4f26a92f7.html", "date": "2025-04-14", "tier": "B" },
+    { "id": "s16", "name": "新京报·广汽昊铂品牌焕新后首款车型昊铂HL上市（星源增程）", "url": "https://www.toutiao.com/article/7492608048968761882", "date": "2025-04-13", "tier": "B" },
+    { "id": "s17", "name": "21世纪经济报道·广汽IPD元年：一场从昊铂开始的革命与救赎", "url": "https://www.21jingji.com/article/20251014/herald/a72f02a3bca7a2c3b642ae0dad831822.html", "date": "2025-10-14", "tier": "B" },
+    { "id": "s18", "name": "新京报贝壳财经·广汽昊铂宣布人事架构 马海洋任首席执行官", "url": "https://k.sina.cn/article_1644114654_61ff32de02001xi76.html", "date": "2025-02-14", "tier": "B" },
+    { "id": "s19", "name": "每日经济新闻·昊铂旗舰轿车A800上市（销量与华为合作）", "url": "https://www.toutiao.com/article/7613687866933199379/", "date": "2026-03-05", "tier": "B" },
+    { "id": "s20", "name": "南方网·新豪华智慧旗舰轿车昊铂A800上市（补贴后16.48万元起）", "url": "https://car.southcn.com/node_37aef5c8b5/faf98a6fd5.shtml", "date": "2026-03-05", "tier": "B" },
+    { "id": "s21", "name": "中证网·昊铂S600打出高配平权牌（19.99万-21.99万元、全系双腔空悬）", "url": "https://www.cs.com.cn/ssgs/01/2026/06/22/detail_2026062210019590.html", "date": "2026-06-22", "tier": "B" },
+    { "id": "s22", "name": "南方网·昊铂S600正式上市 权益价17.99万元起", "url": "https://www.toutiao.com/article/7651455075520348714/", "date": "2026-06-15", "tier": "B" },
+    { "id": "s23", "name": "21世纪经济报道（腾讯）·广汽昊铂的自我救赎（2025年销量15150台及车型明细）", "url": "https://news.qq.com/rain/a/20260524A07TBY00", "date": "2026-05-24", "tier": "B" },
+    { "id": "s24", "name": "央视网·广汽集团1-6月销量77.31万辆（昊铂埃安BU 18.16万辆、启境GT7）", "url": "https://auto.cctv.com/2026/07/03/ARTIkDQ7lbBOiiAZaBql8KVC260703.shtml", "date": "2026-07-03", "tier": "B" },
+    { "id": "s25", "name": "央广网·昊铂埃安上半年销量同比增长15% C端占比超八成", "url": "https://auto.cnr.cn/hy/20260706/t20260706_527693593.shtml", "date": "2026-07-06", "tier": "B" },
+    { "id": "s26", "name": "南方都市报·昊铂埃安9月销量35494辆 同比增长21.91%", "url": "https://www.toutiao.com/article/7691683124391985706", "date": "2026-10-01", "tier": "B" },
+    { "id": "s27", "name": "腾讯新闻·对话埃安张雄（前三季度双品牌超28万辆）", "url": "https://news.qq.com/rain/a/20261017A0DUAT00", "date": "2026-10-17", "tier": "B" },
+    { "id": "s28", "name": "汽湃观察（腾讯）·Ray7：埃安十年之品牌宣言（张雄杨龙冯煜閤先庆履历）", "url": "https://news.qq.com/rain/a/20260824A08I4800", "date": "2026-08-24", "tier": "B" },
+    { "id": "s29", "name": "太平洋汽车·广汽集团选出总经理（古惠南退休、埃安人事变动）", "url": "https://hj.pcauto.com.cn/article/3137856.html", "date": "2025-11-17", "tier": "B" },
+    { "id": "s30", "name": "腾讯新闻·华为800人常驻广汽一年（启境、昊铂累计投入超百亿）", "url": "https://news.qq.com/rain/a/20260318A081YJ00", "date": "2026-03-18", "tier": "B" },
+    { "id": "s31", "name": "汽车人·昊铂的新豪华建构，自HL开始刷新（黄永强四方向、冯兴亚、马海洋）", "url": "https://www.cnqcr.com/jd/guonei/50814.html", "date": "2025-03-24", "tier": "B" },
+    { "id": "s32", "name": "新华网·经济季报听信心（广汽埃安番禺智能生态工厂20万辆年产能/灯塔工厂）", "url": "https://www.xinhuanet.com/20250413/ae12f81053c54253ae13cb6c8c30470d/c.html", "date": "2025-04-13", "tier": "B" },
+    { "id": "s33", "name": "广汽集团官网·发展历史（SSR海外版下线、泰国首交、泰国工厂；检索于2026-10-29）", "url": "https://www.gacgroup.com/cn/about/history", "date": "2026-10-29", "tier": "A" },
+    { "id": "s34", "name": "广汽集团官网·中国一汽与广汽联合工作组成立启动会（冯兴亚为党委书记、董事长；閤先庆为党委副书记、总经理）", "url": "https://www.gacgroup.com/cn/news/detail?baseid=19195", "date": "2026-10-22", "tier": "A" },
+    { "id": "s35", "name": "南方+·市场化选聘落地，閤先庆任广汽集团总经理", "url": "https://www.nfnews.com/content/G3OALQDgor.html", "date": "2025-11-16", "tier": "B" },
+    { "id": "s36", "name": "快科技·昊铂A800四款配置差异（顶配896线激光雷达与尊界S800同款，次顶配1颗；未见400V）", "url": "https://news.mydrivers.com/1/1107/1107078.htm", "date": "2026-03-04", "tier": "B" }
+  ]
+}

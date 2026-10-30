@@ -1,0 +1,352 @@
+{
+  "id": "saic-vw",
+  "name_en": "SAIC Volkswagen Automotive Co., Ltd.",
+  "name_zh": "上汽大众汽车有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Joint-venture contract signed 10 October 1984 in the Great Hall of the People in Beijing; company registered 16 February 1985; founding ceremony 21 March 1985",
+      "value_zh": "1984 年 10 月 10 日在北京人民大会堂签署合资合营合同，1985 年 2 月 16 日注册成立，1985 年 3 月 21 日举行成立仪式",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Joint-venture parties",
+      "label_zh": "合资方与股比",
+      "value_en": "50/50 joint venture between SAIC Motor and Volkswagen Group; the JV term was extended to 2040 (55 years) in November 2024",
+      "value_zh": "上汽集团与大众汽车集团合资经营，中德双方各持股 50%；2024 年 11 月续约将合资期延长至 2040 年（共 55 年）",
+      "period": null,
+      "source_ids": ["s7", "s2"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Anting, Jiading District, Shanghai, China",
+      "value_zh": "中国上海市嘉定区安亭",
+      "period": null,
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Sino-German joint venture; no single controlling shareholder",
+      "value_zh": "中外合资（中德合资），无单一控股方",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; 50% shareholder SAIC Motor is listed on the Shanghai Stock Exchange (600104)",
+      "value_zh": "未单独上市；持股 50% 的股东上汽集团在上交所上市（600104）",
+      "period": null,
+      "source_ids": ["s6"]
+    },
+    {
+      "label_en": "Registered capital",
+      "label_zh": "注册资本",
+      "value_en": "RMB 11.5 billion (1,150,000 ten-thousand yuan, per SAIC Motor's 2025 interim report)",
+      "value_zh": "115 亿元人民币（1,150,000 万元，据上汽集团 2025 年半年度报告）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "More than 26,000 (company website)",
+      "value_zh": "超 2.6 万名（公司官网）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Revenue (latest full year, FY2024)",
+      "label_zh": "最近财年营收（2024 财年）",
+      "value_en": "RMB 135.735 billion (total operating revenue, per SAIC Motor's 2024 annual report)",
+      "value_zh": "1357.35 亿元（营业总收入，据上汽集团 2024 年年度报告）",
+      "period": "2024",
+      "source_ids": ["s17"]
+    },
+    {
+      "label_en": "Net profit (latest full year, FY2024)",
+      "label_zh": "最近财年净利润（2024 财年）",
+      "value_en": "RMB 4.74 billion (net profit attributable to owners of the parent, per SAIC Motor's 2024 annual report; down from a 2018 peak of RMB 28.01 billion)",
+      "value_zh": "47.4 亿元（归属于母公司所有者的净利润，据上汽集团 2024 年年度报告；低于 2018 年 280.1 亿元的历史高点）",
+      "period": "2024",
+      "source_ids": ["s17", "s9"]
+    },
+    {
+      "label_en": "Latest disclosed results (H1 2025)",
+      "label_zh": "最近一次披露的业绩（2025 上半年）",
+      "value_en": "H1 2025 total operating revenue RMB 60.147 billion; net profit attributable to owners of the parent RMB 0.884 billion (SAIC Motor's 2025 interim report). Full-year 2025 is no longer separately disclosed after SAIC Volkswagen dropped out of SAIC Motor's 'major investees' list",
+      "value_zh": "2025 年上半年营业总收入 601.47 亿元、归母净利润 8.84 亿元（上汽集团 2025 年半年度报告）。上汽大众退出上汽「主要参股公司」披露名单后，2025 年全年数据未再单独披露",
+      "period": "2025-H1",
+      "source_ids": ["s5", "s9"]
+    },
+    {
+      "label_en": "Sales (2025)",
+      "label_zh": "2025 年销量",
+      "value_en": "1.024 million units (wholesale, down 10.81% year-on-year); terminal/retail sales 1.06 million (company-reported)",
+      "value_zh": "102.4 万辆（批发口径，同比下降 10.81%）；终端销售 106 万辆（公司口径）",
+      "period": "2025",
+      "source_ids": ["s6", "s4"]
+    },
+    {
+      "label_en": "Sales (2024)",
+      "label_zh": "2024 年销量",
+      "value_en": "1,148,091 units (wholesale, down 5.51% year-on-year; production was 1,148,900 units)",
+      "value_zh": "1,148,091 辆（批发口径，同比下降 5.51%；同期产量 1,148,900 辆）",
+      "period": "2024",
+      "source_ids": ["s23"]
+    },
+    {
+      "label_en": "Sales (Jan–Sep 2026)",
+      "label_zh": "2026 年前三季度销量",
+      "value_en": "492,643 units (wholesale, down 34.52% year-on-year); September 2026 alone 60,402 units (down 35.80%), per SAIC Motor's September 2026 production-and-sales bulletin",
+      "value_zh": "49.26 万辆（批发口径，同比下降 34.52%）；其中 2026 年 9 月单月 6.04 万辆（同比下降 35.80%），据上汽集团 2026 年 9 月产销快报",
+      "period": "2026-01/09",
+      "source_ids": ["s15"]
+    },
+    {
+      "label_en": "Cumulative production/sales",
+      "label_zh": "累计产销",
+      "value_en": "Over 28 million vehicles by its 40th anniversary (November 2024); the company's current official site states cumulative production and sales of 30 million",
+      "value_zh": "2024 年 11 月 40 周年时累计产销超 2800 万辆；公司官网现表述为累计产销三千万辆",
+      "period": null,
+      "source_ids": ["s2", "s7"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1978",
+      "event_en": "The SAIC Volkswagen joint-vehicle project is approved, opening China's first passenger-car joint-venture exploration.",
+      "event_zh": "上汽大众合资项目获批，开启中国轿车领域首个中外合资探索。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1983-04-11",
+      "event_en": "The first CKD (completely-knocked-down) Santana sedan is assembled in Anting, Shanghai.",
+      "event_zh": "第一辆 CKD 桑塔纳轿车在上海安亭组装成功。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1984-10-10",
+      "event_en": "The joint-venture contract is signed in the Great Hall of the People in Beijing, making SAIC Volkswagen China's first passenger-car joint venture.",
+      "event_zh": "上汽大众合资合营合同在北京人民大会堂签字，成为中国第一家轿车合资企业。",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "date": "1985-03-21",
+      "event_en": "The company holds its founding ceremony in Shanghai (registered 16 February 1985), beginning Santana localization.",
+      "event_zh": "上汽大众举行成立仪式（1985 年 2 月 16 日注册），开启桑塔纳国产化进程。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1990-04-18",
+      "event_en": "The first-phase project is completed, reaching annual capacity of 60,000 vehicles and 100,000 engines.",
+      "event_zh": "一期工程建成投产，达到年产 6 万辆整车和 10 万台发动机的生产能力。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1995-04-20",
+      "event_en": "The second-phase project is completed and put into production.",
+      "event_zh": "二期工程全面竣工投产。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2006-09-22",
+      "event_en": "The Skoda brand launch ceremony is held (cooperation agreement signed April 2005), introducing Skoda as the third Volkswagen Group brand produced in China.",
+      "event_zh": "斯柯达品牌启动盛典举行（2005 年 4 月签约），斯柯达成为大众集团在华投产的第三个品牌。",
+      "source_ids": ["s1", "s11"]
+    },
+    {
+      "date": "2015-12-07",
+      "event_en": "The company is renamed SAIC Volkswagen Automotive Co., Ltd. from Shanghai Volkswagen.",
+      "event_zh": "企业由上海大众更名为上汽大众汽车有限公司。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2016-11",
+      "event_en": "SAIC and Volkswagen Group sign a framework agreement to produce and sell Audi models through the SAIC Volkswagen system, the origin of the SAIC Audi business.",
+      "event_zh": "上汽与大众签署合作框架协议，拟通过上汽大众体系产销奥迪品牌产品，此为上汽奥迪业务起点。",
+      "source_ids": ["s30"]
+    },
+    {
+      "date": "2018-10-19",
+      "event_en": "Ground-breaking for the MEB new-energy-vehicle plant in Anting.",
+      "event_zh": "上汽大众新能源汽车工厂（MEB 工厂）在安亭开工。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2019-11-08",
+      "event_en": "The MEB new-energy-vehicle plant is completed.",
+      "event_zh": "上汽大众新能源汽车工厂落成。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2020-10-27",
+      "event_en": "The MEB plant starts volume production; the first ID.4 X rolls off the line.",
+      "event_zh": "新能源汽车工厂实现批量投产，首款 ID.4 X 驶下生产线。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2021-09-26",
+      "event_en": "The first SAIC Audi model, the Audi A7L, begins volume production as SAIC Volkswagen's 24-millionth vehicle.",
+      "event_zh": "上汽奥迪首款车型奥迪 A7L 批量投产，同时为上汽大众第 2400 万辆整车。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-05-20",
+      "event_en": "Audi and SAIC announce joint development of the Advanced Digitized Platform (ADP) for SAIC Audi luxury smart EVs.",
+      "event_zh": "奥迪与上汽宣布联合开发智能数字平台（ADP），为上汽奥迪开发豪华智能电动车。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2024-11-07",
+      "event_en": "The new AUDI letter-mark brand and the Audi E concept are unveiled in Shanghai.",
+      "event_zh": "全新 AUDI 字母标品牌及奥迪 E 概念车在上海全球首发。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2024-11-26",
+      "event_en": "SAIC and Volkswagen Group sign a second extension of the joint-venture agreement, extending the term to 2040, and plan 18 new models by 2030 (15 developed specifically for China).",
+      "event_zh": "上汽集团与大众汽车集团签署延长合资协议，将合资期延长至 2040 年，并计划到 2030 年推出 18 款新车型（其中 15 款专为中国市场开发）。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-07",
+      "event_en": "SAIC Volkswagen closes its Nanjing Jiangning plant (annual capacity about 360,000 units), moving Passat production to Yizheng.",
+      "event_zh": "上汽大众关闭南京江宁工厂（年产能约 36 万辆），帕萨特等车型生产转移至仪征工厂。",
+      "source_ids": ["s26", "s27"]
+    },
+    {
+      "date": "2026-03-26",
+      "event_en": "Volkswagen China confirms Skoda will exit the Chinese market by mid-2026, with after-sales service taken over by SAIC Volkswagen.",
+      "event_zh": "大众中国确认斯柯达将于 2026 年年中退出中国市场，售后服务由上汽大众接手。",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2026-04-25",
+      "event_en": "The ID. ERA 9X, the first model of SAIC Volkswagen's new ID. ERA line-up (a large six-seat extended-range SUV), officially launches at the Beijing auto show.",
+      "event_zh": "上汽大众全新 ID. ERA 序列首款车型、大型六座增程 SUV ID. ERA 9X 于北京车展正式上市。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2026-10-26",
+      "event_en": "Audi China announces a 'two-brand, two-partner' channel structure: FAW operates the four-ring brand while SAIC Audi focuses on the AUDI electric line-up.",
+      "event_zh": "奥迪中国宣布「双品牌、双合作伙伴」渠道架构：一汽运营四环品牌，上汽奥迪聚焦 AUDI 字母标电动车型。",
+      "source_ids": ["s12", "s30"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Volkswagen",
+      "name_zh": "大众品牌",
+      "role_en": "SAIC Volkswagen's core brand, spanning sedans and SUVs from the compact to the large segment, plus the ID. pure-electric and ID. ERA new-energy families.",
+      "role_zh": "上汽大众的核心品牌，覆盖从小型到大型的轿车与 SUV，以及 ID. 纯电家族和 ID. ERA 新能源家族。",
+      "price_band": null,
+      "founded": 1985,
+      "owner_note_en": "Produced by the 50/50 SAIC–Volkswagen joint venture since 1985. Key model families include Santana, Passat, Lavida, Tiguan (Tiguan L), Teramont, Tharu, Lamando and Polo, plus the ID. series (ID.4 X, ID.6 X, ID.3) and the ID. ERA range (9X, 8X, 5S, 5X). In 2025 the Volkswagen brand sold over 1 million units at retail, retaining the title of best-selling single joint-venture brand in China; the Lavida family sold over 270,000, the Passat family nearly 234,000 and the Tiguan family over 203,000 units. Volkswagen-brand fuel-car market share reached about 8.3%, ranking first among single brands.",
+      "owner_note_zh": "自 1985 年起由上汽与大众 50:50 合资生产。主力车型包括桑塔纳、帕萨特、朗逸、途观（途观 L）、途昂、途岳、凌渡、Polo 等家族，以及 ID. 系列（ID.4 X、ID.6 X、ID.3）和 ID. ERA 序列（9X、8X、5S、5X）。2025 年大众品牌零售销量超 100 万辆，蝉联合资单一品牌销量冠军；朗逸家族全年超 27 万辆、帕萨特家族近 23.4 万辆、途观家族超 20.3 万辆。大众品牌燃油车市占率升至约 8.3%，位列单一品牌第一。",
+      "status": "active",
+      "source_ids": ["s1", "s4", "s16"]
+    },
+    {
+      "name_en": "Skoda",
+      "name_zh": "斯柯达",
+      "role_en": "Volkswagen Group's Czech brand introduced via SAIC Volkswagen in 2005, positioned as an affordable German-technology brand.",
+      "role_zh": "大众集团旗下捷克品牌，2005 年经上汽大众引入，定位「平价德系」。",
+      "price_band": null,
+      "founded": 2006,
+      "owner_note_en": "Skoda was launched in China in 2006 with the first locally made Octavia Mingrui arriving in 2007. Sales peaked at 341,000 units in 2018 and then declined every year, to about 15,000 units in 2025. In March 2026 Volkswagen China confirmed Skoda will stop selling in China by mid-2026, refocusing on India and ASEAN; after-sales service moves to SAIC Volkswagen.",
+      "owner_note_zh": "斯柯达 2006 年启动在华业务，2007 年首款国产车型明锐上市。2018 年销量达到 34.1 万辆的历史峰值后逐年下滑，2025 年萎缩至约 1.5 万辆。2026 年 3 月，大众中国确认斯柯达将于 2026 年年中退出中国市场，未来聚焦印度、东盟等市场，售后服务由上汽大众接手。",
+      "status": "exiting",
+      "source_ids": ["s1", "s10", "s11"]
+    },
+    {
+      "name_en": "SAIC Audi / AUDI",
+      "name_zh": "上汽奥迪 / AUDI",
+      "role_en": "SAIC Volkswagen's premium business, launched in 2021; the four-ring Audi models are transitioning to the new AUDI electric brand.",
+      "role_zh": "上汽大众旗下高端豪华业务，2021 年落地；四环奥迪车型正过渡至全新 AUDI 电动品牌。",
+      "price_band": null,
+      "founded": 2021,
+      "owner_note_en": "SAIC Audi launched in 2021 with the Audi A7L, and later added the Q5 e-tron, Q6 and A5L Sportback. In May 2024 Audi and SAIC agreed to co-develop the Advanced Digitized Platform; the new AUDI letter-mark brand debuted in November 2024. Its first model, the Audi E5 Sportback, launched in September 2025; the second, the Audi E7X, launched on 29 May 2026 with a limited-time price starting at RMB 269,800. SAIC Audi sold over 47,000 units in 2025 (up 23%). In October 2026 Audi China announced the four-ring brand will be operated by FAW while SAIC Audi focuses on AUDI electric models; under the transition, SAIC Audi may keep selling four-ring models until end-2027.",
+      "owner_note_zh": "上汽奥迪 2021 年以奥迪 A7L 落地，后续推出 Q5 e-tron、Q6、A5L Sportback。2024 年 5 月奥迪与上汽签约联合开发 ADP 智能数字平台；2024 年 11 月全新 AUDI 字母标品牌发布。首款车型奥迪 E5 Sportback 于 2025 年 9 月上市，第二款车型奥迪 E7X 于 2026 年 5 月 29 日上市、限时臻享价 26.98 万元起。2025 年上汽奥迪销量超 4.7 万辆（同比 +23%）。2026 年 10 月奥迪中国宣布四环品牌归一汽运营，上汽奥迪专注 AUDI 电动车型；按过渡安排，上汽奥迪在 2027 年底前仍可销售四环车型。",
+      "status": "active",
+      "source_ids": ["s1", "s8", "s4", "s12", "s22", "s30"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "RMB 100 million (亿元)",
+    "standard": "PRC GAAP (Chinese Accounting Standards / 中国企业会计准则)",
+    "rows": [
+      { "fiscal_year": 2020, "revenue": 1744.97, "gross_margin_pct": null, "net_profit": 154.9, "rnd": null, "source_ids": ["s21"] },
+      { "fiscal_year": 2021, "revenue": 1592.4, "gross_margin_pct": null, "net_profit": 101.9, "rnd": null, "source_ids": ["s20"] },
+      { "fiscal_year": 2022, "revenue": 1647.1, "gross_margin_pct": null, "net_profit": 87.3, "rnd": null, "source_ids": ["s19"] },
+      { "fiscal_year": 2023, "revenue": 1402.8, "gross_margin_pct": null, "net_profit": 31.3, "rnd": null, "source_ids": ["s18"] },
+      { "fiscal_year": 2024, "revenue": 1357.35, "gross_margin_pct": null, "net_profit": 47.4, "rnd": null, "source_ids": ["s17"] }
+    ],
+    "note_en": "SAIC Volkswagen is a 50/50 Sino-German joint venture that is not separately listed and does not publish standalone financial statements. Its figures are disclosed in the annual and interim reports of its 50% shareholder SAIC Motor, where SAIC Volkswagen is carried as an equity-method investee and listed in the 'major investees' (主要控股参股公司) table. In the table above, revenue is total operating revenue (营业总收入) and net profit is net profit attributable to owners of the parent (归属于母公司所有者的净利润) as labelled in SAIC Motor's reports — this is the parent-attributable figure, not net profit attributable to ordinary shareholders only. Figures are in RMB 100 million. Because the joint venture does not disclose gross margin or R&D separately, gross_margin_pct and rnd are left null. After its profit contribution fell below 10% of SAIC Motor's net profit attributable to the parent, SAIC Volkswagen dropped out of SAIC Motor's 'major investees' disclosure list following the 2025 interim report, so its full-year 2025 financials are no longer separately disclosed. The most recent complete A-level disclosure is SAIC Motor's 2025 interim report: H1 2025 total operating revenue RMB 60.147 billion, net profit attributable to owners of the parent RMB 0.884 billion, total assets RMB 109.319 billion and net assets attributable to owners of the parent RMB 18.111 billion. This page presents only publicly disclosed information and does not constitute any trading recommendation.",
+    "note_zh": "上汽大众为中德 50:50 合资公司，未单独上市，不发布独立财务报表。其财务数据在持股 50% 的股东上汽集团的年度/半年度报告中披露：上汽大众在上汽报表中作为权益法核算的参股公司，列入「主要控股参股公司」表。上表中 revenue 为「营业总收入」、net_profit 为「归属于母公司所有者的净利润」（即上汽集团报表所标注的归母口径，而非仅归属于普通股股东的净利润），单位为亿元人民币，均取自上汽集团各年年度报告的「主要控股参股公司」表。因合资公司不单独披露毛利率与研发投入，gross_margin_pct 与 rnd 均留空。因上汽大众利润贡献已降至上汽集团归母净利润的 10% 以下，其自 2025 年半年报后退出上汽集团「主要参股公司」披露名单，2025 年全年财务数据未再单独披露。最近一次完整的 A 级披露为上汽集团 2025 年半年度报告：2025 年上半年营业总收入 601.47 亿元、归母净利润 8.84 亿元、总资产 1093.19 亿元、归母净资产 181.11 亿元。本页仅呈现公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>SAIC Volkswagen Automotive Co., Ltd. (上汽大众汽车有限公司, formerly Shanghai Volkswagen) is the 50/50 passenger-car joint venture between the state-owned SAIC Motor and Germany's Volkswagen Group, and China's first passenger-car joint venture. The contract was signed on 10 October 1984 in the Great Hall of the People, the company was registered on 16 February 1985 and its headquarters are in Anting, Shanghai <a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a><a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>.</p><p>The company played a formative role in China's auto industry: its Santana localization programme in the 1980s and 1990s helped take China's auto-parts industry from almost nothing to a full supply chain, as the two shareholders put it, and by its 40th anniversary in November 2024 it had accumulated more than 28 million vehicles and employed more than 26,000 people <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a><a href=\"https://www.csvw.com/\">[s7]</a>. Financially, its net profit peaked at RMB 28.01 billion in 2018 before narrowing to RMB 4.74 billion in 2024 <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-04-30/600104_20250430_3YOY.pdf\">[s17]</a>.</p><p>SAIC Volkswagen builds Volkswagen and, until mid-2026, Skoda vehicles, and houses the SAIC Audi premium business with the AUDI electric brand. It has long been one of China's largest passenger-car makers and a core profit source for SAIC Motor: it sold 1.024 million vehicles in 2025 (down 10.81%), though company-reported terminal sales reached 1.06 million <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a><a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>. In November 2024 the two shareholders extended the joint venture to 2040 and committed to 18 new models by 2030 <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>.</p>",
+      "zh": "<p>上汽大众汽车有限公司（前身上海大众）是国有控股的上汽集团与德国大众汽车集团按 50:50 合资经营的轿车企业，也是中国第一家轿车合资企业。1984 年 10 月 10 日在北京人民大会堂签署合资合营合同，1985 年 2 月 16 日注册成立，总部位于上海安亭<a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a><a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>。</p><p>这家公司在中国汽车工业中扮演过奠基性角色：上世纪八九十年代的桑塔纳国产化，助力中国汽车零部件产业实现「从无到有」的飞跃（双方股东语）；到 2024 年 11 月 40 周年时，累计产销超 2800 万辆、员工超 2.6 万名<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a><a href=\"https://www.csvw.com/\">[s7]</a>。财务上，其净利润 2018 年达到 280.1 亿元的历史高点，此后收窄至 2024 年的 47.4 亿元<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a><a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-04-30/600104_20250430_3YOY.pdf\">[s17]</a>。</p><p>上汽大众生产大众品牌及（截至 2026 年年中）斯柯达品牌车型，并经营上汽奥迪高端业务与 AUDI 电动品牌。它长期是中国规模最大的乘用车企业之一，也是上汽集团的核心利润来源：2025 年销售整车 102.4 万辆（同比下降 10.81%），公司口径终端销售达 106 万辆<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a><a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>。2024 年 11 月，双方股东将合资期延长至 2040 年，并承诺到 2030 年推出 18 款新车型<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and brands</h3><p>SAIC Volkswagen's business runs on three brands: the Volkswagen brand (its volume business), Skoda (which Volkswagen China confirmed in March 2026 will exit the Chinese market by mid-2026, with after-sales taken over by SAIC Volkswagen; Skoda's China sales fell from a 2018 peak of 341,000 units to about 15,000 in 2025), and the SAIC Audi premium business <a href=\"https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html\">[s10]</a><a href=\"https://stcn.com/article/detail/3716092.html\">[s11]</a>. In 2025 the Volkswagen brand sold over 1 million vehicles at retail, retaining the title of best-selling single joint-venture brand in China; within it, the Lavida family sold over 270,000 units, the Passat family nearly 234,000, the Tiguan family over 203,000, the Tharu family over 148,000 and the Teramont family nearly 38,000. The 'Pro' family (Teramont Pro, Passat Pro, Lavida Pro) reached nearly 122,000 units, 3.2 times the prior year <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>. SAIC Audi sold over 47,000 units in 2025, up 23%, a third consecutive record year <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>. The Volkswagen-brand line-up spans the Santana, Passat, Lavida, Tiguan, Teramont, Tharu, Lamando and Polo families, plus the ID. series and ID. ERA range <a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a>.</p><h3>Technology and platforms</h3><p>The company builds its Volkswagen-brand EVs on the MEB platform: the first MEB model, the ID.4 X, launched in March 2021, followed by the ID.6 X in June 2021 <a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a>. From 2026 it is rolling out the ID. ERA line-up across extended-range, plug-in-hybrid and pure-electric powertrains. The ID. ERA 9X, a large six-seat extended-range SUV, launched on 25 April 2026 with an official guide price of RMB 309,800–359,800 and a limited-time price from RMB 299,800 <a href=\"https://www.cnr.cn/2013qcpd/cz/20260426/t20260426_527600821.shtml\">[s24]</a>. The ID. ERA 8X, a large five-seat extended-range SUV, launched on 12 October 2026 with a limited-time price of RMB 206,800–269,800 <a href=\"https://www.cet.com.cn/wzsy/cjcj/10607606.shtml\">[s25]</a>. The ID. ERA 5S, a plug-in-hybrid family sedan, launched at the August 2026 Chengdu auto show with a limited-time price from RMB 89,900 <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>. Two compact EVs on the China-specific CMP platform are due from 2026 <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>. On intelligent driving, the Volkswagen brand uses the IQ.Pilot assisted-driving system co-developed with Zoyu to bring high-speed NOA to fuel cars, and the Audi A5L Sportback uses Huawei's Qiankun technology, described by the company as the first fuel car to carry Huawei technology <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>.</p><h3>Plants and capacity</h3><p>The company's headquarters are in Anting, Shanghai, with production bases in Nanjing, Yizheng, Ningbo, Changsha and Urumqi <a href=\"https://www.csvw.com/\">[s7]</a>. Its MEB new-energy plant in Anting, with design capacity of 240,000 units, was completed in November 2019 <a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a>. Per SAIC Motor's 2023 annual report, SAIC Volkswagen had design capacity of 2.088 million units with capacity utilization of about 58% <a href=\"https://www.caizhongshe.cn/news-1527476691936635787.html\">[s26]</a>. In 2025 it closed its Nanjing Jiangning plant (annual capacity about 360,000 units, building the Passat and Skoda Superb), moving Passat production to Yizheng <a href=\"https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E5%B0%86%E5%85%B3%E9%97%AD%E5%9C%A8%E5%8D%97%E4%BA%AC%E7%9A%84%E5%90%88%E8%B5%84%E5%B7%A5%E5%8E%82/a-73238192\">[s27]</a>. Chinese media report that by 2025 SAIC Volkswagen's design capacity had fallen to about 1.92 million units with production of about 1.058 million and utilization of about 55% <a href=\"https://www.caizhongshe.cn/news-1527476691936635787.html\">[s26]</a>.</p><h3>Volume trajectory and latest results</h3><p>SAIC Volkswagen's wholesale sales peaked at 2.0651 million units in 2018 and have mostly declined since: 2.0018 million in 2019, 1.5055 million in 2020, 1.242 million in 2021, 1.3208 million in 2022, 1.215 million in 2023, 1.148 million in 2024 and 1.024 million in 2025 <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a><a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/xssj/60746.shtml\">[s23]</a>. On the financial side, H1 2025 revenue was RMB 60.147 billion and net profit attributable to owners of the parent was RMB 0.884 billion; because the company dropped out of SAIC Motor's 'major investees' list, full-year 2025 financials are no longer separately disclosed <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf\">[s5]</a><a href=\"https://www.caizhongshe.cn/news-1527476691936635787.html\">[s26]</a>. On the operational side, the most recent A-level disclosure is SAIC Motor's September 2026 production-and-sales bulletin: SAIC Volkswagen sold 492,643 units in the first nine months of 2026, down 34.52% year-on-year, with 60,402 units in September (down 35.80%) <a href=\"https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF\">[s15]</a>.</p>",
+      "zh": "<h3>业务结构与品牌</h3><p>上汽大众的业务覆盖三个品牌：大众品牌（销量基本盘）、斯柯达（大众中国 2026 年 3 月确认将于 2026 年年中退出中国市场，售后服务由上汽大众接手；其在华销量从 2018 年 34.1 万辆的峰值降至 2025 年的约 1.5 万辆），以及上汽奥迪高端业务<a href=\"https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html\">[s10]</a><a href=\"https://stcn.com/article/detail/3716092.html\">[s11]</a>。2025 年大众品牌零售销量超 100 万辆，蝉联合资单一品牌销量冠军；其中朗逸家族全年超 27 万辆、帕萨特家族近 23.4 万辆、途观家族超 20.3 万辆、途岳家族超 14.8 万辆、途昂家族近 3.8 万辆，「Pro 家族」（途昂 Pro、帕萨特 Pro、朗逸 Pro）全年终端销量近 12.2 万辆，为上一年 Pro 产品的 3.2 倍<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>。上汽奥迪 2025 年销量超 4.7 万辆、同比增长 23%，连续三年创新高<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>。大众品牌车型覆盖桑塔纳、帕萨特、朗逸、途观、途昂、途岳、凌渡、Polo 等燃油家族，以及 ID. 系列与 ID. ERA 序列等新能源产品<a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a>。</p><h3>技术与平台</h3><p>大众品牌电动车基于 MEB 平台生产：首款 MEB 车型 ID.4 X 于 2021 年 3 月上市，ID.6 X 于 2021 年 6 月上市<a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a>。自 2026 年起，公司推出覆盖增程、插混、纯电三条技术路线的 ID. ERA 序列。其中大型六座增程 SUV ID. ERA 9X 于 2026 年 4 月 25 日上市，官方指导价 30.98 万—35.98 万元、限时权益价 29.98 万元起<a href=\"https://www.cnr.cn/2013qcpd/cz/20260426/t20260426_527600821.shtml\">[s24]</a>；大五座增程 SUV ID. ERA 8X 于 2026 年 10 月 12 日上市，限时权益价 20.68 万—26.98 万元<a href=\"https://www.cet.com.cn/wzsy/cjcj/10607606.shtml\">[s25]</a>；插混家用轿车 ID. ERA 5S 于 2026 年 8 月成都车展上市，限时权益价 8.99 万元起<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>。自 2026 年起，基于专为中国市场打造的 CMP 平台的两款紧凑级电动车也将投入市场<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>。智能驾驶方面，大众品牌携手卓驭推出 IQ.Pilot 增强驾驶辅助 2.0，将端到端高快 NOA 普及至燃油车；奥迪 A5L Sportback 采用华为乾崑技术，公司称其为全球首款搭载华为技术的燃油车<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>。</p><h3>生产基地与产能</h3><p>公司总部位于上海安亭，并先后在南京、仪征、宁波、长沙、乌鲁木齐等地建立生产基地<a href=\"https://www.csvw.com/\">[s7]</a>。其位于安亭的 MEB 新能源工厂设计产能 24 万辆，于 2019 年 11 月落成<a href=\"https://www.csvw.com/csvw-website/about/history.html\">[s1]</a>。据上汽集团 2023 年年度报告，上汽大众设计产能 208.8 万辆、产能利用率约 58%<a href=\"https://www.caizhongshe.cn/news-1527476691936635787.html\">[s26]</a>。2025 年公司关闭了南京江宁工厂（年产能约 36 万辆，生产帕萨特与斯柯达速派），帕萨特产线迁至仪征工厂<a href=\"https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E5%B0%86%E5%85%B3%E9%97%AD%E5%9C%A8%E5%8D%97%E4%BA%AC%E7%9A%84%E5%90%88%E8%B5%84%E5%B7%A5%E5%8E%82/a-73238192\">[s27]</a>。据中国媒体报道，到 2025 年上汽大众设计产能约 192 万辆、产量约 105.8 万辆、产能利用率约 55%<a href=\"https://www.caizhongshe.cn/news-1527476691936635787.html\">[s26]</a>。</p><h3>销量轨迹与最新业绩</h3><p>上汽大众批发销量于 2018 年达到 206.51 万辆的历史峰值，此后大体逐年回落：2019 年 200.18 万辆、2020 年 150.55 万辆、2021 年 124.2 万辆、2022 年 132.08 万辆、2023 年 121.5 万辆、2024 年 114.81 万辆、2025 年 102.4 万辆<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a><a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/xssj/60746.shtml\">[s23]</a>。财务方面，2025 年上半年营业总收入 601.47 亿元、归母净利润 8.84 亿元；因公司退出上汽集团「主要参股公司」名单，2025 年全年财务数据未再单独披露<a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf\">[s5]</a><a href=\"https://www.caizhongshe.cn/news-1527476691936635787.html\">[s26]</a>。经营层面，最近一次 A 级披露为上汽集团 2026 年 9 月产销快报：上汽大众 2026 年前三季度销量 49.26 万辆、同比下降 34.52%，其中 9 月单月 6.04 万辆、同比下降 35.80%<a href=\"https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF\">[s15]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>As a Sino-German joint venture, SAIC Volkswagen has no individual entrepreneur-founder. It was created through the 1984 contract between SAIC Motor's predecessor and Volkswagen Group, and its management and strategy are set jointly by the two shareholders <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>.</p><h3>Current management</h3><ul><li><strong>Wu Yun (吴赟)</strong> — general manager since 3 August 2026, succeeding Tao Hailong. Born 1979, he holds a bachelor's degree in engineering and joined SAIC Volkswagen in 2003, working in product engineering, manufacturing, marketing, strategic planning and model-line management; he helped drive the AUDI brand's China localization. In 2025 he served as general manager of Bosch Huayu Steering Systems before returning to SAIC Volkswagen in 2026 as executive deputy general manager of personnel and organization <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158\">[s3]</a>.</li><li><strong>Tao Hailong (陶海龙)</strong> — former general manager (July 2024 to August 2026). Born 1968, he spent more than thirty years in the industry and long worked in SAIC Volkswagen's quality and manufacturing departments, later serving as executive director of quality assurance and deputy general manager of SAIC Motor's passenger-vehicle division, general manager of Shanghai Automotive Transmission Co., and general manager of Huayu Automotive Systems. He drove the 'oil-and-electric' strategy and the launch of the ID. ERA series, Audi E5 Sportback and E7X, and later moved to Huayu Automotive Systems as general manager <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158\">[s3]</a><a href=\"https://auto.ce.cn/auto/gundong/202407/29/t20240729_39085387.shtml\">[s28]</a>.</li><li><strong>Jia Jianxu (贾健旭)</strong> — earlier general manager (February 2023 to July 2024). Born 1978, he was appointed SAIC Volkswagen general manager in February 2023, became SAIC Motor vice president in December 2023 and SAIC Motor president on 10 July 2024 <a href=\"https://xinhuanet.com/auto/20241217/edcdc8b469744be0a28f4ddef8475ba2/c.html\">[s28b]</a>.</li><li><strong>Fu Qiang (傅强)</strong> — executive deputy general manager of sales and marketing since August 2024, and general manager of Shanghai SAIC Volkswagen Sales Co. Born 1977, he joined SAIC Volkswagen in 1999 and rose through sales-service-centre, network-development, powertrain and platform, and ID. marketing roles before leading Volkswagen-brand marketing operations <a href=\"https://www.mrjjxw.com/articles/2025-11-13/4142147.html\">[s29]</a>.</li></ul><h3>Ownership and governance</h3><p>The company is 50% owned by SAIC Motor and 50% by the Volkswagen side (German Volkswagen and its affiliates); the official wording is that the Chinese and German sides each hold 50% <a href=\"https://www.csvw.com/\">[s7]</a>. Registered capital is RMB 11.5 billion, and the company is carried as an equity-method investee in SAIC Motor's financial statements <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf\">[s5]</a>. A full list of the board and executive committee has not been found in A-level public disclosure.</p>",
+      "zh": "<h3>创始人</h3><p>作为中外合资企业，上汽大众没有单一的民营创始人，它由前身上汽与大众集团通过 1984 年的合资合同共同创立，管理与战略由双方股东共同决定<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>吴赟</strong>——总经理，2026 年 8 月 3 日接替陶海龙上任。1979 年出生，工学学士，2003 年加入上汽大众，先后任职于产品工程、生产制造、市场营销、战略规划及车型线管理等板块，牵头推进奥迪新品牌 AUDI 在华落地与本土化战略；2025 年调任博世华域转向系统有限公司总经理，2026 年重回上汽大众任人事与组织执行副总经理<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158\">[s3]</a>。</li><li><strong>陶海龙</strong>——前任总经理（2024 年 7 月至 2026 年 8 月）。1968 年出生，拥有三十余年行业经历，长期在上汽大众质保部、制造部任职，曾任上汽集团乘用车分公司质量保证部执行总监、副总经理、上海汽车变速器有限公司总经理、华域汽车总经理；推动「油电同进、油电同智」战略及 ID. ERA 系列、奥迪 E5 Sportback、E7X 等新能源产品落地，其后出任华域汽车总经理<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158\">[s3]</a><a href=\"https://auto.ce.cn/auto/gundong/202407/29/t20240729_39085387.shtml\">[s28]</a>。</li><li><strong>贾健旭</strong>——更早的总经理（2023 年 2 月至 2024 年 7 月）。1978 年出生，2023 年 2 月就任上汽大众总经理，2023 年 12 月升任上汽集团副总裁，2024 年 7 月 10 日升任上汽集团总裁<a href=\"https://xinhuanet.com/auto/20241217/edcdc8b469744be0a28f4ddef8475ba2/c.html\">[s28b]</a>。</li><li><strong>傅强</strong>——销售与市场执行副总经理、上海上汽大众汽车销售有限公司总经理，2024 年 8 月上任。1977 年出生，1999 年进入上汽大众，历任华南销售服务中心销售经理、售后服务客户服务经理、大众品牌网络发展与管理部门经理、动力总成与平台管理部门经理、大众品牌 ID. 营销部门经理、大众品牌营销事业执行总监<a href=\"https://www.mrjjxw.com/articles/2025-11-13/4142147.html\">[s29]</a>。</li></ul><h3>股权与治理</h3><p>公司由上汽集团持股 50%，大众方面持股 50%；官方口径为中德双方各持股 50%<a href=\"https://www.csvw.com/\">[s7]</a>。公司注册资本 115 亿元，并在上汽集团财务报表中作为权益法核算的参股公司列示<a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf\">[s5]</a>。董事会与执管会完整名单未见于 A 级公开披露。</p>"
+    },
+    "competition": {
+      "en": "<p>SAIC Volkswagen competes in China's mass-market and premium passenger-car segments. In the fuel-car market, the Volkswagen brand ranked first among single brands with about 8.3% market share in 2025 <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=4122\">[s16]</a>, with the Lavida, Passat and Tiguan families leading their segments <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>. In new-energy vehicles, it positions the ID. ERA range against domestic extended-range and pure-electric rivals; media report that the ID. ERA 8X (limited-time price from RMB 206,800) is priced below the Li Auto L6, while the ID. ERA 5S (limited-time price from RMB 89,900) undercuts the BYD Qin L DM-i <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>. The SAIC Audi/AUDI business competes with BMW, Mercedes-Benz, FAW Audi and Chinese premium EV brands; in October 2026 Audi China split the four-ring brand to FAW while SAIC Audi focuses on the AUDI electric line-up, and under the transition arrangement SAIC Audi may keep selling four-ring models until end-2027 <a href=\"https://news.qq.com/rain/a/20261027A00NHW00\">[s12]</a>.</p><p><strong>Our judgment.</strong> SAIC Volkswagen's strengths are its manufacturing system, a dealer network of over 1,000 Volkswagen-brand outlets and a still-strong fuel-car franchise, which supports the transition financially <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>. Its weakness is structural: overall volume fell 10.81% in 2025, after a 5.51% decline in 2024, and the decline widened to 34.52% in the first nine months of 2026, while its ID. ERA flagship models have not sustained launch momentum — media report the ID. ERA 9X's monthly retail falling from 5,004 units in May 2026 to 910 in September <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a><a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/xssj/60746.shtml\">[s23]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF\">[s15]</a><a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>. Profit has narrowed sharply, from RMB 28.01 billion in 2018 to RMB 4.74 billion in 2024, reflecting margin pressure from aggressive new-energy pricing <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>. In the premium segment, SAIC Audi's volume remains much smaller than FAW Audi's — media report that FAW Audi accounts for the large majority of Audi's China sales, so SAIC Audi's scale advantages are limited <a href=\"https://news.qq.com/rain/a/20261027A00NHW00\">[s12]</a>.</p>",
+      "zh": "<p>上汽大众在国内大众化与豪华乘用车市场参与竞争。燃油车领域，2025 年大众品牌以约 8.3% 的市占率位列单一品牌燃油车市场第一<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=4122\">[s16]</a>，朗逸、帕萨特、途观等家族在各细分市场保持领先<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>。新能源领域，其 ID. ERA 序列对标国内增程与纯电车型：媒体报道 ID. ERA 8X（限时权益价 20.68 万元起）定价低于理想 L6，ID. ERA 5S（限时权益价 8.99 万元起）则低于比亚迪秦 L DM-i<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>。上汽奥迪/AUDI 业务与宝马、奔驰、一汽奥迪及中国高端电动车品牌竞争；2026 年 10 月奥迪中国将四环品牌划归一汽，上汽奥迪专注 AUDI 电动车型，按过渡安排，上汽奥迪在 2027 年底前仍可销售四环车型<a href=\"https://news.qq.com/rain/a/20261027A00NHW00\">[s12]</a>。</p><p><strong>我们的判断。</strong>上汽大众的优势在于成熟的制造体系、超 1000 家大众品牌经销商网点，以及仍较稳固的燃油车基本盘，可为转型提供资金支撑<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&amp;pubDate=20260112\">[s4]</a>。其短板是结构性的：整体销量 2025 年同比下降 10.81%（2024 年已下降 5.51%），2026 年前三季度降幅扩大至 34.52%；其 ID. ERA 旗舰车型的上市势头未能持续，媒体报道 ID. ERA 9X 月零售量从 2026 年 5 月的 5004 辆回落至 9 月的 910 辆<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a><a href=\"https://www.saicmotor.com/m/tzzgx/jbqk/xssj/60746.shtml\">[s23]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF\">[s15]</a><a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>。利润基本盘也大幅收窄，从 2018 年的 280.1 亿元降至 2024 年的 47.4 亿元，反映新能源车型进攻型定价带来的利润挤压<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>。在豪华细分市场，上汽奥迪的体量相对一汽奥迪仍很小——媒体报道一汽奥迪占奥迪在华销量的绝对多数，上汽奥迪的规模效应受限<a href=\"https://news.qq.com/rain/a/20261027A00NHW00\">[s12]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> At the November 2024 extension, the shareholders committed to 18 new models by 2030, of which 15 are developed specifically for China; from 2026 two compact EVs on the China-specific CMP platform will launch, followed by three plug-in hybrid and two extended-range models <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>. The company said the Volkswagen brand will launch six new-energy models in 2026 <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=4122\">[s16]</a>, and in April 2026 Audi and SAIC agreed to deepen cooperation and jointly develop the next generation of AUDI models, with an Audi innovation technology centre planned for Shanghai <a href=\"https://www.csvw.com/\">[s7]</a>. The company frames this as its 'joint-venture 2.0' phase, combining German manufacturing with Chinese intelligent-electric technology <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158\">[s3]</a>.</p><p><strong>Our judgment.</strong> Whether SAIC Volkswagen stabilizes its volume depends on two premises: first, whether the ID. ERA extended-range, plug-in-hybrid and pure-electric line-up and the AUDI brand can offset the structural decline in its fuel-car base and the loss of Skoda (about 15,000 units in 2025); second, whether aggressive pricing on new-energy models can coexist with recovering profitability, given net profit has already narrowed from RMB 28.01 billion in 2018 to RMB 4.74 billion in 2024 <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a><a href=\"https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html\">[s10]</a>. The planned capacity reduction for fuel vehicles and the Anting base upgrade are the stated levers for this shift, but their execution and timing remain to be seen <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>2024 年 11 月续约时，双方股东承诺到 2030 年推出 18 款新车型，其中 15 款专为中国市场开发；自 2026 年起，基于专为中国市场打造的 CMP 平台的两款紧凑级电动车将投入市场，3 款插混、2 款增程车型也将陆续推出<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>。公司表示大众品牌 2026 年将推出 6 款新能源车型<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=4122\">[s16]</a>，2026 年 4 月奥迪与上汽达成深化合作，将联合开发 AUDI 品牌下一代车型，并计划在上海设立奥迪创新技术中心<a href=\"https://www.csvw.com/\">[s7]</a>。公司将其定位为「合资 2.0」阶段，即德系制造与中国智电技术相结合<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158\">[s3]</a>。</p><p><strong>我们的判断。</strong>上汽大众能否稳住销量取决于两个前提：其一，ID. ERA 增程、插混与纯电序列以及 AUDI 品牌能否对冲燃油车基本盘的结构性下滑和斯柯达（2025 年约 1.5 万辆）退出造成的缺口；其二，新能源车型的进攻型定价能否与利润修复并存——其净利润已从 2018 年的 280.1 亿元收窄至 2024 年的 47.4 亿元<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a><a href=\"https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html\">[s10]</a>。逐步缩减燃油车产能、升级安亭基地是公司公开提出的转型抓手，但其执行节奏与效果仍有待观察<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Volume decline.</strong> Sales fell 10.81% in 2025 (1.024 million units) and 34.52% in the first nine months of 2026 (492,643 units), a sustained contraction in the company's core business <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF\">[s15]</a>.</li><li><strong>Profit compression.</strong> Net profit narrowed from RMB 28.01 billion in 2018 to RMB 4.74 billion in 2024; management has said the new-energy models are profitable but with far thinner margins than past fuel-car launches <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>.</li><li><strong>Brand-portfolio change.</strong> Skoda's exit by mid-2026 removes a brand (about 15,000 units in 2025) and the Audi four-ring models are being transferred to FAW, concentrating SAIC Volkswagen's premium business on the younger AUDI electric brand <a href=\"https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html\">[s10]</a><a href=\"https://news.qq.com/rain/a/20261027A00NHW00\">[s12]</a>.</li><li><strong>New-energy competition and pricing.</strong> The company competes on price in the extended-range and pure-electric segments (e.g. the ID. ERA 8X priced below the Li Auto L6), which pressures margins in an intensely price-competitive market <a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>.</li><li><strong>Capacity restructuring.</strong> The shareholders plan to gradually cut fuel-vehicle capacity and upgrade the Anting base, a process whose cost and execution timing carry uncertainty; idle capacity and the 2025 Nanjing plant closure reflect this adjustment <a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a><a href=\"https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E5%B0%86%E5%85%B3%E9%97%AD%E5%9C%A8%E5%8D%97%E4%BA%AC%E7%9A%84%E5%90%88%E8%B5%84%E5%B7%A5%E5%8E%82/a-73238192\">[s27]</a>.</li><li><strong>Overseas-trade exposure.</strong> SAIC Volkswagen's parent SAIC Motor has disclosed that its overseas business is affected by the EU countervailing-duty investigation and rising trade-protection measures, and external trade friction could affect the wider group <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a>.</li></ul>",
+      "zh": "<ul><li><strong>销量下滑。</strong>2025 年销量同比下降 10.81% 至 102.4 万辆，2026 年前三季度同比下降 34.52% 至 49.26 万辆，核心业务持续收缩<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF\">[s15]</a>。</li><li><strong>利润承压。</strong>净利润从 2018 年的 280.1 亿元收窄至 2024 年的 47.4 亿元；管理层称新能源车型虽盈利，但利润空间已远不如早年燃油车新车上市时丰厚<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>。</li><li><strong>品牌组合调整。</strong>斯柯达于 2026 年年中退出（2025 年约 1.5 万辆），奥迪四环车型划归一汽，上汽大众的高端业务进一步集中到更年轻的 AUDI 电动品牌<a href=\"https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html\">[s10]</a><a href=\"https://news.qq.com/rain/a/20261027A00NHW00\">[s12]</a>。</li><li><strong>新能源竞争与定价。</strong>公司在增程与纯电市场以价格竞争（如 ID. ERA 8X 定价低于理想 L6），在价格竞争激烈的市场环境下对利润率构成压力<a href=\"https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html\">[s9]</a>。</li><li><strong>产能调整。</strong>双方股东计划逐步缩减燃油车产能、升级安亭基地，这一过程在成本与执行节奏上存在不确定性；产能闲置与 2025 年南京工厂关停正反映了这一调整<a href=\"https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&amp;newsid=3934\">[s2]</a><a href=\"https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E5%B0%86%E5%85%B3%E9%97%AD%E5%9C%A8%E5%8D%97%E4%BA%AC%E7%9A%84%E5%90%88%E8%B5%84%E5%B7%A5%E5%8E%82/a-73238192\">[s27]</a>。</li><li><strong>海外贸易环境。</strong>母公司上汽集团披露其海外业务受欧盟反补贴调查及欧美贸易保护措施升级影响，外部贸易摩擦可能波及整个集团<a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s6]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "上汽大众官网·发展历程（无发布日期，日期为访问日）", "url": "https://www.csvw.com/csvw-website/about/history.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "上汽大众官网·上汽集团与大众汽车集团续新约 合资协议延长至2040年", "url": "https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&newsid=3934", "date": "2024-11-27", "tier": "A" },
+    { "id": "s3", "name": "上汽大众官网·吴赟接任上汽大众总经理", "url": "https://www.csvw.com/csvw-website/news/company-news.html?newsid=14158", "date": "2026-08-03", "tier": "A" },
+    { "id": "s4", "name": "上汽大众官网·聚势出众 2026年上汽大众7款新能源车发力新赛道（2025年销量数据）", "url": "https://www.csvw.com/csvw-website/news/company-news.html?newsid=4121&pubDate=20260112", "date": "2026-01-12", "tier": "A" },
+    { "id": "s5", "name": "上海汽车集团股份有限公司2025年半年度报告（主要参股公司披露）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2025ndqgg/2025/8/28/66C9B3BCABCF420ABAB34D9A29AB1ED8.pdf", "date": "2025-08-28", "tier": "A" },
+    { "id": "s6", "name": "上海汽车集团股份有限公司2025年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s7", "name": "上汽大众官网·企业简介（首页，无发布日期，日期为访问日）", "url": "https://www.csvw.com/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s8", "name": "上汽奥迪官网·全新AUDI品牌首款车型奥迪E5 Sportback（无发布日期，日期为访问日）", "url": "https://saic-audi.cn/audi-e/audi_brand/news/_audi_--_e5-sportback.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s9", "name": "第一财经（网易转载）·合资车企，躺着赚钱的时代结束", "url": "https://www.163.com/dy/article/L9ALE0JU0519DDQ2.html", "date": "2026-10-15", "tier": "B" },
+    { "id": "s10", "name": "新华财经·中国金融信息网·斯柯达退出中国市场", "url": "https://m.cnfin.com/gs-lb//zixun/20260327/4392362_1.html", "date": "2026-03-27", "tier": "B" },
+    { "id": "s11", "name": "证券时报·斯柯达告别中国 从年销34万辆到黯然退场", "url": "https://stcn.com/article/detail/3716092.html", "date": "2026-03-27", "tier": "B" },
+    { "id": "s12", "name": "腾讯新闻·油车没玩转的上汽奥迪，靠新能源车能有前途吗（奥迪南北分治）", "url": "https://news.qq.com/rain/a/20261027A00NHW00", "date": "2026-10-27", "tier": "B" },
+    { "id": "s15", "name": "上海汽车集团股份有限公司2026年9月份产销快报（巨潮资讯）", "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595295.PDF", "date": "2026-10-08", "tier": "A" },
+    { "id": "s16", "name": "上汽大众官网·2025稳居百万阵营 2026全面焕新大反攻（大众品牌燃油车市占率）", "url": "https://www.csvw.com/csvw-website/news/company-news.html?brand=undefined&newsid=4122", "date": "2026-01-12", "tier": "A" },
+    { "id": "s17", "name": "上海汽车集团股份有限公司2024年年度报告（上交所公告，主要参股公司披露）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-04-30/600104_20250430_3YOY.pdf", "date": "2025-04-30", "tier": "A" },
+    { "id": "s18", "name": "上海汽车集团股份有限公司2023年年度报告（上交所公告，主要参股公司披露）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-03-30/600104_20240330_U1UR.pdf", "date": "2024-03-30", "tier": "A" },
+    { "id": "s19", "name": "上海汽车集团股份有限公司2022年年度报告（主要参股公司披露）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2022ndqgg/2023/4/28/FC37D7EE930F42F5836BC09E4762B3FC.pdf", "date": "2023-04-28", "tier": "A" },
+    { "id": "s20", "name": "上海汽车集团股份有限公司2021年年度报告（主要参股公司披露）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2021ndqgg/2022/4/29/FD8ECCBB99B44FEFAD70F86CAA66D8C2.pdf", "date": "2022-04-29", "tier": "A" },
+    { "id": "s21", "name": "上海汽车集团股份有限公司2020年年度报告（主要参股公司披露）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/dqgg/2020ndqgg/2021/3/25/C1F8BF0A5D2346BB98AE30E6BB90445C.pdf", "date": "2021-03-25", "tier": "A" },
+    { "id": "s22", "name": "上汽奥迪官网·智慧性能旗舰SUV 奥迪E7X正式上市 限时臻享26.98万元起", "url": "https://www.saic-audi.cn/audi-e/audi_brand/news/_suv-_-e7x-_-_26-98.html", "date": "2026-05-29", "tier": "A" },
+    { "id": "s23", "name": "上汽集团官网·2024年整车销售数据（产销快报汇总页）", "url": "https://www.saicmotor.com/m/tzzgx/jbqk/xssj/60746.shtml", "date": "2026-10-29", "tier": "A" },
+    { "id": "s24", "name": "央广网·限时权益价29.98万元起 ID. ERA 9X正式上市", "url": "https://www.cnr.cn/2013qcpd/cz/20260426/t20260426_527600821.shtml", "date": "2026-04-26", "tier": "B" },
+    { "id": "s25", "name": "中国经济新闻网·限时权益价20.68万元起 ID. ERA 8X正式上市", "url": "https://www.cet.com.cn/wzsy/cjcj/10607606.shtml", "date": "2026-10-12", "tier": "B" },
+    { "id": "s26", "name": "财中社·上汽大众3年3换总经理：销量跌三成，产能利用率55%（含产能与南京工厂数据，日期为近似）", "url": "https://www.caizhongshe.cn/news-1527476691936635787.html", "date": "2026-10-28", "tier": "B" },
+    { "id": "s27", "name": "德国之声·大众将关闭在南京的合资工厂（日期为近似）", "url": "https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E5%B0%86%E5%85%B3%E9%97%AD%E5%9C%A8%E5%8D%97%E4%BA%AC%E7%9A%84%E5%90%88%E8%B5%84%E5%B7%A5%E5%8E%82/a-73238192", "date": "2025-04-25", "tier": "B" },
+    { "id": "s28", "name": "中国经济网汽车·高管频变阵 车圈人事大换防（含陶海龙、贾健旭履历）", "url": "https://auto.ce.cn/auto/gundong/202407/29/t20240729_39085387.shtml", "date": "2024-07-29", "tier": "B" },
+    { "id": "s28b", "name": "新华网·贾健旭接任智己汽车董事长（含贾健旭履历与任命时间）", "url": "https://xinhuanet.com/auto/20241217/edcdc8b469744be0a28f4ddef8475ba2/c.html", "date": "2024-12-17", "tier": "B" },
+    { "id": "s29", "name": "每日经济新闻·上汽大众傅强专访（含傅强履历）", "url": "https://www.mrjjxw.com/articles/2025-11-13/4142147.html", "date": "2025-11-13", "tier": "B" },
+    { "id": "s30", "name": "澎湃新闻·奥迪中国公布分家方案（四环标归一汽，字母标归上汽）", "url": "https://m.thepaper.cn/newsDetail_forward_34357008", "date": "2026-10-26", "tier": "B" }
+  ]
+}
