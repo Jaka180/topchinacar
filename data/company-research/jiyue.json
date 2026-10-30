@@ -1,0 +1,315 @@
+{
+  "id": "jiyue",
+  "name_en": "Jiyue (Shanghai Jidu Automobile, formerly Jidu Auto)",
+  "name_zh": "极越汽车（上海集度汽车有限公司，前身集度汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2021 (predecessor Jidu Auto Co., Ltd. registered on 2 March 2021; renamed Jiyue in August 2023)",
+      "value_zh": "2021 年（前身集度汽车有限公司于 2021 年 3 月 2 日注册成立；2023 年 8 月更名为极越）",
+      "period": null,
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai (operating entity Shanghai Jidu Automobile Co., Ltd. is registered in Shanghai; the car-making entity Hangzhou Jiyueyu is registered in Hangzhou)",
+      "value_zh": "上海（运营主体上海集度汽车有限公司注册于上海；造车主体杭州极与越注册于杭州）",
+      "period": null,
+      "source_ids": ["s18", "s24"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private joint venture between Baidu and Geely Holding (unlisted)",
+      "value_zh": "民营合资（百度与吉利控股共同投资，未上市）",
+      "period": null,
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "label_en": "Initiators / founder",
+      "label_zh": "发起方与创始人",
+      "value_en": "Jointly initiated by Baidu and Geely Holding; founding CEO Yiping Xia (Xia Yiping), former Mobike co-founder and CTO",
+      "value_zh": "由百度与吉利控股共同发起；首任 CEO 夏一平，曾任摩拜单车联合创始人兼 CTO",
+      "period": null,
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "label_en": "Actual controller / voting rights",
+      "label_zh": "实际控制人与表决权",
+      "value_en": "No controller is designated in any public filing. From August 2023 the car-making entity Hangzhou Jiyueyu was held 65% by Geely and 35% by a Baidu affiliate (Shanghai Mihang); media reported Baidu held about 84% of board voting rights at the operator (one report said about 80%)",
+      "value_zh": "公开文件未认定实际控制人。2023 年 8 月起造车主体杭州极与越由吉利持股 65%、百度旗下公司（上海幂航）持股 35%；媒体报道百度在运营主体拥有约 84% 的董事会投票权（亦有报道称约 80%）",
+      "period": null,
+      "source_ids": ["s9", "s24"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市地点与代码",
+      "value_en": "Not listed",
+      "value_zh": "未上市",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "About 5,000 regular employees (including frontline sales) at the time of the December 2024 collapse",
+      "value_zh": "约 5000 名正式员工（含一线销售，2024 年 12 月停摆时）",
+      "period": "2024-12",
+      "source_ids": ["s9"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "营收（最近财年）",
+      "value_en": "Not publicly disclosed (unlisted)",
+      "value_zh": "未公开披露（未上市）",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Net profit (latest fiscal year)",
+      "label_zh": "净利润（最近财年）",
+      "value_en": "Not publicly disclosed (unlisted)",
+      "value_zh": "未公开披露（未上市）",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Sales (most recent full year)",
+      "label_zh": "销量（最近完整年度）",
+      "value_en": "13,561 vehicles in wholesale terms for full-year 2024 (Jiyue 01: 9,548; Jiyue 07: 4,013)",
+      "value_zh": "2024 年全年批发销量 13,561 辆（极越 01 为 9,548 辆、极越 07 为 4,013 辆）",
+      "period": "2024",
+      "source_ids": ["s19"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": "Not publicly disclosed; no overseas sales network was established and no overseas sales figures were published",
+      "value_zh": "未公开披露；未建立海外销售网络，无公开海外销量数据",
+      "period": null,
+      "source_ids": ["s2"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2021-01-11",
+      "event_en": "Baidu announces it will form a smart-EV company with Geely Holding as strategic partner, entering carmaking as a vehicle manufacturer.",
+      "event_zh": "百度宣布组建智能汽车公司，吉利控股成为战略合作伙伴，百度以整车制造商身份进入汽车行业。",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2021-03-02",
+      "event_en": "Jidu Auto Co., Ltd. is registered with RMB2 billion registered capital, held 55% by Baidu and 45% by Geely; Yiping Xia becomes CEO.",
+      "event_zh": "集度汽车有限公司注册成立，注册资本 20 亿元，百度持股 55%、吉利持股 45%，夏一平出任 CEO。",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2021-11-01",
+      "event_en": "Shanghai Jidu Automobile Co., Ltd. is established with registered capital of about USD310 million, wholly owned by Jidu Automobile (Hong Kong); Yiping Xia is legal representative and general manager, Zhixiang Liang is chairman.",
+      "event_zh": "上海集度汽车有限公司成立，注册资本约 3.1 亿美元，由集度汽车（香港）有限公司全资持股，夏一平任法定代表人兼总经理、梁志祥任董事长。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2022-01",
+      "event_en": "Jidu completes a nearly USD400 million Series A financing round with Baidu and Geely jointly adding investment; the brand logo is released in January and the ROBO-01 car-robot concept car is unveiled in June.",
+      "event_zh": "集度完成近 4 亿美元 A 轮融资，由百度和吉利共同追加投资；1 月发布品牌标识，6 月发布首款汽车机器人概念车 ROBO-01。",
+      "source_ids": ["s23", "s24"]
+    },
+    {
+      "date": "2022-06-28",
+      "event_en": "Jidu Auto Co., Ltd. undergoes a business-registration change: Geely affiliate Shanghai Huapu exits and Baidu affiliate Dazi County Bairuixiang rises to 100%; the legal representative changes from Yiping Xia to Zhixiang Liang. Xia says in July that this early domestic company is no longer used and staff relations have moved to another entity.",
+      "event_zh": "集度汽车有限公司发生工商变更：吉利关联方上海华普汽车退出，百度关联方达孜县百瑞翔持股升至 100%，法定代表人由夏一平变更为梁志祥；夏一平 7 月表示这家早期内资公司已不再使用、员工关系已转入另一家公司。",
+      "source_ids": ["s23", "s24"]
+    },
+    {
+      "date": "2022-12",
+      "event_en": "Jidu Auto Co., Ltd. is renamed Shanghai Mihang Automobile Co., Ltd. in a further registration change.",
+      "event_zh": "集度汽车有限公司再次发生工商变更，企业名称变更为上海幂航汽车有限公司。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2023-08",
+      "event_en": "To resolve the production-qualification issue, Geely and Baidu set up Hangzhou Jiyueyu Automobile Technology (Zhejiang Geely Industrial Investment 65%, Shanghai Mihang 35%); the brand is renamed Jiyue and the Jiyue 01 enters the MIIT's 374th product catalogue.",
+      "event_zh": "因生产资质问题，吉利与百度另设杭州极与越汽车科技有限公司（浙江吉利产投持股 65%、上海幂航持股 35%）；品牌更名为极越，极越 01 进入工信部第 374 批产品公告。",
+      "source_ids": ["s24", "s8"]
+    },
+    {
+      "date": "2023-10-27",
+      "event_en": "The first production model, the Jiyue 01, launches priced RMB249,900–339,900.",
+      "event_zh": "首款量产车极越 01 上市，售价 24.99 万–33.99 万元。",
+      "source_ids": ["s6", "s16"]
+    },
+    {
+      "date": "2023-11-30",
+      "event_en": "Jiyue 01 prices are cut by RMB30,000 across the lineup to RMB219,900–309,900, with cash compensation of RMB30,000 to early owners.",
+      "event_zh": "极越 01 全系直降 3 万元，售价降至 21.99 万–30.99 万元，已提车老用户获 3 万元差价现金补偿。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2024-09-10",
+      "event_en": "The second model, the Jiyue 07 electric sedan, launches with a limited-time price of RMB199,900–289,900.",
+      "event_zh": "第二款车型极越 07 纯电轿车上市，限时购车优惠价 19.99 万–28.99 万元。",
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "date": "2024-12-11",
+      "event_en": "CEO Yiping Xia issues an internal letter announcing the company is entering its 2.0 phase amid difficulties, making the crisis public.",
+      "event_zh": "CEO 夏一平发内部信，称公司进入创业 2.0 阶段，经营危机公开化。",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2024-12-12",
+      "event_en": "Employees surround the CEO at the Shanghai headquarters over social-insurance and salary arrears; multiple departments are dissolved on the spot and stores close.",
+      "event_zh": "员工在上海总部围堵 CEO，要求补缴社保、发放工资；多部门原地解散，门店停业。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2024-12-13",
+      "event_en": "Baidu Holding and Geely Holding issue a joint statement saying the agreed business plan cannot be executed and that they will help settle employee social insurance, severance and after-sales.",
+      "event_zh": "百度控股与吉利控股发表联合声明，称既定商业计划无法执行，将协助处理员工社保、离职善后及用户售后等事宜。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2024-12-16",
+      "event_en": "CEO Yiping Xia issues a public apology, acknowledging that as CEO he made many mistakes and did not foresee the severity of the funding problem.",
+      "event_zh": "CEO 夏一平发长文公开道歉，承认作为 CEO 犯了许多错误，未预见到资金问题的严重性。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2024-12-19",
+      "event_en": "An employee settlement plan is issued: N+1 severance and wages settled to 20 December, with Baidu and Geely advancing funds through a supervised account.",
+      "event_zh": "员工善后方案出炉：按 N+1 标准经济补偿，工资结算至 12 月 20 日，由百度、吉利垫付资金、监管共管账户代付。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2025-03",
+      "event_en": "Jiyue reports it has carried out three rounds of deposit refunds to customers who had paid but not taken delivery.",
+      "event_zh": "极越称已启动三批次退定工作，向已支付意向金但未提车的用户退款。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2025-04",
+      "event_en": "CEO Yiping Xia discloses that the funding crisis had appeared as early as April 2023, when cash covered only about two months of operations.",
+      "event_zh": "CEO 夏一平在节目中披露，资金危机早在 2023 年 4 月就已显现，当时账面资金仅够维持约 2 个月运营。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2025-11",
+      "event_en": "Shanghai Jidu Automobile's pre-reorganization application is accepted by the Shanghai No.3 Intermediate People's Court on 21 November, which appoints Zhong Lun (Shanghai) Law Firm as temporary administrator; on 25 November it publishes a pre-reorganization announcement aiming to bring in a strategic investor.",
+      "event_zh": "上海集度汽车的预重整申请于 2025 年 11 月 21 日获上海市第三中级人民法院受理，法院指定北京市中伦（上海）律师事务所担任临时管理人；11 月 25 日发布预重整公告，目的是引入新的战略投资人。",
+      "source_ids": ["s3", "s12", "s13"]
+    },
+    {
+      "date": "2026-04-29",
+      "event_en": "The court rules that Shanghai Jidu Automobile and five other affiliated companies enter substantive consolidation reorganization.",
+      "event_zh": "法院裁定上海集度汽车有限公司等六家关联公司进入实质合并重整程序。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2026-08-31",
+      "event_en": "Jiyue issues a risk warning that unauthorized cracking or flashing of its in-car system affects warranty and carries legal risk.",
+      "event_zh": "极越发布风险警示，称第三方私自破解、刷写车机系统将影响质保权益并存在法律风险。",
+      "source_ids": ["s14"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Jiyue",
+      "name_zh": "极越",
+      "role_en": "The sole brand of the Baidu–Geely venture, positioned as a high-end car robot combining Baidu Apollo high-level assisted driving and an AI large-model cockpit with Geely's SEA architecture and manufacturing. Two production models: the Jiyue 01 mid-large SUV (launched October 2023) and the Jiyue 07 electric sedan (September 2024), plus the ROBO X concept shown in late 2024.",
+      "role_zh": "百度与吉利合资打造的唯一品牌，定位高端汽车机器人，融合百度 Apollo 高阶智驾、AI 大模型座舱与吉利 SEA 浩瀚架构和整车制造。两款量产车：中大型 SUV 极越 01（2023 年 10 月上市）与纯电轿车极越 07（2024 年 9 月上市），另有 2024 年末展示的 ROBO X 概念车。",
+      "price_band": "Jiyue 01 launch RMB249,900–339,900; after the 30 Nov 2023 cut RMB219,900–309,900. Jiyue 07 limited-time RMB199,900–289,900",
+      "founded": 2023,
+      "owner_note_en": "Operated by Shanghai Jidu Automobile Co., Ltd. Products are made in Geely's factory and licensed exclusively to Jidu for operation. To secure a production qualification, Geely and Baidu set up the car-making entity Hangzhou Jiyueyu Automobile Technology (Zhejiang Geely Industrial Investment 65%, Shanghai Mihang 35%) in August 2023. Production halted in December 2024; the operator entered pre-reorganization in November 2025 and substantive consolidation reorganization in April 2026.",
+      "owner_note_zh": "品牌由上海集度汽车有限公司运营，产品由吉利工厂制造、授权集度独家运营。为取得生产资质，2023 年 8 月吉利与百度另设造车主体杭州极与越汽车科技有限公司（浙江吉利产投持股 65%、上海幂航持股 35%）。2024 年 12 月停产停摆，运营主体于 2025 年 11 月进入预重整，2026 年 4 月进入实质合并重整。",
+      "status": "reorganizing",
+      "source_ids": ["s2", "s8", "s14", "s24"]
+    },
+    {
+      "name_en": "Jidu",
+      "name_zh": "集度",
+      "role_en": "Predecessor brand of Jiyue, established in 2021 as a Baidu–Geely joint venture (Baidu 55%, Geely 45%), which developed the ROBO-01 concept car. The brand was renamed Jiyue in August 2023.",
+      "role_zh": "极越的前身品牌，2021 年由百度与吉利合资成立（百度 55%、吉利 45%），开发了 ROBO-01 概念车；2023 年 8 月品牌更名为极越。",
+      "price_band": null,
+      "founded": 2021,
+      "owner_note_en": "In June 2022 Geely affiliate Shanghai Huapu exited the original Jidu Auto Co., Ltd. and a Baidu affiliate rose to 100% (legal representative changed to Zhixiang Liang); the company was renamed Shanghai Mihang Automobile in December 2022. After the August 2023 rebrand, Baidu acted as Jiyue's technology supplier, and Shanghai Mihang held 35% of the car-making entity Hangzhou Jiyueyu.",
+      "owner_note_zh": "2022 年 6 月吉利关联方上海华普退出原集度汽车有限公司、百度关联方持股升至 100%（法定代表人变更为梁志祥）；2022 年 12 月该公司更名为上海幂航汽车。2023 年 8 月品牌更名后，百度以技术供应商身份服务极越，上海幂航则持有造车主体杭州极与越 35% 股权。",
+      "status": "rebranded",
+      "source_ids": ["s23", "s24"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not listed — no public audited financial statements disclosed",
+    "rows": [],
+    "note_en": "Jiyue (Shanghai Jidu Automobile) was never publicly listed and, as a private joint venture between Baidu and Geely Holding, published no audited standalone financial statements. This table is therefore empty, and neither a parent-attributable nor an ordinary-shareholder-attributable net profit can be disclosed; revenue, gross margin, R&D spending and operating cash flow are likewise undisclosed. All monetary figures quoted in the body are media-reported, not audited disclosures. Per 21st Century Business Herald (s9), at the December 2024 collapse Jiyue owed about RMB7.0 billion in total (about RMB0.9 billion to Baidu, RMB2.6 billion to Geely, RMB1.1 billion to banks and RMB2.4 billion to suppliers and others); Baidu had cumulatively invested about RMB4.4 billion and Geely about RMB3.17 billion in equity; and at end-2023 Jiyue had reported to Baidu an expected 2024 loss of RMB7.0 billion (R&D RMB3.0 billion, marketing RMB3.0 billion, administration RMB1.0 billion). Some media, citing Baidu financial reports, put Baidu's cumulative investment at about RMB8.8 billion (RMB4.1 billion in 2022 and RMB4.7 billion in 2023), but those two line items could not be located in Baidu's annual report, so both figures are presented.",
+    "note_zh": "极越（上海集度汽车）从未上市，作为百度与吉利控股的合资私营企业，未披露经审计的独立财务报表，因此本表为空，亦无归属于母公司股东或归属于普通股股东的净利润可披露；营收、毛利率、研发投入、经营现金流等同样未公开披露。正文中的金额均为媒体报道口径、非经审计披露：据 21 世纪经济报道（s9），2024 年 12 月停摆时对外欠款总额约 70 亿元（欠百度约 9 亿元、欠吉利约 26 亿元、欠银行约 11 亿元、其余含供应商在内约 24 亿元）；百度成立以来累计投资约 44 亿元、吉利股权投资约 31.7 亿元；2023 年底极越曾向百度提报 2024 年预计亏损 70 亿元（研发、市场、行政分别约 30 亿/30 亿/10 亿元）。另有媒体援引百度财报称百度累计投资约 88 亿元（2022 年 41 亿元、2023 年 47 亿元），本次核查未在百度年报原文中定位到该两笔数据，故两套口径并列。"
+  },
+  "sections": {
+    "overview": {
+      "source_ids": ["s2", "s3", "s4", "s6", "s8", "s9", "s14", "s19", "s24", "s28"],
+      "en": "<p>Jiyue was an intelligent electric-vehicle brand jointly initiated by Baidu and Geely Holding in 2021, created as the successor to Jidu Auto, which was registered in March 2021 and renamed Jiyue in August 2023. Positioned as a high-end car robot, the brand combined Baidu's Apollo high-level assisted driving and AI large-model cockpit with Geely's SEA architecture and manufacturing; its products were made in Geely's factory and licensed exclusively to Jidu for operation.<a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a><a href=\"https://auto.cnr.cn/gdzx/20210303/t20210303_525426245.shtml\">[s4]</a><a href=\"https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml\">[s24]</a></p><p>The brand launched the Jiyue 01 SUV in October 2023 and the Jiyue 07 sedan in September 2024, but sales stayed far below plan, with 13,561 vehicles in wholesale terms for all of 2024.<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a><a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a> A funding freeze in December 2024 triggered an abrupt collapse: salary and social-insurance arrears, on-the-spot dissolution of departments and store closures, after which Baidu and Geely issued a joint statement pledging to settle employees and protect owners' after-sales. At the time of the collapse the company had about 5,000 regular employees, 15,000 owners and more than 300 suppliers affected.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a></p><p>Shanghai Jidu Automobile entered pre-reorganization in November 2025, and in April 2026 the court placed it and five affiliated companies into substantive consolidation reorganization. As of 29 October 2026 the brand remains in court-supervised restructuring; Geely's Lynk &amp; Co brand has taken over after-sales repair as a backstop, and Baidu has kept autonomous-driving cloud services running at a basic level.<a href=\"https://auto.youth.cn/xw/202511/t20251126_16370947.htm\">[s3]</a><a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a><a href=\"https://auto.youth.cn/xw/202503/t20250314_15882570.htm\">[s28]</a></p>",
+      "zh": "<p>极越（Jiyue）是百度与吉利控股于 2021 年共同发起的智能电动汽车品牌，前身为 2021 年 3 月注册、2023 年 8 月更名的集度汽车，定位高端汽车机器人，融合百度 Apollo 高阶智驾与 AI 大模型座舱，以及吉利的 SEA 浩瀚架构与整车制造；其产品由吉利工厂制造、授权集度独家运营。<a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a><a href=\"https://auto.cnr.cn/gdzx/20210303/t20210303_525426245.shtml\">[s4]</a><a href=\"https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml\">[s24]</a></p><p>品牌于 2023 年 10 月上市极越 01 SUV、2024 年 9 月上市极越 07 轿车，但销量远低于预期——2024 年全年批发销量仅 13,561 辆。<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a><a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a> 2024 年 12 月资金链断裂引发闪崩：欠薪、社保断缴、多部门原地解散、门店关闭，随后百度与吉利发表联合声明，承诺解决员工善后并保障车主售后。停摆时公司约有 5000 名正式员工、1.5 万名车主与 300 多家供应商受到影响。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a></p><p>上海集度汽车于 2025 年 11 月进入预重整，2026 年 4 月被法院裁定与五家关联公司进入实质合并重整。截至 2026 年 10 月 29 日，品牌仍处于法院主导的重整程序中，售后维修由吉利旗下领克品牌兜底、智驾云端服务由百度维持基础运转。<a href=\"https://auto.youth.cn/xw/202511/t20251126_16370947.htm\">[s3]</a><a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a><a href=\"https://auto.youth.cn/xw/202503/t20250314_15882570.htm\">[s28]</a></p>"
+    },
+    "current": {
+      "source_ids": ["s1", "s2", "s6", "s7", "s9", "s10", "s12", "s16", "s19", "s22", "s25", "s26", "s27"],
+      "en": "<h3>Products and positioning</h3><p>Jiyue marketed itself as a car robot built on Baidu's AI capabilities and Geely's SEA architecture. The Jiyue 01 is a mid-large SUV measuring 4,853×1,990×1,611 mm with a 3,000 mm wheelbase and a 0.249 drag coefficient. It launched on 27 October 2023 priced RMB249,900–339,900, and on 30 November 2023 the whole lineup was cut by RMB30,000 to RMB219,900–309,900. Media differ on the launch configuration count: China Daily and CNR report two versions at RMB249,900 and RMB339,900, while a Tencent News creator account reports three at launch including a Max long-range version at RMB299,900. The current official catalogue lists three refreshed (Huanxin) versions at RMB219,900, RMB249,900 and RMB309,900, with CLTC ranges of 580/780/700 km and a 71.4 kWh LFP or 100 kWh ternary battery; the performance version reaches 0–100 km/h in 3.8 seconds. It carries a Qualcomm Snapdragon 8295P cockpit chip (2×30 TOPS NPU), a 35.6-inch display, two NVIDIA Orin-X driving chips (508 TOPS) and a pure-vision assisted-driving route without lidar.<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a><a href=\"https://www.cnr.cn/2013qcpd/2015xc/20240127/t20240127_526573371.shtml\">[s16]</a><a href=\"https://news.qq.com/rain/a/20231028A0595R00\">[s22]</a><a href=\"https://www.jiyue-auto.com/configuration?modelCode=AA\">[s27]</a></p><p>The Jiyue 07 is a mid-large electric sedan measuring 4,953×1,989 mm with a 3,013 mm wheelbase and a 0.198 drag coefficient; its height is 1,480 mm on the standard and long-range versions and 1,475 mm on the Passion and performance versions. It launched on 10 September 2024 with a limited-time price of RMB199,900–289,900, and the current official catalogue lists four versions at RMB209,900, RMB229,900, RMB284,900 and RMB299,900 with CLTC ranges of 660/880/770/770 km. The performance version reaches 0–100 km/h in 3.5 seconds; Jiyue said the car combined Baidu's AI and Apollo, Geely's SEA architecture and CATL's Qilin battery. The U-shaped steering wheel is listed as an option. The Jiyue 07 began pre-sales on 28 August 2024 from RMB215,900, and its launch limited-time price was RMB16,000 below the pre-sale price.<a href=\"https://www.jiyue-auto.com/news/34c80e95d5f64032888318f54406f2f8\">[s1]</a><a href=\"https://www.news.cn/auto/20240912/241a43cb819347ecbc353f88d6d90865/c.html\">[s7]</a><a href=\"https://www.jiyue-auto.com/configuration?modelCode=AB\">[s26]</a></p><h3>Technology platform</h3><p>Jiyue relied on Baidu Apollo's ASD high-level assisted-driving system (pure vision, end-to-end large model) and the AI large-model cockpit with the SIMO voice assistant; the Jiyue 07 added an 800V platform and 5C fast charging. The mechanical platform came from Geely's SEA architecture, shared with Zeekr models — the Jiyue 01 shared its chassis with the Zeekr 001.<a href=\"https://www.jiyue-auto.com/news/34c80e95d5f64032888318f54406f2f8\">[s1]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></p><h3>Factory and capacity</h3><p>Jiyue had no self-owned plant and no vehicle production qualification of its own. Per the joint statement, its products were made in Geely's factory; media reported the cars were built at Geely's Ningbo Hangzhou Bay plant, and a used-car dealer once bought 752 Jiyue vehicles in a batch from that plant.<a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a><a href=\"https://www.cnenergynews.cn/article/4PJcnt0BwRb\">[s12]</a></p><h3>Domestic market and sales</h3><p>Sales were weak throughout 2024: the highest monthly figure in the first four months was 511 vehicles in March, and the July promotion lifted the month to 1,143 vehicles. Full-year 2024 wholesale volume was 13,561 vehicles (Jiyue 01 9,548; Jiyue 07 4,013), which the CPCA-based data republished by Phoenix ranked 95th among domestic passenger-vehicle makers; December retail volume was 280 vehicles before the halt. In its first partial year, 2023, the company wholesaled about 774 vehicles of the Jiyue 01. The company did not build an overseas sales network.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a><a href=\"https://auto.ifeng.com/c/8gNtO7m6Nrn\">[s25]</a></p><h3>Financing and funding</h3><p>As an unlisted company Jiyue relied on shareholder injections and borrowings. Per 21st Century Business Herald, over three years Baidu invested about RMB4.4 billion cumulatively and Geely about RMB3.17 billion in equity, with Baidu holding about 84% of board voting rights; some media, citing Baidu financial reports, put Baidu's cumulative investment at about RMB8.8 billion, but those line items could not be located in Baidu's annual report. Jiyue raised a USD250 million Series C in Q4 2023 (Baidu contributing about RMB650 million), and founding CEO Yiping Xia personally put in about RMB40 million early on; Geely's contract-manufacturing and vehicle fees ran to several hundred million yuan per month. The rumour that Baidu would inject a further RMB3 billion did not exist, according to 21st Century Business Herald — RMB3 billion was the minimum short-term funding gap Jiyue's management estimated in October, while Baidu required Geely and external investors to contribute first.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.zgxwzk.chinanews.com.cn/auto/2024-12-17/24004.shtml\">[s10]</a></p>",
+      "zh": "<h3>产品与定位</h3><p>极越以汽车机器人为卖点，基于百度 AI 能力与吉利 SEA 浩瀚架构打造。极越 01 为中大型 SUV，车身尺寸 4853×1990×1611 毫米、轴距 3000 毫米、风阻系数 0.249，2023 年 10 月 27 日上市，售价 24.99 万–33.99 万元，同年 11 月 30 日全系直降 3 万元至 21.99 万–30.99 万元。上市配置数存在媒体分歧：中国日报网与央广网写两款（24.99 万、33.99 万元），腾讯新闻创作者写首发三款、含 Max 长续航 29.99 万元。现官网「焕新款」三款配置售价 21.99 万/24.99 万/30.99 万元，CLTC 续航 580/780/700 公里，配 71.4 千瓦时磷酸铁锂或 100 千瓦时三元锂电池，性能版零百加速 3.8 秒；搭载高通骁龙 8295P 座舱芯片（2×30 TOPS NPU）、35.6 英寸大屏、双 NVIDIA Orin-X 智驾芯片（508 TOPS），并采用纯视觉智驾路线、取消激光雷达。<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a><a href=\"https://www.cnr.cn/2013qcpd/2015xc/20240127/t20240127_526573371.shtml\">[s16]</a><a href=\"https://news.qq.com/rain/a/20231028A0595R00\">[s22]</a><a href=\"https://www.jiyue-auto.com/configuration?modelCode=AA\">[s27]</a></p><p>极越 07 为中大型纯电轿车，车身尺寸 4953×1989 毫米、轴距 3013 毫米、风阻系数 0.198；高度为标准版/长续航版 1480 毫米、Passion 版/性能版 1475 毫米。2024 年 9 月 10 日上市，限时价 19.99 万–28.99 万元；现官网四款配置售价 20.99 万/22.99 万/28.49 万/29.99 万元，CLTC 续航 660/880/770/770 公里，性能版零百加速 3.5 秒；极越称该车汇集百度 AI/Apollo、吉利 SEA 架构与宁德时代麒麟电池。U 型方向盘为选装。极越 07 于 2024 年 8 月 28 日开启预售、预售价 21.59 万元起步，上市限时价比预售价低 1.6 万元。<a href=\"https://www.jiyue-auto.com/news/34c80e95d5f64032888318f54406f2f8\">[s1]</a><a href=\"https://www.news.cn/auto/20240912/241a43cb819347ecbc353f88d6d90865/c.html\">[s7]</a><a href=\"https://www.jiyue-auto.com/configuration?modelCode=AB\">[s26]</a></p><h3>技术平台</h3><p>极越依靠百度 Apollo 的高阶智驾系统 ASD（纯视觉、端到端大模型）与 AI 大模型座舱、SIMO 语音助手，极越 07 另搭载 800V 高压平台与 5C 快充；机械平台来自吉利 SEA 浩瀚架构，与极氪车型共用，极越 01 与极氪 001 共用底盘。<a href=\"https://www.jiyue-auto.com/news/34c80e95d5f64032888318f54406f2f8\">[s1]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></p><h3>工厂与产能</h3><p>极越无自建工厂，也无自有整车生产资质。据联合声明，其产品由吉利工厂制造；媒体报道极越车型在吉利宁波杭州湾工厂生产，曾有二手车商以打包价从该工厂购入 752 辆极越新车。<a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a><a href=\"https://www.cnenergynews.cn/article/4PJcnt0BwRb\">[s12]</a></p><h3>国内市场与销量</h3><p>2024 年销量低迷：前四个月最高为 3 月的 511 辆，7 月经促销提升至 1,143 辆。全年批发销量 13,561 辆（极越 01 为 9,548 辆、极越 07 为 4,013 辆），据凤凰网转载的乘联分会口径全年在国内乘用车企业中排名第 95；12 月零售销量 280 辆后停摆。首个交付不完整年度 2023 年，极越 01 批发销量约 774 辆。公司未建立海外销售网络。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a><a href=\"https://auto.ifeng.com/c/8gNtO7m6Nrn\">[s25]</a></p><h3>融资与资金</h3><p>极越自身未上市，资金主要来自股东注资与借款。据 21 世纪经济报道，成立三年来百度累计投资约 44 亿元、吉利股权投资约 31.7 亿元，百度占董事会投票权约 84%；另有媒体援引百度财报称百度累计投资约 88 亿元，但该两笔数据未在百度年报原文中定位到。极越于 2023 年第四季度完成 2.5 亿美元 C 轮融资（百度出资约 6.5 亿元人民币），首任 CEO 夏一平早期个人出资约 4000 万元；吉利收取的代工费加整车款每月高达数亿元。针对「百度将再投 30 亿元」的市场传闻，21 世纪经济报道指出该说法并不存在——30 亿元是 10 月极越管理层预估的短期资金缺口最低限额，而百度要求吉利与外部投资者先行出资才愿配资。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.zgxwzk.chinanews.com.cn/auto/2024-12-17/24004.shtml\">[s10]</a></p>"
+    },
+    "leadership": {
+      "source_ids": ["s3", "s4", "s5", "s9", "s10", "s18", "s24"],
+      "en": "<h3>Initiators</h3><p>Jiyue was jointly initiated by Baidu and Geely Holding. The original Jidu Auto Co., Ltd. (March 2021) was held 55% by Baidu and 45% by Geely, with a five-seat board — three Baidu directors, one Geely director (Geely Auto Group CEO Conghui An) and CEO Yiping Xia.<a href=\"https://auto.cnr.cn/gdzx/20210303/t20210303_525426245.shtml\">[s4]</a><a href=\"https://www.peopleapp.com/rmharticle/30021286552\">[s5]</a></p><h3>CEO Yiping Xia</h3><p>Yiping Xia (born 1981) graduated from Nanjing University of Posts and Telecommunications and the University of Essex, and worked at ZTE, then Ford (SYNC localisation and AppLink) and Fiat Chrysler as head of the Asia-Pacific connected-vehicle business. In January 2015 he co-founded Mobike as CTO; after Meituan acquired Mobike for USD2.7 billion in 2018 he left. On 22 February 2021 Baidu confirmed him as CEO of its car company, and on 2 March 2021 he became CEO of Jidu Auto, later Jiyue; he was named to Fortune's 40 Under 40 list in 2017. During the December 2024 crisis he said he would not run away, and on 16 December he issued a public apology acknowledging that as CEO he had made many mistakes and failed to foresee the severity of the funding problem.<a href=\"https://www.peopleapp.com/rmharticle/30021286552\">[s5]</a><a href=\"https://www.zgxwzk.chinanews.com.cn/auto/2024-12-17/24004.shtml\">[s10]</a></p><h3>Chairman and board</h3><p>The first chairman of Jidu was Zhixiang Liang, a Baidu senior vice president in charge of legal and government affairs, who was also chairman of Shanghai Jidu Automobile at its founding in November 2021. After the production-qualification setback the chairmanship passed to Rong Luo (Baidu CFO), and in October 2024 Junjie He, Baidu's acting CFO, became Jiyue's chairman. Media reported Baidu held about 84% of board voting rights (one report said about 80%) at the operator, and about 16% for Geely. Zhang Quan, a Geely Holding senior vice president, was the legal representative and executive director of the car-making entity Hangzhou Jiyueyu.<a href=\"https://news.cnstock.com/news,bwkx-202111-4775971.htm\">[s18]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml\">[s24]</a></p><h3>Equity and governance</h3><p>After the 2023 restructuring, the car-making entity Hangzhou Jiyueyu Automobile Technology was held 65% by Zhejiang Geely Industrial Investment and 35% by Baidu affiliate Shanghai Mihang. No public filing designates an actual controller. The CFO before the collapse was Jining Liu, a Geely-appointed executive with a long Goldman Sachs background, who left in September 2024. After the collapse the company has been run by the court-appointed temporary administrator (Zhong Lun Shanghai), and the former management no longer exercises day-to-day control.<a href=\"https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml\">[s24]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://auto.youth.cn/xw/202511/t20251126_16370947.htm\">[s3]</a></p>",
+      "zh": "<h3>发起方</h3><p>极越由百度与吉利控股共同发起。最初设立的集度汽车有限公司（2021 年 3 月）由百度持股 55%、吉利持股 45%，设 5 个董事会席位——百度委派 3 名董事、吉利委派 1 名（吉利汽车集团 CEO 安聪慧），另加 CEO 夏一平。<a href=\"https://auto.cnr.cn/gdzx/20210303/t20210303_525426245.shtml\">[s4]</a><a href=\"https://www.peopleapp.com/rmharticle/30021286552\">[s5]</a></p><h3>CEO 夏一平</h3><p>夏一平（1981 年生）毕业于南京邮电大学与英国埃塞克斯大学，先后任职中兴通讯、福特（SYNC 本地化、AppLink）、菲亚特克莱斯勒亚太区智能车联事业部负责人。2015 年 1 月联合创立摩拜单车并任 CTO，2018 年摩拜被美团以 27 亿美元收购后离开。2021 年 2 月 22 日百度确认其出任造车公司 CEO，3 月 2 日出任集度汽车 CEO，后任极越 CEO；2017 年入选《财富》全球 40 位 40 岁以下商界精英。2024 年 12 月危机期间，夏一平表示自己不会跑路、正在积极解决问题，并于 12 月 16 日发长文公开道歉，承认作为 CEO 犯了许多错误、对资金问题的严重性预判不足。<a href=\"https://www.peopleapp.com/rmharticle/30021286552\">[s5]</a><a href=\"https://www.zgxwzk.chinanews.com.cn/auto/2024-12-17/24004.shtml\">[s10]</a></p><h3>董事长与董事会</h3><p>集度首任董事长为梁志祥（百度主管法务、政府事务的资深副总裁），2021 年 11 月上海集度汽车成立时亦由其任董事长；造车资质受挫后董事长变更为罗戎（百度 CFO），2024 年 10 月百度代理 CFO 何俊杰出任极越董事长。媒体报道百度在运营主体拥有约 84% 的董事会投票权（亦有报道称约 80%）、吉利约 16%。吉利控股高级副总裁张权任造车主体杭州极与越的法定代表人、执行董事。<a href=\"https://news.cnstock.com/news,bwkx-202111-4775971.htm\">[s18]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml\">[s24]</a></p><h3>股权与治理</h3><p>2023 年重组后，造车主体杭州极与越汽车科技有限公司由浙江吉利产投持股 65%、百度旗下上海幂航持股 35%。任何公开文件中均未正式认定实际控制人。停摆前任 CFO 为刘吉宁（吉利派驻、此前长期在高盛任职，2024 年 9 月离职）。停摆后，公司由法院指定的临时管理人（中伦上海）主持，原管理层已不再行使日常控制。<a href=\"https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml\">[s24]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://auto.youth.cn/xw/202511/t20251126_16370947.htm\">[s3]</a></p>"
+    },
+    "competition": {
+      "source_ids": ["s6", "s8", "s9", "s16", "s17", "s19", "s25"],
+      "en": "<h3>Position</h3><p>Jiyue competed in the RMB200,000–350,000 intelligent-EV segment against Tesla, Zeekr, XPeng, NIO and Huawei-backed models, aiming at a car-robot niche on the strength of Baidu's assisted driving and large-model cockpit; at launch it benchmarked the Tesla Model Y.<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a><a href=\"https://www.cnr.cn/2013qcpd/2015xc/20240127/t20240127_526573371.shtml\">[s16]</a></p><h3>Strengths</h3><p>Its differentiators were the Apollo ASD assisted-driving system, the SIMO voice large-model cockpit, the early use of the Snapdragon 8295 cockpit chip, and the shared Geely SEA architecture, which gave it a credible mechanical base and access to CATL batteries.<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a></p><h3>Weaknesses</h3><p>Brand awareness was low and the sales channel thin. Monthly sales were weak through early 2024 — the highest monthly figure in the first four months was 511 vehicles in March — before the July 2024 promotion lifted monthly sales to 1,143. Full-year 2024 wholesale of 13,561 vehicles left it near the bottom of the startup ranking, and it had no self-owned plant or production qualification. Its products also carried controversial design choices — a large screen, half-width steering wheel, screen-based gear shifting, and the removal of the indicator and wiper stalks — that deterred some mainstream buyers. Its pricing was also high: the XPeng G6, which also benchmarked the Model Y, started at RMB209,900, about RMB40,000 below the Jiyue 01, while the Feifan R7 had cut its starting price to RMB189,900 by the end of 2023.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202410/25/t20241025_39180865.shtml\">[s17]</a><a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a></p><h3>Our assessment: why it failed</h3><p>Our assessment: Jiyue's collapse stemmed from a combination of factors evidenced in the sources — a car-robot positioning that did not translate into volume; a late market entry with a weak brand and channel; dependence on Baidu's continued funding while Baidu's strategic focus shifted to its own L4 robotaxi and AI; and the lack of an owned plant or qualification, leaving no independent manufacturing asset to fall back on. Shareholder misalignment was also central: Baidu contributed mostly technology and held about 84% of board voting rights at the operator but was unwilling to keep funding carmaking, while Geely held 65% of the car-making entity but acted mostly as the manufacturing partner, so responsibilities and interests did not match. The roughly RMB7 billion in reported liabilities and Baidu's abandonment of the original co-funding plan were the immediate trigger rather than the root cause.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202412/16/t20241216_39236127.shtml\">[s8]</a></p>",
+      "zh": "<h3>定位</h3><p>极越主攻 20 万–35 万元智能电动车市场，对手包括特斯拉、极氪、小鹏、蔚来及华为系车型，以百度高阶智驾与大模型座舱打造汽车机器人差异化；上市时曾对标特斯拉 Model Y。<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a><a href=\"https://www.cnr.cn/2013qcpd/2015xc/20240127/t20240127_526573371.shtml\">[s16]</a></p><h3>优势</h3><p>差异化在于 Apollo 高阶智驾 ASD、SIMO 语音大模型座舱、率先搭载骁龙 8295 芯片，并共享吉利 SEA 浩瀚架构，具备较扎实的机械平台与宁德时代电池供应。<a href=\"https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html\">[s6]</a></p><h3>短板</h3><p>品牌认知度低、销售渠道薄弱。2024 年前四个月月销低迷，最高为 3 月的 511 辆，7 月经促销才提升至 1,143 辆；2024 年全年批发 13,561 辆，处新势力尾部；且无自有工厂与生产资质。其产品还采用了大连屏、半幅方向盘、屏幕换挡、取消转向灯与雨刷拨杆等富有争议的设计，劝退了一部分主流消费者。定价亦偏高：同样对标 Model Y 的小鹏 G6 起售 20.99 万元、比极越 01 低约 4 万元，飞凡 R7 在 2023 年底起售价降至 18.99 万元。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202410/25/t20241025_39180865.shtml\">[s17]</a><a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a></p><h3>我们的判断：为何失败</h3><p>我们的判断：极越的溃败是多因素叠加的结果——依据包括：汽车机器人定位未转化为销量；入局较晚、品牌与渠道薄弱；依赖百度持续注资，而百度战略重心转向自身 L4 无人驾驶与 AI；以及无自有工厂与资质、缺乏独立制造资产可退守。股东角色错位亦是重要因素：百度以技术输出为主、在运营主体拥有约 84% 董事会投票权却不愿持续承担造车资金，吉利在造车主体持股 65% 却多扮演制造合作方角色，双方权责与利益不匹配。媒体报道的约 70 亿元欠款与百度放弃原计划的配资是直接导火索，而非根本原因。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a><a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202412/16/t20241216_39236127.shtml\">[s8]</a></p>"
+    },
+    "outlook": {
+      "source_ids": ["s3", "s8", "s9", "s14", "s20", "s21", "s28"],
+      "en": "<h3>Company's stated plans</h3><p>At launch, Jiyue said it wanted to fight Tesla. In its December 2024 statement it said it would keep investing in core technology, strengthen sales and service, merge redundant functions and cut projects that could not improve finances in the near term. Its 25 November 2025 pre-reorganization announcement said the aim is to introduce a new strategic investor, revitalise existing assets and resources, preserve asset value and protect users' after-sales rights, while maintaining core operations under the temporary administrator.<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202412/16/t20241216_39236127.shtml\">[s8]</a><a href=\"https://auto.youth.cn/xw/202511/t20251126_16370947.htm\">[s3]</a></p><h3>What has happened since</h3><p>The pre-reorganization was accepted on 21 November 2025; on 29 April 2026 the court placed Shanghai Jidu and five affiliates into substantive consolidation reorganization, and investor recruitment was under way as of the cutoff date. Geely's Lynk &amp; Co brand has handled after-sales repair, and Baidu has kept autonomous-driving cloud services running at a basic level.<a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a><a href=\"https://auto.youth.cn/xw/202503/t20250314_15882570.htm\">[s28]</a></p><h3>Our analysis</h3><p>Our assessment: any genuine revival would require a strategic investor willing to assume roughly RMB7 billion of liabilities, a workable plan to reactivate production through Geely's factory, and restoration of owner trust after the after-sales disruption. Jiyue's distinctive point is that the technology and driving data accumulated in its Apollo assisted-driving and smart-cockpit stack still hold some value to buyers seeking to strengthen their own intelligent-driving capabilities, but whether that value can cover the debt and trust costs remains to be tested by the restructuring outcome. As of 29 October 2026 none of these conditions had been confirmed.<a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></p><h3>Industry context</h3><p>Our assessment: Jiyue is one case in a broader shake-out of Chinese EV startups. According to statistics cited by Securities Times, by May 2026 some 23 NEV makers had declared bankruptcy, entered liquidation or reorganization, or effectively halted operations through judicial proceedings, with about 850,000 NEV passenger cars cumulatively sold. By comparison, the reorganization plan of Hozon New Energy (Nezha) proposed that an investor contribute RMB3 billion for about 70.62% of the equity, but the equity-holder group voted it down in October 2026, so the plan has not taken effect.<a href=\"https://m.thepaper.cn/newsDetail_forward_33379847\">[s21]</a><a href=\"https://www.cls.cn/detail/2508465\">[s20]</a></p>",
+      "zh": "<h3>公司公布的规划</h3><p>上市之初极越称要与特斯拉打一仗。2024 年 12 月的声明称，公司将坚持核心技术投入、加强销售与服务能力、合并重复部门、削减短期无法改善财务的项目。2025 年 11 月 25 日的预重整公告称，目的是引入新的战略投资人、盘活现有资产与资源、维护资产价值、保障用户售后权益，并在临时管理人监督下维持核心业务运转。<a href=\"https://www.ce.cn/xwzx/gnsz/gdxw/202412/16/t20241216_39236127.shtml\">[s8]</a><a href=\"https://auto.youth.cn/xw/202511/t20251126_16370947.htm\">[s3]</a></p><h3>此后发生的情况</h3><p>预重整于 2025 年 11 月 21 日获受理；2026 年 4 月 29 日法院裁定上海集度及五家关联公司实质合并重整，截至截止日意向投资人招募仍在推进；售后维修由吉利旗下领克品牌兜底，智驾云端服务由百度维持基础运转。<a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a><a href=\"https://auto.youth.cn/xw/202503/t20250314_15882570.htm\">[s28]</a></p><h3>我们的分析</h3><p>我们的判断：任何真正的复活都需要：愿意承接约 70 亿元债务的战略投资人、通过吉利工厂重启生产的可行方案，以及修复因售后中断受损的车主信任。极越的独特之处在于，其 Apollo 高阶智驾与智能座舱所积累的技术和数据，对亟需补强智能化能力的潜在买家仍具一定价值，但这一价值能否覆盖债务与信任成本，仍需重整结果来验证。截至 2026 年 10 月 29 日，上述条件均未被确认。<a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a><a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></p><h3>行业背景</h3><p>我们的判断：极越是中国新能源造车新势力大洗牌中的一个案例。据证券时报援引的统计，截至 2026 年 5 月，国内已有 23 家新能源车企通过司法程序宣告破产、进入清算重整或实质停摆，累计合规售出新能源乘用车约 85 万辆。作为对照，哪吒汽车母公司合众新能源的重整计划草案拟由投资人出资 30 亿元受让约 70.62% 股权，但 2026 年 10 月出资人组表决未通过，方案尚未生效。<a href=\"https://m.thepaper.cn/newsDetail_forward_33379847\">[s21]</a><a href=\"https://www.cls.cn/detail/2508465\">[s20]</a></p>"
+    },
+    "risks": {
+      "source_ids": ["s2", "s9", "s12", "s14", "s19", "s28"],
+      "en": "<ul><li><strong>Reorganization risk:</strong> if no strategic investor is found, the court-led process could end in liquidation; investor recruitment was unresolved as of 29 October 2026.<a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a></li><li><strong>Debt risk:</strong> media reported roughly RMB7 billion of outstanding liabilities at the December 2024 collapse (about RMB0.9 billion to Baidu, RMB2.6 billion to Geely, RMB1.1 billion to banks and RMB2.4 billion to suppliers and others), a heavy burden for any acquirer.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></li><li><strong>Owner and after-sales risk:</strong> about 15,000 existing owners face reduced service continuity; owners reported parts shortages and slow repairs through Lynk &amp; Co's network, and after-sales depends on Geely's network and Baidu's cloud services.<a href=\"https://auto.youth.cn/xw/202503/t20250314_15882570.htm\">[s28]</a><a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a></li><li><strong>No self-owned production assets:</strong> Jiyue held no plant or production qualification of its own, so restarting output depends on Geely's continued manufacturing cooperation.<a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a></li><li><strong>Product-generation gap:</strong> the two legacy models' technology lead narrowed against peers' rapid iteration while the brand was inactive, weakening any restart's competitiveness; wholesale sales fell to 280 vehicles in December 2024 before the halt.<a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a></li><li><strong>Shareholder-divergence risk:</strong> Baidu and Geely had divergent roles (technology vs. manufacturing), and Baidu's halt to further funding in late 2024 was the immediate trigger of the cash crunch, leaving the venture's strategic direction unsettled.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></li><li><strong>Employee and supplier legacy issues:</strong> the company owed employee wages, social insurance and supplier payments at the collapse; although Baidu and Geely advanced part of the wages and N+1 compensation, supplier debts and historical liabilities remain to be handled in the reorganization.<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></li></ul>",
+      "zh": "<ul><li><strong>重整风险：</strong>若无法引入战略投资人，法院主导的程序可能走向破产清算；截至 2026 年 10 月 29 日投资人招募仍无结果。<a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a></li><li><strong>债务风险：</strong>媒体报道 2024 年 12 月停摆时对外欠款约 70 亿元（欠百度约 9 亿元、欠吉利约 26 亿元、欠银行约 11 亿元、其余含供应商在内约 24 亿元），对接盘方构成沉重负担。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></li><li><strong>车主与售后风险：</strong>约 1.5 万名存量车主面临服务连续性下降；车主反映通过领克网点修车配件不足、维修缓慢，售后依赖吉利网络与百度云端服务。<a href=\"https://auto.youth.cn/xw/202503/t20250314_15882570.htm\">[s28]</a><a href=\"https://www.bjnews.com.cn/detail/1788179991129536.html\">[s14]</a></li><li><strong>无自有制造资产：</strong>极越无自有工厂与生产资质，复产依赖吉利持续提供制造合作。<a href=\"https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75\">[s2]</a></li><li><strong>产品代差风险：</strong>停摆期间两款老车型的技术领先窗口被对手快速迭代收窄，削弱重启后的竞争力；2024 年 12 月批发销量已降至 280 辆后停摆。<a href=\"https://m.gasgoo.com/qcxl/article/75891.html\">[s19]</a></li><li><strong>股东分歧风险：</strong>百度与吉利角色各异（百度主技术、吉利主制造），2024 年底百度停止继续注资是资金链断裂的直接诱因，双方权责划分模糊、战略方向存在不确定性。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></li><li><strong>员工与供应商遗留问题：</strong>停摆时公司拖欠员工工资、社保及供应商货款，虽由百度、吉利垫付了部分工资与 N+1 补偿，供应商欠款与历史债务仍待重整程序处理。<a href=\"https://static.nfnews.com/content/202412/19/c10353343.html\">[s9]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "Jiyue official news — Jiyue 07 launch", "url": "https://www.jiyue-auto.com/news/34c80e95d5f64032888318f54406f2f8", "date": "2024-09-10", "tier": "A" },
+    { "id": "s2", "name": "Baidu Holding and Geely Holding joint statement on Jiyue (full text, via China Fund News)", "url": "https://www.chnfund.com/article/AR21bff1fe-b591-2fe3-6352-3a16d1d0cc75", "date": "2024-12-13", "tier": "A" },
+    { "id": "s3", "name": "The Paper — Jiyue starts pre-reorganization (via China Youth Net)", "url": "https://auto.youth.cn/xw/202511/t20251126_16370947.htm", "date": "2025-11-26", "tier": "A" },
+    { "id": "s4", "name": "China Net Auto — Geely and Baidu set up Jidu Auto Co., Ltd., Geely holds 45%", "url": "https://auto.cnr.cn/gdzx/20210303/t20210303_525426245.shtml", "date": "2021-03-04", "tier": "B" },
+    { "id": "s5", "name": "People's Daily client — Jidu debuts, Baidu's carmaking takes a substantive step", "url": "https://www.peopleapp.com/rmharticle/30021286552", "date": "2021-03-02", "tier": "B" },
+    { "id": "s6", "name": "China Daily — Jiyue 01 launch, priced from RMB249,900", "url": "https://cn.chinadaily.com.cn/a/202310/31/WS6540c469a310d5acd876cbe9.html", "date": "2023-10-31", "tier": "B" },
+    { "id": "s7", "name": "Xinhua News — Jiyue 07 launch, limited-time price from RMB199,900", "url": "https://www.news.cn/auto/20240912/241a43cb819347ecbc353f88d6d90865/c.html", "date": "2024-09-12", "tier": "B" },
+    { "id": "s8", "name": "China Economic Net — Jiyue did not get a white knight", "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202412/16/t20241216_39236127.shtml", "date": "2024-12-16", "tier": "B" },
+    { "id": "s9", "name": "21st Century Business Herald — Jiyue's abnormal death: a venture without consensus", "url": "https://static.nfnews.com/content/202412/19/c10353343.html", "date": "2024-12-19", "tier": "B" },
+    { "id": "s10", "name": "China Newsweek — the CEO who admitted mistakes but did not flee", "url": "https://www.zgxwzk.chinanews.com.cn/auto/2024-12-17/24004.shtml", "date": "2024-12-17", "tier": "B" },
+    { "id": "s11", "name": "Securities Times — Jiyue PR head dismissed; employee settlement plan", "url": "https://www.stcn.com/article/detail/1461961.html", "date": "2024-12-20", "tier": "B" },
+    { "id": "s12", "name": "China Energy News (Red Star Capital) — Jiyue starts pre-reorganization after a year of suspension", "url": "https://www.cnenergynews.cn/article/4PJcnt0BwRb", "date": "2025-11-27", "tier": "B" },
+    { "id": "s13", "name": "Hangzhou Daily — Jiyue starts pre-reorganization", "url": "https://mdaily.hangzhou.com.cn/mrsb/2025/11/27/article_detail_3_20251127A106.html", "date": "2025-11-27", "tier": "B" },
+    { "id": "s14", "name": "Beijing News — Jiyue risk warning on in-car system cracking; six companies in substantive consolidation reorganization", "url": "https://www.bjnews.com.cn/detail/1788179991129536.html", "date": "2026-08-31", "tier": "B" },
+    { "id": "s15", "name": "Sina News — Jiyue pre-reorganization accepted; corporate structure recap", "url": "https://k.sina.com.cn/article_2723054902_a24e8536001017xi4.html", "date": "2025-11-26", "tier": "B" },
+    { "id": "s16", "name": "CNR (China Business Journal) — former star automakers exit; Jiyue 01 price cut", "url": "https://www.cnr.cn/2013qcpd/2015xc/20240127/t20240127_526573371.shtml", "date": "2024-01-27", "tier": "B" },
+    { "id": "s17", "name": "China Economic Net (China Entrepreneur) — this new force on the cliff edge fights on", "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202410/25/t20241025_39180865.shtml", "date": "2024-10-25", "tier": "B" },
+    { "id": "s18", "name": "China Securities Net (Shanghai Securities News) — Shanghai Jidu Automobile established, registered capital about USD310 million", "url": "https://news.cnstock.com/news,bwkx-202111-4775971.htm", "date": "2021-11-01", "tier": "B" },
+    { "id": "s19", "name": "Gasgoo — Jiyue December 2024 sales (full-year 2024: Jiyue 01 9,548; Jiyue 07 4,013; total 13,561)", "url": "https://m.gasgoo.com/qcxl/article/75891.html", "date": "2025-02-10", "tier": "B" },
+    { "id": "s20", "name": "Cailian Press (CLS) — Nezha reorganization plan: investor to contribute RMB3 billion, equity-holder group voted it down", "url": "https://www.cls.cn/detail/2508465", "date": "2026-10-19", "tier": "B" },
+    { "id": "s21", "name": "The Paper (Securities Times) — how owners of abandoned vehicles are protected; 23 automakers, 850,000 vehicles", "url": "https://m.thepaper.cn/newsDetail_forward_33379847", "date": "2026-06-15", "tier": "B" },
+    { "id": "s22", "name": "Tencent News (creator account Ti Che Bang) — Jiyue 01 launch from RMB249,900 with specifications", "url": "https://news.qq.com/rain/a/20231028A0595R00", "date": "2023-10-28", "tier": "C" },
+    { "id": "s23", "name": "21st Century Business Herald — Jidu car robot in Beijing; Xia Yiping on the restructuring", "url": "https://m.21jingji.com/article/20220721/herald/c0a8ad5636e129ac1cd002699316b63d.html", "date": "2022-07-21", "tier": "B" },
+    { "id": "s24", "name": "China Economic Net — Jidu renamed Jiyue; registration changes and Hangzhou Jiyueyu structure", "url": "https://www.ce.cn/macro/more/202308/17/t20230817_38676278.shtml", "date": "2023-08-17", "tier": "B" },
+    { "id": "s25", "name": "Phoenix Net (Da Biao Che) — Jiyue publishes December sales; full-year 13,561 ranked 95th", "url": "https://auto.ifeng.com/c/8gNtO7m6Nrn", "date": "2025-01-23", "tier": "B" },
+    { "id": "s26", "name": "Jiyue official — Jiyue 07 configuration table", "url": "https://www.jiyue-auto.com/configuration?modelCode=AB", "date": "2024-11-12", "tier": "A" },
+    { "id": "s27", "name": "Jiyue official — Jiyue 01 Huanxin configuration table", "url": "https://www.jiyue-auto.com/configuration?modelCode=AA", "date": "2024-11-12", "tier": "A" },
+    { "id": "s28", "name": "China Youth Net (Beijing Business Today) — Jiyue owners struggle with repairs; Lynk & Co takes over after-sales", "url": "https://auto.youth.cn/xw/202503/t20250314_15882570.htm", "date": "2025-03-14", "tier": "B" }
+  ]
+}

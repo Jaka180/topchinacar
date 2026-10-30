@@ -1,0 +1,386 @@
+{
+  "id": "roewe",
+  "name_en": "Roewe",
+  "name_zh": "荣威",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "October 2006 (brand launch; name announced by SAIC on 12 October 2006)",
+      "value_zh": "2006 年 10 月（品牌发布；品牌名于 2006 年 10 月 12 日由上汽公布）",
+      "period": null,
+      "source_ids": ["s1", "s7", "s19"]
+    },
+    {
+      "label_en": "Brand ownership",
+      "label_zh": "品牌归属",
+      "value_en": "Owned by SAIC Motor Corporation (state-owned; ultimate controller Shanghai SASAC), operated by SAIC Motor Passenger Vehicle",
+      "value_zh": "上汽集团所有（国有，最终实际控制人为上海市国资委），由上汽乘用车运营",
+      "period": null,
+      "source_ids": ["s3", "s1"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai, China",
+      "value_zh": "中国上海",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; parent SAIC Motor is listed on the Shanghai Stock Exchange (600104)",
+      "value_zh": "未单独上市；母公司上汽集团在上交所上市（600104）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed (brand level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "Not separately disclosed (brand level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Net profit (latest fiscal year)",
+      "label_zh": "最近财年净利润",
+      "value_en": "Not separately disclosed (brand level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Sales (2025, domestic retail, media-reported)",
+      "label_zh": "2025 年国内零售销量（媒体报道口径）",
+      "value_en": "About 177,000 units (up 25% YoY)",
+      "value_zh": "约 17.7 万辆（同比增长 25%）",
+      "period": "2025",
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Peak annual sales",
+      "label_zh": "历史峰值年销量",
+      "value_en": "About 460,000 units in 2018, up 20% (Yicai)",
+      "value_zh": "2018 年约 46 万辆、同比增长 20%（第一财经口径）",
+      "period": "2018",
+      "source_ids": ["s29"]
+    },
+    {
+      "label_en": "Positioning",
+      "label_zh": "定位",
+      "value_en": "SAIC's mainstream domestic family brand; in-sale lineup spans roughly RMB61,900-289,800 guide prices, with volume models concentrated in the mainstream family segment",
+      "value_zh": "上汽面向国内主流家庭用户的自主品牌，覆盖燃油、插电混动与纯电；官网在售车型指导价约 6.19 万—28.98 万元，主销车型集中在主流家用区间",
+      "period": null,
+      "source_ids": ["s4", "s10"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2004",
+      "event_en": "SAIC acquires Rover intellectual property from Britain's MG Rover in stages: about GBP37 million in 2004 for the Rover 75, Rover 25 and K-series engine IP, and about GBP30 million more in January 2005. Media differ on whether the second payment was for additional IP or financial support.",
+      "event_zh": "上汽分阶段取得英国 MG 罗孚的车型与发动机知识产权：2004 年以约 3700 万英镑取得罗孚 75、25 及 K 系列发动机等知识产权，2005 年 1 月再支付约 3000 万英镑（后一笔究竟是追加知识产权还是资金支持，媒体说法不一）。",
+      "source_ids": ["s23"]
+    },
+    {
+      "date": "2006-10",
+      "event_en": "SAIC announces the Roewe brand name on 12 October 2006, positioning it as a medium-to-high-end self-owned marque.",
+      "event_zh": "上汽于 2006 年 10 月 12 日公布「荣威」品牌名，定位中高端自主品牌。",
+      "source_ids": ["s1", "s7", "s19"]
+    },
+    {
+      "date": "2006-11",
+      "event_en": "The first model, the Roewe 750 (built on the Rover 75 platform), debuts at the 2006 Beijing International Auto Show.",
+      "event_zh": "首款车型荣威 750（基于罗孚 75 平台）在 2006 年北京国际车展首发。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2007-01",
+      "event_en": "On 31 January 2007 the Roewe 750's three 2.5L variants are priced at RMB231,800 / 243,800 / 276,800 and orders open.",
+      "event_zh": "2007 年 1 月 31 日，荣威 750 三款 2.5L 车型公布售价（23.18 万 / 24.38 万 / 27.68 万元）并接受预订。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2008",
+      "event_en": "The Roewe 550 makes its debut at the Shanghai International Auto Show.",
+      "event_zh": "荣威 550 在上海国际车展首发。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2010-04",
+      "event_en": "The fully self-developed Roewe 350 is released; it later becomes the brand's volume sedan in the RMB70,000-140,000 band.",
+      "event_zh": "完全自主开发的荣威 350 上市，此后长期作为主销车型（官方指导价 7 万—14 万元）。",
+      "source_ids": ["s1", "s29"]
+    },
+    {
+      "date": "2011-08",
+      "event_en": "The Roewe W5, the brand's first SUV, is released.",
+      "event_zh": "荣威首款 SUV 荣威 W5 上市。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2011-11",
+      "event_en": "The Roewe E50 pure-electric car is released (the brand's official history dates it to November 2011; another media account places the launch in 2012).",
+      "event_zh": "荣威 E50 纯电动汽车投放市场（品牌官网沿革记为 2011 年 11 月，另有媒体报道称 2012 年上市）。",
+      "source_ids": ["s1", "s12"]
+    },
+    {
+      "date": "2016-07",
+      "event_en": "The Roewe RX5, marketed as the world's first production internet car, is launched with Alibaba's YunOS for Car (later Banma); it sells 237,000 units in its first full year (2017).",
+      "event_zh": "荣威 RX5 上市，被称为全球首款量产互联网汽车，搭载阿里 YunOS for Car（后为斑马智行）；2017 年首个完整年销量 23.7 万辆。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2018",
+      "event_en": "Roewe reaches its sales peak of about 460,000 units, up 20% (Yicai). That year it also launches the Marvel X high-end EV priced at RMB260,000-310,000, which sells only about 5,000 units over two years.",
+      "event_zh": "荣威年销量达到约 46 万辆的峰值、同比增长 20%（第一财经口径）；同年推出定价 26 万—31 万元的 Marvel X 高端纯电车型，但上市两年累计仅售 5000 余辆。",
+      "source_ids": ["s29"]
+    },
+    {
+      "date": "2019",
+      "event_en": "As the market weakens, then-SAIC Motor Passenger Vehicle general manager Wang Xiaoqiu shifts to a downmarket strategy, launching models priced from about RMB60,000.",
+      "event_zh": "市场下行，时任上汽乘用车总经理王晓秋调整策略走低价下沉路线，推出最低售价约 6 万元的车型。",
+      "source_ids": ["s29"]
+    },
+    {
+      "date": "2020",
+      "event_en": "Roewe introduces the R badge for mid-to-high-end new-energy vehicles, alongside the refreshed lion badge, forming a dual-badge strategy.",
+      "event_zh": "荣威发布全新「R」标（中高端新能源），与焕新的「狮标」组成双标战略。",
+      "source_ids": ["s29"]
+    },
+    {
+      "date": "2021-10",
+      "event_en": "The R brand is spun off as Feifan Auto, an independent company with registered capital of RMB7 billion focusing on mid-to-high-end smart EVs.",
+      "event_zh": "R 品牌独立为飞凡汽车（注册资本 70 亿元），聚焦中高端智能电动车。",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2023-11-08",
+      "event_en": "The Roewe D7, first model of the D-family series, is launched (D7 DMH at RMB121,800-141,800 and D7 EV at RMB143,800-170,800 launch benefit prices).",
+      "event_zh": "2023 年 11 月 8 日，D 家族首款车型荣威 D7 上市（D7 DMH 上市权益价 12.18 万—14.18 万元、D7 EV 14.38 万—17.08 万元）。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2024-10-28",
+      "event_en": "SAIC Motor Passenger Vehicle announces the merger of Roewe and Feifan; Feifan returns to the Roewe lineup.",
+      "event_zh": "2024 年 10 月 28 日，上汽乘用车官宣荣威与飞凡合并，飞凡回归荣威。",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2024-10",
+      "event_en": "The Roewe D7 DMH World Champion Edition sets a Guinness World Record of 2,208 km on a single full tank and charge, with average fuel consumption of 2.49 L/100km.",
+      "event_zh": "荣威 D7 DMH 世界冠军版以满油满电续航 2208 公里、平均油耗 2.49 升/百公里创吉尼斯世界纪录。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Roewe's domestic retail sales recover to about 177,000 units, up 25% year-on-year.",
+      "event_zh": "2025 年荣威国内零售销量回升至约 17.7 万辆、同比增长 25%。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2026-03-10",
+      "event_en": "At the spring media briefing, Roewe announces its 20th-anniversary plan: seven new models in 2026 at roughly one per quarter, plus an AI-native high-end series positioned above RMB200,000.",
+      "event_zh": "2026 年 3 月 10 日春季媒体沟通会，荣威公布 20 周年规划：2026 年以约每三个月一款的节奏推出 7 款全新车型，并推出聚焦 20 万元以上市场的 AI 原生高端序列。",
+      "source_ids": ["s10", "s25"]
+    },
+    {
+      "date": "2026-07-28",
+      "event_en": "Lu Xiao, previously general manager of SAIC-GM, replaces Wang Jun as general manager of SAIC Motor Passenger Vehicle, overseeing both Roewe and MG.",
+      "event_zh": "2026 年 7 月 28 日，原上汽通用总经理卢晓接替王骏出任上汽乘用车总经理，统管荣威与 MG 两大品牌。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2026-10-23",
+      "event_en": "The Roewe Jiayue 07, the first AI-native extended-range SUV of the new Jiayue series, is launched with a guide price of RMB127,800-152,800 (limited-time benefit price RMB119,800-144,800).",
+      "event_zh": "2026 年 10 月 23 日，荣威全新「家越」序列首款 AI 原生增程 SUV 家越 07 上市，官方指导价 12.78 万—15.28 万元（限时权益价 11.98 万—14.48 万元）。",
+      "source_ids": ["s13", "s31"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Roewe i5",
+      "name_zh": "荣威 i5",
+      "role_en": "Entry-level compact fuel sedan and the brand's main volume model.",
+      "role_zh": "入门级紧凑型燃油家轿，荣威的销量基本盘。",
+      "price_band": "RMB 68,900 onward (official site, 2026)",
+      "founded": 2018,
+      "owner_note_en": "Launched in 2018. In 2025 the i5 sold about 81,000 units, roughly half of the brand's total volume, at a terminal price starting around RMB44,900 (media retail data); media report it fell to about 25,200 units in January-August 2026.",
+      "owner_note_zh": "2018 年上市。据媒体零售数据，2025 年 i5 零售约 8.1 万辆、约占品牌总销量的近一半，终端起售价约 4.49 万元；据媒体报道 2026 年 1—8 月销量回落至约 2.52 万辆。",
+      "status": "active",
+      "source_ids": ["s4", "s10", "s17"]
+    },
+    {
+      "name_en": "Roewe i6",
+      "name_zh": "荣威 i6",
+      "role_en": "A-plus-class fuel sedan, launched April 2026 to reinforce the mainstream fuel-car base.",
+      "role_zh": "A+ 级燃油家轿，2026 年 4 月上市，用于巩固主流燃油车基本盘。",
+      "price_band": "RMB 61,900 onward (official site, 2026)",
+      "founded": 2026,
+      "owner_note_en": "Announced at the March 2026 briefing for an April launch, the i6 targets the Geely 5th-gen Emgrand, Nissan Sylphy Classic and Lavida XR with a 15.6-inch 2.5K screen and Qualcomm Snapdragon 8155 chip. It is now on sale at RMB61,900 onward; media report about 6,743 units sold from its late-April launch through August 2026.",
+      "owner_note_zh": "2026 年 3 月沟通会宣布 4 月上市，对标吉利 5 代帝豪、轩逸经典、朗逸新锐，搭载 15.6 英寸 2.5K 中控屏与高通骁龙 8155 芯片。现官网在售 6.19 万元起；据媒体报道 4 月底上市后至 8 月累计销量约 6743 辆。",
+      "status": "active",
+      "source_ids": ["s4", "s10", "s17"]
+    },
+    {
+      "name_en": "Roewe RX5",
+      "name_zh": "荣威 RX5",
+      "role_en": "Compact SUV that defined the brand's internet-car identity in 2016.",
+      "role_zh": "紧凑型 SUV，2016 年定义品牌互联网汽车标签的车型。",
+      "price_band": "RMB 122,900 onward (new RX5, official site, 2026)",
+      "founded": 2016,
+      "owner_note_en": "Launched in July 2016 as the world's first production internet car, running Alibaba's YunOS for Car (later Banma). It sold 237,000 units in 2017 but has declined since; media data show a long slide from the 2018 peak.",
+      "owner_note_zh": "2016 年 7 月上市，被称为全球首款量产互联网汽车，搭载阿里 YunOS for Car（后为斑马智行）。2017 年销量 23.7 万辆，此后自 2018 年峰值起逐年下滑（据媒体报道）。",
+      "status": "active",
+      "source_ids": ["s4", "s12", "s21"]
+    },
+    {
+      "name_en": "Roewe D7",
+      "name_zh": "荣威 D7",
+      "role_en": "B-class new-energy sedan and the first model of the D-family series, in pure-electric (EV) and DMH plug-in-hybrid versions.",
+      "role_zh": "B 级新能源轿车、D 家族首款车型，提供纯电（EV）与 DMH 插电混动两种动力。",
+      "price_band": "D7 DMH from RMB123,800; D7 EV from RMB149,800 (official site, 2026)",
+      "founded": 2023,
+      "owner_note_en": "Launched on 8 November 2023 (DMH from RMB121,800 and EV from RMB143,800 launch benefit prices); the EV is built on SAIC's Nebula pure-electric platform and uses the Rubik's Cube battery. Media reported about 24,000 units sold in 2025.",
+      "owner_note_zh": "2023 年 11 月 8 日上市（DMH 权益价 12.18 万元起、EV 14.38 万元起），EV 版基于星云纯电平台、搭载魔方电池，DMH 版搭载 DMH 超级混动。据媒体报道 2025 年销量约 2.4 万辆。",
+      "status": "active",
+      "source_ids": ["s4", "s11", "s10"]
+    },
+    {
+      "name_en": "Roewe D6 (electric)",
+      "name_zh": "荣威纯电 D6",
+      "role_en": "Compact pure-electric sedan.",
+      "role_zh": "紧凑型纯电轿车。",
+      "price_band": "RMB 79,800 onward (official site, 2026)",
+      "founded": null,
+      "owner_note_en": "A compact pure-electric sedan listed at RMB79,800 onward; media counted it among the brand's 2025 new-energy line and reported about 11,443 units sold in 2026 through August.",
+      "owner_note_zh": "紧凑型纯电轿车，官网显示售价 7.98 万元起；媒体将其列为 2025 年新能源产品线之一，并报道 2026 年 1—8 月累计销量约 1.14 万辆。",
+      "status": "active",
+      "source_ids": ["s4", "s10", "s17"]
+    },
+    {
+      "name_en": "Roewe M7 DMH",
+      "name_zh": "荣威 M7 DMH",
+      "role_en": "Hybrid (DMH) sedan.",
+      "role_zh": "DMH 混动轿车。",
+      "price_band": "RMB 89,800 onward (official site, 2026)",
+      "founded": 2025,
+      "owner_note_en": "A DMH hybrid sedan listed at RMB89,800 onward; media reported about 11,000 units sold in 2025 after a second-half-2025 launch.",
+      "owner_note_zh": "DMH 混动轿车，官网显示售价 8.98 万元起；2025 年下半年上市，据媒体报道 2025 年销量约 1.1 万辆。",
+      "status": "active",
+      "source_ids": ["s4", "s10", "s17"]
+    },
+    {
+      "name_en": "Roewe iMAX8",
+      "name_zh": "荣威 iMAX8",
+      "role_en": "MPV series in fuel, DMH plug-in-hybrid and pure-electric versions.",
+      "role_zh": "MPV 车系，覆盖燃油、DMH 插混与纯电版本。",
+      "price_band": "iMAX8 from RMB185,800; iMAX8 DMH from RMB199,900; iMAX8 EV from RMB289,800 (official site, 2026)",
+      "founded": null,
+      "owner_note_en": "The iMAX8 MPV is offered in fuel, DMH hybrid and pure-electric forms; official-site prices start at RMB185,800 (fuel), RMB199,900 (DMH) and RMB289,800 (EV).",
+      "owner_note_zh": "iMAX8 提供燃油、DMH 混动与纯电版本，官网起售价分别为 18.58 万、19.99 万、28.98 万元。",
+      "status": "active",
+      "source_ids": ["s4"]
+    },
+    {
+      "name_en": "Roewe Jiayue 07 (Jiayue series)",
+      "name_zh": "荣威家越 07（家越序列）",
+      "role_en": "First AI-native extended-range SUV of the new Jiayue series, launched for the brand's 20th anniversary.",
+      "role_zh": "全新「家越」序列首款 AI 原生增程 SUV，为品牌 20 周年推出的车型。",
+      "price_band": "Guide price RMB127,800-152,800; limited-time benefit price RMB119,800-144,800 (Oct 2026)",
+      "founded": 2026,
+      "owner_note_en": "Launched on 23 October 2026 in four variants with a limited-time benefit price of RMB119,800-144,800; it is a large five-seat extended-range SUV (4,900 mm long, 2,908 mm wheelbase) co-developed with ByteDance's Volcano Engine, on the CPP AI-native architecture. It pairs a 1.5L range-extender (72 kW) with a rear motor (about 162 kW) and offers 220 km / 320 km CLTC pure-electric range and up to 1,480 km combined range; it carries the Momenta R7 world model on the XHEART X7 chip plus the Doubao cockpit assistant. All variants except the entry 220 model are equipped with lidar. Roewe said cumulative orders exceeded 51,000 by launch day.",
+      "owner_note_zh": "2026 年 10 月 23 日上市，共四款车型，限时权益价 11.98 万—14.48 万元；为大五座增程 SUV（车长 4900 毫米、轴距 2908 毫米），基于 CPP AI 原生架构、与字节跳动火山引擎联合打造。采用 1.5L 增程器（72 千瓦）+ 后置电机（约 162 千瓦），CLTC 纯电续航 220/320 公里、综合续航最高 1480 公里；搭载 Momenta R7 世界模型与 XHEART X7 芯片及豆包座舱助手。除入门 220 车型外均配备激光雷达。荣威称上市当日累计订单突破 5.1 万辆。",
+      "status": "active",
+      "source_ids": ["s13", "s31", "s5"]
+    },
+    {
+      "name_en": "Feifan (now merged into Roewe: new R7, 2025 F7)",
+      "name_zh": "飞凡（现并入荣威：全新 R7、2025 款 F7）",
+      "role_en": "Former mid-to-high-end smart-EV brand spun off from Roewe's R badge in 2021 and merged back into Roewe in late 2024.",
+      "role_zh": "2021 年脱胎于荣威 R 标的中高端智能电动车品牌，2024 年末回归并入荣威。",
+      "price_band": "New R7 RMB159,900; 2025 F7 RMB162,900 onward (official site, 2026)",
+      "founded": 2020,
+      "owner_note_en": "The R badge was introduced in 2020, became Feifan Auto in October 2021, and was merged back into Roewe on 28 October 2024. Its models R7 and F7 now appear in the Roewe lineup as the new R7 and 2025 F7.",
+      "owner_note_zh": "R 标 2020 年发布、2021 年 10 月独立为飞凡汽车，2024 年 10 月 28 日合并回归荣威。其车型 R7、F7 现以「全新 R7」「2025 款 F7」名义列入荣威产品序列。",
+      "status": "merged",
+      "source_ids": ["s8", "s9", "s4"]
+    }
+  ],
+  "financials": {
+    "currency": "N/A",
+    "unit": "N/A",
+    "standard": "N/A",
+    "rows": [],
+    "note_en": "Roewe is a brand within SAIC Motor Corporation and is not separately listed, so it publishes no standalone financial statements; the table is therefore empty. Roewe's revenue and profit are consolidated within Shanghai Automotive Industry Corporation (Group) (Shanghai Stock Exchange 600104), which reports under Chinese Accounting Standards (PRC GAAP) in CNY, and are not split out at brand level <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>. For background (parent-level figures, not Roewe-brand): in FY2025 the parent reported consolidated total operating revenue of RMB656.24 billion, up 4.57%, and net profit attributable to shareholders of the parent (归属于上市公司股东的净利润, i.e. net profit attributable to owners of the parent, not merely to ordinary shareholders) of RMB10.11 billion, up 506.5%; net profit after deducting non-recurring items was RMB7.42 billion, turning from a loss to a profit, and gross margin was 10.09% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>. On sales, in 2025 the group sold 4.507 million vehicles (up 12.3%), of which self-owned brands were 2.928 million (up 21.6%, 65% of the total), new-energy vehicles were 1.643 million (up 33.1%), and exports plus overseas-base sales were 1.071 million (up 3.1%) <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s28]</a>; SAIC Motor Passenger Vehicle (Roewe plus MG combined) sold 886,742 vehicles in 2025, up 25.42% <a href=\"https://www.saicmotor.com/e/investor_relations/sales_volume/63742.shtml\">[s2]</a>. In H1 2026 the parent reported consolidated total operating revenue of RMB298.65 billion and net profit attributable to shareholders of the parent of RMB5.15 billion, with core net profit (excluding foreign-exchange and impairment effects) of RMB7.87 billion, a gross margin of 12.6%, and operating cash flow of RMB54.3 billion <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s6]</a>. The parent's full financial tables are covered in the SAIC Motor deep-dive (data/company-research/saic.json). This page presents only publicly disclosed brand-level information and does not constitute any trading recommendation.",
+    "note_zh": "荣威为上汽集团旗下品牌，未单独上市、不单独披露财务报表，故本表为空（financials.rows 为空数组）。荣威的营收与利润并入母公司上海汽车集团股份有限公司（上交所 600104，中国企业会计准则，人民币）合并报表，未按品牌单独拆分 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。供背景参考（以下均为母公司口径，非荣威品牌层面）：2025 财年上汽集团合并营业总收入 6562.44 亿元、同比增长 4.57%；归属于上市公司股东的净利润（即「归母净利润」，口径为归属于母公司所有者的净利润，而非仅归属于普通股股东的净利润）101.06 亿元、同比增长 506.5%；归属于上市公司股东的扣除非经常性损益的净利润 74.23 亿元，实现扭亏为盈；毛利率 10.09% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。销量方面，2025 年上汽集团整车销售 450.7 万辆、同比增长 12.3%；自主品牌 292.8 万辆、同比增长 21.6%、占集团销量的 65%；新能源汽车 164.3 万辆、同比增长 33.1%；出口及海外基地销售 107.1 万辆、同比增长 3.1% <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s28]</a>；上汽乘用车（荣威与 MG 合计）2025 年销量 886,742 辆、同比增长 25.42% <a href=\"https://www.saicmotor.com/e/investor_relations/sales_volume/63742.shtml\">[s2]</a>。2026 年上半年，母公司合并营业总收入 2986.5 亿元、归母净利润 51.5 亿元；剔除汇兑及减值影响后的核心归母净利润 78.7 亿元；毛利率 12.6%；经营活动现金流量净额 543 亿元 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml\">[s6]</a>。母公司完整财务表见上汽集团深度研究（data/company-research/saic.json）。本页仅呈现品牌层面的公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Roewe (荣威) is SAIC Motor's first self-owned passenger-car brand, launched in October 2006 as a medium-to-high-end self-owned marque and built on technology SAIC acquired from Britain's MG Rover <a href=\"https://www.saicmotor.com/english/history/q1.html\">[s1]</a><a href=\"https://www.cnfin.com/jgdt-lb/detail/20211023/3432435_1.html\">[s7]</a>. It is operated by SAIC Motor Passenger Vehicle, the passenger-car unit of the listed SAIC Motor Corporation (Shanghai Stock Exchange 600104) that also runs the MG brand; the group's ultimate controller is the Shanghai State-owned Assets Supervision and Administration Commission <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>.</p><p>Today Roewe is positioned as SAIC's mainstream domestic family brand, spanning fuel, plug-in hybrid, extended-range and pure-electric models, while MG is positioned as the group's young, global brand <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a><a href=\"https://www.roewe.com.cn/\">[s4]</a>. After peaking at about 460,000 units in 2018 (Yicai), Roewe's sales fell for several years before recovering to about 177,000 units of domestic retail in 2025, up 25% year-on-year <a href=\"https://www.yicai.com/news/100718435.html\">[s29]</a><a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>. In 2026, its 20th anniversary, the brand is pursuing an AI-native product push led by the Jiayue 07, its first AI-native extended-range SUV, launched on 23 October 2026 at a guide price of RMB127,800-152,800 <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a>.</p><p>SAIC Motor Passenger Vehicle executives have said Roewe has a solid technology base in the DMH super hybrid and needs to polish the brand with technology rather than compete only on price <a href=\"https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html\">[s12]</a>. Brand general manager Qian Yang said Roewe will keep cultivating the RMB150,000-class mainstream family market and pursue technology parity <a href=\"https://www.bkeconomy.com/detail-1787566527168978.html\">[s30]</a>. Brand-level financials are not separately disclosed; Roewe's results are consolidated within SAIC Motor <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>.</p>",
+      "zh": "<p>荣威（Roewe）是上汽集团首个自主乘用车品牌，2006 年 10 月发布，定位中高端自主品牌，基于上汽从英国 MG 罗孚收购的技术打造 <a href=\"https://www.saicmotor.com/english/history/q1.html\">[s1]</a><a href=\"https://www.cnfin.com/jgdt-lb/detail/20211023/3432435_1.html\">[s7]</a>。它由上汽乘用车运营——该板块隶属上交所上市（600104）的上汽集团，同时运营 MG 品牌；集团最终实际控制人为上海市国有资产监督管理委员会 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。</p><p>如今荣威定位为上汽面向国内主流家庭用户的品牌，覆盖燃油、插电混动、增程与纯电车型；MG 则定位年轻化、全球化品牌 <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a><a href=\"https://www.roewe.com.cn/\">[s4]</a>。荣威销量在 2018 年达到约 46 万辆峰值（第一财经口径）后连续多年下滑，2025 年国内零售回升至约 17.7 万辆、同比增长 25% <a href=\"https://www.yicai.com/news/100718435.html\">[s29]</a><a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。2026 年品牌迎来 20 周年，正以 AI 原生序列为先导推进产品攻势，其首款 AI 原生增程 SUV 家越 07 已于 2026 年 10 月 23 日以 12.78 万—15.28 万元指导价上市 <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a>。</p><p>上汽乘用车管理层多次表示，荣威在 DMH 超级混动等技术上底子扎实，需要用技术擦亮品牌、而非只靠价格竞争 <a href=\"https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html\">[s12]</a>。品牌事业部总经理钱漾表示，荣威将持续深耕 15 万级主流家用市场、推进技术平权 <a href=\"https://www.bkeconomy.com/detail-1787566527168978.html\">[s30]</a>。品牌层面经营与财务数据未单独披露，荣威业绩并入上汽集团合并报表 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Positioning and business structure</h3><p>Roewe is SAIC's mainstream domestic family brand; management has set a clear division of labour in which MG targets young, global buyers while Roewe focuses on mainstream domestic family users <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a>. The in-sale lineup on the official site spans the i5 and i6 fuel sedans, the pure-electric D6, the D7 EV and D7 DMH, the M7 DMH, the iMAX8 MPV family, the new R7 and 2025 F7 (the former Feifan models), and the Jiayue 07 extended-range SUV <a href=\"https://www.roewe.com.cn/\">[s4]</a>. Most of its new-energy models sit in the RMB70,000-150,000 household band <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>. With the i6 launched in April 2026 the brand has returned to the entry fuel-sedan band, where the i6 carries a 15.6-inch 2.5K screen and a Qualcomm Snapdragon 8155 chip <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>.</p><h3>Technology and platforms</h3><p>Roewe draws on SAIC's shared technology base. The DMH super hybrid, used by the D7 DMH and M7 DMH, features a five-in-one powertrain control unit (PICU) and a P1+P3 dual-motor hybrid transmission, and was named a 2023 top-ten engine/hybrid system by the China Heart awards <a href=\"https://www.saicmotor.com/e/latest_news/roewe/60292.shtml\">[s24]</a>. SAIC's plug-in hybrid line, which the DMH system continues, won a second prize of the State Science and Technology Advancement Award in 2017; in October 2024 the D7 DMH World Champion Edition set a Guinness World Record of 2,208 km on a single tank and charge, with average fuel consumption of 2.49 L/100km <a href=\"https://www.saicmotor.com/e/latest_news/roewe/60292.shtml\">[s24]</a>. The D7 EV is built on the Nebula pure-electric platform and uses the Rubik's Cube battery <a href=\"https://auto.ce.cn/auto/gundong/202311/09/t20231109_38785446.shtml\">[s11]</a>. In the cockpit, the brand has moved from the RX5's Banma system in 2016 to the Jiayue 07's Doubao cockpit assistant, developed with ByteDance's Volcano Engine, plus the Momenta R7 world model and XHEART X7 chip on the CPP AI-native architecture <a href=\"https://news.qq.com/rain/a/20261024A0DQUI00\">[s31]</a>.</p><h3>Sales and market position</h3><p>Roewe's annual sales peaked in 2018 and then fell for several years. Yicai reported about 460,000 units in 2018 (up 20%) and about 420,000 in 2019 (up 4%); later brand-level annual totals are not given in Yicai or in company filings <a href=\"https://www.yicai.com/news/100718435.html\">[s29]</a>. In 2025 domestic retail recovered to about 177,000 units, up 25% year-on-year, but media reported January-August 2026 volume of 62,200 units, down 42.29% year-on-year (August terminal sales of 5,285 units) <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>.</p><p>The 2025 recovery was highly concentrated in one fuel model: the i5 sold about 81,000 units, nearly half the brand's total, at a terminal price from about RMB44,900; new-energy volume remained small, with the D7 at about 24,000, the M7 DMH at about 11,000 and the i6 MAX EV at about 6,320 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>. Media reported that in January-August 2026 the i5 fell to about 25,200 units, the i6 sold about 6,743 units after launch, and the pure-electric D6 reached about 11,443 units <a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>.</p><h3>Overseas and production</h3><p>Roewe is primarily a domestic brand; the group's overseas business is led by MG, with 2025 exports and overseas-base sales of 1.071 million units (up 3.1%) and MG selling over 300,000 units in Europe <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s28]</a>. Roewe does not separately disclose production capacity or plants at brand level; its vehicles are built within SAIC Motor Passenger Vehicle's production system <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>.</p>",
+      "zh": "<h3>定位与业务结构</h3><p>荣威是上汽面向国内主流家庭用户的品牌，管理层明确双品牌分工——MG 面向年轻与全球市场，荣威聚焦国内主流家庭用户 <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a>。官网在售产品线包括 i5、i6 燃油轿车，纯电 D6，D7 EV 与 D7 DMH，M7 DMH，iMAX8 MPV 车系，原飞凡的「全新 R7」「2025 款 F7」，以及增程 SUV 家越 07 <a href=\"https://www.roewe.com.cn/\">[s4]</a>。其新能源车型大多分布在 7 万—15 万元家用市场 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。凭借 2026 年 4 月上市的 i6，品牌重回入门燃油家轿价格带，i6 搭载 15.6 英寸 2.5K 中控屏与高通骁龙 8155 芯片 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。</p><h3>核心技术与平台</h3><p>荣威依托上汽集团共享技术底座。D7 DMH、M7 DMH 搭载的 DMH 超级混动采用五合一动力控制单元（PICU）与 P1+P3 双电机混动专用变速箱，获评 2023 年「中国心」十佳发动机及混动系统 <a href=\"https://www.saicmotor.com/e/latest_news/roewe/60292.shtml\">[s24]</a>。上汽插电混动技术（DMH 前身）2017 年获国家科技进步二等奖；2024 年 10 月 D7 DMH 世界冠军版以满油满电续航 2208 公里、平均油耗 2.49 升/百公里创吉尼斯世界纪录 <a href=\"https://www.saicmotor.com/e/latest_news/roewe/60292.shtml\">[s24]</a>。D7 EV 基于星云纯电平台、搭载魔方电池 <a href=\"https://auto.ce.cn/auto/gundong/202311/09/t20231109_38785446.shtml\">[s11]</a>。座舱方面，从 2016 年 RX5 的斑马智行，演进到 2026 年家越 07 基于 CPP AI 原生架构、与字节跳动火山引擎联合开发的豆包座舱助手及 Momenta R7 世界模型、XHEART X7 芯片 <a href=\"https://news.qq.com/rain/a/20261024A0DQUI00\">[s31]</a>。</p><h3>销量与市场地位</h3><p>荣威年销量 2018 年达峰值后连年下滑。第一财经报道 2018 年约 46 万辆（同比 +20%）、2019 年约 42 万辆（同比 +4%）；此后荣威品牌单独年销量未再出现在第一财经或公司公告里 <a href=\"https://www.yicai.com/news/100718435.html\">[s29]</a>。2025 年国内零售回升至约 17.7 万辆、同比增长 25%；但据媒体报道，2026 年 1—8 月累计销量回落至 6.22 万辆、同比下降 42.29%（8 月单月终端销量 5285 辆）<a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>。</p><p>2025 年的回升高度依赖单一燃油车型：i5 全年零售约 8.1 万辆、接近品牌总量的近一半，终端起售价约 4.49 万元；新能源规模仍小，D7 约 2.4 万辆、M7 DMH 约 1.1 万辆、i6 MAX EV 约 6320 辆 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。据媒体报道，2026 年 1—8 月 i5 销量回落至约 2.52 万辆、i6 上市后累计约 6743 辆、纯电 D6 累计约 1.14 万辆 <a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>。</p><h3>海外与生产</h3><p>荣威以国内市场为主，集团海外业务主要由 MG 承担——2025 年上汽出口及海外基地销售 107.1 万辆、同比增长 3.1%，MG 在欧洲市场销量超 30 万辆 <a href=\"https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml\">[s28]</a>。荣威品牌层面未单独披露产能与工厂信息，产品由上汽乘用车生产体系统一制造 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>As a brand of the state-owned SAIC Motor Corporation, Roewe has no individual founder; the brand was created by SAIC in 2006 after the group acquired Rover technology <a href=\"https://www.cnfin.com/jgdt-lb/detail/20211023/3432435_1.html\">[s7]</a>.</p><h3>Current management</h3><p>Roewe is run by a brand business unit inside SAIC Motor Passenger Vehicle, which also operates MG <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s18]</a>.</p><ul><li><strong>Lu Xiao (卢晓)</strong> — general manager of SAIC Motor Passenger Vehicle since 28 July 2026, replacing Wang Jun. He was previously general manager of SAIC-GM, and earlier a long-time executive at the Pan Asia Technical Automotive Center, which he joined in 1997, leading development of the Buick Regal, LaCrosse and Chevrolet Malibu; media describe him as a Chinese chief engineer on a GM global platform <a href=\"https://auto.ce.cn/auto/gundong/202607/t20260728_3113513.shtml\">[s26]</a><a href=\"https://www.bitauto.com/article/1003113299848\">[s16]</a>.</li><li><strong>Yu Jingmin (俞经民)</strong> — executive deputy general manager of SAIC Motor Passenger Vehicle; previously party secretary of SAIC Volkswagen and executive deputy general manager of sales and marketing there <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s18]</a><a href=\"https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html\">[s12]</a><a href=\"https://auto.cyol.com/gb/articles/2024-10/30/content_4w2nOxUA9q.html\">[s9]</a><a href=\"https://news.qq.com/rain/a/20250219A03UF100\">[s27]</a>.</li><li><strong>Zhang Liang (张亮)</strong> — deputy general manager of SAIC Motor Passenger Vehicle and general manager of its sales company <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a><a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>.</li><li><strong>Qian Yang (钱漾)</strong> — general manager of the Roewe brand business unit, who moved from SAIC Volkswagen (media-reported) <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a><a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>.</li></ul><p>At the March 2026 media briefing, Zhang Liang said Roewe must 'regain its original aspiration, go upmarket, and break away from low-efficiency internal competition, returning to the RMB200,000-class market' <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>.</p><h3>Ownership and governance</h3><p>Roewe is not a separate listed entity; it belongs to SAIC Motor (Shanghai Stock Exchange 600104), whose ultimate controller, per the annual report, is the Shanghai State-owned Assets Supervision and Administration Commission <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>荣威是国有控股上汽集团旗下品牌，无单一创始人；品牌由上汽在取得罗孚技术后于 2006 年创建 <a href=\"https://www.cnfin.com/jgdt-lb/detail/20211023/3432435_1.html\">[s7]</a>。</p><h3>现任核心管理层</h3><p>荣威由上汽乘用车旗下的品牌事业部运营，上汽乘用车同时运营 MG 品牌 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s18]</a>。</p><ul><li><strong>卢晓</strong>——上汽乘用车总经理，2026 年 7 月 28 日起任，接替王骏；此前任上汽通用总经理，更早长期在泛亚汽车技术中心工作（1997 年加入），主导别克君威、君越、雪佛兰迈锐宝等车型研发，据媒体报道为通用全球平台中国籍总工程师 <a href=\"https://auto.ce.cn/auto/gundong/202607/t20260728_3113513.shtml\">[s26]</a><a href=\"https://www.bitauto.com/article/1003113299848\">[s16]</a>。</li><li><strong>俞经民</strong>——上汽乘用车常务副总经理，此前任上汽大众党委书记、销售与市场执行副总经理 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml\">[s18]</a><a href=\"https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html\">[s12]</a><a href=\"https://auto.cyol.com/gb/articles/2024-10/30/content_4w2nOxUA9q.html\">[s9]</a><a href=\"https://news.qq.com/rain/a/20250219A03UF100\">[s27]</a>。</li><li><strong>张亮</strong>——上汽乘用车副总经理、销售公司总经理 <a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a><a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。</li><li><strong>钱漾</strong>——荣威品牌事业部总经理，由上汽大众调任（据媒体报道）<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a><a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>。</li></ul><p>在 2026 年 3 月媒体沟通会上，张亮提出荣威要「找回初心、要贵、要脱离低效的内卷，重新杀回 20 万级市场」<a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。</p><h3>股权与治理</h3><p>荣威并非独立上市主体，隶属上交所上市（600104）的上汽集团；据 2025 年年度报告，集团最终实际控制人为上海市国有资产监督管理委员会 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p>In the mainstream household market, Roewe's new-energy models (D7, M7 DMH, D6) are positioned against BYD's two sales networks and Geely's Galaxy on value for money, while the i6 fuel sedan targets the Geely 5th-gen Emgrand, Nissan Sylphy Classic and Lavida XR <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>. The Jiayue 07 enters the RMB120,000-150,000 extended-range SUV segment as a large five-seat SUV, differentiating through its AI-native positioning (Momenta R7 world model and Doubao cockpit) <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a><a href=\"https://news.qq.com/rain/a/20261024A0DQUI00\">[s31]</a>.</p><p><strong>Our judgment.</strong> Roewe's competitive base rests on the SAIC group's technology platforms (DMH hybrid, Nebula pure-electric platform, Banma/Doubao cockpit) and a large-volume fuel-car base in the i5 <a href=\"https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html\">[s12]</a><a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>. Its relative weaknesses are sales concentration in a single fuel model (the i5 was nearly half of 2025 volume), a small new-energy share, and a long decline from the 2018 peak, which together suggest weakened brand equity in a crowded mainstream market <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://news.qq.com/rain/a/20240308A08BS800\">[s21]</a>. Wu Bing, a former general manager of SAIC Motor Passenger Vehicle, once reflected in media interviews that Roewe had lost its way pursuing leads and value-for-money input-output ratios and forgot to tell consumers what the brand is <a href=\"https://news.qq.com/rain/a/20240308A08BS800\">[s21]</a>.</p>",
+      "zh": "<p>在主流家用市场，荣威的新能源车型（D7、M7 DMH、D6 等）对标比亚迪两网及吉利银河、走性价比路线；2026 年上市的 i6 燃油家轿对标吉利 5 代帝豪、轩逸经典、朗逸新锐等主流车型 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。家越 07 进入 12 万—15 万元级增程 SUV 细分市场，定位大五座增程 SUV，以「AI 原生」（Momenta R7 世界模型、豆包座舱助手）作为差异化卖点 <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a><a href=\"https://news.qq.com/rain/a/20261024A0DQUI00\">[s31]</a>。</p><p><strong>我们的判断。</strong>荣威的竞争基础在于上汽集团的技术平台（DMH 混动、星云纯电平台、斑马/豆包座舱）与 i5 构成的燃油车销量基本盘 <a href=\"https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html\">[s12]</a><a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。相对短板是销量高度集中于单一燃油车型（i5 约占 2025 年销量的近一半）、新能源占比偏低，以及自 2018 年峰值以来的长期下滑，反映出在竞争激烈的主流市场中品牌影响力有所削弱 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://news.qq.com/rain/a/20240308A08BS800\">[s21]</a>。上汽集团副总裁吴冰（曾任上汽乘用车总经理）曾反思，荣威过去几年「迷失在追求线索、性价比的投入产出比」，忘了告诉大家荣威品牌到底是什么 <a href=\"https://news.qq.com/rain/a/20240308A08BS800\">[s21]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> For 2026, its 20th anniversary, Roewe announced a plan to launch seven new models at a roughly one-per-quarter cadence and set an AI-native product direction; at the March 2026 briefing the company also said the AI-native high-end series targets the market above RMB200,000, the i6 would launch in April, and a brand night on 21 April would unveil the new series <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://auto.ce.cn/auto/gundong/202603/t20260311_2821070.shtml\">[s25]</a>. The first AI-native model, the Jiayue 07, launched on 23 October 2026 at a guide price of RMB127,800-152,800 and a limited-time benefit price of RMB119,800-144,800 <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a><a href=\"https://news.qq.com/rain/a/20261024A0DQUI00\">[s31]</a>. Brand general manager Qian Yang said Roewe will keep cultivating the RMB150,000-class mainstream family market and pursue technology parity, adapting premium smart features and scenario-based experiences to mainstream consumers <a href=\"https://www.bkeconomy.com/detail-1787566527168978.html\">[s30]</a>.</p><p><strong>Our judgment.</strong> Whether Roewe can sustain its 2025 recovery depends on two premises: broadening a lineup still concentrated in the i5, and turning the AI-native Jiayue series into volume. Media reported January-August 2026 sales down 42.29% year-on-year, so the recovery is not yet established <a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>. The AI-native positioning and the group's hybrid and battery technology provide a basis for differentiation, but their contribution in a price-competitive mainstream segment remains to be demonstrated <a href=\"https://www.bkeconomy.com/detail-1787566527168978.html\">[s30]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>2026 年是荣威品牌 20 周年，荣威宣布以约每三个月一款的节奏全年推出 7 款全新车型，并确立 AI 原生方向；3 月沟通会上公司另表示 AI 原生高端序列聚焦 20 万元以上市场、i6 于 4 月上市、4 月 21 日品牌之夜揭晓新序列 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://auto.ce.cn/auto/gundong/202603/t20260311_2821070.shtml\">[s25]</a>。首款 AI 原生车型家越 07 已于 2026 年 10 月 23 日上市，官方指导价 12.78 万—15.28 万元、限时权益价 11.98 万—14.48 万元 <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a><a href=\"https://news.qq.com/rain/a/20261024A0DQUI00\">[s31]</a>。品牌事业部总经理钱漾表示，荣威将持续深耕 15 万级主流家用市场、推进技术平权，把高端智能配置与场景化体验适配主流消费群体 <a href=\"https://www.bkeconomy.com/detail-1787566527168978.html\">[s30]</a>。</p><p><strong>我们的判断。</strong>荣威能否延续 2025 年的回升，取决于两点——一是拓宽目前仍高度依赖 i5 的产品结构，二是让 AI 原生家越序列真正放量。据媒体报道 2026 年 1—8 月销量同比下滑 42.29%，显示回升尚未稳固 <a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>。AI 原生定位及集团在混动、电池方面的技术为其差异化提供了基础，但在价格竞争激烈的主流市场能否兑现为销量与利润，仍有待验证 <a href=\"https://www.bkeconomy.com/detail-1787566527168978.html\">[s30]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html\">[s15]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Sales concentration and decline.</strong> The i5 was nearly half of 2025 volume, and media reported January-August 2026 sales down 42.29% year-on-year, concentrating risk in a single fuel model amid a shrinking fuel-car market <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>.</li><li><strong>Weak new-energy traction.</strong> Media data show the D7, M7 DMH and other new-energy models selling at modest scale, leaving the brand exposed in the segment that is growing fastest <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>.</li><li><strong>Price competition.</strong> Roewe's mainstream positioning places it in the most price-competitive household band, where its value-for-money approach faces sustained pressure from BYD and Geely Galaxy <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>.</li><li><strong>Brand-equity erosion.</strong> Years of declining sales since the 2018 peak and repeated positioning adjustments have left the brand's identity unclear, as management acknowledged in media interviews <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://news.qq.com/rain/a/20240308A08BS800\">[s21]</a>.</li><li><strong>AI-native execution and delivery.</strong> The Jiayue 07's AI-native cockpit and assisted-driving features are new, and the conversion of pre-sale orders (over 51,000 reported) into deliveries, as well as the real-world performance of the Doubao cockpit and assisted driving, remain to be verified after launch <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a>.</li><li><strong>Group dependence.</strong> Roewe does not report standalone financials, so its performance and funding depend on the SAIC group's passenger-vehicle business <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>.</li></ul>",
+      "zh": "<ul><li><strong>销量集中与下滑。</strong>i5 约占 2025 年销量的近一半，且媒体报道 2026 年 1—8 月销量同比下滑 42.29%，在燃油车市场整体收缩背景下风险集中于单一车型 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://wap.zhengguannews.cn/html/zgh/426123.html\">[s17]</a>。</li><li><strong>新能源乏力。</strong>媒体数据显示 D7、M7 DMH 等新能源车型销量规模偏小，品牌在增长最快的新能源细分市场中竞争力偏弱 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。</li><li><strong>价格竞争。</strong>荣威主打主流家用区间，处于价格竞争最激烈的市场，其性价比路线面临比亚迪、吉利银河的持续压力 <a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a>。</li><li><strong>品牌资产削弱。</strong>自 2018 年峰值以来的多年下滑与反复的定位调整，使品牌形象有所失焦（管理层在媒体沟通会中亦提及）<a href=\"https://news.qq.com/rain/a/20260313A05T2F00\">[s10]</a><a href=\"https://news.qq.com/rain/a/20240308A08BS800\">[s21]</a>。</li><li><strong>AI 原生落地与交付。</strong>家越 07 的 AI 原生座舱与辅助驾驶均为新功能，预售订单（荣威称超 5.1 万辆）能否转化为实际交付，以及豆包座舱、辅助驾驶的实际表现，仍有待上市后验证 <a href=\"https://www.xkb.com.cn/articleDetail/532914\">[s13]</a>。</li><li><strong>集团依赖。</strong>荣威不单独披露财务，其业绩与资金支持依赖于上汽集团乘用车板块 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s3]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "上汽集团官网英文·Roewe brand history（品牌沿革，无发布日期，日期为核查访问日）", "url": "https://www.saicmotor.com/english/history/q1.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "上汽集团官网投资者关系·整车销量数据（2025年12月/全年）", "url": "https://www.saicmotor.com/e/investor_relations/sales_volume/63742.shtml", "date": "2026-01-06", "tier": "A" },
+    { "id": "s3", "name": "上海汽车集团股份有限公司2025年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s4", "name": "荣威官方网站·车型与售价（无发布日期，日期为核查访问日）", "url": "https://www.roewe.com.cn/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "荣威官方网站·家越07车型页（无发布日期，日期为核查访问日）", "url": "https://www.roewe.com.cn/vehicles/jiayue07", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "上汽集团官网·上汽集团发布2026年半年报（新闻稿）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/65255.shtml", "date": "2026-08-31", "tier": "A" },
+    { "id": "s7", "name": "中国金融信息网·自主品牌擎旗者 上汽荣威15年向上之路", "url": "https://www.cnfin.com/jgdt-lb/detail/20211023/3432435_1.html", "date": "2021-10-23", "tier": "B" },
+    { "id": "s8", "name": "中国经济网·荣威飞凡将重整产品线 飞凡一款新车推迟上市", "url": "https://auto.ce.cn/auto/gundong/202410/30/t20241030_39186426.shtml", "date": "2024-10-30", "tier": "B" },
+    { "id": "s9", "name": "中国青年网·单飞三年 飞凡回归上汽乘用车", "url": "https://auto.cyol.com/gb/articles/2024-10/30/content_4w2nOxUA9q.html", "date": "2024-10-30", "tier": "B" },
+    { "id": "s10", "name": "腾讯新闻（汽车产经）·荣威再冲高端、MG坚守个性 上汽乘用车不想随大流", "url": "https://news.qq.com/rain/a/20260313A05T2F00", "date": "2026-03-13", "tier": "B" },
+    { "id": "s11", "name": "中国经济网·欲以技术突围，荣威D7上市权益价12.18万起", "url": "https://auto.ce.cn/auto/gundong/202311/09/t20231109_38785446.shtml", "date": "2023-11-09", "tier": "B" },
+    { "id": "s12", "name": "中国金融信息网·长期主义进入回报期：荣威飞凡、MG环比双涨", "url": "https://www.cnfin.com/gs-lb/detail/20250107/4170094_1.html", "date": "2025-01-07", "tier": "B" },
+    { "id": "s13", "name": "新快网·荣威家越07正式上市，售价11.98万元起，先期订单突破5.1万辆", "url": "https://www.xkb.com.cn/articleDetail/532914", "date": "2026-10-24", "tier": "B" },
+    { "id": "s15", "name": "中证网·上汽乘用车卢晓：工程师思维要让位用户场景", "url": "https://www.cs.com.cn/ssgs/01/2026/09/24/detail_2026092410041448.html", "date": "2026-09-24", "tier": "B" },
+    { "id": "s16", "name": "易车·卢晓履新后首次媒体深谈：信心、底牌与荣威的新答卷（无发布日期，日期为核查访问日）", "url": "https://www.bitauto.com/article/1003113299848", "date": "2026-10-29", "tier": "B" },
+    { "id": "s18", "name": "上汽集团官网转载上海汽车报·改革再深化！上汽大乘用车（管理层介绍）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61898.shtml", "date": "2025-06-12", "tier": "B" },
+    { "id": "s19", "name": "新浪新闻（光明日报）·百年品牌的中国故事", "url": "https://news.sina.com.cn/o/2006-10-26/015410325561s.shtml", "date": "2006-10-26", "tier": "B" },
+    { "id": "s20", "name": "央视网财经·荣威750售23.18-27.68万 中高级车欲洗牌", "url": "https://finance.cctv.com/20070131/103883.shtml", "date": "2007-01-31", "tier": "B" },
+    { "id": "s23", "name": "英国贸工部提交下议院贸易与工业委员会关于MG Rover的备忘录", "url": "https://publications.parliament.uk/pa/cm200506/cmselect/cmtrdind/1075/ucm202.htm", "date": "2006-03-22", "tier": "A" },
+    { "id": "s24", "name": "上汽集团官网英文·Roewe D7 DMH sets a Guinness World Record（2208km）", "url": "https://www.saicmotor.com/e/latest_news/roewe/60292.shtml", "date": "2024-10-28", "tier": "A" },
+    { "id": "s25", "name": "中国经济网·荣威向上突破、MG锐化年轻形象，2026年上汽乘用车开启变革大年", "url": "https://auto.ce.cn/auto/gundong/202603/t20260311_2821070.shtml", "date": "2026-03-11", "tier": "B" },
+    { "id": "s26", "name": "中国经济网·卢晓转战自主板块，履新上汽乘用车总经理", "url": "https://auto.ce.cn/auto/gundong/202607/t20260728_3113513.shtml", "date": "2026-07-28", "tier": "B" },
+    { "id": "s28", "name": "上汽集团官网·上汽集团发布2025年年报：筑底企稳显韧性（新闻稿）", "url": "https://www.saicmotor.com/chinese/xwzx/xwk/2026/64093.shtml", "date": "2026-04-01", "tier": "A" },
+    { "id": "s29", "name": "第一财经·换标成最优解？上汽荣威三度冲击高端市场", "url": "https://www.yicai.com/news/100718435.html", "date": "2020-07-30", "tier": "B" },
+    { "id": "s30", "name": "新京报贝壳财经·对话荣威钱漾：告别参数内卷，场景化与原生AI成竞争新变量", "url": "https://www.bkeconomy.com/detail-1787566527168978.html", "date": "2026-08-24", "tier": "B" },
+    { "id": "s31", "name": "新京报贝壳财经（腾讯新闻转载）·荣威家越07上市，钱漾：不做速成车", "url": "https://news.qq.com/rain/a/20261024A0DQUI00", "date": "2026-10-24", "tier": "B" },
+    { "id": "s17", "name": "正观新闻·销量跌超四成、钱漾屡战屡败，荣威这次能靠家越07翻盘吗", "url": "https://wap.zhengguannews.cn/html/zgh/426123.html", "date": "2026-10-10", "tier": "C" },
+    { "id": "s21", "name": "腾讯新闻（扉旅汽车）·上汽荣威，翻盘太难", "url": "https://news.qq.com/rain/a/20240308A08BS800", "date": "2024-03-08", "tier": "C" },
+    { "id": "s27", "name": "腾讯新闻（DoNews）·上汽乘用车进行大规模人事调整 涉及63位中高层干部", "url": "https://news.qq.com/rain/a/20250219A03UF100", "date": "2025-02-19", "tier": "C" }
+  ]
+}

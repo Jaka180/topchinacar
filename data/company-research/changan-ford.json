@@ -1,0 +1,329 @@
+{
+  "id": "changan-ford",
+  "name_en": "Changan Ford Automobile Co., Ltd.",
+  "name_zh": "长安福特汽车有限公司",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2001-04-27 (registered)",
+      "value_zh": "2001 年 4 月 27 日（注册成立）",
+      "period": null,
+      "source_ids": ["s6", "s3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Chongqing, China",
+      "value_zh": "中国重庆",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Sino-foreign joint venture: Changan Automobile 50%, Ford side 50% in total",
+      "value_zh": "中外合资（长安汽车 50%、福特方面合计 50%）",
+      "period": null,
+      "source_ids": ["s1", "s24"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Not identified as a single actual controller; the two shareholder sides each hold 50%",
+      "value_zh": "未认定单一实际控制人；双方股东各持 50%",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Registered capital",
+      "label_zh": "注册资本",
+      "value_en": "USD 241 million",
+      "value_zh": "2.41 亿美元",
+      "period": null,
+      "source_ids": ["s3", "s24"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Unlisted",
+      "value_zh": "未上市",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": null,
+      "value_zh": null,
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "2025 财年营业收入",
+      "value_en": "RMB 36.292 billion",
+      "value_zh": "362.92 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Net profit (FY2025)",
+      "label_zh": "2025 财年净利润",
+      "value_en": "RMB 952 million",
+      "value_zh": "9.52 亿元",
+      "period": "FY2025",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Vehicle sales (2025)",
+      "label_zh": "2025 年销量",
+      "value_en": "121,500 wholesale / 99,400 retail",
+      "value_zh": "批发 12.15 万辆、零售 9.94 万辆",
+      "period": "2025",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "label_en": "Overseas sales (2025)",
+      "label_zh": "2025 年海外销量",
+      "value_en": "Not separately disclosed (Ford China incl. Jiangling Ford exported 184,000 vehicles)",
+      "value_zh": "未单独披露（福特中国含江铃福特整车出口 18.4 万辆）",
+      "period": "2025",
+      "source_ids": ["s16"]
+    },
+    {
+      "label_en": "Peak annual sales",
+      "label_zh": "历史峰值销量",
+      "value_en": "About 957,000 units (2016)",
+      "value_zh": "约 95.7 万辆（2016 年）",
+      "period": "2016",
+      "source_ids": ["s9"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2001-04-27",
+      "event_en": "Changan Ford Automobile Co., Ltd. is founded as a 50:50 joint venture between Changan Automobile and Ford Motor, registered in Chongqing with an initial total investment of USD 98 million, as Ford's first passenger-car production base in China.",
+      "event_zh": "长安福特汽车有限公司成立，由长安汽车与福特汽车按 50:50 合资设立，注册于重庆，成立初期总投资额 9800 万美元，是福特在中国的第一个轿车生产基地。",
+      "source_ids": ["s3", "s6"]
+    },
+    {
+      "date": "2003-01-18",
+      "event_en": "The first Ford Fiesta rolls off the line, with volume production starting in March 2003.",
+      "event_zh": "首辆福特嘉年华下线，2003 年 3 月进入批量生产。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2005-09",
+      "event_en": "The Ford Focus three-box sedan is introduced for local production, becoming a high-volume model.",
+      "event_zh": "福特福克斯三厢版引入国产，成为走量车型。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2006-03",
+      "event_en": "Mazda takes a stake and the company is renamed Changan Ford Mazda Automobile Co., Ltd., with shareholdings of Changan 50%, Ford 35% and Mazda 15%.",
+      "event_zh": "马自达参股，公司更名为长安福特马自达汽车有限公司，三方持股变为长安 50%、福特 35%、马自达 15%。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2012-11-30",
+      "event_en": "Changan Ford Mazda is split into two joint ventures: Changan Ford Automobile Co., Ltd. (50:50, Chongqing, Ford business) and Changan Mazda Automobile Co., Ltd. (Nanjing, Mazda business).",
+      "event_zh": "长安福特马自达存续分立为两家合资公司：长安福特汽车有限公司（50:50，重庆，承接福特业务）与长安马自达汽车有限公司（南京，承接马自达业务）。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2013-06",
+      "event_en": "A new engine plant opens in Chongqing (investment of about USD 500 million, capacity of 400,000 units).",
+      "event_zh": "投资约 5 亿美元的长安福特重庆新发动机工厂投产，产能 40 万台。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2014-11",
+      "event_en": "The Chongqing third vehicle plant opens (investment of about USD 600 million), adding 360,000 units of annual capacity.",
+      "event_zh": "投资约 6 亿美元的长安福特重庆第三整车工厂投产，年产能增加 36 万辆。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2015-03",
+      "event_en": "The Hangzhou fourth vehicle plant opens (investment of about USD 760 million), adding 250,000 units of annual capacity.",
+      "event_zh": "投资约 7.6 亿美元的长安福特杭州第四整车工厂投产，年产能增加 25 万辆。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2016",
+      "event_en": "Annual sales reach a record of about 957,000 units, the company's all-time peak.",
+      "event_zh": "年销量达到约 95.7 万辆的历史峰值。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2019-06-05",
+      "event_en": "The State Administration for Market Regulation fines Changan Ford RMB 162.8 million for a vertical monopoly agreement that restricted dealers' minimum resale prices in Chongqing from 2013.",
+      "event_zh": "市场监管总局对长安福特实施纵向垄断协议（2013 年起在重庆限制经销商整车最低转售价格）作出处罚，罚款 1.628 亿元。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2019",
+      "event_en": "Annual sales fall below 200,000 units for the first time, to about 184,000 units.",
+      "event_zh": "年销量首次跌破 20 万辆，降至约 18.4 万辆。",
+      "source_ids": ["s9", "s10"]
+    },
+    {
+      "date": "2021-03-15",
+      "event_en": "CCTV's 3-15 consumer-rights programme reports water-ingress rusting in the dry dual-clutch transmissions of some Fiesta, Focus and EcoSport models built before the end of August 2019; Changan Ford later extends the warranty to 10 years or 240,000 km and refunds earlier self-paid repair costs.",
+      "event_zh": "央视 3·15 晚会报道部分嘉年华、福克斯、翼搏车型（2019 年 8 月底以前生产）干式双离合变速器进水生锈问题；长安福特随后将相关变速器保修期延长至 10 年或 24 万公里，并退还此前自费维修费用。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2022",
+      "event_en": "According to Changjiang Times reporting, Changan Ford posts a net loss of RMB 2.449 billion; Changan's 2022 annual report is cited as saying it shut legacy production lines and booked asset impairments, and the company said it impaired Ford-related plants and booked accelerated depreciation after discontinuing the Focus.",
+      "event_zh": "据长江商报报道，长安福特净亏损 24.49 亿元；该报引述长安汽车 2022 年年报称其为加速振兴关停落后产线、计提资产减值，公司表示福克斯停产后对福特相关工厂计提减值、生产线计提加速折旧。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2023-08",
+      "event_en": "Changan Ford takes over the China operation of the Ford Mustang Mach-E electric SUV, including sales, after-sales and user operations.",
+      "event_zh": "长安福特接手福特电马（Mustang Mach-E）在华运营业务，包括销售、售后及用户运维。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2023-09",
+      "event_en": "Changan Ford NEV Technology Co., Ltd. is established (Changan Ford 60%, Changan Automobile 40%, registered capital RMB 250 million) to run NEV sales and Ford-brand distribution.",
+      "event_zh": "长安福特新能源汽车科技有限公司成立（长安福特持股 60%、长安汽车持股 40%，注册资本 2.5 亿元），负责新能源乘用车及福特品牌车型销售与服务。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2024-05-06",
+      "event_en": "Ford China announces that Ai Xiaoming becomes president of Changan Ford, succeeding He Xiaoqing, who retires on 1 June 2024.",
+      "event_zh": "福特中国宣布艾小明出任长安福特总裁，接替何晓庆（何晓庆于 2024 年 6 月 1 日退休）。",
+      "source_ids": ["s12", "s11"]
+    },
+    {
+      "date": "2024",
+      "event_en": "Changan Ford returns to profit with net profit of RMB 2.09 billion on revenue of RMB 48.306 billion, driven by exports and fixed-cost savings, after a RMB 2.06 billion loss in 2023.",
+      "event_zh": "长安福特扭亏为盈，实现营业收入 483.06 亿元、净利润 20.9 亿元（2023 年为亏损 20.6 亿元），原因系出口增加拉动与固定费用节支。",
+      "source_ids": ["s7", "s1"]
+    },
+    {
+      "date": "2025-11-03",
+      "event_en": "Changan Ford's registration is changed: Zhu Huarong steps down as chairman and Zhao Fei takes over; directors Wang Jun and Wang Hui exit and Liu Hong, Zhang Xiaoyu, Wang Xiaofei and Chen Yuting join the board.",
+      "event_zh": "长安福特完成工商变更：朱华荣卸任董事长、赵非接任；王俊、王辉退出董事席位，刘宏、张晓宇、王孝飞、陈玉婷等新增为董事。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Retail sales fall below 100,000 units (99,400) for the first time; from June 2025 Changan Automobile stops disclosing Changan Ford sales separately in its monthly production and sales reports.",
+      "event_zh": "零售销量首次跌破 10 万辆（9.94 万辆）；自 2025 年 6 月起长安汽车在月度产销快报中不再单独披露长安福特销量。",
+      "source_ids": ["s9", "s8"]
+    },
+    {
+      "date": "2026-06",
+      "event_en": "Changan Automobile lists its 40% stake in Changan Ford NEV Technology for transfer at a reserve price of RMB 154 million (disclosure period to 29 June 2026), after the subsidiary's core business had been suspended since 1 October 2025.",
+      "event_zh": "长安汽车以 1.54 亿元底价挂牌转让所持长安福特新能源 40% 股权（信息披露至 2026 年 6 月 29 日）；该子公司核心业务自 2025 年 10 月 1 日起已停摆。",
+      "source_ids": ["s19"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Ford",
+      "name_zh": "福特",
+      "role_en": "Mainstream passenger-car brand manufactured by Changan Ford; current locally produced models are the Mondeo, Edge L, Explorer and Escape.",
+      "role_zh": "长安福特生产的主流乘用车品牌；在售国产车型为蒙迪欧、锐界 L、探险者、锐际。",
+      "price_band": null,
+      "founded": 1903,
+      "owner_note_en": "Ford is a US brand (founded 1903) whose China passenger-car production is carried out by Changan Ford. Historically the local line-up included the Fiesta, Focus, Taurus, Escort, Kuga, EcoSport and EVOS; after the Focus was discontinued the range was cut to four models (Mondeo, Edge L, Explorer, Escape). In 2025 the Mondeo alone accounted for about 47,000 units, roughly half of brand sales. The Ford Mustang Mach-E, the brand's only battery-electric model, sold just 35 units in China in January-July 2025 and has effectively exited the market. The Mondeo has been exported since 2019, with cumulative exports exceeding 100,000 units by 2025, mainly to the Middle East where it is sold under the Taurus name.",
+      "owner_note_zh": "福特为美国品牌（1903 年创立），在华乘用车生产由长安福特承担。历史上国产车型含嘉年华、福克斯、金牛座、福睿斯、翼虎、翼搏、EVOS 等；福克斯停产后，车型精简至蒙迪欧、锐界 L、探险者、锐际 4 款。2025 年蒙迪欧一款车型贡献约 4.7 万辆、接近品牌销量一半。品牌唯一纯电车型福特电马 2025 年 1–7 月在中国仅售出 35 辆，基本退出市场。福特蒙迪欧自 2019 年起出口，截至 2025 年累计出口突破 10 万辆，主要销往中东并以「金牛座」之名销售。",
+      "status": "active",
+      "source_ids": ["s4", "s9", "s16"]
+    },
+    {
+      "name_en": "Lincoln",
+      "name_zh": "林肯",
+      "role_en": "Luxury brand produced by Changan Ford; locally made models are the Corsair, Nautilus, Aviator and Lincoln Z.",
+      "role_zh": "长安福特生产的豪华品牌；国产车型为冒险家、航海家、飞行家、林肯 Z。",
+      "price_band": null,
+      "founded": 1917,
+      "owner_note_en": "Lincoln is Ford's luxury brand (founded 1917), assembled in China by Changan Ford. Per Lincoln China, the Corsair, Lincoln's first locally produced model, launched on 12 March 2020 with a manufacturer's suggested retail price starting at RMB246,800. The Nautilus is built at the Hangzhou plant and has been exported to North America since 2024; about 31,000 units were sold in the US in 2025. In August 2026 media reported, citing Bloomberg, that Ford will stop exporting the China-made Nautilus to the US and expand US production from 2030, while Lincoln announced the 2027 Corsair Hybrid would be exported from China to North America from early 2027.",
+      "owner_note_zh": "林肯为福特旗下豪华品牌（1917 年创立），在华由长安福特组装。据林肯中国公告，2020 年 3 月 12 日林肯首款国产车型冒险家正式上市，厂商建议零售价 24.68 万元起。航海家由杭州工厂生产，2024 年起返销北美，2025 年在美国销售约 3.1 万辆。2026 年 8 月媒体援引彭博报道，福特将停止向美国出口中国产航海家、自 2030 年起扩大美国本土产能；林肯则宣布 2027 款冒险家混动版将从中国出口北美、自 2027 年初起实施。",
+      "status": "active",
+      "source_ids": ["s5", "s14", "s15"]
+    },
+    {
+      "name_en": "Changan Ford NEV Technology Co., Ltd.",
+      "name_zh": "长安福特新能源汽车科技有限公司（长安福特新能源）",
+      "role_en": "NEV-focused subsidiary of Changan Ford (60%) with Changan Automobile (40%), set up to run NEV sales and Ford-brand distribution; its core business has been suspended since 1 October 2025 and Changan's 40% stake has been listed for transfer.",
+      "role_zh": "长安福特（持股 60%）与长安汽车（持股 40%）合资设立的新能源子公司，负责新能源乘用车及福特品牌车型销售与服务；其核心业务自 2025 年 10 月 1 日起停摆，长安汽车所持 40% 股权已挂牌转让。",
+      "price_band": null,
+      "founded": 2023,
+      "owner_note_en": "Established in September 2023 with registered capital of RMB 250 million (Changan Ford 60%, Changan Automobile 40%). It took over the Mustang Mach-E sales and service operation, but the Mach-E sold only 35 units in China in January-July 2025. From 1 October 2025 the subsidiary stopped undertaking Changan Ford's vehicle and after-sales business and had no further main-business plan. Its 2025 revenue was RMB 913 million with net profit of RMB 52.76 million. Changan Automobile listed its 40% stake for transfer at a reserve price of RMB 154 million (disclosure period to 29 June 2026); as of the research date no public information confirmed the transaction had closed.",
+      "owner_note_zh": "2023 年 9 月成立，注册资本 2.5 亿元，长安福特持股 60%、长安汽车持股 40%。其接手福特电马的销售与售后运营，但电马 2025 年 1–7 月在中国仅售出 35 辆。自 2025 年 10 月 1 日起不再承接长安福特整车及售后业务、且无后续主营业务规划；2025 年营业收入 9.13 亿元、净利润 5275.67 万元。长安汽车以 1.54 亿元底价挂牌转让所持 40% 股权（信息披露至 2026 年 6 月 29 日）；截至研究日未见公开信息确认交易完成。",
+      "status": "active",
+      "source_ids": ["s19", "s9"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP (Chinese Accounting Standards for Business Enterprises), as disclosed by Changan Automobile under the equity method",
+    "rows": [
+      { "fiscal_year": 2021, "revenue": 61765, "gross_margin_pct": null, "net_profit": 2284, "rnd": null, "source_ids": ["s3"] },
+      { "fiscal_year": 2024, "revenue": 48306, "gross_margin_pct": null, "net_profit": 2090, "rnd": null, "source_ids": ["s1"] },
+      { "fiscal_year": 2025, "revenue": 36292, "gross_margin_pct": null, "net_profit": 952, "rnd": null, "source_ids": ["s1"] }
+    ],
+    "note_en": "Changan Ford is an unlisted 50:50 joint venture between Changan Automobile and Ford Motor and does not publish separate full financial statements, so gross margin, R&D, operating cash flow and other items are not disclosed; this table lists only revenue and net profit for the fiscal years Changan has disclosed. Currency is CNY, unit is million, standard is PRC GAAP, as disclosed by Changan under the equity method. Scope note: the net-profit figures are Changan Ford's own total net profit for the venture as a whole (the profit attributable to all its shareholders, Changan and Ford, 50:50), not the profit attributable to owners of a parent company (Changan Ford has no single listed parent), and not Changan Automobile's 50% share of profit as a single shareholder. The 2021 figures (revenue RMB 61,765 million, i.e. 6,176,532 ten-thousand yuan; net profit RMB 2,284 million, i.e. 228,391 ten-thousand yuan) are from Changan's 2022 science-and-technology innovation bond prospectus (s3). The 2024 figures (revenue RMB 48,306 million; net profit RMB 2,090 million) and 2025 figures (revenue RMB 36,292 million, i.e. 3,629,232 ten-thousand yuan; net profit RMB 952 million, i.e. 95,248 ten-thousand yuan) are from the major-investees table of Changan's 2025 annual report (s1). At end-2025 the carrying value of Changan's equity investment in Changan Ford was RMB 1,177,568,078.19 (about RMB 1.178 billion), versus RMB 712,215,024.57 (about RMB 712 million) at end-2024; it is not written down to zero (Changan's 2025 annual report, s1). This is financial disclosure only and does not constitute any trading recommendation.",
+    "note_zh": "长安福特为非上市的中外合资企业（长安汽车、福特汽车各持股 50%），不单独编制披露完整财务报表，毛利率、研发投入、经营现金流等均未公开，故本表仅列出经长安汽车披露的最近财年营业收入与净利润。币种为人民币、单位为百万元、会计准则为中国企业会计准则（由长安汽车按权益法核算并披露）。口径说明：表中「净利润」为长安福特公司自身的净利润，即该合资公司全体股东（长安、福特两方各半）合计应享的净利润，而非「归属于母公司股东的净利润」口径（长安福特无单一上市母公司），亦非长安汽车作为单一股东应占的 50% 份额。2021 年营业收入 617.65 亿元（6,176,532 万元）、净利润 22.84 亿元（228,391 万元），见长安汽车 2022 年科技创新公司债券募集说明书（s3）；2024 年营业收入 483.06 亿元、净利润 20.9 亿元，2025 年营业收入 362.92 亿元（3,629,232 万元）、净利润 9.52 亿元（95,248 万元），见长安汽车 2025 年年度报告「主要控股参股公司」表（s1）。截至 2025 年末，长安汽车对长安福特的权益投资账面价值为 1,177,568,078.19 元（约 11.78 亿元），2024 年末为 712,215,024.57 元（约 7.12 亿元），并非减记至零（长安汽车 2025 年年度报告，s1）。以上仅为财务披露数据，本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Changan Ford Automobile Co., Ltd. (长安福特汽车有限公司) is a passenger-vehicle joint venture between Chongqing Changan Automobile Co., Ltd. and Ford Motor Company, each side holding 50%, registered in Chongqing on 27 April 2001 as Ford's first passenger-car production base in China <a href=\"https://www.chinanews.com/2001-04-26/26/88230.html\">[s6]</a><a href=\"https://disc.static.szse.cn/disc/disk03/finalpage/2022-12-14/af2ef56c-dc60-476b-8adb-c5b39fbb654b.PDF\">[s3]</a>. It now operates two production bases, in Chongqing and Hangzhou, making four Ford-badged models (Mondeo, Edge L, Explorer, Escape) and four Lincoln models (Corsair, Nautilus, Aviator, Lincoln Z) <a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>.</p><p>Once a profit pillar for Changan, its annual sales peaked at about 957,000 units in 2016, then declined: below 200,000 in 2019, a brief recovery to about 304,700 in 2021, about 247,000 in 2024, and 121,500 wholesale / 99,400 retail in 2025, its first year under the 100,000-unit mark <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>. Financially it swung from a RMB 2.06 billion loss in 2023 to a RMB 2.09 billion profit in 2024 on the back of exports and cost cuts, before net profit roughly halved to RMB 952 million in 2025 <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>.</p>",
+      "zh": "<p>长安福特汽车有限公司是重庆长安汽车股份有限公司与美国福特汽车公司各持股 50% 的中外合资乘用车企业，2001 年 4 月 27 日在重庆注册成立，是福特在中国的第一个轿车生产基地 <a href=\"https://www.chinanews.com/2001-04-26/26/88230.html\">[s6]</a><a href=\"https://disc.static.szse.cn/disc/disk03/finalpage/2022-12-14/af2ef56c-dc60-476b-8adb-c5b39fbb654b.PDF\">[s3]</a>。公司现设重庆、杭州两大生产基地，生产福特品牌（蒙迪欧、锐界 L、探险者、锐际）与林肯品牌（冒险家、航海家、飞行家、林肯 Z）共八款车型 <a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>。</p><p>长安福特曾是长安汽车的利润支柱，2016 年销量达约 95.7 万辆的历史峰值，此后逐年下滑：2019 年首次跌破 20 万辆，2021 年短暂回升至约 30.47 万辆，2024 年销量约 24.7 万辆，2025 年批发 12.15 万辆、零售 9.94 万辆，首次跌破 10 万辆 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>。财务上，公司 2023 年亏损 20.6 亿元，2024 年因出口增加与固定费用节支扭亏为盈、实现净利润 20.9 亿元，2025 年净利润同比近乎腰斩至 9.52 亿元 <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Brands and products</h3><p>Changan Ford currently builds four Ford-badged models — Mondeo, Edge L, Explorer and Escape — and four Lincoln models — Corsair, Nautilus, Aviator and Lincoln Z — spanning mid-size sedans and large SUVs <a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>. The line-up has shrunk sharply: the Focus, Escort and Kuga have all been discontinued, and the range was cut to four mainstream models; in 2025 the Mondeo alone accounted for about 47,000 units, roughly half of brand sales <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a><a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>. On the Lincoln side, the Corsair, Lincoln's first locally produced model, launched on 12 March 2020 with a manufacturer's suggested retail price from RMB246,800, followed by local production of the Nautilus, Aviator and Lincoln Z <a href=\"https://www.lincoln.com.cn/about/press-release/article-2020-3-13-2\">[s5]</a><a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>.</p><h3>Production bases and capacity</h3><p>The company now has two production bases, in Chongqing and Hangzhou, down from its peak <a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>. According to Changjiang Times (reprinted by The Paper), at its peak Changan Ford ran five vehicle plants in Chongqing, Harbin and Hangzhou with total capacity of about 1.6 million units; in May 2023 the company told the newspaper that vehicle-plant capacity was then 670,000 units and that no capacity had been disposed of in 2022 <a href=\"https://thepaper.cn/newsDetail_forward_23118259\">[s10]</a>. During its expansion phase the company built the Chongqing No.2 plant (opened February 2012), an engine plant (opened June 2013, capacity 400,000 units), a transmission plant (opened June 2014, initial capacity 400,000 units), the Chongqing third vehicle plant (opened November 2014, adding 360,000 units) and the Hangzhou fourth plant (opened March 2015, adding 250,000 units), making Chongqing once Ford's largest production base outside Michigan <a href=\"https://www.sae-china.org/omember/info.php?id=1227\">[s20]</a>.</p><h3>Exports</h3><p>Exports were a main driver of the 2024 return to profit <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a>. The Ford Mondeo has been exported since 2019, with cumulative exports exceeding 100,000 units by 2025, sold in the Middle East under the Taurus name; the Hangzhou-built Lincoln Nautilus has been exported back to North America since 2024, with about 31,000 units sold in the US in 2025 <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a><a href=\"https://www.guancha.cn/qiche/2026_08_13_827214.shtml\">[s14]</a>. Ford China's overall vehicle exports (including Jiangling Ford) rose from 74,000 in 2022 to 112,000 in 2023, 168,000 in 2024 and 184,000 in 2025 (up 9% year on year) <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a>. Within that matrix, the Jiangling-built Territory is the largest single exported model (95,000 units in 2025, up 28%), named the 2024 Arab Car of the Year in the Middle East, while Changan Ford's Edge L has entered markets such as Mexico; Ford China's export map has expanded to more than 80 countries and regions <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a>.</p><h3>Latest performance and electrification</h3><p>Full-year 2025 net profit of RMB 952 million was 54.4% below 2024's RMB 2.09 billion <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>. For the first half of 2026, Changan Ford's revenue was RMB 13.627 billion, down 25% year on year, and its net profit was RMB 262 million, down 65.2% year on year, which Changan's 2026 interim report attributed mainly to lower sales <a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225528444.PDF\">[s2]</a><a href=\"https://finance.sina.cn/tech/2026-08-29/detail-inipyrwp3612039.d.html\">[s25]</a>. The company's electrification push has largely stalled: the Mustang Mach-E, its only battery-electric model, sold just 35 units in January-July 2025, and the Changan Ford NEV subsidiary suspended its core business from 1 October 2025 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://news.qq.com/rain/a/20260601A0862B00\">[s19]</a>.</p>",
+      "zh": "<h3>品牌与产品</h3><p>长安福特现生产四款福特品牌车型——蒙迪欧、锐界 L、探险者、锐际，以及四款林肯车型——冒险家、航海家、飞行家、林肯 Z，覆盖中型轿车与中大型 SUV <a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>。产品线已大幅收缩：福克斯、福睿斯、翼虎等车型均已停产，主流车型精简至 4 款；2025 年蒙迪欧一款车型贡献约 4.7 万辆、接近品牌销量一半 <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a><a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>。林肯方面，2020 年 3 月 12 日首款国产车型冒险家上市，厂商建议零售价 24.68 万元起，此后陆续国产航海家、飞行家与林肯 Z <a href=\"https://www.lincoln.com.cn/about/press-release/article-2020-3-13-2\">[s5]</a><a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>。</p><h3>生产基地与产能</h3><p>公司现设重庆、杭州两大生产基地，较巅峰时期缩减 <a href=\"https://www.ford.com.cn/careers/CAF\">[s4]</a>。据长江商报（澎湃新闻转载）报道，巅峰时长安福特在重庆、哈尔滨、杭州设有 5 家整车工厂、总产能约 160 万辆；2023 年 5 月公司向其表示当时整车工厂产能为 67 万辆，并称 2022 年未处置产能 <a href=\"https://thepaper.cn/newsDetail_forward_23118259\">[s10]</a>。在产能扩张期，公司先后建成重庆二工厂（2012 年 2 月投产）、发动机工厂（2013 年 6 月投产、产能 40 万台）、变速箱工厂（2014 年 6 月投产、初期产能 40 万台）、重庆第三整车工厂（2014 年 11 月投产、新增 36 万辆）与杭州第四整车工厂（2015 年 3 月投产、新增 25 万辆），重庆一度成为福特在密歇根州以外全球最大的生产基地 <a href=\"https://www.sae-china.org/omember/info.php?id=1227\">[s20]</a>。</p><h3>出口</h3><p>出口是 2024 年扭亏的主要拉动因素 <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a>。福特蒙迪欧自 2019 年起出口，截至 2025 年累计出口突破 10 万辆，在中东以「金牛座」之名销售；杭州工厂生产的林肯航海家自 2024 年起返销北美，2025 年在美国销售约 3.1 万辆 <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a><a href=\"https://www.guancha.cn/qiche/2026_08_13_827214.shtml\">[s14]</a>。福特中国（含江铃福特）整车出口由 2022 年的 7.4 万辆增至 2023 年的 11.2 万辆、2024 年的 16.8 万辆、2025 年的 18.4 万辆（同比增 9%）<a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a>。在该出口矩阵中，江铃福特生产的领睿是出口量最大的单一车型（2025 年出口 9.5 万辆、同比增 28%），在中东获 2024 阿拉伯年度车型奖项，长安福特的锐界 L 亦进入墨西哥等市场；福特中国出口版图已拓展至全球 80 多个国家和地区 <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a>。</p><h3>最新业绩与电动化</h3><p>2025 年全年净利润 9.52 亿元，较 2024 年的 20.9 亿元下降 54.4% <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>。2026 年上半年，长安福特实现营业收入 136.27 亿元、同比减少 25%，净利润 2.62 亿元、同比减少 65.2%；长安汽车 2026 年半年度报告称其主要因销量下滑、利润同比减少 <a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225528444.PDF\">[s2]</a><a href=\"https://finance.sina.cn/tech/2026-08-29/detail-inipyrwp3612039.d.html\">[s25]</a>。公司的电动化推进基本停滞：唯一纯电车型福特电马 2025 年 1–7 月仅售出 35 辆，长安福特新能源子公司核心业务自 2025 年 10 月 1 日起停摆 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://news.qq.com/rain/a/20260601A0862B00\">[s19]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Origin</h3><p>As a 50:50 joint venture, Changan Ford has no individual founder; it was set up in 2001 by Changan Automobile and Ford Motor <a href=\"https://www.chinanews.com/2001-04-26/26/88230.html\">[s6]</a>.</p><h3>Current management</h3><ul><li><strong>Zhao Fei (赵非)</strong> — chairman. He succeeded Zhu Huarong as Changan Ford chairman in a registration change reported on 3 November 2025 <a href=\"https://m.bjnews.com.cn/detail/1762162635129163.html\">[s24]</a>. On 16 October 2026 he was elected chairman and legal representative of Chongqing Changan Automobile (no longer president), while continuing as deputy party secretary, director and general manager of China Changan Automobile Group; his bio lists him as chairman of Changan Ford <a href=\"https://www.jjckb.cn/20261016/c33bc606ffcc4a6481cde369ad8c6d10/c.html\">[s21]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>. Born in 1974, he previously served as assistant to the president and head of the strategy and planning department of Changan Automobile, vice president and executive vice president, and party secretary and executive vice president of Changan Ford, among other roles <a href=\"https://www.jjckb.cn/20261016/c33bc606ffcc4a6481cde369ad8c6d10/c.html\">[s21]</a>.</li><li><strong>Ai Xiaoming (艾小明)</strong> — president, appointed by Ford China on 6 May 2024, reporting to the Changan Ford board <a href=\"https://m.huanqiu.com/article/4Hh0wYc3KF7\">[s12]</a><a href=\"https://auto.youth.cn/xw/202405/t20240508_15240592.htm\">[s11]</a>. Before Ford he spent more than 20 years in manufacturing and consumer electronics, including as CEO of Giant KONE Elevator, president and CEO of Whirlpool China, and a vice president of Schneider Electric China <a href=\"https://auto.youth.cn/xw/202405/t20240508_15240592.htm\">[s11]</a><a href=\"https://m.huanqiu.com/article/4Hh0wYc3KF7\">[s12]</a>. His predecessor He Xiaoqing retired on 1 June 2024 <a href=\"https://m.huanqiu.com/article/4Hh0wYc3KF7\">[s12]</a>.</li><li><strong>Lan Xiangwen (兰祥文)</strong> — party secretary and executive vice president (the Changan-side head), who succeeded Wang Xiaofei in early 2026 <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a><a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>. He previously handled procurement management and Hebei Changan operations and logistics, became general manager of Changan Kaicene in June 2024, and deputy chairman of Changan Kaicene in August 2025 <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>. Wang Xiaofei had taken the post from Yang Dayong in September 2025, also serving as president and product vice president of Changan Ford NEV <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>.</li></ul><h3>Equity and governance</h3><p>Changan Automobile and the Ford side each hold 50% (the registered Ford shareholders are Ford Asia Pacific Auto Holding and Ford Motor (China) Co., Ltd.), and Changan accounts for the venture under the equity method <a href=\"https://m.bjnews.com.cn/detail/1762162635129163.html\">[s24]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>. At end-2025 the carrying value of Changan's equity investment in Changan Ford was RMB 1.178 billion (RMB 712 million at end-2024), not written down to zero <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>.</p>",
+      "zh": "<h3>历史渊源</h3><p>作为 50:50 合资企业，长安福特没有单一创始人，2001 年由长安汽车与福特汽车共同出资设立 <a href=\"https://www.chinanews.com/2001-04-26/26/88230.html\">[s6]</a>。</p><h3>现任核心管理层</h3><ul><li><strong>赵非</strong>——董事长。2025 年 11 月 3 日被报道的工商变更中，赵非接替朱华荣出任长安福特董事长 <a href=\"https://m.bjnews.com.cn/detail/1762162635129163.html\">[s24]</a>。2026 年 10 月 16 日，他被选举为重庆长安汽车董事长、法定代表人（不再担任总裁），同时继续任中国长安汽车集团党委副书记、董事、总经理；其简历载明他现任长安福特董事长 <a href=\"https://www.jjckb.cn/20261016/c33bc606ffcc4a6481cde369ad8c6d10/c.html\">[s21]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>。赵非 1974 年出生，曾任长安汽车总裁助理、战略规划部部长、党支部书记，长安汽车副总裁、执行副总裁，长安福特党委书记、执行副总裁等职 <a href=\"https://www.jjckb.cn/20261016/c33bc606ffcc4a6481cde369ad8c6d10/c.html\">[s21]</a>。</li><li><strong>艾小明</strong>——总裁，2024 年 5 月 6 日由福特中国宣布出任，向长安福特董事会汇报 <a href=\"https://m.huanqiu.com/article/4Hh0wYc3KF7\">[s12]</a><a href=\"https://auto.youth.cn/xw/202405/t20240508_15240592.htm\">[s11]</a>。加入福特前在制造业与消费电子行业工作逾 20 年，曾任巨人通力电梯首席执行官、惠而浦中国总裁兼首席执行官、施耐德电气中国副总裁等职 <a href=\"https://auto.youth.cn/xw/202405/t20240508_15240592.htm\">[s11]</a><a href=\"https://m.huanqiu.com/article/4Hh0wYc3KF7\">[s12]</a>。前任总裁何晓庆于 2024 年 6 月 1 日退休 <a href=\"https://m.huanqiu.com/article/4Hh0wYc3KF7\">[s12]</a>。</li><li><strong>兰祥文</strong>——党委书记、执行副总裁（中方一把手），2026 年初接替王孝飞出任 <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a><a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>。他此前负责采购管理及河北长安运营与物流业务，2024 年 6 月调任长安凯程总经理，2025 年 8 月升任长安凯程副董事长 <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>。王孝飞于 2025 年 9 月接替杨大勇出任该职，并兼任长安福特新能源总裁、产品副总裁 <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>。</li></ul><h3>股权与治理</h3><p>长安汽车与福特方面各持股 50%（登记股东为福特亚太汽车控股有限公司与福特汽车（中国）有限公司），长安汽车按权益法核算 <a href=\"https://m.bjnews.com.cn/detail/1762162635129163.html\">[s24]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>。截至 2025 年末，长安汽车对长安福特的权益投资账面价值为 11.78 亿元（2024 年末 7.12 亿元），并非减记至零 <a href=\"https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF\">[s1]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment.</strong> Changan Ford competes in China's passenger-car market against domestic brands such as BYD, Geely, Changan's own brands, Chery and Great Wall, and against joint-venture players including Volkswagen, Toyota and Honda. Its competitive base rests on the Ford and Lincoln brand franchises and on an export business (Mondeo to the Middle East, Lincoln Nautilus to North America) that supports profitability. Its weaknesses are a shrunken line-up concentrated on the Mondeo and a largely failed electrification push — the Mach-E sold only 35 units in 2025 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>. Jiemian also noted that, chasing per-vehicle profit, the company dropped volume models such as the Focus, leaving a gap in the RMB100,000 price band and holding prices while other joint-venture brands competed on price, which kept eroding its market share <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a>.</p><p><strong>Our judgment.</strong> The 2025 results — retail sales below 100,000 units, net profit halving to RMB 952 million, and a further 31% first-quarter 2026 sales fall — indicate the business is highly sensitive to the domestic price war and to its largely stalled NEV transition <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>. Unlike SAIC-GM, which renewed its joint-venture contract to 2047, Changan Ford had announced no comparable large-scale NEV relaunch as of the research date <a href=\"https://www.xinhuanet.com/auto/20260810/8966db33b1d74e619c3984deea3774ad/c.html\">[s23]</a><a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a>.</p>",
+      "zh": "<p><strong>我们的判断。</strong>长安福特在中国乘用车市场与比亚迪、吉利、长安自主品牌、奇瑞、长城等自主品牌，以及大众、丰田、本田等合资品牌竞争，竞争基础在于福特与林肯的品牌力，以及支撑盈利的出口业务（蒙迪欧出口中东、林肯航海家返销北美）；短板在于大幅收缩且高度集中于蒙迪欧的产品线，以及基本失败的电动化——福特电马 2025 年仅售出 35 辆 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>。界面新闻还指出，为追求单车利润，公司砍掉福克斯等走量车型、在 10 万元价位区间留下产品空白，当其他合资品牌「以价换量」时仍坚守价格，导致市场份额被持续挤压 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a>。</p><p><strong>我们的判断。</strong>2025 年零售跌破 10 万辆、净利润近乎腰斩至 9.52 亿元，2026 年一季度销量再降 31%，显示公司业绩对国内价格战与（基本停滞的）新能源转型节奏高度敏感 <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>。相比已续约至 2047 年的上汽通用，截至研究日长安福特未公布同量级的新能源重启计划 <a href=\"https://www.xinhuanet.com/auto/20260810/8966db33b1d74e619c3984deea3774ad/c.html\">[s23]</a><a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Ford's China strategy since 2023 has been to run a leaner, more focused, higher-return business with less investment — in practice, cutting models, plants and capacity while growing exports <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a>. Exports are one of Ford China's three core strategies, reaching 184,000 units in 2025; in February 2025 Ford announced that Ford China president and CEO Wu Shengbo would additionally oversee Ford's International Markets Group, folding the China market into Ford's global strategic hub <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a>. In August 2026 media cited Bloomberg that Ford would stop exporting the China-made Lincoln Nautilus to the US and expand US production from 2030; that month Changan Ford confirmed the 2027 Corsair Hybrid would be exported from China to North America from early 2027 <a href=\"https://www.guancha.cn/qiche/2026_08_13_827214.shtml\">[s14]</a><a href=\"https://www.guancha.cn/qiche/2026_08_26_828749.shtml\">[s15]</a>. In September 2025 Ford China also set up a sales-service company in Shanghai, a wholly owned subsidiary managing marketing and services for Ford-brand passenger vehicles and pickups in China <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>.</p><p><strong>Our judgment.</strong> Ending Nautilus exports to the US removes a meaningful chunk of export revenue over the medium term and exposes Hangzhou plant utilisation, which the Corsair Hybrid export only partly offsets; the 31% year-on-year first-quarter 2026 retail decline suggests the slide has not yet reversed <a href=\"https://www.guancha.cn/qiche/2026_08_26_828749.shtml\">[s15]</a><a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>. Whether Changan Ford stabilises depends on fresh product and electrification investment from Ford and Changan, and on how its remaining Mondeo, Edge L and Explorer models fare in the price war <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>福特 2023 年以来的在华战略是「投资更少、更精简、更专注、回报更高」，落实到操作层面即削减车型、工厂与产能并扩大出口 <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a>。出口是福特中国三大核心战略之一，2025 年整车出口达 18.4 万辆；2025 年 2 月福特宣布福特中国总裁兼首席执行官吴胜波兼管福特汽车国际市场集团业务，将中国市场纳入福特全球战略中枢 <a href=\"https://i.ifeng.com/c/8wDzlIawnQC\">[s16]</a>。2026 年 8 月，媒体援引彭博报道福特将停止向美国出口中国产林肯航海家、自 2030 年起扩大美国本土产能；同月长安福特确认，2027 款冒险家混动版将于 2027 年初起从中国出口北美 <a href=\"https://www.guancha.cn/qiche/2026_08_13_827214.shtml\">[s14]</a><a href=\"https://www.guancha.cn/qiche/2026_08_26_828749.shtml\">[s15]</a>。2025 年 9 月，福特中国还在上海设立福特销售服务公司，作为全资子公司全面负责福特品牌乘用车与皮卡车型在华营销与服务 <a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>。</p><p><strong>我们的判断。</strong>航海家停止返销北美将在中期内削弱一块可观的出口收入，并令杭州工厂产能承压，冒险家混动出口只能部分对冲；2026 年一季度零售同比下滑 31% 表明下滑趋势尚未扭转 <a href=\"https://www.guancha.cn/qiche/2026_08_26_828749.shtml\">[s15]</a><a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>。长安福特能否企稳，取决于福特与长安是否追加产品与电动化投入，以及剩余蒙迪欧、锐界 L、探险者等车型在价格战中的表现 <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Sales and product concentration.</strong> Retail sales fell below 100,000 units in 2025, with the Mondeo alone providing roughly half of brand sales, leaving the portfolio exposed to a single model <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a><a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>.</li><li><strong>Financial volatility.</strong> The company lost RMB 2.06 billion in 2023, earned RMB 2.09 billion in 2024, then saw net profit halve to RMB 952 million in 2025, and H1 2026 net profit fell a further 65.2% <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225528444.PDF\">[s2]</a>.</li><li><strong>Electrification failure.</strong> The Mach-E sold only 35 units in 2025, the NEV subsidiary suspended its core business from October 2025, and Changan's 40% stake was listed for transfer <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://news.qq.com/rain/a/20260601A0862B00\">[s19]</a>.</li><li><strong>Export and tariff exposure.</strong> The plan to stop exporting the China-made Nautilus to the US cuts export income; media cited Lincoln as saying China-built vehicles imported to the US face combined tariffs of about 52.5% <a href=\"https://www.guancha.cn/qiche/2026_08_13_827214.shtml\">[s14]</a><a href=\"https://www.guancha.cn/qiche/2026_08_26_828749.shtml\">[s15]</a>.</li><li><strong>Technology-route mismatch.</strong> NEV penetration in China has passed 50%, but Changan Ford's line-up remains dominated by fuel and hybrid models, with its battery-electric model having effectively exited, leaving the mix out of step with the market <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a>.</li><li><strong>Reduced disclosure.</strong> Since June 2025 Changan has stopped disclosing Changan Ford sales separately in its monthly reports, lowering public visibility into the venture <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>.</li></ul>",
+      "zh": "<ul><li><strong>销量与产品集中度。</strong>2025 年零售跌破 10 万辆，蒙迪欧一款车型贡献品牌近半销量，产品线对单一车型依赖过高 <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a><a href=\"https://www.ifnews.com/news.html?aid=822896&cid=49\">[s22]</a>。</li><li><strong>财务波动。</strong>公司 2023 年亏损 20.6 亿元、2024 年盈利 20.9 亿元、2025 年净利润近乎腰斩至 9.52 亿元，2026 年上半年净利润再降 65.2%，盈利波动大 <a href=\"https://www.jwview.com/jingwei/html/m/04-14/620607.shtml\">[s7]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-08-29/1225528444.PDF\">[s2]</a>。</li><li><strong>电动化失利。</strong>福特电马 2025 年仅售出 35 辆，新能源子公司核心业务 2025 年 10 月起停摆，长安汽车所持 40% 股权已挂牌转让 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a><a href=\"https://news.qq.com/rain/a/20260601A0862B00\">[s19]</a>。</li><li><strong>出口与关税风险。</strong>停止向美国出口中国产航海家的计划将削减出口收入；媒体援引林肯方面称中国产车辆进口美国预计面临约 52.5% 的综合关税 <a href=\"https://www.guancha.cn/qiche/2026_08_13_827214.shtml\">[s14]</a><a href=\"https://www.guancha.cn/qiche/2026_08_26_828749.shtml\">[s15]</a>。</li><li><strong>技术路线与市场错位。</strong>中国新能源乘用车渗透率已过半，而长安福特在售主力仍为燃油与混动车型，纯电车型基本退出，产品组合与市场主流存在错位 <a href=\"https://www.jiemian.com/article/13915823.html\">[s9]</a>。</li><li><strong>信息披露减少。</strong>自 2025 年 6 月起长安汽车在月度产销快报中不再单独披露长安福特销量，合资公司经营的公开可见度下降 <a href=\"https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html\">[s8]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "重庆长安汽车股份有限公司 2025 年年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225093372.PDF", "date": "2026-04-11", "tier": "A" },
+    { "id": "s2", "name": "重庆长安汽车股份有限公司 2026 年半年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528444.PDF", "date": "2026-08-29", "tier": "A" },
+    { "id": "s3", "name": "重庆长安汽车股份有限公司 2022 年面向专业投资者公开发行科技创新公司债券（第一期）募集说明书摘要（深交所）", "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2022-12-14/af2ef56c-dc60-476b-8adb-c5b39fbb654b.PDF", "date": "2022-12-14", "tier": "A" },
+    { "id": "s4", "name": "福特汽车（中国）官网 · 长安福特汽车有限公司简介", "url": "https://www.ford.com.cn/careers/CAF", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "林肯中国官网 · 全新林肯冒险家 Corsair 正式公布厂商建议零售价", "url": "https://www.lincoln.com.cn/about/press-release/article-2020-3-13-2", "date": "2020-03-13", "tier": "A" },
+    { "id": "s6", "name": "中国新闻网（中新社）· 重庆长安与福特联手升级中国西部汽车产业", "url": "https://www.chinanews.com/2001-04-26/26/88230.html", "date": "2001-04-26", "tier": "B" },
+    { "id": "s7", "name": "中新经纬 · 出口增加！长安福特2024年扭亏为盈", "url": "https://www.jwview.com/jingwei/html/m/04-14/620607.shtml", "date": "2025-04-14", "tier": "B" },
+    { "id": "s8", "name": "第一财经（东方网转载）· 去年净利润腰斩的长安福特，一季度销量再下滑31%", "url": "https://nw.eastday.com/zq/zh/20260416/3b2fd691e432b40280599d3e07ea9160.html", "date": "2026-04-16", "tier": "B" },
+    { "id": "s9", "name": "界面新闻 · 年销量不足10万辆！长安福特跌破行业「生存红线」", "url": "https://www.jiemian.com/article/13915823.html", "date": "2026-01-21", "tier": "B" },
+    { "id": "s10", "name": "澎湃新闻（转载长江商报）· 长安福特砍掉百万产能福克斯停产 销量降17%净资产锐减44亿亏逾24亿", "url": "https://thepaper.cn/newsDetail_forward_23118259", "date": "2023-05-17", "tier": "B" },
+    { "id": "s11", "name": "中国青年网 · 艾小明接棒何晓庆，换帅能否帮助长安福特止跌回升？", "url": "https://auto.youth.cn/xw/202405/t20240508_15240592.htm", "date": "2024-05-08", "tier": "B" },
+    { "id": "s12", "name": "环球网 · 长安福特换帅，加速推进智电转型（艾小明任总裁）", "url": "https://m.huanqiu.com/article/4Hh0wYc3KF7", "date": "2024-05-07", "tier": "B" },
+    { "id": "s13", "name": "南方+ · 长安福特再次致歉：将延保10年或24万公里并退还费用", "url": "https://static.nfnews.com/content/202103/16/c4950280.html", "date": "2021-03-16", "tier": "B" },
+    { "id": "s14", "name": "观察者网 · 美国快买不到中国产林肯了，福特：中国和其他相关市场还能买到", "url": "https://www.guancha.cn/qiche/2026_08_13_827214.shtml", "date": "2026-08-13", "tier": "B" },
+    { "id": "s15", "name": "观察者网 · 美国快买不到的林肯冒险家，还得从中国进货", "url": "https://www.guancha.cn/qiche/2026_08_26_828749.shtml", "date": "2026-08-26", "tier": "B" },
+    { "id": "s16", "name": "凤凰网（转载经济观察报）· Transit City驶向欧洲、林肯返销北美：福特中国的「全球资格认证」", "url": "https://i.ifeng.com/c/8wDzlIawnQC", "date": "2026-09-07", "tier": "B" },
+    { "id": "s18", "name": "央视网（新华社）· 长安福特实施纵向垄断协议 被市场监管总局罚1.6亿", "url": "https://news.cctv.com/2019/06/05/ARTIFVsWdTBVAt4TIQPcKkg4190605.shtml", "date": "2019-06-05", "tier": "B" },
+    { "id": "s19", "name": "腾讯新闻（转光明网）· 长安福特旗下合资公司股权挂牌转让（长福新能源40%股权）", "url": "https://news.qq.com/rain/a/20260601A0862B00", "date": "2026-06-01", "tier": "B" },
+    { "id": "s20", "name": "中国汽车工程学会 · 长安福特汽车有限公司会员介绍", "url": "https://www.sae-china.org/omember/info.php?id=1227", "date": "2026-10-29", "tier": "B" },
+    { "id": "s21", "name": "经济参考网 · 000625换帅！朱华荣辞任董事长 赵非接任", "url": "https://www.jjckb.cn/20261016/c33bc606ffcc4a6481cde369ad8c6d10/c.html", "date": "2026-10-16", "tier": "B" },
+    { "id": "s22", "name": "国际金融报 · 高管轮换不到一年！长安福特再现人事变动", "url": "https://www.ifnews.com/news.html?aid=822896&cid=49", "date": "2026-04-13", "tier": "B" },
+    { "id": "s23", "name": "新华网 · 上汽集团与通用汽车签署合资续约协议 合资期限延长20年至2047年", "url": "https://www.xinhuanet.com/auto/20260810/8966db33b1d74e619c3984deea3774ad/c.html", "date": "2026-08-10", "tier": "B" },
+    { "id": "s24", "name": "新京报 · 朱华荣卸任长安福特董事长，赵非接任", "url": "https://m.bjnews.com.cn/detail/1762162635129163.html", "date": "2025-11-03", "tier": "B" },
+    { "id": "s25", "name": "红星新闻（新浪财经转载）· 长安汽车上半年净利润下滑64%，汇兑净损失2.3亿", "url": "https://finance.sina.cn/tech/2026-08-29/detail-inipyrwp3612039.d.html", "date": "2026-08-29", "tier": "B" }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "rox",
+  "name_en": "ROX Motor",
+  "name_zh": "极石汽车",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "January 2021 (Shanghai Luoke Intelligent Technology Co., Ltd. founded)",
+      "value_zh": "2021 年 1 月（上海洛轲智能科技有限公司成立）",
+      "period": null,
+      "source_ids": ["s1", "s2", "s12"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai: the milestone page records that headquarters moved to the Shangpu Center in July 2025. On 12 November 2025 the Abu Dhabi Media Office reported that ADIO and ROX would open a regional headquarters in Abu Dhabi. MEED (25 September 2026) writes that ROX moved its global headquarters to the UAE last year, without naming Abu Dhabi; that wording conflicts with ADIO's regional headquarters.",
+      "value_zh": "上海：公司里程碑页记 2025 年 7 月极石总部乔迁上海尚浦中心。2025 年 11 月 12 日，阿布扎比媒体办公室报道 ADIO 与极石将在阿布扎比设立区域总部。MEED（2026 年 9 月 25 日）写公司去年把全球总部迁到阿联酋，未点名阿布扎比；这一说法与 ADIO 的「区域总部」不一致。",
+      "period": "2025",
+      "source_ids": ["s1", "s22", "s21"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private and unlisted; operating entity is Shanghai Luoke Intelligent Technology Co., Ltd.",
+      "value_zh": "民营、未上市；运营主体为上海洛轲智能科技有限公司",
+      "period": null,
+      "source_ids": ["s2", "s12", "s13"]
+    },
+    {
+      "label_en": "Actual controller / shareholding",
+      "label_zh": "实际控制人 / 持股",
+      "value_en": "Not publicly disclosed (no annual report or exchange filing identifies a controller or shareholding). Chang Jing is founder and chairman; Weiqiao Pioneering Group announced a USD 1 billion strategic investment in September 2023.",
+      "value_zh": "未公开披露（无年报或交易所公告认定实际控制人及持股比例）。昌敬为创始人、董事长；魏桥创业集团 2023 年 9 月宣布战略投资 10 亿美元。",
+      "period": null,
+      "source_ids": ["s2", "s7", "s12"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市地点与代码",
+      "value_en": "Unlisted; no stock code",
+      "value_zh": "未上市；无证券代码",
+      "period": null,
+      "source_ids": ["s12", "s13"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not publicly disclosed (no primary source)",
+      "value_zh": "未公开披露（无一手来源）",
+      "period": null,
+      "source_ids": ["s2", "s13"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "Not publicly disclosed (unlisted)",
+      "value_zh": "未公开披露（未上市）",
+      "period": "FY2025",
+      "source_ids": ["s2", "s13"]
+    },
+    {
+      "label_en": "Net profit (FY2025)",
+      "label_zh": "净利润（2025 财年）",
+      "value_en": "Not publicly disclosed (unlisted)",
+      "value_zh": "未公开披露（未上市）",
+      "period": "FY2025",
+      "source_ids": ["s2", "s13"]
+    },
+    {
+      "label_en": "Deliveries (2025)",
+      "label_zh": "交付量（2025 年）",
+      "value_en": "15,318 units delivered in 2025; December 2025 was a record 2,528 units. Media describe 2025 deliveries as growing by nearly three times year on year, without giving a 2024 base.",
+      "value_zh": "2025 年全年交付 15,318 台；12 月单月交付 2,528 台创历史新高。媒体表述为「较上年增长近 3 倍」，未给出 2024 年基数。",
+      "period": "2025",
+      "source_ids": ["s10", "s17"]
+    },
+    {
+      "label_en": "Overseas deliveries (cumulative)",
+      "label_zh": "海外交付（累计）",
+      "value_en": "No full-year overseas figure disclosed. As of May 2026 the company reported cumulative deliveries of more than 5,000 units in the UAE and more than 20,000 across the Middle East and North Africa (MENA).",
+      "value_zh": "未披露全年海外销量。截至 2026 年 5 月，公司称阿联酋累计交付逾 5,000 辆、中东及北非（MENA）累计交付逾 20,000 辆。",
+      "period": "2026-05-06",
+      "source_ids": ["s4"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2021-01",
+      "event_en": "Shanghai Luoke Intelligent Technology Co., Ltd. is founded in Shanghai; Chang Jing becomes chairman and Yan Feng (Jarvis Yan) becomes CEO.",
+      "event_zh": "上海洛轲智能科技有限公司在上海成立，昌敬任董事长，闫枫任 CEO。",
+      "source_ids": ["s1", "s2", "s12"]
+    },
+    {
+      "date": "2023-04",
+      "event_en": "Luoke Intelligent launches the ROXMatrix outdoor off-road assistance system.",
+      "event_zh": "洛轲智能推出 ROXMatrix 户外越野辅助系统。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2023-08-22",
+      "event_en": "The first model, the ROX 01, a mid-to-large smart luxury SUV, launches with nationwide unified retail prices of RMB349,900 (7-seat) and RMB359,900 (6-seat).",
+      "event_zh": "首款车型极石 01（中大型智能豪华 SUV）上市，全国统一零售价 7 座版 34.99 万元、6 座版 35.99 万元。",
+      "source_ids": ["s7", "s12"]
+    },
+    {
+      "date": "2023-09-22",
+      "event_en": "Weiqiao Pioneering Group announces a strategic investment in Luoke Intelligent totalling USD 1 billion, planned for all-aluminium body R&D, integrated die-casting and a short-process smart factory; the same day ROX's first store and delivery centre open in Shanghai.",
+      "event_zh": "魏桥创业集团宣布战略投资洛轲智能，总投资额 10 亿美元，计划用于全铝车身研发、一体化压铸和短流程智造工厂项目；同日极石汽车全国首家展厅与交付中心在上海开业。",
+      "source_ids": ["s2", "s6"]
+    },
+    {
+      "date": "2023-12",
+      "event_en": "Deliveries of the ROX 01. The milestone page records a production-vehicle rollout in August 2023 and the start of deliveries in December 2023. China Quality News on 29 November 2023 reported that nationwide deliveries had already begun and that the vehicle rolled off the Qingdao line on 21 October 2023. The dates differ; this entry follows the milestone page and records the media dates as a conflicting account.",
+      "event_zh": "极石 01 交付。公司里程碑页记 2023 年 8 月量产车下线、2023 年 12 月开启交付。中国质量新闻网 2023 年 11 月 29 日报道当时已开启全国交付，且车辆于 2023 年 10 月 21 日在青岛工厂下线。两说的日期不一致；本条以里程碑页为准，并记下媒体的另一日期。",
+      "source_ids": ["s1", "s8"]
+    },
+    {
+      "date": "2024-04",
+      "event_en": "The ROX 01 makes its first appearance at an overseas motor show and at Auto China in Beijing; a UAE partner agreement is signed, beginning overseas expansion.",
+      "event_zh": "极石 01 首次亮相海外车展及北京车展；与阿联酋合作伙伴签约，开启出海。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-08",
+      "event_en": "Partner agreements are signed in Qatar, Kuwait, Azerbaijan, the Philippines and Egypt.",
+      "event_zh": "与卡塔尔、科威特、阿塞拜疆、菲律宾、埃及的合作伙伴签约。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-10",
+      "event_en": "Partner agreements are signed in Kazakhstan, Iraq, Oman and Libya; in the same period overseas deliveries and orders surpass 10,000 units, and stores open in the UAE and the Philippines.",
+      "event_zh": "与哈萨克斯坦、伊拉克、阿曼、利比亚的合作伙伴签约；同期海外交付及订单突破 1 万台，阿联酋、菲律宾门店开业。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-12",
+      "event_en": "Kazakhstan and Qatar stores open.",
+      "event_zh": "哈萨克斯坦、卡塔尔门店开业。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "According to the company's milestone page, ROX becomes the first Chinese new-energy brand to appear at Saudi Arabia's LEAP event (a company self-description).",
+      "event_zh": "据公司里程碑页自称，极石成为首个登陆沙特 LEAP 展的中国新能源品牌。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-04",
+      "event_en": "The 10,000th ROX 01 is delivered to a UAE customer; the first global dealer conference is held; the Weiqiao–ROX lightweighting joint laboratory is established.",
+      "event_zh": "第 1 万台极石 01 交付阿联酋用户；首届全球经销商大会举行；魏桥–极石汽车轻量化联合实验室成立。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-07",
+      "event_en": "ROX's headquarters relocate to the Shangpu Center in Shanghai; the Jeddah flagship store opens in Saudi Arabia.",
+      "event_zh": "极石总部迁至上海尚浦中心；沙特吉达旗舰店开业。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-10",
+      "event_en": "The flagship ROX ADAMAS makes its global debut in Abu Dhabi; a 25,000 km 'ROX round-trip' journey is completed.",
+      "event_zh": "旗舰 SUV 极石 ADAMAS 在阿布扎比全球发布；25,000 公里极石环游记完成。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-12-28",
+      "event_en": "The ROX ADAMAS launches in China with guide prices of RMB349,900 (7-seat) and RMB359,900 (6-seat) and launch benefit prices of RMB334,900 and RMB344,900.",
+      "event_zh": "极石 ADAMAS 中国版上市，官方指导价 7 座版 34.99 万元、6 座版 35.99 万元，上市权益价分别为 33.49 万元、34.49 万元。",
+      "source_ids": ["s5", "s9"]
+    },
+    {
+      "date": "2025-12",
+      "event_en": "The 20,000th vehicle rolls off the production line.",
+      "event_zh": "第 2 万辆整车下线。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2026-05-06",
+      "event_en": "On 5 May 2026 ADIO said it would support an SKD assembly facility for ROX in KEZAD. That note does not name KEZAD Group as a signatory and does not give UAE or MENA delivery totals. The company's 6 May 2026 press release, read via a Tagitinews mirror, says ROX had delivered more than 5,000 vehicles in the UAE and more than 20,000 across MENA, and describes a partnership with KEZAD Group on the manufacturing centre. MEED reports that KEZAD Group signed the facility lease in May.",
+      "event_zh": "2026 年 5 月 5 日，ADIO 称将支持极石在哈利法经济区（KEZAD）建设 SKD 组装工厂。该稿未把 KEZAD 集团列为签约方，也没有阿联酋逾 5,000 辆、MENA 逾 20,000 辆。公司 2026 年 5 月 6 日新闻稿（经 Tagitinews 镜像可核）称阿联酋累计交付逾 5,000 辆、MENA 逾 20,000 辆，并写与 KEZAD 集团在制造中心上的合作。MEED 报道 KEZAD 集团于 5 月签署的是该设施的租赁协议。",
+      "source_ids": ["s3", "s4", "s21"]
+    },
+    {
+      "date": "2026-06-15",
+      "event_en": "ROX signs an Egypt production agreement. AGBI (15 June 2026) names the partner as Ezz Elarab & Elsewedy Capital Holding (ESAF): 5,000 vehicles a year, nearly half exported, production from the second half of 2027, output doubled within three years, and local content of 45–52 per cent. AGBI does not use the name ROX ESI Egypt. IT Home, via Phoenix, names the partner as Ezz Elarab Elsewedy Investments (ESI) and the joint venture as ROX ESI Egypt, with output rising to about 10,000 within three years and more than half exported from the second half of 2027.",
+      "event_zh": "极石签署埃及生产协议。AGBI（2026 年 6 月 15 日）将合作方写作 Ezz Elarab & Elsewedy Capital Holding（ESAF）：年产 5,000 辆、近半数出口、2027 年下半年投产、三年内翻倍、本地化 45%–52%。文中没有 ROX ESI Egypt 这一公司名。IT之家（经凤凰网转载）则写作 Ezz Elarab Elsewedy Investments（ESI）、合资公司 ROX ESI Egypt，三年内约 1 万辆，2027 年下半年起超过半数出口。",
+      "source_ids": ["s10", "s20"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "Local production starts at ROX's Advanced AI Manufacturing Centre in KEZAD, Abu Dhabi. The Chinese embassy commercial office, citing a WAM dispatch dated 3 September 2026, says production had recently begun and that the first three ROX ADAMAS vehicles carrying the 'Made in the Emirates' mark rolled off the line; 3 September is the wire date, not a stated rollout day. Trade Arabia's 4 September 2026 story also does not date the rollout to 3 September. Both report the first three vehicles and a site of about 10,000 square metres.",
+      "event_zh": "极石在阿布扎比哈利法经济区的先进 AI 制造中心启动本地生产。中国驻阿联酋使馆经商处转引阿通社 2026 年 9 月 3 日电，称「近日」已启动，首批 3 辆印有「阿联酋制造」标识的 ROX ADAMAS 下线；9 月 3 日是通稿日期，不是写明的下线日。Trade Arabia 2026 年 9 月 4 日的报道同样没有把下线写成 9 月 3 日。两源都写首批 3 辆、场地约 1 万平方米。",
+      "source_ids": ["s18", "s19"]
+    },
+    {
+      "date": "2026-09-04",
+      "event_en": "The 40,000th vehicle rolls off the production line, following the 30,000th on 15 May 2026.",
+      "event_zh": "第 4 万辆整车下线；此前第 3 万辆于 2026 年 5 月 15 日下线。",
+      "source_ids": ["s10"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "ROX (Jishi)",
+      "name_zh": "极石（ROX）",
+      "role_en": "The company's sole automotive brand, positioned in the premium outdoor and all-terrain new-energy segment. Models are the ROX 01 (launched August 2023) and the flagship ROX ADAMAS (launched in China in December 2025).",
+      "role_zh": "公司唯一汽车品牌，定位高端户外、全地形新能源细分市场。车型包括极石 01（2023 年 8 月上市）与旗舰极石 ADAMAS（2025 年 12 月中国上市）。",
+      "price_band": "RMB 299,900–359,900 (ROX 01, four trims on sale); ADAMAS guide price RMB 349,900–359,900",
+      "founded": 2021,
+      "owner_note_en": "The brand is operated under Shanghai Luoke Intelligent Technology Co., Ltd., which handles product definition and intelligent technology, while Beijing Automobile Works (BAW), controlled by Weiqiao Pioneering Group, builds the vehicles; a media report quotes Luoke as saying the ROX brand and ROX 01 belong to BAW. ROX's privacy policy (effective 19 September 2025) lists Shanghai Xuanwuyan Intelligent Technology Co., Ltd., Qingdao Jishi Automobile Sales Co., Ltd. and Shanghai Xuelawan Automobile Sales & Service Co., Ltd. as the operating entities of 'ROX Auto'. 2025 deliveries were 15,318 units; June 2026 deliveries were 2,512 units.",
+      "owner_note_zh": "品牌运营关联上海洛轲智能科技有限公司，由其负责产品定义与智能化技术，整车由魏桥创业集团旗下的北京汽车制造厂代工；媒体引洛轲方面称「极石」品牌与极石 01 属于北京汽车制造厂。极石汽车隐私政策（2025 年 9 月 19 日生效）将上海玄武岩智能科技有限公司、青岛极石汽车销售有限公司、上海雪拉碗汽车销售服务有限公司列为「极石汽车」运营主体。2025 年交付 15,318 台；2026 年 6 月交付 2,512 台。",
+      "status": "active",
+      "source_ids": ["s1", "s10", "s12", "s15", "s16", "s11", "s17"]
+    },
+    {
+      "name_en": "ROX ESI Egypt",
+      "name_zh": "ROX ESI Egypt（合资公司）",
+      "role_en": "Joint venture formed with Egypt's Ezz Elarab Elsewedy Investments (ESI) group to run ROX's production and distribution in Egypt, with local extended-range vehicle production planned from the second half of 2027.",
+      "role_zh": "与埃及 Ezz Elarab Elsewedy Investments（ESI）集团成立的合资公司，负责极石在埃及的生产与分销，计划 2027 年下半年起本地化生产增程式车型。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "Announced in June 2026 (agreement signed 15 June 2026); the equity split between ROX and ESI has not been publicly disclosed. Chinese media write the partner as Ezz Elarab Elsewedy Investments (ESI), while AGBI writes Ezz Elarab & Elsewedy Capital Holding (ESAF). AGBI reports ESAF would produce 5,000 vehicles a year in partnership with ROX, nearly half exported, with production beginning in the second half of 2027 and doubling within three years, and a local-component target of 45–52 per cent.",
+      "owner_note_zh": "2026 年 6 月宣布成立（2026 年 6 月 15 日签约）；ROX 与 ESI 的具体持股比例未公开披露。中文媒体将合作方写作 Ezz Elarab Elsewedy Investments（ESI）集团，而 AGBI 写作 Ezz Elarab & Elsewedy Capital Holding（ESAF）。据 AGBI，ESAF 将与极石合作年产 5,000 辆、近半数出口，2027 年下半年投产、三年内翻倍，本地化零部件比例目标为 45%–52%。",
+      "status": "active",
+      "source_ids": ["s10", "s20"]
+    }
+  ],
+  "financials": {
+    "currency": "N/A",
+    "unit": "N/A",
+    "standard": "N/A (unlisted; no public financial statements)",
+    "rows": [],
+    "note_en": "ROX Motor's operating entity, Shanghai Luoke Intelligent Technology Co., Ltd., is unlisted and has not publicly disclosed audited financial statements, so no annual report, prospectus or exchange filing is available as a primary source. The financial table is therefore left empty rather than estimated from secondary sources, and no net-profit attribution basis (profit attributable to owners of the parent vs. attributable to ordinary shareholders) can be stated. The Weiqiao Pioneering Group, parent of the brand's OEM partner BAW, is a separate unlisted entity; Roborock Technology, founded by the same founder Chang Jing, is a separate listed company and is not the subject of this entry.",
+    "note_zh": "极石汽车的运营主体上海洛轲智能科技有限公司为非上市公司，未公开披露经审计财务数据，本次未取得年报、招股书或交易所公告等一手财务文件，故财务表留空，不以二手来源估算，也无从标注净利润归属口径（归属于母公司股东或归属于普通股股东）。代工方北京汽车制造厂的母公司魏桥创业集团为另一非上市主体；与创始人昌敬相关的石头科技为另一家上市公司，不在本条目范围。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>ROX (极石汽车) is a Chinese new-energy vehicle (NEV) start-up positioned in the premium outdoor and all-terrain segment. Its operating entity, Shanghai Luoke Intelligent Technology Co., Ltd. (洛轲智能), was founded in Shanghai in January 2021 by Chang Jing and Yan Feng (Jarvis Yan). Chang Jing's published career is in smart hardware; Yan Feng was previously chief technology officer of WM Motor.<a href=\"https://www.roxmotor.com/milestone\">[s1]</a><a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>The brand's first model, the ROX 01, launched in August 2023, and its flagship ROX ADAMAS launched in China in December 2025. Luoke Intelligent handles product definition, marketing and intelligent technology, while Beijing Automobile Works (BAW), controlled by the Weiqiao Pioneering Group, builds the vehicles; Weiqiao is also a strategic investor that announced a USD 1 billion investment in September 2023.<a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>ROX is unlisted and does not publish financial statements. Gasgoo reports that its sales currently come mainly from overseas markets. Deliveries in 2025 were 15,318 units, and the company set a 2026 global sales target of 30,000 units. As of the research cutoff (2026-10-29) the brand remained active, its Abu Dhabi plant having started production in early September 2026 and the 40,000th vehicle rolling off the line on 4 September 2026.<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a></p>",
+      "zh": "<p>极石汽车（ROX）是一家中国新能源汽车新势力，定位高端户外、全地形新能源细分市场。其运营主体上海洛轲智能科技有限公司（洛轲智能）于 2021 年 1 月由昌敬与闫枫在上海联合创办。昌敬的公开履历来自智能硬件，闫枫此前担任威马汽车 CTO。<a href=\"https://www.roxmotor.com/milestone\">[s1]</a><a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>品牌首款车型极石 01 于 2023 年 8 月上市，旗舰车型极石 ADAMAS 于 2025 年 12 月在中国上市。洛轲智能负责产品定义、市场营销与智能化技术，整车由魏桥创业集团旗下的北京汽车制造厂代工；魏桥同时也是战略投资方，2023 年 9 月宣布投资 10 亿美元。<a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>极石未上市、不公开披露财务数据。盖世汽车报道其目前销量主要来自海外市场。2025 年交付 15,318 台，公司设定 2026 年全球销量目标 3 万台。截至研究截止日（2026-10-29）品牌仍在经营，2026 年 9 月初阿布扎比工厂投产、9 月 4 日第 4 万辆整车下线。<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business and product line</h3><p>ROX operates a single brand with two models. The ROX 01 is a mid-to-large smart luxury SUV with a range-extended dual-motor all-wheel-drive system; at launch the company gave maximum power of 350 kW, combined torque of 740 N·m and 0–100 km/h in 5.5 seconds, with a 56.01 kWh CATL battery and 70-litre fuel tank giving 282 km of CLTC electric range and 1,338 km of CLTC combined range. It launched on 22 August 2023 with nationwide unified retail prices of RMB349,900 (7-seat) and RMB359,900 (6-seat).<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202308/t20230823_6362748.html\">[s7]</a><a href=\"https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm\">[s8]</a></p><p>As of the research cutoff the ROX 01 was sold in four trims: standard-range 7-seat and 6-seat at RMB299,900 and RMB309,900, and long-range 7-seat and 6-seat at RMB349,900 and RMB359,900. The official configuration page lists dimensions of 5,050 mm (5,295 mm including the spare tyre) by 1,980 mm by 1,869 mm with a 3,010 mm wheelbase; the long-range version carries a 58.4 kWh battery for 306 km of CLTC electric range and 1,362 km combined, and the standard-range version a 44.5 kWh battery for 215 km and 1,275 km.<a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a></p><p>The flagship ROX ADAMAS launched in China on 28 December 2025 with guide prices of RMB349,900 (7-seat) and RMB359,900 (6-seat) and launch benefit prices of RMB334,900 and RMB344,900. It uses a 1.5T range extender with dual motors (350 kW, 740 N·m, 0–100 km/h in 5.5 seconds), a 44.5 kWh CATL battery and a 70-litre tank, for 215 km of CLTC electric range and 1,405 km of combined range, and is positioned by the company as a 'brand-new flagship SUV'.<a href=\"https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html\">[s5]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><h3>Technology</h3><p>Both models use a range-extended powertrain and a 70-litre fuel tank, on an all-aluminium chassis with front double-wishbone and rear H-arm suspension. The ROX 01 configuration page for cars now on sale lists a ternary lithium battery and does not name a supplier: 58.4 kWh on the long-range trims and 44.5 kWh on the standard-range trims. The CATL name is tied only to two earlier figures: a 56.01 kWh pack on the ROX 01 when deliveries were starting (China Quality News, 29 November 2023) and a 44.5 kWh pack on ADAMAS (Xinhua, 29 December 2025). The ROX 01 uses continuously variable DCC damping without air suspension, while the ADAMAS adds a 140 mm closed air suspension, DCC damping, seven all-terrain modes, a claimed 770 mm wading depth and up to 5.7 kW of vehicle-to-load output; its voice assistant integrates the DeepSeek large language model.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html\">[s5]</a><a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a><a href=\"https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm\">[s8]</a></p><p>On assisted driving, the ROX 01's standard package uses two TDA4 chips and no lidar. The high-end package (Orin-X ×2, one 128-line roof lidar and two side pure-solid-state lidars, equivalent to 120 lines) is an option priced at an extra RMB30,000, available on the long-range trims. At launch the company described the ROX 01 as the world's first mass-produced vehicle to use pure solid-state lidar, and the cockpit uses a Qualcomm Snapdragon 8155 chip.<a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm\">[s8]</a></p><p>Luoke Intelligent launched its ROXMatrix outdoor off-road assistance system in April 2023. These specifications are company-published figures, not independent test results.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><h3>Production and capacity</h3><p>ROX holds no factory of its own; vehicles are built under contract by BAW, controlled by Weiqiao, at its Qingdao Laixi base. Media report the base represents total investment of RMB15.2 billion, covers 1,700 mu with built area of more than 600,000 square metres, and was completed in January 2022 with annual capacity of 450,000 vehicles.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>BAW was founded in 1951; in 2015 Beijing Automotive Group transferred a 51 per cent stake to Fulu Group, and in February 2023 Weiqiao acquired 71 per cent of Qingdao Fulu Investment Holding, becoming BAW's controlling shareholder.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>Overseas, ROX's Advanced AI Manufacturing Centre in KEZAD, Abu Dhabi (about 10,000 square metres, built with ADIO) started production in early September 2026 with the first three ADAMAS vehicles carrying the 'Made in the Emirates' mark; the company targets initial capacity of 20,000 vehicles in 2027, rising to 300,000 a year by 2030.<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.tradearabia.com/News/467561/ROX-begins-Adamas-vehicle-production-in-Abu-Dhabi\">[s19]</a><a href=\"https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production\">[s21]</a></p><p>In Egypt the June 2026 agreement is reported under two names. AGBI (15 June 2026) names Ezz Elarab &amp; Elsewedy Capital Holding (ESAF), with 5,000 vehicles a year, nearly half exported, production from the second half of 2027, output doubled within three years and local content of 45–52 per cent; it does not use the name ROX ESI Egypt. IT Home, via Phoenix, names Ezz Elarab Elsewedy Investments (ESI) and the joint venture ROX ESI Egypt, with output of about 10,000 within three years and more than half exported from the second half of 2027.<a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><h3>Domestic market position</h3><p>ROX delivered 15,318 vehicles in 2025. Monthly deliveries in 2026 were 1,028, 1,298, 1,480, 2,035, 2,052 and 2,512 units from January to June, with first-half cumulative deliveries of 10,405 units; media report June deliveries up 99.5 per cent year on year in sales terms.<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://www.jwview.com/jingwei/html/m/07-01/677298.shtml\">[s11]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>The company says its nationwide experience centres are rolling out and its domestic service network is still being completed; it does not split domestic and overseas deliveries.<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><h3>Overseas business</h3><p>ROX has entered more than 40 countries and regions, and Gasgoo reports that its sales currently come mainly from overseas markets.<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>As of May 2026 the company reported cumulative deliveries of more than 5,000 units in the UAE and more than 20,000 across MENA; in its press release it said its share of the UAE luxury all-terrain SUV segment above USD 80,000 ranked in the top three and exceeded 10 per cent, with the fastest share growth.<a href=\"https://tagitnews.com/en/article/41350\">[s4]</a></p><p>Accounts of the headquarters differ. The milestone page records a July 2025 move of headquarters to the Shangpu Center in Shanghai. On 12 November 2025 the Abu Dhabi Media Office reported that ADIO and ROX would open a regional headquarters in Abu Dhabi. MEED wrote on 25 September 2026 that ROX moved its global headquarters to the UAE last year, without naming Abu Dhabi; that wording conflicts with ADIO's regional headquarters. In June 2026 ROX announced a deep partnership with JD Logistics to build and operate a dedicated regional auto-parts centre in the UAE.<a href=\"https://www.roxmotor.com/milestone\">[s1]</a><a href=\"https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-investment-office-partners-with-rox-motor-to-open-regional-headquarters-in-abu-dhabi/\">[s22]</a><a href=\"https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production\">[s21]</a><a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a></p><p>Production bases in Abu Dhabi (operational from September 2026) and Egypt (planned from the second half of 2027) underpin the brand's regional assembly strategy.<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a></p>",
+      "zh": "<h3>业务与产品线</h3><p>极石目前只有单一品牌、两款车型。极石 01 为中大型智能豪华 SUV，采用双电机四驱增程系统，上市时公司给出最大功率 350 kW、综合扭矩 740 N·m、0–100 km/h 加速 5.5 秒，配 56.01 kWh 宁德时代电池与 70 升油箱，CLTC 纯电续航 282 km、综合续航 1,338 km；2023 年 8 月 22 日上市，全国统一零售价 7 座版 34.99 万元、6 座版 35.99 万元。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202308/t20230823_6362748.html\">[s7]</a><a href=\"https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm\">[s8]</a></p><p>截至研究截止日，极石 01 在售四款：标准续航 7 座 / 6 座版 29.99 万 / 30.99 万元，长续航 7 座 / 6 座版 34.99 万 / 35.99 万元。官网配置页列整车尺寸为 5,050 mm（含备胎 5,295 mm）×1,980 mm×1,869 mm、轴距 3,010 mm；长续航版配 58.4 kWh 电池，CLTC 纯电续航 306 km、综合续航 1,362 km，标准续航版配 44.5 kWh 电池，为 215 km 与 1,275 km。<a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a></p><p>旗舰车型极石 ADAMAS 于 2025 年 12 月 28 日在中国上市，官方指导价 34.99 万元（7 座）与 35.99 万元（6 座），上市权益价 33.49 万 / 34.49 万元。其采用 1.5T 增程器加双电机（350 kW、740 N·m、0–100 km/h 5.5 秒），44.5 kWh 宁德时代电池加 70 升油箱，CLTC 纯电续航 215 km、综合续航 1,405 km；公司将其定位为「全新旗舰 SUV」。<a href=\"https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html\">[s5]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><h3>技术路线</h3><p>两款车型都采用增程式动力和 70 升油箱，底盘为全铝材质，前双叉臂、后 H 臂。极石 01 现售配置页只写「三元锂电池」，没有供应商名称：长续航 58.4 kWh，标准续航 44.5 kWh。宁德时代这个名字只对应两个较早口径：交付启动阶段极石 01 的 56.01 kWh（中国质量新闻网，2023 年 11 月 29 日），以及 ADAMAS 的 44.5 kWh（新华网，2025 年 12 月 29 日）。极石 01 的减振器为连续主动可变阻尼 DCC（无空气悬架）；ADAMAS 则增配 140 mm 行程闭式空气悬架、DCC 智能阻尼、七种全地形模式，公司并宣称 770 mm 涉水深度与最大 5.7 kW 对外放电，语音助手接入 DeepSeek 大模型。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html\">[s5]</a><a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a><a href=\"https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm\">[s8]</a></p><p>智驾方面，极石 01 标准辅助驾驶采用两颗 TDA4 芯片、无激光雷达；高阶选装包（Orin-X×2、车顶 128 线×1、车侧纯固态补盲激光雷达等效 120 线×2）为长续航版可选装，加价 3 万元。上市时公司称极石 01 为全球首款搭载纯固态激光雷达技术的量产车型；座舱采用高通骁龙 8155 芯片。<a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm\">[s8]</a></p><p>洛轲智能于 2023 年 4 月推出 ROXMatrix 户外越野辅助系统。以上均为公司公布的规格与定位，非独立测试结论。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><h3>生产与产能</h3><p>极石不持有自有工厂，整车由魏桥旗下的北京汽车制造厂代工，基地位于青岛莱西。据媒体报道，该基地总投资 152 亿元、占地 1,700 亩、总建筑面积超 60 万平方米，2022 年 1 月竣工投产，具备年产 45 万辆整车制造能力。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>北京汽车制造厂成立于 1951 年；2015 年北汽集团将其 51% 股权转让给富路集团，2023 年 2 月魏桥创业集团取得青岛富路投资控股集团有限公司 71% 股权，成为北京汽车制造厂控股股东。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>海外方面，极石在阿布扎比哈利法经济区（KEZAD）建成先进 AI 制造中心（约 1 万平方米，与 ADIO 合作），2026 年 9 月初启动本地生产，首批 3 辆印有「阿联酋制造」标识的 ADAMAS 下线；公司目标 2027 年初期产能 2 万辆、2030 年提升至年产 30 万辆。<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.tradearabia.com/News/467561/ROX-begins-Adamas-vehicle-production-in-Abu-Dhabi\">[s19]</a><a href=\"https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production\">[s21]</a></p><p>埃及方面，2026 年 6 月的协议有两种写法。AGBI（2026 年 6 月 15 日）将合作方写作 Ezz Elarab &amp; Elsewedy Capital Holding（ESAF），年产 5,000 辆、近半数出口、2027 年下半年投产、三年内翻倍、本地化零部件比例 45%–52%，文中没有 ROX ESI Egypt。IT之家（经凤凰网转载）则写作 Ezz Elarab Elsewedy Investments（ESI）与合资公司 ROX ESI Egypt，三年内约 1 万辆，2027 年下半年起超过半数出口。<a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><h3>国内市场地位</h3><p>极石 2025 年全年交付 15,318 台。2026 年 1 至 6 月交付量分别为 1,028、1,298、1,480、2,035、2,052、2,512 台，上半年累计 10,405 台；媒体称 6 月销量同比增长 99.5%（销量口径）。<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://www.jwview.com/jingwei/html/m/07-01/677298.shtml\">[s11]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>公司称全国体验中心陆续落地、持续完善国内服务网络；公司不拆分国内外交付。<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><h3>海外业务</h3><p>极石已进入全球 40 多个国家和地区，盖世汽车报道其目前销量主要来自海外市场。<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>截至 2026 年 5 月，公司称阿联酋累计交付逾 5,000 辆、MENA 累计逾 20,000 辆；其新闻稿称在阿联酋 8 万美元以上豪华全地形 SUV 细分市场，份额位列前三、超过 10%，且份额增速最高。<a href=\"https://tagitnews.com/en/article/41350\">[s4]</a></p><p>总部地点有不同说法。公司里程碑页记 2025 年 7 月极石总部乔迁上海尚浦中心。2025 年 11 月 12 日，阿布扎比媒体办公室报道 ADIO 与极石将在阿布扎比设立区域总部。MEED 于 2026 年 9 月 25 日写公司去年把全球总部迁到阿联酋，未点名阿布扎比；这一说法与 ADIO 的「区域总部」不一致。2026 年 6 月，极石宣布与京东物流达成深度合作，在阿联酋共同建设并运营专属区域汽车备件中心。<a href=\"https://www.roxmotor.com/milestone\">[s1]</a><a href=\"https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-investment-office-partners-with-rox-motor-to-open-regional-headquarters-in-abu-dhabi/\">[s22]</a><a href=\"https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production\">[s21]</a><a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a></p><p>阿布扎比（2026 年 9 月投产）与埃及（计划 2027 年下半年投产）的生产基地支撑其区域组装策略。<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founders and public careers</h3><p>Chang Jing (昌敬) is the founder and chairman of Luoke Intelligent. Media record that he graduated from South China University of Technology in computer science, was a senior product manager at Tencent around 2011, founded the imaging-tools company Beijing Motu Jingling, and founded Roborock Technology in 2014; Roborock listed on the STAR Market on 21 February 2020. Luoke Intelligent, founded in January 2021, is a separate company and not a subsidiary of Roborock.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202308/t20230823_6362748.html\">[s7]</a></p><p>Yan Feng (闫枫, Jarvis Yan) is the co-founder and CEO. CRI Online records that he was previously CTO of WM Motor and became CEO of Luoke Intelligent in January 2021.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><h3>Current management</h3><p>CRI Online reported on 30 August 2023 that Chang Jing had been chairman since Luoke Intelligent was founded in January 2021. The company's 22 September 2023 news release names Yan Feng as co-founder and CEO and does not give Chang Jing the title of chairman. The May 2026 press release, read via a Tagitinews mirror, calls Jarvis founder and CEO and likewise does not name Chang Jing as chairman. No source obtained for this review shows that he still held the chairmanship in 2026. A complete, dated current management roster was not found.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://tagitnews.com/en/article/41350\">[s4]</a></p><h3>Shareholding and investors</h3><p>No annual report or exchange filing discloses the founders' shareholding or voting rights, so no actual controller is identified here. CRI Online reports that Luoke Intelligent received its first funding round within three months of founding at a post-money valuation of USD 240 million, a USD 100 million Series B in January 2022, and about USD 200 million in April 2022 at a USD 2 billion valuation, with investors including Tencent, Gaorong Capital, Sequoia Capital and IDG Capital.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>The company's September 2023 news release lists investors including Coatue, IDG Capital, Tencent, Sequoia Capital, Lightspeed China, Xianghe Capital, Gaorong Capital, Yunjiu Capital, Qiming Venture Partners and Northern Light Venture Capital, plus the USD 1 billion Weiqiao strategic investment; the post-investment shareholding structure was not disclosed.<a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://www.chinanews.com.cn/cj/2023/09-23/10083000.shtml\">[s6]</a></p>",
+      "zh": "<h3>创始人与公开履历</h3><p>昌敬是洛轲智能的创始人、董事长。媒体报道其毕业于华南理工大学计算机专业，2011 年前后任腾讯高级产品经理，创办美图工具公司北京魔图精灵，2014 年创立石头科技；石头科技于 2020 年 2 月 21 日在科创板上市。洛轲智能是 2021 年 1 月成立的独立公司，并非石头科技的子公司。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.cs.com.cn/ssgs/gsxw/202308/t20230823_6362748.html\">[s7]</a></p><p>闫枫（Jarvis Yan）为联合创始人、CEO。国际在线记载其原为威马汽车 CTO，2021 年 1 月起任洛轲智能 CEO。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><h3>现任管理层</h3><p>国际在线 2023 年 8 月 30 日记载，昌敬自洛轲智能 2021 年 1 月成立起任董事长。公司 2023 年 9 月 22 日新闻稿只称闫枫为联合创始人、CEO，没有写昌敬的董事长职务。2026 年 5 月新闻稿（经 Tagitinews 镜像可核）称 Jarvis 为创始人兼 CEO，同样没有写昌敬任董事长。本次没有找到 2026 年他仍任董事长的出处，也没有完整、带日期的现任管理层名单。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://tagitnews.com/en/article/41350\">[s4]</a></p><h3>股权与投资人</h3><p>无年报或交易所公告披露创始人持股与投票权，故此处不认定实际控制人。国际在线报道，洛轲智能成立 3 个月即获首轮融资、投后估值 2.4 亿美元，2022 年 1 月完成 1 亿美元 B 轮，2022 年 4 月再获约 2 亿美元、估值 20 亿美元，投资方含腾讯、高榕资本、红杉资本、IDG 资本。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p><p>公司 2023 年 9 月新闻稿列出的投资方包括 Coatue、IDG 资本、腾讯、红杉资本、光速中国、襄禾资本、高榕资本、云九资本、启明创投、北极光创投，另有魏桥创业集团 10 亿美元战略投资；投资完成后的股权结构未披露。<a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://www.chinanews.com.cn/cj/2023/09-23/10083000.shtml\">[s6]</a></p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive position</h3><p>Our assessment: ROX's domestic position is narrow and premium-priced against well-funded rivals. The ROX 01 and ADAMAS sit in the roughly RMB 300,000–360,000 mid-to-large SUV band, where they compete with range-extended models such as the Li Auto L8/L9, AITO M7, Denza N8L and Lynk &amp; Co 900. At roughly 2,000 units a month in total deliveries, its volume is a fraction of those peers, and Gasgoo notes its sales come mainly from overseas markets, so its domestic share is smaller still; its domestic dealer and service network is still being built out.<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><p>Our assessment: the brand's real differentiation is overseas and product-led. In its press release the company says its share of the UAE luxury all-terrain SUV segment above USD 80,000 ranked in the top three and exceeded 10 per cent, with the fastest share growth. Its outdoor-focused features (tailgate kitchen, air suspension on the ADAMAS, solid-state lidar, camp-mode functions) are concrete product choices that support a niche strategy rather than a volume strategy.<a href=\"https://tagitnews.com/en/article/41350\">[s4]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html\">[s5]</a></p><p>Our assessment: the light-asset model cuts capital intensity but cedes manufacturing control. Because production depends on BAW and, behind it, the Weiqiao group, ROX's output, quality and cost are partly outside its own control, while competitors that own their plants (such as Li Auto and AITO's backer Seres) can plan capacity directly. One self-media analysis describes ROX as, in effect, a showcase for Weiqiao's aluminium lightweighting business, with Weiqiao supplying components such as front subframes, integrated die-castings and all-aluminium bodies across the industry; that article does not cite a specific report for the supply-chain claim. This is a structural trade-off, not a quality judgement on the contract-manufacturing arrangement.<a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://news.qq.com/rain/a/20260601A02NMA00\">[s13]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p>",
+      "zh": "<h3>竞争位置</h3><p>我们的判断：极石在国内的体量较小、定价偏高，面对资金雄厚的对手。极石 01 与 ADAMAS 处于约 30 万–36 万元的中大型 SUV 价格带，与理想 L8/L9、问界 M7、腾势 N8L、领克 900 等增程车型直接竞争；其月交付约 2,000 台的规模远小于上述对手，且盖世汽车报道其销量主要来自海外市场，国内份额更小，国内销售与服务网络仍在建设。<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><p>我们的判断：品牌真正的差异在海外与产品定位。公司在新闻稿中称，在阿联酋 8 万美元以上的豪华全地形 SUV 细分市场，其份额位列前三、超过 10%，且份额增速最高。其面向户外的功能（尾门户外餐吧、ADAMAS 的空气悬架、固态激光雷达、露营模式等）是具体的产品选择，支撑的是细分策略而非走量策略。<a href=\"https://tagitnews.com/en/article/41350\">[s4]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html\">[s5]</a></p><p>我们的判断：轻资产模式降低了资本强度，但也让渡了制造控制。生产依赖北京汽车制造厂及其背后的魏桥集团，产量、质量与成本部分不在极石自身掌控之内；而拥有自有工厂的对手（如理想、问界背后的赛力斯）可直接规划产能。有自媒体分析称极石实质上扮演魏桥铝轻量化业务的「样板间」——魏桥通过前副车架、一体化压铸件、全铝车身等零部件向全行业供应；该文对供应链一说未给出具体报道出处。这是结构性取舍，不是对代工安排的品质判断。<a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a><a href=\"https://news.qq.com/rain/a/20260601A02NMA00\">[s13]</a><a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a></p>"
+    },
+    "outlook": {
+      "en": "<h3>Public plans</h3><p>The company has stated several dated targets. At the 28 December 2025 launch, co-founder and CEO Yan Feng announced a 2026 global sales target of 30,000 units, according to IT Home that day and later reports by Gasgoo and by IT Home via Phoenix.<a href=\"https://www.ithome.com/0/908/690.htm\">[s23]</a><a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>The Paper's account of 29 December 2025 does not name Yan Feng. It says the company set a 2026 global sales target of 30,000 units and would add about one new model a year, with a next-generation platform already in development.<a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><p>On 5 May 2026 ADIO said it would support an SKD assembly facility in KEZAD. The company's 6 May 2026 press release, read via a Tagitinews mirror, sets a goal of 300,000 units of annual capacity by 2030 and describes a partnership with KEZAD Group on the manufacturing centre. Production started in early September 2026, with an initial capacity target of 20,000 vehicles in 2027.<a href=\"https://pro.adiom.cloud.sitefinity.com/en/news/adio-rox-motor-kezad\">[s3]</a><a href=\"https://tagitnews.com/en/article/41350\">[s4]</a><a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.tradearabia.com/News/467561/ROX-begins-Adamas-vehicle-production-in-Abu-Dhabi\">[s19]</a></p><p>On the Egyptian project, AGBI names the partner Ezz Elarab &amp; Elsewedy Capital Holding (ESAF) and does not use the name ROX ESI Egypt. IT Home, via Phoenix, names ESI and the joint venture ROX ESI Egypt. Both describe local production from the second half of 2027.<a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><h3>Our analysis</h3><p>Our assessment: the 2026 sales target is demanding relative to the recent run-rate. As of the research cutoff (2026-10-29), the latest verifiable delivery figure is June 2026 (2,512 units) and first-half deliveries of 10,405 units, about 35 per cent of the 30,000-unit target (simple arithmetic). Official monthly delivery figures for July onward were not found in primary or authoritative media sources. The 40,000th vehicle rolling off the line on 4 September 2026 is a production milestone, not a delivery figure. This is a comparison of a stated target against reported deliveries, not a forecast.<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>Our assessment: the overseas production plans are contingent on execution and funding. The Abu Dhabi plant has begun production, but the jump to 20,000 units in 2027 and 300,000 by 2030, and the Egyptian plant's 2027 start, depend on local-content rules, tariffs, financing and demand that have not been verified from primary filings beyond the announcements themselves. Local assembly may improve delivery times and tariff treatment in the Middle East and North Africa, but it also adds capital and operational complexity for a company that publishes no financials.<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a><a href=\"https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production\">[s21]</a></p><p>Our assessment: the stated cadence of roughly one new model a year keeps the lineup narrow, which both limits the downside of a single-model miss and caps upside volume. A broader line would tend to widen demand, but each added model adds development and certification cost for a company that does not disclose finances; the cadence is consistent with its light-asset, niche strategy.<a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p>",
+      "zh": "<h3>公开计划</h3><p>公司给出过多项带日期的目标。2025 年 12 月 28 日的发布会上，联合创始人兼 CEO 闫枫宣布 2026 年全球销量目标为 3 万台。当天的 IT之家，以及此后的盖世汽车、凤凰网转载的 IT之家，都写了这一句。<a href=\"https://www.ithome.com/0/908/690.htm\">[s23]</a><a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>澎湃 2025 年 12 月 29 日的报道没有出现闫枫。该文写公司 2026 年设定 3 万台的全球销量目标，并以每年一款新车的节奏完善产品矩阵，下一代平台车型已进入研发。<a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><p>2026 年 5 月 5 日，ADIO 称将支持在 KEZAD 建设 SKD 组装工厂。公司 2026 年 5 月 6 日新闻稿（经 Tagitinews 镜像可核）提出 2030 年年产能 30 万辆，并写与 KEZAD 集团在制造中心上的合作。工厂已于 2026 年 9 月初投产，2027 年初期产能目标为 2 万辆。<a href=\"https://pro.adiom.cloud.sitefinity.com/en/news/adio-rox-motor-kezad\">[s3]</a><a href=\"https://tagitnews.com/en/article/41350\">[s4]</a><a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.tradearabia.com/News/467561/ROX-begins-Adamas-vehicle-production-in-Abu-Dhabi\">[s19]</a></p><p>埃及项目上，AGBI 将合作方写作 Ezz Elarab &amp; Elsewedy Capital Holding（ESAF），没有使用 ROX ESI Egypt 这一名称。IT之家（经凤凰网转载）写作 ESI 与合资公司 ROX ESI Egypt。两源都写 2027 年下半年起本地化生产。<a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><h3>我们的分析</h3><p>我们的判断：2026 年销量目标相对近期节奏偏高。截至研究截止日（2026-10-29），最新可核实的交付数据为 2026 年 6 月（2,512 台）及上半年累计 10,405 台，约为全年 3 万台目标的 35%（简单计算）。7 月起官方月度交付未在本次取得的一手或权威媒体来源中找到。2026 年 9 月 4 日第 4 万辆整车下线是生产节点，而非交付数据。这是对既定目标与已报告交付的对比，不是预测。<a href=\"https://www.d1ev.com/news/shichang/305080\">[s17]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>我们的判断：海外生产计划取决于执行与资金。阿布扎比工厂虽已投产，但要实现 2027 年 2 万辆、2030 年 30 万辆，以及埃及工厂 2027 年投产，都取决于本地化率、关税、融资与需求，除公告本身外尚未经一手文件独立核验。本地组装可能改善在中东与北非的交付周期与关税条件，但也给一家财务不公开的公司增加资本与运营复杂度。<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a><a href=\"https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production\">[s21]</a></p><p>我们的判断：公司宣布的每年约一款新车的节奏让产品矩阵保持较窄，既限制了单车型失手的下行风险，也封顶了销量上行空间。更宽的产品线通常有利于扩大需求，但每增加一款车型都会给财务不公开的公司增加开发与认证成本；这一节奏与其轻资产、细分策略一致。<a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p>"
+    },
+    "risks": {
+      "en": "<h3>Operating and financial risks</h3><p>Scale and financial opacity: ROX is unlisted and publishes no financial statements, so revenue, profitability and cash position cannot be verified. Its monthly deliveries of roughly 2,000 units are small relative to the capital intensity of the business.<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://news.qq.com/rain/a/20260601A02NMA00\">[s13]</a></p><p>Manufacturing dependence: production is outsourced to BAW, controlled by Weiqiao. This reduces capital outlay but makes output, quality and cost dependent on a partner, and on the continued availability of that relationship.<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>External funding: the USD 1 billion Weiqiao investment announced in September 2023 is planned, per the announcement, for all-aluminium body R&D, integrated die-casting and a short-process smart factory. The post-investment equity structure has not been disclosed.<a href=\"https://www.chinanews.com.cn/cj/2023/09-23/10083000.shtml\">[s6]</a><a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a></p><p>Overseas execution: ROX's growth depends on export markets and on its Abu Dhabi and Egyptian assembly projects. These involve local-content rules, tariffs and financing that have not been verified from primary filings, and any delay could slow the brand's main growth channel.<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a></p><p>Competition and technology: the domestic segment ROX addresses is contested by larger, better-funded range-extended SUVs, and its differentiation rests partly on advanced driver-assistance and lidar features whose software value depends on continued development and regulatory approval. A policy or tariff shift in its key Middle East and North African export markets could also raise the cost of its export-led model.<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><p>Single-brand concentration: ROX currently sells only two models under one brand, so demand swings, recalls or a model-changeover delay fall on a very narrow product base.<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a></p>",
+      "zh": "<h3>经营与财务风险</h3><p>规模与财务不透明：极石未上市、不披露财务数据，营收、盈利与现金状况均无法核验。其约 2,000 台的月交付规模相对造车的资本强度偏小。<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://news.qq.com/rain/a/20260601A02NMA00\">[s13]</a></p><p>制造依赖：生产外包给魏桥旗下的北京汽车制造厂。这降低了资本开支，但产量、质量与成本都依赖合作方，且取决于该合作关系的持续可用性。<a href=\"https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html\">[s12]</a><a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a></p><p>外部资金：2023 年 9 月宣布的魏桥 10 亿美元投资，据公告计划用于全铝车身研发、一体化压铸和短流程智造工厂项目。投资完成后的股权结构未披露。<a href=\"https://www.chinanews.com.cn/cj/2023/09-23/10083000.shtml\">[s6]</a><a href=\"https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb\">[s2]</a></p><p>海外执行：极石的增长依赖出口市场及阿布扎比、埃及的本地组装项目。这些项目涉及本地化率、关税与融资，尚未经一手文件核验，任何延误都可能拖慢品牌的主要增长通道。<a href=\"https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html\">[s18]</a><a href=\"https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/\">[s20]</a></p><p>竞争与技术：极石所处的国内细分市场面临更大、资金更雄厚的增程 SUV 竞争，其差异化部分依赖高阶智驾与激光雷达功能，其软件价值取决于持续研发与合规审批。此外，其重点的中东与北非出口市场若出现政策或关税变化，也可能抬高其出口导向模式的成本。<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://www.thepaper.cn/newsDetail_forward_32271954\">[s9]</a></p><p>单一品牌集中：极石目前仅销售极石 01 与 ADAMAS 两款车型、单一品牌，需求波动、召回事件或车型切换延迟都会落在一个非常窄的产品基础上。<a href=\"https://tech.ifeng.com/c/8w9NdQIzFB9\">[s10]</a><a href=\"https://www.roxmotor.com/rox01/configuration\">[s15]</a></p>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "ROX Motor official website — Milestones page (accessed 2026-10-29)", "url": "https://www.roxmotor.com/milestone", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "Luoke Intelligent official news: Weiqiao Pioneering Group USD 1 billion strategic investment, 22 September 2023", "url": "https://www.roxintel.com/h5h5/article/4a11dfe7e4e344ab94067ce2ec932ccb", "date": "2023-09-22", "tier": "A" },
+    { "id": "s3", "name": "Abu Dhabi Investment Office (ADIO) official news: ADIO partners with ROX Motor for an SKD facility in KEZAD, 5 May 2026", "url": "https://pro.adiom.cloud.sitefinity.com/en/news/adio-rox-motor-kezad", "date": "2026-05-05", "tier": "A" },
+    { "id": "s4", "name": "Tagitinews mirror of the ROX press release 'Made in the Emirates, Made for the World', 6 May 2026 (the Ain Al Emirate URL returned only a Cloudflare interstitial)", "url": "https://tagitnews.com/en/article/41350", "date": "2026-05-06", "tier": "B" },
+    { "id": "s5", "name": "Xinhua News (news.cn): ROX ADAMAS China launch, 29 December 2025", "url": "https://www.news.cn/auto/20251229/69ddf37142d9462aa0445c860cf6f9da/c.html", "date": "2025-12-29", "tier": "B" },
+    { "id": "s6", "name": "China News Service: Weiqiao Pioneering Group USD 1 billion investment in Luoke Intelligent, 23 September 2023", "url": "https://www.chinanews.com.cn/cj/2023/09-23/10083000.shtml", "date": "2023-09-23", "tier": "B" },
+    { "id": "s7", "name": "China Securities Journal (cs.com.cn): ROX 01 launch; Chang Jing background, 23 August 2023", "url": "https://www.cs.com.cn/ssgs/gsxw/202308/t20230823_6362748.html", "date": "2023-08-23", "tier": "B" },
+    { "id": "s8", "name": "China Quality News (cqn.com.cn): ROX 01 nationwide deliveries begin; CATL battery and lidar configuration, 29 November 2023", "url": "https://www.cqn.com.cn/auto/content/2023-11/29/content_9004643.htm", "date": "2023-11-29", "tier": "B" },
+    { "id": "s9", "name": "The Paper: ROX ADAMAS China launch and 2026 target, 29 December 2025", "url": "https://www.thepaper.cn/newsDetail_forward_32271954", "date": "2025-12-29", "tier": "B" },
+    { "id": "s10", "name": "IT Home (via Phoenix Technology): 40,000th ROX vehicle; 2025 deliveries; Egypt JV, 4 September 2026", "url": "https://tech.ifeng.com/c/8w9NdQIzFB9", "date": "2026-09-04", "tier": "B" },
+    { "id": "s11", "name": "JWview (Zhongxin Jingwei): June 2026 new-force deliveries (ROX 2,512 units), 1 July 2026", "url": "https://www.jwview.com/jingwei/html/m/07-01/677298.shtml", "date": "2026-07-01", "tier": "B" },
+    { "id": "s12", "name": "CRI Online auto: the story behind BAW and ROX (ROX 01 specs; founder and funding backgrounds), 30 August 2023", "url": "https://auto.cri.cn/20230830/eb9416ae-b254-c349-b6f9-2ae9ce55ecc0.html", "date": "2023-08-30", "tier": "B" },
+    { "id": "s13", "name": "Tencent News self-media column: 'Five years on, how the ROX start-up survives' (Weiqiao aluminium strategy, BAW, unlisted status), 3 June 2026", "url": "https://news.qq.com/rain/a/20260601A02NMA00", "date": "2026-06-03", "tier": "C" },
+    { "id": "s14", "name": "Sina Finance (Operator Finance): Yan Feng (Jarvis Yan) career background, 28 July 2024", "url": "https://finance.sina.com.cn/tech/roll/2024-07-28/doc-incfsfyf2120566.shtml", "date": "2024-07-28", "tier": "C" },
+    { "id": "s15", "name": "ROX Motor official website — ROX 01 configuration page (accessed 2026-10-29)", "url": "https://www.roxmotor.com/rox01/configuration", "date": "2026-10-29", "tier": "A" },
+    { "id": "s16", "name": "ROX Motor privacy policy (effective 19 September 2025): operating entities of 'ROX Auto'", "url": "https://poster.roxmotor.com/community-cms/agreement/user-privacy.html", "date": "2025-09-19", "tier": "A" },
+    { "id": "s17", "name": "Gasgoo (d1ev.com): ROX June 2026 deliveries, first-half cumulative, overseas-led sales, 1 July 2026", "url": "https://www.d1ev.com/news/shichang/305080", "date": "2026-07-01", "tier": "B" },
+    { "id": "s18", "name": "MOFCOM, Economic and Commercial Office of the Chinese Embassy in the UAE (citing WAM, 3 September 2026): ROX starts local production in Abu Dhabi", "url": "https://ae.mofcom.gov.cn/zahz/art/2026/art_3096dd5eb153469ba789bf8ddd608ebb.html", "date": "2026-09-10", "tier": "A" },
+    { "id": "s19", "name": "Trade Arabia: ROX begins Adamas vehicle production in Abu Dhabi, 4 September 2026", "url": "https://www.tradearabia.com/News/467561/ROX-begins-Adamas-vehicle-production-in-Abu-Dhabi", "date": "2026-09-04", "tier": "B" },
+    { "id": "s20", "name": "AGBI: China's Rox Motor signs deal to build cars in Egypt, 15 June 2026", "url": "https://www.agbi.com/manufacturing/2026/06/chinas-rox-motor-signs-deal-to-build-cars-in-egypt/", "date": "2026-06-15", "tier": "B" },
+    { "id": "s21", "name": "MEED: UAE vehicle manufacturing push moves into production (global HQ moved to the UAE; KEZAD lease; capacity targets), 25 September 2026", "url": "https://www.meed.com/uae-vehicle-manufacturing-push-moves-into-production", "date": "2026-09-25", "tier": "B" },
+    { "id": "s22", "name": "Abu Dhabi Media Office: ADIO partners with ROX Motor to open a regional headquarters in Abu Dhabi, 12 November 2025", "url": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-investment-office-partners-with-rox-motor-to-open-regional-headquarters-in-abu-dhabi/", "date": "2025-11-12", "tier": "A" },
+    { "id": "s23", "name": "IT Home: Yan Feng announces a 2026 global sales target of 30,000 units, 28 December 2025", "url": "https://www.ithome.com/0/908/690.htm", "date": "2025-12-28", "tier": "B" }
+  ]
+}

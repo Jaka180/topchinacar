@@ -1,0 +1,324 @@
+{
+  "id": "kaiyi",
+  "name_en": "Yibin Kaiyi Automobile Co., Ltd. (Kaiyi Auto)",
+  "name_zh": "宜宾凯翼汽车有限公司（凯翼汽车）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Registered on 28 January 2014 as Wuhu Kaiyi Automobile Co., Ltd., a wholly-owned subsidiary of Chery Automobile; relocated to Yibin and renamed in December 2017",
+      "value_zh": "2014 年 1 月 28 日注册，前身为奇瑞汽车全资子公司芜湖凯翼汽车有限公司；2017 年 12 月迁入宜宾并更名",
+      "period": null,
+      "source_ids": ["s1", "s3", "s7"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Yibin, Sichuan, China (Lingang Economic and Technological Development Zone)",
+      "value_zh": "中国四川省宜宾市（临港经济技术开发区）",
+      "period": null,
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-owned vehicle maker; the only automaker in Sichuan with the full passenger-vehicle catalogue (sedan, SUV, MPV) and dual fuel/new-energy qualifications",
+      "value_zh": "国有整车企业；四川省唯一一家全品类（轿车、SUV、MPV）兼具燃油车与新能源车双资质的乘用车生产企业",
+      "period": null,
+      "source_ids": ["s3", "s4", "s5"]
+    },
+    {
+      "label_en": "Shareholders",
+      "label_zh": "股东",
+      "value_en": "After the 4 January 2026 registration change, registered capital is RMB6,066,617,700. Yibin Automobile Industry Development Investment Co., Ltd. holds 62.8579% (subscribed RMB3,813,349,300) and Tianjin Xinkai Enterprise Management Partnership (L.P.), under China Cinda, holds 22.0802% (subscribed RMB1,339,520,500). Jiemian reported that Chery Automobile and Sichuan Yibin Pushi Group remain shareholders; the registry page that was opened did not show their post-increase stakes. The 14 December 2024 announcement showed Yibin Auto Investment 80.67%, Chery 18.00%, Pushi 1.33% and registered capital of RMB4.727 billion. No public announcement names an actual controller",
+      "value_zh": "2026 年 1 月 4 日工商变更后，注册资本 606,661.77 万元。宜宾市汽车产业发展投资有限责任公司持股 62.8579%（认缴 381,334.93 万元），天津信凯企业管理合伙企业（有限合伙，中国信达旗下）持股 22.0802%（认缴 133,952.05 万元）。界面新闻报道其余股东仍为奇瑞汽车股份有限公司与四川省宜宾普什集团有限公司，已打开的工商页面未列出这两家增资后的持股比例。2024 年 12 月 14 日常熟汽饰公告中的结构是宜宾汽投 80.67%、奇瑞 18.00%、普什 1.33%，注册资本 47.27 亿元。公开公告未见明确的「实际控制人」认定",
+      "period": "2026-01-04",
+      "source_ids": ["s36", "s37", "s3"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市情况",
+      "value_en": "Not listed. Registered capital is RMB6,066,617,700 (about RMB6.067 billion) after the 4 January 2026 registration change; the December 2024 announcement showed RMB4.727 billion",
+      "value_zh": "未上市。2026 年 1 月 4 日工商变更后注册资本为 606,661.77 万元（约 60.67 亿元）；2024 年 12 月公告时为 47.27 亿元",
+      "period": "2026-01-04",
+      "source_ids": ["s36", "s37", "s3"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "More than 1,300 (as disclosed by the Yibin government in late 2020); no newer figure published",
+      "value_zh": "1300 余人（宜宾市经信局 2020 年底披露）；其后未再公开更新数字",
+      "period": "2020-12",
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Revenue (latest audited)",
+      "label_zh": "营收（最近经审计）",
+      "value_en": "Not publicly disclosed (unlisted; no audited financial statements)",
+      "value_zh": "未公开披露（非上市公司，无经审计财报）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Net profit (latest audited)",
+      "label_zh": "净利润（最近经审计）",
+      "value_en": "Not publicly disclosed",
+      "value_zh": "未公开披露",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Output / sales (2025)",
+      "label_zh": "产量／销量（2025 年）",
+      "value_en": "Annual output exceeded 100,000 units for the first time, reaching 123,000 units in 2025. A January 2026 reprint quotes general manager Gao Lei as saying full-year exports were 33,000 units (+257% YoY). The 27 April 2026 international business conference reported 2025 export-sales growth of 233%. The two export-growth figures are not the same",
+      "value_zh": "2025 年产量首次突破 10 万辆、达 12.3 万辆。2026 年 1 月的转载引述总经理高雷称全年出口 3.3 万辆（同比增 257%）。2026 年 4 月 27 日国际商务大会称 2025 年出口销量同比增长 233%。两处出口增速不是同一个数",
+      "period": "2025",
+      "source_ids": ["s9", "s8", "s38"]
+    },
+    {
+      "label_en": "Overseas sales (exports)",
+      "label_zh": "海外销量（出口）",
+      "value_en": "A January 2026 reprint quotes full-year 2025 exports of 33,000 units (+257% YoY); the 27 April 2026 company conference reported 2025 export-sales growth of 233%. Cumulative exports exceeded 60,000 units as of April 2025, covering 54 countries and regions. People's Daily Online Sichuan reported January-November 2025 exports of 33,000 units (+226% YoY), of which 25,000 were new-energy vehicles",
+      "value_zh": "2026 年 1 月的转载称 2025 年全年出口 3.3 万辆（同比增 257%）；2026 年 4 月 27 日公司大会称 2025 年出口销量同比增长 233%。截至 2025 年 4 月累计出口超 6 万辆，覆盖 54 个国家和地区。人民网四川频道 2025 年 12 月报道，2025 年 1–11 月出口 3.3 万辆（同比增 226%），其中新能源汽车出口 2.5 万辆",
+      "period": "2025",
+      "source_ids": ["s9", "s5", "s34", "s38"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2014-01",
+      "event_en": "Wuhu Kaiyi Automobile Co., Ltd. is registered (28 January) as a wholly-owned subsidiary of Chery Automobile, positioned as an 'internet car' brand for young buyers using a 'crowdsourced car-making' approach led by former Chery deputy general manager Lu Jianhui.",
+      "event_zh": "芜湖凯翼汽车有限公司注册成立（1 月 28 日），为奇瑞汽车全资子公司，定位面向年轻人的「互联网汽车」品牌，主打「众包造车」，由奇瑞原副总经理陆建辉牵头。",
+      "source_ids": ["s1", "s3", "s29"]
+    },
+    {
+      "date": "2016-12",
+      "event_en": "Founder-leader Lu Jianhui steps back and fellow Chery veteran Feng Wutang takes over.",
+      "event_zh": "陆建辉隐退，同为奇瑞体系出身的冯武堂接任。",
+      "source_ids": ["s30"]
+    },
+    {
+      "date": "2017-12",
+      "event_en": "Kaiyi is relocated to Yibin, Sichuan and renamed Yibin Kaiyi Automobile Co., Ltd., with total investment of RMB5.3 billion.",
+      "event_zh": "凯翼迁入四川宜宾，更名为宜宾凯翼汽车有限公司，总投资 53 亿元。",
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "date": "2018-01",
+      "event_en": "Chery transfers 51% of Kaiyi for RMB2.494 billion to Yibin Automobile Industry Development Investment Co., Ltd. (50.5%) and Sichuan Yibin Pushi Group Co., Ltd. (0.5%); Chery keeps 49%. Yibin gains an independent passenger-vehicle production qualification.",
+      "event_zh": "奇瑞将凯翼 51% 股权作价 24.94 亿元转让给宜宾市汽车产业发展投资有限责任公司（50.5%）与四川省宜宾普什集团有限公司（0.5%），奇瑞保留 49%；宜宾由此获得独立乘用车生产资质。",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2019-02",
+      "event_en": "Lu Jianhui, the Chery executive who founded Kaiyi, passes away, according to Wuhu Daily.",
+      "event_zh": "据《芜湖日报》报道，凯翼创始人、奇瑞原副总经理陆建辉离世。",
+      "source_ids": ["s30"]
+    },
+    {
+      "date": "2019-12",
+      "event_en": "The Yibin smart factory is completed and put into production: phase one covers 973 mu with a planned annual capacity of 150,000 units (up to 250,000 attainable).",
+      "event_zh": "宜宾智慧工厂建成投产，一期占地 973 亩，规划年产能 15 万辆（实际可达 25 万辆）。",
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "date": "2020-06",
+      "event_en": "The Xuanjie compact SUV, the first model produced at the Yibin plant, goes on sale at RMB58,900-84,900.",
+      "event_zh": "宜宾工厂首款车型炫界紧凑型 SUV 上市，售价 5.89 万–8.49 万元。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2021",
+      "event_en": "Kaiyi starts its overseas export business through both complete-built-unit (CBU) and knocked-down (KD) shipments.",
+      "event_zh": "凯翼开启海外出口业务，以整车出口（CBU）与散件出口（KD）并行。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2022-02",
+      "event_en": "Kaiyi signs a comprehensive partnership agreement with Huawei covering enterprise digital transformation and next-generation intelligent connected vehicle development.",
+      "event_zh": "凯翼与华为签署全面合作协议，涵盖企业数字化转型与新一代智能网联汽车开发。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2022-07",
+      "event_en": "At the World Power Battery Conference, Kaiyi announces a new-energy strategy and a brand renewal.",
+      "event_zh": "在世界动力电池大会上发布新能源战略并进行品牌焕新。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2022-10",
+      "event_en": "The Kunlun, the first strategic model built on the i-FA modular architecture, rolls off the line.",
+      "event_zh": "凯翼昆仑下线，为 i-FA 平台首款战略车型。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2023-03",
+      "event_en": "On 20 March the Kunlun mid-size SUV, the first model under the new brand strategy, goes on sale. Xinhua listed official guide prices of RMB99,900-159,900 for the Kunlun 300 (plateau, peak, skyline, starry and executive) and RMB129,900-149,900 for the Kunlun 500 (skyline, starry and galaxy). The Kunlun i-HD hybrid was on presale at RMB159,900, RMB179,900 and RMB239,900, outside that fuel-model band.",
+      "event_zh": "3 月 20 日，新品牌战略首款车型凯翼昆仑中型 SUV 上市。据新华网，昆仑 300 官方指导价 9.99 万–15.99 万元（高原、山峰、天际、星空、行政），昆仑 500 官方指导价 12.99 万–14.99 万元（天际、星空、银河）。昆仑 i-HD 混动当时为预售价 15.99 万、17.99 万和 23.99 万元，不在上述燃油版价格带内。",
+      "source_ids": ["s14"]
+    },
+    {
+      "date": "2023-11",
+      "event_en": "The Shiyue, an A00-class electric city car and the first model on the i-EA pure-electric platform, goes on sale at RMB53,900-69,900.",
+      "event_zh": "凯翼拾月 A00 级纯电小车上市，售价 5.39 万–6.99 万元，为 i-EA 纯电平台首款车型。",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2023",
+      "event_en": "Kaiyi obtains MIIT PHEV production qualification, and receives zero-carbon factory, carbon-neutral and national green factory certifications.",
+      "event_zh": "凯翼获批工信部插电式混动（PHEV）生产资质，并获零碳工厂、碳中和、国家级绿色工厂等认证。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-03",
+      "event_en": "Yibin and Chery Group begin a full-scope deep cooperation (Yibin's first in-depth tie-up with Chery in seven years), with Chery empowering Kaiyi across the supply chain, sales and R&D.",
+      "event_zh": "宜宾时隔 7 年与奇瑞集团开启全方位深度合作，奇瑞在供应链、销售端与研发侧对凯翼进行深度赋能。",
+      "source_ids": ["s35"]
+    },
+    {
+      "date": "2024",
+      "event_en": "Global sales exceed 70,000 units; Kaiyi-related auto and parts industrial output value reaches RMB5.71 billion (+12.2% YoY).",
+      "event_zh": "全球销量突破 7 万辆；凯翼相关汽车及零部件产业产值达 57.1 亿元（同比增 12.2%）。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2024-09",
+      "event_en": "At the third World Power Battery Conference, Kaiyi unveils three international new-energy models: the Kunlun iHD International (export name X7 iHD), the Shiyue International (export name e-Qute 02) and the Xuanjie Pro EV International (export name X3 Pro EV).",
+      "event_zh": "在宜宾举行的第三届世界动力电池大会上，凯翼发布三款国际版新能源车型：昆仑 iHD 国际版（海外命名 X7 iHD）、拾月国际版（海外命名 e-Qute 02）、炫界 Pro EV 国际版（海外命名 X3 Pro EV）。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2025",
+      "event_en": "Annual output exceeds 100,000 units for the first time, reaching 123,000 units. A January 2026 reprint quotes exports of 33,000 units (+257% YoY); the 27 April 2026 company conference reported 2025 export-sales growth of 233%.",
+      "event_zh": "全年产量首次突破 10 万辆、达 12.3 万辆。2026 年 1 月的转载称出口 3.3 万辆、同比增 257%；2026 年 4 月 27 日公司大会称 2025 年出口销量同比增长 233%。",
+      "source_ids": ["s9", "s38"]
+    },
+    {
+      "date": "2025-06",
+      "event_en": "The Shiyue Mate, a five-seat A00 electric car, goes on sale at RMB59,900-75,900 with 305-405 km CLTC range.",
+      "event_zh": "拾月 Mate 五座纯电小车上市，售价 5.99 万–7.59 万元，CLTC 续航 305–405 公里。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025-09",
+      "event_en": "The refreshed Kunlun iHD plug-in hybrid SUV goes on sale at RMB129,900-159,900, with a 201 km CLTC electric range.",
+      "event_zh": "新款昆仑 iHD 插电混动 SUV 上市，售价 12.99 万–15.99 万元，CLTC 纯电续航 201 公里。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "Chairman Jia Yaquan states that, with Chery Group's empowerment, Kaiyi's 2026 production and sales are expected to exceed 140,000 units and exceed 200,000 units in 2027; the Yibin base is now part of Chery Group's key capacity layout, with the local sourcing rate to rise from 27.7% toward above 40% by 2027.",
+      "event_zh": "董事长贾亚权表示，在奇瑞集团深度赋能下，凯翼 2026 年产销量预计突破 14 万辆、2027 年突破 20 万辆；宜宾基地已纳入奇瑞集团重要产能布局，本地化配套率由 2023 年的 16% 提升至 27.7%，目标 2027 年突破 40%。",
+      "source_ids": ["s19", "s20"]
+    },
+    {
+      "date": "2026-10",
+      "event_en": "Avtotor's CEO states (as reported by Izvestia) that Kaiyi assembly at the Kaliningrad plant has been discontinued, with Votur Motor Rus LLC now handling distribution and having certified the X7 Kunlun crossover.",
+      "event_zh": "据 Izvestia 报道，Avtotor 首席执行官表示凯翼车型在加里宁格勒工厂的组装已经停止，现由 Votur Motor Rus LLC 负责分销，新分销商已认证 X7 昆仑跨界车。",
+      "source_ids": ["s27"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Kaiyi",
+      "name_zh": "凯翼",
+      "role_en": "Main full-line passenger-vehicle brand covering sedans, SUVs and MPVs with both fuel and new-energy qualifications; Sichuan's only automaker holding the full passenger-vehicle catalogue.",
+      "role_zh": "主品牌，覆盖轿车、SUV、MPV 车型，兼具燃油与新能源双资质，是四川省唯一具备全品类乘用车资质的整车企业。",
+      "price_band": "Shiyue from RMB53,900; Kunlun 300 official guide prices at the March 2023 launch RMB99,900-159,900; refreshed Kunlun iHD RMB129,900-159,900",
+      "founded": 2014,
+      "owner_note_en": "After the 4 January 2026 registration change, Yibin Automobile Industry Development Investment holds 62.8579% and Tianjin Xinkai Enterprise Management Partnership (under China Cinda) holds 22.0802%. Jiemian reported that Chery and Sichuan Yibin Pushi Group remain shareholders; their new percentages were not on the registry page that was opened. The December 2024 announcement (80.67% / 18.00% / 1.33%, registered capital RMB4.727 billion) is the pre-change snapshot. The official site has listed the Kunlun, Kunlun iHD and Kunlun L8 SUVs, the Xuandu and Xuandu EV sedans, the Xuanjie, Xuanjie Pro and Xuanjie Pro EV SUVs, and the Shiyue, Shiyue Mate and Shiyue max city cars. For export, the Kunlun is badged X7, the Xuanjie Pro as X3 Pro and the Xuandu as E5.",
+      "owner_note_zh": "2026 年 1 月 4 日工商变更后，宜宾市汽车产业发展投资有限责任公司持股 62.8579%，天津信凯企业管理合伙企业（中国信达旗下）持股 22.0802%。界面新闻报道奇瑞与四川省宜宾普什集团仍为股东，已打开的工商页面没有这两家增资后的比例。2024 年 12 月公告的 80.67% / 18.00% / 1.33%、注册资本 47.27 亿元是变更前的快照。官网在售名单包括昆仑、昆仑 iHD、昆仑 L8，轩度、轩度 EV，炫界、炫界 Pro、炫界 Pro EV，以及拾月、拾月 Mate、拾月 max。出口时，昆仑以 X7、炫界 Pro 以 X3 Pro、轩度以 E5 的名义销售。",
+      "status": "active",
+      "source_ids": ["s36", "s37", "s3", "s2"]
+    },
+    {
+      "name_en": "Jiangtun (Jiangtun E5 / E7)",
+      "name_zh": "江豚（江豚 E5 / E7）",
+      "role_en": "New-energy logistics vehicle (microvan) series, marking Kaiyi's entry into the commercial-vehicle segment.",
+      "role_zh": "新能源物流车（微面）系列，是凯翼进入商用车领域的标志。",
+      "price_band": null,
+      "founded": 2025,
+      "owner_note_en": "The Jiangtun E5 and E7 appear in the in-sale lineup on Kaiyi's official website.",
+      "owner_note_zh": "江豚 E5、E7 出现在凯翼官网在售车型中。",
+      "status": "active",
+      "source_ids": ["s2"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not disclosed (unlisted company)",
+    "rows": [],
+    "note_en": "Yibin Kaiyi Automobile Co., Ltd. is an unlisted, state-controlled company and does not publish audited financial statements; no prospectus or exchange filing is available. There is therefore no audited net profit attributable to the parent (or to ordinary shareholders), revenue, gross margin or R&D figure that can be reported here. The unit field is unused because the table is empty. As non-audited context only, a 22 March 2024 article by the Yibin federation of returned overseas Chinese, carried on Sohu (https://www.sohu.com/a/766136943_121106884), gives 2023 output of 55,467 units (+52%), output value of RMB4.212 billion (+75%), sales of 52,013 units (+51%, of which 28,155 were international, +91%), operating revenue of RMB3.724 billion (+49%), profit of RMB44.27 million and tax of RMB113 million (+295%). These are not audited annual-report data.",
+    "note_zh": "宜宾凯翼汽车有限公司为非上市国有控股企业，未公开披露经审计财务报表，亦无招股书或交易所公告可供查阅，故无法取得经审计的归属于母公司股东（或归属于普通股股东）的净利润、营收、毛利率、研发投入等数据。财务表为空，unit 字段不对应表内数字。仅作非审计背景：宜宾市侨联 2024 年 3 月 22 日稿（经搜狐转载，https://www.sohu.com/a/766136943_121106884）写明 2023 年产量 55,467 台（+52%）、产值 42.12 亿元（+75%）、销量 52,013 台（+51%，其中国际 28,155 台，+91%）、营业收入 37.24 亿元（+49%）、利润 4,427 万元、缴纳税金 1.13 亿元（+295%）。上述不是经审计的年报数据。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Yibin Kaiyi Automobile Co., Ltd. (Kaiyi Auto) is a state-controlled passenger-vehicle maker headquartered in Yibin, Sichuan. It began in January 2014 as Wuhu Kaiyi Automobile Co., Ltd., a wholly-owned 'internet car' subsidiary of Chery Automobile, and relocated to Yibin in December 2017, after which a Yibin municipal state-owned entity took control <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a><a href=\"https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html\">[s7]</a>. It is the only automaker in Sichuan holding the full passenger-vehicle catalogue (sedan, SUV, MPV) with both fuel and new-energy qualifications, selling models mainly in the RMB50,000-160,000 band such as the Kunlun mid-size SUV, the Xuandu sedan and the Shiyue electric city car, plus the Jiangtun electric logistics vans <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a><a href=\"https://kaiyihome.com\">[s2]</a>. Backed by Chery's technology platforms and Yibin's state capital, Kaiyi's 2025 output first exceeded 100,000 units, at 123,000. A January 2026 reprint quotes exports of 33,000 units, up 257%; the company's 27 April 2026 conference reported 2025 export-sales growth of 233% <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://4g.scdaily.cn/wap/scrb/20260121/1069178.html\">[s18]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>.</p><p>Kaiyi's shareholding history reflects its dual identity of 'Chery technology plus Yibin capital': in early 2018 Chery transferred 51% for RMB2.494 billion to Yibin Automobile Industry Development Investment Co., Ltd. and Sichuan Yibin Pushi Group Co., Ltd., keeping 49% <a href=\"https://m.cnr.cn/auto/20180109/t20180109_524092784.html\">[s10]</a>. A December 2024 announcement showed Yibin Auto Investment at 80.67%, Chery at 18.00% and Pushi at 1.33%, with registered capital of RMB4.727 billion <a href=\"https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm\">[s3]</a>. On 4 January 2026 the registry changed: capital rose to RMB6,066,617,700, Yibin Auto Investment held 62.8579% and new shareholder Tianjin Xinkai Enterprise Management Partnership, under China Cinda, held 22.0802%. Jiemian reported that Chery and Pushi remained shareholders; the opened registry page did not show their new percentages <a href=\"https://www.163.com/dy/article/KIJK9TBL0534A4SC.html\">[s36]</a><a href=\"https://m.shuidi.cn/company-765ba38b89f612498dd20affad3b9501.html\">[s37]</a>.</p>",
+      "zh": "<p>宜宾凯翼汽车有限公司（凯翼汽车）是一家总部位于四川宜宾的国有控股乘用车整车企业。其前身是奇瑞汽车 2014 年 1 月设立的全资互联网汽车子公司芜湖凯翼汽车有限公司，2017 年 12 月迁入宜宾后由宜宾市属国企取得控股地位 <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a><a href=\"https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html\">[s7]</a>。公司是四川省唯一同时具备轿车、SUV、MPV 车型及燃油与新能源双资质的乘用车生产企业，主力产品集中在 5 万–16 万元价格带，包括昆仑中型 SUV、轩度轿车、拾月纯电小车以及江豚新能源物流车 <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a><a href=\"https://kaiyihome.com\">[s2]</a>。依托奇瑞的技术平台与宜宾国资的资金支持，凯翼 2025 年产量首次突破 10 万辆、达 12.3 万辆。2026 年 1 月的转载称出口 3.3 万辆、增 257%；2026 年 4 月 27 日公司大会称 2025 年出口销量同比增长 233% <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://4g.scdaily.cn/wap/scrb/20260121/1069178.html\">[s18]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>。</p><p>凯翼的股权沿革体现了「奇瑞技术＋宜宾资本」的双重身份：2018 年初，奇瑞将 51% 股权作价 24.94 亿元转让给宜宾市汽车产业发展投资有限责任公司与四川省宜宾普什集团有限公司，奇瑞保留 49% <a href=\"https://m.cnr.cn/auto/20180109/t20180109_524092784.html\">[s10]</a>。2024 年 12 月公告显示宜宾汽投 80.67%、奇瑞 18.00%、普什 1.33%，注册资本 47.27 亿元 <a href=\"https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm\">[s3]</a>。2026 年 1 月 4 日工商变更后，注册资本增至 606,661.77 万元，宜宾汽投持股 62.8579%，新增中国信达旗下天津信凯企业管理合伙企业持股 22.0802%。界面新闻报道奇瑞与普什仍为股东，已打开的工商页面没有这两家的新比例 <a href=\"https://www.163.com/dy/article/KIJK9TBL0534A4SC.html\">[s36]</a><a href=\"https://m.shuidi.cn/company-765ba38b89f612498dd20affad3b9501.html\">[s37]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>Kaiyi is a single-plant passenger-vehicle maker that has recently expanded into new-energy logistics vehicles. Its core domestic products are the Kunlun and Kunlun iHD mid-size SUVs, the Xuandu sedan and its EV variant, the Xuanjie and Xuanjie Pro compact SUVs, and the Shiyue family of A00 electric city cars <a href=\"https://kaiyihome.com\">[s2]</a>. It also sells the Jiangtun E5 and E7 electric microvans, an entry into the commercial-vehicle segment <a href=\"https://kaiyihome.com\">[s2]</a>. On exports, Kaiyi began shipping vehicles in 2021 via CBU and KD; by April 2025 cumulative exports exceeded 60,000 units, with 57 overseas partners, channels in 54 countries and regions and nearly 400 sales outlets <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>. For 2025, output reached 123,000 units. A January 2026 reprint quotes exports of 33,000 units (+257% YoY); the 27 April 2026 company conference reported export-sales growth of 233% <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>.</p><p>The product line has been broadening at both ends of the price ladder. In June 2025 Kaiyi launched the Shiyue Mate, a five-seat A00 electric car priced at RMB59,900-75,900 with 305-405 km CLTC range <a href=\"https://mpcauto.pcvideo.com.cn/hj/article/2949248.html\">[s24]</a>; in April 2026 it opened pre-sales of the Shiyue max (RMB47,900-51,900) and then launched it with a 310 km range <a href=\"https://db.auto.sohu.com/model_7222/news\">[s25]</a>. In September 2024 the company unveiled three export-oriented new-energy models — the X7 iHD, e-Qute 02 and X3 Pro EV <a href=\"https://db.auto.sohu.com/model_7222/news\">[s25]</a>.</p><h3>Latest disclosed operating data</h3><p>As of the research cut-off date, the most recent complete-period disclosure is full-year 2025: general manager Gao Lei stated that 2025 output exceeded 100,000 units for the first time, reaching 123,000 units, with full-year exports of 33,000 units (+257% YoY). The 27 April 2026 company conference reported 2025 export-sales growth of 233%. The two export-growth figures are not the same <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>. No audited half-year 2026 results have been published, consistent with the company's unlisted status.</p><h3>Technology and platforms</h3><p>Kaiyi develops models on the i-FA modular architecture (mid-to-large SUVs such as the Kunlun), the i-EA pure-electric platform (A00/A0 city cars such as the Shiyue) and the i-XA platform, alongside the i-CAR intelligent cockpit system <a href=\"https://news.qq.com/rain/a/20221026A059BV00\">[s16]</a><a href=\"https://www.hunantoday.cn/news/xhn/202210/15382687.html\">[s15]</a>. In traditional powertrains it relies on Chery's technology supply chain, while in electrification it cooperates with CATL, and in intelligent features with Huawei and Tencent <a href=\"https://finance.ce.cn/stock/gsgdbd/202206/27/t20220627_37805719.shtml\">[s13]</a><a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a>.</p><h3>Factory and capacity</h3><p>The Yibin smart factory covers 973 mu in phase one, with an approved annual capacity of 150,000 units and up to 250,000 units attainable; it was completed in December 2019 with total investment of RMB5.3 billion (about RMB3.7 billion for the phase-one plant) <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a><a href=\"https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html\">[s7]</a>. The company's layout was described in 2020 as 'one headquarters, two centres and three bases' — Yibin headquarters, a Chengdu R&D and sales centre, and Wuhu, Dalian and Jiaozuo production bases <a href=\"https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html\">[s7]</a>.</p><h3>Domestic market position</h3><p>Kaiyi's domestic network exceeds 300 outlets covering northeast China, Shandong, Hebei, the northwest, and Hubei and Jiangxi provinces <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>. Yibin government reporting stated that Kaiyi crossed 50,000 units in sales for two consecutive years and exceeded 60,000 units in 2024, while its global sales passed 70,000 units in 2024 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a><a href=\"https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html\">[s4]</a>. Yibin municipality aims to build Kaiyi into the cornerstone of a RMB100-billion-level intelligent connected NEV industry base <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>.</p><h3>Overseas business</h3><p>Kaiyi's export markets are centred on four regions — Eastern Europe, Central Asia, Central/South America and Southeast Asia — with sales already reaching Saudi Arabia, the UAE, Egypt, Iran, Russia, Azerbaijan, Madagascar, Angola, Costa Rica, Peru, Panama, Venezuela, the Dominican Republic, Chile, Bolivia, Ecuador and Libya, among others <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>. In Russia it sold 7,893 vehicles in 2024 (+7.2% YoY). By October 2026 Avtotor's CEO told Izvestia that Kaiyi assembly at the Kaliningrad plant had been discontinued and that distribution had passed to Votur Motor Rus LLC, which has certified the X7 Kunlun crossover <a href=\"https://sputniknews.cn/20250220/1064167284.html\">[s22]</a><a href=\"https://en.iz.ru/en/2179588/2026-10-06/head-avtotor-clarified-situation-assembly-swm-and-baic-machines-russia\">[s27]</a>.</p>",
+      "zh": "<h3>业务结构</h3><p>凯翼是一家单一工厂的乘用车整车企业，近年向新能源物流车延伸。其国内核心产品为昆仑、昆仑 iHD 中型 SUV，轩度轿车及其 EV 版，炫界、炫界 Pro 紧凑型 SUV，以及拾月系列 A00 纯电小车 <a href=\"https://kaiyihome.com\">[s2]</a>。公司还销售江豚 E5、E7 纯电微面，进入商用车领域 <a href=\"https://kaiyihome.com\">[s2]</a>。出口方面，凯翼 2021 年起以整车（CBU）与散件（KD）方式出海，截至 2025 年 4 月累计出口超 6 万辆，拥有 57 个海外合作伙伴、覆盖 54 个国家和地区的渠道与近 400 个销售网点 <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>。2025 年产量 12.3 万辆。2026 年 1 月的转载称出口 3.3 万辆、同比增 257%；2026 年 4 月 27 日公司大会称出口销量同比增长 233% <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>。</p><p>产品线正沿价格梯度的两端扩张。2025 年 6 月，凯翼推出五座 A00 纯电小车拾月 Mate，售价 5.99 万–7.59 万元，CLTC 续航 305–405 公里 <a href=\"https://mpcauto.pcvideo.com.cn/hj/article/2949248.html\">[s24]</a>；2026 年 4 月开启拾月 max 预售（4.79 万–5.19 万元）并随后上市，续航 310 公里 <a href=\"https://db.auto.sohu.com/model_7222/news\">[s25]</a>。2024 年 9 月，公司发布三款面向海外的新能源车型——X7 iHD、e-Qute 02 与 X3 Pro EV <a href=\"https://db.auto.sohu.com/model_7222/news\">[s25]</a>。</p><h3>最近已披露经营数据</h3><p>截至研究截止日，最近的完整期间披露为 2025 全年：总经理高雷表示，2025 年产量首次突破 10 万辆、达 12.3 万辆，全年出口 3.3 万辆（同比增 257%）。2026 年 4 月 27 日公司大会称 2025 年出口销量同比增长 233%。两处出口增速不是同一个数 <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>。截至 2026 年 10 月，公司未公布 2026 年半年度的经审计业绩，与其非上市身份一致。</p><h3>技术与平台</h3><p>凯翼依托 i-FA 模块化架构（中型/中大型 SUV，如昆仑）、i-EA 纯电平台（A00/A0 小车，如拾月）与 i-XA 平台开发车型，并配套 i-CAR 智能座舱系统 <a href=\"https://news.qq.com/rain/a/20221026A059BV00\">[s16]</a><a href=\"https://www.hunantoday.cn/news/xhn/202210/15382687.html\">[s15]</a>。传统动力方面依托奇瑞的技术供应体系，电动化方面与宁德时代合作，智能化方面与华为、腾讯合作 <a href=\"https://finance.ce.cn/stock/gsgdbd/202206/27/t20220627_37805719.shtml\">[s13]</a><a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a>。</p><h3>工厂与产能</h3><p>宜宾智慧工厂一期占地 973 亩，获批年产能 15 万辆、实际可达 25 万辆，2019 年 12 月建成投产，总投资 53 亿元（其中一期工厂约 37 亿元）<a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a><a href=\"https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html\">[s7]</a>。2020 年披露的布局为「一总部两中心三基地」：总部宜宾，成都研发中心与销售中心，以及芜湖、大连、焦作三个生产基地 <a href=\"https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html\">[s7]</a>。</p><h3>国内市场地位</h3><p>凯翼国内销售网点逾 300 家，覆盖东北、山东、河北、西北以及湖北、江西等区域 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>。宜宾市政府报道称，凯翼连续两年销量跨越 5 万辆、2024 年突破 6 万辆，全球销量 2024 年突破 7 万辆 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a><a href=\"https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html\">[s4]</a>。宜宾市政府表示，目标是把凯翼打造为千亿级智能网联新能源汽车产业基地的核心 <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>。</p><h3>海外业务</h3><p>凯翼出口聚焦东欧、中亚、中南美、东南亚四大区域，产品已进入沙特、阿联酋、埃及、伊朗、俄罗斯、阿塞拜疆、马达加斯加、安哥拉、哥斯达黎加、秘鲁、巴拿马、委内瑞拉、多米尼加、智利、玻利维亚、厄瓜多尔、利比亚等国家和地区 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>。在俄罗斯，凯翼 2024 年销售 7893 辆（同比增 7.2%），据 Izvestia 报道，至 2026 年 10 月 Avtotor 已停止在加里宁格勒组装凯翼车型，分销改由 Votur Motor Rus LLC 负责，后者已认证 X7 昆仑跨界车 <a href=\"https://sputniknews.cn/20250220/1064167284.html\">[s22]</a><a href=\"https://en.iz.ru/en/2179588/2026-10-06/head-avtotor-clarified-situation-assembly-swm-and-baic-machines-russia\">[s27]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Kaiyi has no single individual founder in the formal sense; it emerged from Chery's system. It was established in 2014 by Lu Jianhui, a former Chery Automobile deputy general manager, who led a team of more than 200 people (largely from Chery's Qiyun division) to form the 'Jiangbei project group' in Wuhu's Jiangbei industrial zone <a href=\"https://auto.huanqiu.com/roll/2015-07/7142789.html\">[s29]</a><a href=\"https://www.sohu.com/a/298206844_114731\">[s30]</a>. Lu stepped back at the end of 2016, succeeded by fellow Chery veteran Feng Wutang, and passed away in February 2019, according to Wuhu Daily <a href=\"https://www.sohu.com/a/298206844_114731\">[s30]</a>.</p><h3>Key management</h3><ul><li><strong>Jia Yaquan</strong>, chairman and party secretary, also a vice president of Chery Automobile Co., Ltd. People's Daily Sichuan reported this title in September 2026; his precise appointment date at Kaiyi was not publicly disclosed <a href=\"https://sc.people.com.cn/BIG5/n2/2026/0904/c345167-41687326.html\">[s19]</a>.</li><li><strong>Gao Lei</strong>, general manager, deputy party secretary and legal representative. He has been described as deputy party secretary and general manager since at least October 2022, and a December 2024 listed-company announcement records him as legal representative. At the 27 April 2026 international business conference he was also introduced as vice chairman <a href=\"https://www.hunantoday.cn/news/xhn/202210/15382687.html\">[s15]</a><a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm\">[s3]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>.</li><li><strong>He Yongping</strong>, general manager of the Kaiyi sales company, quoted in Yibin government reporting in February 2025 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>.</li><li><strong>Han Ren</strong>, deputy general manager and general manager of Yibin Kaiyi International Trade Co., Ltd., quoted in Yibin government reporting in June 2025 on export operations <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>.</li><li><strong>Former management:</strong> Pan Yanlong, a Chery Automobile deputy general manager, served as Kaiyi chairman around 2022-2023; Hu Mingjing served as party secretary <a href=\"https://www.hunantoday.cn/news/xhn/202210/15382687.html\">[s15]</a>.</li></ul><h3>Ownership and governance</h3><p>A December 2024 listed-company announcement showed Yibin Automobile Industry Development Investment at 80.67%, Chery at 18.00% and Sichuan Yibin Pushi Group at 1.33%, with registered capital of RMB4.727 billion <a href=\"https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm\">[s3]</a>. On 4 January 2026 the registry changed: capital is RMB6,066,617,700, Yibin Auto Investment holds 62.8579% and Tianjin Xinkai Enterprise Management Partnership, under China Cinda, holds 22.0802%. Jiemian reported that Chery and Pushi remain shareholders; the opened registry page did not show their new percentages <a href=\"https://www.163.com/dy/article/KIJK9TBL0534A4SC.html\">[s36]</a><a href=\"https://m.shuidi.cn/company-765ba38b89f612498dd20affad3b9501.html\">[s37]</a>. Yibin Automobile Industry Development Investment is wholly owned by the Yibin municipal state-assets authority, and Pushi Group is wholly owned by the liquor maker Wuliangye Group <a href=\"https://news.sina.cn/2018-01-06/detail-ifyqinzs9722176.d.html\">[s11]</a>. No public announcement formally designates an 'actual controller', so this research records only the shareholding structure.</p>",
+      "zh": "<h3>创始人</h3><p>凯翼并无严格意义上的单一创始人，而是奇瑞体系的产物。公司由奇瑞汽车原副总经理陆建辉于 2014 年牵头创立，他带领 200 余人团队（主要来自奇瑞旗云事业部）在芜湖江北产业集中区组建「江北项目组」<a href=\"https://auto.huanqiu.com/roll/2015-07/7142789.html\">[s29]</a><a href=\"https://www.sohu.com/a/298206844_114731\">[s30]</a>。陆建辉 2016 年底隐退，由同为奇瑞体系出身的冯武堂接任，并于 2019 年 2 月离世（据《芜湖日报》）<a href=\"https://www.sohu.com/a/298206844_114731\">[s30]</a>。</p><h3>核心管理层</h3><ul><li><strong>贾亚权</strong>，董事长、党委书记，同时任奇瑞汽车股份有限公司副总裁。人民网四川频道 2026 年 9 月报道确认其此职务；其就任凯翼董事长的具体日期未公开披露 <a href=\"https://sc.people.com.cn/BIG5/n2/2026/0904/c345167-41687326.html\">[s19]</a>。</li><li><strong>高雷</strong>，总经理、党委副书记、法定代表人。至少自 2022 年 10 月起即以党委副书记、总经理身份见诸公开报道，2024 年 12 月的上市公司公告登记其为法定代表人。2026 年 4 月 27 日国际商务大会上，他又以副董事长身份致辞 <a href=\"https://www.hunantoday.cn/news/xhn/202210/15382687.html\">[s15]</a><a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm\">[s3]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>。</li><li><strong>何勇平</strong>，凯翼汽车销售公司总经理，2025 年 2 月宜宾市政府报道中引述其介绍 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>。</li><li><strong>韩韧</strong>，副总经理、宜宾凯翼国际贸易有限公司总经理，2025 年 6 月宜宾市政府报道中引述其介绍出口业务 <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>。</li><li><strong>前任管理层：</strong>潘燕龙（奇瑞汽车股份有限公司副总经理）曾于 2022–2023 年间任凯翼董事长，胡明镜曾任党委书记 <a href=\"https://www.hunantoday.cn/news/xhn/202210/15382687.html\">[s15]</a>。</li></ul><h3>股权与治理</h3><p>上市公司常熟汽饰 2024 年 12 月公告中，宜宾凯翼股东为宜宾市汽车产业发展投资有限责任公司（80.67%）、奇瑞汽车股份有限公司（18.00%）与四川省宜宾普什集团有限公司（1.33%），注册资本 47.27 亿元 <a href=\"https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm\">[s3]</a>。2026 年 1 月 4 日工商变更后，注册资本为 606,661.77 万元，宜宾汽投持股 62.8579%，中国信达旗下天津信凯企业管理合伙企业持股 22.0802%。界面新闻报道奇瑞与普什仍为股东，已打开的工商页面没有这两家的新比例 <a href=\"https://www.163.com/dy/article/KIJK9TBL0534A4SC.html\">[s36]</a><a href=\"https://m.shuidi.cn/company-765ba38b89f612498dd20affad3b9501.html\">[s37]</a>。宜宾市汽车产业发展投资有限责任公司为宜宾市政府国资委独资公司，普什集团由白酒企业五粮液集团全资持有 <a href=\"https://news.sina.cn/2018-01-06/detail-ifyqinzs9722176.d.html\">[s11]</a>。公开公告中未见明确的「实际控制人」认定，故本研究只写持股结构，不作实际控制人认定。</p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive scope</h3><p>Our judgement: in its RMB50,000-160,000 home-market band, Kaiyi competes mainly with other value-focused Chinese brands — for the Shiyue electric city car against the Wuling Hongguang MINIEV and Changan Lumin, and for the Kunlun and Kunlun iHD SUVs against compact/mid-size SUVs from domestic makers in a similar price range. This comparison is based on price positioning and body segments reported by the media, not on any single market-share dataset <a href=\"https://www.cqnews.net/1/detail/1177282432767938560/web/content_1177282432767938560.html\">[s17]</a><a href=\"https://www.autohome.com.cn/news/202509/1309282.html\">[s21]</a>.</p><h3>Business base</h3><p>Kaiyi's scale is small by industry standards: 123,000 units produced in 2025 against a Chinese passenger-vehicle market of tens of millions of units a year <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>. Its strengths are Chery-shared platforms and powertrains, Yibin state-capital backing, a low-price positioning and exports, for which 2025 growth is reported as both 257% and 233% depending on the source <a href=\"https://www.news.cn/auto/20230322/79d6fa5ce9c6468f839329d0f0ea8cc7/c.html\">[s14]</a><a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://4g.scdaily.cn/wap/scrb/20260121/1069178.html\">[s18]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>. Its weaknesses include a small brand footprint, a domestic dealer network of just over 300 outlets, and dependence on Chery for technology <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>.</p><p>In the A00 electric city-car segment, the Shiyue family competes with the Wuling Hongguang MINIEV, Changan Lumin and Leapmotor T03, with the Shiyue Mate positioned as a five-seat model in the RMB59,900-75,900 band <a href=\"https://mpcauto.pcvideo.com.cn/hj/article/2949248.html\">[s24]</a>. On exports, Kaiyi's main markets are Eastern Europe, Central Asia, Central/South America and Southeast Asia; in Russia it sold 7,893 vehicles in 2024 <a href=\"https://sputniknews.cn/20250220/1064167284.html\">[s22]</a><a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>.</p><h3>Our analysis</h3><p>Our judgement: government reporting put 2024 domestic sales at just over 60,000 units and global sales above 70,000, a gap of about 10,000 units, so 2024 exports were not most of the volume. That gap does not show that 2025 growth was mainly export-led, or that domestic retail was far below wholesale. Output of 123,000 units in 2025 is a separate figure <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a><a href=\"https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html\">[s4]</a><a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>. Whether it can hold a durable position in the intensely competitive Chinese market depends on converting Chery platforms into differentiated, cost-competitive products, and on the continuation of export momentum.</p>",
+      "zh": "<h3>竞争范围</h3><p>我们的判断：在其 5 万–16 万元的国内价格带内，凯翼主要与其他主打性价比的中国品牌竞争——拾月纯电小车对标五菱宏光 MINIEV、长安 Lumin，昆仑与昆仑 iHD SUV 则与同价位国产紧凑/中型 SUV 竞争。该比较依据媒体披露的价格定位与车身级别，而非单一市场份额数据 <a href=\"https://www.cqnews.net/1/detail/1177282432767938560/web/content_1177282432767938560.html\">[s17]</a><a href=\"https://www.autohome.com.cn/news/202509/1309282.html\">[s21]</a>。</p><h3>业务基础</h3><p>按行业标准，凯翼体量偏小：2025 年产量 12.3 万辆，而中国乘用车市场年销以千万辆计 <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>。其优势在于共享奇瑞的平台与动力总成、宜宾国资的资金支持、低价定位以及出口（2025 年增速一处写 257%，另一处写 233%）<a href=\"https://www.news.cn/auto/20230322/79d6fa5ce9c6468f839329d0f0ea8cc7/c.html\">[s14]</a><a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a><a href=\"https://4g.scdaily.cn/wap/scrb/20260121/1069178.html\">[s18]</a><a href=\"https://auto.china.com/material/33530.html\">[s38]</a>。其短板是品牌体量小、国内销售网点仅 300 余家、技术上依赖奇瑞 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a>。</p><p>在 A00 纯电小车细分市场，拾月系列与五菱宏光 MINIEV、长安 Lumin、零跑 T03 竞争，拾月 Mate 以 5.99 万–7.59 万元的五座定位切入 <a href=\"https://mpcauto.pcvideo.com.cn/hj/article/2949248.html\">[s24]</a>。出口方面，凯翼主要市场为东欧、中亚、中南美、东南亚；在俄罗斯 2024 年销售 7893 辆 <a href=\"https://sputniknews.cn/20250220/1064167284.html\">[s22]</a><a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>。</p><h3>我们的分析</h3><p>我们的判断：政府报道称 2024 年国内销量 6 万余辆、全球销量突破 7 万辆，差额大约 1 万辆，所以 2024 年出口并不是销量的大头。这个差额说明不了 2025 年的增长主要由出口拉动，也说明不了国内零售远小于批发。2025 年产量 12.3 万辆是另一个数字 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a><a href=\"https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html\">[s4]</a><a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>。在竞争激烈的中国市场能否持续立足，取决于把奇瑞平台转化为差异化、有成本竞争力的产品，以及出口动能能否延续。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets and plans</h3><p>In September 2026, chairman Jia Yaquan said that, with Chery Group's deep empowerment, Kaiyi's 2026 production and sales are expected to exceed 140,000 units and exceed 200,000 units in 2027; the Yibin base has been incorporated into Chery Group's key capacity layout, with the local sourcing rate rising from 16% in 2023 to 27.7% and targeting above 40% by 2027 <a href=\"https://sc.people.com.cn/BIG5/n2/2026/0904/c345167-41687326.html\">[s19]</a><a href=\"https://www.yibin.gov.cn/xxgk/qxbm/qxdt/202609/t20260908_2266460.html\">[s20]</a>. Yibin municipal government has stated it aims to build Kaiyi into a cornerstone of a RMB100-billion-level intelligent connected NEV industry base <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>. General manager Gao Lei said in early 2026 that growth would continue to come mainly from export expansion and resource-integration synergies, with a continued push into new-energy models and deeper localised overseas operations <a href=\"https://4g.scdaily.cn/wap/scrb/20260121/1069178.html\">[s18]</a>.</p><p>For context on the gap between targets and outcomes, the Yibin economic cooperation bureau projected in May 2025 that Kaiyi's 2025 sales would exceed 150,000 units <a href=\"https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html\">[s4]</a>. That figure is a sales forecast. Full-year 2025 output of 123,000 units is a different metric <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>.</p><h3>Our analysis</h3><p>Our judgement: the 140,000-unit 2026 target implies roughly 14% growth over 2025 output of 123,000 units, which is a company forecast rather than a committed outcome <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>. Achieving it depends on sustained export demand, especially in Russia and emerging markets, and on domestic acceptance of the new-energy models. Because Kaiyi does not publish financial statements, profitability and cash-flow trends cannot be independently verified, and these targets should be read alongside the risks facing a small automaker in a highly competitive market.</p>",
+      "zh": "<h3>公司目标与规划</h3><p>2026 年 9 月，董事长贾亚权表示，在奇瑞集团深度赋能下，凯翼 2026 年产销量预计突破 14 万辆、2027 年突破 20 万辆；宜宾基地已纳入奇瑞集团重要产能布局，本地化配套率由 2023 年的 16% 提升至 27.7%，目标 2027 年突破 40% <a href=\"https://sc.people.com.cn/BIG5/n2/2026/0904/c345167-41687326.html\">[s19]</a><a href=\"https://www.yibin.gov.cn/xxgk/qxbm/qxdt/202609/t20260908_2266460.html\">[s20]</a>。宜宾市政府表示，目标是把凯翼打造为千亿级智能网联新能源汽车产业基地的核心 <a href=\"https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html\">[s5]</a>。总经理高雷在 2026 年初表示，今年增量仍将主要来自品牌出口扩大与多方资源整合的协同效应，并继续加强新能源车型布局、深化国际市场本地化运营 <a href=\"https://4g.scdaily.cn/wap/scrb/20260121/1069178.html\">[s18]</a>。</p><p>关于目标与结果之间的差距，宜宾市经济合作和新兴产业局在 2025 年 5 月曾预计凯翼 2025 年销量将突破 15 万辆 <a href=\"https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html\">[s4]</a>。这是销量预测。2025 年全年产量 12.3 万辆是另一个口径 <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>。</p><h3>我们的分析</h3><p>我们的判断：2026 年 14 万辆的目标意味着较 2025 年 12.3 万辆的产量增长约 14%，这属于公司预测而非已实现的承诺 <a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>。能否达成取决于出口需求（尤其是俄罗斯及新兴市场）能否延续，以及新能源车型在国内的接受度。由于凯翼不公开财务报表，其盈利能力与现金流趋势无法独立核实，上述目标应与一家小型车企在激烈竞争市场中的风险一并看待。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Operating and scale risk:</strong> Kaiyi is a small player (123,000 units in 2025) with a domestic dealer network of just over 300 outlets, competing in a crowded market <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a><a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>.</li><li><strong>Technology dependence:</strong> its key platforms and powertrains are shared from Chery, so product competitiveness is tied to Chery's continued support <a href=\"https://www.news.cn/auto/20230322/79d6fa5ce9c6468f839329d0f0ea8cc7/c.html\">[s14]</a>.</li><li><strong>Overseas risk:</strong> overseas operations face exchange-rate, tariff and geopolitical risk, including the Russian market, where Avtotor's chief executive said in October 2026 that Kaiyi assembly had been discontinued and distribution had passed to Votur Motor Rus LLC <a href=\"https://sputniknews.cn/20250220/1064167284.html\">[s22]</a><a href=\"https://en.iz.ru/en/2179588/2026-10-06/head-avtotor-clarified-situation-assembly-swm-and-baic-machines-russia\">[s27]</a>.</li><li><strong>Financial disclosure risk:</strong> as an unlisted company, Kaiyi publishes no audited financial statements, so external parties cannot independently verify profitability, leverage or cash flow <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a>.</li><li><strong>Competition risk:</strong> its core price band (RMB50,000-160,000) is among the most intensely contested segments of the Chinese market <a href=\"https://www.autohome.com.cn/news/202509/1309282.html\">[s21]</a>.</li><li><strong>Transition investment risk:</strong> Kaiyi is adding new-energy models alongside its fuel range, which requires continued product and marketing investment <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a>.</li></ul>",
+      "zh": "<ul><li><strong>经营与规模风险：</strong>凯翼体量小（2025 年 12.3 万辆），国内销售网点仅 300 余家，身处竞争激烈的市场 <a href=\"https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html\">[s6]</a><a href=\"https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595\">[s9]</a>。</li><li><strong>技术依赖风险：</strong>其关键平台与动力总成共享自奇瑞，产品竞争力取决于奇瑞的持续支持 <a href=\"https://www.news.cn/auto/20230322/79d6fa5ce9c6468f839329d0f0ea8cc7/c.html\">[s14]</a>。</li><li><strong>海外风险：</strong>海外业务面临汇率、关税与地缘政治风险，包括俄罗斯市场。Avtotor 首席执行官 2026 年 10 月表示，凯翼在加里宁格勒的组装已经停止，分销改由 Votur Motor Rus LLC 负责<a href=\"https://sputniknews.cn/20250220/1064167284.html\">[s22]</a><a href=\"https://en.iz.ru/en/2179588/2026-10-06/head-avtotor-clarified-situation-assembly-swm-and-baic-machines-russia\">[s27]</a>。</li><li><strong>财务披露风险：</strong>作为非上市公司，凯翼不发布经审计财务报表，外界无法独立核实其盈利、负债与现金流 <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a>。</li><li><strong>竞争风险：</strong>其 5 万–16 万元的核心价格带是中国市场竞争最激烈的区间之一 <a href=\"https://www.autohome.com.cn/news/202509/1309282.html\">[s21]</a>。</li><li><strong>转型投入风险：</strong>公司在燃油车之外布局新能源车型，转型需要持续的产品与营销投入 <a href=\"https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf\">[s1]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "宜宾凯翼汽车有限公司 2024年度企业社会责任报告", "url": "https://www.kaiyihome.com/assets/uploads/2025/06/11/1749613495727.pdf", "date": "2025-06-11", "tier": "A" },
+    { "id": "s2", "name": "凯翼汽车官方网站（在售车型列表）", "url": "https://kaiyihome.com", "date": "2026-10-29", "tier": "A" },
+    { "id": "s3", "name": "中国证券报：江苏常熟汽饰集团2025年度预计日常关联交易公告（含宜宾凯翼股东结构）", "url": "https://epaper.cs.com.cn/zgzqb/html/2024-12/14/nw.D110000zgzqb_20241214_1-B030.htm", "date": "2024-12-14", "tier": "A" },
+    { "id": "s4", "name": "宜宾市经济合作和新兴产业局：从一辆车到一条链 奇瑞与宜宾共赢", "url": "https://sjhxcj.yibin.gov.cn/xwdt/gzdt/202505/t20250512_2117741.html", "date": "2025-05-12", "tier": "A" },
+    { "id": "s5", "name": "宜宾市人民政府：探访凯翼汽车出海的三重动力", "url": "https://www.yibin.gov.cn/xxgk/zdlyxxgk/cyzxsj/202506/t20250604_2123976.html", "date": "2025-06-04", "tier": "A" },
+    { "id": "s6", "name": "宜宾市人民政府：补贴加码 宜宾造汽车消费升温", "url": "https://www.yibin.gov.cn/zzzq/jryb_17319/202502/t20250224_2097087.html", "date": "2025-02-24", "tier": "A" },
+    { "id": "s7", "name": "宜宾市经济和信息化局：凯翼汽车简介", "url": "https://jjhxxhj.yibin.gov.cn/sy/gzdt/202012/t20201222_1400287.html", "date": "2020-12-22", "tier": "A" },
+    { "id": "s8", "name": "宜宾市发展和改革委员会：从444到44N 宜宾工业主赛道再升级", "url": "https://fg.yibin.gov.cn/zxgzdt/202605/t20260506_2224761.html", "date": "2026-05-06", "tier": "A" },
+    { "id": "s9", "name": "人民日报全国党媒信息公共平台：我何时能够开上四川造新能源爆款汽车（总经理高雷披露2025年产量与出口）", "url": "https://www.hubpd.com/hubpd/rss/cmmobile/index.html?contentId=3746994889976721595", "date": "2026-01-21", "tier": "B" },
+    { "id": "s10", "name": "央广网：拖累奇瑞 凯翼被转让51%股权", "url": "https://m.cnr.cn/auto/20180109/t20180109_524092784.html", "date": "2018-01-09", "tier": "B" },
+    { "id": "s11", "name": "新浪财经：宜宾国资委控股奇瑞凯翼 五粮液借势圆梦造车", "url": "https://news.sina.cn/2018-01-06/detail-ifyqinzs9722176.d.html", "date": "2018-01-06", "tier": "B" },
+    { "id": "s12", "name": "中国新闻网：五粮液明确否认造车计划 仅持凯翼汽车0.5%股份", "url": "https://m.chinanews.com/wap/detail/cht/zw/8416793.shtml", "date": "2018-01-05", "tier": "B" },
+    { "id": "s13", "name": "中国经济网：凯翼汽车背靠奇瑞傍上华为宁德时代", "url": "https://finance.ce.cn/stock/gsgdbd/202206/27/t20220627_37805719.shtml", "date": "2022-06-27", "tier": "B" },
+    { "id": "s14", "name": "新华网：凯翼昆仑上市发布会开启", "url": "https://www.news.cn/auto/20230322/79d6fa5ce9c6468f839329d0f0ea8cc7/c.html", "date": "2023-03-22", "tier": "B" },
+    { "id": "s15", "name": "新湖南：凯翼昆仑正式下线并开启盲订", "url": "https://www.hunantoday.cn/news/xhn/202210/15382687.html", "date": "2022-10-25", "tier": "B" },
+    { "id": "s16", "name": "腾讯新闻：走进凯翼 遇见昆仑", "url": "https://news.qq.com/rain/a/20221026A059BV00", "date": "2022-10-26", "tier": "B" },
+    { "id": "s17", "name": "华龙网：上市 凯翼拾月打造新能源小车新旗舰 售价5.39万元起", "url": "https://www.cqnews.net/1/detail/1177282432767938560/web/content_1177282432767938560.html", "date": "2023-11-22", "tier": "B" },
+    { "id": "s18", "name": "四川日报：新能源爆款汽车 如何能有更多四川造", "url": "https://4g.scdaily.cn/wap/scrb/20260121/1069178.html", "date": "2026-01-21", "tier": "B" },
+    { "id": "s19", "name": "人民网四川频道：从一场推介会看宜宾三江新区的时与势", "url": "https://sc.people.com.cn/BIG5/n2/2026/0904/c345167-41687326.html", "date": "2026-09-04", "tier": "B" },
+    { "id": "s20", "name": "宜宾市人民政府：从一场推介会看三江新区的时与势", "url": "https://www.yibin.gov.cn/xxgk/qxbm/qxdt/202609/t20260908_2266460.html", "date": "2026-09-08", "tier": "A" },
+    { "id": "s21", "name": "汽车之家：售12.99万起 新款凯翼昆仑iHD正式上市 纯电续航201km", "url": "https://www.autohome.com.cn/news/202509/1309282.html", "date": "2025-09-25", "tier": "B" },
+    { "id": "s22", "name": "俄罗斯卫星通讯社：凯翼汽车计划在2025年向俄罗斯市场推出两款新车", "url": "https://sputniknews.cn/20250220/1064167284.html", "date": "2025-02-20", "tier": "B" },
+    { "id": "s23", "name": "宜宾融媒（今日头条转载）：2025世界动力电池大会 宜宾新能源汽车产业跑出加速度", "url": "https://www.toutiao.com/article/7566569145173705256", "date": "2025-10-29", "tier": "C" },
+    { "id": "s24", "name": "太平洋汽车网：5.99万元起 拾月Mate正式上市", "url": "https://mpcauto.pcvideo.com.cn/hj/article/2949248.html", "date": "2025-06-16", "tier": "B" },
+    { "id": "s25", "name": "搜狐汽车：凯翼拾月车型新闻汇总（含拾月max预售/上市、三款国际版车型发布）", "url": "https://db.auto.sohu.com/model_7222/news", "date": "2026-04-28", "tier": "B" },
+    { "id": "s26", "name": "网通社（懂车帝转载）：凯翼昆仑L8插混上市", "url": "https://www-lq.dongchedi.com/article/7554627071142625855", "date": "2025-09-27", "tier": "C" },
+    { "id": "s27", "name": "Izvestia: Avtotor clarified the situation with the assembly of SWM and BAIC machines in Russia", "url": "https://en.iz.ru/en/2179588/2026-10-06/head-avtotor-clarified-situation-assembly-swm-and-baic-machines-russia", "date": "2026-10-06", "tier": "B" },
+    { "id": "s28", "name": "四川日报报业集团C视觉：向新而行 宜宾凯翼汽车新能源战略转型", "url": "https://www.scph.cn/media/3356493", "date": "2025-06-10", "tier": "B" },
+    { "id": "s29", "name": "环球网：嫁接众包模式造车 凯翼想成为汽车界的小米", "url": "https://auto.huanqiu.com/roll/2015-07/7142789.html", "date": "2015-07-30", "tier": "B" },
+    { "id": "s30", "name": "搜狐：奇瑞八大金刚之一陆建辉去世 曾创立凯翼汽车", "url": "https://www.sohu.com/a/298206844_114731", "date": "2019-02-28", "tier": "B" },
+    { "id": "s31", "name": "汽车之家：凯翼江豚E5 车型配置页", "url": "https://car.autohome.com.cn/config/series/8144.html", "date": "2026-10-29", "tier": "C" },
+    { "id": "s32", "name": "太平洋汽车网：凯翼江豚E7 2025款 参数配置", "url": "https://m.pcauto.com.cn/auto/pk/choose/m136454.html", "date": "2026-10-29", "tier": "C" },
+    { "id": "s33", "name": "维基百科：Kaiyi Auto", "url": "https://en.wikipedia.org/wiki/Kaiyi_Auto", "date": "2026-10-29", "tier": "C" },
+    { "id": "s34", "name": "人民网四川频道：11月我国汽车出口创单月历史新高 四川表现如何（凯翼2025年1-11月出口3.3万辆）", "url": "https://sc.people.com.cn/BIG5/n2/2025/1214/c345167-41441818.html", "date": "2025-12-14", "tier": "A" },
+    { "id": "s35", "name": "中国经济网：五年连跨五个百亿元台阶 四川首个省级新区以新质生产力破局（2024年3月宜宾与奇瑞全方位深度合作）", "url": "https://district.ce.cn/newarea/roll/202502/18/t20250218_39295222.shtml", "date": "2025-02-18", "tier": "B" },
+    { "id": "s36", "name": "界面新闻（经网易）：宜宾凯翼汽车公司增资至60.67亿元，增幅约28%", "url": "https://www.163.com/dy/article/KIJK9TBL0534A4SC.html", "date": "2026-01-06", "tier": "B" },
+    { "id": "s37", "name": "水滴信用：宜宾凯翼汽车有限公司工商信息", "url": "https://m.shuidi.cn/company-765ba38b89f612498dd20affad3b9501.html", "date": "2026-10-29", "tier": "C" },
+    { "id": "s38", "name": "中华网汽车：凯翼汽车召开2026国际全球商务大会，全面推进全球化深耕战略", "url": "https://auto.china.com/material/33530.html", "date": "2026-04-28", "tier": "B" },
+    { "id": "s39", "name": "搜狐转宜宾市侨联：高雷：崛起中的凯翼汽车（2023年产销与营收）", "url": "https://www.sohu.com/a/766136943_121106884", "date": "2024-03-22", "tier": "B" }
+  ]
+}

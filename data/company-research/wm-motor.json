@@ -1,0 +1,295 @@
+{
+  "id": "wm-motor",
+  "name_en": "WM Motor (Weltmeister)",
+  "name_zh": "威马汽车（Weltmeister / WM Motor）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2015 (the year the company publicly gives for its founding by Freeman Shen; the operating entity WM Motor Technology Group Co., Ltd. has an industrial-and-commercial registration date of May 2012)",
+      "value_zh": "2015 年（公司对外公布的沈晖创立年份；运营主体威马汽车科技集团有限公司的工商登记显示成立于 2012 年 5 月）",
+      "period": null,
+      "source_ids": ["s14", "s6"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shanghai",
+      "value_zh": "上海",
+      "period": null,
+      "source_ids": ["s1", "s6"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private (founder- and investor-held; no state majority)",
+      "value_zh": "民营（创始人及财务投资人持股，无国资控股）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Founder",
+      "label_zh": "创始人",
+      "value_en": "Freeman Shen (SHEN Hui), vice president of Geely Holding from 2009 to 2014 and responsible for Geely's acquisition of Volvo",
+      "value_zh": "沈晖（SHEN Hui），2009–2014 年任吉利控股集团副总裁，负责吉利收购沃尔沃",
+      "period": null,
+      "source_ids": ["s14", "s5"]
+    },
+    {
+      "label_en": "Actual controller / voting rights",
+      "label_zh": "实际控制人与表决权",
+      "value_en": "No formal controller designation disclosed. Per the prospectus, Freeman Shen and spouse Wang Lei together controlled about 30.82% of voting rights pre-IPO (Shen about 27.69% via Timeless Hero, Best Model and an employee platform; Wang Lei about 3.13% via Enzo Turbo).",
+      "value_zh": "未公开认定实际控制人。招股书显示，上市前沈晖夫妇合计控制约 30.82% 表决权（沈晖通过 Timeless Hero、Best Model 及员工持股平台合计约 27.69%，王蕾通过 Enzo Turbo 约 3.13%）。",
+      "period": "2022-06-01",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市地点与代码",
+      "value_en": "Not listed (HK IPO application lapsed; STAR Market and reverse-merger plans did not complete)",
+      "value_zh": "未上市（港股 IPO 申请失效，科创板及借壳上市均未完成）",
+      "period": null,
+      "source_ids": ["s1", "s9", "s6"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "3,952 at end-2021 (prospectus; 1,141 R&D staff, 28.9% of total)",
+      "value_zh": "3,952 人（截至 2021 年末，招股书；其中研发人员 1,141 人，占 28.9%）",
+      "period": "2021",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "营收（最近财年）",
+      "value_en": "CNY 4,742.5 million (2021)",
+      "value_zh": "人民币 47.43 亿元（2021 财年）",
+      "period": "2021",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Net profit (latest fiscal year)",
+      "label_zh": "净利润（最近财年）",
+      "value_en": "Net loss of CNY 8,206 million (2021)",
+      "value_zh": "净亏损 82.06 亿元（2021 财年）",
+      "period": "2021",
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Sales (most recent full year)",
+      "label_zh": "销量（最近完整年度）",
+      "value_en": "44,152 vehicles delivered in 2021 (prospectus); 29,450 in 2022 (CPCA data)",
+      "value_zh": "2021 年交付 44,152 辆（招股书）；2022 年 29,450 辆（乘联会口径）",
+      "period": "2021 / 2022",
+      "source_ids": ["s1", "s8"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": null,
+      "value_zh": null,
+      "period": null,
+      "source_ids": ["s9", "s15"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2015-01",
+      "event_en": "Freeman Shen founds WM Motor (the company's stated founding date; business-registry data cited in media records the operating entity WM Motor Technology Group Co., Ltd. as registered in May 2012).",
+      "event_zh": "沈晖创办威马汽车（公司对外公布的创立时间；媒体援引工商信息显示运营主体威马汽车科技集团有限公司成立于 2012 年 5 月）。",
+      "source_ids": ["s14", "s6"]
+    },
+    {
+      "date": "2018-09",
+      "event_en": "First production model EX5 goes on sale and begins delivery; WM Motor was among the earliest EV startups to mass-produce in self-built plants.",
+      "event_zh": "首款量产车 EX5 上市并开始交付；威马是最早实现自建工厂量产的新势力之一。",
+      "source_ids": ["s6", "s11"]
+    },
+    {
+      "date": "2020-09",
+      "event_en": "Series D funding of RMB10 billion closes, led by Shanghai state investors and SAIC with Baidu among investors — then the largest single round among Chinese EV startups.",
+      "event_zh": "完成 D 轮融资 100 亿元，由上海国资和上汽领投、百度等参投，创当时造车新势力单笔融资纪录。",
+      "source_ids": ["s6", "s9"]
+    },
+    {
+      "date": "2021-04",
+      "event_en": "W6 launches, marketed for its L4 automated valet parking (AVP) function.",
+      "event_zh": "W6 上市，主打 L4 级自动代客泊车（AVP）功能。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2021",
+      "event_en": "Annual deliveries reach 44,152 vehicles, up about 101% from 21,937 in 2020; media report frequent vehicle fire incidents during the year.",
+      "event_zh": "全年交付 44,152 辆，较 2020 年的 21,937 辆增长约 101%；当年媒体多次报道威马车辆自燃事件。",
+      "source_ids": ["s1", "s8", "s6"]
+    },
+    {
+      "date": "2021",
+      "event_en": "WM Motor's attempt to list on the STAR Market fails; it later pivots to a Hong Kong IPO and reverse mergers, none of which completes.",
+      "event_zh": "威马冲击科创板上市未果；此后转向港股 IPO 及借壳上市，均未完成。",
+      "source_ids": ["s9", "s6"]
+    },
+    {
+      "date": "2022-06-01",
+      "event_en": "WM Motor Holdings Limited (Cayman-incorporated) files its listing application with the Hong Kong Stock Exchange; the application later lapses without listing.",
+      "event_zh": "威马控股有限公司（注册于开曼群岛）向港交所递交上市申请，后申请失效、未完成上市。",
+      "source_ids": ["s1", "s8"]
+    },
+    {
+      "date": "2022",
+      "event_en": "Annual sales fall to 29,450 vehicles (CPCA data), down 33.3% year on year, while NIO, XPeng and Li Auto each surpass 100,000.",
+      "event_zh": "全年销量降至 29,450 辆（乘联会口径），同比下降 33.3%，而蔚来、小鹏、理想均突破 10 万辆。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2022-11",
+      "event_en": "An internal communication discloses cost cuts: management salaries cut 50%, ordinary staff 30%, and the 14th-month bonus suspended.",
+      "event_zh": "内部沟通信披露降薪措施：管理层降薪 50%、普通员工 30%，并停发第 14 薪年终奖。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2023-01-12",
+      "event_en": "Apollo Future Mobility (00860.HK) announces a USD2.023 billion share-swap acquisition of WM Motor Holdings as a backdoor HK listing; Apollo terminates the deal on 8 September 2023.",
+      "event_zh": "Apollo 出行（00860.HK）公告拟以 20.23 亿美元换股收购威马控股（借壳港股上市）；2023 年 9 月 8 日 Apollo 出行公告终止收购。",
+      "source_ids": ["s6", "s9"]
+    },
+    {
+      "date": "2023-08-31",
+      "event_en": "The Qingpu District human-resources authority issues an administrative decision finding WM Motor owed 248 employees about RMB13.39 million in wages for February–May 2023. Earlier, in February 2023, the Qingpu District consumer-protection committee issued a consumer warning that WM Motor might be operating abnormally.",
+      "event_zh": "青浦区人力资源和社会保障局下发行政处理决定书，认定威马拖欠 248 名员工 2023 年 2–5 月工资约 1339 万元。此前 2023 年 2 月，青浦区消费者权益保护委员会曾发布消费警示，称威马或经营异常。",
+      "source_ids": ["s6", "s9"]
+    },
+    {
+      "date": "2023-09-11",
+      "event_en": "Kaixin Auto (KXIN.US) signs a non-binding merger letter of intent to acquire 100% of WM Motor's shareholders' equity; no completion follows.",
+      "event_zh": "开心汽车（KXIN.US）签署非约束性并购意向书，拟收购威马股东持有的 100% 股权；其后未有下文。",
+      "source_ids": ["s6", "s9"]
+    },
+    {
+      "date": "2023-09-20",
+      "event_en": "Equity freezes accumulate: on 11 August the Huanggang entity Hubei Xinghui's RMB6 billion equity was frozen; on 20 September WM Motor's about RMB4.04 billion equity in WM Motor Manufacturing (Wenzhou) was frozen; on 27 September Suzhou WM Motor Smart Mobility's RMB6 billion equity in WM Motor was frozen.",
+      "event_zh": "股权冻结陆续发生：8 月 11 日湖北星晖 60 亿元股权被冻结；9 月 20 日威马持有的威马汽车制造温州约 40.4 亿元股权被冻结；9 月 27 日苏州威马智慧出行持有的威马汽车 60 亿元股权被冻结。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2023-10-07",
+      "event_en": "Shanghai No.3 Intermediate People's Court accepts WM Motor Technology Group's pre-reorganization application. On 18 October the company issues a clarification denying it had filed for bankruptcy and denying the founder had fled overseas.",
+      "event_zh": "上海市第三中级人民法院受理威马汽车科技集团的预重整申请。10 月 18 日公司发布澄清，否认申请破产及创始人“跑路海外”。",
+      "source_ids": ["s6", "s7", "s5"]
+    },
+    {
+      "date": "2023-12-29",
+      "event_en": "Shanghai No.3 Intermediate People's Court rules to accept WM Motor Technology Group's reorganization under case (2023) Hu 03 Po 1041; on 4 January 2024 Dentons (Shanghai) and BDO China Shu Lun Pan are appointed joint administrators.",
+      "event_zh": "上海市第三中级人民法院作出 (2023)沪03破1041 号《民事裁定书》，受理威马汽车科技集团重整；2024 年 1 月 4 日指定北京大成（上海）律师事务所与立信会计师事务所（特殊普通合伙）为联合管理人。",
+      "source_ids": ["s2", "s7"]
+    },
+    {
+      "date": "2024-03-29",
+      "event_en": "First creditors' meeting is held. For the single entity WM Motor Technology Group, the audit recorded book assets of RMB3.988 billion against liabilities of RMB20.367 billion, and the evaluation valued assets at RMB4.107 billion and liabilities at RMB19.305 billion; the administrator confirmed claims totalling RMB3.376 billion from 564 creditors.",
+      "event_zh": "召开第一次债权人会议。以威马科技集团单一主体计，审计报告账面资产 39.88 亿元、负债 203.67 亿元，评估报告总资产评估值 41.07 亿元、总负债评估值 193.05 亿元；管理人确认 564 户债权人债权总额 33.76 亿元。",
+      "source_ids": ["s12", "s13"]
+    },
+    {
+      "date": "2024-04-25",
+      "event_en": "China's Supreme People's Court issues its final judgment in the Geely trade-secret case ((2023) Zui Gao Fa Zhi Min Zhong 1590), ordering the four WM entities to pay Geely about RMB637.6 million in damages plus RMB5 million in costs over the EX-series (EX5, EX6, E5) chassis technology.",
+      "event_zh": "最高人民法院对吉利诉威马商业秘密案作出二审判决（(2023)最高法知民终1590 号），判令威马方四公司赔偿吉利经济损失约 6.38 亿元及合理开支 500 万元，合计约 6.4 亿元，涉及 EX 系列（EX5、EX6、E5）底盘技术。",
+      "source_ids": ["s3", "s4"]
+    },
+    {
+      "date": "2025-04-03",
+      "event_en": "The court approves the consolidated reorganization plan for the four WM companies and terminates the substantive-consolidation procedure; Shenzhen Xiangfei Auto Sales Co., Ltd. becomes the reorganization investor.",
+      "event_zh": "法院裁定批准威马四家公司合并重整计划并终止实质合并重整程序，深圳翔飞汽车销售有限公司成为重整投资人。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2025-09",
+      "event_en": "WM Motor publishes its \"Letter to Suppliers\" white paper announcing a revival plan: about RMB1 billion investment to restart EX5 and E5 production in Wenzhou, targeting 10,000 units in 2025 and a path to 100,000-unit production by 2026 and 1 million-unit capacity by 2030.",
+      "event_zh": "威马发布《致供应商白皮书》，宣布“复活”计划：投入约 10 亿元在温州复产 EX5、E5，2025 年确保产销 1 万辆、力争 2 万辆，并规划 2026 年量产 10 万辆、2030 年挑战 100 万辆产能。",
+      "source_ids": ["s11", "s10"]
+    },
+    {
+      "date": "2026-10-14",
+      "event_en": "The official WeChat account posts \"B-Neng Auto, please pay our wages\" and quickly deletes it; salary arrears and car-networking service failures surface, and production has not substantively resumed.",
+      "event_zh": "官方公众号发文“B能汽车，请发我们工资”后迅速删除；欠薪与车联网服务失效等问题浮出水面，复产未实质落地。",
+      "source_ids": ["s10"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "WM Motor (Weltmeister)",
+      "name_zh": "威马汽车（Weltmeister）",
+      "role_en": "WM Motor's sole brand. The prospectus lists five models spanning SUV and sedan: EX5 (incl. EX5-Z, launched September 2018), EX6 (November 2019), W6 (April 2021), E5 (incl. E5 Pro, August 2021) and M7, a flagship sedan scheduled for H2 2022 that was never delivered. Suggested retail prices in the prospectus run from RMB160,800 for the EX5 to RMB259,800 for the W6 and RMB279,900 for the EX6 Plus.",
+      "role_zh": "威马旗下唯一品牌。招股书列出五款车型，覆盖 SUV 与轿车：EX5（含 EX5-Z，2018 年 9 月上市）、EX6（2019 年 11 月）、W6（2021 年 4 月）、E5（含 E5 Pro，2021 年 8 月），以及原计划 2022 年下半年推出但未交付的旗舰轿车 M7。招股书建议零售价从 EX5 的 16.08 万元起，到 W6 的 25.98 万元、EX6 Plus 的 27.99 万元。",
+      "price_band": "≈RMB 160,800–279,900",
+      "founded": 2015,
+      "owner_note_en": "Operated by WM Motor Technology Group Co., Ltd., wholly held by Suzhou WM Motor Smart Mobility Technology Co., Ltd. before the reorganization. Production halted from 2022–2023 and the company entered reorganization in December 2023. In April 2025 the court approved the reorganization plan with Shenzhen Xiangfei Auto Sales as the investor, which took over the four WM companies. By the October 2026 cutoff there was no substantiated mass production, and car-networking and after-sales services had broken down.",
+      "owner_note_zh": "重整前由威马汽车科技集团有限公司运营（苏州威马智慧出行科技有限公司全资持股）。2022–2023 年起停工停产，2023 年 12 月进入重整；2025 年 4 月法院批准重整计划，深圳翔飞汽车销售为重整投资人并接管威马四公司。截至 2026 年 10 月尚无经证实的规模化复产，车联网与售后服务中断。",
+      "status": "production-halted",
+      "source_ids": ["s1", "s6", "s11", "s10", "s2"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "HKFRS (IFRS) — 2022 HKEX application proof (prospectus), audited by PwC",
+    "rows": [
+      { "fiscal_year": 2019, "revenue": 1762.1, "gross_margin_pct": -58.3, "net_profit": -4145, "rnd": 892.8, "source_ids": ["s1"] },
+      { "fiscal_year": 2020, "revenue": 2671.7, "gross_margin_pct": -43.5, "net_profit": -5084, "rnd": 992.1, "source_ids": ["s1"] },
+      { "fiscal_year": 2021, "revenue": 4742.5, "gross_margin_pct": -41.1, "net_profit": -8206, "rnd": 981.2, "source_ids": ["s1"] }
+    ],
+    "note_en": "WM Motor never listed, so the audited consolidated figures below come from its only public financial document — the June 2022 HKEX application proof (prospectus), prepared under HKFRS/IFRS and audited by PwC. Revenue is taken from the consolidated statement of profit or loss and other comprehensive income; gross margin is negative (a gross loss, hence the negative percentage). Net profit is the 'loss for the year' (年内亏损) line — the prospectus presents a single 'loss for the year' figure without a separately stated 'attributable to ordinary shareholders' subtotal in the excerpts reviewed; because minority interests are immaterial, media reports conventionally describe the three-year 2019–2021 total of RMB17,435 million as loss attributable to owners (归母净亏损). R&D spending is RMB892.8 million (2019), RMB992.1 million (2020) and RMB981.2 million (2021), equal to 50.7%, 37.1% and 20.7% of revenue respectively — a declining trend. Amounts are in CNY millions (RMB1,762.1 million = RMB1.762 billion). The prospectus is a draft application version that was never finalised; no audited annual report exists for 2022 onwards. Separately, the reorganization audit (cited in the body) recorded book assets of RMB3.988 billion against liabilities of RMB20.367 billion for the single entity WM Motor Technology Group.",
+    "note_zh": "威马从未上市，下表经审计合并数据来自其唯一公开的财务文件——2022 年 6 月港交所招股书（申请版本），按 HKFRS/IFRS 编制、由普华永道审计。营收取自综合全面亏损表；毛利率为负（即毛损，故为负百分比）。净利润为招股书综合报表中的“年内亏损”（loss for the year）口径——本次核查所引片段中招股书仅列示单一“年内亏损”数，未单独列示“归属于普通股股东”小计；因少数股东权益极小，媒体通常将 2019–2021 三年合计 174.35 亿元表述为归母净亏损。研发投入为 8.928 亿元（2019）、9.921 亿元（2020）、9.812 亿元（2021），占同期营收比例分别为 50.7%、37.1% 与 20.7%，呈逐年下降。表中单位为人民币百万元（1762.1 百万元即 17.62 亿元）。招股书为未最终定稿的申请版本；2022 年及以后无经审计年报。另据重整审计（见正文），威马科技集团单一主体账面资产 39.88 亿元、负债 203.67 亿元。"
+  },
+  "sections": {
+    "overview": {
+      "source_ids": ["s1", "s6", "s14", "s2", "s3", "s10", "s11"],
+      "en": "<p>WM Motor (威马汽车, from the German \"Weltmeister\", world champion) was a Shanghai-based electric-vehicle startup founded in 2015 by Freeman Shen, a former Geely vice president who was responsible for Geely's acquisition of Volvo. It was among China's earliest EV startups and was once grouped with NIO, XPeng and Li Auto as the \"Four Little Dragons\". Unlike peers that began with contract manufacturing, WM Motor self-built plants in Wenzhou and Huanggang and launched its first model, the EX5, in September 2018.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://www.163.com/dy/article/J4SRFCUV0534JESX.html\">[s14]</a></p><p>The company raised roughly RMB35 billion in cumulative funding by its own prospectus-related reporting (some media say over RMB41 billion) but never reached profitability: it recorded net losses totalling about RMB17.4 billion over 2019–2021, failed to list on the STAR Market, in Hong Kong or via reverse mergers, and slid into distress from late 2022. Shanghai No.3 Intermediate People's Court accepted its pre-reorganization in October 2023 and its reorganization in December 2023; the court approved a consolidated reorganization plan in April 2025 with Shenzhen Xiangfei Auto Sales as the investor.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a></p><p>A September 2025 \"revival\" announcement has not translated into substantiated mass production. As of 29 October 2026 the company faces salary arrears, disabled car-networking and after-sales services, and financial stress at its reorganization investor.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p>",
+      "zh": "<p>威马汽车（WM Motor，取自德语“Weltmeister”，意为世界冠军）是总部位于上海的电动汽车创业公司，2015 年由前吉利控股集团副总裁、负责吉利收购沃尔沃的沈晖创立。它是中国最早的造车新势力之一，曾与蔚来、小鹏、理想并称“四小龙”。与早期采用代工模式的同行不同，威马自建温州、黄冈两大工厂，并于 2018 年 9 月推出首款车型 EX5。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://www.163.com/dy/article/J4SRFCUV0534JESX.html\">[s14]</a></p><p>按招股书相关报道口径，公司累计融资约 350 亿元（部分媒体称超 410 亿元），但从未盈利：2019–2021 年累计净亏损约 174 亿元，科创板、港股及借壳上市均未成功，2022 年下半年起陷入困境。上海市第三中级人民法院于 2023 年 10 月受理预重整、2023 年 12 月受理重整，并于 2025 年 4 月批准合并重整计划，深圳翔飞汽车销售成为重整投资人。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a></p><p>2025 年 9 月宣布的“复活”计划未转化为经证实的规模化复产。截至 2026 年 10 月 29 日，公司面临欠薪、车联网与售后服务中断，以及重整投资人自身资金承压等问题。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p>"
+    },
+    "current": {
+      "source_ids": ["s1", "s6", "s7", "s8", "s11", "s10", "s12", "s13", "s15", "s9"],
+      "en": "<h3>Business and products</h3><p>WM Motor's revenue was mainly vehicle and parts sales, together with regulatory-credit sales and other products and services. The prospectus lists five models: EX5 (incl. EX5-Z), EX6, W6, E5 (incl. E5 Pro) and the unreleased M7 flagship sedan, originally scheduled for H2 2022. The W6 was marketed as a production vehicle with L4 automated valet parking. Per the prospectus, the EX5 measures 4,585 mm long with 403 km NEDC range, the W6 has a 2,715 mm wheelbase and 520–620 km range, the E5 a 2,810 mm wheelbase and 505 km range, and the M7 was to span 600–700 km. No audited revenue breakdown by business is available after the lapsed prospectus.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a></p><h3>Plants and production qualification</h3><p>The company built two plants, in Wenzhou, Zhejiang and Huanggang, Hubei, with combined designed capacity of about 250,000 vehicles a year; both had halted production by 2022–2023. The Huanggang base was operated through Hubei Xinghui New Energy Intelligent Automobile Co., Ltd. WM Motor held new-energy-vehicle production qualification covering sedans, SUVs and MPVs, which the administrator described as a key asset.<a href=\"https://www.nbd.com.cn/articles/2024-01-31/3230721.html\">[s7]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p><h3>Technology and platforms</h3><p>The prospectus describes the W6 as a mass-produced vehicle with L4 automated valet parking via \"memory\" AVP and a service-oriented architecture (SOA) supporting user-defined scenarios; the unreleased M7 was to carry the company's self-developed L4 AVP with hardware configured for future L5 automation. A next-generation Caesar chassis platform was planned to underpin new SUVs, sedans and MPVs from 2023. None of these future products was delivered before the company halted.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a></p><h3>Overseas business</h3><p>WM Motor began pursuing exports from 2022: in July 2022 the EX5 obtained EU WVTA whole-vehicle type approval and the E5 obtained EU SSTA small-series approval; in March 2023 the company said it had won more than 10,000 overseas orders in Israel, Dubai, Turkey and Southeast Asia, and in July 2023 the first 50 EX5 units departed Shanghai for Israel. The company never disclosed actual overseas deliveries, and the export push did not stop it entering pre-reorganization in October 2023.<a href=\"https://auto.youth.cn/xw/202307/t20230726_14674169.htm\">[s15]</a><a href=\"https://auto.ce.cn/auto/gundong/202309/11/t20230911_38709999.shtml\">[s9]</a></p><h3>Reorganization and current status</h3><p>After reorganization was accepted in December 2023, a March 2024 audit recorded book assets of RMB3.988 billion against liabilities of RMB20.367 billion for the single entity WM Motor Technology Group, with evaluation values of RMB4.107 billion and RMB19.305 billion; the administrator confirmed claims totalling RMB3.376 billion from 564 creditors. At the pre-reorganization stage, the court's audit-and-evaluation on a consolidated basis was about RMB9.6 billion of assets against RMB25 billion of liabilities. In April 2025 the court approved the consolidated reorganization plan for the four WM companies and named Shenzhen Xiangfei Auto Sales as the investor; a September white paper announced about RMB1 billion to restart EX5 and E5 production in Wenzhou, with claims of RMB150,000 or below paid in cash in full within six months of approval and the remainder compensated with trust beneficiary rights. By October 2026 media reported no substantiated mass production, the \"Xiaowei\" car-networking app removed from app stores and the website unreachable.<a href=\"https://m.nbd.com.cn/articles/2024-04-01/3306815.html\">[s12]</a><a href=\"https://static.nfnews.com/content/202403/31/c8742939.html\">[s13]</a><a href=\"https://www.nbd.com.cn/articles/2024-01-31/3230721.html\">[s7]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p><h3>Sales record</h3><p>Per the prospectus, WM Motor delivered 12,799 vehicles in 2019, 21,937 in 2020 and 44,152 in 2021, with about 83,500 cumulative deliveries by end-2021. CPCA data show 29,450 units sold in 2022, down 33.3% year on year, comprising 18,763 E5, 6,364 W6, 4,317 EX5 and 6 EX6. In 2023 sales collapsed to about 10,200 units, down 65.6%, and from then on the company halted production and stopped publishing meaningful delivery figures.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml\">[s8]</a><a href=\"https://www.bjnews.com.cn/detail/1753241613168888.html\">[s16]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p>",
+      "zh": "<h3>业务与产品</h3><p>威马的收入主要来自车辆及部件销售，另有汽车监管积分销售及其他产品和服务。招股书列出五款车型：EX5（含 EX5-Z）、EX6、W6、E5（含 E5 Pro），以及原计划 2022 年下半年推出、未交付的旗舰轿车 M7。W6 被宣传为具备 L4 级自动代客泊车功能的量产车型。据招股书，EX5 车长 4,585 毫米、NEDC 续航 403 公里，W6 轴距 2,715 毫米、续航 520–620 公里，E5 轴距 2,810 毫米、续航 505 公里，M7 续航 600–700 公里。招股书失效后，无公开的经审计业务分部收入数据。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a></p><h3>工厂与生产资质</h3><p>公司自建浙江温州、湖北黄冈两大基地，合计规划年产能约 25 万辆；两大工厂于 2022–2023 年先后停工。黄冈基地主体为湖北星晖新能源智能汽车有限公司。威马持有覆盖轿车、SUV、MPV 的新能源汽车整车生产资质，管理人将其列为重要资产。<a href=\"https://www.nbd.com.cn/articles/2024-01-31/3230721.html\">[s7]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p><h3>技术与平台</h3><p>招股书将 W6 描述为通过“记忆”AVP 实现 L4 级自动代客泊车的量产车型，并具备面向服务的架构（SOA）以支持用户自定义场景；未交付的 M7 原计划搭载自主研发的 L4 AVP，硬件为未来 L5 自动驾驶预留。公司曾规划自 2023 年起基于下一代 Caesar 底盘平台推出新 SUV、轿车和 MPV。上述未来产品在公司停摆前均未交付。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a></p><h3>海外业务</h3><p>威马自 2022 年起布局出海：2022 年 7 月 EX5 获得欧盟 WVTA 大批量认证，E5 获 SSTA 欧盟小批量认证；2023 年 3 月公司称已在以色列、迪拜、土耳其、东南亚等地拿下超万辆海外订单，7 月首批 50 辆 EX5 从上海港启运以色列。公司从未披露海外实际交付量，出海未能阻止其于 2023 年 10 月进入预重整。<a href=\"https://auto.youth.cn/xw/202307/t20230726_14674169.htm\">[s15]</a><a href=\"https://auto.ce.cn/auto/gundong/202309/11/t20230911_38709999.shtml\">[s9]</a></p><h3>重整与现状</h3><p>2023 年 12 月受理重整后，2024 年 3 月审计显示，威马科技集团单一主体账面资产 39.88 亿元、负债 203.67 亿元，评估值分别为 41.07 亿元与 193.05 亿元；管理人确认 564 户债权人债权总额 33.76 亿元。预重整阶段，法院审计评估的合并口径约为资产 96 亿元、负债 250 亿元。2025 年 4 月法院批准威马四公司合并重整计划，指定深圳翔飞汽车销售为重整投资人；9 月白皮书宣布投入约 10 亿元在温州复产 EX5、E5，普通债权 15 万元（含）以下部分在批准后 6 个月内现金全额清偿、超过部分以信托受益权份额受偿。截至 2026 年 10 月，媒体报道并无经证实的规模化复产，“小威”车联网 App 已被应用商店下架，官网无法访问。<a href=\"https://m.nbd.com.cn/articles/2024-04-01/3306815.html\">[s12]</a><a href=\"https://static.nfnews.com/content/202403/31/c8742939.html\">[s13]</a><a href=\"https://www.nbd.com.cn/articles/2024-01-31/3230721.html\">[s7]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p><h3>销量记录</h3><p>据招股书，威马 2019 年交付 12,799 辆、2020 年 21,937 辆、2021 年 44,152 辆，截至 2021 年末累计交付约 8.35 万辆。2022 年乘联会口径销量 29,450 辆，同比下降 33.3%，其中 E5 为 18,763 辆、W6 为 6,364 辆、EX5 为 4,317 辆、EX6 仅 6 辆。2023 年销量跌至约 1.02 万辆，同比下降 65.6%，此后公司停工停产，未再公布有意义的交付数据。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml\">[s8]</a><a href=\"https://www.bjnews.com.cn/detail/1753241613168888.html\">[s16]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p>"
+    },
+    "leadership": {
+      "source_ids": ["s14", "s5", "s1", "s2", "s11", "s10", "s6"],
+      "en": "<h3>Founder</h3><p>Freeman Shen (SHEN Hui) founded WM Motor in January 2015. Reporting describes him as a vice president of Geely Holding from 2009 to 2014 who was responsible for Geely's acquisition of Volvo, described as the largest overseas acquisition in the history of China's auto industry, and who from October 2010 concurrently served as senior vice president of Volvo Cars and chairman of Volvo Car China until leaving at the end of 2014. A co-founder, Hou Haijing, also came from Geely.<a href=\"https://www.163.com/dy/article/J4SRFCUV0534JESX.html\">[s14]</a></p><h3>Founder status and reorganization administration</h3><p>In October 2023 the company denied media reports that Shen had \"fled overseas\", saying his work focus was abroad. From January 2024 the company was run under joint administrators (Dentons Shanghai and BDO China Shu Lun Pan) in the court-supervised reorganization; Shenzhen Xiangfei Auto Sales became the reorganization investor in April 2025. No complete current management list was obtained for the October 2026 cutoff.<a href=\"https://www.news.cn/auto/20231019/0708793597c440b4b9056ac8bdfcdbfc/c.html\">[s5]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a></p><h3>Shareholding and governance</h3><p>The prospectus shows that, pre-IPO, Freeman Shen and spouse Wang Lei together controlled about 30.82% of voting rights (Shen about 27.69% through Timeless Hero, Best Model and an employee platform; Wang Lei about 3.13% through Enzo Turbo). Other disclosed shareholders included Agile Group (about 6.46%), Baidu (5.96%), Tencent (1.48%), Shun Tak Holdings (1.45%), PCCW (1.42%) and China Tobacco-related investors (1.84%). No formal \"actual controller\" designation was disclosed. At the operating level, WM Motor Technology Group was wholly held by Suzhou WM Motor Smart Mobility Technology before the reorganization; under the court-approved plan, the four companies' real estate, movables, intangible assets and production-essential assets (moulds, inventory, production facilities and IP) were brought within the reorganization investor's scope.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a></p>",
+      "zh": "<h3>创始人</h3><p>沈晖（SHEN Hui）于 2015 年 1 月创立威马汽车。报道称其 2009–2014 年任吉利控股集团副总裁，负责吉利收购沃尔沃——被称为中国汽车工业史上最大的海外收购案，并自 2010 年 10 月起兼任沃尔沃汽车全球高级副总裁兼中国区董事长，2014 年底离任。联合创始人侯海靖同样来自吉利汽车。<a href=\"https://www.163.com/dy/article/J4SRFCUV0534JESX.html\">[s14]</a></p><h3>创始人状态与重整管理</h3><p>2023 年 10 月公司否认媒体“跑路海外”的报道，称其工作重心在海外。2024 年 1 月起公司由联合管理人（北京大成（上海）与立信）在法院监督下重整；2025 年 4 月深圳翔飞汽车销售成为重整投资人。本次未取得截至 2026 年 10 月的完整现任管理层名单。<a href=\"https://www.news.cn/auto/20231019/0708793597c440b4b9056ac8bdfcdbfc/c.html\">[s5]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a></p><h3>股权与治理</h3><p>招股书显示，上市前沈晖夫妇合计控制约 30.82% 表决权（沈晖通过 Timeless Hero、Best Model 及员工持股平台合计约 27.69%，王蕾通过 Enzo Turbo 约 3.13%）。其他披露股东包括雅居乐（约 6.46%）、百度（5.96%）、腾讯（1.48%）、信德集团（1.45%）、电讯盈科（1.42%）及中国烟草相关投资方（1.84%）。公司未披露“实际控制人”认定。经营层面，重整前威马汽车科技集团由苏州威马智慧出行科技全资持股；按法院批准的重整计划，威马四公司的不动产、动产、无形资产及复产必需资产（含模具、库存、生产设施、知识产权等）纳入重整投资人本次重整范围。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a></p>"
+    },
+    "competition": {
+      "source_ids": ["s1", "s6", "s8", "s9", "s3", "s14", "s11", "s10"],
+      "en": "<h3>Position in the early EV startup group</h3><p>WM Motor was an early mover: its EX5 launched in September 2018, shortly after NIO's first model and ahead of XPeng's G3 and Li Auto's first model. Per CIC data cited in the prospectus, in 2021 the EX5 was the top-selling electric SUV in China's mainstream market by cumulative sales. The company announced 16,876 deliveries for 2019 (its own announcement), though the audited prospectus shows 12,799.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://auto.ce.cn/auto/gundong/202309/11/t20230911_38709999.shtml\">[s9]</a></p><h3>Our assessment: why it fell behind</h3><p>Our assessment: WM Motor lost ground as NIO, XPeng and Li Auto scaled past roughly 90,000 deliveries in 2021 and above 100,000 in 2022, while WM Motor's volume stagnated around 40,000 then fell to 29,450 in 2022. The evidence includes the delivery data (44,152 in 2021 versus peers' roughly 90,000-plus), R&amp;D spending below RMB1 billion a year in 2019–2021, heavy-asset self-built plants whose capacity was under-used as sales declined, and media-reported frequent vehicle fire incidents in 2021 that weighed on its reputation.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml\">[s8]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p><h3>Financing versus technology</h3><p>Our assessment: WM Motor raised about RMB35 billion in cumulative funding with a RMB10 billion Series D in 2020 and a pre-IPO valuation of about USD7.04 billion, yet lost about RMB17.4 billion over 2019–2021 and kept annual R&amp;D spending below RMB1 billion while selling and administrative expenses were far larger; R&amp;D fell from 50.7% to 20.7% of revenue across 2019–2021. This profile of large financing and heavy selling and administrative spending alongside limited R&amp;D is the factual basis for describing WM Motor as funding- and sales-driven rather than technology-driven.<a href=\"https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml\">[s8]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a></p><h3>Legal and technology constraints</h3><p>In April 2024 China's Supreme People's Court handed down its final judgment finding that four WM entities infringed Geely's trade secrets in the EX-series (EX5, EX6, E5) chassis technology, ordering about RMB640 million in compensation. The judgment also set late-performance payments: RMB1 million per day for breaching the obligation to stop using the technology; a one-time RMB1 million per patent for unauthorized disposal of the 12 utility-model patents; and RMB100,000 per day for each of the following if not performed on time — destroying or transferring the carriers, publishing the announcement, issuing internal notices, or signing the confidentiality and non-infringement undertakings. The finding concerns the origin of WM Motor's core chassis technology.<a href=\"https://ipc.court.gov.cn/zh-cn/news/view-3250.html\">[s3]</a><a href=\"https://www.163.com/dy/article/J4SRFCUV0534JESX.html\">[s14]</a></p><h3>Our assessment: competitive position at the 2026 cutoff</h3><p>Our assessment: a restart centred on the EX5 (launched 2018) and E5 (2021–2022) would face a market whose electronic-electrical architecture, range and smart cockpit have moved on substantially, leaving a clear product-generation gap. The basis is the white paper's plan to restart these two legacy models, set against media-reported industry product iteration; no independent market-share data was obtained for this review.<a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p>",
+      "zh": "<h3>早期新势力中的地位</h3><p>威马是早期入局者：EX5 于 2018 年 9 月上市，晚于蔚来首款车、早于小鹏 G3 和理想首款车。招股书援引灼识咨询数据称，2021 年 EX5 按累计销量计为中国主流市场销量第一的电动 SUV。公司曾公布 2019 年交付 16,876 辆（公司口径），而经审计的招股书显示为 12,799 辆。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://auto.ce.cn/auto/gundong/202309/11/t20230911_38709999.shtml\">[s9]</a></p><h3>我们的判断：为何掉队</h3><p>我们的判断：当蔚来、小鹏、理想 2021 年交付突破约 9 万辆、2022 年突破 10 万辆时，威马销量停滞在 4 万辆上下，2022 年降至 29,450 辆。依据包括交付量对比（2021 年 44,152 辆对同行约 9 万辆以上）、2019–2021 年研发投入每年不足 10 亿元、自建重资产工厂在销量下滑后产能利用率不足，以及媒体报道的 2021 年频繁自燃事件对其品牌声誉的影响。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml\">[s8]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p><h3>融资与技术</h3><p>我们的判断：威马累计融资约 350 亿元，2020 年 D 轮即达 100 亿元，Pre-IPO 估值约 70.4 亿美元；但 2019–2021 年累计亏损约 174 亿元，研发投入每年不足 10 亿元且占营收比例从 50.7% 降至 20.7%，而销售及行政开支远高于研发。融资规模大、销售与行政开支高而研发投入相对有限，是描述其为“融资驱动、销售驱动而非技术驱动”的事实依据。<a href=\"https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml\">[s8]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a><a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a></p><h3>法律与技术约束</h3><p>最高人民法院 2024 年 4 月终审判决认定威马方四公司侵害吉利 EX 系列（EX5、EX6、E5）底盘技术秘密，判令赔偿约 6.4 亿元。判决还设定了迟延履行金：违反停止使用义务每日 100 万元；擅自处分 12 件实用新型专利的，每件一次性 100 万元；未按期履行销毁或移交载体、发布公告、内部通知或签署保密及不侵权承诺中任一义务，分别每日 10 万元。该认定涉及威马核心底盘技术的来源问题。<a href=\"https://ipc.court.gov.cn/zh-cn/news/view-3250.html\">[s3]</a><a href=\"https://www.163.com/dy/article/J4SRFCUV0534JESX.html\">[s14]</a></p><h3>我们的判断：2026 年截止时的竞争位置</h3><p>我们的判断：若重启计划聚焦于 2018 年推出的 EX5 与 2021–2022 年推出的 E5 两款老车型，将面对电子电气架构、续航与智能座舱已大幅迭代的市场，存在明显的产品代差。依据是白皮书规划复产这两款老车型，对比媒体报道的行业产品迭代；本次未取得独立市场份额数据。<a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p>"
+    },
+    "outlook": {
+      "source_ids": ["s11", "s10", "s2", "s1", "s3"],
+      "en": "<h3>Company's published plan</h3><p>The September 2025 white paper set a three-stage plan: a revival phase restarting the EX5 and E5 in Wenzhou with a guaranteed 10,000 units and up to 20,000 units in 2025, and 100,000 units of production in 2026; a development phase of 250,000–400,000 units of sales in 2027–2028 with IPO preparation; and a target of 1 million units of capacity and RMB120 billion in revenue by 2030. It also outlined more than 10 new models over five years spanning A00 to C segments across pure-electric and extended-range routes, and a 2026 export share target of 30%. These are the company's stated targets, not confirmed achievements.<a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p><h3>What has happened since</h3><p>Media reporting through October 2026 found no substantiated mass production or delivery after the restart announcement, a car-networking app removed from app stores and an unreachable website, a deleted WeChat wage-arrears post, and new execution records against the investor's Baoneng-affiliated related parties totalling about RMB50 billion cumulatively.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p><h3>Our analysis</h3><p>Our assessment: for a genuine restart, the company would need to restore its production qualification and the vehicle-safety monitoring capability that new-energy-vehicle access rules require, resolve salary arrears and historical debt, and bring the investor's funding to bear; none of these was confirmed by the cutoff. The basis is the court-approved plan now resting on plan execution, the product-generation gap of the two legacy models, and the investor's own reported financial stress. The absence of confirmation in this review is an evidence boundary, not proof that a restart is impossible.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a></p><h3>Industry lessons</h3><p>Our assessment: WM Motor's trajectory illustrates observable industry lessons — heavy-asset self-built plants become a fixed-cost burden when sales fall short of expectations; a strategy driven by financing rather than product and technology accumulation, with R&amp;D below RMB1 billion a year in 2019–2021; and a disputed origin of core chassis technology that drew a record-setting IP damages award. These are analytical generalizations based on the facts disclosed above.<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://ipc.court.gov.cn/zh-cn/news/view-3250.html\">[s3]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p>",
+      "zh": "<h3>公司公布的规划</h3><p>2025 年 9 月白皮书提出“三步走”规划：复兴阶段在温州复产 EX5、E5，2025 年确保产销 1 万辆、力争 2 万辆，2026 年量产 10 万辆；发展阶段 2027–2028 年销量 25 万–40 万辆并筹备 IPO；2030 年挑战 100 万辆产能、营收 1200 亿元。规划还提出未来 5 年推出超 10 款新车、覆盖 A00 级至 C 级、涵盖纯电与增程式技术路线，以及 2026 年出口占比 30% 的目标。以上为公司自述目标，并非已实现的成果。<a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p><h3>此后发生的情况</h3><p>截至 2026 年 10 月的媒体报道显示：复产公告后并无经证实的规模化量产与交付，车联网 App 被应用商店下架、官网无法访问，公众号讨薪帖被删除，投资人关联的宝能系相关主体新增被执行记录、累计约 500 亿元。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></p><h3>我们的分析</h3><p>我们的判断：要实现真正复产，公司需恢复生产资质及新能源汽车准入所要求的整车安全监测能力，解决欠薪与历史债务，并落实投资人资金；截至截止日均未被确认。依据是法院批准的重整计划现处于计划执行阶段、两款老车型存在产品代差，以及投资人自身被报道的资金压力。此处“未被确认”是本次核查的证据边界，不等于已确认复产不可能。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a><a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a></p><h3>行业教训</h3><p>我们的判断：威马的轨迹反映了可观察的行业教训——重资产自建工厂在销量不及预期时成为高固定成本负担；以融资而非产品与技术积累驱动，研发投入相对有限（2019–2021 年每年不足 10 亿元）；核心底盘技术来源存在争议并引发创纪录的知识产权赔偿。以上为基于前文已披露事实的归纳，属分析判断。<a href=\"https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf\">[s1]</a><a href=\"https://ipc.court.gov.cn/zh-cn/news/view-3250.html\">[s3]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></p>"
+    },
+    "risks": {
+      "source_ids": ["s10", "s13", "s3", "s2", "s6", "s11"],
+      "en": "<ul><li><strong>Plan-execution risk:</strong> the court approved the four-company reorganization plan in April 2025, but by October 2026 media reported no substantiated production, salary arrears and deleted wage-demand posts. Under the Enterprise Bankruptcy Law, failure to execute a plan can lead a court to terminate plan execution and declare bankruptcy.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></li><li><strong>Balance-sheet and debt risk:</strong> the March 2024 audit recorded book assets of RMB3.988 billion against liabilities of RMB20.367 billion for the single entity, i.e. severe insolvency; confirmed claims totalled RMB3.376 billion. The Geely judgment added about RMB640 million in damages and costs.<a href=\"https://static.nfnews.com/content/202403/31/c8742939.html\">[s13]</a><a href=\"https://ipc.court.gov.cn/zh-cn/news/view-3250.html\">[s3]</a></li><li><strong>Investor-capacity risk:</strong> media reported the investor Shenzhen Xiangfei's Baoneng-affiliated related parties had large execution records (about RMB50 billion cumulative by October 2026), raising doubt about the RMB1 billion restart funding.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></li><li><strong>Production-access risk:</strong> restarting requires a valid vehicle-production qualification and the vehicle-safety monitoring data capability that access rules require; media reported the qualification had not been restored and the car-networking capability was offline.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a></li><li><strong>Customer and after-sales risk:</strong> tens of thousands of existing owners face disabled connected-car features and reduced after-sales service as the app and website went offline.<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></li><li><strong>Product-generation risk:</strong> the white paper's restart models — the EX5 (launched 2018) and E5 (2021–2022) — lag current mainstream products in electronic-electrical architecture, range and smart cockpit, weakening their competitiveness after a restart.<a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></li></ul>",
+      "zh": "<ul><li><strong>计划执行风险：</strong>法院于 2025 年 4 月批准威马四家公司重整计划，但截至 2026 年 10 月媒体报道并无经证实的复产，出现欠薪与被删除的讨薪帖。依《企业破产法》，不能执行重整计划时，法院可裁定终止执行并宣告破产。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></li><li><strong>资产负债与债务风险：</strong>2024 年 3 月审计显示单一主体账面资产 39.88 亿元、负债 203.67 亿元，严重资不抵债；确认债权总额 33.76 亿元。吉利案另判赔约 6.4 亿元。<a href=\"https://static.nfnews.com/content/202403/31/c8742939.html\">[s13]</a><a href=\"https://ipc.court.gov.cn/zh-cn/news/view-3250.html\">[s3]</a></li><li><strong>投资人资金能力风险：</strong>媒体报道重整投资人深圳翔飞关联的宝能系相关主体被执行金额巨大（截至 2026 年 10 月累计约 500 亿元），10 亿元复产资金能否落实存疑。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></li><li><strong>生产准入风险：</strong>复产需有效的整车生产资质及准入规则所要求的整车安全监测数据能力；媒体报道资质尚未恢复、车联网能力停摆。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a><a href=\"https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150\">[s2]</a></li><li><strong>车主与售后风险：</strong>数万名存量车主面临车联网功能失效、售后缩水，App 与官网已下线。<a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a><a href=\"https://thepaper.cn/newsDetail_forward_24885747\">[s6]</a></li><li><strong>产品代差风险：</strong>白皮书规划的复产车型为 2018 年推出的 EX5 与 2021–2022 年推出的 E5，在电子电气架构、续航与智能座舱方面落后于当前主流产品，影响重启后的竞争力。<a href=\"https://auto.youth.cn/xw/202509/t20250916_16239402.htm\">[s11]</a><a href=\"https://www.bjnews.com.cn/detail-1792114642169571.html\">[s10]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "WM Motor Holdings Limited — HKEX application proof (prospectus), first submission, archived by the Internet Archive Wayback Machine", "url": "https://web.archive.org/web/20220818064236/https://www1.hkexnews.hk/app/sehk/2022/104506/documents/sehk22060100033_c.pdf", "date": "2022-06-01", "tier": "A" },
+    { "id": "s2", "name": "National Enterprise Bankruptcy Reorganization Case Information Network — WM Motor Technology Group employee-creditor claims notice (first batch), (2023) Wei Ma Po Guan Zi No.15", "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D5F9293EADB3C27204E9FB9C8CD09150", "date": "2024-04-17", "tier": "A" },
+    { "id": "s3", "name": "Supreme People's Court Intellectual Property Court — interview on the Geely v. WM Motor trade-secret final judgment ((2023) Zui Gao Fa Zhi Min Zhong 1590)", "url": "https://ipc.court.gov.cn/zh-cn/news/view-3250.html", "date": "2024-07-22", "tier": "A" },
+    { "id": "s4", "name": "China Court Network (chinacourt.cn) — Geely v. WM Motor chassis trade-secret infringement judgment and performance announcement", "url": "https://www.chinacourt.cn/article/detail/2024/06/id/8002093.shtml", "date": "2024-06-27", "tier": "A" },
+    { "id": "s5", "name": "Xinhua News — WM Motor: the company did not file for bankruptcy, the founder did not flee (reprinted from Guangzhou Daily)", "url": "https://www.news.cn/auto/20231019/0708793597c440b4b9056ac8bdfcdbfc/c.html", "date": "2023-10-19", "tier": "B" },
+    { "id": "s6", "name": "The Paper / Red Star Capital — WM Motor voluntarily applies for bankruptcy review", "url": "https://thepaper.cn/newsDetail_forward_24885747", "date": "2023-10-10", "tier": "B" },
+    { "id": "s7", "name": "National Business Daily (nbd.com.cn) — WM Motor reorganization accepted; pre-reorganization audit-and-evaluation of about RMB9.6bn assets / RMB25bn liabilities", "url": "https://www.nbd.com.cn/articles/2024-01-31/3230721.html", "date": "2024-01-31", "tier": "B" },
+    { "id": "s8", "name": "China Economic Net (ce.cn) — WM Motor seeks funds via backdoor listing: CPCA 2022 sales of 29,450 vehicles, down 33.3%", "url": "https://finance.ce.cn/stock/gsgdbd/202301/16/t20230116_38350210.shtml", "date": "2023-01-16", "tier": "B" },
+    { "id": "s9", "name": "China Economic Net (ce.cn) — WM Motor's listing dream dashed, overseas the only hope", "url": "https://auto.ce.cn/auto/gundong/202309/11/t20230911_38709999.shtml", "date": "2023-09-11", "tier": "B" },
+    { "id": "s10", "name": "Beijing News (bjnews.com.cn) — WM Motor's revival stalls", "url": "https://www.bjnews.com.cn/detail-1792114642169571.html", "date": "2026-10-16", "tier": "B" },
+    { "id": "s11", "name": "China Youth Net / China Business Journal (youth.cn) — WM Motor's revival and 2030 targets", "url": "https://auto.youth.cn/xw/202509/t20250916_16239402.htm", "date": "2025-09-16", "tier": "B" },
+    { "id": "s12", "name": "National Business Daily (nbd.com.cn) — WM Motor first creditors' meeting: single-entity book assets RMB3.988bn vs liabilities RMB20.367bn", "url": "https://m.nbd.com.cn/articles/2024-04-01/3306815.html", "date": "2024-04-01", "tier": "B" },
+    { "id": "s13", "name": "Southcn.com / Southern Plus — WM Motor confirmed claims of RMB3.376bn, evaluation values RMB4.107bn / RMB19.305bn", "url": "https://static.nfnews.com/content/202403/31/c8742939.html", "date": "2024-03-31", "tier": "B" },
+    { "id": "s14", "name": "Beijing Youth Daily (via 163.com) — Geely v. WM Motor trade-secret final judgment, late-performance payments and founder background", "url": "https://www.163.com/dy/article/J4SRFCUV0534JESX.html", "date": "2024-06-17", "tier": "B" },
+    { "id": "s15", "name": "China Youth Net / Beijing Business Today (youth.cn) — WM Motor pivots to overseas: EU certification and 10,000+ overseas orders", "url": "https://auto.youth.cn/xw/202307/t20230726_14674169.htm", "date": "2023-07-26", "tier": "B" },
+    { "id": "s16", "name": "Beijing News (bjnews.com.cn) — Baoneng-backed investor to rescue WM Motor: 2023 sales of 10,200 vehicles, down 65.6%", "url": "https://www.bjnews.com.cn/detail/1753241613168888.html", "date": "2025-07-23", "tier": "B" }
+  ]
+}

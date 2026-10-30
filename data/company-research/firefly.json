@@ -1,0 +1,313 @@
+{
+  "id": "firefly",
+  "name_en": "firefly (Yinghuochong) — a NIO brand",
+  "name_zh": "firefly 萤火虫（蔚来旗下品牌）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand unveiled",
+      "label_zh": "品牌发布",
+      "value_en": "2024-12-21 (NIO Day 2024, Guangzhou; pre-sale RMB 148,800)",
+      "value_zh": "2024-12-21（2024 蔚来日，广州；预售价 14.88 万元）",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "First model launched",
+      "label_zh": "首款车型上市",
+      "value_en": "2025-04-19 (deliveries from 2025-04-29)",
+      "value_zh": "2025-04-19（2025-04-29 开启交付）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Parent group",
+      "label_zh": "所属集团",
+      "value_en": "NIO Inc. (third brand, alongside NIO and ONVO)",
+      "value_zh": "蔚来集团（第三品牌，与蔚来、乐道并列）",
+      "period": null,
+      "source_ids": ["s20", "s3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Not separately disclosed (brand of NIO Inc.)",
+      "value_zh": "未单独披露（蔚来集团旗下品牌）",
+      "period": null,
+      "source_ids": ["s20"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private brand of NIO Inc., a Cayman Islands holding company (no equity ownership in its consolidated VIEs)",
+      "value_zh": "民营（蔚来集团旗下品牌；蔚来集团为开曼群岛控股公司，对其合并报表内的 VIE 无股权）",
+      "period": null,
+      "source_ids": ["s20"]
+    },
+    {
+      "label_en": "Brand president",
+      "label_zh": "品牌总裁",
+      "value_en": "Jin Ge (Daniel Jin), firefly president (named 2024-12-18); group title given as NIO Vice President in Chinese sources and \"Senior Vice President of NIO\" in the English Bangkok release",
+      "value_zh": "金舸（Daniel Jin），firefly 萤火虫总裁（2024-12-18 任命）；中文口径为蔚来公司副总裁，英文曼谷稿称 Senior Vice President of NIO",
+      "period": null,
+      "source_ids": ["s24", "s17", "s5"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; part of NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO)",
+      "value_zh": "未单独上市；属蔚来集团（纽交所 NIO；港交所 9866；新交所 NIO）",
+      "period": null,
+      "source_ids": ["s20"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s20"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收 / 净利润",
+      "value_en": "Not separately disclosed (consolidated into NIO Inc.)",
+      "value_zh": "未单独披露（并入蔚来集团报表）",
+      "period": null,
+      "source_ids": ["s20"]
+    },
+    {
+      "label_en": "Deliveries (FY2025)",
+      "label_zh": "交付量（2025 财年）",
+      "value_en": "39,414 vehicles",
+      "value_zh": "39,414 辆",
+      "period": "2025",
+      "source_ids": ["s11"]
+    },
+    {
+      "label_en": "Deliveries (9M2026)",
+      "label_zh": "交付量（2026 前三季度）",
+      "value_en": "48,122 vehicles (+136.7% YoY)",
+      "value_zh": "48,122 辆（同比 +136.7%）",
+      "period": "2026-01 to 2026-09",
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Cumulative deliveries",
+      "label_zh": "累计交付",
+      "value_en": "Over 90,000 vehicles (90,000th delivered 2026-10-16, Zhengzhou)",
+      "value_zh": "超 90,000 辆（第 90,000 辆于 2026-10-16 在郑州交付）",
+      "period": "2026-10-16",
+      "source_ids": ["s15"]
+    },
+    {
+      "label_en": "Award",
+      "label_zh": "奖项",
+      "value_en": "2026 World Urban Car (World Car Awards, New York International Auto Show)",
+      "value_zh": "2026 世界城市车（世界汽车大奖，纽约国际车展）",
+      "period": "2026-04",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "label_en": "China starting price",
+      "label_zh": "中国起售价",
+      "value_en": "RMB 119,800 (42.1 kWh); RMB 136,800 (60 kWh); BaaS from RMB 79,800",
+      "value_zh": "11.98 万元（42.1 kWh）；13.68 万元（60 kWh）；电池租用（BaaS）7.98 万元起",
+      "period": "2026-10-29",
+      "source_ids": ["s1", "s14"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2023-02",
+      "event_en": "CnEVPost reports (citing Cailian) that NIO's fourth vehicle plant (F4) will be located in the Chuzhou Economic Development Zone, Anhui, integrating the former Leopard plant to produce models for the third brand codenamed Firefly; NIO co-founder and president Lihong Qin had said Firefly was in planning and would be delivered first to European consumers.",
+      "event_zh": "CnEVPost 转引财联社报道，蔚来第四整车工厂（F4）将落户安徽滁州经济开发区，整合原猎豹汽车工厂，用于投产内部代号为「萤火虫」的第三品牌车型；蔚来联合创始人、总裁秦力洪此前表示萤火虫正在规划、将率先面向欧洲消费者交付。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2024-12-18",
+      "event_en": "NIO releases the firefly brand logo and names Jin Ge (Daniel Jin) as firefly president.",
+      "event_zh": "蔚来发布 firefly 萤火虫品牌标识，并任命金舸为 firefly 萤火虫总裁。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2024-12-21",
+      "event_en": "At NIO Day 2024 in Guangzhou, NIO unveils the firefly brand and its first eponymous model, with a China pre-sale price of RMB 148,800.",
+      "event_zh": "在 2024 蔚来日（广州）发布 firefly 萤火虫品牌及首款同名车型，中国市场预售价 14.88 万元。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-04-19",
+      "event_en": "The first firefly model is officially launched in China in two design versions — the Zizai (select) version from RMB 119,800 and the Faguang (comfort) version from RMB 125,800 — with deliveries starting 2025-04-29.",
+      "event_zh": "首款同名车型在中国正式上市，提供自在版（11.98 万元起）、发光版（12.58 万元起）两种设计风格，并于 2025-04-29 开启交付。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-04-23",
+      "event_en": "firefly makes its global premiere at the Shanghai Auto Show and announces it will gradually enter 16 overseas markets, with the Netherlands (from EUR 29,900 including tax) and Norway (from NOK 279,900 including tax) as its first European markets, launching in summer 2025.",
+      "event_zh": "在上海车展全球首秀，宣布将逐步进入 16 个海外市场，首批欧洲市场为荷兰（含税 2.99 万欧元起）、挪威（含税 27.99 万挪威克朗起），并于 2025 年夏在欧洲上市。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-03-20",
+      "event_en": "firefly launches the y2k special edition (千禧漫波), limited to 166 units, priced at RMB 137,800 (RMB 97,800 with BaaS), with deliveries from 2026-03-22.",
+      "event_zh": "推出「千禧漫波」（y2k）特别版，限量 166 台，售价 13.78 万元（BaaS 租电价 9.78 万元），2026-03-22 开启交付。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2026-03-24",
+      "event_en": "At the 47th Bangkok International Motor Show, firefly launches its right-hand-drive version in Thailand at THB 799,000; the release describes Thailand as Southeast Asia's second-largest right-hand-drive market following its launch in Singapore, and names Thonburi Group's Thonburi BlueSky Co., Ltd. as its general distributor.",
+      "event_zh": "在第 47 届曼谷国际车展发布泰国右舵版，售价 79.9 万泰铢；官方称泰国为东南亚第二大右舵市场（继新加坡上市之后），并选择吞武里集团旗下 Thonburi BlueSky Co., Ltd. 为国家总代理。",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2026-03-29",
+      "event_en": "firefly passes 50,000 cumulative global deliveries, about 11 months after first delivery.",
+      "event_zh": "全球累计交付突破 50,000 辆，距首批交付约 11 个月。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-04-01",
+      "event_en": "firefly is named the 2026 World Urban Car at the World Car Awards, announced at the New York International Auto Show; by this point it had entered 11 countries across Europe, Asia and the Americas.",
+      "event_zh": "firefly 萤火虫在世界汽车大奖（World Car Awards）中荣膺 2026 世界城市车，于纽约国际车展揭晓；至此品牌已进入欧洲、亚洲、美洲三大洲 11 个国家。",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2026-04-07",
+      "event_en": "firefly launches an upgraded model (\"shine brighter 把光照亮\"), keeping prices unchanged (Zizai from RMB 119,800, Faguang from RMB 125,800, BaaS from RMB 79,800 with a RMB 399 monthly fee) and raising peak motor power to 120 kW, to be pushed to all owners free via OTA in mid-May.",
+      "event_zh": "发布「shine brighter 把光照亮」焕新升级款，价格不变（自在版 11.98 万元起、发光版 12.58 万元起，BaaS 7.98 万元起、月租 399 元），电机峰值功率提升至 120 kW，并将于 5 月中旬通过 OTA 免费推送给全体车主。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-08-07",
+      "event_en": "NIO inaugurates its 4,000th and first fifth-generation battery swap station (Quanzhou, Fujian), marking firefly's formal integration into NIO's battery-swapping network; the first batch of fifth-generation stations opens in seven cities — Beijing, Shanghai, Guangzhou, Suzhou, Hefei, Chengdu and Quanzhou.",
+      "event_zh": "蔚来第 4,000 座暨首座第五代换电站在福建泉州落成，firefly 萤火虫正式接入蔚来换电体系；首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七座城市投入运营。",
+      "source_ids": ["s7", "s22"]
+    },
+    {
+      "date": "2026-08-21",
+      "event_en": "At the 29th Chengdu Motor Show, firefly shows the first model of its design-led halo series, \"haven\" (栖息地), alongside a fifth-generation swap-station demonstration.",
+      "event_zh": "在第二十九届成都国际车展亮相 halo 寻光系列首款车型「栖息地」，并与第五代换电站换电体验一同展出。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-08-28",
+      "event_en": "firefly launches the \"Xinhai Changxia\" special edition, limited to 666 units at RMB 135,800 (RMB 95,800 with BaaS) — its sixth special edition.",
+      "event_zh": "推出「心海长夏」特别版，限量 666 台，整车售价 13.58 万元（BaaS 9.58 万元），为品牌第六款特别版车型。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "firefly delivers 7,327 vehicles in September 2026 (+26.9% YoY), a monthly record, and 18,950 in Q3 2026, a quarterly record.",
+      "event_zh": "2026 年 9 月交付 7,327 辆（同比 +26.9%），创单月新高；第三季度交付 18,950 辆，创季度新高。",
+      "source_ids": ["s12", "s15"]
+    },
+    {
+      "date": "2026-10-16",
+      "event_en": "firefly's 90,000th vehicle is delivered in Zhengzhou; the brand states it has ranked first in China's high-end small-car market share for 16 consecutive months, with share above 70% in nine of those months and above 74% in August 2026.",
+      "event_zh": "第 90,000 辆在郑州交付；品牌称已连续 16 个月位居中国高端小车市场市占率第一，其中 9 个月市占率超 70%，2026 年 8 月进一步提升至 74% 以上。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-10-19",
+      "event_en": "firefly opens its first overseas standalone store at centralwOrld shopping mall in Bangkok, Thailand, and simultaneously launches an updated right-hand-drive model in Thailand.",
+      "event_zh": "全球首家海外独立门店在泰国曼谷尚泰世界购物中心（centralwOrld）开业，并同步在泰国发布焕新升级款。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2026-10-23",
+      "event_en": "firefly launches a 60 kWh NCM battery, raising CLTC range to 560 km while maintaining the vehicle's existing acceleration performance and energy efficiency; the 60 kWh version is priced from RMB 136,800 (BaaS from RMB 79,800 plus a RMB 599 monthly fee), and existing owners can permanently upgrade.",
+      "event_zh": "发布 60 kWh 三元锂电池，CLTC 续航提升至 560 公里，加速性能与能耗保持不变；搭载该电池车型整车 13.68 万元起（BaaS 7.98 万元起、月租 599 元），存量用户支持永久升级。",
+      "source_ids": ["s14"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "firefly (the eponymous first model)",
+      "name_zh": "firefly 萤火虫（首款同名车型）",
+      "role_en": "The brand's first and only volume model: a compact five-door electric hatchback positioned as a smart electric high-end small car for urban use.",
+      "role_zh": "品牌首款也是唯一在售的主力车型：紧凑型五门纯电掀背车，定位面向城市用户的智能电动高端小车。",
+      "price_band": "China: Zizai (select) from RMB 119,800, Faguang (comfort) from RMB 125,800, BaaS from RMB 79,800 (monthly RMB 399); 60 kWh long-range from RMB 136,800 (BaaS RMB 79,800, monthly RMB 599). Europe: Netherlands from EUR 29,900, Norway from NOK 279,900 (launch). Thailand RHD: THB 799,000.",
+      "founded": 2025,
+      "owner_note_en": "Launched 2025-04-19 with deliveries from 2025-04-29. It has a 2,615 mm wheelbase and a rear-mounted motor with peak power raised to 120 kW (0-100 km/h in 7.9 s in sport mode), nine airbags as standard, 128 TOPS of computing with 24 perception hardware units, highway NOP and automated parking. The body uses an 83.4% high-strength steel-aluminium mix with 35,700 Nm/deg torsional stiffness and a 2,000 MPa submarine-grade rear longitudinal beam. It offers a 42.1 kWh LFP battery (CLTC 420 km) and, since 2026-10-23, a 60 kWh NCM long-range battery (CLTC 560 km), both swappable at NIO fifth-generation stations. Boot capacity is reported differently by two official releases: the Chinese launch release states 335 litres, while the global release states a 404-litre trunk plus a 92-litre frunk (496 litres combined); both agree the space extends to 1,253 litres with the rear seats folded. Special editions include the y2k (千禧漫波) edition (166 units) and the Xinhai Changxia edition (666 units, RMB 135,800), plus the design-led halo series. 2025 deliveries were 39,414; cumulative deliveries passed 90,000 on 2026-10-16.",
+      "owner_note_zh": "2025-04-19 上市、4 月 29 日开启交付。轴距 2,615 mm，后置电机峰值功率提升至 120 kW（sport 模式下 0-100 km/h 加速 7.9 秒），全系标配 9 个安全气囊、128 TOPS 算力与 24 个感知硬件，支持高速领航辅助 NOP 与自动泊车；车身高强度钢铝混合占比 83.4%，抗扭刚度 35,700 Nm/deg，采用 2,000 MPa 潜艇级后纵梁。提供 42.1 kWh 磷酸铁锂电池（CLTC 420 公里），2026-10-23 起新增 60 kWh 三元锂长续航电池（CLTC 560 公里），均可在蔚来第五代换电站换电。后备箱容积两份官方稿口径不一：中文上市稿称 335 升，全球官网稿称后备箱 404 升、前备箱 92 升（合计 496 升）；翻折后排后 1,253 升两稿一致。特别版包括「千禧漫波」（y2k，限量 166 台）、「心海长夏」（限量 666 台、整车 13.58 万元）及设计主导的 halo 寻光系列。2025 年交付 39,414 辆，累计交付于 2026-10-16 突破 90,000 辆。",
+      "status": "active",
+      "source_ids": ["s1", "s3", "s14", "s18", "s9", "s11", "s15", "s26"]
+    },
+    {
+      "name_en": "halo (Xunguang) series",
+      "name_zh": "halo 寻光系列（设计特别系列）",
+      "role_en": "firefly's first design-led special-edition product line; its first model is \"haven\" (栖息地).",
+      "role_zh": "firefly 萤火虫首个以设计为核心驱动的特别版产品系列；首款车型为「栖息地」（haven）。",
+      "price_band": null,
+      "founded": 2026,
+      "owner_note_en": "The halo series is firefly's design-led special-edition line. Its first model, \"haven\" (栖息地), built around a four-shade green palette, made its first public motor-show appearance after launch at the 29th Chengdu Motor Show in August 2026, shown together with a fifth-generation battery-swap-station demonstration.",
+      "owner_note_zh": "halo 寻光系列是 firefly 萤火虫以设计为核心驱动的特调系列。首款车型「栖息地」以四重绿色体系为设计语言，于 2026 年 8 月在第二十九届成都国际汽车展览会迎来上市后首次车展公开亮相，并与第五代换电站换电体验一同展出。",
+      "status": "active",
+      "source_ids": ["s8"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "US GAAP (parent NIO Inc.; no separate brand-level statements)",
+    "rows": [],
+    "note_en": "firefly is a brand of NIO Inc. and does not prepare or publish separate brand-level financial statements, so no brand-level revenue, gross margin, net profit, R&D or cash-flow figures are presented here, and no estimate is made. The parent NIO Inc. prepares consolidated financial statements under US GAAP; its income statement reports a net loss and, separately, a net loss attributable to ordinary shareholders of NIO Inc. (an ordinary-shareholder basis, not a PRC-GAAP \"attributable to the parent\" line). Parent-level financial data and governance are covered in the NIO (nio) deep research, sourced from NIO's 2025 Annual Report on Form 20-F (filed 2026-04-10). This page does not constitute any trading recommendation.",
+    "note_zh": "萤火虫是蔚来集团（NIO Inc.）旗下品牌，不单独编制或披露品牌层面的财务报表，故本表不列营收、毛利率、净利润、研发投入、现金流等品牌级财务数字，也不做估算。母公司蔚来集团按美国通用会计准则（US GAAP）编制合并报表，其利润表分别列示「净亏损」与「归属 NIO Inc. 普通股股东净亏损」两行——口径为「归属普通股股东」，而非中国准则下的「归属母公司股东」。母公司财务数据与治理结构见蔚来集团（nio）深度研究，原始文件为蔚来 2025 年年报（SEC Form 20-F，2026-04-10 披露）。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>firefly (Yinghuochong) is the third brand of NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO), unveiled at NIO Day 2024 in Guangzhou on 21 December 2024 and positioned as a smart, high-end compact electric-car brand for urban users worldwide, under the slogan \"freedom to glow\".<a href=\"https://www.firefly.com.cn/news/20241221002\">[s2]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a> Its first and only volume model shares the brand's name — a five-door electric hatchback launched in China on 19 April 2025 in two design versions, the Zizai (select) version from RMB 119,800 and the Faguang (comfort) version from RMB 125,800, with first deliveries on 29 April 2025. The launch starting price of RMB 119,800 was lower than the RMB 148,800 pre-sale price announced at NIO Day 2024.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a><a href=\"https://www.firefly.com.cn/news/20241221002\">[s2]</a></p><p>firefly is the small-car arm of NIO's three-brand portfolio: in the description given in NIO's 2025 annual report, NIO targets the premium segment, ONVO the family segment and firefly the small high-end segment.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a> It was conceived as a global brand from day one, drawing on NIO's design and engineering centres in Munich, Berlin, Oxford and Shanghai.<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> In 2025 the brand delivered 39,414 vehicles; in the first three quarters of 2026 it delivered 48,122 vehicles, up 136.7% year on year; and cumulative deliveries passed 90,000 on 16 October 2026.<a href=\"https://www.nio.cn/news/20260101001\">[s11]</a><a href=\"https://www.nio.cn/news/20261001001\">[s12]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> The brand states it has ranked first in China's high-end small-car market share for 16 consecutive months, with share above 70% in nine of those months.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> In April 2026 it was named the 2026 World Urban Car at the World Car Awards.<a href=\"https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf\">[s5]</a></p><p>As a brand, firefly does not disclose separate financials; its results are consolidated into parent NIO Inc., whose data and governance are covered in the NIO (nio) deep research.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></p>",
+      "zh": "<p>firefly 萤火虫是蔚来集团（纽交所 NIO；港交所 9866；新交所 NIO）旗下第三个品牌，2024 年 12 月 21 日在 2024 蔚来日（广州）发布，定位面向全球城市用户的「智能电动高端小车」品牌，品牌主张为「freedom to glow（自在发光）」。<a href=\"https://www.firefly.com.cn/news/20241221002\">[s2]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a> 首款也是唯一在售的主力车型与品牌同名，是一款五门纯电掀背车，2025 年 4 月 19 日在中国上市，提供自在版（11.98 万元起）、发光版（12.58 万元起）两种设计风格，同年 4 月 29 日开启交付。上市起售价 11.98 万元，低于 2024 蔚来日公布的 14.88 万元预售价。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a><a href=\"https://www.firefly.com.cn/news/20241221002\">[s2]</a></p><p>萤火虫是蔚来三品牌矩阵中面向小型高端市场的一环：按蔚来 2025 年年报的表述，蔚来主打高端、乐道面向家庭、萤火虫定位精品高端小车。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a> 品牌从诞生之初即按全球产品打造，其设计与工程依托蔚来在慕尼黑、柏林、牛津、上海的全球布局。<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> 交付方面，2025 年品牌交付 39,414 辆；2026 年前三季度交付 48,122 辆，同比增长 136.7%；累计交付于 2026 年 10 月 16 日突破 90,000 辆。<a href=\"https://www.nio.cn/news/20260101001\">[s11]</a><a href=\"https://www.nio.cn/news/20261001001\">[s12]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 品牌称已连续 16 个月位居中国高端小车市场市占率第一，其中 9 个月市占率超 70%。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 2026 年 4 月，该车在世界汽车大奖（World Car Awards）中荣膺 2026 世界城市车。<a href=\"https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf\">[s5]</a></p><p>作为品牌，萤火虫不单独披露财务数据，其经营成果并入母公司蔚来集团报表；母公司财务数据与治理结构见蔚来集团（nio）深度研究。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Product line-up</h3><p>As of the cut-off date (2026-10-29), firefly sells one volume model that shares the brand name, offered in the Zizai (select) version from RMB 119,800 and the Faguang (comfort) version from RMB 125,800, first launched on 19 April 2025.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a> On 7 April 2026 the brand released a refreshed version (\"shine brighter 把光照亮\") keeping prices unchanged and raising peak motor power to 120 kW (0-100 km/h in 7.9 s in sport mode), open for orders immediately with deliveries from 8 April 2026, and adding a direct TPMS, auto-dipping memory mirrors and a driver-assistance indicator light.<a href=\"https://www.firefly.com.cn/news/20260414001\">[s6]</a> On 23 October 2026 it added a 60 kWh NCM battery, raising CLTC range to 560 km (from 420 km on the 42.1 kWh standard battery) while maintaining the existing acceleration performance and energy efficiency; the 60 kWh version is priced from RMB 136,800, or from RMB 79,800 with the BaaS subscription plus a monthly fee of RMB 599, and existing owners can permanently upgrade.<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a> The brand also sells limited special editions — the y2k (千禧漫波, 166 units, RMB 137,800) and the Xinhai Changxia (心海长夏, 666 units, RMB 135,800) — plus the design-led halo series.<a href=\"https://www.firefly.com.cn/news/20260320001\">[s18]</a><a href=\"https://www.firefly.com.cn/news/20260828001\">[s9]</a><a href=\"https://www.firefly.com.cn/news/20260821001\">[s8]</a></p><h3>Deliveries</h3><p>Deliveries have ramped quickly: 39,414 for full-year 2025 (including 19,084 in Q4 2025); 5,852 in August 2026 (brand cumulative 80,209); 7,327 in September 2026 (+26.9% year on year), a monthly record; 18,950 in Q3 2026, a quarterly record; and 48,122 in the first three quarters of 2026 (+136.7% year on year).<a href=\"https://www.nio.cn/news/20260101001\">[s11]</a><a href=\"https://www.firefly.com.cn/news/20260901001\">[s10]</a><a href=\"https://www.nio.cn/news/20261001001\">[s12]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> Cumulative deliveries passed 50,000 on 29 March 2026, 70,000 on 16 July 2026, 80,000 on 1 September 2026 and 90,000 on 16 October 2026 (delivered in Zhengzhou), with the interval per 10,000 units shortening.<a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> The brand says it has ranked first in China's high-end small-car market share for 16 consecutive months, with share above 70% in nine of those months and above 74% in August 2026.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a></p><h3>Core technology and safety</h3><p>The model was developed to the latest China and Europe five-star safety-evaluation standards, with an 83.4% high-strength steel-aluminium body mix, 35,700 Nm/deg torsional stiffness, a 2,000 MPa submarine-grade rear longitudinal beam, nine airbags as standard and 13 active-safety functions.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a> It carries 128 TOPS of computing power with 24 perception hardware units, supports highway NOP covering 99% of highways and urban expressways plus automated parking, and runs the aster (紫菀) smart cockpit system with the lumo voice assistant.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a> The aster system was updated to version 1.4.0 alongside the April 2026 refresh (about 30 functions) and to 2.1.0 in October 2026 (19 functions), fully pushed on 14 October 2026.<a href=\"https://www.firefly.com.cn/news/20260414001\">[s6]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> The 60 kWh battery follows NIO's safety standards, undergoing 14 tests that exceed national standards, and uses an all-aluminium grid structure, cross-shaped anti-collision beams and NCM-specific thermal protection, and follows NIO's long-life battery strategy built on five cell technologies (low-lithium-loss anodes, passivated cathodes, biomimetic self-healing electrolytes, electrode microstructure engineering and adaptive swelling-force management) to slow degradation; the brand also cites a 97% overall user-satisfaction rate.<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a></p><h3>Design and space</h3><p>The design uses the \"trio\" three-circle headlights, a rear light hoop and a \"capsule\" motif; the global launch release lists six exterior colours — lime, lavender, marble, graphite, sand and lava stone — all with a two-tone black contrast roof, and four interior themes.<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> Storage includes a 92-litre frunk with a drain plug and 27 interior storage spaces. Boot capacity is reported differently by two official releases: the Chinese launch release states 335 litres, while the global release states a 404-litre trunk (92-litre frunk plus 404-litre trunk, 496 litres combined); both agree the space extends to 1,253 litres with the rear seats folded.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a><a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> The wheelbase is 2,615 mm and the turning circle is 4.7 m; the car is no more than 4.25 metres long, satisfying the World Urban Car entry criterion.<a href=\"https://auto.cnr.cn/cz/20250420/t20250420_527141906.shtml\">[s26]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a> The drag coefficient is 0.287 and it uses a six-in-one integrated e-drive.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></p><h3>Energy and battery swapping</h3><p>firefly joined NIO's battery-swapping network in August 2026, when NIO's 4,000th and first fifth-generation swap station opened in Quanzhou, Fujian on 7 August 2026; the first batch of fifth-generation stations entered operation that day in seven cities — Beijing, Shanghai, Guangzhou, Suzhou, Hefei, Chengdu and Quanzhou — and firefly formally joined NIO's swap system.<a href=\"https://www.firefly.com.cn/news/20260808001\">[s7]</a><a href=\"https://www.nio.cn/news/20260807001\">[s22]</a> As of 7 August 2026, NIO had built 9,166 charging-and-swap stations nationwide, including 4,006 swap stations, 5,160 charging stations and 29,801 chargers, plus 1,049 highway swap stations, and its swap service had passed 120 million sessions.<a href=\"https://www.nio.cn/news/20260807001\">[s22]</a> The fifth-generation stations are compatible with vehicles up to a 3.5 m wheelbase, covering NIO, ONVO and firefly models. As of 16 October 2026, 104 fifth-generation stations supported firefly, covering 25 provinces and 64 cities.<a href=\"https://www.nio.cn/news/20260807001\">[s22]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a></p><h3>Production</h3><p>firefly does not separately disclose production capacity or manufacturing sites. Media reporting (CnEVPost, citing Cailian) said in February 2023 that NIO's fourth vehicle plant (F4) would be located in the Chuzhou Economic Development Zone, Anhui, integrating the former Leopard plant to build models for the then-codenamed Firefly project.<a href=\"https://cnevpost.com/2023/02/21/nio-f4-plant-in-chuzhou-to-produce-firefly-models-report/\">[s25]</a> NIO's 2025 annual report does not separately break out firefly's production or capacity; firefly is consolidated into NIO Inc.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></p><h3>Overseas business</h3><p>firefly was built as a global brand and said at its global launch (Shanghai Auto Show, 23 April 2025) it would gradually enter 16 overseas markets, starting with the Netherlands (from EUR 29,900 including tax) and Norway (from NOK 279,900 including tax), with a European launch in summer 2025.<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> In the Netherlands it would be sold through NIO House Amsterdam, NIO House Rotterdam and NIO HUB Utrecht; in Norway through NIO House Oslo and Kristiansand and NIO Space Bergen, Trondheim and Stavanger.<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> By 1 April 2026 the brand said it had entered 11 countries across Europe, Asia and the Americas.<a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a> In March 2026 it launched its right-hand-drive version in Thailand at THB 799,000 at the Bangkok International Motor Show, describing Thailand as Southeast Asia's second-largest right-hand-drive market following its launch in Singapore, and naming Thonburi Group's Thonburi BlueSky Co., Ltd. as its general distributor.<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a> On 19 October 2026 it opened its first overseas standalone store at the centralwOrld shopping mall in Bangkok and launched the refreshed model in Thailand; the store combines vehicle display, sales consultation, test-drive booking and lifestyle zones.<a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a> The brand was also named by Newsweek among the \"Most Anticipated New Vehicles 2026 in Europe and Latin America\".<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a> Thonburi Group has an 85-year history in Thailand's automotive industry; firefly said it took less than four months from its China debut to its first European delivery, a new record for NIO's overseas entry, and a special model created with Thai artist Panyawat Phitaksawan was shown at BIMS 2026.<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a></p>",
+      "zh": "<h3>产品谱系</h3><p>截至研究截止日（2026-10-29），萤火虫在售的主力车型为与品牌同名的单一车型，提供自在版（11.98 万元起）、发光版（12.58 万元起）两种设计风格，2025 年 4 月 19 日上市。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a> 2026 年 4 月 7 日发布「shine brighter 把光照亮」焕新升级款，价格不变，电机峰值功率提升至 120 kW（sport 模式下 0-100 km/h 加速 7.9 秒），即日开放预订并于 4 月 8 日开启交付，并新增 TPMS 直接式胎压监测、两侧后视镜倒车自动下翻及位置记忆、智能辅助驾驶小蓝灯。<a href=\"https://www.firefly.com.cn/news/20260414001\">[s6]</a> 2026 年 10 月 23 日新增长续航 60 kWh 三元锂电池，CLTC 续航由标准续航 42.1 kWh 的 420 公里提升至 560 公里，加速性能与能耗保持不变；搭载该电池车型整车 13.68 万元起、BaaS 购车价 7.98 万元起（月租 599 元），存量用户支持永久升级。<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a> 品牌还推出多款限量特别版——「千禧漫波」（y2k，限量 166 台、13.78 万元）、「心海长夏」（限量 666 台、13.58 万元）——以及设计主导的 halo 寻光系列。<a href=\"https://www.firefly.com.cn/news/20260320001\">[s18]</a><a href=\"https://www.firefly.com.cn/news/20260828001\">[s9]</a><a href=\"https://www.firefly.com.cn/news/20260821001\">[s8]</a></p><h3>交付与销量</h3><p>交付爬坡较快：2025 年全年 39,414 辆（其中第四季度 19,084 辆）；2026 年 8 月单月 5,852 辆（品牌累计 80,209 辆），9 月 7,327 辆（同比 +26.9%）创单月新高，第三季度 18,950 辆创季度新高，前三季度累计 48,122 辆（同比增长 136.7%）。<a href=\"https://www.nio.cn/news/20260101001\">[s11]</a><a href=\"https://www.firefly.com.cn/news/20260901001\">[s10]</a><a href=\"https://www.nio.cn/news/20261001001\">[s12]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 累计交付于 2026 年 3 月 29 日破 5 万台、7 月 16 日破 7 万台、9 月 1 日破 8 万台、10 月 16 日破 9 万台（在郑州交付），每万台交付间隔持续缩短。<a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 品牌称已连续 16 个月位居中国高端小车市场市占率第一，其中 9 个月超 70%，2026 年 8 月进一步提升至 74% 以上。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a></p><h3>核心技术与安全</h3><p>该车型按最新中欧新车安全评价规程双五星标准开发，车身高强度钢铝混合占比 83.4%，白车身抗扭刚度 35,700 Nm/deg，采用 2,000 MPa 潜艇级后纵梁，全系标配 9 个安全气囊与 13 项主动安全功能。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a> 智驾方面，搭载 128 TOPS 算力与 24 个感知硬件，智能领航辅助 NOP 覆盖 99% 的高速及城市快速路，并支持自动泊车；车辆运行 aster 紫菀智能车机系统与 lumo 语音助手。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a> aster 系统于 2026 年 4 月随焕新升级款更新至 1.4.0 版本（近 30 项功能），2026 年 10 月 14 日推送 2.1.0 版本（19 项功能）。<a href=\"https://www.firefly.com.cn/news/20260414001\">[s6]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 60 kWh 电池沿用蔚来安全标准，经过 14 项高于国标的测试，采用全铝网架结构与十字形防撞梁，并针对三元锂电化学特性加装多道热防护，同时沿用蔚来长寿命电池技术路线，依托低锂损负极、钝化正极、仿生自修复电解液、电极微观结构工程、自适应膨胀力管理等五项电芯技术延缓衰减；品牌另称用户整体满意度达 97%。<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a></p><h3>设计与空间</h3><p>该车设计语言以「三重奏」三圆大灯、灵动尾环、荧光胶囊为标志性元素；全球上市稿列出 6 种外观色（lime、lavender、marble、graphite、sand、lava stone），均为双色车身（黑色对比车顶），并提供四套内饰主题。<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> 空间上配备 92 升前备箱（带排水）与全车 27 处收纳设计。后备箱容积两份官方稿口径不一：中文上市稿称 335 升，全球官网稿称后备箱 404 升（前备箱 92 升加后备箱 404 升合计 496 升）；翻折后排后 1,253 升两稿一致。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a><a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> 轴距 2,615 mm，最小转弯半径 4.7 米；车长不超过 4.25 米，符合世界城市车参选标准。<a href=\"https://auto.cnr.cn/cz/20250420/t20250420_527141906.shtml\">[s26]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a> 能效方面，风阻系数 0.287，采用自研六合一电驱。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></p><h3>补能与换电</h3><p>萤火虫于 2026 年 8 月接入蔚来换电体系：2026 年 8 月 7 日蔚来第 4,000 座暨首座第五代换电站在福建泉州落成，首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七座城市同日投入运营，firefly 萤火虫正式接入。<a href=\"https://www.firefly.com.cn/news/20260808001\">[s7]</a><a href=\"https://www.nio.cn/news/20260807001\">[s22]</a> 截至 2026 年 8 月 7 日，蔚来在全国累计布局充换电站 9,166 座，其中换电站 4,006 座、充电站 5,160 座、充电桩 29,801 根，高速公路换电站 1,049 座，换电服务累计突破 1.2 亿次。<a href=\"https://www.nio.cn/news/20260807001\">[s22]</a> 第五代换电站最大支持 3.5 米轴距，覆盖蔚来、乐道、萤火虫三品牌车型。截至 2026 年 10 月 16 日，支持萤火虫换电的第五代换电站为 104 座，覆盖 25 省 64 城。<a href=\"https://www.nio.cn/news/20260807001\">[s22]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a></p><h3>工厂与产能</h3><p>萤火虫未单独披露产能与生产基地。据媒体报道（CnEVPost 转引财联社，2023 年 2 月），蔚来第四整车工厂（F4）将落户安徽滁州经济开发区，整合原猎豹汽车工厂，用于投产当时代号为「萤火虫」的车型。<a href=\"https://cnevpost.com/2023/02/21/nio-f4-plant-in-chuzhou-to-produce-firefly-models-report/\">[s25]</a> 蔚来 2025 年年报未单独披露萤火虫的产能与制造基地，萤火虫并入蔚来集团合并报表。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></p><h3>海外业务</h3><p>萤火虫按全球品牌打造，在 2025 年 4 月 23 日上海车展全球首秀时宣布将逐步进入 16 个海外市场，首批欧洲市场为荷兰（含税 2.99 万欧元起）、挪威（含税 27.99 万挪威克朗起），并于 2025 年夏在欧洲上市。<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> 在荷兰，萤火虫将通过阿姆斯特丹、鹿特丹的 NIO House 与乌得勒支 NIO HUB 销售；在挪威则通过奥斯陆、克里斯蒂安桑的 NIO House 及卑尔根、特隆赫姆、斯塔万格的 NIO Space 销售。<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> 截至 2026 年 4 月 1 日，品牌称已进入欧洲、亚洲、美洲三大洲 11 个国家。<a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a> 2026 年 3 月在曼谷国际车展发布泰国右舵版，售价 79.9 万泰铢；官方称泰国为东南亚第二大右舵市场（继新加坡上市之后），并选择吞武里集团旗下 Thonburi BlueSky Co., Ltd. 为国家总代理。<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a> 2026 年 10 月 19 日，全球首家海外独立门店在曼谷尚泰世界购物中心（centralwOrld）开业，并同步在泰国发布焕新升级款；该门店融合车辆展示、销售咨询、试驾预约及生活方式展区等功能。<a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a> 品牌另被《新闻周刊》（Newsweek）列入「2026 年欧洲与拉美最受期待新车」榜单。<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a> 吞武里集团在泰国汽车业拥有 85 年历史；萤火虫称从中国首发到欧洲首批交付仅用了不到四个月，创下蔚来海外市场进入的新纪录，曼谷车展上还展出了与泰国艺术家 Panyawat Phitaksawan 合作创作的特别版车型。<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Brand president</h3><p>Jin Ge (Daniel Jin) has led firefly since 18 December 2024, when NIO released the firefly brand logo and named him to the role.<a href=\"https://m.bjnews.com.cn/detail/1734523924168425.html\">[s24]</a> His group-level title is given differently across sources: the Chinese announcement and Beijing News' Beike Finance describe him as NIO Vice President (蔚来公司副总裁), the World Car Awards press release as \"NIO Vice President &amp; firefly President\", and firefly's English Bangkok Motor Show release as \"Senior Vice President of NIO and President of firefly\".<a href=\"https://m.bjnews.com.cn/detail/1734523924168425.html\">[s24]</a><a href=\"https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf\">[s5]</a><a href=\"https://www.firefly.world/news/20260324003\">[s17]</a> A Chinese release dated 19 October 2026 refers to him only as \"firefly 萤火虫总裁\" without a group-level title.<a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a> According to Beike Finance, Jin Ge has nearly 20 years of full-stack automotive R&amp;D and brand-management experience, having worked as an SAIC technical-centre engineer, assistant general manager of SAIC's UK technical centre and executive director of vehicle platforms at SAIC-GM.<a href=\"https://m.bjnews.com.cn/detail/1734523924168425.html\">[s24]</a></p><h3>Group leadership</h3><p>firefly is one of NIO Inc.'s three brands. NIO Inc.'s founder, chairman and CEO is William Bin Li (Li Bin), with Lihong Qin as co-founder and president.<a href=\"https://www.nio.cn/news/20260807001\">[s22]</a><a href=\"https://cnevpost.com/2023/02/21/nio-f4-plant-in-chuzhou-to-produce-firefly-models-report/\">[s25]</a> NIO's 2025 annual report on Form 20-F describes the portfolio as premium NIO, family-oriented ONVO and small high-end firefly.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></p><h3>Ownership and governance</h3><p>firefly is a brand rather than a separately listed company, and does not publish standalone financials or a separate management structure. Its parent, NIO Inc., is incorporated in the Cayman Islands and is, in the words of its 2025 annual report, \"not an operating company in China but a Cayman Islands holding company with no equity ownership in its consolidated variable interest entities, or VIEs\"; it is listed on the NYSE (NIO), the HKEX (9866) and the SGX (NIO), and reports its NIO, ONVO and firefly brands in its Form 20-F.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041001269.pdf\">[s21]</a></p>",
+      "zh": "<h3>品牌总裁</h3><p>金舸（Daniel Jin）自 2024 年 12 月 18 日起执掌萤火虫，当日蔚来发布萤火虫品牌标识并宣布其出任该职。<a href=\"https://m.bjnews.com.cn/detail/1734523924168425.html\">[s24]</a> 其集团职级在不同出处中写法不一：中文官方口径与新京报贝壳财经称其为蔚来公司副总裁，世界汽车大奖官方通稿写作「NIO Vice President &amp; firefly President」，firefly 英文曼谷车展通稿则写作「Senior Vice President of NIO and President of firefly」。<a href=\"https://m.bjnews.com.cn/detail/1734523924168425.html\">[s24]</a><a href=\"https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf\">[s5]</a><a href=\"https://www.firefly.world/news/20260324003\">[s17]</a> 2026 年 10 月 19 日的中文官方稿仅称其为「firefly 萤火虫总裁」，未再标注集团职级。<a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a> 据新京报贝壳财经报道，金舸拥有近 20 年汽车全栈研发与品牌管理经验，曾任职上汽技术中心工程师、上汽英国技术中心总经理助理、上汽通用整车平台执行总监。<a href=\"https://m.bjnews.com.cn/detail/1734523924168425.html\">[s24]</a></p><h3>集团管理层</h3><p>萤火虫为蔚来集团（NIO Inc.）旗下三品牌之一。蔚来集团创始人、董事长兼 CEO 为李斌（William Bin Li），联合创始人兼总裁为秦力洪（Lihong Qin）。<a href=\"https://www.nio.cn/news/20260807001\">[s22]</a><a href=\"https://cnevpost.com/2023/02/21/nio-f4-plant-in-chuzhou-to-produce-firefly-models-report/\">[s25]</a> 蔚来 2025 年年报（Form 20-F）将品牌矩阵描述为：蔚来主打高端、乐道面向家庭、萤火虫定位精品高端小车。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></p><h3>股权与治理</h3><p>萤火虫是品牌而非单独上市公司，不单独披露财务或管理架构。其母公司蔚来集团为开曼群岛注册公司，按其 2025 年年报原话，是「一家开曼群岛控股公司，而非中国境内的经营主体，对其合并报表内的可变利益实体（VIE）无股权」；蔚来集团在纽交所（NIO）、港交所（9866）、新交所（NIO）上市，并在 Form 20-F 中披露蔚来、乐道、萤火虫三大品牌。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a><a href=\"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041001269.pdf\">[s21]</a></p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: the competitive field.</strong> As a high-end small electric car, firefly competes in China's premium sub-compact segment against the electric MINI and smart, while facing cheaper mass-market small EVs such as BYD's Dolphin and Geely's compact models; in Europe it also faces the Renault 5 and Twingo. This is an analytical framing of the competitive set, not a sales ranking, based on the brand's high-end small-car positioning and its European launch prices of EUR 29,900 (Netherlands) and NOK 279,900 (Norway).<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a><a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></p><p><strong>Our judgment: strengths.</strong> firefly's stated position — first in China's high-end small-car market share for 16 consecutive months, with share above 70% in nine of those months — is backed by the brand's own disclosures, not an independent ranking.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> It won the 2026 World Urban Car award, whose eligibility requires a maximum length of 4.25 metres, production of at least 5,000 units a year and sale in major markets on at least two continents between 1 January 2025 and 30 March 2026. The 2026 award was its 22nd edition, voted by 98 international motoring journalists from 33 countries under KPMG supervision.<a href=\"https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf\">[s5]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a> Its differentiation rests on NIO's battery-swapping network, the BaaS battery-rental model, a strong safety configuration (nine airbags, dual five-star design) and design-led special editions, which are unusual in the segment.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a><a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></p><p><strong>Our judgment: weaknesses.</strong> firefly currently has only one volume model, and its pricing sits above the sub-RMB 80,000 mass-market A0 cars that dominate China's small-car volume; in Europe its price points also sit well above entry-level European small EVs, and its overseas volume remains small relative to China.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a><a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> Overall its differentiation in safety, design and NIO's energy ecosystem is real, but it is concentrated in a single model and a still-narrow premium segment; whether it can keep growing depends on defending its China segment lead while scaling a still-early overseas business that is also exposed to EU countervailing duties on China-built EVs.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a><a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s23]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong> 按高端小型电动车的定位，萤火虫在中国精品小型车（A0 级高端）市场与电动 MINI、smart 竞争，同时面对比亚迪海豚、吉利系小型车等价格更低的大众化小型电动车；在欧洲则面对雷诺 5、Twingo 等车型。此为根据品牌高端小车定位及其欧洲上市价（荷兰 2.99 万欧元、挪威 27.99 万挪威克朗）作出的分析性竞争范围界定，不是销量排名。<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a><a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></p><p><strong>我们的判断：优势。</strong> 萤火虫所称「连续 16 个月中国高端小车市占率第一、其中 9 个月超 70%」的地位，有品牌自行披露的数据支撑，而非独立第三方排名。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 该车获 2026 世界城市车大奖，该奖项参选条件要求车长不超过 4.25 米、年产量不低于 5,000 辆，并于 2025 年 1 月 1 日至 2026 年 3 月 30 日期间在至少两大洲主流市场上市销售。2026 年为该奖项第 22 届评选，由来自 33 个国家的 98 位国际汽车媒体人投票产生，投票过程由毕马威（KPMG）独立监督并核算。<a href=\"https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf\">[s5]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a> 其差异化在于蔚来换电网络、BaaS 租电方案、安全配置（9 气囊、双五星设计）以及设计主导的特别版，这些在细分市场较为少见。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a><a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></p><p><strong>我们的判断：短板。</strong> 萤火虫目前仅有一款主力车型，其定价位于 8 万元以内大众化 A0 级小车之上；在欧洲，其价格也明显高于入门级欧洲小型电动车，且海外销量相对中国仍小。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a><a href=\"https://www.firefly.world/news/20250423006\">[s3]</a> 总体而言，萤火虫在安全、设计与蔚来能源生态上的差异化是真实的，但集中于单一车型与一个仍较窄的高端细分市场；能否持续增长，取决于其能否在守住中国细分市场领先的同时，让尚处早期、且受欧盟对华产纯电车反补贴税影响的海外业务真正起量。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a><a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s23]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> firefly has stated it will keep expanding its product and service offering. In October 2026 it added the 60 kWh long-range battery and said its upgrade-ready architecture lets existing owners increase range without replacing the car, consistent with its \"chargeable, swappable and upgradable\" approach.<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a> On the overseas side, the brand said it would deepen its Thailand presence with Thonburi Group and described firefly as NIO's front-runner in global expansion.<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a><a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a> On the product side, it has continued its design-led special-edition line (the halo series) and regular updates to the aster car system.<a href=\"https://www.firefly.com.cn/news/20260821001\">[s8]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> These are disclosed plans and statements, not completed results.</p><p><strong>Our judgment.</strong> firefly's domestic momentum — record monthly and quarterly deliveries in late 2026 and, by its own account, 16 consecutive months as segment leader — is supported by its disclosures, and the 60 kWh battery addresses the model's most visible shortcoming, range.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a><a href=\"https://www.firefly.world/news/20261023001\">[s14]</a> Whether it sustains growth depends on conditions that are not guaranteed: broadening beyond a single model, converting overseas expansion (including markets subject to EU countervailing duties on China-built EVs) into meaningful volume, and maintaining its premium positioning in Europe without heavy discounting.<a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a><a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s23]</a> The 60 kWh battery and swap-based upgrade path give existing owners a reason to stay, but volume growth still depends heavily on the still-early overseas ramp.<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong> 萤火虫表示将持续拓展产品与服务。2026 年 10 月新增 60 kWh 长续航电池，并称其「升级预留」架构使存量用户无需换车即可增加续航，与「可充可换可升级」的产品思路一致。<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a> 海外方面，品牌称将继续深化与吞武里集团在泰国的合作，并称萤火虫是蔚来全球扩张的先锋。<a href=\"https://www.firefly.world/news/20260324003\">[s17]</a><a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a> 产品端，品牌持续推进设计主导的特别版系列（halo 寻光系列）与 aster 智能车机系统的迭代更新。<a href=\"https://www.firefly.com.cn/news/20260821001\">[s8]</a><a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a> 以上为披露的计划与表述，不是已实现的业绩。</p><p><strong>我们的判断。</strong> 萤火虫 2026 年下半年单月、单季交付屡创新高，且自称连续 16 个月位居细分市场首位，有品牌自行披露的数据支撑；60 kWh 电池补齐了该车最明显的续航短板。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a><a href=\"https://www.firefly.world/news/20261023001\">[s14]</a> 但增长能否持续，取决于若干并不必然成立的条件——在单一车型之外扩展产品、把海外扩张（含受欧盟对华产纯电车反补贴税影响的市场）转化为实际销量，并在欧洲不靠大幅降价维持高端定位。<a href=\"https://www.firefly.com.cn/news/20261026001\">[s16]</a><a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s23]</a> 60 kWh 电池与基于换电的升级路径为存量用户提供了留存理由，但品牌走量仍很大程度依赖尚处早期的海外扩张。<a href=\"https://www.firefly.world/news/20261023001\">[s14]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Single-model concentration.</strong> firefly relies on one volume model, so sales are exposed to the product's lifecycle and to pricing or configuration decisions.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></li><li><strong>No separate financial disclosure.</strong> firefly publishes no brand-level revenue or profit, so standalone profitability cannot be assessed from public filings.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></li><li><strong>Price competition.</strong> firefly's pricing sits above the sub-RMB 80,000 mass-market A0 cars that dominate China's small-car volume, exposing it to price pressure from cheaper rivals.<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></li><li><strong>Overseas trade-policy risk.</strong> firefly's European expansion faces the EU's definitive countervailing duties on battery electric vehicles imported from China, which raise the cost of its China-built cars in the EU.<a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s23]</a></li><li><strong>Limited swap-network coverage.</strong> firefly can use only NIO's fifth-generation swap stations; as of 16 October 2026, 104 stations supported firefly, covering 25 provinces and 64 cities, still limited relative to NIO's broader network.<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a></li><li><strong>Globalisation dependence.</strong> the brand was conceived as a global product and has announced a 16-market rollout, but overseas volumes remain small relative to China, making its growth case dependent on a still-early international ramp.<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a></li></ul>",
+      "zh": "<ul><li><strong>单一车型依赖。</strong> 萤火虫依赖一款主力车型，销量受该车型生命周期及定价、配置决策影响较大。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></li><li><strong>无单独财务披露。</strong> 萤火虫未披露品牌层面营收与利润，无法从公开文件评估品牌独立盈利能力。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s20]</a></li><li><strong>价格竞争。</strong> 萤火虫定价位于 8 万元以内大众化 A0 级小车之上，面临来自更低价格竞品的价格压力。<a href=\"https://www.firefly.com.cn/news/20250419001\">[s1]</a></li><li><strong>海外贸易政策风险。</strong> 萤火虫欧洲扩张面临欧盟对从中国进口纯电动汽车加征的最终反补贴税，抬高了其在中国生产车型在欧盟的成本。<a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s23]</a></li><li><strong>换电网络覆盖有限。</strong> 萤火虫仅可使用蔚来第五代换电站，截至 2026 年 10 月 16 日支持萤火虫的站点为 104 座、覆盖 25 省 64 城，相对蔚来整体网络仍有限。<a href=\"https://www.firefly.com.cn/news/20261026002\">[s15]</a></li><li><strong>全球化依赖。</strong> 萤火虫按全球产品打造并宣布进入 16 个市场，但海外销量相对中国仍小，增长逻辑依赖尚处早期的海外放量。<a href=\"https://www.firefly.world/news/20250423006\">[s3]</a><a href=\"https://www.firefly.com.cn/news/20260403001\">[s4]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "firefly official China news: first eponymous model launched from RMB 119,800 (2025-04-19)", "url": "https://www.firefly.com.cn/news/20250419001", "date": "2025-04-19", "tier": "A" },
+    { "id": "s2", "name": "firefly official China news: brand unveiled at NIO Day 2024, pre-sale RMB 148,800", "url": "https://www.firefly.com.cn/news/20241221002", "date": "2024-12-21", "tier": "A" },
+    { "id": "s3", "name": "firefly global launch: 16 international markets, Europe pricing (Netherlands EUR 29,900 / Norway NOK 279,900), 6 colours, 404L trunk", "url": "https://www.firefly.world/news/20250423006", "date": "2025-04-23", "tier": "A" },
+    { "id": "s4", "name": "firefly official China news: firefly named 2026 World Urban Car (11 countries, 50,000 deliveries)", "url": "https://www.firefly.com.cn/news/20260403001", "date": "2026-04-03", "tier": "A" },
+    { "id": "s5", "name": "World Car Awards: 2026 World Urban Car winner press release (PDF)", "url": "https://worldcarawards.com/files/2026_WCA_Winner_Urban.pdf", "date": "2026-04-01", "tier": "A" },
+    { "id": "s6", "name": "firefly official China news: upgraded model launched, motor raised to 120 kW, BaaS from RMB 79,800", "url": "https://www.firefly.com.cn/news/20260414001", "date": "2026-04-14", "tier": "A" },
+    { "id": "s7", "name": "firefly official China news: firefly integrated into NIO fifth-generation swap network (Quanzhou, seven cities)", "url": "https://www.firefly.com.cn/news/20260808001", "date": "2026-08-08", "tier": "A" },
+    { "id": "s8", "name": "firefly official China news: firefly at the 29th Chengdu Motor Show (halo series 'haven'/栖息地, swap demo)", "url": "https://www.firefly.com.cn/news/20260821001", "date": "2026-08-21", "tier": "A" },
+    { "id": "s9", "name": "firefly official China news: 'Xinhai Changxia' special edition, 666 units, RMB 135,800", "url": "https://www.firefly.com.cn/news/20260828001", "date": "2026-08-28", "tier": "A" },
+    { "id": "s10", "name": "firefly official China news: August 2026 deliveries 5,852, cumulative 80,209", "url": "https://www.firefly.com.cn/news/20260901001", "date": "2026-09-01", "tier": "A" },
+    { "id": "s11", "name": "NIO official China: December 2025 deliveries (firefly full-year 2025: 39,414)", "url": "https://www.nio.cn/news/20260101001", "date": "2026-01-01", "tier": "A" },
+    { "id": "s12", "name": "NIO official China: September 2026 and 9M2026 deliveries (firefly 48,122, +136.7%)", "url": "https://www.nio.cn/news/20261001001", "date": "2026-10-01", "tier": "A" },
+    { "id": "s13", "name": "NIO official English: 9M2026 deliveries (firefly 48,122, +136.7%)", "url": "https://www.nio.io/news/20261001001", "date": "2026-10-01", "tier": "A" },
+    { "id": "s14", "name": "firefly global: 60 kWh battery, CLTC 560 km, from RMB 136,800", "url": "https://www.firefly.world/news/20261023001", "date": "2026-10-23", "tier": "A" },
+    { "id": "s15", "name": "firefly official China news: cumulative deliveries pass 90,000 (16 months segment leader, 104 swap stations)", "url": "https://www.firefly.com.cn/news/20261026002", "date": "2026-10-26", "tier": "A" },
+    { "id": "s16", "name": "firefly official China news: first overseas standalone store opens in Bangkok", "url": "https://www.firefly.com.cn/news/20261026001", "date": "2026-10-26", "tier": "A" },
+    { "id": "s17", "name": "firefly global: official Thailand launch at Bangkok International Motor Show (THB 799,000)", "url": "https://www.firefly.world/news/20260324003", "date": "2026-03-24", "tier": "A" },
+    { "id": "s18", "name": "firefly official China news: y2k (千禧漫波) special edition, 166 units, RMB 137,800", "url": "https://www.firefly.com.cn/news/20260320001", "date": "2026-03-20", "tier": "A" },
+    { "id": "s19", "name": "NIO Inc. investor relations: August 2026 delivery update (PDF)", "url": "https://ir.nio.com/node/11976/pdf", "date": "2026-09-01", "tier": "A" },
+    { "id": "s20", "name": "NIO Inc. 2025 Annual Report on Form 20-F (three brands incl. firefly)", "url": "https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm", "date": "2026-04-10", "tier": "A" },
+    { "id": "s21", "name": "HKEXnews: NIO overseas regulatory announcement attaching the 2025 Form 20-F", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041001269.pdf", "date": "2026-04-10", "tier": "A" },
+    { "id": "s22", "name": "NIO official China: 4,000th and first fifth-generation swap station; network totals (9,166 stations)", "url": "https://www.nio.cn/news/20260807001", "date": "2026-08-07", "tier": "A" },
+    { "id": "s23", "name": "European Commission: definitive countervailing duties on battery electric vehicles imported from China (IP/24/5589)", "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf", "date": "2024-10-29", "tier": "A" },
+    { "id": "s24", "name": "Beijing News Beike Finance (新京报贝壳财经): firefly logo released, Jin Ge named president", "url": "https://m.bjnews.com.cn/detail/1734523924168425.html", "date": "2024-12-18", "tier": "B" },
+    { "id": "s25", "name": "CnEVPost: NIO's F4 plant in Chuzhou to produce firefly models (citing Cailian)", "url": "https://cnevpost.com/2023/02/21/nio-f4-plant-in-chuzhou-to-produce-firefly-models-report/", "date": "2023-02-21", "tier": "B" },
+    { "id": "s26", "name": "CNR Auto (央广网汽车): firefly launch — wheelbase 2,615 mm, frunk/boot, safety specs", "url": "https://auto.cnr.cn/cz/20250420/t20250420_527141906.shtml", "date": "2025-04-20", "tier": "B" }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": "levc",
+  "name_en": "LEVC (London EV Company)",
+  "name_zh": "LEVC（英伦电动汽车，London EV Company）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Brand heritage dates to 1908; the current legal entity, London EV Company Limited, was incorporated 11 January 2013 as Geely OpCo UK Limited",
+      "value_zh": "品牌起源可追溯至 1908 年；现法律主体 London EV Company Limited 于 2013 年 1 月 11 日以 Geely OpCo UK Limited 名义注册成立",
+      "period": null,
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Li Close, Ansty Park, Ansty, Coventry, England, CV7 9RF (registered office)",
+      "value_zh": "英国英格兰考文垂安斯蒂园区 Li Close, Ansty Park, Ansty, Coventry, CV7 9RF（注册办公地）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private; person with significant control is Geely UK Limited (75% or more of shares and voting rights); part of Zhejiang Geely Holding Group",
+      "value_zh": "民营；备案重要控制人为 Geely UK Limited（持股及表决权均 75% 或以上），隶属浙江吉利控股集团",
+      "period": null,
+      "source_ids": ["s6", "s4"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点",
+      "value_en": "Not listed (UK private limited company; statutory accounts filed at Companies House)",
+      "value_zh": "未上市（英国私营有限公司，在英国公司注册处 Companies House 备案法定账目）",
+      "period": null,
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "282 average employees (FY2025; 395 in FY2024)",
+      "value_zh": "平均员工 282 人（2025 财年；2024 财年为 395 人）",
+      "period": "FY2025",
+      "source_ids": ["s14", "s8"]
+    },
+    {
+      "label_en": "Revenue (latest FY)",
+      "label_zh": "营收（最近财年）",
+      "value_en": "GBP 59.6 million (FY2025, year ended 31 Dec 2025; GBP 88.1 million in FY2024)",
+      "value_zh": "5960 万英镑（2025 财年，截至 2025 年 12 月 31 日；2024 财年为 8810 万英镑）",
+      "period": "FY2025",
+      "source_ids": ["s14", "s7"]
+    },
+    {
+      "label_en": "Net loss (latest FY)",
+      "label_zh": "净亏损（最近财年）",
+      "value_en": "GBP 55.0 million loss for the financial year, after tax (FY2025; pre-tax loss GBP 61.7 million)",
+      "value_zh": "税后本年度亏损 5500 万英镑（2025 财年；税前亏损 6170 万英镑）",
+      "period": "FY2025",
+      "source_ids": ["s14", "s15"]
+    },
+    {
+      "label_en": "Vehicle sales (latest FY)",
+      "label_zh": "销量（最近财年）",
+      "value_en": "725 vehicles (FY2025; 1,272 in FY2024, UK statutory accounts basis)",
+      "value_zh": "725 辆（2025 财年；2024 财年为 1272 辆，英国法定账目口径）",
+      "period": "FY2025",
+      "source_ids": ["s14", "s16", "s17"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": "Not separately disclosed for FY2025; in 2024 sales outside London and the rest of the world rose 12% year on year",
+      "value_zh": "2025 财年未单独披露；2024 年伦敦以外及全球其他地区销量同比增长 12%",
+      "period": "FY2024",
+      "source_ids": ["s16"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1908",
+      "event_en": "Taxi dealers J.J. Mann and Tom Overton commission a purpose-built cab to meet London's Conditions of Fitness — the model from which LEVC traces its roots; by 1914 it was the most common taxi on London's streets.",
+      "event_zh": "出租车经销商 J.J. Mann 与 Tom Overton 委托定制符合伦敦「适用条件」（Conditions of Fitness）法规的专用出租车，LEVC 的历史由此开端；到 1914 年它已是伦敦街头最常见的出租车。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1948",
+      "event_en": "The FX3 launches; the third FX iteration is credited with coining the 'black cab' name.",
+      "event_zh": "FX3 出租车上市，第三代 FX 车型被视为「黑色出租车」（black cab）名称的由来。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1958",
+      "event_en": "The FX4 is introduced (planning began 1956), becoming the iconic London taxi shape.",
+      "event_zh": "FX4 车型问世（1956 年开始规划），成为伦敦出租车最经典的造型。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1972",
+      "event_en": "Manganese Bronze Holdings (MBH) acquires coachbuilder Carbodies (1972) and dealer Mann & Overton (1985), forming London Taxis International (LTI); the Fairway version of the FX4 appears in 1989.",
+      "event_zh": "锰铜控股（MBH）先后收购车身制造商 Carbodies（1972 年）与经销商 Mann & Overton（1985 年），组建 London Taxis International（LTI）；FX4 的 Fairway 版本于 1989 年推出。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "1997",
+      "event_en": "TX1 is introduced, the first new-generation taxi in almost 40 years (Euro 1 compliant).",
+      "event_zh": "推出 TX1，近 40 年来的首款新一代出租车（符合欧 1 排放标准）。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2006-09",
+      "event_en": "MBH announces a joint venture with Geely Auto to build a factory in Shanghai producing taxis for China and overseas markets.",
+      "event_zh": "锰铜控股（MBH）宣布与吉利汽车组建合资公司，在上海建厂生产面向中国及海外市场的出租车。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2010-11",
+      "event_en": "The Mann & Overton name is dropped and the company is renamed the London Taxi Company (LTC).",
+      "event_zh": "停用 Mann & Overton 名称，公司更名为伦敦出租车公司（LTC）。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2012",
+      "event_en": "FX4 and TX4 taxis feature prominently in the closing ceremony of the London 2012 Olympic Games.",
+      "event_zh": "FX4 与 TX4 出租车在 2012 年伦敦奥运会闭幕式上登台亮相。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2013",
+      "event_en": "Geely — which already owned 20% of the black cab maker — acquires the business and principal assets from MBH out of administration. The London Taxi Corporation Limited is incorporated on 11 January 2013 as Geely OpCo UK Limited and renamed The London Taxi Corporation Limited on 13 February 2013.",
+      "event_zh": "吉利（当时已持股 20%）从破产托管中的锰铜控股手中收购业务与核心资产。The London Taxi Corporation Limited 于 2013 年 1 月 11 日以 Geely OpCo UK Limited 名义注册，同年 2 月 13 日更名为 The London Taxi Corporation Limited。",
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "date": "2017-03",
+      "event_en": "LEVC's new global headquarters and plant opens in Ansty, Coventry — the UK's only dedicated electric-vehicle manufacturing plant, representing an investment of more than GBP 500 million.",
+      "event_zh": "位于考文垂安斯蒂的全球总部及工厂投产，是英国唯一纯电动汽车专用生产基地，投资额超过 5 亿英镑。",
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "date": "2017-07",
+      "event_en": "The brand is relaunched as LEVC (London EV Company) in July 2017; the legal name change from The London Taxi Corporation Limited to London EV Company Limited takes effect on 1 September 2017.",
+      "event_zh": "2017 年 7 月品牌更名为 LEVC（伦敦电动汽车公司）；法名由 The London Taxi Corporation Limited 变更为 London EV Company Limited 于 2017 年 9 月 1 日生效。",
+      "source_ids": ["s1", "s4", "s5"]
+    },
+    {
+      "date": "2018-01",
+      "event_en": "The TX range-extended electric taxi goes on sale in January 2018, described as the world's first zero-emissions capable electric taxi.",
+      "event_zh": "增程式电动出租车 TX 于 2018 年 1 月上市，被称为全球首款零排放（零尾气排放）能力电动出租车。",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "date": "2019",
+      "event_en": "Record sales year: 2,507 TX sold, more than double the prior year, with demand in Germany, France, Switzerland, Denmark, the Middle East and Japan.",
+      "event_zh": "创纪录销售年：TX 售出 2,507 辆、较上年翻倍以上，德国、法国、瑞士、丹麦、中东、日本等地需求增长。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2020",
+      "event_en": "The VN5 electric van launches, LEVC's first commercial electric vehicle, using the same eCity range-extender technology (total electrically-driven range of more than 300 miles).",
+      "event_zh": "推出 VN5 电动厢式货车，是 LEVC 首款电动商用车，采用同源 eCity 增程技术（电驱动综合续航超 300 英里）。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2023-05",
+      "event_en": "LEVC unveils the Space Oriented Architecture (SOA) pure-electric platform, co-developed with Geely Holding Group.",
+      "event_zh": "发布与吉利控股集团联合开发的空间导向型纯电架构（SOA）。",
+      "source_ids": ["s1", "s22"]
+    },
+    {
+      "date": "2024-06",
+      "event_en": "The L380 luxury electric MPV launches in China on 25 June 2024, the first SOA-platform model, built at Geely's Yiwu, Zhejiang plant.",
+      "event_zh": "2024 年 6 月 25 日在中国发布高端纯电 MPV L380，为 SOA 架构首款车型，在吉利浙江义乌工厂生产。",
+      "source_ids": ["s1", "s19"]
+    },
+    {
+      "date": "2025-03",
+      "event_en": "The L380 is folded into Geely's Galaxy sales network in China, relaunched on 10 March 2025 as the Geely Galaxy LEVC L380 (翼真 L380) at a lower starting price.",
+      "event_zh": "L380 在中国并入吉利银河销售网络，2025 年 3 月 10 日以「吉利银河翼真 L380」名义以更低起售价重新上市。",
+      "source_ids": ["s18", "s20"]
+    },
+    {
+      "date": "2025-07",
+      "event_en": "LEVC announces about 180 job cuts at Ansty and reduces TX output, citing declining taxi driver numbers and market headwinds.",
+      "event_zh": "宣布在安斯蒂工厂裁员约 180 人并削减 TX 产量，理由是出租车司机人数持续下降及市场逆风。",
+      "source_ids": ["s13", "s14"]
+    },
+    {
+      "date": "2026-03",
+      "event_en": "Leadership change announced 26 March 2026: Alex Nan steps down as CEO (remaining Chairman), Tony Chi becomes acting CEO, and Lee Boyce becomes General Manager.",
+      "event_zh": "2026 年 3 月 26 日宣布管理层调整：Alex Nan 卸任 CEO（留任董事长），Tony Chi 出任代理 CEO，Lee Boyce 出任总经理。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-09",
+      "event_en": "FY2025 statutory accounts filed at Companies House on 8 September 2026: 725 vehicles sold and turnover of about GBP 59.6 million.",
+      "event_zh": "2026 年 9 月 8 日向英国公司注册处提交 2025 财年法定账目：销量 725 辆、营业额约 5960 万英镑。",
+      "source_ids": ["s7", "s14"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "LEVC TX",
+      "name_zh": "LEVC TX（电动出租车）",
+      "role_en": "Range-extended electric taxi (REEV), the fifth-generation London cab and LEVC's core product; also offered in accessible shuttle variants (TX Access / TX Shuttle).",
+      "role_zh": "增程式电动出租车（REEV），第五代伦敦出租车，是品牌核心产品；另有无障碍接驳车型（TX Access / TX Shuttle）。",
+      "price_band": "Commercial / taxi; not publicly listed",
+      "founded": 2018,
+      "owner_note_en": "On sale since January 2018, built at Ansty, Coventry. The eCity range-extended powertrain pairs an electric drive with a petrol range extender. As of the research date, LEVC's TX product page lists a pure-electric range of 78 miles and a total flexible range of 333 miles, matching LEVC's January 2025 press release (up to 78 miles of pure-EV range and 333 miles total). Geely Holding's LEVC page describes the TX as travelling over 70 miles on pure electric power with additional range up to 333 miles. By January 2025 LEVC reported more than 11,000 TX sold globally and over 8,600 zero-emission-capable TX in London (more than 60% of London's black cabs); the BBC reported about 9,000 TX in use in London in July 2025.",
+      "owner_note_zh": "2018 年 1 月起在考文垂安斯蒂工厂生产销售。eCity 增程式动力为电驱加汽油增程器。研究截止日 LEVC 官网 TX 产品页标注纯电续航 78 英里、灵活综合续航 333 英里，与 LEVC 2025 年 1 月新闻稿（纯电最高 78 英里、综合 333 英里）一致。吉利控股集团 LEVC 页仍写纯电超过 70 英里、增程后最高约 333 英里。截至 2025 年 1 月 LEVC 称全球累计售出超 1.1 万辆 TX，伦敦有超 8600 辆零排放能力 TX（占伦敦黑色出租车逾 60%）；BBC 2025 年 7 月称伦敦约有 9000 辆 TX 在役。",
+      "status": "active",
+      "source_ids": ["s2", "s4", "s10", "s13"]
+    },
+    {
+      "name_en": "LEVC VN5",
+      "name_zh": "LEVC VN5（电动厢式货车）",
+      "role_en": "Mid-size range-extended electric van for green logistics, built on the TX's eCity technology.",
+      "role_zh": "中型增程式电动厢式货车，面向绿色物流，采用 TX 同源 eCity 增程技术。",
+      "price_band": "Commercial / van; not publicly listed",
+      "founded": 2020,
+      "owner_note_en": "Launched in 2020 as LEVC's first commercial electric vehicle; electrically driven with a range extender giving a total electrically-driven range of more than 300 miles.",
+      "owner_note_zh": "2020 年推出，为 LEVC 首款电动商用车；纯电驱动加增程器，电驱动综合续航超 300 英里。",
+      "status": "active",
+      "source_ids": ["s1"]
+    },
+    {
+      "name_en": "LEVC L380 / Geely Galaxy LEVC L380 (翼真 L380)",
+      "name_zh": "翼真 L380（吉利银河翼真 L380）",
+      "role_en": "Large luxury pure-electric MPV, the first model on the SOA platform, built at Geely's Yiwu, Zhejiang plant; LEVC's entry into passenger MPVs.",
+      "role_zh": "大型豪华纯电 MPV，SOA 架构首款车型，在吉利浙江义乌工厂生产；是 LEVC 进入乘用 MPV 市场的首款产品。",
+      "price_band": "China: RMB 379,900-479,900 at 2024-06-25 launch; relaunched 2025-03-10 at RMB 299,900-599,900",
+      "founded": 2024,
+      "owner_note_en": "Launched in China on 25 June 2024 (5316/1998/1940 mm, wheelbase 3185 mm; 100/116/140 kWh batteries; single 200 kW or dual-motor versions; configurable with three to eight seats; CLTC range up to about 805 km). After slow sales, it was folded into Geely Galaxy in March 2025. Its extended-range derivative is sold as the Geely Galaxy V900.",
+      "owner_note_zh": "2024 年 6 月 25 日在中国上市（尺寸 5316/1998/1940 毫米、轴距 3185 毫米；100/116/140 千瓦时电池；单电机 200 千瓦或双电机版本；可配置三至八座；CLTC 续航最高约 805 公里）。因销量低迷，2025 年 3 月并入吉利银河。其增程版车型以「吉利银河 V900」名义销售。",
+      "status": "active",
+      "source_ids": ["s19", "s18", "s20"]
+    },
+    {
+      "name_en": "Geely Galaxy V900",
+      "name_zh": "吉利银河 V900",
+      "role_en": "Extended-range (EREV) MPV derived from the L380, marketed under Geely's Galaxy brand rather than the LEVC badge.",
+      "role_zh": "基于 L380 开发的增程式（EREV）MPV，以吉利银河品牌（而非 LEVC 品牌）销售。",
+      "price_band": "China: RMB 269,800-329,800 (limited-time guide price at 2026-01-20 launch)",
+      "founded": 2026,
+      "owner_note_en": "Debuted at the Guangzhou Auto Show in November 2025 and formally launched on 20 January 2026 with three variants. Powered by a 1.5T range extender (120 kW) with 43.3 kWh or 50 kWh battery and dual-motor AWD (340 kW, 523 Nm, 0-100 km/h in 6.5 s); CLTC combined range up to 1,220 km.",
+      "owner_note_zh": "2025 年 11 月广州车展首发，2026 年 1 月 20 日正式上市，共三款。搭载 1.5T 增程器（120 千瓦）与 43.3/50 千瓦时电池、双电机四驱（340 千瓦、523 牛·米，0-100 公里/小时 6.5 秒），CLTC 综合续航最高 1220 公里。",
+      "status": "active",
+      "source_ids": ["s20", "s12"]
+    },
+    {
+      "name_en": "FX / TX legacy taxis (FX3, FX4/Fairway, TX1, TXII, TX4)",
+      "name_zh": "历代 FX / TX 出租车（FX3、FX4/Fairway、TX1、TXII、TX4）",
+      "role_en": "Historic London taxi generations produced from 1948 through the 2000s, predecessors of today's TX.",
+      "role_zh": "1948 年至 2000 年代生产的历代伦敦出租车，是现款 TX 的前身。",
+      "price_band": "Discontinued",
+      "founded": 1948,
+      "owner_note_en": "The FX3 (1948), FX4 (1958, incl. the Fairway from 1989), TX1 (1997), TXII (2002) and TX4 (2007) are all out of production; TX4 continued to be made in Shanghai via the Geely joint venture.",
+      "owner_note_zh": "FX3（1948）、FX4（1958，含 1989 年的 Fairway）、TX1（1997）、TXII（2002）、TX4（2007）均已停产；TX4 曾通过吉利合资公司在上海继续生产。",
+      "status": "discontinued",
+      "source_ids": ["s1"]
+    }
+  ],
+  "financials": {
+    "currency": "GBP",
+    "unit": "million",
+    "standard": "UK GAAP (Companies Act 2006 statutory accounts)",
+    "rows": [
+      { "fiscal_year": 2023, "revenue": 129.1, "gross_margin_pct": null, "net_profit": -75.5, "rnd": null, "source_ids": ["s9"] },
+      { "fiscal_year": 2024, "revenue": 88.1, "gross_margin_pct": null, "net_profit": -179.5, "rnd": null, "source_ids": ["s8"] },
+      { "fiscal_year": 2025, "revenue": 59.6, "gross_margin_pct": null, "net_profit": -55.0, "rnd": null, "source_ids": ["s7"] }
+    ],
+    "note_en": "This table presents the UK statutory accounts of London EV Company Limited (LEVC, Companies House company number 08357576): group accounts for the year ended 31 December 2023 (filed 20 August 2024), full accounts for 2024 (filed 4 October 2025) and full accounts for 2025 (filed 8 September 2026). Currency: GBP (pound sterling); unit: million; standard: UK statutory accounts prepared under the Companies Act 2006 (UK GAAP). Because LEVC is a wholly owned subsidiary of Geely UK Limited, the loss/profit for each financial year is attributable in full to the owner; the 'net_profit' column therefore corresponds to the statutory 'loss/profit for the financial year' after tax (the amount attributable to the owner). The 2023 after-tax loss of GBP 75.5 million and revenue of GBP 129.1 million are as reported in City AM's coverage of the accounts; the BBC reports a 2023 pre-tax loss of GBP 104.0 million. For 2024, the loss for the year was GBP 179.47 million (pre-tax GBP 179.4 million); for 2025, the loss for the year was GBP 54.98 million (pre-tax GBP 61.7 million). Gross margin and R&D are not disclosed at brand level. Revenue was GBP 129.1 million (2023), GBP 88.1 million (2024) and GBP 59.6 million (2025); TaxiPoint reports the 2024 and 2025 figures more precisely as GBP 88.15 million and GBP 59.58 million. Operating loss narrowed from GBP 156.56 million (2024) to GBP 45.52 million (2025). Net liabilities widened from GBP 125.64 million (2024) to GBP 180.63 million (2025). Average employee numbers fell from 395 (2024) to 282 (2025). The 2025 accounts were prepared on a going-concern basis, supported by a letter of support from Geely UK Limited running to 31 December 2027, and record short-term loans from Geely in 2025 (GBP 50 million to repay Santander and GBP 40 million to repay BNP Paribas). Vehicle sales on an accounts basis were 1,272 in 2024 and 725 in 2025. Parent-group financials are covered in the Geely (geely) deep research. This page does not constitute any trading recommendation.",
+    "note_zh": "本表为伦敦电动汽车有限公司（London EV Company Limited，英国公司注册处注册号 08357576）的英国法定账目：2023 财年集团账目（2024 年 8 月 20 日提交）、2024 财年完整账目（2025 年 10 月 4 日提交）、2025 财年完整账目（2026 年 9 月 8 日提交）。币种：英镑；单位：百万；准则：英国《公司法》（Companies Act 2006）下的英国法定账目（UK GAAP）。LEVC 为 Geely UK Limited 的全资子公司，各财年亏损/利润全部归属于母公司，故 net_profit 列对应法定账目的「本年度税后亏损/利润」（即归属于母公司口径）。2023 年税后亏损 7550 万英镑、营收 1.291 亿英镑，引自 City AM 对该年账目的报道；BBC 报道的 2023 年税前亏损为 1.040 亿英镑。2024 年本年度亏损 1.7947 亿英镑（税前 1.794 亿英镑）；2025 年本年度亏损 5498 万英镑（税前 6170 万英镑）。毛利率与研发投入品牌层面未披露。营收为 1.291 亿英镑（2023）、8810 万英镑（2024）、5960 万英镑（2025）；TaxiPoint 将 2024、2025 年营收更精确地记为 8815 万、5958 万英镑。经营亏损由 2024 年的 1.5656 亿英镑收窄至 2025 年的 4552 万英镑。净负债由 2024 年的 1.2564 亿英镑扩大至 2025 年的 1.8063 亿英镑。平均员工数由 2024 年的 395 人降至 2025 年的 282 人。2025 年账目按持续经营假设编制，依赖 Geely UK Limited 延至 2027 年 12 月 31 日的支持函，并记录 2025 年吉利短期贷款（5000 万英镑偿还桑坦德银行、4000 万英镑偿还法国巴黎银行）。账目口径销量 2024 年为 1272 辆、2025 年为 725 辆。母公司财务见吉利（geely）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>LEVC (London EV Company Limited) is the Coventry, England-based maker of London's iconic black cab and a wholly owned subsidiary of China's Zhejiang Geely Holding Group, held through Geely UK Limited. Its heritage dates to 1908, when taxi dealers J.J. Mann and Tom Overton commissioned a purpose-built London cab to meet the city's Conditions of Fitness; the business was rescued by Geely from administration in 2013 and relaunched as an electric-vehicle maker in 2017. Geely's group site positions LEVC as a century-old brand focused on premium mobility, whose classic silhouette is regarded as an icon of London culture.<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://find-and-update.company-information.service.gov.uk/company/08357576\">[s5]</a><a href=\"https://zgh.com/london-ev-company/?lang=en\">[s4]</a></p><p>Today LEVC produces the TX range-extended electric taxi (its core product, on sale since January 2018), the VN5 electric van (2020) and, since 2024, the L380 luxury electric MPV built in China on the Space Oriented Architecture (SOA) it co-developed with Geely. In March 2025 the L380 was folded into Geely's Galaxy brand in China and renamed Geely Galaxy LEVC L380 (翼真 L380); an extended-range derivative of the L380 was launched in January 2026 as the Geely Galaxy V900.<a href=\"https://www.levc.com/new-models/tx-taxi-overview/\">[s2]</a><a href=\"https://auto.cctv.com/2026/01/21/ARTIwYBdOsYCoTnmot4jZifZ260121.shtml\">[s12]</a><a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a><a href=\"https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut\">[s20]</a></p><p>LEVC's core London taxi market is shrinking: licensed London taxi driver numbers fell from 20,577 in 2019 to about 16,157 at the end of 2025. In FY2025 (year ended 31 December 2025) the company sold 725 vehicles, generated turnover of about GBP 59.6 million and recorded a loss for the year of about GBP 55.0 million after tax. Its FY2025 accounts were prepared on a going-concern basis, with a signed letter of support from Geely UK Limited running to 31 December 2027. It remains loss-making and dependent on continuing financial support from Geely.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.telegraph.co.uk/business/2026/09/13/london-black-cab-maker-handed-90m-lifeline-by-chinese-owner/\">[s17]</a></p>",
+      "zh": "<p>LEVC（London EV Company Limited，伦敦电动汽车公司）是总部位于英国英格兰考文垂的伦敦经典「黑色出租车」制造商，为中国浙江吉利控股集团旗下全资子公司（通过 Geely UK Limited 持有）。其历史可追溯至 1908 年经销商 J.J. Mann 与 Tom Overton 委托定制伦敦专用出租车；2013 年公司在破产托管中被吉利接盘，2017 年以电动汽车制造商身份重新出发。吉利集团官网将 LEVC 定位为专注高端出行的百年汽车品牌，其经典造型被视为伦敦文化标志之一。<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://find-and-update.company-information.service.gov.uk/company/08357576\">[s5]</a><a href=\"https://zgh.com/london-ev-company/?lang=en\">[s4]</a></p><p>如今 LEVC 生产增程式电动出租车 TX（核心产品，2018 年 1 月起销售）、VN5 电动厢式货车（2020 年），以及自 2024 年起在 SOA 架构平台上、于中国制造的 L380 豪华纯电 MPV。2025 年 3 月，L380 在中国并入吉利银河品牌并更名为「吉利银河翼真 L380」；其增程版车型于 2026 年 1 月以「吉利银河 V900」名义上市。<a href=\"https://www.levc.com/new-models/tx-taxi-overview/\">[s2]</a><a href=\"https://auto.cctv.com/2026/01/21/ARTIwYBdOsYCoTnmot4jZifZ260121.shtml\">[s12]</a><a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a><a href=\"https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut\">[s20]</a></p><p>LEVC 核心的伦敦出租车市场正在萎缩：伦敦持牌出租车司机人数从 2019 年的 20,577 人降至 2025 年底约 16,157 人。2025 财年（截至 2025 年 12 月 31 日）公司销量 725 辆、营业额约 5960 万英镑，税后本年度亏损约 5500 万英镑。其 2025 财年账目按持续经营假设编制，附有 Geely UK Limited 延至 2027 年 12 月 31 日的签署支持函。公司持续亏损，依赖吉利的资金支持。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.telegraph.co.uk/business/2026/09/13/london-black-cab-maker-handed-90m-lifeline-by-chinese-owner/\">[s17]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure</h3><p>LEVC is a single-brand British subsidiary of Geely and frames its strategy as a transition from a specialist taxi maker to a global e-mobility brand.<a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a> Its business is purpose-built taxis and light commercial vehicles, plus the China-built L380 MPV since 2024. London remains its principal taxi market, but sales there have fallen with the driver population. In FY2025 vehicle sales generated GBP 48.90 million of the company's GBP 59.58 million turnover, with vehicle parts (GBP 5.78 million) and profit shares (GBP 4.89 million) making up the rest. In 2025 a compulsory redundancy programme cut headcount from 336 at the start of the year to 182 at year end (a 45% reduction, with a 70% cut in operational delivery areas), and about GBP 3.86 million of redundancy and severance costs were recorded.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p><h3>Technology and platforms</h3><p>The TX and VN5 use LEVC's eCity range-extended electric (REEV) technology: an electric drive with a small petrol range extender. As of the research date, LEVC's TX product page lists a pure-electric range of 78 miles and a total flexible range of 333 miles, matching LEVC's January 2025 announcement (up to 78 miles of pure-EV range and 333 miles of total range-extended capacity); Geely Holding's LEVC page still describes the TX as travelling over 70 miles on pure electric power with additional range up to 333 miles. The L380 uses the Space Oriented Architecture (SOA) pure-electric platform unveiled in May 2023 and co-developed with Geely Holding, a commercial-vehicle-oriented derivative of Geely's SEA platform; it uses the L-OS digital operating system. LEVC describes SOA as an innovative, flexible architecture that optimises on-board space and is fully configurable. The TX supports home, fast AC and rapid DC charging, offers three selectable drive modes, and carries a five-year unlimited-mileage battery warranty.<a href=\"https://www.levc.com/new-models/tx-taxi-overview/\">[s2]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a><a href=\"https://zgh.com/london-ev-company/?lang=en\">[s4]</a><a href=\"https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/\">[s19]</a></p><h3>Product line-up</h3><p>LEVC's current range comprises three lines: the TX range-extended electric taxi (on sale since January 2018, with TX Access and TX Shuttle accessible variants), the VN5 electric van (2020) and the China-built L380 large pure-electric MPV (2024). The TX and VN5 share the eCity technology; the L380 is the first SOA model, offered with a 200 kW single motor or dual motors and 100/116/140 kWh battery packs, with a CLTC range of up to about 805 km on the 140 kWh version. The TX seats up to six passengers with a forward-facing wheelchair position, an integrated ramp, a hearing induction loop and braille controls, and has a turning circle of 8.45 m.<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a><a href=\"https://www.levc.com/new-models/tx-taxi-overview/\">[s2]</a><a href=\"https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/\">[s19]</a></p><h3>Plants and capacity</h3><p>LEVC's global headquarters and plant in Ansty, Coventry (opened 2017, about 37,000 m² of buildings on an 85,000 m² site) is the UK's only dedicated electric-vehicle manufacturing plant; LEVC's history page describes it as an investment of more than GBP 500 million, and its 2025 press release states Geely has invested over GBP 1 billion in LEVC since 2013. In 2025 LEVC cut output and about 180 jobs at the site and moved to low-rate running. The Ansty site also houses R&D, manufacturing, quality and testing facilities and, per LEVC, is a centre of competence for lightweight aluminium production and EV technology within Geely's Commercial Vehicles Group. The L380 is built at Geely's Yiwu, Zhejiang plant in China, not in the UK.<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://zgh.com/london-ev-company/?lang=en\">[s4]</a><a href=\"https://www.bbc.co.uk/news/articles/c625r0kyn22o\">[s13]</a><a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a></p><h3>Overseas business</h3><p>LEVC's TX has sold well beyond London: its record 2019 year saw growing demand from taxi operators and ride-sharing shuttle services in Germany, France, Switzerland, Denmark, the Middle East and Japan, and the TX Shuttle was launched for on-demand and shuttle services across Europe. In 2024, sales outside London and the rest of the world rose 12% year on year, helped by delivery of 153 TX vehicles to Baku, Azerbaijan ahead of COP29. LEVC said in early 2024 that it aimed to have a presence in more than 40 countries in the coming years.<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://www.cityam.com/levc-london-electric-taxi-company-loses-180m/\">[s16]</a><a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a></p><h3>Market position and latest results</h3><p>LEVC dominates the London purpose-built taxi segment: the BBC reported about 9,000 TX in use in London in July 2025, and LEVC said in January 2025 that TX accounted for more than 60% of London's black cabs (over 8,600 zero-emission-capable vehicles). LEVC is a UK private limited company that files annual statutory accounts and does not publish quarterly or interim results; as of 29 October 2026 the latest published results are the FY2025 accounts filed on 8 September 2026, showing 725 vehicles sold and turnover of about GBP 59.6 million. In January 2025 LEVC said the TX fleet had collectively covered more than one billion miles and reduced exhaust CO2 emissions by more than 300 million kilograms.<a href=\"https://www.bbc.co.uk/news/articles/c625r0kyn22o\">[s13]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a><a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a></p>",
+      "zh": "<h3>业务结构</h3><p>LEVC 是吉利旗下单一品牌的英国子公司，并将其战略概括为从专业出租车制造商向全球电动出行品牌的转型。<a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a> 其业务为专用出租车与轻型商用车，以及自 2024 年起在中国制造的 L380 MPV。伦敦仍是其最主要的出租车市场，但销量随司机人数下降而下滑。2025 财年，整车销售贡献了公司 5958 万英镑营业额中的 4890 万英镑，其余为车辆零部件（578 万英镑）与利润分成（489 万英镑）。2025 年实施强制裁员计划，员工从年初的 336 人降至年末的 182 人（下降 45%，其中运营交付环节裁减 70%），并确认约 386 万英镑裁员与遣散成本。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p><h3>技术与平台</h3><p>TX 与 VN5 采用 LEVC 的 eCity 增程式电动（REEV）技术：电驱加小型汽油增程器。研究截止日 LEVC 官网 TX 产品页标注纯电续航 78 英里、灵活综合续航 333 英里，与 LEVC 2025 年 1 月新闻稿（纯电最高 78 英里、增程综合 333 英里）一致；吉利控股集团 LEVC 页仍写纯电超过 70 英里、增程后最高约 333 英里。L380 采用 2023 年 5 月发布、与吉利控股联合开发的空间导向型纯电架构（SOA，为吉利 SEA 架构的商用车取向版本），并运行 L-OS 数字操作系统。LEVC 称 SOA 为创新、灵活的架构，可优化舱内空间且高度可配置。TX 支持家用、快速交流与直流快充，提供三种可选驾驶模式，并提供五年不限里程电池质保。<a href=\"https://www.levc.com/new-models/tx-taxi-overview/\">[s2]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a><a href=\"https://zgh.com/london-ev-company/?lang=en\">[s4]</a><a href=\"https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/\">[s19]</a></p><h3>产品谱系</h3><p>LEVC 现售产品包括三条线：TX 增程式电动出租车（2018 年 1 月起销售，另有 TX Access、TX Shuttle 无障碍接驳变体）、VN5 电动厢式货车（2020 年）以及中国制造的 L380 大型纯电 MPV（2024 年）。TX 与 VN5 共用 eCity 增程技术，L380 则是 SOA 架构首款车型，提供 200 千瓦单电机或双电机版本与 100/116/140 千瓦时电池，140 千瓦时版本 CLTC 续航最高约 805 公里。TX 最多可载六名乘客，支持前向轮椅位、内置坡道、听力感应回路与盲文按键，转弯半径为 8.45 米。<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a><a href=\"https://www.levc.com/new-models/tx-taxi-overview/\">[s2]</a><a href=\"https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/\">[s19]</a></p><h3>工厂与产能</h3><p>LEVC 位于考文垂安斯蒂的全球总部与工厂（2017 年投产，占地 8.5 万平方米、建筑面积约 3.7 万平方米）是英国唯一纯电动汽车专用生产基地；LEVC 历史页称投资额超过 5 亿英镑，其 2025 年新闻稿称吉利自 2013 年以来对 LEVC 累计投资超 10 亿英镑。2025 年 LEVC 削减该厂产量并裁员约 180 人，工厂转入低产量运行。安斯蒂园区还设有研发、制造、质量与测试设施，LEVC 称其为吉利商用车集团内轻量化铝材生产与电动汽车技术的卓越中心。L380 在吉利位于中国浙江义乌的工厂生产，而非英国本土。<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://zgh.com/london-ev-company/?lang=en\">[s4]</a><a href=\"https://www.bbc.co.uk/news/articles/c625r0kyn22o\">[s13]</a><a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a></p><h3>海外业务</h3><p>LEVC 的 TX 已在伦敦以外广泛销售：2019 年创纪录年度，德国、法国、瑞士、丹麦、中东、日本等地的出租车运营商与网约接驳服务需求增长，并推出面向欧洲按需出行与穿梭服务的 TX Shuttle。2024 年，伦敦以外及全球其他地区销量同比增长 12%，其中包括向阿塞拜疆巴库交付 153 辆 TX（配合 COP29）。LEVC 2024 年初表示计划在未来几年覆盖 40 多个国家。<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://www.cityam.com/levc-london-electric-taxi-company-loses-180m/\">[s16]</a><a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a></p><h3>市场地位与最新业绩</h3><p>LEVC 主导伦敦专用出租车细分市场：BBC 2025 年 7 月称伦敦约有 9000 辆 TX 在役，LEVC 2025 年 1 月称 TX 占伦敦黑色出租车逾 60%（超 8600 辆零排放能力车辆）。LEVC 为英国私营有限公司，仅按年提交法定账目、不发布季度或半年业绩；截至 2026 年 10 月 29 日，最近一份已公布业绩为 2026 年 9 月 8 日提交的 2025 财年账目，显示销量 725 辆、营业额约 5960 万英镑。2025 年 1 月 LEVC 称 TX 车队累计行驶里程已超 10 亿英里、减少尾气 CO2 排放超 3 亿公斤。<a href=\"https://www.bbc.co.uk/news/articles/c625r0kyn22o\">[s13]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a><a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder / origin</h3><p>LEVC has no living founder in the conventional sense; it is a corporate descendant of London taxi dealers Mann &amp; Overton (1908) and coachbuilder Carbodies, later acquired by Manganese Bronze Holdings and combined into London Taxis International. Since 2013 the controlling shareholder has been Geely.<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://find-and-update.company-information.service.gov.uk/company/08357576\">[s5]</a></p><h3>Current management</h3><ul><li><strong>Alex Nan (南圣良)</strong> — Chairman of LEVC. He was CEO of LEVC and Chairman of LEVC UK from 2021, and stepped down as CEO on 26 March 2026 while remaining Chairman. He is also Vice President of Geely Auto Group and, since April 2025, CEO of Geely Auto International Corporation (GAIC); his career of nearly three decades at Geely has spanned product development, sales, marketing and strategy, including General Manager of Geely Auto International Sales (from 2017) and Vice President of Domestic Sales (from 2006).<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a><a href=\"https://geely.com.au/news/geely-auto-group-names-alex-nan-as-ceo-of-geely-auto-international-corporation-powering-global-innovation-and-expansion\">[s11]</a></li><li><strong>Tony Chi</strong> — acting CEO since 26 March 2026, succeeding Alex Nan; previously Deputy General Manager for Geely International, with more than 20 years at the Geely group in overseas operations.<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a></li><li><strong>Lee Boyce</strong> — General Manager (a newly created role) since 26 March 2026; previously LEVC Manufacturing Director for over 10 years, with more than 30 years of OEM experience.<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a></li><li><strong>Chris Allen</strong> — Managing Director until he stepped down after six years (announced 26 March 2026; his director appointment was terminated on 24 April 2026).<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a></li><li><strong>Brett Boydell</strong> — LEVC Global Chief Design Officer, who led the design of the L380 in Ansty, Coventry.<a href=\"https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/\">[s19]</a></li></ul><h3>Ownership and governance</h3><p>LEVC is held through Geely UK Limited, which Companies House records as the person with significant control, holding 75% or more of the shares and voting rights (notified 6 April 2016). The ultimate parent is Zhejiang Geely Holding Group, founded and chaired by Li Shufu. The board is made up of directors appointed by Geely; Companies House filings show several director changes in 2024-2026, including the termination of Chris Allen's directorship on 24 April 2026 and the appointment of Feng Chi and Xufeng Zhu as directors on 9 June 2026.<a href=\"https://find-and-update.company-information.service.gov.uk/company/08357576/persons-with-significant-control\">[s6]</a><a href=\"https://www.levc.com/company/history/\">[s1]</a></p>",
+      "zh": "<h3>创始人 / 起源</h3><p>LEVC 没有通常意义上的在世创始人，而是伦敦出租车经销商 Mann &amp; Overton（1908 年）与车身制造商 Carbodies 的企业后裔，后为锰铜控股收购并组建 London Taxis International。自 2013 年起控股股东为吉利。<a href=\"https://www.levc.com/company/history/\">[s1]</a><a href=\"https://find-and-update.company-information.service.gov.uk/company/08357576\">[s5]</a></p><h3>现任核心管理层</h3><ul><li><strong>Alex Nan（南圣良）</strong>——LEVC 董事长。2021 年起任 LEVC 首席执行官兼 LEVC UK 董事长，2026 年 3 月 26 日卸任 CEO 留任董事长。同时任吉利汽车集团副总裁，2025 年 4 月起任吉利汽车国际公司（GAIC）CEO；他在吉利有近三十年职业生涯，覆盖产品开发、销售、营销与战略，此前自 2017 年任吉利汽车国际销售公司总经理、2006 年起任国内销售副总裁。<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a><a href=\"https://geely.com.au/news/geely-auto-group-names-alex-nan-as-ceo-of-geely-auto-international-corporation-powering-global-innovation-and-expansion\">[s11]</a></li><li><strong>Tony Chi</strong>——2026 年 3 月 26 日起任代理 CEO，接替 Alex Nan；此前任吉利国际副总经理，在吉利集团海外业务拥有逾 20 年经验。<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a></li><li><strong>Lee Boyce</strong>——2026 年 3 月 26 日起任新设的总经理一职；此前任 LEVC 制造总监逾 10 年，拥有 30 余年整车厂经验。<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a></li><li><strong>Chris Allen</strong>——曾任董事总经理，任职 6 年后卸任（2026 年 3 月 26 日宣布，其董事职务于 2026 年 4 月 24 日终止）。<a href=\"https://www.levc.com/news/levc-makes-executive-leadership-change/\">[s3]</a></li><li><strong>Brett Boydell</strong>——LEVC 全球设计负责人（Global Chief Design Officer），在考文垂安斯蒂主导 L380 设计。<a href=\"https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/\">[s19]</a></li></ul><h3>股权与治理</h3><p>LEVC 由 Geely UK Limited 持有，英国公司注册处将 Geely UK Limited 登记为「重要控制人」，持股及表决权均达 75% 或以上（通知日为 2016 年 4 月 6 日）。最终母公司为李书福创立并任董事长的浙江吉利控股集团。LEVC 董事会由吉利委派的董事组成；公司注册处备案显示 2024-2026 年间有多名董事变动，包括 2026 年 4 月 24 日终止 Chris Allen 的董事职务、2026 年 6 月 9 日任命 Feng Chi 与 Xufeng Zhu 为董事。<a href=\"https://find-and-update.company-information.service.gov.uk/company/08357576/persons-with-significant-control\">[s6]</a><a href=\"https://www.levc.com/company/history/\">[s1]</a></p>"
+    },
+    "competition": {
+      "en": "<p>In its London taxi segment LEVC's TX faces little direct competition: the BBC reported about 9,000 TX in use in London in July 2025, and LEVC said in January 2025 that TX accounted for more than 60% of London's black cabs, with Transport for London's Conditions of Fitness requirements creating a high barrier that mainstream automakers rarely engineer to meet.<a href=\"https://www.bbc.co.uk/news/articles/c625r0kyn22o\">[s13]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a> In the MPV segment the China-built L380 competes with premium electric and extended-range MPVs, and its V900 derivative is positioned against models such as the Xpeng X9, Li Auto MEGA and Zeekr 009, while the L380 also faces the BYD Denza D9, the sibling Volvo EM90 and the Mercedes-Benz V-Class in Europe. At its relaunched RMB 299,900-599,900 price band, the L380 competes head-on with premium new-energy MPVs in the same bracket.<a href=\"https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut\">[s20]</a><a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a></p><p>Our judgment: LEVC's advantage is a globally recognised brand, a near-monopoly position in the London taxi fleet, and access to Geely's platforms and supply chain; its weakness is a shrinking core market and weak traction in China. The L380 sold only about 1,685 units in its first six months (September 2024-February 2025) and about 440 in the following five months (March-July 2025) after its Galaxy rebrand, suggesting LEVC has yet to convert its heritage into passenger-car sales; in China the model is sold through the Geely Galaxy network under the 翼真 (Yizhen) name, and LEVC has yet to build an independent premium-brand presence there. This is our assessment, based on the reported figures above.<a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a><a href=\"https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut\">[s20]</a></p>",
+      "zh": "<p>在其伦敦出租车细分市场，LEVC 的 TX 几乎没有直接竞争对手：BBC 2025 年 7 月称伦敦约有 9000 辆 TX 在役，LEVC 2025 年 1 月称 TX 占伦敦黑色出租车逾 60%，且伦敦交通局（TfL）的「适用条件」法规构成很高门槛，主流车企鲜少为此专门开发车型。<a href=\"https://www.bbc.co.uk/news/articles/c625r0kyn22o\">[s13]</a><a href=\"https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/\">[s10]</a> 在 MPV 细分市场，中国制造的 L380 与高端纯电/增程 MPV 竞争，其 V900 增程版被定位为对标小鹏 X9、理想 MEGA、极氪 009 等车型，L380 同时面对比亚迪腾势 D9、同集团沃尔沃 EM90 以及欧洲市场的奔驰 V 级。重新上市后的 L380 以 29.99 万-59.99 万元价格带，与同价位高端新能源 MPV 直接竞争。<a href=\"https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut\">[s20]</a><a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a></p><p>我们的判断：LEVC 的优势在于全球知名的品牌、在伦敦出租车队中的近乎垄断地位，以及吉利平台与供应链的支撑；短板是核心市场萎缩、中国业务开拓乏力。L380 上市后前六个月（2024 年 9 月至 2025 年 2 月）仅售约 1,685 辆、并入银河后五个月（2025 年 3 月至 7 月）约 440 辆，说明 LEVC 尚未把百年历史转化为乘用车销量；在中国，该车型通过吉利银河网络以「翼真」名义销售，LEVC 尚未在中国建立独立的豪华品牌认知。以上为我们的判断，依据为前述披露的销量数据。<a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a><a href=\"https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut\">[s20]</a></p>"
+    },
+    "outlook": {
+      "en": "<p>LEVC's stated plan is to keep the black cab alive while diversifying beyond it. In its FY2025 accounts it said the current TX5 is entering the final stage of its product lifecycle and that it is developing a new-generation TX, working with the wider Geely group on platform strategy while planning lower TX5 volumes; it gave no launch date, price or specification; the accounts describe the next-generation TX as part of the company's response to changing regulatory requirements. It also said the Ansty plant could in future build Geely-group products, and that it expects sufficient production volumes to meet anticipated UK demand in 2026.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p><p>On products, LEVC said in early 2024 that it aimed to reach more than 40 countries with multiple SOA-based models and that the L380 would come to the UK by 2026. In China, the model line continues under Geely Galaxy, with the V900 extended-range MPV launched on 20 January 2026 at a limited-time guide price of RMB 269,800-329,800, marketed with a 91.8% cabin ratio, a 3.97 m interior length, a 340 kW dual-motor AWD powertrain (523 Nm, 0-100 km/h in 6.5 s) and up to 1,220 km of CLTC combined range.<a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a><a href=\"https://auto.cctv.com/2026/01/21/ARTIwYBdOsYCoTnmot4jZifZ260121.shtml\">[s12]</a></p><p>Our analysis: LEVC's near-term position depends on Geely's continued financial support, which the accounts record as running to 31 December 2027. The mandatory electronic Certificate of Conformity (eCoC) from 5 July 2026 and the removal of the Plug-in Taxi Grant from April 2026 raise the cost of keeping the current TX compliant and selling new taxis, which the company itself described as a significant and material product-compliance investment. The realistic path is a policy-supported next-generation TX and a broader role for the Ansty plant within the Geely group, but no timetable has been published, so the timing and scale of any recovery remain uncertain; the 'more than 40 countries' goal remains, as of the research date, largely at the planning stage. This is our judgment, based on the company's own disclosures.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p>",
+      "zh": "<p>LEVC 公开的规划是保住黑色出租车并实现业务多元化。在 2025 财年账目中，公司称现款 TX5 已进入产品生命周期末期，正在开发新一代 TX，并与吉利集团就平台战略合作，同时规划下调 TX5 产量；但未公布新车的上市时间、价格或规格；账目将新一代 TX 描述为公司应对监管要求变化的一部分。公司还表示安斯蒂工厂未来或可为吉利集团产品代工，并预计 2026 年产能足以满足英国市场需求。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p><p>产品方面，LEVC 2024 年初表示计划覆盖 40 多个国家、以多款 SOA 车型为先导，并确认 L380 将于 2026 年前在英国上市。在中国，该车型系列继续以吉利银河名义推进，V900 增程版于 2026 年 1 月 20 日正式上市，限时指导价 26.98 万-32.98 万元，官方宣传其得房率 91.8%、车内有效长度 3.97 米，全系标配 340 千瓦双电机四驱（523 牛·米，0-100 公里/小时 6.5 秒），CLTC 综合续航最高 1220 公里。<a href=\"https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk\">[s21]</a><a href=\"https://auto.cctv.com/2026/01/21/ARTIwYBdOsYCoTnmot4jZifZ260121.shtml\">[s12]</a></p><p>我们的分析：LEVC 的近期处境取决于吉利的持续资金支持，账目显示该支持已延至 2027 年 12 月 31 日。2026 年 7 月 5 日起强制实施的电子合格证明（eCoC）与 2026 年 4 月起取消的插电式出租车补贴，都提高了维持现款 TX 合规与销售新车的成本，公司自述这是一笔「重大且实质的产品合规投资」。现实的出路是推出受政策支持的新一代 TX，并让安斯蒂工厂在吉利集团内承担更广泛角色；但公司尚未公布时间表，因此复苏的时点与规模仍不确定，其「覆盖 40 多个国家」的目标截至研究截止日仍主要在规划层面。以上为我们的判断，依据为公司自身披露。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p>"
+    },
+    "risks": {
+      "en": "<p><strong>Market risk:</strong> LEVC's principal market is contracting. London licensed taxi driver numbers fell from 20,577 in 2019 to about 16,157 at the end of 2025, and the company expects a gradual, steady decline through 2026; vehicle sales fell from 1,272 in 2024 to 725 in 2025. LEVC's revenue is concentrated in the TX taxi and the London market, so the contraction of that market directly reduces volumes and scale.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.cityam.com/levc-london-electric-taxi-company-loses-180m/\">[s16]</a></p><p><strong>Regulatory risk:</strong> the electronic Certificate of Conformity (eCoC) becomes mandatory on 5 July 2026, which LEVC says its current production facilities and administrative processes do not support; the Plug-in Taxi Grant was withdrawn from April 2026, and some local authorities have relaxed taxi emissions and age rules, reducing demand for new electrified taxis.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p><p><strong>Financial risk:</strong> LEVC is loss-making (a loss for the financial year of about GBP 55.0 million after tax in 2025) with negative net assets, and depends on Geely support extended to 31 December 2027, including short-term loans of about GBP 90 million in 2025 (GBP 50 million to repay Santander and GBP 40 million to repay BNP Paribas); its accounts are prepared on a going-concern basis. Its China L380 sales have been weak, and the brand's UK passenger-car entry (L380) had not been formally launched as of the research date.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.telegraph.co.uk/business/2026/09/13/london-black-cab-maker-handed-90m-lifeline-by-chinese-owner/\">[s17]</a></p><p><strong>Technology and product risk:</strong> the next-generation TX is still in development with no launch date, price or specification disclosed, and LEVC has not said whether it will retain the range-extender powertrain; the current TX5 is in the final stage of its lifecycle, so the model change carries execution and driver-acceptance risk, while its diversification products (L380/V900) have yet to gain scale in China.<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a></p>",
+      "zh": "<p><strong>市场风险：</strong>LEVC 的核心市场正在收缩。伦敦持牌出租车司机人数从 2019 年的 20,577 人降至 2025 年底约 16,157 人，公司预计该下降将「逐步、平稳地」持续到 2026 年；销量也从 2024 年的 1272 辆降至 2025 年的 725 辆。LEVC 的营收集中于 TX 出租车与伦敦市场，该市场收缩直接压低销量与规模。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.cityam.com/levc-london-electric-taxi-company-loses-180m/\">[s16]</a></p><p><strong>监管风险：</strong>电子合格证明（eCoC）自 2026 年 7 月 5 日起强制实施，LEVC 自述其现有生产设施与行政流程尚不支持；插电式出租车补贴自 2026 年 4 月起取消，部分地方政府还放宽了出租车排放与车龄规定，进一步削弱了对新型电动出租车的需求。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m\">[s15]</a></p><p><strong>财务风险：</strong>LEVC 持续亏损（2025 年税后本年度亏损约 5500 万英镑）、净资产为负，依赖吉利延至 2027 年 12 月 31 日的资金支持，含 2025 年约 9000 万英镑短期贷款（5000 万英镑偿还桑坦德银行、4000 万英镑偿还法国巴黎银行），账目按持续经营假设编制。其中国 L380 销量低迷，品牌在英国的乘用车产品（L380）截至研究截止日尚未正式开售。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://www.telegraph.co.uk/business/2026/09/13/london-black-cab-maker-handed-90m-lifeline-by-chinese-owner/\">[s17]</a></p><p><strong>技术路线与产品风险：</strong>新一代 TX 仍在开发中，未公布上市时间、价格或规格，LEVC 亦未说明是否保留增程动力；现款 TX5 已进入生命周期末期，产品换代存在执行与司机接受度风险，而多元化产品（L380/V900）在中国尚未打开局面。<a href=\"https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m\">[s14]</a><a href=\"https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/\">[s18]</a></p>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "LEVC official - Company history", "url": "https://www.levc.com/company/history/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "LEVC official - TX taxi product page", "url": "https://www.levc.com/new-models/tx-taxi-overview/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s3", "name": "LEVC press release - Executive leadership change", "url": "https://www.levc.com/news/levc-makes-executive-leadership-change/", "date": "2026-03-26", "tier": "A" },
+    { "id": "s4", "name": "Zhejiang Geely Holding Group - London EV Company page", "url": "https://zgh.com/london-ev-company/?lang=en", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "Companies House - LONDON EV COMPANY LIMITED (08357576) overview and previous names", "url": "https://find-and-update.company-information.service.gov.uk/company/08357576", "date": "2026-10-29", "tier": "A" },
+    { "id": "s6", "name": "Companies House - LEVC persons with significant control", "url": "https://find-and-update.company-information.service.gov.uk/company/08357576/persons-with-significant-control", "date": "2026-10-29", "tier": "A" },
+    { "id": "s7", "name": "Companies House - LEVC full accounts FY2025 (filed 2026-09-08)", "url": "https://find-and-update.company-information.service.gov.uk/company/08357576/filing-history/MzU0MjMzMDk2OWFkaXF6a2N4/document?format=pdf&download=0", "date": "2026-09-08", "tier": "A" },
+    { "id": "s8", "name": "Companies House - LEVC full accounts FY2024 (filed 2025-10-04)", "url": "https://find-and-update.company-information.service.gov.uk/company/08357576/filing-history/MzQ4Mzc3NTU1N2FkaXF6a2N4/document?format=pdf&download=0", "date": "2025-10-04", "tier": "A" },
+    { "id": "s9", "name": "Companies House - LEVC group accounts FY2023 (filed 2024-08-20)", "url": "https://find-and-update.company-information.service.gov.uk/company/08357576/filing-history/MzQzMjE0ODY5NWFkaXF6a2N4/document?format=pdf&download=0", "date": "2024-08-20", "tier": "A" },
+    { "id": "s10", "name": "LEVC press release - TX hits one billion miles milestone", "url": "https://www.levc.com/news/levcs-zero-emission-capable-tx-taxi-hits-one-billion-miles-driven-milestone/", "date": "2025-01-28", "tier": "A" },
+    { "id": "s11", "name": "Geely Australia - Geely Auto Group names Alex Nan CEO of Geely Auto International", "url": "https://geely.com.au/news/geely-auto-group-names-alex-nan-as-ceo-of-geely-auto-international-corporation-powering-global-innovation-and-expansion", "date": "2025-04-29", "tier": "A" },
+    { "id": "s12", "name": "CCTV (央视网) - 吉利银河V900上市", "url": "https://auto.cctv.com/2026/01/21/ARTIwYBdOsYCoTnmot4jZifZ260121.shtml", "date": "2026-01-21", "tier": "A" },
+    { "id": "s13", "name": "BBC News - Electric black cab maker to cut 180 jobs", "url": "https://www.bbc.co.uk/news/articles/c625r0kyn22o", "date": "2025-07-09", "tier": "B" },
+    { "id": "s14", "name": "TaxiPoint - New LEVC TX taxi is planned, but no timescales mentioned (FY2025 accounts)", "url": "https://www.taxi-point.co.uk/post/new-levc-tx-taxi-is-planned-but-no-timescales-mentioned-as-levc-cuts-losses-by-over-110m", "date": "2026-09-11", "tier": "B" },
+    { "id": "s15", "name": "Insider Media - Iconic taxi maker slashes losses by more than GBP 100m", "url": "https://www.insidermedia.com/news/midlands/iconic-taxi-maker-slashes-losses-by-more-than-100m", "date": "2026-09-11", "tier": "B" },
+    { "id": "s16", "name": "City AM - LEVC: London electric taxi company loses GBP 180m", "url": "https://www.cityam.com/levc-london-electric-taxi-company-loses-180m/", "date": "2025-10-07", "tier": "B" },
+    { "id": "s17", "name": "The Telegraph - London black cab maker handed GBP 90m lifeline by Chinese owner", "url": "https://www.telegraph.co.uk/business/2026/09/13/london-black-cab-maker-handed-90m-lifeline-by-chinese-owner/", "date": "2026-09-13", "tier": "B" },
+    { "id": "s18", "name": "CarNewsChina - UK-bound LEVC L380 minivan from Geely to get PHEV variant", "url": "https://carnewschina.com/2025/08/22/uk-bound-levc-l380-minivan-from-geely-to-get-phev-variant/", "date": "2025-08-22", "tier": "B" },
+    { "id": "s19", "name": "CarNewsChina - LEVC L380 with over 800 km all-electric range launches in China", "url": "https://carnewschina.com/2024/06/25/levc-l380-with-over-800-km-all-electric-range-launches-in-china/", "date": "2024-06-25", "tier": "B" },
+    { "id": "s20", "name": "AutoTimes - Large & Mid-Size MPV! Geely Galaxy V900 Makes Its Debut", "url": "https://www.autotimes.net/large-mid-size-mpv-geely-galaxy-v900-makes-its-debut", "date": "2025-11-28", "tier": "B" },
+    { "id": "s21", "name": "Eurekar - LEVC confirms new MPV headed for UK", "url": "https://www.eurekar.co.uk/articles/2024-01-29/levc-confirms-new-mpv-headed-for-uk", "date": "2024-01-29", "tier": "B" },
+    { "id": "s22", "name": "Zhejiang Daily - LEVC launches SOA architecture", "url": "https://zjrb.zjol.com.cn/html/2023-05/30/content_3651766.htm", "date": "2023-05-30", "tier": "B" }
+  ]
+}

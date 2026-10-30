@@ -1,0 +1,273 @@
+{
+  "id": "shangjie",
+  "name_en": "Shangjie (SAIC Shangjie)",
+  "name_zh": "尚界",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand type",
+      "label_zh": "品牌类型",
+      "value_en": "A new-energy vehicle brand of the state-owned SAIC Motor Corporation (Shanghai Stock Exchange 600104.SH), created jointly with Huawei under Huawei's Smart Selection (智选车) model and operated within the Harmony Intelligent Mobility Alliance (HIMA / 鸿蒙智行). Huawei participates in product definition, technology and channel. As a brand rather than a separately incorporated company, Shangjie has no separately disclosed equity structure.",
+      "value_zh": "国有控股的上海汽车集团股份有限公司（上交所 600104.SH）旗下新能源汽车品牌，与华为以「智选车」模式合作打造，隶属鸿蒙智行（HIMA）生态；华为参与产品定义、技术与渠道。作为品牌而非独立法人公司，尚界未单独披露股权结构。",
+      "period": null,
+      "source_ids": ["s1", "s2", "s11"]
+    },
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "16 April 2025, at the HIMA product launch event in Shanghai",
+      "value_zh": "2025 年 4 月 16 日（鸿蒙智行发布会，上海）",
+      "period": null,
+      "source_ids": ["s1", "s21"]
+    },
+    {
+      "label_en": "Ownership and headquarters",
+      "label_zh": "所属与总部",
+      "value_en": "A brand of SAIC Motor, operated within SAIC's passenger-vehicle business and headquartered in Shanghai, China. The parent, SAIC Motor, is state-owned; its actual controller is the Shanghai State-owned Assets Supervision and Administration Commission (Shanghai SASAC).",
+      "value_zh": "上汽集团旗下品牌，由上汽乘用车业务板块运营，总部位于中国上海。母公司上汽集团为国有控股，实际控制人为上海市国有资产监督管理委员会。",
+      "period": null,
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "label_en": "Initial investment",
+      "label_zh": "首期投入",
+      "value_en": "Initial funding of RMB 6.0 billion and a dedicated team of over 5,000 people; a further RMB 1.0 billion added in September 2026 to upgrade the Jinqiao dedicated plant",
+      "value_zh": "首期投入 60 亿元专项资金、组建超 5000 人专属团队；2026 年 9 月再追加 10 亿元用于金桥专属工厂智能化升级",
+      "period": null,
+      "source_ids": ["s11", "s18"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; the parent SAIC Motor is listed on the Shanghai Stock Exchange (600104.SH)",
+      "value_zh": "未单独上市；母公司上汽集团在上交所上市（600104.SH）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "First model",
+      "label_zh": "首款车型",
+      "value_en": "Shangjie H5 (mid-size SUV), launched 23 September 2025, priced RMB 159,800-199,800",
+      "value_zh": "尚界 H5（中型 SUV），2025 年 9 月 23 日上市，售价 15.98 万–19.98 万元",
+      "period": null,
+      "source_ids": ["s4", "s12"]
+    },
+    {
+      "label_en": "Models on sale",
+      "label_zh": "在售车型",
+      "value_en": "Shangjie H5, Shangjie Z7 (mid-to-large pure-electric coupe) and Z7T (shooting brake), covering RMB 159,800-309,800",
+      "value_zh": "尚界 H5（中型 SUV）、尚界 Z7（中大型纯电轿跑）与 Z7T（猎装版），覆盖 15.98 万–30.98 万元区间",
+      "period": null,
+      "source_ids": ["s5", "s6", "s14"]
+    },
+    {
+      "label_en": "Sales (2025)",
+      "label_zh": "2025 年销量",
+      "value_en": "The H5 sold about 25,800 units in 2025 (retail figure cited by Sina Finance from Yiche data); the SAIC 2025 annual report mentions the H5's late-September 2025 launch but does not give a separate full-year sales figure for the brand",
+      "value_zh": "尚界 H5 2025 年全年零售销量约 2.58 万辆（新浪财经转引易车数据）；上汽 2025 年年度报告提及 H5 于 2025 年 9 月下旬投放，但未单独披露品牌全年销量",
+      "period": "2025",
+      "source_ids": ["s19", "s7"]
+    },
+    {
+      "label_en": "Sales (Jan-Aug 2026)",
+      "label_zh": "2026 年 1–8 月销量",
+      "value_en": "Cumulative wholesale sales exceeded 50,000 units (SAIC/Huawei figure); CPCA-linked data put the figure at about 51,800 units, second only to AITO within HIMA",
+      "value_zh": "累计批售超 5 万辆（上汽/华为口径）；乘联分会相关口径约 5.18 万辆，位居鸿蒙智行体系内第二、仅次于问界",
+      "period": "2026-01 to 2026-08",
+      "source_ids": ["s11", "s18", "s22"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01",
+      "event_en": "SAIC Motor applies to register multiple 'Shangjie' (尚界) and 'SAIC Shangjie' (上汽尚界) trademarks, according to corporate-registry data cited by media.",
+      "event_zh": "据媒体报道引述企业信息平台数据，上汽集团申请注册多枚「尚界」「上汽尚界」商标。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2025-02-21",
+      "event_en": "SAIC Motor and Huawei Terminal Co., Ltd. sign a deep-cooperation agreement in Shanghai. SAIC chairman Wang Xiaoqiu and Huawei's Richard Yu (Yu Chengdong) witness the signing; SAIC president Jia Jianxu and Huawei Terminal Smart Selection business president Wang Yanmin sign. The new brand is named Shangjie, uses the Smart Selection model, and all its models are to be sold through HIMA channels.",
+      "event_zh": "上汽集团与华为终端有限公司在上海签署深度合作协议。上汽集团董事长王晓秋、华为余承东见证，上汽集团总裁贾健旭与华为终端智选车业务部总裁汪严旻签约。新品牌命名「尚界」，采用智选车模式，所有车型进入鸿蒙智行渠道销售。",
+      "source_ids": ["s2", "s20"]
+    },
+    {
+      "date": "2025-04-16",
+      "event_en": "SAIC Shangjie is officially unveiled at the HIMA product launch event in Shanghai, becoming Huawei's fifth 'jie' brand after AITO, Luxeed, Stelato and Maextro. SAIC announces RMB 6.0 billion of initial funding and a dedicated team of over 5,000 people; SAIC president Jia Jianxu and Huawei's Yu Chengdong jointly present the brand.",
+      "event_zh": "SAIC 尚界在鸿蒙智行发布会上正式亮相，成为继问界、智界、享界、尊界之后的华为第五「界」。上汽宣布首期投入 60 亿元、组建超 5000 人专属团队；上汽集团总裁贾健旭与华为余承东共同发布品牌。",
+      "source_ids": ["s1", "s21"]
+    },
+    {
+      "date": "2025-09-23",
+      "event_en": "The Shangjie H5 is launched at the HIMA autumn launch event, priced RMB 159,800-199,800 in six versions (extended-range and pure-electric). It is the first HIMA model priced below RMB 200,000 and ships with Huawei Qiankun ADS 4. SAIC announces small orders have exceeded 160,000, with top-trim (Max) versions above 75%.",
+      "event_zh": "尚界 H5 在鸿蒙智行秋季新品发布会上市，售价 15.98 万–19.98 万元，共 6 款车型（增程与纯电）。这是鸿蒙智行首款下探至 20 万元以内的车型，上市即搭载华为乾崑智驾 ADS 4。上汽宣布 H5 小订突破 16 万台，顶配版占比超 75%。",
+      "source_ids": ["s4", "s12"]
+    },
+    {
+      "date": "2025-11-04",
+      "event_en": "HIMA announces the Shangjie H5 delivered over 10,000 units within 43 days of launch.",
+      "event_zh": "鸿蒙智行宣布，尚界 H5 上市 43 天交付突破 1 万台。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2026-04-22",
+      "event_en": "The Shangjie Z7 and Z7T are launched at the HIMA spring launch event. The Z7 is priced RMB 219,800-299,800 and the Z7T RMB 229,800-309,800. Both carry an 896-line lidar, Huawei Qiankun ADS 4.1, the Tuling chassis platform and the 'Whale' 800V battery platform. Orders exceeded 12,000 within 27 minutes of launch; SAIC president Jia Jianxu said cumulative small orders exceeded 80,000, and actor-singer Xiao Zhan was named brand ambassador.",
+      "event_zh": "尚界 Z7、Z7T 在鸿蒙智行春季新品发布会上市，Z7 售价 21.98 万–29.98 万元，Z7T 售价 22.98 万–30.98 万元；全系标配 896 线激光雷达、华为乾崑智驾 ADS 4.1、途灵平台与巨鲸 800V 电池平台。上市 27 分钟大定突破 1.2 万台；上汽总裁贾健旭称 Z7（含 Z7T）小订突破 8 万台，官宣肖战出任品牌代言人。",
+      "source_ids": ["s5", "s14", "s27"]
+    },
+    {
+      "date": "2026-05",
+      "event_en": "The Z7 and Z7T begin customer deliveries in late May 2026.",
+      "event_zh": "尚界 Z7、Z7T 于 2026 年 5 月下旬开启交付。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2026-06-18",
+      "event_en": "A refreshed Shangjie H5 is launched with unchanged pricing (RMB 159,800-199,800) and upgraded equipment, including Huawei Qiankun ADS 5.",
+      "event_zh": "新款尚界 H5 焕新上市，售价保持不变（15.98 万–19.98 万元），配置升级，搭载华为乾崑智驾 ADS 5。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-07",
+      "event_en": "In July 2026 Shangjie sold 11,017 units in total (Z7 6,225, Z7T 2,917, H5 1,875), and the Z7 series passed 20,000 cumulative deliveries within three months of launch, per the Paper.",
+      "event_zh": "据澎湃新闻，2026 年 7 月尚界三款车型合计销量 11017 辆（其中 Z7 交付 6225 辆、Z7T 2917 辆、H5 1875 辆），Z7 系列上市三个月累计交付突破 2 万台。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-07-17",
+      "event_en": "After online rumours that Shangjie would leave HIMA, the Shangjie legal-affairs department posts a statement on its official Weibo calling the reports false, saying the brand is a HIMA ecosystem member with a stable cooperation model and unchanged operations.",
+      "event_zh": "针对网络「尚界脱离鸿蒙智行」传言，尚界汽车法务部官方微博发布声明，称该消息为虚假信息，尚界是上汽集团与华为深度赋能的鸿蒙智行生态成员，合作模式稳定、品牌经营未发生任何变化。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2026-08",
+      "event_en": "At the Chengdu auto show, Shangjie general manager Zhu Yong says SAIC has added about RMB 1.0 billion to upgrade the Jinqiao dedicated plant, and that Z7-series output currently comes mainly from the Nanjing Jiangning plant. Media report the Jinqiao plant has a planned annual capacity of 200,000 units.",
+      "event_zh": "成都车展期间，尚界汽车总经理祝勇表示，上汽追加约 10 亿元升级金桥专属工厂，目前 Z7 系列主要由南京江宁工厂生产。媒体报道金桥工厂规划年产 20 万台。",
+      "source_ids": ["s16", "s15"]
+    },
+    {
+      "date": "2026-09-15",
+      "event_en": "HIMA and AITO issue a statement adjusting their cooperation model: AITO's product definition, marketing and channels are now led by Seres, with Huawei providing technology enablement; HIMA says this does not affect the other four brands, which keep the Huawei-led model.",
+      "event_zh": "鸿蒙智行与问界分别发布新合作模式说明：问界的产品定义、营销、渠道改由赛力斯主导、华为技术赋能，不涉及其他四界，尊界、享界、智界、尚界仍采用华为主导模式。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2026-09-23",
+      "event_en": "SAIC and Huawei Terminal announce they will deepen cooperation on Shangjie, keeping the existing model unchanged and adding RMB 1.0 billion to upgrade the Jinqiao dedicated plant. SAIC and Huawei disclose that Shangjie wholesaled more than 50,000 units in the first eight months of 2026.",
+      "event_zh": "上汽集团与华为终端宣布深化尚界品牌协同合作，保持现有合作模式不变，追加 10 亿元对金桥尚界专属工厂进行智能化升级改造。双方披露 2026 年 1–8 月尚界累计批售超 5 万辆。",
+      "source_ids": ["s11", "s18"]
+    },
+    {
+      "date": "2026-09-24",
+      "event_en": "Huawei's Richard Yu says HIMA will focus resources on four brands (Maextro, Stelato, Luxeed and Shangjie) after AITO is handed to Seres, and confirms Shangjie's next all-new model is a mid-to-large family SUV to be released in autumn 2026.",
+      "event_zh": "华为余承东表示，问界回归赛力斯主导后，鸿蒙智行将聚焦尊界、享界、智界、尚界四界；并确认尚界下一款全新车型定位中大型家用 SUV，计划 2026 年秋季发布。",
+      "source_ids": ["s18", "s26"]
+    },
+    {
+      "date": "2026-09-30",
+      "event_en": "Media report a management reshuffle at Shangjie, confirmed by Shangjie staff to NBD reporters: general manager Zhu Yong is transferred, with Gu Yebin (from the SAIC-GM system) succeeding him; Li Jun (from SAIC Volkswagen) succeeds Yang Siyao as Shangjie marketing head. No formal exchange announcement had been issued as of the cut-off date.",
+      "event_zh": "媒体报道尚界管理层调整，并获尚界方面向每日经济新闻记者确认：尚界汽车总经理祝勇调任，由上汽通用体系出身的顾晔斌接任；上汽大众大众品牌营销事业执行总监李俊接替杨嗣耀担任尚界营销部部长。截至研究截止日未见正式公告。",
+      "source_ids": ["s22", "s23"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Shangjie H5",
+      "name_zh": "尚界 H5",
+      "role_en": "Mid-size SUV; the brand's first model, positioned in the RMB 150,000-200,000 mainstream family segment.",
+      "role_zh": "中型 SUV，品牌首款车型，定位 15 万–20 万元主流家用市场。",
+      "price_band": "RMB 159,800-199,800 (China, launch price, 23 Sep 2025); refreshed 18 June 2026 with unchanged pricing",
+      "founded": 2025,
+      "owner_note_en": "Launched 23 September 2025 in six versions (extended-range and pure-electric) at RMB 159,800-199,800. It is the first HIMA model priced below RMB 200,000 and ships with Huawei Qiankun ADS 4 (upgraded to ADS 5 on the June 2026 refresh) and the HarmonyOS cockpit. The extended-range version has 235 km pure-electric and 1,360 km combined range; the pure-electric version offers up to 655 km CLTC range. SAIC said small orders exceeded 160,000 before launch, and HIMA said 10,000 units were delivered within 43 days. Retail sales were about 25,800 units in 2025 (Yiche data cited by Sina Finance); monthly sales peaked above 10,600 in November 2025 before cooling. The refreshed H5 launched 18 June 2026 with unchanged pricing.",
+      "owner_note_zh": "2025 年 9 月 23 日上市，共 6 款车型（增程与纯电），售价 15.98 万–19.98 万元。为鸿蒙智行首款下探至 20 万元以内的车型，上市即搭载华为乾崑智驾 ADS 4（2026 年 6 月新款升级为 ADS 5）与鸿蒙座舱。增程版纯电续航 235km、综合续航 1360km；纯电版最长 CLTC 续航 655km。上市前小订突破 16 万台，上市 43 天交付破万。2025 年全年零售销量约 2.58 万辆（新浪财经转引易车数据）；月销于 2025 年 11 月冲高至超 1.06 万辆后回落。2026 年 6 月 18 日新款 H5 焕新上市，售价保持不变。",
+      "status": "active",
+      "source_ids": ["s4", "s12", "s13", "s6", "s19"]
+    },
+    {
+      "name_en": "Shangjie Z7",
+      "name_zh": "尚界 Z7",
+      "role_en": "Mid-to-large pure-electric coupe; the brand's volume model since mid-2026.",
+      "role_zh": "中大型纯电轿跑，2026 年年中起成为品牌销量主力。",
+      "price_band": "RMB 219,800-299,800 (China, launch price, 22 Apr 2026)",
+      "founded": 2026,
+      "owner_note_en": "Launched 22 April 2026 in three versions: Max RMB 219,800 (81 kWh LFP battery), Max+ RMB 249,800 (100 kWh ternary battery) and Ultra RMB 299,800 (dual-motor AWD). Standard equipment includes an 896-line dual-beam image-grade lidar, Huawei Qiankun ADS 4.1, the Tuling chassis platform, the 'Whale' 800V battery platform and the HarmonyOS cockpit. The rear-wheel-drive Max+ offers up to 905 km CLTC range with the 100 kWh battery; the Ultra does 0-100 km/h in 3.44 seconds. Orders exceeded 12,000 within 27 minutes of launch; SAIC president Jia Jianxu said cumulative small orders (Z7 and Z7T) exceeded 80,000. The Z7 and Z7T are produced at SAIC's Nanjing Jiangning plant.",
+      "owner_note_zh": "2026 年 4 月 22 日上市，共 3 款车型：Max 21.98 万元（81kWh 磷酸铁锂）、Max+ 24.98 万元（100kWh 三元锂）、Ultra 29.98 万元（双电机四驱）。全系标配 896 线双光路图像级激光雷达、华为乾崑智驾 ADS 4.1、途灵平台、巨鲸 800V 电池平台与鸿蒙座舱。后驱 Max+ 配 100kWh 电池、CLTC 续航最高 905km；Ultra 版零百加速 3.44 秒。上市 27 分钟大定突破 1.2 万台；上汽总裁贾健旭称 Z7（含 Z7T）小订突破 8 万台。Z7/Z7T 由上汽南京江宁工厂生产。",
+      "status": "active",
+      "source_ids": ["s5", "s14", "s10", "s27"]
+    },
+    {
+      "name_en": "Shangjie Z7T",
+      "name_zh": "尚界 Z7T",
+      "role_en": "Shooting-brake (estate) variant of the Z7; HIMA's first shooting-brake model.",
+      "role_zh": "Z7 的猎装版，鸿蒙智行首款猎装车型。",
+      "price_band": "RMB 229,800-309,800 (China, launch price, 22 Apr 2026)",
+      "founded": 2026,
+      "owner_note_en": "Launched 22 April 2026 alongside the Z7, priced RMB 229,800-309,800 (Max RMB 229,800, Max+ RMB 259,800, Ultra RMB 309,800; each version RMB 10,000 above the corresponding Z7). It shares the Z7's platform and equipment (896-line lidar, ADS 4.1, Tuling platform, 'Whale' 800V battery, up to 905 km CLTC range on the 100 kWh version). The Z7 and Z7T are produced at SAIC's Nanjing Jiangning plant; the series began volume delivery in late May 2026 and passed 20,000 cumulative deliveries within three months.",
+      "owner_note_zh": "2026 年 4 月 22 日与 Z7 同步上市，售价 22.98 万–30.98 万元（Max 22.98 万、Max+ 25.98 万、Ultra 30.98 万，各版本较对应 Z7 贵 1 万元）。与 Z7 共享平台与配置（896 线激光雷达、ADS 4.1、途灵平台、巨鲸 800V 电池、100kWh 版 CLTC 最高 905km）。Z7/Z7T 由上汽南京江宁工厂生产，2026 年 5 月下旬开启交付，上市三个月累计交付突破 2 万台。",
+      "status": "active",
+      "source_ids": ["s5", "s14", "s15"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "not applicable (no separate financial disclosure)",
+    "standard": "not applicable (no separate financial disclosure)",
+    "rows": [],
+    "note_en": "Shangjie is a brand of SAIC Motor, not a separately listed or separately reporting company, and does not publish standalone financial statements. The brand therefore has no separate revenue, gross margin, net profit (whether attributable to owners of the parent or to ordinary shareholders) or R&D figures to report, and this table is left empty. For reference, under PRC GAAP the parent SAIC Motor's 2025 annual report discloses total operating revenue of RMB656.244 billion (RMB656,243,812,081.18) and net profit attributable to owners of the parent of RMB10.106 billion (101.06 hundred million yuan). This page presents only publicly disclosed information and does not constitute any trading recommendation.",
+    "note_zh": "尚界为上汽集团旗下品牌，并非单独上市或单独披露报表的公司，不发布独立财务报表，因此品牌层面无单独营收、毛利率、净利润（无论是归属于母公司股东还是归属于普通股股东）或研发投入数据可列示，本表留空。供参考：在中国企业会计准则下，母公司上汽集团 2025 年年度报告披露营业总收入 6562.44 亿元（656,243,812,081.18 元）、归属于上市公司股东的净利润（归母净利润）101.06 亿元。本页仅呈现公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Shangjie (SAIC Shangjie, 尚界) is the new-energy vehicle brand jointly created by the state-owned SAIC Motor Corporation (Shanghai Stock Exchange 600104.SH) and Huawei, operating under Huawei's Harmony Intelligent Mobility Alliance (HIMA). It was unveiled on 16 April 2025 as HIMA's fifth 'jie' brand after AITO (Seres), Luxeed (Chery), Stelato (BAIC) and Maextro (JAC), and uses Huawei's Smart Selection (智选车) model, in which Huawei participates deeply in product definition, design, cockpit and driving-assistance technology, marketing and channel, while SAIC handles manufacturing and the supply chain <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a><a href=\"https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml\">[s2]</a>.</p><p>The brand targets the mainstream RMB 150,000-300,000 new-energy segment, below the pricing of the other HIMA brands. Its first model, the mid-size SUV Shangjie H5, launched on 23 September 2025 at RMB 159,800-199,800 and sold about 25,800 units in 2025 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml\">[s4]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>. Its second model family, the pure-electric coupe Z7 and shooting brake Z7T, launched on 22 April 2026 at RMB 219,800-309,800 and became the brand's volume line <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/64516.shtml\">[s5]</a>.</p><p>In the first eight months of 2026 the brand wholesaled more than 50,000 units <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>. In September 2026, after AITO's operations were handed to Seres, Huawei said HIMA would focus resources on four brands (Maextro, Stelato, Luxeed and Shangjie), leaving Shangjie as the lowest-priced of the four, and confirmed a mid-to-large family SUV for autumn 2026 <a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a><a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>.</p>",
+      "zh": "<p>尚界（SAIC 尚界）是国有控股的上海汽车集团股份有限公司（上交所 600104.SH）与华为联合打造的新能源汽车品牌，隶属华为鸿蒙智行（HIMA）生态。它于 2025 年 4 月 16 日发布，是继问界（赛力斯）、智界（奇瑞）、享界（北汽）、尊界（江淮）之后的鸿蒙智行第五「界」，采用华为「智选车」模式——华为深度参与产品定义、设计、座舱与智驾技术、营销和渠道，上汽负责整车制造与供应链 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a><a href=\"https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml\">[s2]</a>。</p><p>品牌瞄准 15 万–30 万元主流新能源市场，价位低于鸿蒙智行其余「界」。首款车型中型 SUV 尚界 H5 于 2025 年 9 月 23 日上市，售价 15.98 万–19.98 万元，2025 年全年零售销量约 2.58 万辆 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml\">[s4]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。第二款车型家族——纯电轿跑 Z7 与猎装版 Z7T——于 2026 年 4 月 22 日上市，售价 21.98 万–30.98 万元，成为品牌销量主力 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2026/64516.shtml\">[s5]</a>。</p><p>2026 年前 8 个月品牌累计批售超 5 万辆 <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>。2026 年 9 月，问界经营主导权交回赛力斯后，华为宣布鸿蒙智行将聚焦尊界、享界、智界、尚界四界，尚界成为其中定位最亲民的品牌，并计划于 2026 年秋季推出中大型家用 SUV <a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a><a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Business and positioning</h3><p>Shangjie is SAIC's dedicated channel into the mainstream intelligent new-energy market, positioned below SAIC's own premium IM Motors brand and below the other HIMA brands, which mainly sit above RMB 200,000 <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a>. It follows Huawei's Smart Selection model and sells through HIMA channels. As of late September 2026 the brand had nearly 1,000 dealers and about 200 dedicated-network stores, with channel coverage of 75% and near-100% coverage in tier-1 to tier-3 cities <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>. SAIC said it will further push a 'dedicated network + shopping-mall' channel model <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>.</p><h3>Technology</h3><p>The brand's models are built around Huawei's core technology stack: Huawei Qiankun ADS intelligent driving, the HarmonyOS cockpit, the Tuling chassis platform and the Huawei 'Whale' 800V battery platform <a href=\"https://5gai.cctv.com/2026/04/24/ARTItRnNWAES8rdglNhn6CBE260424.shtml\">[s14]</a>. The H5 launched with Qiankun ADS 4, and the refreshed H5 (June 2026) upgraded to ADS 5; the Z7/Z7T carry the 896-line dual-beam image-grade lidar and ADS 4.1, later upgradable to ADS 5 via OTA <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml\">[s4]</a><a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a><a href=\"https://hima.auto/shangjie/z7-z7t/\">[s10]</a>. SAIC contributes chassis engineering and manufacturing; Huawei contributes the intelligent-driving and cockpit stack <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a>.</p><h3>Manufacturing</h3><p>Shangjie models are built within SAIC's passenger-vehicle manufacturing system. The Z7/Z7T are produced at SAIC Motor Passenger Vehicle's Nanjing Jiangning plant <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>. SAIC is also building a dedicated Shangjie plant in Jinqiao, Shanghai with a planned annual capacity of 200,000 units <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>; in September 2026 SAIC added about RMB 1.0 billion to upgrade it to Industry 4.0 standards <a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a>. SAIC's initial investment was RMB 6.0 billion with a dedicated team of over 5,000 people <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>.</p><h3>Safety and performance</h3><p>The Z7/Z7T use a cage body with 91% high-strength steel and aluminium, 14 hot-stamped 2000 MPa steel members in the passenger-cell core structure, and 5.8-times-body-weight roof crush resistance; the 'Whale' 800V battery platform has 15 layers of safety protection; and all versions carry an 896-line lidar plus 36 high-precision sensors. The fastest 0-100 km/h time is 3.44 seconds, 100 km/h-to-zero braking is 33.1 metres, top moose-test speed is 86.2 km/h and minimum turning radius is 5.5 metres <a href=\"https://5gai.cctv.com/2026/04/24/ARTItRnNWAES8rdglNhn6CBE260424.shtml\">[s14]</a><a href=\"https://hima.auto/shangjie/z7-z7t/\">[s10]</a>.</p><h3>Sales trajectory</h3><p>The H5's monthly sales peaked above 10,600 in November 2025 before declining to about 2,700 by May 2026, and the brand's volume centre of gravity then shifted to the Z7 series. In July 2026 the three models sold 11,017 units combined (Z7 6,225, Z7T 2,917, H5 1,875), and the Z7 series passed 20,000 cumulative deliveries within three months of launch <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>. For the first eight months of 2026, wholesale sales exceeded 50,000 units <a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a><a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>; CPCA-linked data put the figure at about 51,800 units, second within HIMA behind AITO <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a>.</p><h3>Geographic scope</h3><p>Shangjie sells only in the domestic Chinese market, and the brand has disclosed no overseas sales volume, exports or overseas production plans. SAIC's own overseas business is led by brands such as MG, which sold more than 300,000 units in Europe in 2025 <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>.</p>",
+      "zh": "<h3>业务与定位</h3><p>尚界是上汽切入主流智能新能源市场的品牌，定位低于上汽自有的高端品牌智己，也低于鸿蒙智行其余主要布局 20 万元以上的「界」 <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a>。品牌采用华为智选车模式，通过鸿蒙智行渠道销售。截至 2026 年 9 月下旬，经销商近 1000 家、专网约 200 家，渠道覆盖率达 75%，一到三线城市近 100% 覆盖 <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>。上汽表示后续将推动「专网＋商超」渠道模式 <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>。</p><h3>技术与平台</h3><p>品牌车型围绕华为核心技术矩阵构建：华为乾崑智驾、鸿蒙座舱、途灵平台与华为巨鲸 800V 电池平台 <a href=\"https://5gai.cctv.com/2026/04/24/ARTItRnNWAES8rdglNhn6CBE260424.shtml\">[s14]</a>。H5 上市即搭载乾崑智驾 ADS 4，2026 年 6 月新款升级为 ADS 5；Z7/Z7T 搭载 896 线双光路图像级激光雷达与 ADS 4.1，并可通过 OTA 升级至 ADS 5 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml\">[s4]</a><a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a><a href=\"https://hima.auto/shangjie/z7-z7t/\">[s10]</a>。上汽贡献底盘工程与制造，华为贡献智驾与座舱全栈技术 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a>。</p><h3>制造与产能</h3><p>尚界车型在上汽乘用车制造体系内生产，Z7/Z7T 由上汽乘用车南京江宁基地生产 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>。上汽同时在建设上海金桥尚界专属工厂，规划年产 20 万台 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>，2026 年 9 月追加约 10 亿元按工业 4.0 标准升级 <a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a>。上汽对尚界首期投入 60 亿元专项资金、组建超 5000 人专属团队 <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>。</p><h3>安全与性能</h3><p>Z7/Z7T 采用高强钢与铝合金占比 91% 的笼式车身，14 处乘员舱核心骨架采用 2000MPa 热成型钢，车顶抗压 5.8 倍车重；华为巨鲸 800V 电池平台具备 15 层安全防护；全系标配 896 线激光雷达等 36 个高精度传感器。零百加速最快 3.44 秒、百公里制动 33.1 米、麋鹿测试最高车速 86.2km/h、最小转弯半径 5.5 米 <a href=\"https://5gai.cctv.com/2026/04/24/ARTItRnNWAES8rdglNhn6CBE260424.shtml\">[s14]</a><a href=\"https://hima.auto/shangjie/z7-z7t/\">[s10]</a>。</p><h3>销量轨迹</h3><p>尚界 H5 月销于 2025 年 11 月冲高至超 1.06 万辆，随后回落，2026 年 5 月降至约 2700 辆，品牌销量重心此后转向 Z7 系列。2026 年 7 月尚界三款车型合计销量 11017 辆（Z7 6225、Z7T 2917、H5 1875），Z7 系列上市三个月累计交付突破 2 万台 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>。2026 年 1–8 月累计批售超 5 万辆 <a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a><a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a>；乘联分会相关口径约 5.18 万辆，位居鸿蒙智行体系内第二、仅次于问界 <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a>。</p><h3>市场范围</h3><p>尚界目前面向国内市场销售，品牌层面未披露海外销量、出口或海外生产计划。上汽集团自身的海外业务以 MG 等品牌为主，2025 年 MG 在欧洲销量超 30 万辆 <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founders and group sponsors</h3><p>Shangjie has no private founder: it was jointly created by SAIC and Huawei. On the SAIC side, chairman Wang Xiaoqiu and president Jia Jianxu have been the public faces of the project; Jia Jianxu presented the brand at the April 2025 launch and the H5 launch, and Huawei's Richard Yu (Yu Chengdong, Huawei's terminal BG chairman) co-presented <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml\">[s4]</a>. The cooperation agreement was signed on 21 February 2025 by SAIC president Jia Jianxu and Huawei Terminal Smart Selection business president Wang Yanmin <a href=\"https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml\">[s2]</a>.</p><h3>Brand-level management</h3><ul><li><strong>Zhu Yong (祝勇)</strong> — general manager of Shangjie and deputy general manager of SAIC Motor Passenger Vehicle. Media report he became SAIC Motor Passenger Vehicle deputy general manager in 2024 and led the SAIC-Huawei cooperation project in that capacity; he appeared publicly as Shangjie general manager, but his exact Shangjie appointment date is not disclosed. He previously worked at Shanghai Volkswagen and in powertrain project-management roles at SAIC's technical centre. As of 26 August 2026 he was still interviewed as Shangjie general manager <a href=\"https://m.nbd.com.cn/articles/2026-08-26/4557661.html\">[s16]</a>. In late September 2026 media reported he would transfer (Leifeng reported to SAIC Gear as deputy general manager), with Gu Yebin as successor; as of the cut-off date no formal announcement had been issued <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>.</li><li><strong>Gu Yebin (顾晔斌)</strong> — reported successor to Zhu Yong as Shangjie general manager, from the SAIC-GM system, with research-and-development, manufacturing and marketing experience, having handled Buick and Cadillac-related marketing; NBD said Shangjie staff confirmed the change to reporters, but no formal announcement had been issued as of the cut-off date <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>.</li><li><strong>Yang Siyao (杨嗣耀)</strong> — Shangjie marketing head (上汽尚界汽车营销部部长) who spoke publicly at the 2026 Chengdu auto show; in late September 2026 media reported he would be succeeded by Li Jun from SAIC Volkswagen <a href=\"https://m.nbd.com.cn/articles/2026-08-26/4557661.html\">[s16]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>.</li><li><strong>Li Jun (李俊)</strong> — previously executive director of SAIC Volkswagen's Volkswagen-brand marketing division; media reported in late September 2026 that he had transferred to Shangjie to succeed Yang Siyao as marketing head <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>.</li></ul><h3>SAIC group level</h3><ul><li><strong>Wang Xiaoqiu (王晓秋)</strong> — chairman and party secretary of SAIC Motor, elected on 10 July 2024; he witnessed the February 2025 signing <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s9]</a><a href=\"https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml\">[s2]</a>.</li><li><strong>Jia Jianxu (贾健旭)</strong> — director, president and deputy party secretary of SAIC Motor, appointed on 10 July 2024; he represented SAIC at the Shangjie brand launch and the H5 and Z7 launches <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s9]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a>.</li></ul><p>SAIC's board biographies are on the official management page <a href=\"https://www.saicmotor.com/chinese/gsgk/glc/index.shtml\">[s8]</a>. The parent company's actual controller is the Shanghai SASAC <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>.</p>",
+      "zh": "<h3>创始与集团层面</h3><p>尚界并无民营创始人，由上汽集团与华为共同打造。上汽方面，董事长王晓秋与总裁贾健旭是项目的公开代表；贾健旭在 2025 年 4 月品牌发布会与 H5 发布会上代表上汽出席，华为常务董事、终端 BG 董事长余承东共同发布 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml\">[s4]</a>。2025 年 2 月 21 日的合作协议由上汽集团总裁贾健旭与华为终端智选车业务部总裁汪严旻签署 <a href=\"https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml\">[s2]</a>。</p><h3>品牌层面管理层</h3><ul><li><strong>祝勇</strong>——尚界汽车总经理、上汽乘用车副总经理。媒体报道其 2024 年出任上汽乘用车副总经理，并以此身份负责上汽与华为合作项目，其后以尚界汽车总经理身份公开亮相；其就任尚界总经理的具体日期未公开披露。他早年任职上海大众，后在上汽集团技术中心担任动力总成项目管理相关职务。截至 2026 年 8 月 26 日，他仍以尚界汽车总经理身份接受采访 <a href=\"https://m.nbd.com.cn/articles/2026-08-26/4557661.html\">[s16]</a>。2026 年 9 月末媒体报称其调任（雷峰网称将赴上汽齿轮担任副总经理），由顾晔斌接任；截至研究截止日未见正式公告 <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>。</li><li><strong>顾晔斌</strong>——媒体报称接替祝勇出任尚界汽车总经理，来自上汽通用体系，拥有研发、制造和营销经历，曾负责别克、凯迪拉克相关营销业务；每日经济新闻称尚界方面已向记者确认信息属实，截至研究截止日未见正式公告 <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>。</li><li><strong>杨嗣耀</strong>——上汽尚界汽车营销部部长，曾在 2026 年成都车展就尚界产品策略公开发言；2026 年 9 月末媒体报称由上汽大众出身的李俊接替其职务 <a href=\"https://m.nbd.com.cn/articles/2026-08-26/4557661.html\">[s16]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>。</li><li><strong>李俊</strong>——原上汽大众大众品牌营销事业执行总监；媒体 2026 年 9 月末报称其已调任尚界，接替杨嗣耀担任尚界汽车营销部部长 <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a><a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>。</li></ul><h3>上汽集团层面</h3><ul><li><strong>王晓秋</strong>——上汽集团董事长、党委书记，2024 年 7 月 10 日当选，见证 2025 年 2 月签约 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s9]</a><a href=\"https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml\">[s2]</a>。</li><li><strong>贾健旭</strong>——上汽集团董事、总裁、党委副书记，2024 年 7 月 10 日获聘，代表上汽出席尚界品牌发布及 H5、Z7 上市发布 <a href=\"https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf\">[s9]</a><a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a>。</li></ul><p>上汽集团董事会成员履历见官方管理层页面 <a href=\"https://www.saicmotor.com/chinese/gsgk/glc/index.shtml\">[s8]</a>。母公司上汽集团实际控制人为上海市国资委 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>。</p>"
+    },
+    "competition": {
+      "en": "<p>Shangjie competes in China's RMB 150,000-300,000 mainstream new-energy segment, the largest and most price-competitive part of the market. The H5 (RMB 159,800-199,800) competes with the BYD Song Plus and other mainstream family SUVs in the RMB 150,000-200,000 band <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a>, while the Z7 (RMB 219,800-299,800) is positioned in the RMB 200,000-plus pure-electric sedan segment, where a Sina Finance report places it against the Xiaomi SU7 <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>. Within HIMA it coexists with AITO, Luxeed, Stelato and Maextro, occupying the lowest price band <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a>. CPCA-linked data put Shangjie's January-August 2026 sales at about 51,800 units, second within HIMA behind AITO <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a>; in July 2026 the AITO brand sold 22,572 units against Shangjie's 11,017 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>.</p><p><strong>Our judgment.</strong> Shangjie's main strength is the combination of Huawei's intelligent-driving and cockpit stack with SAIC's manufacturing and long vehicle-engineering heritage, at prices below the other HIMA brands <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a>. Its main weaknesses are a short track record, small absolute scale relative to top-tier rivals, and single-model dependence: the H5 cooled sharply after its launch peak, and the brand's momentum now rests heavily on the Z7 series <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>. Media have also noted potential positioning overlap with SAIC's own IM brand, whose L6 sits in a similar price band <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>.</p>",
+      "zh": "<p>尚界在中国 15 万–30 万元主流新能源市场参与竞争，这是规模最大、价格竞争最激烈的区间。H5（15.98 万–19.98 万元）在 15 万–20 万元区间对标比亚迪宋 PLUS 等主流家用 SUV <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a>；Z7（21.98 万–29.98 万元）处于 20 万元以上纯电轿车区间，新浪财经报道将其与小米 SU7 对标 <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。在鸿蒙智行体系内部，它与问界、智界、享界、尊界并存，占据最低价位带 <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a>。乘联分会相关数据显示，尚界 2026 年 1–8 月销量约 5.18 万辆，位居鸿蒙智行体系内第二、仅次于问界 <a href=\"https://news.qq.com/rain/a/20260930A06D3C00\">[s22]</a>；作为对比，2026 年 7 月问界系列合计 22572 辆、尚界 11017 辆 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>。</p><p><strong>我们的判断。</strong>尚界的主要优势是把华为智驾与座舱全栈技术与上汽制造及长期的整车工程底蕴结合，且价位低于鸿蒙智行其余品牌 <a href=\"https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml\">[s1]</a>。主要短板是历史短、绝对规模仍小于头部对手，且表现出单一车型依赖：H5 在上市峰值后迅速回落，品牌势头当前高度依赖 Z7 系列 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>。媒体亦提示其与上汽自有智己品牌存在定位重叠，智己 L6 价位带与之相近 <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Huawei's Richard Yu confirmed on 24 September 2026 that Shangjie's next all-new model is a mid-to-large family SUV to be released in autumn 2026 with Huawei's latest intelligent mobility solutions <a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>. Shangjie general manager Zhu Yong said SAIC and Huawei planned four to five models from the outset, and that a new Z7 version would appear in the fourth quarter of 2026 <a href=\"https://m.nbd.com.cn/articles/2026-08-26/4557661.html\">[s16]</a>. SAIC said it will continue to expand the Z and H series, and that the Jinqiao dedicated plant (planned 200,000-unit annual capacity) has been funded for an Industry 4.0 upgrade <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a><a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a>.</p><p><strong>Our judgment.</strong> Whether Shangjie sustains its trajectory depends on three premises: first, broadening a line-up still concentrated in the Z7 series and reversing the H5's post-launch decline; second, converting launch-month order momentum into stable flat-period sales in a crowded segment; and third, keeping the brand's Huawei-supplied intelligence current while managing potential overlap with SAIC's own IM brand <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>. The planned mid-to-large SUV is a step up the price ladder and will test whether the brand can move beyond the RMB 150,000-300,000 mainstream band it currently occupies <a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>. The brand also depends heavily on HIMA channels and on Huawei's driving-assistance brand; with AITO going solo and HIMA refocusing on four brands, the allocation of ecosystem resources is an external variable for Shangjie's future trajectory <a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong>华为余承东于 2026 年 9 月 24 日确认，尚界下一款全新车型定位中大型家用 SUV，计划 2026 年秋季发布，将搭载华为最新智慧出行解决方案 <a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>。尚界汽车总经理祝勇表示，上汽与华为从合作初期即规划约 4–5 款产品，2026 年四季度将推出 Z7 的一个新版本 <a href=\"https://m.nbd.com.cn/articles/2026-08-26/4557661.html\">[s16]</a>。上汽称将持续拓展 Z、H 两大系列，金桥专属工厂（规划年产 20 万台）已获追加资金按工业 4.0 标准升级 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a><a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a>。</p><p><strong>我们的判断。</strong>尚界能否延续势头取决于三个前提：其一，拓宽目前仍集中于 Z7 系列的产品线，并扭转 H5 上市后的回落；其二，在竞争拥挤的区间把上市首月订单动能转化为稳定的平销期销量；其三，在保持华为智驾技术领先的同时，处理好与上汽自有智己品牌的潜在定位重叠 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。规划中的中大型 SUV 是品牌向上的一步，将检验其能否突破目前 15 万–30 万元的主流价格带 <a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>。此外，品牌当前高度依赖鸿蒙智行渠道与华为智驾的品牌号召力，在问界单飞、鸿蒙智行聚焦四界的背景下，生态资源分配与品牌协同将是决定尚界后续走势的外部变量 <a href=\"https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html\">[s26]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Single-model dependence and demand cooling.</strong> The H5 peaked above 10,600 monthly units in November 2025 then fell to about 2,700 by May 2026, and the brand's momentum now rests on the Z7 series; a similar cooling cycle would weigh on overall volume <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>.</li><li><strong>Intense price competition.</strong> Shangjie operates in the most price-competitive RMB 150,000-300,000 segment, where it faces the BYD Song Plus, Xiaomi SU7 and others <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>.</li><li><strong>No separate financial disclosure.</strong> As a brand within SAIC, Shangjie does not report standalone financials, so its profitability cannot be assessed independently <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>.</li><li><strong>Channel dependence on HIMA.</strong> Sales run through Huawei's HIMA channel; any change in the SAIC-Huawei cooperation or HIMA structure would directly affect the brand's distribution. A July 2026 rumour of Shangjie leaving HIMA, later denied, illustrates the sensitivity <a href=\"https://www.jwview.com/jingwei/html/m/07-17/679840.shtml\">[s24]</a>.</li><li><strong>Internal brand overlap.</strong> Media have flagged potential overlap between Shangjie and SAIC's own IM Motors in the RMB 200,000-250,000 band <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>.</li><li><strong>Management transition.</strong> Media reported in late September 2026 that general manager Zhu Yong would be replaced by Gu Yebin; a change of brand leadership during the scale-up phase adds execution uncertainty until a formal announcement is made <a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>.</li><li><strong>Investment and payback.</strong> SAIC has put RMB 6.0 billion of initial funding plus about RMB 1.0 billion for the Jinqiao plant into Shangjie and formed a dedicated team of over 5,000 people; as a new brand without separate financial disclosure, its payback depends on sustained volume growth, and its profitability cannot be independently verified <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a><a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a>.</li></ul>",
+      "zh": "<ul><li><strong>单一车型依赖与需求回落。</strong>H5 于 2025 年 11 月单月销量一度突破 1.06 万辆，随后回落至 2026 年 5 月约 2700 辆，品牌势头当前依赖 Z7 系列；若出现类似降温周期将拖累整体销量 <a href=\"https://thepaper.cn/newsDetail_forward_33826645\">[s15]</a>。</li><li><strong>价格竞争激烈。</strong>尚界处于 15 万–30 万元这一价格竞争最激烈的区间，面对比亚迪宋 PLUS、小米 SU7 等对手 <a href=\"https://www.stcn.com/article/detail/3354016.html\">[s12]</a><a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。</li><li><strong>无单独财务披露。</strong>作为上汽旗下品牌，尚界不单独披露财务，其盈利能力无法独立评估 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf\">[s7]</a>。</li><li><strong>渠道依赖鸿蒙智行。</strong>销售通过华为鸿蒙智行渠道进行，上汽与华为合作或鸿蒙智行体系结构的任何变化都会直接影响品牌分销。2026 年 7 月一度出现的「尚界脱离鸿蒙智行」传言（后被否认）即体现这一敏感性 <a href=\"https://www.jwview.com/jingwei/html/m/07-17/679840.shtml\">[s24]</a>。</li><li><strong>内部品牌重叠。</strong>媒体提示尚界与上汽自有智己品牌在 20 万–25 万元区间存在潜在定位重叠 <a href=\"https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml\">[s19]</a>。</li><li><strong>管理层变动。</strong>媒体 2026 年 9 月末报道总经理祝勇将由顾晔斌接替；在规模化阶段更换品牌一把手，在正式公告落地前增加执行不确定性 <a href=\"https://www.stcn.com/article/detail/4247390.html\">[s23]</a>。</li><li><strong>投入与盈利回报。</strong>上汽对尚界首期投入 60 亿元、追加约 10 亿元建设金桥工厂，并组建超 5000 人专属团队；作为处于投入期且未单独披露财务的新品牌，其投资回收依赖销量规模持续放大，而盈利状况无法独立验证 <a href=\"https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html\">[s11]</a><a href=\"https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml\">[s18]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "上汽集团官网·SAIC尚界品牌首次发布，上汽华为联合推出第五界", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2025/61364.shtml", "date": "2025-04-17", "tier": "A" },
+    { "id": "s2", "name": "上汽集团官网·上汽牵手华为（2月21日签约）", "url": "https://www.saicmotor.com/m/xwzx/mtbd/61022.shtml", "date": "2025-02-25", "tier": "A" },
+    { "id": "s4", "name": "上汽集团官网·尚界，让高端智驾从此不再按价分配（尚界H5上市）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2025/62793.shtml", "date": "2025-09-28", "tier": "A" },
+    { "id": "s5", "name": "上汽集团官网·上汽集团70余载造车底蕴，技术驱动全球化新征程（尚界Z7/Z7T上市）", "url": "https://www.saicmotor.com/chinese/xwzx/mtbd/2026/64516.shtml", "date": "2026-05-21", "tier": "A" },
+    { "id": "s6", "name": "上汽集团官网·半年考上汽答案：不止于稳，更在于新（尚界H5焕新上市）", "url": "https://www.saicmotor.com/m/xwzx/mtbd/2026/64835.shtml", "date": "2026-07-02", "tier": "A" },
+    { "id": "s7", "name": "上海汽车集团股份有限公司2025年年度报告（上交所公告）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-02/600104_20260402_OXOS.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s8", "name": "上汽集团官网·公司管理层（无发布日期，日期为核查访问日）", "url": "https://www.saicmotor.com/chinese/gsgk/glc/index.shtml", "date": "2026-10-29", "tier": "A" },
+    { "id": "s9", "name": "上海汽车集团股份有限公司第八届董事会第二十三次会议决议公告（2024年7月）", "url": "https://www.saicmotor.com/chinese/images/tzzgx/ggb/lsgg/2024nlsgg/2024/7/10/BD822A06BA8748ECA735A8C0E646BF4F.pdf", "date": "2024-07-11", "tier": "A" },
+    { "id": "s10", "name": "鸿蒙智行官网·尚界Z7/Z7T车型页（无发布日期，日期为核查访问日）", "url": "https://hima.auto/shangjie/z7-z7t/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s11", "name": "新华网·上汽集团与华为终端进一步深化协同 共同推动尚界品牌向上", "url": "https://www.news.cn/auto/20260924/664cc4aa3b774a81bc0dc2bfa56b74ef/c.html", "date": "2026-09-24", "tier": "A" },
+    { "id": "s12", "name": "证券时报网·鸿蒙智行最便宜的车型来了！15.98万元起（尚界H5上市）", "url": "https://www.stcn.com/article/detail/3354016.html", "date": "2025-09-23", "tier": "B" },
+    { "id": "s13", "name": "国际在线·鸿蒙智行鹭岛首家尚界专网用户中心开业（H5上市43天交付破万）", "url": "https://auto.cri.cn/20251110/e51a0f7b-96a6-4967-a91e-88462abc4363.html", "date": "2025-11-10", "tier": "B" },
+    { "id": "s14", "name": "央视网数智频道·鸿蒙智行春季新品发布会 多款重磅新品上市（尚界Z7/Z7T）", "url": "https://5gai.cctv.com/2026/04/24/ARTItRnNWAES8rdglNhn6CBE260424.shtml", "date": "2026-04-24", "tier": "B" },
+    { "id": "s15", "name": "澎湃新闻·成都车展 小艺新大脑首次上车，尚界全系亮相成都车展（7月销量拆分、金桥20万台）", "url": "https://thepaper.cn/newsDetail_forward_33826645", "date": "2026-08-22", "tier": "B" },
+    { "id": "s16", "name": "每日经济新闻·追加10亿投入建专属工厂，尚界汽车总经理祝勇：四季度将推新车", "url": "https://m.nbd.com.cn/articles/2026-08-26/4557661.html", "date": "2026-08-26", "tier": "B" },
+    { "id": "s17", "name": "网通社汽车·上汽追加10亿元投资升级金桥尚界专属工厂（页面自注由 AI 创作，正文不再引用）", "url": "https://m.news18a.com/news/storys_300267.html", "date": "2026-09-26", "tier": "C" },
+    { "id": "s18", "name": "央视网生态环境频道·从制造升级到新品落地，上汽与华为携手推动高品质出行", "url": "https://eco.cctv.com/2026/09/23/ARTIQgadZvZomg9CiyXPT2of260923.shtml", "date": "2026-09-23", "tier": "B" },
+    { "id": "s19", "name": "新浪财经·上汽集团2025年净利暴增506%背后（尚界H5全年2.58万辆，易车数据）", "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-04-07/doc-inhtrqcm7351446.shtml", "date": "2026-04-07", "tier": "B" },
+    { "id": "s20", "name": "中国证券网·定了！上汽与华为签约，打造新能源智能汽车（尚界商标申请）", "url": "https://jnzstatic.cs.com.cn/zzb/htmlInfo/8891a1021bec914d9318b7d180264924.html", "date": "2025-02-21", "tier": "B" },
+    { "id": "s21", "name": "中国证券网（上海证券报）·华为和上汽牵手 鸿蒙智行迎来尚界", "url": "https://paper.cnstock.com/html/2025-04/17/content_2050277.htm", "date": "2025-04-17", "tier": "B" },
+    { "id": "s22", "name": "腾讯新闻（每日经济新闻）·鸿蒙智行「最年轻一界」人事变动", "url": "https://news.qq.com/rain/a/20260930A06D3C00", "date": "2026-09-30", "tier": "B" },
+    { "id": "s23", "name": "中国经营报（证券时报网转载）·外部加速抱团、内部深度重组 车企掀起整合大幕（尚界人事调整）", "url": "https://www.stcn.com/article/detail/4247390.html", "date": "2026-10-26", "tier": "B" },
+    { "id": "s24", "name": "中新经纬·尚界汽车辟谣「脱离鸿蒙智行」：品牌经营未发生变化", "url": "https://www.jwview.com/jingwei/html/m/07-17/679840.shtml", "date": "2026-07-17", "tier": "B" },
+    { "id": "s25", "name": "央视网财经·汽车观察：华为与赛力斯合作生变，问界交由赛力斯主导", "url": "https://finance.cctv.com/2026/09/16/ARTIECVaMK0hN2UVpEYuTKnE260916.shtml", "date": "2026-09-16", "tier": "B" },
+    { "id": "s26", "name": "红星资本局（新浪）·上汽10亿元加注尚界、余承东称聚焦「四界」", "url": "https://k.sina.cn/article_7399555658_1b90c424a02001pvwi.html", "date": "2026-09-24", "tier": "B" },
+    { "id": "s27", "name": "界面新闻（腾讯转载）·鸿蒙智行一口气推出五款新车，尚界新车小订突破8万，肖战代言", "url": "https://view.inews.qq.com/a/20260422A081Y100", "date": "2026-04-22", "tier": "B" }
+  ]
+}

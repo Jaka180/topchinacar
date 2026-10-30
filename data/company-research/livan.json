@@ -1,0 +1,346 @@
+{
+  "id": "livan",
+  "name_en": "Livan (睿蓝, LIVAN; Chongqing Livan Automobile Technology Co., Ltd.)",
+  "name_zh": "睿蓝汽车（重庆睿蓝汽车科技有限公司）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2022-01-24 (Chongqing Livan Automobile Technology Co., Ltd. completed registration)",
+      "value_zh": "2022 年 1 月 24 日（重庆睿蓝汽车科技有限公司完成工商注册）",
+      "period": null,
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Chongqing Liangjiang New Area, Chongqing",
+      "value_zh": "重庆市两江新区",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Joint venture (private background): Chongqing Qianli Technology Co., Ltd. holds 55%, Zhejiang Geely Qizheng Automobile Technology Co., Ltd. holds 45%",
+      "value_zh": "合资（民营背景）：重庆千里科技股份有限公司持股 55%，浙江吉利启征汽车科技有限公司持股 45%",
+      "period": null,
+      "source_ids": ["s3", "s5"]
+    },
+    {
+      "label_en": "Controlling shareholder / ultimate beneficial owner",
+      "label_zh": "控股股东 / 最终控制人",
+      "value_en": "Qianli Technology holds 55% and Geely Qizheng holds 45%. Geely Qizheng is wholly owned by Geely Automobile Group Co., Ltd., which is ultimately beneficially wholly owned by Li Shufu and his associates. The listed Geely Automobile Holdings sold its entire 45% stake in February 2024. Public filings state only the 55%/45% shareholding and do not separately designate a controlling person for Livan.",
+      "value_zh": "千里科技持股 55%、吉利启征持股 45%；吉利启征由吉利汽车集团有限公司全资拥有，吉利汽车集团由李书福及其联系人最终实益全资拥有；上市公司吉利汽车控股已于 2024 年 2 月出售全部 45% 股权。公告仅写明 55%/45% 持股比例，未对睿蓝单独认定实际控制人。",
+      "period": null,
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点",
+      "value_en": "Not separately listed; controlling shareholder Qianli Technology is listed on the Shanghai Stock Exchange (601777.SH)",
+      "value_zh": "未单独上市；控股股东千里科技为上交所上市公司（601777.SH）",
+      "period": null,
+      "source_ids": ["s3", "s17"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Livan standalone not disclosed; parent Qianli Technology had 6,949 employees at end-2025",
+      "value_zh": "睿蓝未单独披露；母公司千里科技 2025 年末员工总数 6,949 人",
+      "period": "2025 年末",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Latest fiscal-year revenue / net profit (parent)",
+      "label_zh": "最近财年营收 / 净利润（母公司口径）",
+      "value_en": "Livan standalone not disclosed. Parent Qianli Technology FY2025 (PRC GAAP): revenue RMB 9.999 billion (+42.13%); net profit attributable to shareholders RMB 84.41 million (+110.93%); passenger-vehicle and parts revenue RMB 6.44 billion.",
+      "value_zh": "睿蓝未单独披露。母公司千里科技 2025 财年（中国会计准则）：营业收入 99.99 亿元（同比 +42.13%）；归母净利润 8,440.82 万元（同比 +110.93%）；乘用车及其配件收入 64.40 亿元。",
+      "period": "FY2025",
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Sales volume",
+      "label_zh": "销量",
+      "value_en": "Qianli Technology 2025: total vehicle sales 106,270 units (+83.93%), of which NEV 33,613 (+37.06%); Jan-May 2026: total 35,186 (+22.92%), NEV 2,154 (-86.82%). Media-reported Livan-brand domestic registrations 42,281 units in 2025 (+248.05%) and about 1,600 in Jan-May 2026 (-88%).",
+      "value_zh": "千里科技 2025 年整车销量 106,270 辆（+83.93%），其中新能源汽车 33,613 辆（+37.06%）；2026 年 1–5 月整车 35,186 辆（+22.92%），新能源汽车 2,154 辆（-86.82%）。媒体披露睿蓝品牌 2025 年国内挂牌销量 42,281 辆（+248.05%）、2026 年 1–5 月约 1,600 辆（约 -88%）。",
+      "period": "2025 / 2026 Jan-May",
+      "source_ids": ["s6", "s7", "s19"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1992",
+      "event_en": "Yin Mingshan founded Lifan Motorcycle in Chongqing at age 54, the origin of the group that later became Qianli Technology.",
+      "event_zh": "尹明善 54 岁时在重庆创立力帆摩托车，这是日后千里科技所属集团的前身。",
+      "source_ids": ["s27"]
+    },
+    {
+      "date": "2003",
+      "event_en": "Lifan entered automobile manufacturing, becoming one of China's early private automakers and a leading vehicle exporter.",
+      "event_zh": "力帆进军汽车制造，成为中国较早的民营汽车企业之一，并一度成为国产汽车出口大户。",
+      "source_ids": ["s28"]
+    },
+    {
+      "date": "2010-11",
+      "event_en": "Lifan Co., Ltd. (Lifan Industry (Group) Co., Ltd.) listed on the Shanghai Stock Exchange under code 601777.SH.",
+      "event_zh": "力帆股份在上海证券交易所上市，证券代码 601777.SH。",
+      "source_ids": ["s27", "s28"]
+    },
+    {
+      "date": "2020-08",
+      "event_en": "After years of losses and a debt crisis, Lifan applied for bankruptcy restructuring; annual vehicle sales had collapsed to about 2,000 units.",
+      "event_zh": "经历连年亏损与债务危机后，力帆向法院申请破产重整；当年全年销量仅约 2,000 辆。",
+      "source_ids": ["s27", "s28"]
+    },
+    {
+      "date": "2020-12",
+      "event_en": "Lifan's restructuring completed: the Geely-led Manjianghong Fund became controlling shareholder and Li Shufu-related Chongqing Jianghehui took a stake as an industrial investor, replacing the Yin Mingshan family as controller of the listed company.",
+      "event_zh": "力帆重整完成：吉利主导的满江红基金成为控股股东，李书福控制的重庆江河汇作为产业投资人受让股份，取代尹明善家族成为上市公司实际控制人。",
+      "source_ids": ["s27", "s28"]
+    },
+    {
+      "date": "2021-12",
+      "event_en": "On 13 December 2021 the board of Lifan Technology approved a proposal to jointly establish a battery-swap NEV joint venture with Geely Automobile Holdings in Chongqing Liangjiang New Area.",
+      "event_zh": "2021 年 12 月 13 日，力帆科技董事会通过议案，拟与吉利汽车在重庆两江新区设立换电新能源汽车合资公司。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2022-01",
+      "event_en": "Chongqing Livan Automobile Technology Co., Ltd. was registered on 24 January 2022. Geely designated its wholly owned subsidiary Ningbo Geely Automobile Industrial Co., Ltd. as the investor; Lifan Technology and Ningbo Geely each contributed RMB 300 million for 50% each, with registered capital of RMB 600 million.",
+      "event_zh": "2022 年 1 月 24 日，重庆睿蓝汽车科技有限公司完成工商注册。吉利指定其全资下属公司宁波吉利汽车实业有限公司为投资主体，力帆科技与宁波吉利各出资 3 亿元、各持股 50%，注册资本 6 亿元。",
+      "source_ids": ["s10", "s11", "s12"]
+    },
+    {
+      "date": "2022-02",
+      "event_en": "Livan held its first board meeting on 22 February 2022, electing Lou Yuanfa as chairman and CEO, Zhou Qiang as CFO, and Yang Quankai, Zhou Zongcheng and Cai Jianjun as vice presidents.",
+      "event_zh": "2022 年 2 月 22 日，睿蓝汽车召开第一届董事会第一次会议，选举娄源发为董事长兼 CEO、周强为 CFO，聘任杨全凯、周宗成、蔡建军为副总裁。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2022-06",
+      "event_en": "Livan held its brand launch in June 2022, making its debut before C-end consumers with the \"battery-swap light-mobility populariser\" positioning.",
+      "event_zh": "2022 年 6 月，睿蓝汽车举行品牌发布会，首次面向 C 端消费者亮相，公布\u201c换电轻出行普及者\u201d定位。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2022-12",
+      "event_en": "The Livan 9, the brand's first C-end battery-swap model (a mid-to-large 6/7-seat pure-electric SUV), was launched on 17 December 2022 at a subsidised body price from RMB 109,900.",
+      "event_zh": "2022 年 12 月 17 日，睿蓝首款面向 C 端的换电车型——中大型 6/7 座纯电 SUV 睿蓝 9 上市，补贴后车身价 10.99 万元起。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2023-06",
+      "event_en": "Lifan Technology and Zhejiang Jirun Automobile Co., Ltd. jointly increased capital in Livan by RMB 850 million; Lifan's stake rose from 50% to 55% and Jirun's fell from 50% to 45%, lifting registered capital to RMB 1.45 billion. The change was completed on 26 June 2023.",
+      "event_zh": "2023 年 6 月，力帆科技与浙江吉润共同向睿蓝增资 8.5 亿元，力帆科技持股由 50% 增至 55%、吉润由 50% 降至 45%，注册资本增至 14.5 亿元；2023 年 6 月 26 日完成工商变更。",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2023-09",
+      "event_en": "The Livan 7, a compact pure-electric SUV, was launched on 21 September 2023 with a guide price from RMB 117,700.",
+      "event_zh": "2023 年 9 月 21 日，紧凑型纯电 SUV 睿蓝 7 正式上市，官方指导价 11.77 万元起。",
+      "source_ids": ["s4", "s23"]
+    },
+    {
+      "date": "2024-02",
+      "event_en": "Geely Automobile Holdings' subsidiary Zhejiang Jirun sold its 45% stake in Livan to related party Zhejiang Geely Qizheng for RMB 504 million; after completion the listed company no longer held any interest in Livan, and the group expected a disposal gain of about RMB 117 million.",
+      "event_zh": "2024 年 2 月，吉利汽车控股附属公司浙江吉润以 5.04 亿元向关联方浙江吉利启征出售睿蓝 45% 股权；完成后上市公司吉利汽车控股不再持有睿蓝任何权益，预计录得出售收益约 1.17 亿元。",
+      "source_ids": ["s3", "s14"]
+    },
+    {
+      "date": "2024-07",
+      "event_en": "Megvii co-founder Yin Qi's investment vehicle acquired a 19.91% stake in Lifan Technology from a Geely-related seller for RMB 2.43 billion, becoming the second-largest shareholder.",
+      "event_zh": "2024 年 7 月，旷视科技联合创始人印奇旗下主体以 24.3 亿元受让吉利方面所持力帆科技 19.91% 股份，成为第二大股东。",
+      "source_ids": ["s28"]
+    },
+    {
+      "date": "2024-09",
+      "event_en": "Livan signed a long-term strategic cooperation agreement with Indonesia's ALETRA (PT Aletra Mobil Nusantara) and began building a right-hand-drive EV research facility in Indonesia.",
+      "event_zh": "2024 年 9 月，睿蓝汽车与印尼 ALETRA（PT Aletra Mobil Nusantara）签订长期战略合作协议，并在当地投建右舵电动汽车研发设施。",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2024-11",
+      "event_en": "The Livan 8 seven-seat pure-electric MPV was launched domestically on 15 November 2024, and its right-hand-drive version debuted in Jakarta on 22 November as Livan's first global model; in the same month Megvii co-founder Yin Qi was elected chairman of Lifan Technology.",
+      "event_zh": "2024 年 11 月，睿蓝 8 七座纯电 MPV 于 11 月 15 日国内上市，右舵版于 11 月 22 日在雅加达作为首款全球车首发；同月，旷视科技联合创始人印奇当选力帆科技董事长。",
+      "source_ids": ["s9", "s1"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "Lifan Technology was renamed Chongqing Qianli Technology Co., Ltd.; its stock short name changed from \"Lifan Technology\" to \"Qianli Technology\" on 18 February 2025, with code 601777.SH unchanged.",
+      "event_zh": "2025 年 2 月，力帆科技更名为重庆千里科技股份有限公司，证券简称自 2025 年 2 月 18 日起由\u201c力帆科技\u201d变更为\u201c千里科技\u201d，股票代码 601777.SH 不变。",
+      "source_ids": ["s17", "s18"]
+    },
+    {
+      "date": "2026-04",
+      "event_en": "Qianli Technology released its 2025 annual report (revenue RMB 9.999 billion; net profit attributable to shareholders RMB 84.41 million) and re-filed its H-share listing application with the Hong Kong Stock Exchange.",
+      "event_zh": "2026 年 4 月，千里科技发布 2025 年年报（营业收入 99.99 亿元、归母净利润 8,440.82 万元），并重新向港交所递交 H 股发行上市申请。",
+      "source_ids": ["s2", "s21"]
+    },
+    {
+      "date": "2026-06",
+      "event_en": "Geely Holding chairman Li Shufu said at the 2026 China Auto Chongqing Forum that the group would orderly shut down, merge and transfer \"redundant entities\" under Geely Automobile Group. After Livan-brand Jan-May 2026 registrations fell about 88% year on year, media outlets (without confirmation from Geely) speculated that Livan is among the entities to be consolidated.",
+      "event_zh": "2026 年 6 月，吉利控股董事长李书福在 2026 中国汽车重庆论坛表示，将有序关停并转吉利汽车集团相关\u201c冗余主体\u201d。在睿蓝 2026 年 1–5 月挂牌销量同比大跌约 88% 后，有媒体（未获吉利确认）推测睿蓝为拟整合对象之一。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2026-08",
+      "event_en": "Qianli Technology released its 2026 interim report: H1 revenue RMB 5.12 billion (+22.36%) and net profit attributable to shareholders RMB 78.32 million (+151.25%).",
+      "event_zh": "2026 年 8 月，千里科技发布 2026 年半年度报告：上半年营业收入 51.20 亿元（+22.36%）、归母净利润 7,831.8 万元（+151.25%）。",
+      "source_ids": ["s25"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Livan 7",
+      "name_zh": "睿蓝 7",
+      "role_en": "Compact pure-electric SUV based on the GBRC architecture with battery-swap and fast-charging support; offered with a 120 kW front-drive (450 km CLTC) or 180 kW rear-drive (605 km CLTC) motor",
+      "role_zh": "基于 GBRC 水晶架构的紧凑型纯电 SUV，可充可换；提供 120kW 前驱（CLTC 450 公里）与 180kW 后驱（CLTC 605 公里）两种动力",
+      "price_band": "官网官方指导价 11.57 万元起（2023 年 9 月上市时为 11.77 万元起）/ official website guide price from RMB 115,700 (RMB 117,700 at Sept 2023 launch)",
+      "founded": 2023,
+      "owner_note_en": "Model of the Livan brand (a 55% Qianli Technology / 45% Geely Qizheng joint venture)",
+      "owner_note_zh": "睿蓝品牌旗下车型（睿蓝为千里科技持股 55%、吉利启征持股 45% 的合资品牌）",
+      "status": "active",
+      "source_ids": ["s4", "s23"]
+    },
+    {
+      "name_en": "Livan 9",
+      "name_zh": "睿蓝 9",
+      "role_en": "Mid-to-large 6/7-seat pure-electric SUV with 60-second battery swap; launched at a subsidised body price (battery via subscription or purchase) of RMB 109,900-129,900",
+      "role_zh": "中大型 6/7 座纯电 SUV，支持 60 秒换电；上市时补贴后车身价（电池订阅/另购）10.99 万–12.99 万元",
+      "price_band": "官网官方指导价 15.99 万元起 / official website guide price from RMB 159,900",
+      "founded": 2022,
+      "owner_note_en": "Model of the Livan brand (a 55% Qianli Technology / 45% Geely Qizheng joint venture)",
+      "owner_note_zh": "睿蓝品牌旗下车型（睿蓝为千里科技持股 55%、吉利启征持股 45% 的合资品牌）",
+      "status": "active",
+      "source_ids": ["s4", "s26"]
+    },
+    {
+      "name_en": "Livan 8",
+      "name_zh": "睿蓝 8",
+      "role_en": "Seven-seat pure-electric MPV supporting battery swap and fast charging; launched domestically in November 2024 and sold overseas in right-hand drive as the RL8",
+      "role_zh": "七座纯电 MPV，支持换电与快充；2024 年 11 月国内上市，并以右舵版 RL8 出口海外",
+      "price_band": "2026 款官网官方指导价 12.78 万元起（2024 年 11 月上市时为 13.78 万元起）/ 2026 model-year guide price from RMB 127,800 (RMB 137,800 at Nov 2024 launch)",
+      "founded": 2024,
+      "owner_note_en": "Model of the Livan brand (a 55% Qianli Technology / 45% Geely Qizheng joint venture)",
+      "owner_note_zh": "睿蓝品牌旗下车型（睿蓝为千里科技持股 55%、吉利启征持股 45% 的合资品牌）",
+      "status": "active",
+      "source_ids": ["s4", "s9"]
+    },
+    {
+      "name_en": "Livan X3 PRO",
+      "name_zh": "睿蓝 X3 PRO",
+      "role_en": "Small petrol (fuel) SUV built on an existing Lifan model, launched 13 May 2022; the brand's highest-volume model in 2025 with about 26,500 annual registrations (media-reported)",
+      "role_zh": "基于力帆既有车型打造的小型燃油 SUV，2022 年 5 月 13 日上市；2025 年品牌销量最高车型，媒体披露全年挂牌约 2.65 万辆",
+      "price_band": "官网官方指导价 4.89 万元起（2022 年 5 月上市时 4.99 万–6.79 万元）/ official website guide price from RMB 48,900 (RMB 49,900-67,900 at May 2022 launch)",
+      "founded": 2022,
+      "owner_note_en": "Model of the Livan brand (a 55% Qianli Technology / 45% Geely Qizheng joint venture)",
+      "owner_note_zh": "睿蓝品牌旗下车型（睿蓝为千里科技持股 55%、吉利启征持股 45% 的合资品牌）",
+      "status": "active",
+      "source_ids": ["s4", "s19", "s29"]
+    },
+    {
+      "name_en": "Livan Blue Balloon",
+      "name_zh": "睿蓝蓝气球",
+      "role_en": "A00-segment pure-electric micro car launched in 2025",
+      "role_zh": "A00 级纯电微型车，2025 年上市",
+      "price_band": "官网官方指导价 4.69 万元起 / official website guide price from RMB 46,900",
+      "founded": 2025,
+      "owner_note_en": "Model of the Livan brand (a 55% Qianli Technology / 45% Geely Qizheng joint venture)",
+      "owner_note_zh": "睿蓝品牌旗下车型（睿蓝为千里科技持股 55%、吉利启征持股 45% 的合资品牌）",
+      "status": "active",
+      "source_ids": ["s4"]
+    },
+    {
+      "name_en": "Maple Leaf 60S",
+      "name_zh": "枫叶 60S",
+      "role_en": "B-end battery-swap sedan for the ride-hailing and taxi market, launched 23 February 2022 at RMB 139,800 / 169,800; no longer listed in the current five-model official-website lineup",
+      "role_zh": "面向网约车、出租车 B 端营运市场的换电轿车，2022 年 2 月 23 日上市，售价 13.98 万 / 16.98 万元；不再列于官网当前五款在售车型",
+      "price_band": "上市指导价 13.98 万–16.98 万元 / launch guide price RMB 139,800-169,800",
+      "founded": 2022,
+      "owner_note_en": "Model of the Livan brand, positioned for the B-end operating market",
+      "owner_note_zh": "睿蓝品牌旗下车型，定位 B 端营运市场",
+      "status": "discontinued",
+      "source_ids": ["s12", "s20", "s4"]
+    },
+    {
+      "name_en": "Maple Leaf 80V",
+      "name_zh": "枫叶 80V",
+      "role_en": "B-end battery-swap MPV for the ride-hailing and taxi market with 60-second swap; no longer listed in the current five-model official-website lineup",
+      "role_zh": "面向网约车、出租车 B 端营运市场的换电 MPV，支持 60 秒换电；不再列于官网当前五款在售车型",
+      "price_band": "上市指导价 15.98 万元起 / launch guide price from RMB 159,800",
+      "founded": 2021,
+      "owner_note_en": "Model of the Livan brand, positioned for the B-end operating market",
+      "owner_note_zh": "睿蓝品牌旗下车型，定位 B 端营运市场",
+      "status": "discontinued",
+      "source_ids": ["s12", "s4"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "PRC GAAP",
+    "rows": [],
+    "note_en": "Livan is a non-listed joint-venture brand (55% owned by Chongqing Qianli Technology and 45% by Zhejiang Geely Qizheng) and does not publish standalone audited annual financial statements; its results are consolidated into Qianli Technology (601777.SH, PRC GAAP). Livan company-level figures disclosed through parent/related-party announcements (in RMB): FY2022 revenue RMB 5.839 billion and net profit RMB 15.59 million under Hong Kong Financial Reporting Standards (HKFRS), audited, per Geely Automobile Holdings' HKEX announcement of 20 February 2024; FY2023 revenue RMB 3.484 billion and net loss RMB 622 million under PRC GAAP (disclosed by Lifan Technology on 19 March 2024, not yet finalised by the annual auditor), with total assets RMB 5.731 billion and total equity RMB 860 million as of 31 December 2023; the same Geely Automobile HKEX announcement presented FY2023 revenue of about RMB 3.483 billion and loss after tax of about RMB 622 million under HKFRS (unaudited). Net profit here refers to profit attributable to shareholders of the parent company. Parent Qianli Technology FY2025 (2025 annual report, PRC GAAP): revenue RMB 9.999 billion (+42.13%), net profit attributable to shareholders RMB 84.41 million (+110.93%), net profit attributable to shareholders before non-recurring items RMB -255 million, overall gross margin 10.16%; of which passenger-vehicle and parts revenue RMB 6.44 billion (+52.71%) with segment gross margin 6.06%. H1 2026 (2026 interim report, unaudited, PRC GAAP): revenue RMB 5.12 billion (+22.36%) and net profit attributable to shareholders RMB 78.32 million (+151.25%).",
+    "note_zh": "睿蓝汽车是未单独上市的合资品牌（重庆千里科技持股 55%、浙江吉利启征持股 45%），不单独披露经审计的年度财务报告，其财务并入千里科技（601777.SH，中国会计准则）合并报表。经母公司/关联方公告披露的睿蓝公司层面财务数据（人民币）：2022 年收益 58.39 亿元、除税后净溢利 1,558.84 万元，为香港财务报告准则（HKFRS）口径、经审核，见吉利汽车控股 2024 年 2 月 20 日港交所公告；2023 年营业收入 34.84 亿元、净亏损 6.22 亿元，为中国会计准则口径（力帆科技 2024 年 3 月 19 日披露、尚未经年审会计师最终审定），截至 2023 年 12 月 31 日总资产 57.31 亿元、股东权益 8.60 亿元；同一份吉利汽车港交所公告按香港财务报告准则（未经审核）披露 2023 年收益约 34.83 亿元、除税后净亏损约 6.22 亿元。本处净利润为归属于母公司股东的净利润（归母）口径。母公司千里科技 2025 财年（2025 年年报，中国会计准则）：营业收入 99.99 亿元（+42.13%）、归母净利润 8,440.82 万元（+110.93%）、归母扣非净利润 -2.55 亿元，综合毛利率 10.16%；其中乘用车及其配件收入 64.40 亿元（+52.71%），该业务毛利率 6.06%。2026 年上半年（2026 年半年报，未经审计，中国会计准则）：营业收入 51.20 亿元（+22.36%）、归母净利润 7,831.8 万元（+151.25%）。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Livan (睿蓝, LIVAN) is a battery-swap new-energy vehicle brand established in Chongqing in January 2022 as a joint venture between Ningbo Geely Automobile Industrial Co., Ltd. (a wholly owned subsidiary designated by Geely Automobile Holdings) and Lifan Technology (now Qianli Technology) <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202201/4818620.htm\">[s10]</a>. Built on its in-house GBRC architecture, the lineup spans B-end ride-hailing and taxi models (Maple Leaf 60S and 80V) and C-end retail models (Livan 7, Livan 9, Livan 8, Livan X3 PRO and the Blue Balloon micro car) <a href=\"https://www.livanauto.com/website/brand/about.html\">[s4]</a>. It is now 55% owned by Qianli Technology (601777.SH, formerly Lifan Technology) and 45% by Zhejiang Geely Qizheng, an entity ultimately beneficially wholly owned by Li Shufu and his associates, after the listed Geely Automobile Holdings sold its entire stake in February 2024 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>. After Livan-brand registrations collapsed in January-May 2026, some media outlets speculated that Livan is among the \"redundant entities\" Geely Holding plans to consolidate, though Geely has not named Livan <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>.</p>",
+      "zh": "<p>睿蓝汽车（LIVAN）是 2022 年 1 月在重庆成立的换电新能源汽车品牌，由吉利汽车控股指定其全资下属公司宁波吉利汽车实业有限公司与力帆科技（现千里科技）合资设立 <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202201/4818620.htm\">[s10]</a>。基于自研 GBRC 水晶架构，产品覆盖网约车/出租车 B 端（枫叶 60S、枫叶 80V）与个人 C 端（睿蓝 7、睿蓝 9、睿蓝 8、睿蓝 X3 PRO 及微型车蓝气球）<a href=\"https://www.livanauto.com/website/brand/about.html\">[s4]</a>。目前由千里科技（601777.SH，原力帆科技）持股 55%、浙江吉利启征持股 45%，吉利启征由李书福及其联系人最终实益全资拥有，上市公司吉利汽车控股已于 2024 年 2 月出售全部股权退出 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。2026 年 1–5 月睿蓝品牌挂牌销量大幅下滑，部分媒体猜测睿蓝可能是吉利控股拟整合的\u201c冗余主体\u201d之一，但吉利并未点名睿蓝 <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Ownership and governance</h3><p>As of the research cut-off date, Livan (Chongqing Livan Automobile Technology Co., Ltd.) is held 55% by Chongqing Qianli Technology Co., Ltd. and 45% by Zhejiang Geely Qizheng Automobile Technology Co., Ltd. <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>. Geely Qizheng is wholly owned by Geely Automobile Group Co., Ltd., which is ultimately beneficially wholly owned by Li Shufu and his associates; in February 2024 the listed Geely Automobile Holdings' subsidiary Zhejiang Jirun sold its 45% stake to Geely Qizheng for RMB 504 million in a connected transaction, after which the listed company no longer held any interest in Livan <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>. Qianli Technology is listed on the Shanghai Stock Exchange (601777.SH) and was renamed from Lifan Technology to Chongqing Qianli Technology Co., Ltd. in February 2025 <a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-02/13/nw.D110000zgzqb_20250213_2-B019.htm\">[s18]</a>. Public filings state only the 55%/45% shareholding and do not separately designate a controlling person for Livan.</p><h3>Parent background</h3><p>Livan's controlling shareholder Qianli Technology is the former Lifan Technology, a long-established Chongqing automaker and motorcycle maker founded by Yin Mingshan that went through bankruptcy restructuring in 2020 after a debt crisis, with the vehicle business recovering afterwards under Geely-led and Chongqing Liangjiang investors <a href=\"https://finance.china.com/TMT/13004688/20250214/47969841.html\">[s27]</a>. In November 2024 Megvii co-founder Yin Qi was elected chairman of Lifan Technology, steering the company toward an \"AI + vehicle\" strategy and the Qianli Technology renaming in February 2025 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. Qianli Technology's 2025 annual report shows a \"manufacturing + technology\" structure: the manufacturing segment covers vehicles and motorcycles/general engines (2025 vehicle-and-parts revenue RMB 6.44 billion, up 52.71%; motorcycle and general-engine revenue RMB 2.879 billion), while the technology segment's intelligent-driving business contributed revenue of RMB 350 million <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/601777_20260404_SIXL.pdf\">[s2]</a>.</p><h3>Products and sales</h3><p>According to the official website, Livan currently sells five models: the Livan 7 compact pure-electric SUV (from RMB 115,700), the Livan 9 mid-to-large 6/7-seat pure-electric SUV (from RMB 159,900), the 2026-model Livan 8 seven-seat pure-electric MPV (from RMB 127,800), the Livan X3 PRO small petrol SUV (from RMB 48,900) and the Blue Balloon A00 micro car (from RMB 46,900) <a href=\"https://www.livanauto.com/website/brand/about.html\">[s4]</a>. The earlier Maple Leaf 60S and 80V battery-swap models served the ride-hailing and taxi B-end market and are no longer listed in the current five-model lineup <a href=\"https://m.nbd.com.cn/articles/2022-01-25/2104216.html\">[s12]</a>. Qianli Technology sold 106,270 vehicles in 2025 (+83.93%), of which 33,613 were new-energy vehicles (+37.06%); the production-and-sales report notes that new-energy-vehicle volume includes models produced by related parties Zhejiang Geely Automobile and Zhejiang Haoqing and sold by the company <a href=\"https://epaper.stcn.com/pic/202601/06/30cdc3e7dcf1460c1c319ce44d5dcd2e.pdf\">[s6]</a>. In January-May 2026 total volume was 35,186 units (+22.92%), with new-energy vehicles at 2,154 units (-86.82%) <a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a>. Media reported Livan-brand domestic registrations of 42,281 units in 2025 (+248.05%) and only about 1,600 in January-May 2026 (-88%) <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>.</p><h3>Technology and platform</h3><p>Livan builds its products on the self-developed GBRC (Global Battery Rapid Change) architecture, positioned around \"charge-and-swap integration\" and planned to cover sedans, SUVs, MPVs and even logistics vehicles and light trucks <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a>. The Livan 9 supports 60-second battery swap, 40-minute fast charging, 7 kW home charging and 2 kW slow charging, with a CLTC range of 380 or 470 km <a href=\"https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd\">[s26]</a>. The Livan 7 is offered with a 120 kW front-drive motor (450 km CLTC) or a 180 kW rear-drive motor (605 km CLTC), with body dimensions of 4,690/1,892/1,650 mm and a 2,775 mm wheelbase <a href=\"https://www.livanauto.com/website/brand/about.html\">[s4]</a>. At end-2022 Livan reported over 200 swap stations across 23 cities, with a plan to reach 5,000 stations covering 100-plus cities by 2025 <a href=\"https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd\">[s26]</a>.</p><h3>Manufacturing</h3><p>Livan's production relies on the Chongqing manufacturing base of Qianli Technology (formerly Lifan); the Livan 9 rolled off the line at Livan's Chongqing base in November 2022 <a href=\"https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd\">[s26]</a>. Media analyses note that Geely's original interest in Lifan included its vehicle production licence, production base and Chongqing location <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. Livan's standalone production capacity is not separately disclosed.</p><h3>Overseas business</h3><p>Livan began its overseas push in 2024: in September it signed a long-term strategic cooperation agreement with Indonesia's ALETRA and began building a right-hand-drive EV R&D facility there; in November it launched the Livan 8 (right-hand-drive version named RL8) in Indonesia as its first overseas market <a href=\"https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html\">[s9]</a>. The company has stated it has laid out 17 overseas markets across Southeast Asia, the Middle East, Eastern Europe and Latin America <a href=\"https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html\">[s9]</a>.</p><h3>Latest results</h3><p>In its 2026 interim report (released 24 August 2026, unaudited), Qianli Technology reported H1 revenue of RMB 5.12 billion (+22.36%) and net profit attributable to shareholders of RMB 78.32 million (+151.25%), with net profit attributable to shareholders before non-recurring items of RMB 55.70 million turning positive; intelligent-driving (assisted-driving) revenue was RMB 1.235 billion, about 24.3% of main-business revenue, and passenger-vehicle gross margin rose to 12.7% from 3.3% a year earlier <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-25/601777_20260825_KY72.pdf\">[s25]</a>.</p>",
+      "zh": "<h3>股权与治理</h3><p>截至研究截止日，睿蓝汽车（重庆睿蓝汽车科技有限公司）由重庆千里科技股份有限公司持股 55%、浙江吉利启征汽车科技有限公司持股 45% <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。吉利启征由吉利汽车集团有限公司全资拥有，吉利汽车集团由李书福及其联系人最终实益全资拥有；2024 年 2 月，上市公司吉利汽车控股的附属公司浙江吉润以 5.04 亿元向吉利启征出售睿蓝 45% 股权，构成关连交易，出售后上市公司不再持有睿蓝任何权益 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。千里科技为上交所上市公司（601777.SH），于 2025 年 2 月由力帆科技更名为重庆千里科技 <a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-02/13/nw.D110000zgzqb_20250213_2-B019.htm\">[s18]</a>。公开文件仅写明 55%/45% 的持股比例，未对睿蓝单独认定实际控制人。</p><h3>母公司背景</h3><p>睿蓝的控股股东千里科技即原力帆科技，是由尹明善创立的重庆老牌汽车与摩托车制造商，2020 年因债务危机经历破产重整，重整后由吉利主导与重庆两江方面入主，汽车业务逐步恢复 <a href=\"https://finance.china.com/TMT/13004688/20250214/47969841.html\">[s27]</a>。2024 年 11 月，旷视科技联合创始人印奇当选力帆科技董事长，公司转向\u201cAI+车\u201d战略，并于 2025 年 2 月更名千里科技 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。千里科技 2025 年年报显示其形成\u201c制造+科技\u201d结构：制造板块含汽车与摩托车/通机（2025 年汽车及配件收入 64.40 亿元、同比 +52.71%，摩托车和通机收入 28.79 亿元），科技板块智能驾驶业务收入 3.50 亿元 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/601777_20260404_SIXL.pdf\">[s2]</a>。</p><h3>产品与销量</h3><p>据官网，睿蓝当前在售五款车型：睿蓝 7 紧凑型纯电 SUV（11.57 万元起）、睿蓝 9 中大型 6/7 座纯电 SUV（15.99 万元起）、2026 款睿蓝 8 七座纯电 MPV（12.78 万元起）、睿蓝 X3 PRO 小型燃油 SUV（4.89 万元起）以及蓝气球 A00 级微型车（4.69 万元起）<a href=\"https://www.livanauto.com/website/brand/about.html\">[s4]</a>。此前的枫叶 60S、枫叶 80V 换电车型主攻网约车、出租车 B 端营运市场，现已不再列于当前五款在售车型 <a href=\"https://m.nbd.com.cn/articles/2022-01-25/2104216.html\">[s12]</a>。千里科技 2025 年整车销量 106,270 辆（+83.93%），其中新能源汽车 33,613 辆（+37.06%）；产销快报注明新能源汽车销量包含关联方浙江吉利汽车、浙江豪情生产、由公司对外销售的车型 <a href=\"https://epaper.stcn.com/pic/202601/06/30cdc3e7dcf1460c1c319ce44d5dcd2e.pdf\">[s6]</a>。2026 年 1–5 月整车销量 35,186 辆（+22.92%），其中新能源汽车 2,154 辆（-86.82%）<a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a>。媒体披露睿蓝品牌 2025 年国内挂牌销量 42,281 辆（+248.05%），2026 年 1–5 月仅约 1,600 辆（-88%）<a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。</p><h3>技术与平台</h3><p>睿蓝基于自研 GBRC（Global Battery Rapid Change）换电平台/水晶架构打造产品，定位\u201c充换一体\u201d，规划覆盖轿车、SUV、MPV 乃至物流车、轻卡等 <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a>。睿蓝 9 支持 60 秒换电、40 分钟快充、7kW 家充与 2kW 慢充，CLTC 续航 380 或 470 公里 <a href=\"https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd\">[s26]</a>。睿蓝 7 提供 120kW 前驱（CLTC 450 公里）与 180kW 后驱（CLTC 605 公里）两种动力，车身长宽高 4690/1892/1650 毫米、轴距 2775 毫米 <a href=\"https://www.livanauto.com/website/brand/about.html\">[s4]</a>。截至 2022 年底，睿蓝已建成 200 余座换电站、覆盖 23 城，并曾计划到 2025 年建成 5000 座、覆盖 100 余城市 <a href=\"https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd\">[s26]</a>。</p><h3>制造与产能</h3><p>睿蓝的生产依托千里科技（原力帆）位于重庆的整车制造基地，睿蓝 9 于 2022 年 11 月在睿蓝重庆基地量产下线 <a href=\"https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd\">[s26]</a>。媒体分析指出，吉利当年入主力帆看重其整车生产资质、生产基地与重庆区位 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。睿蓝单独的产能未公开披露。</p><h3>海外业务</h3><p>睿蓝 2024 年启动出海：9 月与印尼 ALETRA 签订长期战略合作协议并投建右舵电动汽车研发设施，11 月以印尼为海外首站推出睿蓝 8（右舵版命名 RL8）<a href=\"https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html\">[s9]</a>。公司称已在东南亚、中东、东欧、拉美布局 17 个海外市场 <a href=\"https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html\">[s9]</a>。</p><h3>最新业绩</h3><p>千里科技 2026 年半年报（2026 年 8 月 24 日披露，未经审计）显示：上半年营业收入 51.20 亿元（+22.36%）、归母净利润 7,831.8 万元（+151.25%），扣非归母净利润 5,569.99 万元扭亏为盈；智能辅助驾驶业务收入 12.35 亿元、约占主营业务收入 24.3%，乘用车毛利率由上年同期的 3.3% 提升至 12.7% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-25/601777_20260825_KY72.pdf\">[s25]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder and founding management</h3><p>Livan has no single founder; it was jointly established in January 2022 by Geely (through Ningbo Geely Automobile Industrial) and Lifan Technology <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202201/4818620.htm\">[s10]</a>. The founder of the parent Lifan group was Yin Mingshan, who founded Lifan Motorcycle in 1992 and led Lifan into automobiles in 2003; his family exited control after the 2020 bankruptcy restructuring <a href=\"https://finance.china.com/TMT/13004688/20250214/47969841.html\">[s27]</a>. At Livan's first board meeting on 22 February 2022, Lou Yuanfa was elected chairman and CEO, Zhou Qiang was appointed CFO, and Yang Quankai, Zhou Zongcheng and Cai Jianjun were appointed vice presidents <a href=\"https://www.huanqiu.com/article/46wnsav7pJy?re=nextnews\">[s20]</a>. According to Huanqiu.com, Lou Yuanfa had previously served as co-president of Lifan Technology and was one of the main creators of Geely's Emgrand product line <a href=\"https://www.huanqiu.com/article/46wnsav7pJy?re=nextnews\">[s20]</a>.</p><h3>Current Livan management</h3><p>Zhou Zongcheng has been chairman and CEO of Livan since February 2023. According to Qianli Technology's H-share listing application, he joined the group in February 2021 as general manager of Chongqing Livan Automobile Manufacturing Co., Ltd., was vice president of Livan Auto from March 2022 to February 2023, and has been chairman and CEO of Livan Auto since February 2023; he was chairman of Lifan Technology (Qianli Technology) from September 2022 to November 2024, and has been president of Qianli Technology since January 2023 <a href=\"https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf\">[s1]</a>. Zhou spent his career largely within the Geely system: from March 2000 to August 2002 he was section chief of the production management department of the assembly plant and plant assistant at Zhejiang Haoqing Automobile Manufacturing Co., Ltd.; from December 2003 to June 2019 he served successively as assembly-plant branch manager, head of production, assistant general manager, vice president, executive vice president and party committee secretary of Zhejiang Kingkong Automobile Co., Ltd.; from June 2019 to August 2021 he was president and chairman of Zhejiang Mingdao Aluminium Co., Ltd.; and since July 2025 he has been a non-executive director of Chongqing Rural Commercial Bank (601963.SH / 1963.HK) <a href=\"https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf\">[s1]</a>. As of April 2024, Cai Jianjun served as Livan vice president and sales-company general manager, and Tang Xiaosheng as head of the Livan research institute <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202404/5218992.htm\">[s16]</a>.</p><h3>Parent (Qianli Technology) management</h3><p>Qianli Technology is chaired by Megvii co-founder Yin Qi (elected chairman on 11 November 2024), with Zhou Zongcheng as president, Wang Jun as co-president (appointed 20 June 2025; formerly president of Huawei's Intelligent Automotive Solution BU) and Zhao Ming as co-chairman (from 2 March 2026; formerly CEO of Honor) <a href=\"https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf\">[s1]</a> <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. The vice-chairmen are Xu Honghu and Li Chuanhai (elected 20 June 2025) and Bao Yi (since 21 February 2025) <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. The leadership section reports only public roles and business experience; no private-life or unverified claims are included.</p><h3>Shareholding and governance</h3><p>After the June 2023 capital increase, Livan's registered capital rose from RMB 600 million to RMB 1.45 billion, with Qianli Technology holding 55% and the Geely side 45% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-06-20/601777_20230620_PAVG.pdf\">[s5]</a>. After the February 2024 sale, the Geely-side 45% is held by Geely Qizheng rather than the listed Geely Automobile Holdings <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>. Livan does not separately disclose its board composition; announcements specify only the 55%/45% shareholding and do not designate a separate controlling person for Livan.</p>",
+      "zh": "<h3>创始人与创始管理层</h3><p>睿蓝无单一创始人，系 2022 年 1 月由吉利（通过宁波吉利汽车实业）与力帆科技共同设立 <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202201/4818620.htm\">[s10]</a>。母公司力帆集团的创始人为尹明善，他于 1992 年创立力帆摩托、2003 年带领力帆进入汽车，其家族在 2020 年破产重整后退出控制权 <a href=\"https://finance.china.com/TMT/13004688/20250214/47969841.html\">[s27]</a>。2022 年 2 月 22 日睿蓝第一届董事会第一次会议选举娄源发为董事长兼 CEO、周强为 CFO，聘任杨全凯、周宗成、蔡建军为副总裁 <a href=\"https://www.huanqiu.com/article/46wnsav7pJy?re=nextnews\">[s20]</a>。据环球网报道，娄源发此前曾任力帆科技联席总裁，并是吉利帝豪产品线的主要创始人之一 <a href=\"https://www.huanqiu.com/article/46wnsav7pJy?re=nextnews\">[s20]</a>。</p><h3>现任睿蓝管理层</h3><p>周宗成自 2023 年 2 月起任睿蓝汽车董事长兼 CEO。据千里科技 H 股上市申请文件，其于 2021 年 2 月加入集团、任重庆睿蓝汽车制造有限公司总经理，2022 年 3 月至 2023 年 2 月任睿蓝汽车副总裁，2023 年 2 月起任睿蓝汽车董事长兼 CEO；2022 年 9 月至 2024 年 11 月任力帆科技（千里科技）董事长，2023 年 1 月起任千里科技总裁 <a href=\"https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf\">[s1]</a>。周宗成长期在吉利体系内任职：2000 年 3 月至 2002 年 8 月在浙江豪情汽车制造有限公司任总装厂生产管理科科长兼总装厂助理；2003 年 12 月至 2019 年 6 月在浙江金刚汽车有限公司历任总装分厂厂长、生产部部长、总经理助理、副总经理、常务副总经理兼党委书记；2019 年 6 月至 2021 年 8 月任浙江铭岛铝业有限公司总裁兼董事长；2025 年 7 月起兼任重庆农村商业银行（601963.SH / 1963.HK）非执行董事 <a href=\"https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf\">[s1]</a>。截至 2024 年 4 月，蔡建军任睿蓝汽车副总裁、销售公司总经理，汤小生任睿蓝汽车研究院院长 <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202404/5218992.htm\">[s16]</a>。</p><h3>母公司（千里科技）管理层</h3><p>千里科技由旷视科技联合创始人印奇任董事长（2024 年 11 月 11 日当选），周宗成任总裁，王军任联席总裁（2025 年 6 月 20 日聘任，曾任华为智能汽车解决方案 BU 总裁），赵明任联席董事长（2026 年 3 月 2 日起，曾任荣耀终端 CEO）<a href=\"https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf\">[s1]</a> <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。副董事长为徐鸿鹄、李传海（2025 年 6 月 20 日当选）与鲍毅（自 2025 年 2 月 21 日起）三人 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。本节仅写公开职务与商业履历，不含私生活、传闻或未经证实的负面说法。</p><h3>股权与治理</h3><p>2023 年 6 月增资后，睿蓝注册资本由 6 亿元增至 14.5 亿元，千里科技持股 55%、吉利方持股 45% <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-06-20/601777_20230620_PAVG.pdf\">[s5]</a>。2024 年 2 月出售后，吉利方 45% 股权由吉利启征持有，而非上市公司吉利汽车控股 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。睿蓝未独立披露董事会构成，公告仅明确 55%/45% 持股比例，未对睿蓝单独认定实际控制人。</p>"
+    },
+    "competition": {
+      "en": "<h3>Positioning</h3><p>Livan has positioned itself since 2022 as a \"battery-swap light-mobility populariser\", targeting the swap-mobility track across ride-hailing, taxi and private-owner markets <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a>. Geely Automobile stated in its February 2024 announcement that Livan's swap business was still at an early stage, with the main resources and continued capital investment expected to go into developing the swap ecosystem and related infrastructure <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>.</p><h3>Strengths</h3><p>Livan's main assets are its in-house GBRC swap platform, access to Geely's R&D and supply chain, and the production base and licence inherited from Lifan <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a> <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. Its B-end ride-hailing business once provided a relatively stable base of operating-fleet demand, with the Maple Leaf 60S aimed at the taxi swap market <a href=\"https://m.nbd.com.cn/articles/2022-01-25/2104216.html\">[s12]</a>.</p><h3>Weaknesses and our assessment</h3><p>Livan's scale is small and its brand presence limited: Qianli Technology's new-energy-vehicle sales fell 86.82% year on year in January-May 2026, Livan-brand registrations fell about 88%, and the official website has been quiet for over a year <a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a> <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>. Our assessment is that Livan's best-selling model in 2025 was the fuel-powered X3 PRO small SUV (about 26,500 annual registrations), and the parent's fuel-vehicle sales grew far faster (+118.50%) than new-energy sales (+37.06%) in 2025, which sits awkwardly with the brand's battery-swap positioning <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a> <a href=\"https://epaper.stcn.com/pic/202601/06/30cdc3e7dcf1460c1c319ce44d5dcd2e.pdf\">[s6]</a>. Given the 2026 sales collapse and the parent's pivot to an \"AI + vehicle\" strategy, our assessment is that Livan is no longer a core growth vehicle for either shareholder; this is our judgement rather than a company statement <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a> <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>.</p>",
+      "zh": "<h3>定位与赛道</h3><p>睿蓝自 2022 年成立即以\u201c换电轻出行普及者\u201d为定位，主攻换电出行赛道，产品覆盖网约车、出租车、私家车等市场 <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a>。吉利汽车 2024 年 2 月公告称，睿蓝换电业务仍处于起步阶段，预期主要资源及持续资金投入将用于发展换电生态及相关基础建设 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。</p><h3>优势</h3><p>睿蓝的主要资产是自研 GBRC 换电平台、吉利在研发与供应链上的支持，以及承自力帆的生产基地与生产资质 <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a> <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。其 B 端网约车业务曾提供相对稳定的营运车队需求，枫叶 60S 即面向出租车换电市场 <a href=\"https://m.nbd.com.cn/articles/2022-01-25/2104216.html\">[s12]</a>。</p><h3>短板与我们的判断</h3><p>睿蓝体量小、品牌声量有限：千里科技 2026 年 1–5 月新能源汽车销量同比 -86.82%，睿蓝品牌挂牌销量同比约 -88%，官网资讯停更逾一年 <a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a> <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。我们的判断：睿蓝 2025 年销量最高的车型是燃油小型 SUV 睿蓝 X3 PRO（全年挂牌约 2.65 万辆），且千里科技 2025 年燃油车型销量增速（+118.50%）远高于新能源（+37.06%），与品牌\u201c换电新能源\u201d的定位存在错位 <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a> <a href=\"https://epaper.stcn.com/pic/202601/06/30cdc3e7dcf1460c1c319ce44d5dcd2e.pdf\">[s6]</a>。综合 2026 年 1–5 月销量崩塌与母公司转向\u201cAI+车\u201d战略，我们的判断是睿蓝对两大股东而言已不再是核心增长载体，这是我们的判断而非公司表述 <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a> <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company statements and targets</h3><p>Livan's early targets were ambitious: according to 21st Century Business Herald, Livan planned to operate 5,000 smart battery-swap stations globally by 2025 <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a>. In 2024 management said it would \"focus on the charge-and-swap integrated niche\" and launch new and upgraded models <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202404/5218992.htm\">[s16]</a>. At the group level, Geely Holding chairman Li Shufu said in June 2026 that the group would orderly shut down, merge and transfer \"redundant entities\" under Geely Automobile Group to concentrate resources on the core listed platform <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>. The parent Qianli Technology has separately pivoted to an \"AI + vehicle\" strategy covering intelligent driving, intelligent cockpit and Robotaxi, and re-filed its H-share listing application in April 2026 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a> <a href=\"https://www.cls.cn/detail/2355883\">[s21]</a>.</p><h3>Our analysis</h3><p>Our assessment is that Livan faces a high risk of being merged, scaled back or wound down within the Geely group, given the 2026 sales collapse, the dormant official website and Li Shufu's explicit consolidation language <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>. This rests on Qianli Technology's January-May 2026 new-energy-vehicle sales being down 86.82% year on year per the production-and-sales report <a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a>, and on the parent's strategic shift toward AI and Robotaxi rather than volume battery-swap vehicles <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. A less likely but possible path is that Livan's swap assets and overseas B-end business are folded into another Geely or Qianli Technology unit. The above is our inference rather than company guidance; as of the research cut-off date the outcome has not been announced.</p>",
+      "zh": "<h3>公司表态与目标</h3><p>睿蓝早期目标激进：据 21 世纪经济报道，睿蓝曾计划到 2025 年在全球运营 5000 座智能换电站 <a href=\"https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html\">[s11]</a>。2024 年管理层表示将\u201c聚焦充换电一体化细分市场\u201d，并推出新车型与升级车型 <a href=\"https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202404/5218992.htm\">[s16]</a>。集团层面，吉利控股董事长李书福 2026 年 6 月表示将有序关停并转吉利汽车集团相关\u201c冗余主体\u201d，集中资源做强核心上市平台 <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。母公司千里科技则另起\u201cAI+车\u201d战略，覆盖智能驾驶、智能座舱与 Robotaxi，并于 2026 年 4 月重新向港交所递交 H 股上市申请 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a> <a href=\"https://www.cls.cn/detail/2355883\">[s21]</a>。</p><h3>我们的分析</h3><p>我们的判断：鉴于 2026 年销量崩塌、官网停更以及李书福明确的整合表述，睿蓝在吉利体系内被合并、收缩或关停的风险较高 <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。该判断依据为千里科技 2026 年 1–5 月新能源汽车销量同比 -86.82%（产销快报）<a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a>，以及母公司战略重心转向 AI 与 Robotaxi、而非走量的换电车型 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。另一种可能性较小但存在的路径是，睿蓝的换电资产与海外 B 端业务被并入吉利或千里科技其他板块。以上为我们的推断而非公司指引；截至研究截止日，相关结果尚未正式公布。</p>"
+    },
+    "risks": {
+      "en": "<h3>Business and sales risk</h3><p>Qianli Technology's new-energy-vehicle sales fell 86.82% year on year in January-May 2026 and Livan-brand registrations fell about 88%, with the official website quiet for over a year, signalling clear operational strain <a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a> <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>.</p><h3>Group-consolidation risk</h3><p>Geely Holding chairman Li Shufu's June 2026 statement on shutting down, merging and transferring \"redundant entities\" creates direct uncertainty over Livan's continued existence, even though Livan was not named <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>.</p><h3>Battery-swap economics</h3><p>Geely Automobile stated in 2024 that Livan's swap business was still at an early stage and would require continued heavy capital investment in the swap ecosystem and infrastructure, a structural cost burden for a small-volume brand <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>.</p><h3>Parent strategy and financial risk</h3><p>Livan's fortunes are tied to Qianli Technology, which has redirected resources toward AI, intelligent driving and Robotaxi rather than volume vehicles <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>. Qianli Technology reported net profit attributable to shareholders before non-recurring items of RMB -255 million and total profit of RMB -137 million in 2025, and its H-share listing remains subject to regulatory approval and market conditions <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/601777_20260404_SIXL.pdf\">[s2]</a> <a href=\"https://www.cls.cn/detail/2355883\">[s21]</a>.</p><h3>Policy and infrastructure risk</h3><p>Scaling battery swapping depends on the swap-station network and industry standards; Livan's swap business is still at an early stage and requires continued infrastructure investment, and if swap standards and policy progress fall short the brand's differentiation may not materialise <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>.</p><h3>Overseas and disclosure risk</h3><p>Livan's exports target markets such as Southeast Asia, which are exposed to local policy, certification and currency risk; its overseas sales and profit contribution are not separately disclosed at the Livan level <a href=\"https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html\">[s9]</a>. Because Livan does not publish standalone financial reports, operating details depend on parent announcements and media reporting, creating information-completeness and lag risk <a href=\"https://stock.stockstar.com/notice/SN2024031900031686.shtml\">[s8]</a>.</p>",
+      "zh": "<h3>经营与销量风险</h3><p>千里科技 2026 年 1–5 月新能源汽车销量同比 -86.82%，睿蓝品牌挂牌销量同比约 -88%，官网资讯停更逾一年，经营承压明显 <a href=\"https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf\">[s7]</a> <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。</p><h3>集团整合风险</h3><p>吉利控股董事长李书福 2026 年 6 月关于关停并转\u201c冗余主体\u201d的表态，使睿蓝的持续经营存在直接不确定性，尽管其未被点名 <a href=\"https://news.qq.com/rain/a/20260622A05JVW00\">[s19]</a>。</p><h3>换电经济性风险</h3><p>吉利汽车 2024 年公告称睿蓝换电业务仍处起步阶段，需持续大量投入换电生态与基础设施，这对小体量品牌构成结构性成本负担 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。</p><h3>母公司战略与财务风险</h3><p>睿蓝命运系于千里科技，而后者已将资源转向 AI、智能驾驶与 Robotaxi，而非走量车型 <a href=\"https://e.chinacqsb.com/html/202507/04/content_497368.html\">[s28]</a>。千里科技 2025 年归母扣非净利润为 -2.55 亿元、利润总额为 -1.37 亿元，H 股上市亦受监管审批与市场环境影响 <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/601777_20260404_SIXL.pdf\">[s2]</a> <a href=\"https://www.cls.cn/detail/2355883\">[s21]</a>。</p><h3>政策与基础设施风险</h3><p>换电模式的规模化依赖换电站网络与行业标准，睿蓝换电业务仍处起步阶段、需持续大量投入基础设施，若换电标准与政策推进不及预期，品牌差异化将难以兑现 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf\">[s3]</a>。</p><h3>海外与披露风险</h3><p>睿蓝以东南亚等市场为主要出口方向，海外业务受当地政策、认证与汇率波动影响；其海外销量与盈利贡献未在睿蓝层面单独披露 <a href=\"https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html\">[s9]</a>。由于睿蓝不单独披露财务报告，其经营细节多依赖母公司公告与媒体报道，存在信息不完整或滞后的风险 <a href=\"https://stock.stockstar.com/notice/SN2024031900031686.shtml\">[s8]</a>。</p>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "Qianli Technology H-share listing application — Directors and Senior Management (HKEX)", "url": "https://www1.hkexnews.hk/app/sehk/2026/108460/a132293/sehk26042702915.pdf", "date": "2026-04-27", "tier": "A" },
+    { "id": "s2", "name": "千里科技 2025年年度报告（上交所）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-04/601777_20260404_SIXL.pdf", "date": "2026-04-04", "tier": "A" },
+    { "id": "s3", "name": "吉利汽车控股：关连交易 出售睿蓝汽车之股权（港交所公告）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0220/2024022000231_c.pdf", "date": "2024-02-20", "tier": "A" },
+    { "id": "s4", "name": "睿蓝汽车官方网站（车型与指导价）", "url": "https://www.livanauto.com/website/brand/about.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "力帆科技：关于向重庆睿蓝汽车科技有限公司增资暨关联交易的公告（临2023-031，上交所）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2023-06-20/601777_20230620_PAVG.pdf", "date": "2023-06-20", "tier": "A" },
+    { "id": "s6", "name": "千里科技：2025年12月产销快报公告（公告编号2026-002）", "url": "https://epaper.stcn.com/pic/202601/06/30cdc3e7dcf1460c1c319ce44d5dcd2e.pdf", "date": "2026-01-06", "tier": "A" },
+    { "id": "s7", "name": "千里科技：2026年5月产销快报公告（公告编号2026-033）", "url": "https://epaper.stcn.com/att/202606/03/ZQ03B090-BB_eBook.pdf", "date": "2026-06-03", "tier": "A" },
+    { "id": "s8", "name": "力帆科技：关于披露控股子公司睿蓝汽车2023年度主要财务数据的提示性公告（临2024-018）", "url": "https://stock.stockstar.com/notice/SN2024031900031686.shtml", "date": "2024-03-19", "tier": "A" },
+    { "id": "s9", "name": "重庆市人民政府网：前10月出口货值同比增长140% 重庆新能源汽车何以“纵横四海”", "url": "https://www.cq.gov.cn/zt/esd/xxjs/202412/t20241204_13857258.html", "date": "2024-12-04", "tier": "A" },
+    { "id": "s10", "name": "上证报·中国证券网：力帆吉利合资公司——睿蓝汽车完成注册", "url": "https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202201/4818620.htm", "date": "2022-01-25", "tier": "B" },
+    { "id": "s11", "name": "21世纪经济报道：挺进万亿换电赛道 吉利与力帆出资6亿元成立合资公司", "url": "https://m.21jingji.com/article/20220125/herald/53b53745a4b847a79087bfecb6e976ab_zaker.html", "date": "2022-01-25", "tier": "B" },
+    { "id": "s12", "name": "每日经济新闻：力帆加速恢复元气 与吉利合资公司定名睿蓝汽车", "url": "https://m.nbd.com.cn/articles/2022-01-25/2104216.html", "date": "2022-01-25", "tier": "B" },
+    { "id": "s13", "name": "中国证券报·中证网：力帆科技拟与控股子公司及其少数股东吉润汽车签订股东协议", "url": "https://cs.com.cn/ssgs/gsxw/202401/t20240117_6385750.html", "date": "2024-01-17", "tier": "B" },
+    { "id": "s14", "name": "每日经济新闻：吉利汽车拟5.04亿元转让睿蓝汽车45%股权 后者去年亏损超6亿元", "url": "https://www.nbd.com.cn/fangchan/articles/3249590", "date": "2024-02-20", "tier": "B" },
+    { "id": "s15", "name": "华夏时报：吉利5.04亿元出售睿蓝45%股权意在放弃？杨学良：大家不要误解", "url": "https://www.chinatimes.net.cn/article/134249.html", "date": "2024-02-21", "tier": "B" },
+    { "id": "s16", "name": "中国证券网：力帆科技携手科大讯飞 开启新能源智能出行新境界", "url": "https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202404/5218992.htm", "date": "2024-04-15", "tier": "B" },
+    { "id": "s17", "name": "经济参考网：力帆科技更名为“千里科技” 冲刺智能出行第一梯队", "url": "https://www.jjckb.cn/20250213/9472df78984a488da4ddc134287dca76/c.html", "date": "2025-02-13", "tier": "B" },
+    { "id": "s18", "name": "中国证券报：千里科技关于公司名称变更完成工商变更登记暨证券简称变更实施公告", "url": "https://epaper.cs.com.cn/zgzqb/html/2025-02/13/nw.D110000zgzqb_20250213_2-B019.htm", "date": "2025-02-13", "tier": "B" },
+    { "id": "s19", "name": "长江商报（经腾讯新闻转载）：睿蓝汽车前5月销量仅1600辆降88% 官网资讯停更一年", "url": "https://news.qq.com/rain/a/20260622A05JVW00", "date": "2026-06-22", "tier": "B" },
+    { "id": "s20", "name": "环球网：睿蓝汽车召开第一届董事会 全面布局换电出行产业", "url": "https://www.huanqiu.com/article/46wnsav7pJy?re=nextnews", "date": "2022-02-22", "tier": "B" },
+    { "id": "s21", "name": "财联社：港股IPO周报（千里科技再度递表）", "url": "https://www.cls.cn/detail/2355883", "date": "2026-04-24", "tier": "B" },
+    { "id": "s22", "name": "全景网投资者关系平台：千里科技 高管团队", "url": "https://ir.p5w.net/c/601777", "date": "2026-10-29", "tier": "B" },
+    { "id": "s23", "name": "平行之家：睿蓝 做电动时代的“吉利帝豪”", "url": "https://www.pingxing.cn/a_zixun/detail/3048223.html", "date": "2023-09-21", "tier": "B" },
+    { "id": "s24", "name": "中证网：千里科技2025年净利润8440.82万元 同比增长110.93%", "url": "https://newzzbcx.cs.com.cn/cxnews.html?name=new20260403232605hdbjsyyc", "date": "2026-04-04", "tier": "B" },
+    { "id": "s25", "name": "千里科技 2026年半年度报告（上交所）", "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-25/601777_20260825_KY72.pdf", "date": "2026-08-25", "tier": "A" },
+    { "id": "s26", "name": "新浪财经/易车：睿蓝9正式上市 补贴后车身售价10.99万起/支持60秒换电", "url": "https://cj.sina.cn/articles/view/1912222221/71fa320d02000z6zd", "date": "2022-12-17", "tier": "B" },
+    { "id": "s27", "name": "中华网财经：力帆，成为过去式", "url": "https://finance.china.com/TMT/13004688/20250214/47969841.html", "date": "2025-02-14", "tier": "B" },
+    { "id": "s28", "name": "重庆商报：千里科技要当车界“第二个华为”", "url": "https://e.chinacqsb.com/html/202507/04/content_497368.html", "date": "2025-07-04", "tier": "B" },
+    { "id": "s29", "name": "汽车之家：售价4.99万起 睿蓝汽车X3 PRO正式上市", "url": "https://m.autohome.com.cn/share/article/1246517", "date": "2022-05-13", "tier": "C" }
+  ]
+}

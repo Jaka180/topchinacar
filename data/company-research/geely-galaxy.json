@@ -1,0 +1,477 @@
+{
+  "id": "geely-galaxy",
+  "name_en": "Geely Galaxy",
+  "name_zh": "吉利银河",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "Unveiled in Hangzhou on 2023-02-23 as a mid-to-high-end NEV series under the Geely brand; upgraded to a standalone brand on 2025-03-03",
+      "value_zh": "2023-02-23 在杭州作为吉利品牌中高端新能源系列发布；2025-03-03 升级为独立品牌",
+      "period": null,
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "label_en": "Owner / group",
+      "label_zh": "所属集团",
+      "value_en": "A mainstream NEV brand of Geely Auto Group, which is a subsidiary of Zhejiang Geely Holding Group (ZGH); consolidated under the listed Geely Automobile Holdings Ltd (0175.HK)",
+      "value_zh": "吉利汽车集团旗下主流新能源品牌；吉利汽车集团为浙江吉利控股集团子公司，纳入港股上市公司吉利汽车控股有限公司（0175.HK）体系",
+      "period": null,
+      "source_ids": ["s27", "s31"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private",
+      "value_zh": "民营",
+      "period": null,
+      "source_ids": ["s27"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点和代码",
+      "value_en": "Not separately listed; part of Geely Automobile Holdings Ltd (0175.HK), listed on the Hong Kong Stock Exchange",
+      "value_zh": "未单独上市；属港交所上市主体吉利汽车控股有限公司（0175.HK）",
+      "period": null,
+      "source_ids": ["s31"]
+    },
+    {
+      "label_en": "Positioning",
+      "label_zh": "定位",
+      "value_en": "Mainstream new-energy brand (PHEV and BEV), covering A0 to C-segment sedans, SUVs and MPVs plus hard-core off-roaders; self-described as a leader of premium new-energy vehicles",
+      "value_zh": "主流新能源品牌（插混+纯电），覆盖 A0 级到 C 级轿车、SUV、MPV 及硬派越野；官方自述定位为「新能源精品车引领者」",
+      "period": null,
+      "source_ids": ["s6", "s30"]
+    },
+    {
+      "label_en": "Brand slogan / value proposition",
+      "label_zh": "品牌口号/价值主张",
+      "value_en": "\"Build smart, high-value cars for everyone, for a better life\"; the \"high quality, fair price\" route",
+      "value_zh": "「造每个人的智能精品车，为美好生活而来」；走「高质优价」路线",
+      "period": null,
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "label_en": "2023 sales",
+      "label_zh": "2023 年销量",
+      "value_en": "Over 83,000 units in about 7 months from the first model launch (2023-05-31 to end-2023), not a full calendar year",
+      "value_zh": "自首款车 L7 上市（2023-05-31）至年底约 7 个月销量突破 8.3 万辆（非完整自然年）",
+      "period": "2023 (from launch)",
+      "source_ids": ["s20"]
+    },
+    {
+      "label_en": "2024 sales",
+      "label_zh": "2024 年销量",
+      "value_en": "494,000 units, +80% year on year (company-disclosed growth; comparable base not stated in the source)",
+      "value_zh": "49.4 万辆，同比增长 80%（公司披露，所引出处未给出同比基数）",
+      "period": "2024",
+      "source_ids": ["s8"]
+    },
+    {
+      "label_en": "2025 sales",
+      "label_zh": "2025 年销量",
+      "value_en": "About 1.24 million units, +150% year on year; fastest brand to reach one million annual NEV sales (29 months after the L7 launch)",
+      "value_zh": "约 124 万辆，同比增长 150%；自 L7 发布起 29 个月成为最快达成新能源年销百万的品牌",
+      "period": "2025",
+      "source_ids": ["s13", "s27"]
+    },
+    {
+      "label_en": "H1 2026 sales",
+      "label_zh": "2026 上半年销量",
+      "value_en": "About 520,000 units, -5% year on year (interim results basis); June 2026 reached 108,206 units, +20% year on year",
+      "value_zh": "约 52 万辆，同比下降 5%（中报口径）；2026 年 6 月单月 108,206 辆，同比增长 20%",
+      "period": "2026 H1",
+      "source_ids": ["s15", "s16"]
+    },
+    {
+      "label_en": "2026 sales target",
+      "label_zh": "2026 年销量目标",
+      "value_en": "1.55 million units, +25% year on year (company target)",
+      "value_zh": "155 万辆，同比增长 25%（公司目标）",
+      "period": "2026",
+      "source_ids": ["s17"]
+    },
+    {
+      "label_en": "Cumulative sales",
+      "label_zh": "累计销量",
+      "value_en": "Over 2.3 million units cumulatively by mid-2026 (company statement)",
+      "value_zh": "截至 2026 年年中累计销量超 230 万辆（公司口径）",
+      "period": null,
+      "source_ids": ["s16"]
+    },
+    {
+      "label_en": "Overseas models",
+      "label_zh": "海外车型",
+      "value_en": "Exported under the Geely name: the EX5 (Galaxy E5) in more than 40 markets, and the STARRAY EM-i (Starship 7 EM-i) in more than 10 countries",
+      "value_zh": "以 Geely 名义出口：EX5（银河 E5）进入 40 余个市场，STARRAY EM-i（星舰 7 EM-i）进入 10 余个国家",
+      "period": null,
+      "source_ids": ["s27", "s28"]
+    },
+    {
+      "label_en": "Peak monthly sales",
+      "label_zh": "单月销量峰值",
+      "value_en": "127,476 units in October 2025, +101% year on year",
+      "value_zh": "2025 年 10 月单月 127,476 辆，同比增长 101%",
+      "period": "2025-10",
+      "source_ids": ["s21"]
+    },
+    {
+      "label_en": "Key technology platforms",
+      "label_zh": "主要技术平台",
+      "value_en": "SEA, GEA and GTA architectures, NordThor EM hybrid systems (EM-i / EM-P / EM-T), Aegis battery safety system, Flyme Auto / Galaxy N OS cockpit, Qianli Haohan intelligent driving",
+      "value_zh": "SEA、GEA、GTA 架构，雷神 EM 电混（EM-i / EM-P / EM-T），神盾电池安全系统，Flyme Auto / 银河 N OS 座舱，千里浩瀚智能驾驶",
+      "period": null,
+      "source_ids": ["s4", "s8", "s16"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2023-02-23",
+      "event_en": "Geely unveils the Galaxy series in Hangzhou as a mid-to-high-end NEV series under the Geely brand, with a dedicated logo, the Aegis battery safety system, the NordThor 8848 hybrid system and the Galaxy N OS; the Galaxy L7 is premiered with a 7-model, 2-year product plan",
+      "event_zh": "吉利在杭州发布吉利银河，作为吉利品牌旗下中高端新能源系列，采用全新标识，发布神盾电池安全系统、雷神电混 8848、银河 N OS，首发银河 L7，规划两年内推 7 款车型",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2023-04-23",
+      "event_en": "The first Galaxy model rolls off the production line",
+      "event_zh": "吉利银河首款车正式下线",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2023-05-31",
+      "event_en": "The Galaxy L7, the first model (a plug-in hybrid SUV), goes on sale at an official guidance price of RMB 138,700-173,700",
+      "event_zh": "首款车型银河 L7（智能电混 SUV）上市，官方指导价 13.87 万-17.37 万元",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023-09-16",
+      "event_en": "The Galaxy L6, the first plug-in hybrid sedan in the series, is launched at RMB 115,800-149,800",
+      "event_zh": "首款智能电混轿车银河 L6 上市，售价 11.58 万-14.98 万元",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2024-01-05",
+      "event_en": "The Galaxy E8, the series' first pure-electric flagship sedan based on the SEA architecture, is launched at RMB 175,800-228,800",
+      "event_zh": "基于 SEA 浩瀚架构的银河 E8 纯电旗舰轿车上市，售价 17.58 万-22.88 万元",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2024-08-03",
+      "event_en": "The Galaxy E5, the first pure-electric SUV and a global left/right-hand-drive model, is launched in Guiyang at a time-limited price of RMB 109,800-145,800",
+      "event_zh": "首款纯电 SUV 银河 E5 在贵阳全球上市（左右舵同步开发的全球车型），限时先享价 10.98 万-14.58 万元",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2024-10-09",
+      "event_en": "The Geome (formerly Geometry) series is merged into Galaxy as its smart compact-car line, and the Xingyuan A0 BEV is launched at RMB 69,800-98,800",
+      "event_zh": "几何系列正式并入银河，成为智能精品小车系列（GEOME），A0 级纯电小车星愿上市，售价 6.98 万-9.88 万元",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2024-12-06",
+      "event_en": "The Galaxy Starship 7 EM-i, the first PHEV SUV on the GEA architecture, is launched in Taizhou at a time-limited price of RMB 99,800-132,800",
+      "event_zh": "基于 GEA 新能源专属架构的首款电混 SUV 银河星舰 7 EM-i 在台州上市，限时先享价 9.98 万-13.28 万元",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2025-03-03",
+      "event_en": "Galaxy is upgraded from a series to a standalone brand; the LEVC (Yizhen) premium MPV line is merged into it, and the Qianli Haohan (G-ASD) intelligent driving system with H1-H9 tiers is unveiled",
+      "event_zh": "银河系列升级为独立品牌，翼真（LEVC）高端 MPV 系列并入，发布「千里浩瀚」智能驾驶系统（H1-H9 五个层级）",
+      "source_ids": ["s7", "s8"]
+    },
+    {
+      "date": "2025-05-09",
+      "event_en": "The Galaxy Xingyao 8, the brand's first mid-to-high-end PHEV sedan, is launched at a time-limited price of RMB 115,800-155,800",
+      "event_zh": "品牌首款中高级电混轿车银河星耀 8 上市，限时价 11.58 万-15.58 万元",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2025-09-17",
+      "event_en": "The Galaxy M9, a full-size six-seat flagship PHEV SUV, is launched in Hangzhou at a time-limited price of RMB 173,800-238,800",
+      "event_zh": "大六座旗舰 SUV 银河 M9 在杭州上市，上市限时指导价 17.38 万-23.88 万元",
+      "source_ids": ["s11", "s19"]
+    },
+    {
+      "date": "2025-10",
+      "event_en": "Galaxy reaches one million year-to-date sales ahead of schedule in October 2025. CCTV reported 1,002,461 units in January-October and 127,476 units in October alone (+101% year on year). Chexun reported about 1.002 million units for January-October, +187% year on year",
+      "event_zh": "2025 年 10 月提前达成「年销百万」。央视网：1-10 月累计 1,002,461 辆，10 月单月 127,476 辆、同比 +101%。车讯网：前 10 月累销约 100.2 万辆，同比 +187%",
+      "source_ids": ["s21", "s33"]
+    },
+    {
+      "date": "2026-01-20",
+      "event_en": "The Galaxy V900, the flagship MPV of the premium V series (extended-range), is launched at a time-limited price of RMB 269,800-329,800",
+      "event_zh": "豪华 V 系列首款旗舰 MPV 银河 V900（增程）上市，限时指导价 26.98 万-32.98 万元",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2026-06",
+      "event_en": "June 2026 sales reach 108,206 units (+20% year on year) and first-half cumulative sales pass 510,000; the company said the brand ranked among the top three NEV brands by sales globally (company statement)",
+      "event_zh": "2026 年 6 月单月销量 108,206 辆（同比 +20%），上半年累计突破 51 万辆；公司称银河跻身新能源汽车品牌销量全球前三（公司口径）",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2026-08-02",
+      "event_en": "Geely Auto Group establishes a unified sales corporation; Lin Jie becomes its general manager (also general manager of Zeekr sales), Fan Junyi its executive deputy general manager overseeing Galaxy, and Guan Jiuyang executive deputy general manager of the Galaxy sales company",
+      "event_zh": "吉利汽车集团成立销售总公司，林杰任总经理（兼极氪销售公司总经理），范峻毅任常务副总经理并分管银河，关久旸任银河销售公司常务副总经理",
+      "source_ids": ["s23"]
+    },
+    {
+      "date": "2026-08-17",
+      "event_en": "Geely Automobile Holdings (0175.HK) announces a leadership change effective 2026-08-18: Li Shufu resigns as chairman and becomes honorary chairman for life; An Conghui becomes chairman, Gan Jiayue becomes CEO, and Gui Shengyue moves to vice-chairman",
+      "event_zh": "吉利汽车控股（0175.HK）公告（自 2026-08-18 生效）管理层调整：李书福辞任董事长、转任名誉主席，安聪慧任董事长，淦家阅任行政总裁，桂生悦转任副主席",
+      "source_ids": ["s24"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Galaxy L7",
+      "name_zh": "银河 L7",
+      "role_en": "First model; compact plug-in hybrid SUV (e-CMA + Aegis battery + NordThor 8848)",
+      "role_zh": "首款车型，紧凑型智能电混 SUV（e-CMA 架构+神盾电池+雷神电混 8848）",
+      "price_band": "RMB 138,700-173,700 (launch guidance)",
+      "founded": 2023,
+      "owner_note_en": "Launched 2023-05-31",
+      "owner_note_zh": "2023-05-31 上市",
+      "status": "active",
+      "source_ids": ["s2"]
+    },
+    {
+      "name_en": "Galaxy L6",
+      "name_zh": "银河 L6",
+      "role_en": "Compact plug-in hybrid sedan",
+      "role_zh": "紧凑型智能电混轿车",
+      "price_band": "RMB 115,800-149,800 (launch guidance)",
+      "founded": 2023,
+      "owner_note_en": "Launched 2023-09-16; the L6 EM-i refresh launched on 2025-02-12 at an official guidance price of RMB 82,800-109,800 and a time-limited advance price of RMB 79,800-106,800",
+      "owner_note_zh": "2023-09-16 上市；2025-02-12 改款 L6 EM-i 上市，官方指导价 8.28 万-10.98 万元，限时先享价 7.98 万-10.68 万元",
+      "status": "active",
+      "source_ids": ["s3", "s26", "s34"]
+    },
+    {
+      "name_en": "Galaxy E8",
+      "name_zh": "银河 E8",
+      "role_en": "Mid-to-large pure-electric sedan (SEA architecture)",
+      "role_zh": "中大型纯电旗舰轿车（SEA 浩瀚架构）",
+      "price_band": "RMB 175,800-228,800 (launch guidance)",
+      "founded": 2024,
+      "owner_note_en": "Launched 2024-01-05",
+      "owner_note_zh": "2024-01-05 上市",
+      "status": "active",
+      "source_ids": ["s4"]
+    },
+    {
+      "name_en": "Galaxy E5 (Geely EX5 overseas)",
+      "name_zh": "银河 E5（海外名 Geely EX5）",
+      "role_en": "Compact pure-electric SUV; global left/right-hand-drive model",
+      "role_zh": "紧凑型纯电 SUV，左右舵同步开发的全球车型",
+      "price_band": "RMB 109,800-145,800 (time-limited launch price)",
+      "founded": 2024,
+      "owner_note_en": "Launched 2024-08-03 in Guiyang; exported as the Geely EX5, with 2025 annual sales over 160,000 units and cumulative sales over 230,000",
+      "owner_note_zh": "2024-08-03 在贵阳全球上市；海外以 Geely EX5 名义销售，2025 年全年销量超 16 万辆、累计超 23 万辆",
+      "status": "active",
+      "source_ids": ["s5", "s27"]
+    },
+    {
+      "name_en": "Geely Xingyuan (Geome)",
+      "name_zh": "吉利星愿（GEOME）",
+      "role_en": "A0-segment pure-electric hatchback; first Geome (ex-Geometry) model",
+      "role_zh": "A0 级纯电小车，几何并入后 GEOME 精品小车系列首款车型",
+      "price_band": "RMB 69,800-98,800 (launch guidance)",
+      "founded": 2024,
+      "owner_note_en": "Launched 2024-10-09; exceeded 40,000 monthly sales for seven consecutive months in 2025 with cumulative sales over 530,000 by end-2025 and over 780,000 by mid-2026",
+      "owner_note_zh": "2024-10-09 上市；2025 年连续 7 个月月销破 4 万、年底累计超 53 万辆，截至 2026 年年中累计超 78 万辆",
+      "status": "active",
+      "source_ids": ["s6", "s27", "s16"]
+    },
+    {
+      "name_en": "Galaxy Starship 7 EM-i (Geely STARRAY EM-i overseas)",
+      "name_zh": "银河星舰 7 EM-i（海外名 Geely STARRAY EM-i）",
+      "role_en": "Compact plug-in hybrid SUV; first PHEV on the GEA architecture (NordThor EM-i)",
+      "role_zh": "紧凑型电混 SUV，基于 GEA 架构的首款电混 SUV（雷神 EM-i 超级电混）",
+      "price_band": "RMB 99,800-132,800 (time-limited launch price)",
+      "founded": 2024,
+      "owner_note_en": "Launched 2024-12-06; earned a Euro NCAP five-star rating in December 2025",
+      "owner_note_zh": "2024-12-06 上市；2025 年 12 月获 Euro NCAP 五星安全认证",
+      "status": "active",
+      "source_ids": ["s18", "s28"]
+    },
+    {
+      "name_en": "Galaxy Xingyao 8",
+      "name_zh": "银河星耀 8",
+      "role_en": "Mid-to-high-end plug-in hybrid sedan",
+      "role_zh": "中高级电混轿车",
+      "price_band": "RMB 115,800-155,800 (time-limited launch price)",
+      "founded": 2025,
+      "owner_note_en": "Launched 2025-05-09; cumulative sales over 90,000 units by mid-2026",
+      "owner_note_zh": "2025-05-09 上市；截至 2026 年年中累计销量超 9 万辆",
+      "status": "active",
+      "source_ids": ["s9", "s16"]
+    },
+    {
+      "name_en": "Galaxy A7",
+      "name_zh": "银河 A7",
+      "role_en": "Mainstream plug-in hybrid / pure-electric family sedan (first model of the EM AI Super Hybrid)",
+      "role_zh": "主流电混/纯电家用轿车（雷神 EM AI 超级电混首搭车型）",
+      "price_band": "not separately disclosed in this study",
+      "founded": 2025,
+      "owner_note_en": "Launched in 2025 (company said deliveries topped 40,000 within three months of launch); the 2026-model A7 EM and A7 EV were launched in 2026",
+      "owner_note_zh": "2025 年上市（官方称上市不到 3 个月交付破 4 万）；2026 款 A7 EM 与 A7 EV 于 2026 年上市",
+      "status": "active",
+      "source_ids": ["s21", "s16"]
+    },
+    {
+      "name_en": "Galaxy Xingyao 7 MAX",
+      "name_zh": "银河星耀 7 MAX",
+      "role_en": "Mid-size sedan",
+      "role_zh": "中级轿车",
+      "price_band": "not separately disclosed in this study",
+      "founded": 2026,
+      "owner_note_en": "Launched 2026; company reported over 10,000 orders in the first 23 hours",
+      "owner_note_zh": "2026 年上市；官方称上市 23 小时大定破万",
+      "status": "active",
+      "source_ids": ["s16"]
+    },
+    {
+      "name_en": "Galaxy M9",
+      "name_zh": "银河 M9",
+      "role_en": "Full-size six-seat flagship plug-in hybrid SUV (NordThor EM-P, Aegis plug-in hybrid battery)",
+      "role_zh": "大六座旗舰插混 SUV（雷神 EM-P AI 电混、神盾插混专用电池）",
+      "price_band": "RMB 173,800-238,800 (time-limited launch price)",
+      "founded": 2025,
+      "owner_note_en": "Launched 2025-09-17; cumulative sales over 60,000 units by mid-2026",
+      "owner_note_zh": "2025-09-17 上市；截至 2026 年年中累计销量超 6 万辆",
+      "status": "active",
+      "source_ids": ["s11", "s19", "s16"]
+    },
+    {
+      "name_en": "Galaxy V900",
+      "name_zh": "银河 V900",
+      "role_en": "Large flagship MPV (extended-range), part of the premium V series absorbed from LEVC",
+      "role_zh": "大型旗舰 MPV（增程），属翼真并入后的豪华 V 系列",
+      "price_band": "RMB 269,800-329,800 (time-limited launch price)",
+      "founded": 2026,
+      "owner_note_en": "Launched 2026-01-20",
+      "owner_note_zh": "2026-01-20 上市",
+      "status": "active",
+      "source_ids": ["s12"]
+    },
+    {
+      "name_en": "Galaxy Starship 7 EV (Yuanhangjia)",
+      "name_zh": "银河星舰 7 EV 远航家",
+      "role_en": "Long-range pure-electric SUV (Aegis gold-brick battery)",
+      "role_zh": "长续航纯电 SUV（神盾金砖电池）",
+      "price_band": "from RMB 99,800",
+      "founded": 2026,
+      "owner_note_en": "Launched 2026-06-10, all models with the Aegis gold-brick battery and a claimed 605 km range",
+      "owner_note_zh": "2026-06-10 上市，全系搭载神盾金砖电池、标称 605km 纯电续航",
+      "status": "active",
+      "source_ids": ["s16"]
+    },
+    {
+      "name_en": "Galaxy Warship 700",
+      "name_zh": "银河战舰 700",
+      "role_en": "AI all-terrain hard-core plug-in hybrid SUV (GTA native off-road NEV architecture)",
+      "role_zh": "AI 全地形硬核插混 SUV（GTA 原生新能源越野架构）",
+      "price_band": "Launch guidance RMB 189,800-379,800; advance guidance RMB 179,800-369,800 (includes a RMB 6,000 purchase-tax subsidy and a RMB 4,000 insurance subsidy); time-limited trade-in price RMB 169,800-359,800",
+      "founded": 2026,
+      "owner_note_en": "Launched 2026-10-10 with six versions: launch guidance RMB 189,800-379,800; advance guidance RMB 179,800-369,800, which includes a RMB 6,000 purchase-tax subsidy and a RMB 4,000 insurance subsidy; time-limited trade-in price RMB 169,800-359,800",
+      "owner_note_zh": "2026-10-10 上市，共 6 款车型（上市指导价 18.98 万-37.98 万元；先享指导价 17.98 万-36.98 万元，含 6000 元购置税补贴和 4000 元保险补贴；限时焕新价 16.98 万-35.98 万元）",
+      "status": "active",
+      "source_ids": ["s25", "s30"]
+    },
+    {
+      "name_en": "Galaxy TT",
+      "name_zh": "银河 TT",
+      "role_en": "C-segment pure-electric sport sedan (800V platform)",
+      "role_zh": "C 级纯电运动轿车（800V 平台）",
+      "price_band": "not separately disclosed in this study",
+      "founded": 2026,
+      "owner_note_en": "Name announced 2026-06-17; global launch planned for 2026",
+      "owner_note_zh": "2026-06-17 官宣命名；计划 2026 年全球上市",
+      "status": "active",
+      "source_ids": ["s16"]
+    },
+    {
+      "name_en": "Geely Panda mini",
+      "name_zh": "吉利熊猫 mini",
+      "role_en": "A00-segment mini EV, absorbed from the Geometry line",
+      "role_zh": "A00 级微型电动车（自几何体系并入）",
+      "price_band": "entry-level mini EV",
+      "founded": 2023,
+      "owner_note_en": "Average monthly sales above 10,000 units in 2025",
+      "owner_note_zh": "2025 年月均销量过万",
+      "status": "active",
+      "source_ids": ["s27"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "N/A",
+    "standard": "Not separately disclosed (Geely Galaxy is a brand of Geely Auto and does not publish brand-level financial statements)",
+    "rows": [],
+    "note_en": "Geely Galaxy is a mainstream NEV brand of Geely Automobile Holdings Ltd (0175.HK) and does not publish separate financial statements for the brand, so no brand-level revenue, gross margin, net profit, R&D or cash-flow figures are disclosed here, and no estimation is made. In the parent's consolidated financial statements (prepared under IFRS / Hong Kong Financial Reporting Standards), profit is reported on a profit-attributable-to-owners-of-the-parent (归母净利润) basis; parent-level figures are covered in the Geely (geely) deep research. For context, the parent's interim results for the six months ended 30 June 2026 were revenue of RMB 173.6 billion (+15% year on year) and profit attributable to owners of the parent of RMB 9.091 billion (-2% year on year), per the 0175.HK interim results announcement dated 2026-08-17. This page does not constitute any trading recommendation.",
+    "note_zh": "吉利银河是吉利汽车控股有限公司（0175.HK）旗下的主流新能源品牌，不单独披露品牌层面的财务报表，故本表不列营收、毛利率、净利润、研发投入、现金流等品牌级财务数字，也不做估算。母公司合并报表（按国际财务报告准则 IFRS／香港财务报告准则编制）中，净利润按「归属于母公司股东的利润」（归母净利润）口径披露；母公司完整财务数据见吉利（geely）深度研究。作为背景，母公司截至 2026 年 6 月 30 日止六个月的中期业绩为：收益 1736 亿元（同比 +15%）、母公司拥有人应占利润 90.91 亿元（同比 -2%），据港交所 0175.HK 中期业绩公告（2026-08-17）。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Geely Galaxy (吉利银河) is the mainstream new-energy-vehicle (NEV) brand of Geely Auto Group, positioned between Geely's conventional internal-combustion models and the higher-positioned Lynk & Co and Zeekr brands. It was unveiled in Hangzhou on 23 February 2023 as a mid-to-high-end NEV series under the Geely brand and upgraded to a standalone brand on 3 March 2025 <a href=\"https://dzb.cinn.cn/shtml/zggyb/20230303/113437.shtml\">[s1]</a><a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a>.</p><p>At its February 2023 launch Geely framed Galaxy as part of the group's push toward mid-to-high-end new energy, announcing seven models over two years across a plug-in-hybrid L series and a pure-electric E series, alongside the Aegis battery system, the NordThor hybrid and Galaxy N OS <a href=\"https://dzb.cinn.cn/shtml/zggyb/20230303/113437.shtml\">[s1]</a>. It was upgraded from a series to a standalone brand on 3 March 2025, when the LEVC premium-MPV line was also merged in <a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a>.</p><p>Over roughly three years the brand became Geely's volume engine in new energy: it sold over 83,000 units in about seven months from the first model launch in 2023, then about 494,000 units in 2024 (+80%) and about 1.24 million in 2025 (+150%), becoming the fastest brand to reach one million annual NEV sales, before easing to about 520,000 units in the first half of 2026 (-5% year on year) <a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a><a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a><a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=501374\">[s20]</a>. Within this, Geely Auto sold more than 1.68 million NEVs in 2025, of which Galaxy accounted for the large majority at about 1.24 million <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>.</p><p>The brand spans A0 to C-segment sedans, SUVs and MPVs plus hard-core off-roaders, in both plug-in-hybrid and pure-electric forms. Its models are exported under the Geely name: the EX5 (Galaxy E5) had entered more than 40 markets by early 2026, and the STARRAY EM-i (Starship 7 EM-i) more than 10 countries, with the latter earning a Euro NCAP five-star rating in December 2025 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>.</p><p>The brand's stated value proposition is \"build smart, high-value cars for everyone, for a better life\", with Geely positioning it as a leader of premium new-energy vehicles on a \"high quality, fair price\" route; Geely Auto Group CEO Gan Jiayue introduced this proposition at the E5's global launch in August 2024 <a href=\"https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html\">[s5]</a><a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a>.</p>",
+      "zh": "<p>吉利银河是吉利汽车集团旗下的主流新能源品牌，定位介于吉利传统燃油车型与更高端的领克、极氪之间。它于 2023 年 2 月 23 日在杭州作为吉利品牌的中高端新能源系列发布，2025 年 3 月 3 日升级为独立品牌 <a href=\"https://dzb.cinn.cn/shtml/zggyb/20230303/113437.shtml\">[s1]</a><a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a>。</p><p>2023 年 2 月发布时，吉利将银河定位为向中高端新能源发力的载体，宣布两年内推出 7 款车型，分为智能电混 L 系列与智能纯电 E 系列，并同步发布神盾电池、雷神电混、银河 N OS 等技术 <a href=\"https://dzb.cinn.cn/shtml/zggyb/20230303/113437.shtml\">[s1]</a>。2025 年 3 月 3 日，银河在集团「一个吉利」整合中由系列升级为独立品牌，翼真（LEVC）高端 MPV 系列同步并入 <a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a>。</p><p>大约三年间，银河成为吉利在新能源领域最主要的走量品牌：2023 年自首款车上市约 7 个月销量突破 8.3 万辆；2024 年约 49.4 万辆（同比增长 80%）；2025 年约 124 万辆（同比增长 150%），成为最快达成新能源汽车年销百万的品牌；2026 年上半年回落至约 52 万辆（同比下降 5%）<a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a><a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a><a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a><a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=501374\">[s20]</a>。其中，2025 年吉利汽车新能源总销量超 168 万辆，银河约 124 万辆、占其绝大部分 <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>。</p><p>品牌覆盖 A0 级到 C 级的轿车、SUV、MPV 及硬派越野，兼顾插混与纯电。其车型在海外以 Geely 名义销售，如 EX5（银河 E5）截至 2026 年初已进入 40 余个市场，STARRAY EM-i（星舰 7 EM-i）进入 10 余个国家，后者 2025 年 12 月获 Euro NCAP 五星安全认证 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>。</p><p>品牌宣称的价值主张是「造每个人的智能精品车，为美好生活而来」，吉利将其定位为「新能源精品车引领者」，走「高质优价」路线；这一价值主张由淦家阅在 2024 年 8 月银河 E5 全球上市时正式发布 <a href=\"https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html\">[s5]</a><a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a>。</p>"
+    },
+    "current": {
+      "en": "<h3>Brand structure and position within Geely</h3><p>Geely Galaxy is the mainstream-NEV arm of Geely Auto Group, whose brands also include Geely (conventional models and the China Star series), Lynk & Co (premium) and Zeekr (luxury). The brand was assembled through two consolidations: Geometry merged into Galaxy in October 2024 to form the Geome smart compact-car line, and the LEVC (Yizhen) premium-MPV line was merged in on 3 March 2025 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a>; the result is three product lines: smart compact cars (Geome), mainstream premium cars and premium MPVs <a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a>. Geely Auto Group itself is a subsidiary of Zhejiang Geely Holding Group, and Geely Automobile Holdings (0175.HK) is the listed holding company <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>.</p><p>Under the Taizhou Declaration announced in September 2024, Geely said its new-energy business would focus on the Galaxy brand, building one premium new-energy brand serving mainstream users; Geely Auto Group CEO Gan Jiayue called Galaxy the mainstream NEV brand Geely wants to concentrate on <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a>. Within the group, Galaxy, Lynk & Co and Zeekr form a mainstream-premium-luxury ladder that Geely says covers the mainstream, premium and luxury markets respectively <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>.</p><p>In the wider group consolidation, Geometry was folded into Galaxy in October 2024; ZGH began restructuring the Zeekr-Lynk &amp; Co equity relationship in November 2024; in February 2025 Zeekr completed its acquisition of and capital injection into Lynk &amp; Co, making Lynk &amp; Co a Zeekr subsidiary; in December 2025 Zeekr completed its privatisation to become a wholly-owned Geely Auto subsidiary; and LEVC and Radar were gradually brought under Geely Auto's management <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</p><h3>Model range and price bands</h3><p>As of late October 2026 the Galaxy range runs from the Panda mini and the Xingyuan A0 hatchback (from RMB 69,800) through compact and mid-size sedans and SUVs (L6, L7, E5, E8, Xingyao 8, Starship 7 EM-i) up to the M9 full-size six-seat SUV (from RMB 173,800) and the V900 flagship MPV (from RMB 269,800); 2026 additions include the Starship 7 EV, the Warship 700 hard-core SUV and the TT electric sport sedan <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml\">[s11]</a><a href=\"https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html\">[s12]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>.</p><h3>Sales milestones</h3><p>The brand's first car rolled off the line on 23 April 2023, and from the L7's launch on 31 May 2023 to the end of 2023 the series sold over 83,000 units in about seven months, lifting the average transaction price of Galaxy models to around RMB 160,000 <a href=\"https://www.cs.com.cn/ssgs/gsxw/202505/t20250512_6490822.html\">[s10]</a><a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=501374\">[s20]</a>. It reached annual sales of one million units in 29 months after the L7's launch, becoming the fastest NEV brand to hit that milestone; in October 2025 it passed the million mark year-to-date ahead of schedule, with 1,002,461 units in January-October and 127,476 units in October alone (+101%) <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://auto.cctv.cn/2025/11/04/ARTIURJsfLyYCF9CcKzypGYY251104.shtml\">[s21]</a>. In June 2026 Galaxy sold 108,206 units (+20% year on year), taking first-half sales past 510,000; the company said the brand ranked among the top three NEV brands globally by sales <a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>. In July 2026 the Galaxy series sold 107,797 units (+13%), its first time above 100,000 in a single month <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</p><h3>Model-level sales</h3><p>By model, the Xingyuan exceeded 40,000 monthly sales for seven consecutive months in 2025 with cumulative sales over 530,000 by year-end; the E5 sold more than 160,000 units in 2025 (cumulative over 230,000); the M9 reached nearly 40,000 units within four months of launch; and the Starship 7 EM-i and Panda mini each averaged over 10,000 monthly sales in 2025 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>. In the first half of 2026 the Xingyuan sold 249,418 units, the Starship 7 EM-i kept monthly sales above 10,000, and the E5 sold 13,543 units in June (+65% year on year) <a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>.</p><h3>Core technology and platforms</h3><p>Galaxy models draw on the group's shared platforms and technology: the SEA and GEA architectures, the GTA native off-road NEV architecture used by the Warship 700, the NordThor EM hybrid family (EM-i, EM-P and the off-road EM-T), the Aegis (Shen Dun) battery safety system including the gold-brick battery, the Flyme Auto / Galaxy N OS cockpit, and the Qianli Haohan assisted-driving system with H1-H9 tiers (the H1 tier already exceeds 100 TOPS) <a href=\"https://www.xhby.net/content/s6598f84be4b04646d99ed373.html\">[s4]</a><a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a><a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>. Geely has also deployed satellite connectivity on models such as the Xingyao 8 and E8 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>.</p><h3>Manufacturing and capacity</h3><p>Galaxy vehicles are produced within Geely Auto Group's manufacturing footprint, which the group describes as 12 plants and five global R&amp;D centres (Hangzhou, Ningbo, Gothenburg, Coventry and Frankfurt) <a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>. For overseas localisation, the BAMC plant in Egypt began operations in 2025 rolling out the Coolray and Emgrand, and the Indonesian plant began mass production of the Geely EX5 and EX5 EM-i; Kazakhstan is advancing localised production, and a strategic partnership with Renault in Brazil plans localised production of the EX5 EM-i from the second half of 2026 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>.</p><h3>Channel and overseas business</h3><p>Galaxy reached about 650 stores in China by the end of 2023 <a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=501374\">[s20]</a>. At group level, Geely's global network covered 88 countries and regions with more than 1,200 outlets by the end of 2025 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>. Geely Auto recorded 420,000 overseas sales in 2025, including more than 120,000 NEV exports; the EX5 topped Brazil's pure-electric C-segment SUV ranking for four consecutive months, and the STARRAY EM-i ranked second among PHEVs in Australia in November 2025 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>.</p>",
+      "zh": "<h3>品牌架构与在集团中的位置</h3><p>吉利银河是吉利汽车集团的主流新能源品牌，与吉利（传统车型、中国星系列）、领克（高端）、极氪（豪华）并列。品牌通过两次整合组建：2024 年 10 月几何并入银河形成 GEOME 智能精品小车系列，2025 年 3 月 3 日翼真（LEVC）高端 MPV 系列并入 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a>；调整后形成「智能精品小车（GEOME）」「主流精品车」「高端 MPV」三大产品线 <a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a>。吉利汽车集团为浙江吉利控股集团子公司，吉利汽车控股有限公司（0175.HK）为上市控股主体 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。</p><p>根据吉利 2024 年 9 月发布的《台州宣言》，吉利新能源将聚焦银河品牌，打造「一个」为主流用户服务的精品新能源产品品牌；淦家阅当时表示，银河是吉利要聚焦的主流新能源品牌 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a>。在集团内部，银河与领克、极氪构成「主流—高端—豪华」的阶梯，吉利称三者分别覆盖主流、高端与豪华市场 <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>。</p><p>在集团层面的整合中，2024 年 10 月几何并入银河；同年 11 月吉利控股启动对极氪与领克股权关系的优化调整；2025 年 2 月极氪完成对领克的收购及注资、领克转为极氪附属公司；2025 年 12 月极氪完成私有化、成为吉利汽车全资子公司；同期翼真、雷达等品牌逐步归入吉利汽车整体管理框架 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</p><h3>车型谱系与价格带</h3><p>截至 2026 年 10 月底，银河产品线从熊猫 mini 和星愿 A0 级小车（6.98 万元起），经紧凑型和中型轿车、SUV（L6、L7、E5、E8、星耀 8、星舰 7 EM-i），上探至 M9 大六座旗舰 SUV（17.38 万元起）和 V900 旗舰 MPV（26.98 万元起）；2026 年新增星舰 7 EV、战舰 700 硬派 SUV 和 TT 纯电运动轿车 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml\">[s11]</a><a href=\"https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html\">[s12]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>。</p><h3>销量里程碑</h3><p>银河首款车于 2023 年 4 月 23 日下线，自 L7 于 2023 年 5 月 31 日上市至当年底，银河系列约 7 个月销量突破 8.3 万辆，并将单车平均售价拉高至约 16 万元 <a href=\"https://www.cs.com.cn/ssgs/gsxw/202505/t20250512_6490822.html\">[s10]</a><a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=501374\">[s20]</a>。自 L7 发布起 29 个月，银河实现年销百万，成为最快达成该里程碑的新能源品牌；2025 年 10 月提前达成「年销百万」，1-10 月累计 1,002,461 辆、10 月单月 127,476 辆（同比 +101%）<a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://auto.cctv.cn/2025/11/04/ARTIURJsfLyYCF9CcKzypGYY251104.shtml\">[s21]</a>。2026 年 6 月银河单月销量 108,206 辆（同比 +20%），上半年累计突破 51 万辆；公司称银河跻身新能源汽车品牌销量全球前三 <a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>。2026 年 7 月银河系列单月销量 107,797 辆（同比 +13%），首次突破 10 万辆 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</p><h3>分车型销量</h3><p>分车型看，2025 年吉利星愿连续 7 个月月销破 4 万、全年累计超 53 万辆；E5 全年销量超 16 万辆、累计超 23 万辆；M9 上市 4 个月累计近 4 万辆；星舰 7 EM-i 与熊猫 mini 月均销量均过万 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。2026 年上半年，星愿累计 249,418 辆，星舰 7 EM-i 月销持续过万，E5 6 月销量 13,543 辆（同比 +65%）<a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>。</p><h3>核心技术与平台</h3><p>银河车型依托集团共享的平台与技术：SEA、GEA 架构，战舰 700 使用的 GTA 原生新能源越野架构，雷神 EM 电混家族（EM-i、EM-P 与越野 EM-T），神盾电池安全系统（含金砖电池），Flyme Auto / 银河 N OS 座舱，以及千里浩瀚智能驾驶系统（H1-H9 五个层级，H1 起步算力已超 100 TOPS）<a href=\"https://www.xhby.net/content/s6598f84be4b04646d99ed373.html\">[s4]</a><a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a><a href=\"https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm\">[s7]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>。吉利还在星耀 8、E8 等车型上搭载卫星通信能力 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。</p><h3>生产与产能</h3><p>银河车型在吉利汽车集团的制造体系内生产，集团自称拥有 12 座工厂与 5 个全球研发中心（杭州、宁波、哥德堡、考文垂、法兰克福）<a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>。海外本地化方面，埃及 BAMC 工厂 2025 年投产，下线 Coolray 与 Emgrand 两款车型；印尼工厂量产 Geely EX5 与 EX5 EM-i；哈萨克斯坦推进本地化生产；与雷诺在巴西的合作按计划于 2026 年下半年起本地化生产 EX5 EM-i <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>。</p><h3>渠道与海外业务</h3><p>银河截至 2023 年底在国内建成约 650 家门店 <a href=\"https://www.jingjiribao.cn/static/detail.jsp?id=501374\">[s20]</a>。集团层面，吉利汽车全球网络截至 2025 年底覆盖 88 个国家和地区、网点超 1200 家 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。2025 年吉利汽车海外销量 42 万辆，其中新能源出口超 12 万辆；EX5 连续四个月位居巴西纯电 C 级 SUV 细分销量第一，STARRAY EM-i 2025 年 11 月位居澳大利亚 PHEV 细分销量第二 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a><a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<p>Geely Galaxy is a brand rather than a separately listed company, so it has no independent board or separately disclosed chief executive; its operations are run within Geely Auto Group's management structure. Key executives with direct responsibility for the brand, as publicly reported, include the following <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</p><ul><li>Gan Jiayue (淦家阅): CEO of Geely Auto Group, who announced the Galaxy launch and its upgrade to a standalone brand; from 18 August 2026 CEO of the listed Geely Automobile Holdings (0175.HK) <a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a><a href=\"https://zgh.com/media-center/news/2026-08-17/\">[s24]</a>.</li><li>Lin Jie (林杰): senior vice president of Geely Auto Group in charge of sales and marketing; from 2 August 2026 general manager of the group's new sales corporation and concurrently general manager of Zeekr sales <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</li><li>Fan Junyi (范峻毅): general manager of Geely Auto's sales company as of May 2025; from August 2026 executive deputy general manager of the sales corporation and general manager of Lynk &amp; Co sales, overseeing Galaxy alongside Lynk &amp; Co <a href=\"https://www.cs.com.cn/ssgs/gsxw/202505/t20250512_6490822.html\">[s10]</a><a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</li><li>Guan Jiuyang (关久旸): executive deputy general manager of the Galaxy sales company from August 2026 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</li></ul><p>In an August 2026 governance change at the listed entity effective 18 August 2026, Li Shufu resigned as chairman and executive director of Geely Automobile Holdings (0175.HK) and was appointed honorary chairman for life, remaining chairman of Zhejiang Geely Holding Group; An Conghui became chairman, Gan Jiayue became CEO, and Gui Shengyue moved from CEO to vice-chairman <a href=\"https://zgh.com/media-center/news/2026-08-17/\">[s24]</a>. The sales corporation set up on 2 August 2026 places the China Star, Galaxy, Lynk &amp; Co and Zeekr sales organisations under one roof, keeping front-line brands independent while centralising channel, data and service standards <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>. Brand ownership is held through Geely Auto Group, a subsidiary of Zhejiang Geely Holding Group <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>.</p>",
+      "zh": "<p>吉利银河是品牌而非单独上市公司，没有独立的董事会或单独披露的行政总裁，其运营在吉利汽车集团的管理架构内进行。直接负责该品牌的关键高管及公开职务如下 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</p><ul><li>淦家阅：吉利汽车集团 CEO，是银河发布及升级为独立品牌的宣布者；2026 年 8 月 18 日起任上市主体吉利汽车控股（0175.HK）行政总裁 <a href=\"https://auto.huanqiu.com/article/4LilA0D4wgv\">[s8]</a><a href=\"https://zgh.com/media-center/news/2026-08-17/\">[s24]</a>。</li><li>林杰：吉利汽车集团分管营销的高级副总裁；2026 年 8 月 2 日起任集团销售总公司总经理，兼任极氪销售公司总经理 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</li><li>范峻毅：2025 年 5 月时任吉利汽车销售公司总经理；2026 年 8 月起任销售总公司常务副总经理兼领克销售公司总经理，分管银河 <a href=\"https://www.cs.com.cn/ssgs/gsxw/202505/t20250512_6490822.html\">[s10]</a><a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</li><li>关久旸：2026 年 8 月起任银河销售公司常务副总经理 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</li></ul><p>2026 年 8 月（自 2026-08-18 生效）上市主体的治理层调整中，李书福辞任吉利汽车控股（0175.HK）董事长及执行董事、转任名誉主席，仍任浙江吉利控股集团董事长；安聪慧出任董事长，淦家阅出任行政总裁，桂生悦由行政总裁转任副主席 <a href=\"https://zgh.com/media-center/news/2026-08-17/\">[s24]</a>。2026 年 8 月 2 日成立的销售总公司，将中国星、银河、领克、极氪等销售组织纳入同一体系，前台品牌保持独立、渠道与数据及服务标准统一收口 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。品牌所有权经吉利汽车集团持有，吉利汽车集团为浙江吉利控股集团子公司 <a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。本页仅记录公开职务与商业经历。</p>"
+    },
+    "competition": {
+      "en": "<p>Geely Galaxy's model range spans roughly the RMB 70,000-330,000 band, from the A0 Xingyuan to the M9 and V900 flagships; its largest-volume models sit in the mainstream NEV segment where price competition is the most intense <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml\">[s11]</a><a href=\"https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html\">[s12]</a>. With the M9 full-size six-seat SUV and the V900 flagship MPV, Galaxy extended its price ceiling into the RMB 170,000-330,000 band, moving into the large six-seat SUV and premium MPV segments <a href=\"https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml\">[s11]</a><a href=\"https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html\">[s12]</a>.</p><p>Our assessment: Galaxy's main rivals are BYD's Dynasty and Ocean series, and to a lesser extent Changan's Deepal, Leapmotor and GAC Aion, which together dominate the mainstream NEV segments Galaxy targets; this judgement rests on the brand's own mainstream pricing (roughly RMB 70,000-250,000 for its volume models) and its stated \"high quality, fair price\" positioning rather than on any single source listing competitors <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html\">[s5]</a>. Its main strengths are scale and cost, backed by shared group platforms (SEA, GEA, GTA), powertrains (NordThor hybrids) and the Flyme Auto / Qianli Haohan software stack that are also used by Lynk &amp; Co and Zeekr, plus a full segment-coverage lineup; this helped it reach roughly 1.24 million units in 2025 <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>. Its main weaknesses are lower brand equity than Lynk &amp; Co or Zeekr, thin differentiation in a price-war-dominated market, and a heavy reliance on the Xingyuan and E5 for volume; the 5% decline in the first half of 2026 shows the strain when the domestic NEV market softens <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>.</p>",
+      "zh": "<p>吉利银河的产品线大致横跨 7 万-33 万元区间，从 A0 级星愿到 M9、V900 旗舰车型，其走量车型集中在竞争最激烈的主流新能源区间 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml\">[s11]</a><a href=\"https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html\">[s12]</a>。凭借 M9 大六座旗舰 SUV 与 V900 旗舰 MPV，银河将价格带上探至 17 万-33 万元区间，切入大六座 SUV 与高端 MPV 细分市场 <a href=\"https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml\">[s11]</a><a href=\"https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html\">[s12]</a>。</p><p>我们的判断：银河最主要的对手是比亚迪王朝网与海洋网，其次是长安深蓝、零跑、广汽埃安等，它们共同占据银河所切入的主流新能源细分市场；这一判断依据的是银河走量车型约 7 万-25 万元的主流定价与其「高质优价」定位，而非某一篇列出竞对名单的出处 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a><a href=\"https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html\">[s5]</a>。主要优势是规模与成本，依托与领克、极氪共享的集团平台（SEA、GEA、GTA）、动力总成（雷神电混）和 Flyme Auto / 千里浩瀚软件体系，以及覆盖全品类的产品矩阵，这支撑其 2025 年销量达到约 124 万辆 <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a><a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a>。主要短板是品牌溢价低于领克、极氪，在价格战主导的市场中差异化有限，且对星愿、E5 两款车型依赖较重；2026 年上半年销量同比下滑 5%，反映了国内新能源市场走弱时的压力 <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p>Geely Auto has set a 2026 target of 1.55 million units for Geely Galaxy, up 25% year on year, inside a group sales target of 3.45 million units <a href=\"https://www.thepaper.cn/newsdetail_forward_32788346\">[s17]</a><a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>. The brand plans new and refreshed models in 2026, including the Starship 7 EV (launched 2026-06-10), the Warship 700 hard-core SUV (launched 2026-10-10), the TT electric sport sedan, the Xingyao 7 MAX and the 2026-model A7 EM / A7 EV, while pushing the Qianli Haohan assisted-driving system down the range; Galaxy described 2026 as a big product year <a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a><a href=\"https://www.autohome.com.cn/news/202610/1317681.html\">[s25]</a>. On exports, the STARRAY EM-i is set to enter Germany, France, the UK and Brazil in 2026 <a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>. On intelligent driving, Geely said its Qianli Haohan G-ASD system obtained EU certification in March 2026, which the company described as the first Chinese high-level assisted-driving system to go overseas <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>.</p><p>Our analysis: the 25% growth target is more demanding than the first-half performance, since Galaxy posted a 5% year-on-year decline in H1 2026 and would need to accelerate materially in the second half <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>. This assumes the new 2026 models land well and that overseas volumes ramp up; the outcome also depends on how the domestic NEV price war and the European market environment evolve. The brand's scale, cost base and shared technology offer a credible path, but the target is not a certainty.</p>",
+      "zh": "<p>吉利汽车为吉利银河设定 2026 年销量目标 155 万辆，同比增长 25%，在集团 345 万辆（含新能源 222 万辆）的整体目标之内 <a href=\"https://www.thepaper.cn/newsdetail_forward_32788346\">[s17]</a><a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。品牌计划在 2026 年推出星舰 7 EV（2026-06-10 上市）、战舰 700 硬派 SUV（2026-10-10 上市）、TT 纯电运动轿车、星耀 7 MAX、2026 款 A7 EM / A7 EV 等新车型，并将「千里浩瀚」辅助驾驶下放至更多车型；银河官方称 2026 年是其「产品大年」 <a href=\"https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96\">[s16]</a><a href=\"https://www.autohome.com.cn/news/202610/1317681.html\">[s25]</a>。出口方面，STARRAY EM-i 计划 2026 年进入德国、法国、英国和巴西 <a href=\"https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings\">[s28]</a>。在智驾层面，吉利称其千里浩瀚 G-ASD 于 2026 年 3 月获得欧盟认证，为公司所称中国首个成功出海的高阶辅助驾驶系统 <a href=\"https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml\">[s13]</a>。</p><p>我们的分析：25% 的增长目标比上半年实际表现更具挑战，因为银河 2026 年上半年销量同比下降 5%，下半年需明显提速才能达成 <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>。这一判断的前提是 2026 年新车型顺利起量、海外销量爬坡，结果还取决于国内新能源价格战和欧洲市场环境的演变。品牌的规模、成本基础和共享技术为其提供了可信路径，但目标并非必然达成。</p>"
+    },
+    "risks": {
+      "en": "<ul><li>Price competition: Galaxy operates in the most crowded mainstream NEV band, where rivals such as BYD have pushed advanced driver assistance down to entry-level prices, compressing margins <a href=\"https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html\">[s5]</a>.</li><li>Volume concentration: sales lean heavily on the Xingyuan and E5; the 5% first-half 2026 decline shows sensitivity to a softening domestic NEV market <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>.</li><li>Internal brand overlap: Galaxy shares platforms and technology with Lynk &amp; Co and Zeekr, which could create intra-group competition for resources and customers <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</li><li>Group dependence: Galaxy's R&amp;D, supply chain and channel are centrally managed by the Geely group, so the brand's own room for differentiated moves is limited <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>.</li><li>Overseas and regulatory risk: Galaxy's exports (EX5, STARRAY EM-i) are sold under the Geely name and, as they expand into Europe and other markets, face local regulatory and competitive headwinds <a href=\"https://global.geely.com/en/news/2025/geely-debuts-ex5-uk\">[s29]</a><a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>.</li><li>Technology-route exposure: the brand spans plug-in hybrid, extended-range and pure-electric; shifts in NEV subsidies or battery policy could alter the economics of any route <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a>.</li><li>Macro and competitive environment: Geely Auto itself cautioned in its interim results that the macro economy, geopolitics and market competition could still affect operating performance <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>.</li></ul>",
+      "zh": "<ul><li>价格竞争：银河处于最拥挤的主流新能源区间，比亚迪等对手已将高阶智驾下探至入门价位，压缩利润空间 <a href=\"https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html\">[s5]</a>。</li><li>销量集中：销量对星愿、E5 两款车型依赖较重，2026 年上半年同比下滑 5% 显示其对国内新能源市场走弱的敏感性 <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>。</li><li>集团内品牌重叠：银河与领克、极氪共享平台与技术，可能在集团内部形成资源与用户竞争 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</li><li>体系依赖：银河的研发、供应链与渠道由吉利集团统一收口，品牌自身可施展的差异化空间有限 <a href=\"https://www.eeo.com.cn/2026/0803/985069.shtml\">[s23]</a>。</li><li>海外与监管风险：银河出口车型（EX5、STARRAY EM-i）以 Geely 名义销售，向欧洲等市场扩张时面临当地监管与竞争环境变化 <a href=\"https://global.geely.com/en/news/2025/geely-debuts-ex5-uk\">[s29]</a><a href=\"https://newsroom.geely.com/geely-auto-sales-2025\">[s27]</a>。</li><li>技术路线敞口：品牌同时布局插混、增程与纯电，新能源补贴或电池政策变化可能改变任一技术路线的经济性 <a href=\"https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html\">[s6]</a>。</li><li>宏观与竞争环境：吉利汽车在中报中提示，宏观经济、地缘政治及市场竞争仍可能影响经营表现 <a href=\"https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html\">[s15]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "中国工业报《“看见中国汽车”品牌巡礼全国行开幕》", "url": "https://dzb.cinn.cn/shtml/zggyb/20230303/113437.shtml", "date": "2023-03-03", "tier": "B" },
+    { "id": "s2", "name": "央视网《吉利银河L7正式上市 售价13.87万-17.37万元》", "url": "https://auto.cctv.com/2023/05/31/ARTIBLEfqAgUpQXBLZZmqYf5230531.shtml", "date": "2023-05-31", "tier": "B" },
+    { "id": "s3", "name": "经济参考网《A级家轿市场新标杆 吉利银河L6正式上市》", "url": "https://www.jjckb.cn/2023-09/22/c_1310742458.htm", "date": "2023-09-22", "tier": "B" },
+    { "id": "s4", "name": "新华报业网《17.58万元起售 吉利银河E8上市》", "url": "https://www.xhby.net/content/s6598f84be4b04646d99ed373.html", "date": "2024-01-08", "tier": "B" },
+    { "id": "s5", "name": "国际在线《“全球智享纯电SUV”吉利银河E5全球上市》", "url": "https://big5.cri.cn/gate/big5/auto.cri.cn/20240805/7aee1f0c-12cc-a832-dfb2-a74de8682a60.html", "date": "2024-08-05", "tier": "B" },
+    { "id": "s6", "name": "新华网《吉利星愿正式上市 售价6.98万元-9.88万元》", "url": "https://www.news.cn/auto/20241011/cd8ccfea013f43e4bd550ef0f82d8134/c.html", "date": "2024-10-11", "tier": "B" },
+    { "id": "s7", "name": "中国质量新闻网《中国汽车市场一周行业信息快报——2025年3月第1期》", "url": "https://m.cqn.com.cn/auto/content/2025-03/10/content_9095798.htm", "date": "2025-03-10", "tier": "B" },
+    { "id": "s8", "name": "环球网《吉利发布“千里浩瀚”智驾系统 银河品牌升级剑指全球新能源市场》", "url": "https://auto.huanqiu.com/article/4LilA0D4wgv", "date": "2025-03-03", "tier": "B" },
+    { "id": "s9", "name": "央广网《限时价11.58~15.58万元 吉利银河星耀8上市》", "url": "https://www.cnr.cn/2013qcpd/cz/20250511/t20250511_527166304.shtml", "date": "2025-05-11", "tier": "B" },
+    { "id": "s10", "name": "中证网《吉利银河星耀8上市 吉利银河品牌即将达成百万辆销量》", "url": "https://www.cs.com.cn/ssgs/gsxw/202505/t20250512_6490822.html", "date": "2025-05-12", "tier": "B" },
+    { "id": "s11", "name": "央广网《吉利银河M9上市，开启AI出行新时代》", "url": "https://www.cnr.cn/zjfw/cjgc/20250919/t20250919_527368856.shtml", "date": "2025-09-19", "tier": "B" },
+    { "id": "s12", "name": "新华网《吉利银河V900上市 限时指导价26.98万元起》", "url": "https://www.news.cn/auto/20260121/4ab62b4e9bbf41d586447d88e81bbc7b/c.html", "date": "2026-01-21", "tier": "B" },
+    { "id": "s13", "name": "央视网《吉利汽车发布2025年财报 营收3452亿元同比增长25%》", "url": "https://auto.cctv.com/2026/03/18/ARTIoD9AtlZqfJZ5UxBYgjRX260318.shtml", "date": "2026-03-18", "tier": "B" },
+    { "id": "s15", "name": "中证网《吉利汽车上半年营收1736亿元 同比增长15%》", "url": "https://www.cs.com.cn/ssgs/01/2026/08/17/detail_2026081710031862.html", "date": "2026-08-17", "tier": "B" },
+    { "id": "s16", "name": "新华网客户端《同比增长20% 吉利银河跻身新能源汽车品牌销量全球前三》", "url": "https://app.xinhuanet.com/news/article.html?articleId=20260707adbc008764e74370a4fd19d119dc2d96", "date": "2026-07-07", "tier": "B" },
+    { "id": "s17", "name": "澎湃新闻《吉利汽车去年营收3452亿元创新高，今年销量目标345万辆》", "url": "https://www.thepaper.cn/newsdetail_forward_32788346", "date": "2026-03-18", "tier": "B" },
+    { "id": "s18", "name": "中国江苏网《价格一步到位 吉利银河星舰7惊艳上市，9.98万元起售》", "url": "https://auto.jschina.com.cn/jdtp/202412/t20241207_3526787.shtml", "date": "2024-12-07", "tier": "B" },
+    { "id": "s19", "name": "中国经济新闻网《AI体系造AI汽车 吉利银河M9上市》", "url": "https://www.cet.com.cn/wzsy/ycxw/10257047.shtml", "date": "2025-09-19", "tier": "B" },
+    { "id": "s20", "name": "经济日报《银河E8上市，吉利汽车加速向新能源转型》", "url": "https://www.jingjiribao.cn/static/detail.jsp?id=501374", "date": "2024-01-09", "tier": "B" },
+    { "id": "s21", "name": "央视网《10月劲销超12万辆 吉利银河2025年销量累计破百万》", "url": "https://auto.cctv.cn/2025/11/04/ARTIURJsfLyYCF9CcKzypGYY251104.shtml", "date": "2025-11-04", "tier": "B" },
+    { "id": "s23", "name": "经济观察报《吉利汽车整合营销体系 林杰出任销售总公司总经理》", "url": "https://www.eeo.com.cn/2026/0803/985069.shtml", "date": "2026-08-03", "tier": "B" },
+    { "id": "s24", "name": "吉利控股集团官网：Geely Automobile Holdings Announces Leadership Transition to Strengthen “One Geely” Blueprint", "url": "https://zgh.com/media-center/news/2026-08-17/", "date": "2026-08-17", "tier": "A" },
+    { "id": "s25", "name": "汽车之家《限时16.98万起 吉利银河战舰700上市 最高续航1770km》", "url": "https://www.autohome.com.cn/news/202610/1317681.html", "date": "2026-10-10", "tier": "C" },
+    { "id": "s26", "name": "杭州日报（每日商报）《吉利银河L6 EM-i 7.98万元起售》", "url": "https://hzdaily.hangzhou.com.cn/mrsb/2025/02/13/article_detail_3_20250213A107.html", "date": "2025-02-13", "tier": "B" },
+    { "id": "s27", "name": "Geely Auto Newsroom: Geely Auto Exceeds 3.02 Million Vehicle Sales in 2025, Sets New Growth Targets for 2026", "url": "https://newsroom.geely.com/geely-auto-sales-2025", "date": "2026-01-05", "tier": "A" },
+    { "id": "s28", "name": "Geely Auto: Geely STARRAY EM-i Achieves Five-Star Ratings in Euro NCAP Safety Tests", "url": "https://global.geely.com/en/news/2025/geely-starray-em-i-euro-ncap-five-star-ratings", "date": "2025-12-12", "tier": "A" },
+    { "id": "s29", "name": "Geely Auto: Geely Debuts EX5 in the UK, Driving its Expansion into Europe's Rapidly-Growing EV Segment", "url": "https://global.geely.com/en/news/2025/geely-debuts-ex5-uk", "date": "2025-10-23", "tier": "A" },
+    { "id": "s30", "name": "吉利银河官方网站（Geely Galaxy official site）", "url": "https://galaxy.geely.com/?nav=", "date": "2026-10-29", "tier": "A" },
+    { "id": "s31", "name": "Geely Automobile Holdings 2025 Annual Results Announcement (HKEX)", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800370_c.pdf", "date": "2026-03-18", "tier": "A" },
+    { "id": "s32", "name": "Geely Automobile Holdings Interim Results Announcement for the six months ended 30 June 2026 (HKEX)", "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf", "date": "2026-08-17", "tier": "A" },
+    { "id": "s33", "name": "车讯网《吉利汽车10月销量超30万辆 吉利银河提前达成年销百万目标》", "url": "https://www.chexun.com/2025-11-03/114307403.html", "date": "2025-11-03", "tier": "C" },
+    { "id": "s34", "name": "IT之家《吉利银河 L6 EM-i 正式上市，限时 7.98 万元起》", "url": "https://www.ithome.com/0/830/358.htm", "date": "2025-02-12", "tier": "C" }
+  ]
+}

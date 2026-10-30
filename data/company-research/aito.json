@@ -1,0 +1,258 @@
+{
+  "id": "aito",
+  "name_en": "AITO (问界)",
+  "name_zh": "问界（AITO）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand type",
+      "label_zh": "品牌类型",
+      "value_en": "Premium intelligent new-energy vehicle brand of Seres Group Co., Ltd. (SSE 601127.SH / HKEX 9927.HK), created with Huawei under the Smart Selection model that later became the Harmony Intelligent Mobility Alliance (HIMA). Seres handles vehicle engineering and manufacturing; Huawei contributes the HarmonySpace cockpit, Qiankun ADS and channel. The brand is owned by Seres.",
+      "value_zh": "赛力斯集团股份有限公司（上交所 601127.SH / 港交所 9927.HK）旗下高端智能新能源汽车品牌，由赛力斯与华为在「智选车」（后升级为鸿蒙智行，HIMA）模式下联合打造。赛力斯负责整车工程与制造，华为提供鸿蒙座舱、乾崑智驾与渠道，品牌归赛力斯所有。",
+      "period": null,
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "2 December 2021, at Seres's Liangjiang smart factory in Chongqing. AITO stands for \"Adding Intelligence to Auto\".",
+      "value_zh": "2021 年 12 月 2 日，在赛力斯重庆两江智慧工厂发布，AITO 意为「Adding Intelligence to Auto」。",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "First model",
+      "label_zh": "首款车型",
+      "value_en": "AITO M5 (mid-size SUV), launched 23 December 2021 with pre-sale prices of RMB250,000 / 280,000 / 320,000 after subsidies; deliveries began in March 2022.",
+      "value_zh": "问界 M5（中型 SUV），2021 年 12 月 23 日发布，综合补贴后预售价 25 万 / 28 万 / 32 万元；2022 年 3 月开启交付。",
+      "period": null,
+      "source_ids": ["s12"]
+    },
+    {
+      "label_en": "Ownership and headquarters",
+      "label_zh": "所属与总部",
+      "value_en": "Owned by Chongqing-headquartered Seres Group. In July 2024 Seres Auto bought the AITO/问界 trademarks and design patents from Huawei for RMB2.5 billion, making Seres the brand owner. AITO models are produced at Seres plants in Chongqing, with the Super Factory now the core production base for the AITO range.",
+      "value_zh": "归属总部位于重庆的赛力斯集团。2024 年 7 月赛力斯汽车以 25 亿元收购华为持有的问界等商标及外观设计专利，品牌归赛力斯所有；问界车型由赛力斯重庆工厂生产，超级工厂现为问界系列核心生产基地。",
+      "period": null,
+      "source_ids": ["s3", "s7", "s32"]
+    },
+    {
+      "label_en": "Listing (parent)",
+      "label_zh": "母公司上市",
+      "value_en": "AITO is not separately listed. Parent Seres Group is listed on the Shanghai Stock Exchange (601127.SH, since 2016) and on the Hong Kong Stock Exchange main board (9927.HK) since 5 November 2025.",
+      "value_zh": "问界未单独上市。母公司赛力斯集团在上交所上市（601127.SH，2016 年起），并于 2025 年 11 月 5 日在港交所主板上市（9927.HK）。",
+      "period": null,
+      "source_ids": ["s1", "s22"]
+    },
+    {
+      "label_en": "Model line-up",
+      "label_zh": "车型矩阵",
+      "value_en": "Five SUV series in extended-range (EREV) and pure-electric versions — M5, M6, M7, M8 and M9 — plus the M9 Ultimate long-wheelbase edition; suggested retail prices from RMB229,800 to RMB649,800.",
+      "value_zh": "M5、M6、M7、M8、M9 五款 SUV 系列（增程与纯电），另含 M9 Ultimate 领世加长版；建议零售价 22.98 万–64.98 万元。",
+      "period": null,
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Actual controller",
+      "label_zh": "实际控制人",
+      "value_en": "Zhang Xinghai (张兴海), founder and chairman of Seres Group, identified as the company's actual controller in the 2025 annual report; he holds 50% of the controlling shareholder Chongqing Xiaokang Holding, which held 22.99% of the group (20.98% directly plus 2.01% via a guarantee-and-trust account) at end-2025.",
+      "value_zh": "张兴海，赛力斯集团创始人、董事长，2025 年年报认定其为公司实际控制人；其持有控股股东重庆小康控股 50% 股权，小康控股截至 2025 年末合计持有集团 22.99% 股份（直接 20.98% + 担保及信托专户 2.01%）。",
+      "period": "2025-12-31",
+      "source_ids": ["s21"]
+    },
+    {
+      "label_en": "Deliveries (FY2025)",
+      "label_zh": "2025 年交付量",
+      "value_en": "426,000 vehicles in 2025 (up from 387,000 in 2024), per the 2025 annual report; the company called AITO the best-selling Chinese premium brand in China's domestic market that year. By model, M9 delivered over 110,000, M8 over 150,000 and the new M7 over 110,000 in 2025.",
+      "value_zh": "据 2025 年年报，问界 2025 年交付 42.6 万辆（2024 年为 38.7 万辆），为公司所称当年国内市场销量最高的中国豪华品牌；其中 M9 全年交付超 11 万辆、M8 超 15 万辆、全新 M7 超 11 万辆。",
+      "period": "2025",
+      "source_ids": ["s21", "s2"]
+    },
+    {
+      "label_en": "Cumulative users and mileage",
+      "label_zh": "累计用户与里程",
+      "value_en": "More than 1.2 million cumulative users as of October 2026; cumulative mileage of 40 billion km, of which over 10.6 billion km of assisted-driving mileage.",
+      "value_zh": "截至 2026 年 10 月累计用户超 120 万；累计行驶里程 400 亿公里，其中智能辅助驾驶里程累计超 106 亿公里。",
+      "period": "2026-10",
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Brand value",
+      "label_zh": "品牌价值",
+      "value_en": "Ranked the most valuable Chinese luxury automotive brand in Brand Finance's Automotive Industry 100 2026, and the only Chinese brand among the world's top-10 luxury automotive brands.",
+      "value_zh": "入选 Brand Finance《2026 全球汽车品牌价值 100 强》，位居中国豪华汽车品牌价值第一，为全球十大豪华汽车品牌中唯一的中国品牌。",
+      "period": "2026",
+      "source_ids": ["s5", "s6"]
+    }
+  ],
+  "history": [
+    { "date": "1986", "event_en": "Zhang Xinghai, then 23, founds a spring factory in Chongqing with RMB8,000, the predecessor of what became Seres Group.", "event_zh": "时年 23 岁的张兴海在重庆筹资 8,000 元创办弹簧厂，成为赛力斯集团前身。", "source_ids": ["s23", "s27"] },
+    { "date": "2003", "event_en": "The predecessor (then Yu'an Group, later Sokon) forms a joint venture with Dongfeng to build Dongfeng Xiaokang mini-vehicles, reaching the national top three in the mini-vehicle segment.", "event_zh": "公司前身与东风汽车合资成立东风渝安车辆有限公司，推出东风小康微车，跻身全国微车市场前三。", "source_ids": ["s23", "s27"] },
+    { "date": "2016", "event_en": "The group pivots to new-energy vehicles; its predecessor Sokon Industrial (小康股份) lists on the Shanghai Stock Exchange as 601127.SH.", "event_zh": "集团转型新能源汽车；前身小康股份（601127.SH）登陆上交所。", "source_ids": ["s23", "s27"] },
+    { "date": "2021-04", "event_en": "Huawei and Seres announce deep cooperation across technology, products and channels; the Seres-Huawei Smart Selection SF5 goes on sale, the precursor of the model behind AITO.", "event_zh": "华为与赛力斯宣布在技术、产品、渠道三方面深度合作，赛力斯华为智选 SF5 上市，成为问界所依托「智选车」模式的起点。", "source_ids": ["s15"] },
+    { "date": "2021-12-02", "event_en": "Seres unveils the premium brand AITO at its Liangjiang smart factory in Chongqing.", "event_zh": "赛力斯在重庆两江智慧工厂发布高端智慧汽车品牌 AITO（问界）。", "source_ids": ["s7"] },
+    { "date": "2021-12-23", "event_en": "The first model AITO M5 debuts at Huawei's winter flagship launch as the first car with the HarmonyOS smart cockpit, with pre-sale prices of RMB250,000/280,000/320,000 after subsidies.", "event_zh": "首款车型问界 M5 在华为冬季旗舰新品发布会上发布，为首款搭载 HarmonyOS 智能座舱的车型，综合补贴后预售价 25 万/28 万/32 万元。", "source_ids": ["s12"] },
+    { "date": "2022-03", "event_en": "AITO M5 deliveries begin.", "event_zh": "问界 M5 开启交付。", "source_ids": ["s12"] },
+    { "date": "2022-07-04", "event_en": "The second model AITO M7 (a mid-to-large 6-seat EREV SUV) launches at Huawei's summer flagship launch, priced RMB319,800–379,800.", "event_zh": "第二款车型问界 M7（中大型六座增程 SUV）在华为夏季旗舰新品发布会上上市，售价 31.98 万–37.98 万元。", "source_ids": ["s13"] },
+    { "date": "2023-06", "event_en": "The 问界 (class-12 automotive) trademark is transferred to Huawei, which planned to use 问界 as the shared name for Smart Selection models across partner automakers.", "event_zh": "「问界」汽车类（第 12 类）商标转让至华为名下，华为计划将「问界」作为智选车合作车型的统一命名。", "source_ids": ["s17"] },
+    { "date": "2023-09-12", "event_en": "The refreshed AITO new M7 launches at RMB249,800–329,800 with HUAWEI ADS 2.0, a turning point that revived the brand's sales.", "event_zh": "问界新 M7 焕新上市，售价 24.98 万–32.98 万元，搭载 HUAWEI ADS 2.0 高阶智驾，成为问界销量复苏的转折点。", "source_ids": ["s8"] },
+    { "date": "2023-12-26", "event_en": "The flagship AITO M9 launches at RMB469,800–569,800 in four extended-range and pure-electric versions.", "event_zh": "旗舰车型问界 M9 上市，共 4 款增程/纯电车型，售价 46.98 万–56.98 万元。", "source_ids": ["s11"] },
+    { "date": "2024-01", "event_en": "Shenzhen Yinwang Intelligent Technology Co., Ltd. is registered (16 January 2024) as the entity taking over Huawei's intelligent automotive solutions (the former vehicle BU).", "event_zh": "深圳引望智能技术有限公司于 2024 年 1 月 16 日注册成立，承接华为智能汽车解决方案（原车 BU）业务。", "source_ids": ["s28"] },
+    { "date": "2024-07", "event_en": "Seres Auto agrees to buy 919 AITO/问界-related trademarks and 44 design patents from Huawei for RMB2.5 billion (excl. tax), making Seres the brand owner.", "event_zh": "赛力斯汽车以 25 亿元（不含税）收购华为持有的 919 项问界等系列商标及 44 项外观设计专利，品牌所有权归赛力斯。", "source_ids": ["s3"] },
+    { "date": "2024-08", "event_en": "Seres agrees to buy a 10% stake in Shenzhen Yinwang Intelligent Technology for RMB11.5 billion, paid in three instalments, upgrading the partnership to business plus equity ties.", "event_zh": "赛力斯汽车以 115 亿元收购深圳引望智能技术 10% 股权（分三期支付），双方合作升级为「业务合作+股权绑定」。", "source_ids": ["s28", "s29"] },
+    { "date": "2025-04-16", "event_en": "The AITO M8 family flagship SUV launches at RMB359,800–449,800, built on Huawei's Tuling platform with HUAWEI ADS 3.3.", "event_zh": "问界 M8 家庭智慧旗舰 SUV 上市，售价 35.98 万–44.98 万元，基于华为途灵平台打造、搭载 HUAWEI ADS 3.3。", "source_ids": ["s14"] },
+    { "date": "2025-11-05", "event_en": "Seres Group lists on the Hong Kong Stock Exchange main board (9927.HK), raising net proceeds of about HK$14.016 billion; the company described itself as the first \"A+H\" dual-listed luxury new-energy automaker in China.", "event_zh": "赛力斯集团在港交所主板挂牌上市（9927.HK），募资净额约 140.16 亿港元；公司称其为国内首家「A+H」两地上市的豪华新能源车企。", "source_ids": ["s22"] },
+    { "date": "2026-01", "event_en": "The one-millionth AITO vehicle rolls off the line about 46 months after first deliveries, which the company described as the fastest one-million milestone for a Chinese premium NEV brand.", "event_zh": "问界第 100 万辆整车下线，距首款车型交付约 46 个月，公司称刷新了中国高端新能源品牌的百万辆速度纪录。", "source_ids": ["s6", "s2"] },
+    { "date": "2026-04-22", "event_en": "The AITO M6 formally launches (pre-orders opened 23 March 2026, with orders topping 60,000 by late March), completing the M5–M9 matrix with a mid-to-large 5-seat SUV; cumulative deliveries passed 50,000 by early September 2026.", "event_zh": "问界 M6 正式上市（2026 年 3 月 23 日开启小订，3 月底订单突破 6 万），补齐 M5–M9 产品矩阵的中大型五座 SUV 定位；截至 2026 年 9 月累计交付突破 5 万辆。", "source_ids": ["s2", "s18"] },
+    { "date": "2026-09-15", "event_en": "HIMA and AITO announce a new cooperation model: product definition, design, marketing, retail and service are led by Seres, with Huawei Terminal providing technology empowerment; AITO remains a member of HIMA while the other four HIMA brands keep the Huawei-led model.", "event_zh": "鸿蒙智行与问界宣布新合作模式：产品定义、设计、品牌营销、渠道零售与服务体系由赛力斯主导，华为终端参与赋能；问界仍属鸿蒙智行成员，其余四界维持华为全流程主导模式。", "source_ids": ["s9", "s15"] },
+    { "date": "2026-10-12", "event_en": "AITO shows the M9, M8, M7 and M6 at the 2026 Paris Motor Show and announces a plan to enter the European market in autumn 2027.", "event_zh": "问界携 M9、M8、M7、M6 四款车型亮相 2026 巴黎车展，宣布计划于 2027 年秋季进入欧洲市场。", "source_ids": ["s5", "s16"] }
+  ],
+  "brands": [
+    {
+      "name_en": "AITO M5 / new M5 Ultra",
+      "name_zh": "问界 M5 / 新 M5 Ultra",
+      "role_en": "Entry-level mid-size SUV, the brand's first model.",
+      "role_zh": "品牌入门中型 SUV、首款车型。",
+      "price_band": "Launched 23 Dec 2021 at RMB250,000/280,000/320,000 (pre-sale, after subsidies); current new M5 Ultra from RMB229,800",
+      "founded": 2021,
+      "owner_note_en": "Debuted at Huawei's winter flagship launch on 23 December 2021 as the first vehicle with the HarmonyOS smart cockpit, built on Huawei's DriveONE EREV platform; deliveries began in March 2022. The current new M5 Ultra starts at RMB229,800 with CLTC combined range of up to 1,440 km.",
+      "owner_note_zh": "2021 年 12 月 23 日于华为冬季旗舰新品发布会发布，为首款搭载 HarmonyOS 智能座舱的车型，基于华为 DriveONE 纯电驱增程平台；2022 年 3 月开启交付。现售新 M5 Ultra 起售价 22.98 万元、CLTC 综合续航最高 1,440 公里。",
+      "status": "active",
+      "source_ids": ["s12", "s4"]
+    },
+    {
+      "name_en": "AITO M7 / new M7",
+      "name_zh": "问界 M7 / 新 M7",
+      "role_en": "Mid-to-large family SUV, the brand's long-time volume pillar.",
+      "role_zh": "中大型家庭 SUV，品牌长期的销量主力。",
+      "price_band": "Launched 4 Jul 2022 at RMB319,800–379,800; new M7 launched 12 Sep 2023 at RMB249,800–329,800; current from RMB279,800",
+      "founded": 2022,
+      "owner_note_en": "Launched on 4 July 2022 at RMB319,800–379,800 as a 6-seat EREV SUV. After weak early-2023 sales, the refreshed new M7 launched on 12 September 2023 at RMB249,800–329,800 with HUAWEI ADS 2.0, reviving demand; it delivered more than 110,000 units in 2025. The current M7 starts at RMB279,800 with CLTC combined range up to 1,690 km.",
+      "owner_note_zh": "2022 年 7 月 4 日上市（31.98 万–37.98 万元），为六座增程 SUV。2023 年上半年销量低迷后，9 月 12 日焕新的问界新 M7 以 24.98 万–32.98 万元上市并搭载 HUAWEI ADS 2.0，带动需求回暖；2025 年交付超 11 万辆。现售 M7 起售价 27.98 万元、CLTC 综合续航最高 1,690 公里。",
+      "status": "active",
+      "source_ids": ["s13", "s8", "s2", "s4"]
+    },
+    {
+      "name_en": "AITO M9 / M9 Ultimate",
+      "name_zh": "问界 M9 / M9 Ultimate",
+      "role_en": "Full-size flagship SUV (EREV and pure-electric); the brand's profit and brand-image anchor.",
+      "role_zh": "全景智慧旗舰大型 SUV（增程/纯电），品牌利润与形象支柱。",
+      "price_band": "Launched 26 Dec 2023 at RMB469,800–569,800; current M9 from RMB479,800 and M9 Ultimate from RMB649,800",
+      "founded": 2023,
+      "owner_note_en": "Launched on 26 December 2023 at RMB469,800–569,800 in four EREV/pure-electric versions, carrying Huawei's full-stack technologies including ADS, the Tuling chassis and an 800V silicon-carbide platform. The M9 delivered more than 110,000 units in 2025 and, by the company's account, topped the RMB500,000-plus segment for two consecutive years; the new-generation M9 held the No.1 spot for RMB500,000-plus vehicle sales for four consecutive months by October 2026. The long-wheelbase M9 Ultimate (领世加长版) starts at RMB649,800 and is among China's largest production NEVs.",
+      "owner_note_zh": "2023 年 12 月 26 日上市（46.98 万–56.98 万元），共 4 款增程/纯电车型，搭载华为 ADS、途灵底盘、800V 高压碳化硅平台等全栈技术。M9 2025 年交付超 11 万辆，据公司口径连续两年稳居 50 万元级车型销冠；新一代 M9 截至 2026 年 10 月连续四个月居 50 万元以上汽车销量第一。M9 Ultimate 领世加长版起售价 64.98 万元，为中国量产尺寸最大的新能源 SUV 之一。",
+      "status": "active",
+      "source_ids": ["s11", "s2", "s6", "s4"]
+    },
+    {
+      "name_en": "AITO M8",
+      "name_zh": "问界 M8",
+      "role_en": "Family flagship SUV between M7 and M9 (EREV and pure-electric), launched April 2025.",
+      "role_zh": "介于 M7 与 M9 之间的家庭智慧旗舰 SUV（增程/纯电），2025 年 4 月上市。",
+      "price_band": "RMB359,800–449,800 (China, launch price, 16 Apr 2025); current from RMB359,800",
+      "founded": 2025,
+      "owner_note_en": "Launched on 16 April 2025 at RMB359,800–449,800 in Max/Max+/Ultra five- and six-seat versions, built on Huawei's Tuling platform with HUAWEI ADS 3.3 and a 192-line lidar; a pure-electric version followed in August 2025. It delivered more than 150,000 units in 2025, leading the RMB400,000-plus segment.",
+      "owner_note_zh": "2025 年 4 月 16 日上市（35.98 万–44.98 万元），提供 Max/Max+/Ultra 五座与六座版本，基于华为途灵平台、搭载 HUAWEI ADS 3.3 与 192 线激光雷达；同年 8 月推出纯电版。2025 年全年交付超 15 万辆、居 40 万元级销量第一。",
+      "status": "active",
+      "source_ids": ["s14", "s2"]
+    },
+    {
+      "name_en": "AITO M6",
+      "name_zh": "问界 M6",
+      "role_en": "Mid-to-large 5-seat SUV (EREV and pure-electric), launched April 2026 to complete the M5–M9 matrix.",
+      "role_zh": "中大型五座 SUV（增程/纯电），2026 年 4 月上市，补齐 M5–M9 产品矩阵。",
+      "price_band": "RMB229,800–299,800 (China, current guidance price); pure-electric from RMB229,800, EREV from RMB259,800",
+      "founded": 2026,
+      "owner_note_en": "Opened pre-orders on 23 March 2026 (orders topped 60,000 by late March, per the annual-report news release) and formally launched on 22 April 2026, positioned as a mid-to-large 5-seat SUV for family users, with an 896-line lidar standard on all but the entry pure-electric Max trim. Guidance price RMB229,800–299,800: the pure-electric Max starts at RMB229,800 and the EREV Max+ at RMB259,800. Cumulative deliveries passed 50,000 by early September 2026.",
+      "owner_note_zh": "2026 年 3 月 23 日开启小订（据年报新闻稿，3 月底订单突破 6 万）、4 月 22 日正式上市，定位中大型五座 SUV，面向家庭用户，除纯电 Max 入门版外标配 896 线激光雷达。指导价 22.98 万–29.98 万元：纯电 Max 22.98 万元起、增程 Max+ 25.98 万元起。截至 2026 年 9 月累计交付突破 5 万辆。",
+      "status": "active",
+      "source_ids": ["s2", "s18", "s4"]
+    },
+    {
+      "name_en": "Yinwang Intelligent Technology (引望)",
+      "name_zh": "引望智能技术有限公司（引望）",
+      "role_en": "Huawei's intelligent automotive solutions unit (former vehicle BU), an associate of Seres Group.",
+      "role_zh": "华为智能汽车解决方案业务主体（原车 BU），赛力斯集团的联营企业。",
+      "price_band": null,
+      "founded": 2024,
+      "owner_note_en": "Registered on 16 January 2024 as Shenzhen Yinwang Intelligent Technology to take over Huawei's vehicle BU; it was renamed Yinwang Intelligent Technology in April 2026. Seres Auto bought a 10% stake for RMB11.5 billion (paid in three instalments, completed by around end-2025); after completion Seres Group held a 9.36% equity interest. As of 2026 Huawei holds 80%, Avatr (Changan) 10% and Seres Auto 10% at the company level. Chairman is Xu Zhijun; Yu Chengdong is vice-chairman, Zhang Xinghai and Zhang Xiaoyu are directors, and Jin Yuzhi is CEO. Changan's Zhu Huarong ceased to be vice-chairman in an April 2026 registry change.",
+      "owner_note_zh": "2024 年 1 月 16 日以「深圳引望智能技术有限公司」注册成立，承接华为车 BU 业务；2026 年 4 月更名为「引望智能技术有限公司」。赛力斯汽车以 115 亿元收购其 10% 股权（分三期支付，约 2025 年底付清），交易完成后赛力斯集团持有 9.36% 权益。公司层面，华为持股 80%，阿维塔（长安）与赛力斯汽车各持股 10%。徐直军任董事长，余承东任副董事长，张兴海、张晓宇任董事，靳玉志任 CEO；长安朱华荣于 2026 年 4 月工商变更中卸任副董事长。",
+      "status": "active",
+      "source_ids": ["s28", "s29", "s32", "s37"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "hundred million (亿元)",
+    "standard": "PRC GAAP (China Accounting Standards)",
+    "rows": [],
+    "note_en": "AITO is a brand of Seres Group, not a separately listed or separately reporting entity, and it does not publish standalone financial statements. There are therefore no brand-level revenue, gross-margin, net-profit or R&D figures to report, and this table is left empty. The parent-level reference figures below are from Seres Group's periodic reports under PRC GAAP (China Accounting Standards), in RMB hundred million. FY2025: operating revenue of RMB165,054 million (up 13.69% year on year) and net profit attributable to shareholders of the listed company of RMB5,957 million (the company news release rounds these to RMB165.05 billion, 13.7% and RMB5.96 billion). The stated net-profit basis is \"attributable to shareholders of the listed company\" (i.e. attributable to owners of the parent), rather than a separately presented \"attributable to ordinary shareholders\" basis; Seres has no preference shares, so the two are in substance identical. 2025 R&D investment was RMB12.51 billion (separately, R&D expense was RMB7.95 billion — a different measure), and new-energy-vehicle gross margin was about 28.8%. H1 2026: operating revenue of RMB57,493 million (down 7.87% year on year) and a net loss attributable to shareholders of the listed company of RMB1,717 million. Seres does not break out AITO's own revenue or profit. This page presents only publicly disclosed information and does not constitute any trading recommendation.",
+    "note_zh": "问界是赛力斯集团旗下品牌，并非单独上市或单独披露报表的主体，不发布独立财务报表，因此品牌层面无单独的营收、毛利率、净利润或研发投入数据，本表留空。以下母公司参考数据均出自赛力斯集团在中国企业会计准则（CAS）下的定期报告，币种为人民币、单位为亿元。2025 年度：赛力斯营业总收入 1,650.54 亿元，同比增长 13.69%；归属于上市公司股东的净利润 59.57 亿元（公司新闻稿四舍五入为 1,650.5 亿元、13.7%、59.6 亿元）。该净利润口径为「归属于上市公司股东（即归属于母公司所有者）」，并非单独列示的「归属于普通股股东」口径；赛力斯无优先股，二者实质相同。2025 年研发投入 125.1 亿元（另有研发费用 79.5 亿元，为不同口径），新能源汽车毛利率约 28.8%。2026 年上半年：营业总收入 574.93 亿元，同比下降 7.87%；归属于上市公司股东的净利润亏损 17.17 亿元。赛力斯未单独披露问界品牌的收入或利润。本页仅呈现公开披露信息，不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>AITO (问界) is the premium intelligent new-energy vehicle brand of Seres Group Co., Ltd. (SSE 601127.SH / HKEX 9927.HK), created with Huawei under the Smart Selection model that later became the Harmony Intelligent Mobility Alliance (HIMA). Seres is responsible for vehicle engineering and manufacturing, while Huawei contributes the HarmonySpace cockpit, the Qiankun ADS intelligent-driving stack, product definition and the retail channel; Huawei holds no equity in the brand.<a href=\"https://hima.auto/wenjie/\">[s4]</a><a href=\"https://auto.cnr.cn/djfb/20260915/t20260915_527814532.shtml\">[s15]</a> The brand launched on 2 December 2021 at Seres's Liangjiang smart factory in Chongqing, and its name stands for \"Adding Intelligence to Auto\".<a href=\"https://aito.auto/news/preemptive-test-drive-20220120\">[s7]</a></p><p>The line-up spans five SUV series — M5, M6, M7, M8 and M9, plus the long-wheelbase M9 Ultimate — in extended-range (EREV) and pure-electric versions, with suggested retail prices from RMB229,800 to RMB649,800.<a href=\"https://hima.auto/wenjie/\">[s4]</a> Per Seres's 2025 annual report, AITO delivered 426,000 vehicles in 2025 and was, by the company's account, the best-selling Chinese premium brand in China's domestic market that year; cumulative users passed 1.2 million by October 2026.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a><a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a></p><p>In July 2024 Seres Auto bought the AITO/问界 trademarks and related design patents from Huawei for RMB2.5 billion, making Seres the brand owner.<a href=\"https://cdn-web.seres.cn/uploads/20240703/76e0d15554c7ab8d2493325d33c12d90.pdf\">[s3]</a> From 15 September 2026, product definition, marketing, retail and service are led by Seres, with Huawei providing technology empowerment, while AITO remains a member of HIMA.<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a> Seres's new-energy vehicles — overwhelmingly AITO — drove 2025 operating revenue of RMB165.054 billion, though the group does not break out AITO's own revenue.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a></p>",
+      "zh": "<p>问界（AITO）是赛力斯集团股份有限公司（上交所 601127.SH / 港交所 9927.HK）旗下高端智能新能源汽车品牌，由赛力斯与华为在「智选车」（后升级为鸿蒙智行，HIMA）模式下联合打造。赛力斯负责整车工程与制造，华为提供鸿蒙座舱、乾崑智驾 ADS 智能驾驶技术、产品定义与销售渠道，华为不持有品牌股权。<a href=\"https://hima.auto/wenjie/\">[s4]</a><a href=\"https://auto.cnr.cn/djfb/20260915/t20260915_527814532.shtml\">[s15]</a> 品牌于 2021 年 12 月 2 日在赛力斯重庆两江智慧工厂发布，AITO 意为「Adding Intelligence to Auto」（为汽车加入智能）。<a href=\"https://aito.auto/news/preemptive-test-drive-20220120\">[s7]</a></p><p>问界产品矩阵覆盖 M5、M6、M7、M8、M9 五款 SUV 系列及 M9 Ultimate 领世加长版，提供增程（EREV）与纯电两种动力，建议零售价 22.98 万–64.98 万元。<a href=\"https://hima.auto/wenjie/\">[s4]</a> 据赛力斯 2025 年年报，问界 2025 年交付 42.6 万辆，为公司所称当年国内市场销量最高的中国豪华品牌；截至 2026 年 10 月累计用户突破 120 万。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a><a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a></p><p>2024 年 7 月赛力斯汽车以 25 亿元收购华为持有的问界/AITO 商标及外观设计专利，品牌归赛力斯所有。<a href=\"https://cdn-web.seres.cn/uploads/20240703/76e0d15554c7ab8d2493325d33c12d90.pdf\">[s3]</a> 自 2026 年 9 月 15 日起，问界产品定义、营销、零售与服务由赛力斯主导、华为提供技术赋能，问界仍属鸿蒙智行成员。<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a> 以问界为主体的新能源汽车业务带动赛力斯 2025 年营业总收入达 1,650.54 亿元，但集团未单独披露问界品牌收入。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Positioning and product line</h3><p>AITO sits in the RMB230,000–650,000 premium SUV segment and competes with Tesla, Li Auto and electric offerings from German premium brands. The current official line-up and starting prices are: M5 (RMB229,800), M6 (RMB229,800), M7 (RMB279,800), M8 (RMB359,800), M9 (RMB479,800) and M9 Ultimate (RMB649,800).<a href=\"https://hima.auto/wenjie/\">[s4]</a> The flagship M9 has a CLTC combined range of 1,405 km, the M7 reaches 1,690 km, the M8 1,526 km and the M6 up to 1,605 km in EREV form.<a href=\"https://hima.auto/wenjie/\">[s4]</a></p><h3>Technology</h3><p>On the Huawei side, AITO uses the HarmonySpace cockpit and Qiankun ADS intelligent driving, from ADS 2.0 on the 2023 new M7 through later versions, plus the Tuling chassis platform and Huawei battery platforms.<a href=\"https://aito.auto/news/m7-new-launch-20230912/\">[s8]</a><a href=\"https://m.bjnews.com.cn/detail/1744812692168638.html\">[s14]</a> On the Seres side, the brand is built on the Magic-cube (魔方) technology platform, whose 2.0 version was unveiled in November 2025, and the Super EREV system; Seres says its range-extender business held more than 37.5% segment share in 2025 and its Super EREV system reaches 44.8% peak thermal efficiency.<a href=\"https://www.seres.cn/company-news/1513.html\">[s6]</a><a href=\"https://www.seres.cn/company-news/1391.html\">[s24]</a> The company reports that AITO users added 3.8 billion km of assisted-driving mileage in 2025, with 95.4% of users active, and that by September 2026 assisted-driving active users had passed one million with over 10 billion km of cumulative assisted-driving mileage.<a href=\"https://www.seres.cn/company-news/1383.html\">[s2]</a><a href=\"https://www.seres.cn/company-news/1513.html\">[s6]</a></p><h3>Manufacturing</h3><p>In its January 2025 inquiry reply Seres described three Chongqing plants — the Liangjiang factory, the Fenghuang factory and the Super Factory in Liangjiang New Area (commissioned February 2024), with combined capacity of about one million vehicles a year and the Super Factory planned for 700,000 units.<a href=\"https://cdn-web.seres.cn/uploads/20250117/a98eeaa4c204f9d7561141504f3671d8.pdf\">[s26]</a> By the 2026 interim report, Seres had acquired Longsheng New Energy (the Super Factory) as a wholly-owned subsidiary and described the Super Factory — with 100% automation of key processes — as the core production base for the AITO range.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></p><h3>Delivery trajectory and latest results</h3><p>AITO deliveries rose from roughly 78,000 in 2022 and 103,000 in 2023 (prospectus basis) to 387,000 in 2024 and 426,000 in 2025 per the 2025 annual report, with the September 2023 new-M7 relaunch as the turning point.<a href=\"https://cj.sina.cn/articles/view/6724296984/190cca11801901acbg\">[s34]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a> The 2025 annual report also shows the AITO average transaction price rising from RMB377,000 in 2024 to RMB391,000 in 2025, with R&D staff up from 6,201 to 9,019.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a> In the latest period, Seres's 2026 interim report (PRC GAAP) shows H1 2026 operating revenue of RMB57,493 million (down 7.87% year on year) and a net loss attributable to shareholders of the listed company of RMB1,717 million (versus a profit of RMB2,941 million a year earlier), with H1 new-energy-vehicle sales of 178,800 units (up 3.87%).<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF\">[s19]</a> The September 2026 production-and-sales report shows January–September 2026 new-energy-vehicle sales of 256,521 units, down 15.79% year on year.<a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a></p><h3>Overseas</h3><p>AITO's overseas entry is at an early stage. In February 2026 it signed a strategic cooperation agreement with Abu Dhabi Motors (ADM), a UAE luxury-car dealer group, under which ADM will handle AITO sales, delivery and after-sales in the UAE; AITO said its models had completed local adaptation and certification and that the M9 was in local customer test drives.<a href=\"https://www.seres.cn/company-news/1373.html\">[s25]</a> At the October 2026 Paris Motor Show AITO announced a plan to enter the European market in autumn 2027, targeting EU whole-vehicle type approval and a five-star safety standard under Euro NCAP 2026, with localised adaptation for European roads and driving preferences.<a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a><a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a></p>",
+      "zh": "<h3>定位与产品线</h3><p>问界定位于 23 万–65 万元的高端 SUV 市场，与特斯拉、理想及德系豪华品牌的电动车型竞争。现售车型与起售价为：M5 22.98 万元、M6 22.98 万元、M7 27.98 万元、M8 35.98 万元、M9 47.98 万元、M9 Ultimate 64.98 万元。<a href=\"https://hima.auto/wenjie/\">[s4]</a> 旗舰 M9 的 CLTC 综合续航达 1,405 公里，M7 达 1,690 公里，M8 达 1,526 公里，M6 增程版综合续航最高 1,605 公里。<a href=\"https://hima.auto/wenjie/\">[s4]</a></p><h3>技术</h3><p>华为侧，问界采用鸿蒙座舱与乾崑智驾 ADS 智驾系统，自 2023 年新 M7 的 ADS 2.0 迭代至后续版本，并搭载途灵底盘平台与华为电池平台。<a href=\"https://aito.auto/news/m7-new-launch-20230912/\">[s8]</a><a href=\"https://m.bjnews.com.cn/detail/1744812692168638.html\">[s14]</a> 赛力斯侧，品牌依托魔方技术平台（2.0 版于 2025 年 11 月发布）与超级增程系统，公司称 2025 年增程器业务市占率超 37.5%、超级增程系统最高热效率 44.8%。<a href=\"https://www.seres.cn/company-news/1513.html\">[s6]</a><a href=\"https://www.seres.cn/company-news/1391.html\">[s24]</a> 公司披露，2025 年问界用户新增智能辅助驾驶里程 38 亿公里、活跃用户占比 95.4%；截至 2026 年 9 月辅助驾驶活跃用户突破 100 万、累计辅助驾驶里程超 100 亿公里。<a href=\"https://www.seres.cn/company-news/1383.html\">[s2]</a><a href=\"https://www.seres.cn/company-news/1513.html\">[s6]</a></p><h3>制造</h3><p>赛力斯在 2025 年 1 月的审核问询函回复中披露重庆三座工厂——两江工厂、凤凰工厂，以及 2024 年 2 月投产的两江新区超级工厂，合计年产能约 100 万辆，其中超级工厂规划年产能 70 万辆。<a href=\"https://cdn-web.seres.cn/uploads/20250117/a98eeaa4c204f9d7561141504f3671d8.pdf\">[s26]</a> 至 2026 年中期报告，赛力斯已收购龙盛新能源（超级工厂）为其全资子公司，并称关键工序 100% 自动化的超级工厂系问界系列车型的核心生产基地。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></p><h3>销量轨迹与最新业绩</h3><p>问界交付量由 2022 年约 7.8 万辆、2023 年约 10.3 万辆（招股书口径），增至 2024 年 38.7 万辆、2025 年 42.6 万辆（2025 年年报口径），2023 年 9 月新 M7 焕新上市成为转折点。<a href=\"https://cj.sina.cn/articles/view/6724296984/190cca11801901acbg\">[s34]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a> 2025 年年报还显示，问界成交均价由 2024 年的 37.7 万元升至 2025 年的 39.1 万元，研发人员由 6,201 人增至 9,019 人。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a> 最新一期，赛力斯 2026 年半年报（中国企业会计准则）显示，2026 年上半年集团营业总收入 574.93 亿元（同比下降 7.87%）、归属于上市公司股东的净利润亏损 17.17 亿元（上年同期盈利 29.41 亿元），上半年新能源汽车销量 17.88 万辆（同比增长 3.87%）。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF\">[s19]</a> 2026 年 9 月产销快报显示，2026 年 1–9 月新能源汽车销量 25.65 万辆、同比下降 15.79%。<a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a></p><h3>海外</h3><p>问界出海尚处早期。2026 年 2 月，AITO 与阿联酋豪华汽车经销商集团 Abu Dhabi Motors（ADM）签署战略合作协议，由 ADM 负责 AITO 在阿联酋的销售、交付与售后服务；公司称其车型已完成本地化适配与当地认证，M9 已在当地开展用户试驾。<a href=\"https://www.seres.cn/company-news/1373.html\">[s25]</a> 2026 年 10 月巴黎车展上，问界宣布计划于 2027 年秋季进入欧洲市场，以欧盟整车型式认证与 Euro NCAP 2026 五星安全标准为目标，并围绕欧洲道路环境与驾驶偏好做本地化适配。<a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a><a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Brand governance</h3><p>AITO has no separate chief executive; it is operated within Seres Group under the HIMA model. Seres owns the brand after buying the AITO/问界 trademarks from Huawei in July 2024, and Huawei holds no equity in the brand; Seres Auto separately holds a 10% stake in the Huawei intelligent-vehicle unit Yinwang, giving the group a 9.36% equity interest.<a href=\"https://cdn-web.seres.cn/uploads/20240703/76e0d15554c7ab8d2493325d33c12d90.pdf\">[s3]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></p><h3>Founder</h3><p>Zhang Xinghai (张兴海) founded the group's predecessor as a spring factory in Chongqing in 1986, moved into mini-vehicles with Dongfeng in 2003 and pivoted to new-energy vehicles in 2016. He is today chairman (founder) of Seres Group and was identified as actual controller in the 2025 annual report.<a href=\"https://www.seres.cn/company-news/38.html\">[s23]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a></p><h3>Key figures</h3><ul><li><strong>Zhang Xinghai (张兴海)</strong> — chairman (founder) and actual controller of Seres Group; he stepped down as chairman of Seres Auto in June 2026.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a><a href=\"https://www.cnr.cn/2013qcpd/hy/20260613/t20260613_527659402.shtml\">[s35]</a></li><li><strong>Zhang Zhengping (张正萍)</strong> — chairman of Seres Auto since a June 2026 registry change; he is Zhang Xinghai's son and previously led Seres's US company and Seres Auto.<a href=\"https://www.cnenergynews.cn/article/4RuFdMjK67i\">[s36]</a><a href=\"https://www.cnr.cn/2013qcpd/hy/20260613/t20260613_527659402.shtml\">[s35]</a></li><li><strong>Yin Xianzhi (尹先知)</strong> — executive director and president of Seres Group.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></li><li><strong>He Liyang (何利扬)</strong> — president of Seres Auto, promoted from director to vice-chairman in the June 2026 change; he represented Seres at AITO launches such as the M8.<a href=\"https://www.cnenergynews.cn/article/4RuFdMjK67i\">[s36]</a><a href=\"https://m.bjnews.com.cn/detail/1744812692168638.html\">[s14]</a></li><li><strong>Kang Bo (康波)</strong> — executive director and vice-president of Seres Group, a public spokesperson for the 2026 cooperation-model adjustment and the Europe plan.<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202609206fddf18afb22409ea7b01111cdf612cb\">[s10]</a><a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a></li><li><strong>Yu Chengdong (Richard Yu, 余承东)</strong> — Huawei executive director, chairman of the Product Investment Review Board and chairman of the Device BG, the public face of the AITO/HIMA partnership; he is also vice-chairman of Yinwang.<a href=\"https://huawei.com/cn/executives/board-of-directors/yu-chengdong\">[s33]</a><a href=\"https://www.stcn.com/article/detail/3585738.html\">[s29]</a></li></ul><h3>Ownership and governance</h3><p>At end-2025 the largest shareholder of Seres Group was Chongqing Xiaokang Holding (20.98% directly plus 2.01% via a guarantee-and-trust account, 22.99% in total), followed by Dongfeng Motor Group (18.79%) and Chongqing Yu'an Automobile Industry (3.79%). Zhang Xinghai holds 50% of Xiaokang Holding; he also holds 11.97% of Yu'an personally while Xiaokang Holding holds 17.33% of Yu'an. The annual report identifies Zhang Xinghai as the actual controller.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a> The 2026 interim report lists Zhang Xinghai as executive director and chairman, Yin Xianzhi as executive director and president, and Kang Bo as executive director.<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></p>",
+      "zh": "<h3>品牌治理</h3><p>问界没有独立的首席执行官，由赛力斯集团在鸿蒙智行体系下运营。2024 年 7 月赛力斯从华为收购问界/AITO 商标后，品牌归赛力斯所有，华为不持有品牌股权；赛力斯汽车另持有华为智能汽车业务主体引望 10% 股权，集团持有引望 9.36% 权益。<a href=\"https://cdn-web.seres.cn/uploads/20240703/76e0d15554c7ab8d2493325d33c12d90.pdf\">[s3]</a><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></p><h3>创始人</h3><p>张兴海 1986 年在重庆创办弹簧厂，2003 年与东风合作进入微车领域，2016 年转型新能源汽车，现任赛力斯集团董事长（创始人），2025 年年报认定其为公司实际控制人。<a href=\"https://www.seres.cn/company-news/38.html\">[s23]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a></p><h3>关键人物</h3><ul><li><strong>张兴海</strong>——赛力斯集团董事长（创始人）、实际控制人；2026 年 6 月卸任赛力斯汽车董事长。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a><a href=\"https://www.cnr.cn/2013qcpd/hy/20260613/t20260613_527659402.shtml\">[s35]</a></li><li><strong>张正萍</strong>——2026 年 6 月工商变更后任赛力斯汽车董事长，为张兴海之子，此前曾任赛力斯汽车总经理等职。<a href=\"https://www.cnenergynews.cn/article/4RuFdMjK67i\">[s36]</a><a href=\"https://www.cnr.cn/2013qcpd/hy/20260613/t20260613_527659402.shtml\">[s35]</a></li><li><strong>尹先知</strong>——赛力斯集团执行董事兼总裁。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></li><li><strong>何利扬</strong>——赛力斯汽车总裁，2026 年 6 月由董事升任副董事长，代表赛力斯出席问界新品发布（如 M8 上市）。<a href=\"https://www.cnenergynews.cn/article/4RuFdMjK67i\">[s36]</a><a href=\"https://m.bjnews.com.cn/detail/1744812692168638.html\">[s14]</a></li><li><strong>康波</strong>——赛力斯集团执行董事、副总裁，2026 年问界合作模式调整与欧洲拓展计划的公司公开发言人。<a href=\"https://app.xinhuanet.com/news/article.html?articleId=202609206fddf18afb22409ea7b01111cdf612cb\">[s10]</a><a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a></li><li><strong>余承东（Richard Yu）</strong>——华为常务董事、产品投资评审委员会主任、终端 BG 董事长，问界/鸿蒙智行合作的华为方代表，多次共同发布品牌车型；同时任引望副董事长。<a href=\"https://huawei.com/cn/executives/board-of-directors/yu-chengdong\">[s33]</a><a href=\"https://www.stcn.com/article/detail/3585738.html\">[s29]</a></li></ul><h3>股权与治理</h3><p>截至 2025 年末，赛力斯集团第一大股东为重庆小康控股有限公司（直接持股 20.98%、另通过担保及信托财产专户持股 2.01%，合计 22.99%），东风汽车集团有限公司持股 18.79%，重庆渝安汽车工业有限公司持股 3.79%。张兴海持有重庆小康控股 50% 股权，本人另持有渝安 11.97% 股权，小康控股持有渝安 17.33% 股权。年报认定张兴海为实际控制人。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a> 2026 年中期报告列示张兴海为执行董事、董事长，尹先知为执行董事兼总裁，康波为执行董事。<a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf\">[s32]</a></p>"
+    },
+    "competition": {
+      "en": "<p>AITO competes mainly in China's RMB230,000–650,000 premium SUV segment. Its direct reference set includes Tesla's Model Y, Li Auto's L-series, XPeng, Zeekr and, in the upper band, the Mercedes-Benz, BMW and Audi electric SUVs; within HIMA it coexists with Luxeed (Chery), Stelato (BAIC), Maextro (JAC) and Shangjie (SAIC), and is HIMA's volume leader.<a href=\"https://hima.auto/wenjie/\">[s4]</a><a href=\"https://www.seres.cn/company-news/1383.html\">[s2]</a></p><p><strong>Our judgment.</strong> AITO's strengths are Huawei's intelligent-driving and cockpit stack and brand pull, Seres's EREV and manufacturing capability, and scale in the premium segment (426,000 deliveries in 2025 and more than 1.2 million cumulative users), which underpins its sales-and-service network and a large assisted-driving data base.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a><a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a> Its main weaknesses are reliance on Huawei's product momentum and channel — a dependence the September 2026 handover to Seres-led operations is meant to address but has not yet proven — a 2026 volume decline, and the fact that AITO's own profitability cannot be assessed because Seres does not break out the brand's financials.<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225053031.PDF\">[s1]</a></p>",
+      "zh": "<p>问界主要在中国 23 万–65 万元的高端 SUV 市场参与竞争，直接参照对象包括特斯拉 Model Y、理想 L 系列、小鹏、极氪，以及高端区间的奔驰、宝马、奥迪电动 SUV；在鸿蒙智行内部，其与智界（奇瑞）、享界（北汽）、尊界（江淮）、尚界（上汽）并存，问界为鸿蒙智行的销量主力。<a href=\"https://hima.auto/wenjie/\">[s4]</a><a href=\"https://www.seres.cn/company-news/1383.html\">[s2]</a></p><p><strong>我们的判断。</strong>问界的优势在于华为智驾与座舱全栈技术与品牌势能、赛力斯的增程与制造能力，以及高端市场的规模（2025 年交付 42.6 万辆、累计用户超 120 万），这为其销售服务体系与大规模智驾数据提供了基础。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF\">[s21]</a><a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a> 主要短板在于对华为产品势能与渠道的依赖——2026 年 9 月转向赛力斯主导正是为应对这一依赖，但尚未得到验证；2026 年销量下滑，以及赛力斯未单独披露问界财务数据，使品牌自身盈利能力难以评估。<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225053031.PDF\">[s1]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> Seres has said it will focus on the premium intelligent-EV business and aims for a second one million AITO vehicles within two years, while accelerating overseas model development.<a href=\"https://www.seres.cn/company-news/1383.html\">[s2]</a> AITO announced at the 2026 Paris Motor Show that it plans to enter the European market in autumn 2027, targeting EU whole-vehicle type approval and a five-star safety standard under Euro NCAP 2026, and pursuing localised adaptation for European roads, driving preferences and lifestyle.<a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a><a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a> The 15 September 2026 cooperation-model adjustment transfers product definition, marketing, retail and service to Seres, with Huawei continuing technology empowerment; the other four HIMA brands keep the Huawei-led model.<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a></p><p><strong>Our analysis.</strong> Our judgment: AITO's 2024–2025 growth was driven by Huawei's brand pull and a strong M7/M8/M9 product cycle; whether it continues depends on premises that are not guaranteed — a successful handover to Seres-led operations without losing Huawei's traffic, a fresh product cycle to reverse the 2026 decline (Seres reported new-energy-vehicle sales down 15.79% year on year in January–September 2026), and whether Europe and the new M6 can diversify the brand's domestic concentration. If these conditions fail, the H1 2026 group loss could persist.<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF\">[s19]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>赛力斯表示将坚定聚焦高端智能电动汽车主业，力争两年内实现第二个百万辆目标，同时加快海外车型研发。<a href=\"https://www.seres.cn/company-news/1383.html\">[s2]</a> 问界在 2026 巴黎车展宣布计划于 2027 年秋季进入欧洲市场，以欧盟整车型式认证与 Euro NCAP 2026 五星安全标准为目标，并围绕欧洲道路环境、驾驶偏好与生活方式做本地化适配。<a href=\"https://www.seres.cn/company-news/1509.html\">[s5]</a><a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a> 2026 年 9 月 15 日的合作模式调整将产品定义、营销、零售与服务转由赛力斯主导、华为继续技术赋能；鸿蒙智行其余四界仍采用华为全流程主导模式。<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a></p><p><strong>我们的分析。</strong>我们的判断：问界 2024–2025 年的增长由华为品牌势能与强劲的 M7/M8/M9 产品周期驱动；能否延续取决于若干并不必然成立的前提——在不流失华为流量前提下顺利完成向赛力斯主导运营的交接、以新一轮产品周期扭转 2026 年下滑（赛力斯披露 2026 年 1–9 月新能源汽车销量同比下滑 15.79%），以及欧洲市场与新 M6 能否对冲国内集中度。若这些条件不成立，2026 年上半年的集团亏损可能延续。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF\">[s19]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Dependence on Huawei.</strong> AITO relies on Huawei's intelligent-driving and cockpit technology, channel and brand pull; the September 2026 move to Seres-led operations is a structural change whose execution has yet to be demonstrated.<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a></li><li><strong>Volume decline and group loss.</strong> Seres's new-energy-vehicle sales fell 15.79% year on year in January–September 2026, and the group posted an attributable net loss in H1 2026, indicating a product-cycle cooling.<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF\">[s19]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a></li><li><strong>No standalone financial disclosure.</strong> AITO does not report separate financials, so its profitability cannot be assessed independently; Seres does not break out AITO's revenue or profit.<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225053031.PDF\">[s1]</a></li><li><strong>Intense premium competition.</strong> The RMB300,000-plus segment faces price pressure from traditional luxury brands and rival NEV flagships.<a href=\"https://hima.auto/wenjie/\">[s4]</a></li><li><strong>Overseas entry risks.</strong> The autumn-2027 Europe plan is subject to EU type approval, Euro NCAP, data-compliance and trade-policy requirements, and to local adaptation; it is a plan, not yet realised sales.<a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a></li></ul>",
+      "zh": "<ul><li><strong>对华为的依赖。</strong>问界依赖华为的智驾与座舱技术、渠道与品牌势能；2026 年 9 月转向赛力斯主导运营是结构性调整，其执行效果尚未得到验证。<a href=\"https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html\">[s9]</a></li><li><strong>销量下滑与集团亏损。</strong>赛力斯 2026 年 1–9 月新能源汽车销量同比下滑 15.79%，2026 年上半年归母亏损，显示产品周期出现回落。<a href=\"https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF\">[s19]</a><a href=\"https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF\">[s20]</a></li><li><strong>无单独财务披露。</strong>问界不单独披露财务，盈利能力无法独立评估；赛力斯未单独披露问界品牌的收入或利润。<a href=\"https://static.cninfo.com.cn/finalpage/2026-03-31/1225053031.PDF\">[s1]</a></li><li><strong>高端市场竞争激烈。</strong>30 万元以上区间面临传统豪华品牌降价与新能源旗舰的双重挤压。<a href=\"https://hima.auto/wenjie/\">[s4]</a></li><li><strong>出海风险。</strong>2027 年秋季进入欧洲的计划受欧盟型式认证、Euro NCAP、数据合规与贸易政策要求及本地化适配约束，属于计划、尚未形成实际销量。<a href=\"https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html\">[s16]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "赛力斯集团股份有限公司2025年年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225053031.PDF", "date": "2026-03-31", "tier": "A" },
+    { "id": "s2", "name": "赛力斯2025年报：全年营收1650.5亿元 实现净利润59.6亿元（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/1383.html", "date": "2026-03-30", "tier": "A" },
+    { "id": "s3", "name": "赛力斯集团股份有限公司关于购买资产的公告（收购问界等商标及专利）", "url": "https://cdn-web.seres.cn/uploads/20240703/76e0d15554c7ab8d2493325d33c12d90.pdf", "date": "2024-07-03", "tier": "A" },
+    { "id": "s4", "name": "问界（鸿蒙智行官网）", "url": "https://hima.auto/wenjie/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s5", "name": "问界亮相巴黎车展 官宣2027年秋季进入欧洲市场（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/1509.html", "date": "2026-10-12", "tier": "A" },
+    { "id": "s6", "name": "赛力斯亮相2026世界智能网联汽车大会（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/1513.html", "date": "2026-10-22", "tier": "A" },
+    { "id": "s7", "name": "AITO问界M5媒体抢先试驾会（AITO官网，含品牌发布时间与命名由来）", "url": "https://aito.auto/news/preemptive-test-drive-20220120", "date": "2022-01-20", "tier": "A" },
+    { "id": "s8", "name": "问界新M7发布即交付（AITO官网）", "url": "https://aito.auto/news/m7-new-launch-20230912/", "date": "2023-09-12", "tier": "A" },
+    { "id": "s9", "name": "问界合作模式重大调整 赛力斯接棒主导运营（中证网）", "url": "https://www.cs.com.cn/ssgs/01/2026/09/15/detail_2026091510039385.html", "date": "2026-09-15", "tier": "B" },
+    { "id": "s10", "name": "赛力斯康波回应问界专属专营新模式（新华网客户端）", "url": "https://app.xinhuanet.com/news/article.html?articleId=202609206fddf18afb22409ea7b01111cdf612cb", "date": "2026-09-20", "tier": "B" },
+    { "id": "s11", "name": "问界M9终亮相 多款新品亮相华为冬季全场景发布会（新华网）", "url": "https://www.news.cn/tech/20231227/317d6893f20b4d388be5e808a71d1cdc/c.html", "date": "2023-12-27", "tier": "B" },
+    { "id": "s12", "name": "AITO品牌首款新品问界M5智能汽车发布（中证网）", "url": "https://cs.com.cn/qc/202112/t20211224_6230347.html", "date": "2021-12-24", "tier": "B" },
+    { "id": "s13", "name": "问界M7售31.98万元起（中国经济网汽车）", "url": "https://auto.ce.cn/auto/gundong/202207/06/t20220706_37835993.shtml", "date": "2022-07-06", "tier": "B" },
+    { "id": "s14", "name": "问界M8正式上市，售价35.98万元起（新京报）", "url": "https://m.bjnews.com.cn/detail/1744812692168638.html", "date": "2025-04-16", "tier": "B" },
+    { "id": "s15", "name": "鸿蒙智行官宣问界合作模式调整：赛力斯主导运营，华为终端参与赋能（央广网汽车）", "url": "https://auto.cnr.cn/djfb/20260915/t20260915_527814532.shtml", "date": "2026-09-15", "tier": "B" },
+    { "id": "s16", "name": "智慧重塑豪华 问界亮相2026巴黎车展（中证网）", "url": "https://www.cs.com.cn/ssgs/07/2026/10/13/detail_2026101310044347.html", "date": "2026-10-13", "tier": "B" },
+    { "id": "s17", "name": "华为获得「问界」汽车类商标（中国青年网）", "url": "https://auto.cyol.com/gb/articles/2023-06/12/content_v6bGlqcMYv.html", "date": "2023-06-12", "tier": "B" },
+    { "id": "s18", "name": "问界M6上市时间及价格全解析：22.98万起，4月22日上市（新浪汽车）", "url": "https://auto.sina.cn/2026-10-06/detail-iniuhpzm5713012.d.html", "date": "2026-10-06", "tier": "B" },
+    { "id": "s19", "name": "赛力斯集团股份有限公司2026年半年度报告（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF", "date": "2026-08-20", "tier": "A" },
+    { "id": "s20", "name": "赛力斯集团股份有限公司2026年9月产销快报（巨潮资讯网）", "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597681.PDF", "date": "2026-10-09", "tier": "A" },
+    { "id": "s21", "name": "赛力斯集团股份有限公司2025年年度报告摘要（巨潮资讯网，含实际控制人、股东持股与经营数据表）", "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225052750.PDF", "date": "2026-03-31", "tier": "A" },
+    { "id": "s22", "name": "赛力斯今日登陆港交所主板 以「A+H」双资本平台赋能全球化新征程（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/1306.html", "date": "2025-11-05", "tier": "A" },
+    { "id": "s23", "name": "赛力斯创始人张兴海：做大朋友圈 构建万物互联的汽车生态体系（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/38.html", "date": "2022-07-31", "tier": "A" },
+    { "id": "s24", "name": "引领AI汽车新时代 赛力斯魔方技术平台2.0广州国际车展发布（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/1391.html", "date": "2025-11-21", "tier": "A" },
+    { "id": "s25", "name": "AITO与Abu Dhabi Motors达成战略合作（赛力斯公司新闻稿）", "url": "https://www.seres.cn/company-news/1373.html", "date": "2026-02-06", "tier": "A" },
+    { "id": "s26", "name": "赛力斯集团股份有限公司关于发行股份购买资产申请的审核问询函回复（含两江/凤凰/超级工厂产能）", "url": "https://cdn-web.seres.cn/uploads/20250117/a98eeaa4c204f9d7561141504f3671d8.pdf", "date": "2025-01-17", "tier": "A" },
+    { "id": "s27", "name": "赛力斯挂牌港交所 张兴海：「A+H」双平台开启全球化新程（中证网，含创业史）", "url": "https://www.cs.com.cn/gppd/ggzx/202511/t20251107_6522090.html", "date": "2025-11-07", "tier": "B" },
+    { "id": "s28", "name": "华为大动作！成立新公司（中证网，含深圳引望成立时间与股权结构）", "url": "https://jnzstatic.cs.com.cn/zzb/htmlInfo/f3a7d54b40f97444ee48eb1418e39bb8.html", "date": "2025-02-20", "tier": "B" },
+    { "id": "s29", "name": "引望辟谣「今年下半年上市」，阿维塔和赛力斯是股东（证券时报）", "url": "https://www.stcn.com/article/detail/3585738.html", "date": "2026-01-11", "tier": "B" },
+    { "id": "s30", "name": "赛力斯：2026年上半年实现营业总收入574.93亿元（中新经纬）", "url": "https://m.chinanews.com/wap/detail/cht/zw/jw684310.shtml", "date": "2026-08-19", "tier": "B" },
+    { "id": "s31", "name": "赛力斯集团截至2025年12月31日止年度的经审计业绩公告（港交所，含经营数据表）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033000577_c.pdf", "date": "2026-03-30", "tier": "A" },
+    { "id": "s32", "name": "赛力斯集团股份有限公司2026年中期报告（港交所，含董事会、超级工厂与引望权益）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901534_c.pdf", "date": "2026-08-19", "tier": "A" },
+    { "id": "s33", "name": "余承东先生（华为官网高管页）", "url": "https://huawei.com/cn/executives/board-of-directors/yu-chengdong", "date": "2026-10-29", "tier": "A" },
+    { "id": "s34", "name": "赛力斯作价2150亿港元冲刺IPO（新浪财经，引招股书问界历年销量）", "url": "https://cj.sina.cn/articles/view/6724296984/190cca11801901acbg", "date": "2025-10-27", "tier": "B" },
+    { "id": "s35", "name": "打破「交班」谣言，赛力斯集团董事长张兴海出席重庆论坛（央广网，含张兴海卸任赛力斯汽车董事长）", "url": "https://www.cnr.cn/2013qcpd/hy/20260613/t20260613_527659402.shtml", "date": "2026-06-13", "tier": "B" },
+    { "id": "s36", "name": "张兴海卸任赛力斯汽车董事长，张正萍接任（中国能源网，含何利扬升任副董事长）", "url": "https://www.cnenergynews.cn/article/4RuFdMjK67i", "date": "2026-06-08", "tier": "B" },
+    { "id": "s37", "name": "华为引望正式更名（新浪财经，含朱华荣卸任副董事长、张晓宇新任董事）", "url": "https://finance.sina.cn/2026-04-13/detail-inhukeew2299014.d.html", "date": "2026-04-13", "tier": "B" }
+  ]
+}

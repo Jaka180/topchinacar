@@ -1,0 +1,316 @@
+{
+  "id": "jetour",
+  "name_en": "Jetour (Chery)",
+  "name_zh": "捷途（奇瑞）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand founded (as a product sequence)",
+      "label_zh": "品牌创立（产品序列）",
+      "value_en": "2018-01-22",
+      "value_zh": "2018 年 1 月 22 日",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Upgraded to independent brand",
+      "label_zh": "升级为独立品牌",
+      "value_en": "2021-07",
+      "value_zh": "2021 年 7 月",
+      "period": null,
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Parent company",
+      "label_zh": "所属集团",
+      "value_en": "Chery Holding Group; one of the five passenger-vehicle brands of the listed Chery Automobile Co., Ltd. (HKEX 9973.HK), alongside Chery, Exeed, iCAR and Luxeed",
+      "value_zh": "奇瑞控股集团旗下；与奇瑞、星途、iCAR、智界并列为奇瑞汽车股份有限公司（港交所 9973.HK）五大乘用车品牌之一",
+      "period": null,
+      "source_ids": ["s2", "s7"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Wuhu, Anhui (registered office of parent Chery; Jetour does not separately disclose a registered address)",
+      "value_zh": "安徽芜湖（母公司奇瑞注册地；捷途未单独披露注册地址）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Mixed ownership (parent Chery Automobile is mixed-ownership with no actual controller)",
+      "value_zh": "混合所有制（母公司奇瑞汽车为混合所有制、无实际控制人）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Not separately listed; parent Chery Automobile listed on HKEX (9973.HK) on 2025-09-25",
+      "value_zh": "未单独上市；母公司奇瑞汽车 2025-09-25 于港交所上市（9973.HK）",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未公开披露",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "最近财年营收",
+      "value_en": "Not separately disclosed at brand level",
+      "value_zh": "品牌层面未单独披露",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Net profit (latest fiscal year)",
+      "label_zh": "最近财年净利润",
+      "value_en": "Not separately disclosed at brand level",
+      "value_zh": "品牌层面未单独披露",
+      "period": null,
+      "source_ids": ["s7"]
+    },
+    {
+      "label_en": "Sales 2025",
+      "label_zh": "2025 年销量",
+      "value_en": "622,590 units (about +9.5% YoY)",
+      "value_zh": "62.26 万辆（同比增长约 9.5%）",
+      "period": "2025",
+      "source_ids": ["s12", "s13", "s15"]
+    },
+    {
+      "label_en": "Sales 2024",
+      "label_zh": "2024 年销量",
+      "value_en": "568,400 units (+80.3% YoY); about 394,000 domestic, 174,000 exported",
+      "value_zh": "56.84 万辆（同比 +80.3%）；国内约 39.4 万辆、出口约 17.4 万辆",
+      "period": "2024",
+      "source_ids": ["s14", "s16"]
+    },
+    {
+      "label_en": "Sales 2026 Q1-Q3",
+      "label_zh": "2026 年前三季度销量",
+      "value_en": "417,600 units (-9.1% YoY); September 2026 alone 57,497 units (+1.6% YoY)",
+      "value_zh": "41.76 万辆（同比 -9.1%）；9 月单月 57,497 辆（同比 +1.6%）",
+      "period": "2026 1-9",
+      "source_ids": ["s15"]
+    },
+    {
+      "label_en": "Exports 2025",
+      "label_zh": "2025 年出口",
+      "value_en": "About 246,300 units, roughly 40% of global sales (D1EV compilation of CPCA data)",
+      "value_zh": "约 24.63 万辆，约占全球销量四成（第一电动据乘联会数据）",
+      "period": "2025",
+      "source_ids": ["s14"]
+    },
+    {
+      "label_en": "Markets covered",
+      "label_zh": "覆盖市场",
+      "value_en": "More than 100 countries and regions (as of November 2025)",
+      "value_zh": "100 多个国家和地区（截至 2025 年 11 月）",
+      "period": "as of 2025-11",
+      "source_ids": ["s18"]
+    },
+    {
+      "label_en": "Cumulative sales",
+      "label_zh": "累计销量",
+      "value_en": "1.5 million by end-2024 (65 countries); 2.1 million in 88 months by November 2025; 2.39 million by June 2026; 2.56 million by October 2026",
+      "value_zh": "截至 2024 年底 150 万辆（65 国）；截至 2025 年 11 月 88 个月 210 万辆；2026 年 6 月 239 万辆；2026 年 10 月 256 万辆",
+      "period": null,
+      "source_ids": ["s1", "s18", "s24", "s25"]
+    },
+    {
+      "label_en": "Vision",
+      "label_zh": "品牌愿景",
+      "value_en": "Global No.1 hybrid off-road brand (official site); reframed as global No.1 off-road brand at the June 2026 Dunhuang conference",
+      "value_zh": "「全球第一电混越野品牌」（官网）；2026 年 6 月敦煌大会重申为「全球第一越野品牌」",
+      "period": null,
+      "source_ids": ["s1", "s24"]
+    }
+  ],
+  "history": [
+    { "date": "2018-01", "event_en": "Jetour launched as a product sequence of Chery Holding Group on 22 January 2018.", "event_zh": "2018 年 1 月 22 日，捷途作为奇瑞控股集团的产品序列正式发布。", "source_ids": ["s1", "s2"] },
+    { "date": "2018-06", "event_en": "First Jetour Travel+ experience day held (later renamed the Jetour Travel+ conference).", "event_zh": "首届捷途「旅行+」体验日举行（后更名「捷途旅行+」大会）。", "source_ids": ["s1"] },
+    { "date": "2018-08", "event_en": "First model, the X70 seven-seat SUV, went on sale nationwide on 18 August 2018, launched at 69,900–120,900 yuan.", "event_zh": "首款车型 X70 大七座 SUV 于 8 月 18 日全国上市，上市价 6.99 万–12.09 万元。", "source_ids": ["s1", "s3", "s17"] },
+    { "date": "2018-10", "event_en": "First Jetour fan culture festival held.", "event_zh": "首届捷途粉丝文化节举行。", "source_ids": ["s1"] },
+    { "date": "2018-12", "event_en": "Cumulative sales reached 40,007 units in just over four months since the X70 launch.", "event_zh": "X70 上市四个多月，累计销量达 40,007 辆。", "source_ids": ["s3"] },
+    { "date": "2019-01", "event_en": "X90 large seven-seat SUV went on sale nationwide.", "event_zh": "捷途 X90 大七座 SUV 全国上市。", "source_ids": ["s1"] },
+    { "date": "2019-11", "event_en": "X95 launched.", "event_zh": "捷途 X95 上市。", "source_ids": ["s1"] },
+    { "date": "2020-02", "event_en": "200,000th vehicle rolled off the line.", "event_zh": "第 20 万辆整车下线。", "source_ids": ["s1"] },
+    { "date": "2020-12", "event_en": "Reached 300,000-plus cumulative sales in 28 months.", "event_zh": "28 个月获 30 万+销量。", "source_ids": ["s1"] },
+    { "date": "2021-03", "event_en": "Introduced a lifetime whole-vehicle warranty policy for the entire lineup.", "event_zh": "推出「全系整车终身质保」政策。", "source_ids": ["s1"] },
+    { "date": "2021-07", "event_en": "Jetour upgraded from a product sequence to an independent brand.", "event_zh": "捷途汽车升级为独立品牌。", "source_ids": ["s1", "s2"] },
+    { "date": "2021-08", "event_en": "Cumulative sales passed 400,000 units.", "event_zh": "累计销量突破 40 万辆。", "source_ids": ["s1"] },
+    { "date": "2022-06", "event_en": "Lit up the Burj Khalifa in Dubai as part of its early overseas branding push.", "event_zh": "在迪拜点亮哈利法塔，开启早期海外品牌推广。", "source_ids": ["s1"] },
+    { "date": "2022-07", "event_en": "Brand logo refreshed.", "event_zh": "捷途汽车品牌标志焕新。", "source_ids": ["s1"] },
+    { "date": "2022-09", "event_en": "Dasheng compact SUV launched.", "event_zh": "捷途大圣上市。", "source_ids": ["s1"] },
+    { "date": "2022-11", "event_en": "600,000th vehicle rolled off the line.", "event_zh": "第 60 万辆整车下线。", "source_ids": ["s1"] },
+    { "date": "2023-09-26", "event_en": "Traveller, Jetour's first light off-road SUV on the Kunlun architecture, launched at 139,900–184,900 yuan.", "event_zh": "捷途旅行者上市，指导价 13.99 万–18.49 万元，基于昆仑架构。", "source_ids": ["s4"] },
+    { "date": "2023-11-14", "event_en": "Shanhai new-energy (hybrid) sequence released together with the first model Shanhai L9 (166,900–188,900 yuan).", "event_zh": "捷途山海新能源序列发布，首款车型山海 L9 同步上市（16.69 万–18.89 万元）。", "source_ids": ["s5", "s6"] },
+    { "date": "2023-12", "event_en": "2023 full-year sales reached 315,000 units.", "event_zh": "2023 年全年销量达 31.5 万辆。", "source_ids": ["s3"] },
+    { "date": "2024-01-22", "event_en": "1,000,000th vehicle (Shanhai T2) rolled off the line, 65 months after the first model launch.", "event_zh": "第 100 万辆整车（山海 T2）下线，距首款车型上市仅 65 个月。", "source_ids": ["s3"] },
+    { "date": "2024-04", "event_en": "Shanhai T2 launched.", "event_zh": "捷途山海 T2 上市。", "source_ids": ["s1"] },
+    { "date": "2024-11", "event_en": "Travel+ conference upgraded to a global edition with users from 50-plus countries; annual sales passed 550,000 units.", "event_zh": "「旅行+大会」升级为「全球旅行+大会」，50+ 国家地区用户参与；年销量超 55 万辆。", "source_ids": ["s1"] },
+    { "date": "2025-01", "event_en": "Zongheng luxury hybrid off-road sequence released.", "event_zh": "「纵横」豪华电混越野产品序列发布。", "source_ids": ["s1"] },
+    { "date": "2025-03", "event_en": "Freewalker road-travel off-road SUV launched.", "event_zh": "捷途自由者产品上市。", "source_ids": ["s1"] },
+    { "date": "2025-10-19", "event_en": "Zongheng G700, the first Zongheng production model, launched globally at 329,900–414,900 yuan.", "event_zh": "纵横首款量产车型 G700 全球上市，指导价 32.99 万–41.49 万元。", "source_ids": ["s10", "s11"] },
+    { "date": "2026-06-26", "event_en": "At the second Jetour boxy conference in Dunhuang, the brand reiterated its global No.1 off-road brand vision and launched the Freewalker 7 PLUS and the new Shanhai T1 four-wheel-drive version.", "event_zh": "敦煌第二届方盒子大会上，捷途重申「全球第一越野品牌」愿景，并上市自由者 7 PLUS、全新山海 T1 四驱版。", "source_ids": ["s24"] },
+    { "date": "2026-10-07", "event_en": "Chery announced that EVP Li Xueyong would take charge of the Jetour brand business division, focusing on premiumisation and a global off-road brand.", "event_zh": "奇瑞公告由执行副总裁李学用分管捷途品牌事业部，聚焦高端化与全球越野品牌建设。", "source_ids": ["s15", "s16"] },
+    { "date": "2026-10-14", "event_en": "New Traveller 7 launched globally: petrol guide price 139,900–179,900 yuan (renewal price from 125,900 yuan); Traveller 7 C-DM 152,900–172,900 yuan (renewal price from 143,900 yuan).", "event_zh": "全新旅行者 7 全球上市：燃油版指导价 13.99 万–17.99 万元（焕新价 12.59 万元起）；旅行者 7 C-DM 15.29 万–17.29 万元（焕新价 14.39 万元起）。", "source_ids": ["s8", "s25"] }
+  ],
+  "brands": [
+    {
+      "name_en": "X70 series",
+      "name_zh": "X70 系列",
+      "role_en": "Family-travel seven-seat SUV family and the first Jetour product line, spanning X70, X70 PLUS, X70 PRO and X70 C-DM",
+      "role_zh": "家庭旅行大七座 SUV 家族、捷途首条产品线，覆盖 X70、X70 PLUS、X70 PRO、X70 C-DM",
+      "price_band": "X70 launch 69,900–120,900 yuan; current official starting prices from 87,900 yuan (new X70S) and 106,900 yuan (X70 Beyond edition)",
+      "founded": 2018,
+      "owner_note_en": "Core volume line of the Jetour brand (Chery)",
+      "owner_note_zh": "捷途品牌（奇瑞）主力走量车系",
+      "status": "active",
+      "source_ids": ["s1", "s17", "s20"]
+    },
+    {
+      "name_en": "X90 series",
+      "name_zh": "X90 系列",
+      "role_en": "Large seven-seat family SUV family (X90, X90 PLUS, X90 PRO, X95)",
+      "role_zh": "大家庭大七座 SUV 家族（X90、X90 PLUS、X90 PRO、X95）",
+      "price_band": null,
+      "founded": 2019,
+      "owner_note_en": "Volume line of the Jetour brand (Chery)",
+      "owner_note_zh": "捷途品牌（奇瑞）走量车系",
+      "status": "active",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "name_en": "Dasheng",
+      "name_zh": "大圣",
+      "role_en": "Youth-oriented compact SUV with a coupé-style profile, including the i-DM hybrid version",
+      "role_zh": "面向年轻人的紧凑型 SUV（轿跑线条），含 i-DM 混动版",
+      "price_band": null,
+      "founded": 2022,
+      "owner_note_en": "Jetour brand (Chery)",
+      "owner_note_zh": "捷途品牌（奇瑞）",
+      "status": "active",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "name_en": "Traveller",
+      "name_zh": "旅行者",
+      "role_en": "Boxy light off-road SUV launched September 2023; cornerstone of the boxy family and 2024 China-brand boxy sales champion",
+      "role_zh": "方盒子轻越野 SUV，2023 年 9 月上市，方盒子家族核心车型、2024 年度中国品牌方盒子销量冠军",
+      "price_band": "139,900–184,900 yuan (launch)",
+      "founded": 2023,
+      "owner_note_en": "Jetour brand (Chery)",
+      "owner_note_zh": "捷途品牌（奇瑞）",
+      "status": "active",
+      "source_ids": ["s1", "s4"]
+    },
+    {
+      "name_en": "Shanhai sequence",
+      "name_zh": "山海序列",
+      "role_en": "New-energy (plug-in hybrid) sequence covering Shanhai L9, L7, L6, T2 and T1",
+      "role_zh": "新能源（插混）产品序列，覆盖山海 L9、L7、L6、T2、T1",
+      "price_band": "Shanhai L9 166,900–188,900 yuan (launch)",
+      "founded": 2023,
+      "owner_note_en": "Jetour brand (Chery)",
+      "owner_note_zh": "捷途品牌（奇瑞）",
+      "status": "active",
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "name_en": "Freewalker",
+      "name_zh": "自由者",
+      "role_en": "Road-travel off-road SUV launched March 2025; the Freewalker 7 PLUS joined in June 2026",
+      "role_zh": "公路旅行越野 SUV，2025 年 3 月上市；自由者 7 PLUS 于 2026 年 6 月加入",
+      "price_band": "Freewalker 7 PLUS renewal price from 119,900 yuan",
+      "founded": 2025,
+      "owner_note_en": "Jetour brand (Chery)",
+      "owner_note_zh": "捷途品牌（奇瑞）",
+      "status": "active",
+      "source_ids": ["s1", "s24"]
+    },
+    {
+      "name_en": "Zongheng sequence",
+      "name_zh": "纵横序列",
+      "role_en": "Luxury hybrid off-road sequence: G700 SUV, G900 amphibious SUV and F700 pickup",
+      "role_zh": "豪华电混越野产品序列：G700 SUV、G900 两栖 SUV、F700 皮卡",
+      "price_band": "G700 329,900–414,900 yuan; G900 from about 1,500,000 yuan",
+      "founded": 2025,
+      "owner_note_en": "Premium sequence under Jetour (Chery)",
+      "owner_note_zh": "捷途（奇瑞）旗下豪华产品序列",
+      "status": "active",
+      "source_ids": ["s1", "s10", "s19"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not separately disclosed (Jetour is a brand of Chery Automobile Co., Ltd.)",
+    "rows": [],
+    "note_en": "Jetour is a passenger-vehicle brand under Chery Automobile Co., Ltd. (9973.HK) and does not separately disclose brand-level financial statements, so no revenue, gross margin, net profit or R&D figures are shown here and none are estimated. Parent Chery Automobile reports under PRC GAAP (adjusted under the Hong Kong Listing Rules); its profit is disclosed on an 'attributable to owners of the parent' basis, i.e. net profit attributable to shareholders of the parent company, not attributable to ordinary shareholders. For parent financials see the Chery (chery) deep-dive research. This page does not constitute any trading recommendation.",
+    "note_zh": "捷途是奇瑞汽车股份有限公司（9973.HK）旗下的乘用车品牌，不单独披露品牌层面的财务报表，故本表不列营收、毛利率、净利润、研发投入等品牌级财务数字，也不做估算。母公司奇瑞汽车按中国会计准则（经港交所上市规则调整）披露，其利润按「归属于母公司股东」口径列示（即归属于母公司股东的净利润，而非归属于普通股股东的净利润）；母公司财务数据见奇瑞（chery）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Jetour is a passenger-vehicle SUV brand of Chery Holding Group, founded on 22 January 2018 as a product sequence and upgraded to an independent brand in July 2021. It is today one of the five passenger-vehicle brands of the listed Chery Automobile Co., Ltd. (HKEX: 9973.HK), alongside Chery, Exeed, iCAR and Luxeed <a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a>. Built on a \u201cTravel+\u201d strategy anchored in the travel scenario, Jetour spans family travel and off-road (boxy) products, with core lineups from the X70/X90 series and Dasheng through to the Traveller, the Shanhai hybrid sequence and the Zongheng luxury hybrid off-road sequence <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. The brand name combines \u201cJie\u201d (success in one's undertakings) and \u201cTu\u201d (reaching happiness by different roads), and the English name \u201cJETOUR\u201d merges \u201cJET\u201d and \u201cTOUR\u201d <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. It reached one million units in 65 months (January 2024) and 2.1 million in 88 months (by November 2025) <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>. Chery Holding chairman Yin Tongyue has said Jetour's growth far outpaced the industry average and that Chery would concentrate its best resources to support the brand after its upgrade to an independent brand <a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>. In 2025 Jetour sold 622,590 vehicles globally (up about 9.5% year on year), the second-largest passenger-vehicle brand in the group behind the Chery main brand's 1,700,940 units <a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a><a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>. In the first three quarters of 2026 it sold 417,600 units, down 9.1% year on year, though September 2026 alone rose 1.6% to 57,497 units <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>. Jetour does not separately disclose financials.</p>",
+      "zh": "<p>捷途（Jetour）是奇瑞控股集团旗下的乘用车 SUV 品牌，2018 年 1 月 22 日作为产品序列创立，2021 年 7 月升级为独立品牌，现与奇瑞、星途、iCAR、智界并列为奇瑞汽车股份有限公司（港交所 9973.HK）的五大乘用车品牌之一 <a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a>。品牌以「旅行+」为战略内核、锚定旅行场景，覆盖家庭旅行与越野（方盒子）两大类产品，主力车型从 X70/X90 系列、大圣延伸到旅行者、山海新能源序列与纵横豪华电混越野序列 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。品牌名取「捷」（事业捷成）与「途」（天下同归而殊途）二字，英文名「JETOUR」由「JET+TOUR」合成 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。捷途用 65 个月达成百万销量（2024 年 1 月），又在 88 个月内累计突破 210 万辆（截至 2025 年 11 月）<a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>。奇瑞控股董事长尹同跃曾表示，捷途的发展远超行业平均水平，将聚集奇瑞优质资源支持其升级为品牌 <a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>。2025 年捷途全球销量 62.26 万辆（同比增长约 9.5%），是集团内仅次于奇瑞主品牌（170.09 万辆）的第二大乘用车品牌 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a><a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>；2026 年前三季度销量 41.76 万辆，同比下降 9.1%，其中 9 月单月 57,497 辆、同比增长 1.6% <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。捷途未单独披露财务数据。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and products</h3><p>Jetour is an SUV-focused brand running petrol and plug-in-hybrid vehicles in parallel. Around travel scenarios it has organised its range into three groups \u2014 family travel (X70/X90 series), trendy travel (Dasheng) and off-road travel (Traveller, Freewalker, Shanhai and Zongheng) \u2014 and describes itself as having more than 500 sales and service outlets across China <a href=\"https://www.jetour.com.cn/enterprise/companyprofile/\">[s2]</a>. The first model, the X70 seven-seat SUV, went on sale on 18 August 2018 at 69,900\u2013120,900 yuan; in just over four months it had sold 40,007 units by December 2018 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>.</p><h3>Strategic positioning</h3><p>Jetour adopted its \u201cTravel+\u201d strategy from 2018, targeting the self-driving travel population under the idea of \u201cdefining the journey through action\u201d, entering the boxy off-road and family-travel segments through value pricing <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a><a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>. It began as a Chery product sequence and was upgraded to an independent brand after sales defied the market downturn, with chairman Yin Tongyue pledging to concentrate quality resources behind it <a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>. From October 2026 the brand's focus has shifted toward premiumisation and an off-road focus <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>.</p><h3>Boxy category strategy</h3><p>Jetour has made the \u201cboxy\u201d (方盒子) light off-road category its signature. The Traveller, launched on 26 September 2023 on the Kunlun architecture, was the model that opened the segment for the brand; it sold more than 200,000 units in 16 months and was the 2024 sales champion among Chinese boxy models <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=678\">[s4]</a><a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. By November 2025 the T2/Traveller series had sold 414,000 units in 26 months <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>; by June 2026 Jetour said its boxy family had passed 700,000 cumulative global sales, staying above 10,000 units a month for 28 consecutive months <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>. Jetour's pitch is \u201ctechnology democratisation\u201d: its XWD system recognises road changes in 0.01 seconds and switches between two- and four-wheel drive in milliseconds, with a \u201c7+X\u201d one-touch off-road mode that lowers the entry barrier <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</p><h3>Model lineup and pricing</h3><p>As of late October 2026 the official website lists models from the X70/X90 seven-seat family SUVs and the Dasheng compact SUV through to the Traveller, Freewalker and Shanhai hybrid series <a href=\"https://www.jetour.com.cn/\">[s20]</a>. On 14 October 2026 Jetour globally launched the new Traveller 7: the petrol version carries an official guide price of 139,900\u2013179,900 yuan (launch \u201crenewal price\u201d from 125,900 yuan), and the Traveller 7 C-DM plug-in hybrid is priced at 152,900\u2013172,900 yuan (renewal price from 143,900 yuan) <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a><a href=\"https://www.jetour.com.cn/vehicles/xintraveler7\">[s8]</a>. The Traveller 7 continues the boxy \u201cround-square\u201d design language, with a 2,800 mm wheelbase and 73 storage spaces, an 81% high-strength steel body with an integrated embedded ladder frame, and a lifetime whole-vehicle warranty for first owners <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a>.</p><h3>Technology platforms</h3><p>Jetour draws on Chery group platforms and powertrains. The Traveller was the brand's first model on the Kunlun architecture <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=678\">[s4]</a>; the Shanhai hybrid sequence uses the Kunpeng hybrid (C-DM) systems <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=683\">[s5]</a>. The Traveller 7 C-DM adopts the Kunpeng Super Hybrid C-DM 7.0 three-motor four-wheel-drive architecture with a combined 575 kW, a 45.12 kWh battery, a CLTC pure-electric range of 251 km and a combined range of up to 1,400 km, plus Huawei's Qiankun ADS 5 assisted-driving system, while the petrol version uses the Falcon 500 assisted-driving system and a Kunpeng 2.0TGDI engine with an 8AT gearbox <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a>. The XWD all-terrain intelligent four-wheel-drive system is shared across the boxy family <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>.</p><h3>Model highlights</h3><p>The Traveller pairs a Qualcomm Snapdragon 8155 in-car chip with the XWD intelligent all-wheel-drive system, BorgWarner's sixth-generation intelligent torque manager and an intelligent limited-slip differential, plus a 64-inch panoramic sunroof <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. The Freewalker offers a rear seat that folds into a 2-metre bed and 45 storage spaces <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. The X90 PRO uses a Kunpeng 2.0TGDI engine with 187 kW, an L2 driving-assist system and a 4,858 mm body <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. The new Dasheng carries a 1.5TGDI engine (135 kW) and L2 driving assistance <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. The Shanhai L6 offers a 125 km pure-electric range and a 1,400 km combined range with 6.6 kW vehicle-to-load output <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. At the June 2026 conference, the Freewalker 7 PLUS launched with a renewal price from 119,900 yuan, a 2.0TD engine, an 8AT gearbox, 200 mm ground clearance and 700 mm wading depth <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>; the new Shanhai T1 four-wheel-drive version uses a P1+P3+P4 three-motor architecture with 455 kW and a 43.2 kWh CATL battery giving a 220 km pure-electric range <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</p><h3>Travel+ ecosystem</h3><p>Beyond cars, Jetour operates a \u201cTravel+\u201d ecosystem with alliance partners, covering travel perks, self-built \u201cJetour stations\u201d, and the Jetour JMK customisation brand, which it calls China's first officially mass-produced custom-modification brand <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. In 2023 its ecosystem product sales reached 101 million yuan, with 248 self-built Jetour stations and over 30,000 annual experiences <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a>. The brand says its \u201cTravel+\u201d ecosystem has integrated more than 20,000 hotels, over 10,000 travel products and more than 3,000 stations, with 264 city owner clubs and over 1.5 million event participations <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</p><h3>Shanhai sequence</h3><p>The Shanhai new-energy (plug-in hybrid) sequence was released in November 2023, with the first model, the Shanhai L9 seven-seat hybrid SUV, launched at 166,900\u2013188,900 yuan <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=683\">[s5]</a><a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>. Chery executives positioned Shanhai as Jetour's \u201csecond engine\u201d for growth, spanning hybrid family travel and hybrid off-road travel <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=683\">[s5]</a><a href=\"https://auto.cyol.com/gb/articles/2023-11/15/content_AjqYmeSvmg.html\">[s22]</a>. The sequence has since expanded with the L7, L6, T2 and T1 models, The Shanhai T1 won a German Red Dot design award, and the Shanhai L6 is positioned as a hybrid SUV for younger buyers <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>.</p><h3>Zongheng sequence</h3><p>The Zongheng (纵横) luxury hybrid off-road sequence was released in January 2025 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>. Its first production model, the Zongheng G700, launched globally on 19 October 2025 at 329,900\u2013414,900 yuan <a href=\"https://5gai.cctv.com/2025/10/20/ARTIekPlmraRmY57GCWeIY17251020.shtml\">[s10]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20251020/t20251020_527401933.shtml\">[s11]</a>. The Zongheng line also includes the G900 amphibious SUV (from about 1.5 million yuan) and the F700 pickup, shown at the 2025 Shanghai auto show <a href=\"https://news.qq.com/rain/a/LNK2025042407323100\">[s19]</a>.</p><h3>Production and capacity</h3><p>Jetour vehicles are produced within Chery's manufacturing network. Chery's Kaifeng (Henan) base is undergoing a 4.5 billion yuan technical-renovation project <a href=\"https://www.163.com/dy/article/KSBMDV9V055093KM.html\">[s9]</a>. According to a China News Service report, once fully ramped up by 2027 the Kaifeng Chery base will produce more than 600,000 complete vehicles and KD (knocked-down) kits a year, with an output value exceeding 60 billion yuan <a href=\"https://www.chinanews.com.cn/cj/2026/06-17/10642118.shtml\">[s26]</a>.</p><h3>Domestic position</h3><p>On a sales-trajectory basis, Jetour sold 315,000 units in 2023 and 568,400 in 2024 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>. Within Chery, Jetour is the second-largest passenger-vehicle brand by volume after the main Chery brand <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a>. Its 2024 global sales of 568,400 units (up 80.3%) split into about 394,000 domestic and 174,000 exported, roughly 30% overseas <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>. Sales turned a corner in September 2026, when the brand sold 57,497 units, up 1.6% year on year, a result China Business Journal described as a stabilisation signal <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>.</p><h3>Overseas business</h3><p>Jiemian reported that in 2025 Jetour's overseas sales grew faster than overall sales and were the main source of that year's increment <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>. By November 2025 the brand was present in more than 100 countries and regions, with over 2,000 sales and service networks serving left- and right-hand-drive markets <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>. For 2025, D1EV's compilation of CPCA data put Jetour's exports at about 246,300 units, roughly 40% of global sales <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>. By end-2025 Jetour ranked No.1 among Chinese-brand SUVs in 15 overseas markets and led the boxy segment in 9 markets <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>; in the Middle East it was the top-selling Chinese brand from January to April 2025 <a href=\"https://news.taiwannet.com.tw/news/167917/JETOUR-Achieves-No-1-Sales-Among-Chinese-Brands-in-Middle-East-from-January-to-April-2025.html\">[s21]</a>. Chery has described the Zongheng G700 as one of the premium products that has entered high-end markets such as Dubai <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a>. The brand has built a local research institute conducting road tests and region-specific upgrades such as improved thermal management for extreme climates <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>; a South China Morning Post report noted Jetour was discussing localised R&D in Abu Dhabi <a href=\"https://www.scmp.com/business/china-business/article/3337662/chinese-suv-maker-jetour-bets-localised-product-offerings-hasten-go-global-drive\">[s23]</a>. Jetour rides on Chery's export system, which has ranked first in Chinese-brand passenger-vehicle exports for 23 consecutive years. As of end-June 2026 Chery had three overseas plants in Malaysia, Spain and Thailand, with the Thailand Rayong plant opened in April 2026; in July 2026 it took over Nissan's Rosslyn plant in South Africa, expected to start production in mid-2027 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>.</p>",
+      "zh": "<h3>业务结构与产品</h3><p>捷途是以 SUV 为主的品牌，走燃油与插电混动双线。围绕出行场景，品牌形成了家庭旅行（X70/X90 系列）、潮玩旅行（大圣）、悦野旅行（旅行者、自由者、山海、纵横）三大产品系列，自称在全国拥有 500+ 销售服务网点 <a href=\"https://www.jetour.com.cn/enterprise/companyprofile/\">[s2]</a>。首款车型 X70 大七座 SUV 于 2018 年 8 月 18 日以 6.99 万–12.09 万元上市，上市四个多月累计销量达 40,007 辆 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>。</p><h3>战略定位</h3><p>捷途自 2018 年提出「旅行+」战略，切入自驾旅行人群，围绕「用行动定义旅途」的理念，以高性价比进入方盒子越野与家庭旅行两大细分市场 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a><a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>。品牌早期是奇瑞的产品序列，销量逆势增长后被奇瑞升级为独立品牌，奇瑞控股董事长尹同跃表示将聚集优质资源支持其发展 <a href=\"https://www.yiche.com/zhai/2054742/\">[s17]</a>。2026 年 10 月起，品牌重心转向高端化与越野聚焦 <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。</p><h3>方盒子品类策略</h3><p>捷途将方盒子轻越野品类打造为品牌标志。2023 年 9 月 26 日基于昆仑架构上市的旅行者，是捷途在方盒子品类的开路车型，上市 16 个月累计销量超 20 万辆，并获 2024 年度中国品牌方盒子销量冠军 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=678\">[s4]</a><a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。截至 2025 年 11 月，T2/旅行者系列 26 个月累计售出 41.4 万辆 <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>；截至 2026 年 6 月，品牌称方盒子家族全球累计销量突破 70 万辆、连续 28 个月月销破万 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。捷途打的是「技术平权」牌，其 XWD 系统可 0.01 秒识别路况、毫秒级完成两驱与四驱切换，并通过「7+X」一键越野模式降低越野门槛 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</p><h3>车型谱系与价格</h3><p>截至 2026 年 10 月下旬，官网在售车型覆盖 X70/X90 大七座家庭 SUV、大圣紧凑型 SUV 到旅行者、自由者与山海混动系列 <a href=\"https://www.jetour.com.cn/\">[s20]</a>。2026 年 10 月 14 日，捷途全球上市全新旅行者 7：燃油版官方指导价 13.99 万–17.99 万元（超级焕新价 12.59 万元起），旅行者 7 C-DM 插混版 15.29 万–17.29 万元（焕新价 14.39 万元起）<a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a><a href=\"https://www.jetour.com.cn/vehicles/xintraveler7\">[s8]</a>。旅行者 7 延续方盒子「方圆之道」设计语言，轴距 2800mm、车内 73 处储物空间，采用 81% 高强度钢笼式车身与一体嵌入式大梁，首任车主可享整车终身质保 <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a>。</p><h3>技术平台</h3><p>捷途依托奇瑞集团的平台与动力总成。旅行者是品牌首款基于昆仑架构的车型 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=678\">[s4]</a>；山海混动序列采用鲲鹏混动（C-DM）系统 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=683\">[s5]</a>。旅行者 7 C-DM 采用鲲鹏超能混动 C-DM 7.0 三电机四驱架构、综合功率 575kW，搭载 45.12kWh 电池、CLTC 纯电续航 251km、综合续航最高 1400km，并配华为乾崑智驾 ADS 5；燃油版搭载鲲鹏 2.0TGDI 发动机与 8AT 变速箱、猎鹰 500 高阶智驾 <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a>。XWD 全自动智能四驱系统在方盒子家族中共享 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。</p><h3>车型亮点</h3><p>旅行者搭载高通骁龙 8155 车载芯片，配备 XWD 全自动智能四驱、博格华纳第六代智能扭矩管理器与智能限滑差速锁，以及 64 英寸全景天窗 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。自由者后排可变为 2 米大床、全车 45 处储物空间 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。X90 PRO 采用鲲鹏 2.0TGDI 发动机（187kW）、L2 级辅助驾驶与 4858mm 车身 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。新大圣搭载 1.5TGDI 发动机（135kW）与 L2 级智能驾驶辅助 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。山海 L6 提供 125km 纯电续航与 1400km 综合续航、6.6kW 外放电 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。2026 年 6 月大会上，自由者 7 PLUS 以焕新价 11.99 万元起上市，搭载 2.0TD 发动机、8AT 变速箱，最小离地间隙 200mm、最大涉水深度 700mm <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>；全新山海 T1 四驱版采用 P1+P3+P4 三电机架构、最大功率 455kW，配宁德时代 43.2kWh 电池、纯电续航 220km <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</p><h3>旅行+生态</h3><p>除造车外，捷途还经营「旅行+」生态，与生态联盟伙伴合作提供出行权益、自建「捷途驿站」，并推出自称中国首个官方量产定制改装品牌「捷途 JMK」<a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。2023 年其生态产品销售额 1.01 亿元、自建捷途驿站 248 家、全年体验超 3 万人次 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a>。品牌称其「旅行+」生态已整合 20000 多家酒店、10000 多种旅行好物、3000 多座驿站，拥有 264 个城市车友会、活动参与超 150 万人次 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</p><h3>山海序列</h3><p>山海新能源（插混）序列于 2023 年 11 月发布，首款车型山海 L9 大七座混动 SUV 以 16.69 万–18.89 万元同步上市 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=683\">[s5]</a><a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>。奇瑞高管将山海定位为捷途增长的「第二引擎」，覆盖混动家庭旅行与混动越野旅行两大场景 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=683\">[s5]</a><a href=\"https://auto.cyol.com/gb/articles/2023-11/15/content_AjqYmeSvmg.html\">[s22]</a>。该序列此后扩展出 L7、L6、T2、T1 等车型。山海 T1 曾获德国红点设计奖，山海 L6 主打年轻人电混 SUV <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。</p><h3>纵横序列</h3><p>「纵横」豪华电混越野序列于 2025 年 1 月发布 <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a>。其首款量产车型纵横 G700 于 2025 年 10 月 19 日全球上市，指导价 32.99 万–41.49 万元 <a href=\"https://5gai.cctv.com/2025/10/20/ARTIekPlmraRmY57GCWeIY17251020.shtml\">[s10]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20251020/t20251020_527401933.shtml\">[s11]</a>。纵横序列还包含 G900 两栖 SUV（约 150 万元起）与 F700 皮卡，二者曾在 2025 上海车展亮相 <a href=\"https://news.qq.com/rain/a/LNK2025042407323100\">[s19]</a>。</p><h3>生产与产能</h3><p>捷途车型在奇瑞的制造网络中生产。奇瑞开封（河南）基地正推进总投资 45 亿元的技改项目 <a href=\"https://www.163.com/dy/article/KSBMDV9V055093KM.html\">[s9]</a>。据中新网报道，到 2027 年全面达产后，开封奇瑞基地整车和 KD（散件组装）产量将超过 60 万辆、产值突破 600 亿元 <a href=\"https://www.chinanews.com.cn/cj/2026/06-17/10642118.shtml\">[s26]</a>。</p><h3>国内市场地位</h3><p>从销量轨迹看，捷途 2023 年销量 31.5 万辆，2024 年 56.84 万辆 <a href=\"https://www.jetour.com.cn/enterprise/newsdetail?id=689\">[s3]</a><a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。在奇瑞集团内，捷途是仅次于奇瑞主品牌的第二大乘用车品牌 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a>。2024 年全球销量 56.84 万辆（同比 +80.3%）中，国内约 39.4 万辆、出口约 17.4 万辆，海外约占三成 <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。9 月出现拐点，单月售出 57,497 辆、同比微增 1.6%，中国经营报称之为释放企稳信号 <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。</p><h3>海外业务</h3><p>据界面新闻，2025 年捷途海外销量增长快于整体销量，是当年的主要增量来源 <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。截至 2025 年 11 月，品牌已进入 100 多个国家和地区，拥有超 2000 家销售服务网络，覆盖左舵与右舵市场 <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>。据第一电动整理的乘联会数据，捷途 2025 年出口约 24.63 万辆、约占全球销量四成 <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。截至 2025 年底，捷途在 15 个海外市场位列中国品牌 SUV 销量第一、在 9 个市场登顶方盒子品类销量榜首 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>；2025 年 1–4 月，捷途在中东市场为中国品牌销量第一 <a href=\"https://news.taiwannet.com.tw/news/167917/JETOUR-Achieves-No-1-Sales-Among-Chinese-Brands-in-Middle-East-from-January-to-April-2025.html\">[s21]</a>。奇瑞称纵横 G700 等高端产品已进入迪拜等全球高端市场 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a>。品牌还设立了本地研究院，开展路试并针对极端气候做散热等本地化升级 <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>；据南华早报报道，捷途还在阿布扎比洽谈本地化研发 <a href=\"https://www.scmp.com/business/china-business/article/3337662/chinese-suv-maker-jetour-bets-localised-product-offerings-hasten-go-global-drive\">[s23]</a>。捷途依托奇瑞的出口体系，奇瑞连续 23 年位居中国品牌乘用车出口第一，截至 2026 年 6 月底，奇瑞在马来西亚、西班牙、泰国已有三家海外生产基地，其中泰国罗勇工厂于 2026 年 4 月开业；7 月接管日产南非罗斯林工厂，预计 2027 年年中投产 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Key executive: Li Xueyong</h3><p>Li Xueyong (李学用) is the executive most associated with Jetour. He joined Chery after graduating in 2005 and previously led marketing for the Tiggo brand. In 2018 he took part in founding the Jetour brand <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>. He was appointed general manager of Jetour in June 2022, and in 2023 was promoted to vice president of Chery Automobile while concurrently serving as general manager of Chery's marketing company and of Jetour <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a><a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>. In July 2025, as executive vice president, he took charge of Chery's domestic business group, covering Exeed, Arrizo/Tiggo (Aihu), Fulwin and QQ <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>. On 7 October 2026 Chery announced that EVP Li Xueyong would take charge of the Jetour brand business division, focusing on premiumisation and building a globally competitive off-road brand; he reports to Zhang Guibing <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a><a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>. Before the reshuffle, Li Xueyong had also served as general manager of the Chery main brand's domestic business group; that role was handed to Chery senior vice president (常务副总裁) Zhang Guibing, who concurrently serves as general manager of the international business group <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a><a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>. Chery chairman Yin Tongyue has publicly praised the Jetour team as Chery's \u201c38th Army\u201d <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>.</p><h3>Other management</h3><p>At the 2023 Shanhai sequence launch, Dai Lihong (代立宏) served as executive deputy general manager and head of the R&D institute <a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>. Qi Subin (祁素彬) is an assistant to the president of Chery Automobile and general manager of Jetour's domestic marketing centre <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a>.</p><h3>Ownership and governance</h3><p>Jetour is a brand rather than a separately listed legal entity, so it does not separately disclose its shareholding structure or an actual controller. Its parent, Chery Automobile Co., Ltd., is a mixed-ownership company with no actual controller, as stated in its listing documents and annual report <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s7]</a>.</p>",
+      "zh": "<h3>核心人物：李学用</h3><p>李学用是与捷途联系最紧密的高管。他 2005 年大学毕业后加入奇瑞，此前主导过瑞虎品牌营销。2018 年参与创立捷途品牌 <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。2022 年 6 月出任捷途汽车总经理，2023 年升任奇瑞汽车副总经理，并兼任奇瑞汽车营销公司总经理、捷途汽车总经理 <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a><a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>。2025 年 7 月，他以执行副总裁身份统管奇瑞国内业务事业群，覆盖星途、艾虎（艾瑞泽与瑞虎）、风云、QQ <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。2026 年 10 月 7 日，奇瑞公告由执行副总裁李学用分管捷途品牌事业部，聚焦推动捷途高端化、打造更具全球竞争力的越野品牌，并向张贵兵汇报 <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a><a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。调整前，李学用还兼任奇瑞品牌国内事业群总经理，该职务改由奇瑞常务副总裁张贵兵接任，张贵兵兼任国际业务事业群总经理 <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a><a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。奇瑞董事长尹同跃曾公开肯定捷途团队，称其为奇瑞的「38 军」<a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。</p><h3>其他管理层</h3><p>2023 年山海序列发布时，代立宏时任执行副总经理、研发院院长 <a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>。祁素彬任奇瑞汽车股份有限公司总裁助理、捷途国内营销中心总经理 <a href=\"https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml\">[s25]</a>。</p><h3>股权与治理</h3><p>捷途是品牌而非单独上市的法人主体，不单独披露股权结构与实际控制人。其母公司奇瑞汽车为混合所有制、无实际控制人，相关认定见上市文件与年报 <a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf\">[s7]</a>。</p>"
+    },
+    "competition": {
+      "en": "<h3>Competitors</h3><p>In the premium new-energy off-road segment, the Zongheng G700 faces GWM's Tank and BYD's Fang Cheng Bao <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>. The hard-off-road segment once led by the Wrangler and Prado has been reshaped by Chinese brands: in 2025 Chinese brands took more than 60% of the hard-off-road market, with only the Toyota Prado remaining among the top ten foreign models <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>. In large seven-seat family SUVs, the X70/X90 series competes in the 100,000\u2013200,000 yuan mainstream band <a href=\"https://www.jetour.com.cn/enterprise/companyprofile/\">[s2]</a>. Jetour's Traveller opened what the brand calls a \u201cthird path\u201d \u2014 a travel-off-road positioning with unibody construction for urban comfort plus XWD four-wheel drive, anchored below 200,000 yuan <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</p><h3>Strengths and weaknesses (our assessment)</h3><p>Our assessment: Jetour's strengths are its differentiated \u201cTravel+\u201d positioning, first-mover scale in the boxy category and a strong export channel \u2014 supported by 2025 sales of 622,590 units and a No.1 ranking among Chinese brands in the Middle East from January to April 2025 <a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a><a href=\"https://news.taiwannet.com.tw/news/167917/JETOUR-Achieves-No-1-Sales-Among-Chinese-Brands-in-Middle-East-from-January-to-April-2025.html\">[s21]</a>. Its main weakness, as Economic Observer noted in November 2025, is continued reliance on the mid-to-low-end petrol-vehicle market, with an unfinished new-energy lineup and premiumisation still to complete <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>. First-three-quarter 2026 sales of 417,600 units, down 9.1% year on year, show the domestic pressure <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>. Even so, Jetour's cumulative boxy scale (over 700,000 units by June 2026) and its Travel+ user ecosystem remain important assets against price competition <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</p>",
+      "zh": "<h3>竞争对手</h3><p>在高端新能源越野市场，纵横 G700 直面长城的坦克与比亚迪方程豹 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。这一赛道曾由牧马人、普拉多等外资车型主导，2025 年自主品牌在硬派越野市场占有率已达六成以上、销量前十仅剩丰田普拉多一款外资车型 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。在大七座家庭 SUV 市场，X70/X90 系列在 10 万–20 万元主流价位与自主中型 SUV 竞争 <a href=\"https://www.jetour.com.cn/enterprise/companyprofile/\">[s2]</a>。捷途旅行者开创了所谓「第三条路」——旅行越野定位，承载式车身保证城市舒适性、XWD 智能四驱赋予轻度越野能力，价格锚定 20 万元以内 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</p><h3>优势与短板（我们的判断）</h3><p>我们的判断：捷途的优势在于差异化的「旅行+」定位、方盒子品类的先发规模与较强的出口渠道，依据是其 2025 年 62.26 万辆销量与 2025 年 1–4 月中东中国品牌销量第一 <a href=\"https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html\">[s12]</a><a href=\"https://news.taiwannet.com.tw/news/167917/JETOUR-Achieves-No-1-Sales-Among-Chinese-Brands-in-Middle-East-from-January-to-April-2025.html\">[s21]</a>。主要短板是《经济观察报》2025 年 11 月所写的中低端燃油车依赖，新能源布局与高端化仍待完成 <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。2026 年前三季度销量 41.76 万辆、同比下降 9.1%，显示国内承压 <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。不过，捷途在方盒子品类的累计规模（截至 2026 年 6 月超 70 万辆）与「旅行+」生态的用户基础，仍是其抵御价格竞争的重要资产 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company targets</h3><p>At the Shanhai launch in November 2023, Li Xueyong said Shanhai would put out eight new hybrid models within two years to help Jetour reach one million annual sales by 2026 <a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>. Actual 2025 sales were 622,590 units <a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a>. Jetour's stated vision on its official site is the \u201cglobal No.1 hybrid off-road brand\u201d, which at the 26 June 2026 Dunhuang conference it reframed as the \u201cglobal No.1 off-road brand\u201d <a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a><a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>. In October 2026 Chery tasked Li Xueyong with pushing Jetour premiumisation and building a globally competitive off-road brand <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>.</p><h3>Our analysis</h3><p>Our assessment: the one-million-unit target for 2026 is unlikely to be met, given first-three-quarter sales of 417,600 units, down 9.1% year on year <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>. The October 2026 management change signals a shift from volume growth toward premiumisation and an off-road focus, with the Zongheng line (G700, G900, F700) as the vehicle, though the F700 pickup sits in a niche segment unlikely to drive volume near term <a href=\"https://news.qq.com/rain/a/LNK2025042407323100\">[s19]</a>. Whether the shift succeeds depends on whether the Shanhai sequence can scale in the new-energy segment and whether Zongheng can establish itself in the premium band while boxy-segment competition intensifies; Zongheng's market performance is yet to be proven <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>. In addition, Jetour's domestic transition hinges on whether the Shanhai sequence can replicate the Traveller's success in the petrol boxy segment, which will depend on hybrid pricing and channel execution <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>.</p>",
+      "zh": "<h3>公司目标</h3><p>2023 年 11 月山海序列发布时，李学用表示山海将在两年内投放 8 款全新混动产品、助力捷途到 2026 年实现年销百万辆 <a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a>。2025 年实际销量为 62.26 万辆 <a href=\"https://www.yicai.com/news/102989330.html\">[s13]</a>。捷途官网的品牌愿景为「全球第一电混越野品牌」，2026 年 6 月 26 日敦煌方盒子大会上，品牌将愿景重申为「全球第一越野品牌」<a href=\"https://www.jetour.com.cn/other/aboutj.html\">[s1]</a><a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。2026 年 10 月，奇瑞明确要求李学用推动捷途高端化、打造更具全球竞争力的越野品牌 <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。</p><h3>我们的分析</h3><p>我们的判断：鉴于 2026 年前三季度销量 41.76 万辆、同比下滑 9.1%，此前提出的 2026 年百万辆目标大概率难以达成 <a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。2026 年 10 月的人事调整释放出从规模增长转向高端化与越野聚焦的信号，纵横系列（G700、G900、F700）是主要载体，但 F700 皮卡属小众赛道、短期难担走量重任 <a href=\"https://news.qq.com/rain/a/LNK2025042407323100\">[s19]</a>。能否奏效，取决于山海序列能否在新能源赛道起量、纵横能否在高端价位站稳，而方盒子品类竞争正进一步加剧；纵横的市场表现尚待观察 <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。此外，捷途国内转型的关键在于山海序列能否在混动赛道复制旅行者在燃油方盒子市场的成功，这取决于混动产品的定价与渠道执行力 <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Petrol-vehicle reliance:</strong> Economic Observer wrote in November 2025 that Jetour still relies on the mid-to-low-end petrol-vehicle market and needs to complete its new-energy lineup and premiumisation <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>.</li><li><strong>Slow new-energy transition:</strong> the Shanhai sequence was positioned in 2023 as a second growth engine, but 2026 first-three-quarter sales were down 9.1% year on year, limiting the hedge against the petrol decline <a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a><a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>.</li><li><strong>Premiumisation pressure:</strong> the Zongheng G700 competes in the domestic premium off-road segment, where Tank and Fang Cheng Bao are already entrenched <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</li><li><strong>Intensifying boxy competition:</strong> Chinese brands already held more than 60% of the hard-off-road market in 2025, compressing differentiation <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>.</li><li><strong>Overseas risks:</strong> Jetour relies on export markets such as the Middle East for growth, exposing it to local tariffs, regulations and currency movements <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>.</li><li><strong>Competition spillover overseas:</strong> as more Chinese brands enter the same export markets, analysts note that China-style price competition is likely to reproduce itself in Jetour's overseas markets <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>.</li></ul>",
+      "zh": "<ul><li><strong>燃油车依赖：</strong>《经济观察报》2025 年 11 月写道，捷途仍较依赖中低端燃油车市场，新能源布局与高端化仍待完成 <a href=\"https://www.eeo.com.cn/2025/1121/768439.shtml\">[s27]</a>。</li><li><strong>新能源转型偏慢：</strong>山海序列在 2023 年被定位为第二增长引擎，但 2026 年前三季度销量同比下降 9.1%，对燃油车下滑的对冲有限 <a href=\"https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html\">[s6]</a><a href=\"https://news.qq.com/rain/a/20261011A08FO200\">[s15]</a>。</li><li><strong>高端化承压：</strong>纵横 G700 进入国内高端越野价位，而坦克、方程豹在该赛道根基较深 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</li><li><strong>方盒子竞争加剧：</strong>2025 年自主品牌在硬派越野市场占有率已达六成以上，差异化空间被压缩 <a href=\"https://www.eeo.com.cn/2026/0629/934203.shtml\">[s24]</a>。</li><li><strong>海外风险：</strong>捷途依赖中东等出口市场拉动增长，面临当地关税、法规与汇率波动的风险 <a href=\"https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html\">[s18]</a>。</li><li><strong>海外竞争外溢：</strong>随着更多中国品牌进入相同海外市场，分析师指出国内的价格竞争方式可能在海外的捷途市场重演 <a href=\"https://news.qq.com/rain/a/20261010A09YVF00\">[s14]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "捷途官网「关于捷途」（品牌介绍与发展历程）", "url": "https://www.jetour.com.cn/other/aboutj.html", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "捷途官网「公司简介」", "url": "https://www.jetour.com.cn/enterprise/companyprofile/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s3", "name": "捷途官网新闻「65个月累销100万辆」", "url": "https://www.jetour.com.cn/enterprise/newsdetail?id=689", "date": "2024-01-22", "tier": "A" },
+    { "id": "s4", "name": "捷途官网新闻「捷途旅行者13.99万起正式上市」", "url": "https://www.jetour.com.cn/enterprise/newsdetail?id=678", "date": "2023-09-26", "tier": "A" },
+    { "id": "s5", "name": "捷途官网新闻「捷途山海新能源序列发布，山海L9同步上市」", "url": "https://www.jetour.com.cn/enterprise/newsdetail?id=683", "date": "2023-11-14", "tier": "A" },
+    { "id": "s6", "name": "新华网「捷途山海新能源序列正式发布，山海L9正式上市」", "url": "https://www.xinhuanet.com/auto/20231116/b43421bc62b649deac61f0153d0e452f/c.html", "date": "2023-11-16", "tier": "A" },
+    { "id": "s7", "name": "奇瑞汽车2025年度报告（港交所披露易）", "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf", "date": "2026-04-02", "tier": "A" },
+    { "id": "s8", "name": "捷途官网「全新捷途旅行者7上市权益」", "url": "https://www.jetour.com.cn/vehicles/xintraveler7", "date": "2026-10-29", "tier": "A" },
+    { "id": "s9", "name": "网易订阅（转开封广播电视台）「奇瑞开封基地技改提速」", "url": "https://www.163.com/dy/article/KSBMDV9V055093KM.html", "date": "2026-05-07", "tier": "B" },
+    { "id": "s10", "name": "央视网「纵横G700上市32.99万元起」", "url": "https://5gai.cctv.com/2025/10/20/ARTIekPlmraRmY57GCWeIY17251020.shtml", "date": "2025-10-20", "tier": "B" },
+    { "id": "s11", "name": "央广网「售价32.99万元起 纵横G700上市」", "url": "https://www.cnr.cn/2013qcpd/cz/20251020/t20251020_527401933.shtml", "date": "2025-10-20", "tier": "B" },
+    { "id": "s12", "name": "中证网「奇瑞集团2025年实现四大历史突破」", "url": "https://cs.com.cn/ssgs/gsxw/202601/t20260102_6531406.html", "date": "2026-01-02", "tier": "B" },
+    { "id": "s13", "name": "第一财经「蝉联中国乘用车出口第一！奇瑞集团2025年销量280.6万辆」", "url": "https://www.yicai.com/news/102989330.html", "date": "2026-01-06", "tier": "B" },
+    { "id": "s14", "name": "腾讯新闻（转界面新闻）「出口占比升至七成，奇瑞重整全球经营」", "url": "https://news.qq.com/rain/a/20261010A09YVF00", "date": "2026-10-10", "tier": "B" },
+    { "id": "s15", "name": "腾讯新闻（转中国经营报）「高管分工调整主品牌纳入全球体系」", "url": "https://news.qq.com/rain/a/20261011A08FO200", "date": "2026-10-11", "tier": "B" },
+    { "id": "s16", "name": "车印记（搜狐/顶端新闻转载）「从品牌初创到攻坚破局 李学用与捷途品牌调整期的再度携手」", "url": "https://m.topnews.cn/news/1451D4EC44BF4570", "date": "2026-10-11", "tier": "C" },
+    { "id": "s17", "name": "易车「易观车市：捷途的“旅途”能否一路畅通」", "url": "https://www.yiche.com/zhai/2054742/", "date": "2023-03-06", "tier": "B" },
+    { "id": "s18", "name": "GlobeNewswire「JETOUR and LIWA Join Forces to Host International Off-Road Fan Festival」", "url": "https://www.globenewswire.com/news-release/2025/12/26/3210494/0/en/JETOUR-and-LIWA-Join-Forces-to-Host-International-Off-Road-Fan-Festival-Writing-a-New-Chapter-in-the-Global-Practice-of-the-Travel-Strategy.html", "date": "2025-12-25", "tier": "B" },
+    { "id": "s19", "name": "腾讯新闻「2025上海车展：捷途纵横将刷新你对越野车的认知」", "url": "https://news.qq.com/rain/a/LNK2025042407323100", "date": "2025-04-24", "tier": "B" },
+    { "id": "s20", "name": "捷途官网首页（在售车型）", "url": "https://www.jetour.com.cn/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s21", "name": "PRNewswire（台湾产经新闻网转载）「JETOUR Achieves No.1 Sales Among Chinese Brands in Middle East from January to April 2025」", "url": "https://news.taiwannet.com.tw/news/167917/JETOUR-Achieves-No-1-Sales-Among-Chinese-Brands-in-Middle-East-from-January-to-April-2025.html", "date": "2025-05-30", "tier": "B" },
+    { "id": "s22", "name": "中国青年报「延续旅行+战略，山海序列助力捷途迈入新阶段」", "url": "https://auto.cyol.com/gb/articles/2023-11/15/content_AjqYmeSvmg.html", "date": "2023-11-15", "tier": "B" },
+    { "id": "s23", "name": "南华早报「Chinese SUV maker Jetour bets on localised product offerings to hasten go-global drive」", "url": "https://www.scmp.com/business/china-business/article/3337662/chinese-suv-maker-jetour-bets-localised-product-offerings-hasten-go-global-drive", "date": "2025-12-25", "tier": "B" },
+    { "id": "s24", "name": "经济观察报「捷途死磕方盒子，中国距诞生“全球第一越野品牌”还有多远」", "url": "https://www.eeo.com.cn/2026/0629/934203.shtml", "date": "2026-06-29", "tier": "B" },
+    { "id": "s25", "name": "央视网「全新旅行者7上市 捷途全球累计销量已超256万辆」", "url": "https://auto.cctv.com/2026/10/15/ARTIS7N26yKMpXYhMEX5J39d261015.shtml", "date": "2026-10-15", "tier": "B" },
+    { "id": "s26", "name": "中新网「加快打造“千亿级汽车城” 河南开封推动先进制造业攀“高”向“新”」", "url": "https://www.chinanews.com.cn/cj/2026/06-17/10642118.shtml", "date": "2026-06-17", "tier": "B" },
+    { "id": "s27", "name": "经济观察报「捷途汽车迈入“后李学用时代”」", "url": "https://www.eeo.com.cn/2025/1121/768439.shtml", "date": "2025-11-21", "tier": "B" }
+  ]
+}

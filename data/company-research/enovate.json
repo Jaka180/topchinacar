@@ -1,0 +1,418 @@
+{
+  "id": "enovate",
+  "name_en": "Enovate Motors (Tianji Auto)",
+  "name_zh": "天际汽车（天际汽车科技集团有限公司）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "2015 (predecessor Dearcc / Electric Coffee Auto founded in June 2015; the premium brand Tianji was launched in 2018 and the entity was renamed Enovate Motors Technology Group in 2019)",
+      "value_zh": "2015 年（前身电咖汽车于 2015 年 6 月成立；2018 年发布高端品牌天际，2019 年公司主体更名为天际汽车科技集团有限公司）",
+      "period": null,
+      "source_ids": ["s11", "s5"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Shaoxing, Zhejiang (site of its first production base; the predecessor was founded in Zhejiang in 2015). The parent's registered office is not clearly stated in the primary sources reviewed",
+      "value_zh": "浙江省绍兴市（第一生产基地所在；前身 2015 年成立于浙江）。母公司注册地在本研究核对的权威来源中未见明确披露",
+      "period": null,
+      "source_ids": ["s5", "s11"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private startup (originated from LeEco-affiliated Dearcc; later received state industrial-fund investment from Hunan and Changsha)",
+      "value_zh": "民营创业公司（源自乐视系电咖；后期引入湖南、长沙地方国资产业基金投资）",
+      "period": null,
+      "source_ids": ["s5", "s6", "s11"]
+    },
+    {
+      "label_en": "Founder",
+      "label_zh": "创始人",
+      "value_en": "Zhang Hailiang (born 1970, Tongji University); former SAIC Volkswagen general manager and LeEco Auto president/COO and global CEO; chairman and CEO of Enovate",
+      "value_zh": "张海亮（1970 年生，同济大学毕业）；曾任上汽大众总经理、乐视汽车总裁兼 COO 与全球 CEO，天际汽车董事长兼 CEO",
+      "period": "2017-10",
+      "source_ids": ["s10", "s4", "s11"]
+    },
+    {
+      "label_en": "Actual controller / voting rights",
+      "label_zh": "实际控制人与投票权",
+      "value_en": "Not publicly confirmed. Interface News reported Changsha Tianji New Energy Industry Investment Fund (LP) as the largest shareholder with 24.625%; China Economic Net reported that Shi Yongmin's Shanghai Quhe fund held 8.59%",
+      "value_zh": "未公开确认。界面新闻报道长沙天际新能源产业投资基金（有限合伙）为第一大股东、持股 24.625%；中国经济网报道施永敏实控的上海渠禾基金持股 8.59%",
+      "period": "2022-12-13",
+      "source_ids": ["s5", "s10"]
+    },
+    {
+      "label_en": "Listing status",
+      "label_zh": "上市地点与代码",
+      "value_en": "Not listed",
+      "value_zh": "未上市",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": null,
+      "value_zh": null,
+      "period": null,
+      "source_ids": ["s11"]
+    },
+    {
+      "label_en": "Revenue (latest fiscal year)",
+      "label_zh": "营收（最近财年）",
+      "value_en": "Not publicly disclosed",
+      "value_zh": "未公开披露",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Net profit (latest fiscal year)",
+      "label_zh": "净利润（最近财年）",
+      "value_en": "Not publicly disclosed",
+      "value_zh": "未公开披露",
+      "period": null,
+      "source_ids": ["s10"]
+    },
+    {
+      "label_en": "Sales (most recent full year)",
+      "label_zh": "销量（最近一年）",
+      "value_en": "5,321 units in 2022 (CPCA data cited by media)",
+      "value_zh": "2022 年全年销量 5321 辆（乘联会数据，经媒体引用）",
+      "period": "2022",
+      "source_ids": ["s11", "s9"]
+    },
+    {
+      "label_en": "Overseas sales",
+      "label_zh": "海外销量",
+      "value_en": "Not disclosed; the December 2022 Saudi joint-venture contract did not proceed to production",
+      "value_zh": "未公开披露；2022 年 12 月沙特合资合同签约后未落地投产",
+      "period": null,
+      "source_ids": ["s5", "s6"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2015-06",
+      "event_en": "The predecessor Dearcc (Electric Coffee Auto) is founded as a micro-EV brand incubated within LeEco's auto business. Hubei Daily records incorporation in June 2015; Interface News notes the predecessor was founded in Zhejiang in 2015.",
+      "event_zh": "前身电咖汽车成立，为乐视汽车内部孵化的微型电动车品牌。湖北日报记载公司成立于 2015 年 6 月；界面新闻记载前身 2015 年成立于浙江。",
+      "source_ids": ["s11", "s5"]
+    },
+    {
+      "date": "2017-10",
+      "event_en": "Zhang Hailiang, former LeEco Auto executive, takes over as Dearcc's chairman and CEO (China Economic Net records 2017; Sohu Auto records October 2017).",
+      "event_zh": "前乐视汽车高管张海亮出任电咖汽车董事长兼 CEO（中国经济网记载为 2017 年，搜狐汽车记载为 2017 年 10 月）。",
+      "source_ids": ["s10", "s13"]
+    },
+    {
+      "date": "2017-11",
+      "event_en": "Dearcc launches its first model, the A0-class micro-EV EV10, with a post-subsidy price below RMB70,000.",
+      "event_zh": "电咖推出首款车型 A0 级微型电动车 EV10，补贴后售价 7 万元以下。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2018",
+      "event_en": "The company launches the premium brand Tianji (Enovate) as part of a move upmarket; the first model ME7 debuts at the Guangzhou Auto Show in November. In the same year it acquires the Quanzhou Xihu auto production base and obtains its new-energy-vehicle production qualification.",
+      "event_zh": "公司发布高端品牌「天际 ENOVATE」，向高端市场转型；首款车型 ME7 于 11 月广州车展亮相。同年收购泉州西虎汽车生产基地，获得新能源汽车生产资质。",
+      "source_ids": ["s8", "s11"]
+    },
+    {
+      "date": "2019-03",
+      "event_en": "Zhejiang Dearcc Auto Technology Co., Ltd. is renamed Enovate Motors Technology Group Co., Ltd. (China Economic Net/Lanjing Finance records March 2019; Hubei Daily records 2019).",
+      "event_zh": "浙江电咖汽车科技有限公司更名为天际汽车科技集团有限公司（中国经济网/蓝鲸财经记载为 2019 年 3 月，湖北日报记载为 2019 年）。",
+      "source_ids": ["s12", "s11"]
+    },
+    {
+      "date": "2019-04-16",
+      "event_en": "ME7 opens pre-sale at the Shanghai Auto Show at RMB366,800–381,800 before subsidies (a limited run of 6,666 units). Zhang Hailiang announces a completed RMB2 billion Series A round and cumulative financing of over RMB6.5 billion.",
+      "event_zh": "ME7 在上海车展开启预售，补贴前 36.68 万–38.18 万元（限量 6666 台）。张海亮公布完成 20 亿元 A 轮融资，累计融资超 65 亿元。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2019-10",
+      "event_en": "The Shaoxing passenger-vehicle base enters the MIIT catalogue of road-vehicle manufacturers.",
+      "event_zh": "天际汽车绍兴乘用车基地进入工信部道路机动车辆生产企业名录。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2019-12-28",
+      "event_en": "The first model, ME7, rolls off the production line at the Shaoxing base.",
+      "event_zh": "首款车型 ME7 在绍兴基地正式下线。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2020-09",
+      "event_en": "ME7 officially launches at RMB218,800–289,800 after subsidies (three trims, with a maximum NEDC range of 530 km). China Economic Net reports deliveries began in October 2020; Hubei Daily states delivery was delayed until 2021, and the two accounts differ.",
+      "event_zh": "ME7 正式上市，补贴后售价 21.88 万–28.98 万元（三款配置，NEDC 续航最高 530 公里）。中国经济网记载 2020 年 10 月开始交付，湖北日报称「拖到 2021 年才开始交付」，两处口径不一。",
+      "source_ids": ["s8", "s11", "s10"]
+    },
+    {
+      "date": "2020-10",
+      "event_en": "Enovate completes a new financing round of over RMB5 billion, led by local-government industrial guidance funds and large state-owned banks.",
+      "event_zh": "完成超 50 亿元新一轮融资，资方为地方政府产业引导基金和大型国有银行。",
+      "source_ids": ["s5", "s12"]
+    },
+    {
+      "date": "2020-12",
+      "event_en": "The Changsha passenger-vehicle base enters the MIIT catalogue of road-vehicle manufacturers.",
+      "event_zh": "天际汽车长沙乘用车基地进入工信部道路机动车辆生产企业名录。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2021-06",
+      "event_en": "The Changsha production base starts operation; in July the second model, the extended-range compact SUV ME5, launches with a guide price of RMB149,900–159,900.",
+      "event_zh": "长沙生产基地投产；7 月第二款车型增程式紧凑型 SUV ME5 上市，市场指导价 14.99 万–15.99 万元。",
+      "source_ids": ["s8", "s12"]
+    },
+    {
+      "date": "2022-12-12",
+      "event_en": "Enovate signs a joint-venture contract with Saudi firm Sumou Holding to invest about USD500 million in two phases for a NEV manufacturing and R&D base in Saudi Arabia with planned annual capacity of about 100,000 units. The project did not proceed to production.",
+      "event_zh": "与沙特企业 Sumou Holding 签署合资合同，计划在沙特分两期投资约 5 亿美元建设新能源汽车制造与研发基地，规划年产约 10 万辆；该项目此后未落地投产。",
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "date": "2023-03",
+      "event_en": "Media report a planned financing round of over RMB750 million for wage arrears and production resumption; no completion was subsequently announced.",
+      "event_zh": "媒体报道公司将完成超 7.5 亿元融资用于补发薪资与复产，此后无下文。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2023-04-01",
+      "event_en": "Enovate halts work and production for some positions from 1 April 2023, citing its funding situation and production and sales plans.",
+      "event_zh": "天际汽车以资金情况及生产销售计划为由，自 2023 年 4 月 1 日起对部分岗位实行停产停工。",
+      "source_ids": ["s9", "s10"]
+    },
+    {
+      "date": "2024-08-13",
+      "event_en": "A creditor, Shen Yuqing, applies to the Changsha Yuelu District People's Court for bankruptcy liquidation of Enovate Auto (Changsha) Group Co., Ltd. (case (2024) Xiang 0104 Po Shen No. 31).",
+      "event_zh": "债权人沈玉清向长沙市岳麓区人民法院申请对天际汽车（长沙）集团有限公司进行破产清算（案号（2024）湘 0104 破申 31 号）。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-12",
+      "event_en": "The MIIT notification on the results of 2023 new-energy-vehicle supervision inspections names Fujian Enovate Automobile Manufacturing Co., Ltd.'s plug-in extended-range hybrid multipurpose passenger vehicle (model QAC6452SHEVBB6, i.e. the ME5) for energy-consumption production-consistency non-compliance with GB/T 19753-2021; media reported the company said it would not voluntarily recall, citing the large number of vehicles involved and no impact on use.",
+      "event_zh": "工信部《关于 2023 年度新能源汽车监督检查结果的通报》将福建天际汽车制造有限公司旗下插电式增程混合动力多用途乘用车（QAC6452SHEVBB6，即 ME5）列入生产一致性不合规名单，原因为能量消耗量不符合 GB/T 19753-2021《轻型混合动力电动汽车能量消耗量试验方法》要求；媒体报道公司以涉及产品数量过多、不影响使用为由表示不会主动召回。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2025-08-22",
+      "event_en": "Machinery, fixtures and materials of Fujian Enovate Automobile Manufacturing Co., Ltd.'s Shaoxing branch are auctioned for RMB64,955,890.70 (appraised value RMB53,622,701), less than one-tenth of the book value recorded in the last audit report.",
+      "event_zh": "福建天际汽车制造有限公司绍兴分公司的机器设备、附属物及物料等资产以 64955890.7 元拍卖成交（评估价 53622701 元），不足最后一次审计报告账面价值的一成。",
+      "source_ids": ["s7", "s8"]
+    },
+    {
+      "date": "2026-04-07",
+      "event_en": "The Hunan Xiangjiang New Area Party and Government Office replies that Enovate is in a work-and-production halt and is advancing strategic-investor introduction and work resumption through bankruptcy reorganization judicial proceedings.",
+      "event_zh": "湖南湘江新区党政综合部回复确认，天际汽车处于停工停产特殊时期，正通过破产重组司法程序推进战略投资人引进及复工复产。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2026-06-04",
+      "event_en": "The Changsha Intermediate People's Court publishes a notice on selecting a temporary administrator for the pre-reorganization case of Enovate Auto (Changsha) Group Co., Ltd., applied for by Shanghai Huanben Catering Management Co., Ltd.",
+      "event_zh": "长沙市中级人民法院发布关于天际汽车（长沙）集团有限公司预重整案选任临时管理人的公告（申请人上海环本餐饮管理有限公司）。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-08-17",
+      "event_en": "The Changsha Intermediate People's Court announces that, after Shanghai Huanben Catering Management Co., Ltd. withdrew its bankruptcy reorganization application against Enovate Auto (Changsha) Group Co., Ltd. and the court approved the withdrawal, it terminates the administrator-selection procedure for the pre-reorganization case.",
+      "event_zh": "长沙市中级人民法院公告，因申请人上海环本餐饮管理有限公司撤回对天际汽车（长沙）集团有限公司的破产重整申请并经法院裁定准许，决定终止该预重整案选任管理人程序。",
+      "source_ids": ["s15"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Enovate (Tianji)",
+      "name_zh": "天际 ENOVATE",
+      "role_en": "The group's premium smart-electric brand, launched in 2018. Production models are the mid-size battery-electric SUV ME7 (launched September 2020 at RMB218,800–289,800 after subsidies, with a maximum NEDC range of 530 km) and the compact extended-range SUV ME5 (launched July 2021 with a guide price of RMB149,900–159,900; a 2022 anniversary-edition trim was reported from RMB138,800). The ME-S concept sedan was shown but not produced. CPCA data cited by media show 1,778 units in 2021 and 5,321 units in 2022.",
+      "role_zh": "集团旗下高端智能电动品牌，2018 年发布。量产车型为纯电中型 SUV ME7（2020 年 9 月上市，补贴后 21.88 万–28.98 万元，NEDC 续航最高 530 公里）与增程式紧凑型 SUV ME5（2021 年 7 月上市，市场指导价 14.99 万–15.99 万元；2022 款周年限量版据界面新闻报道 13.88 万元起）；ME-S 概念轿车未量产。媒体引用的乘联会数据显示 2021 年 1778 辆、2022 年 5321 辆。",
+      "price_band": "RMB 138,800–289,800",
+      "founded": 2018,
+      "owner_note_en": "Operated by Enovate Motors Technology Group Co., Ltd. Work and production halted from 1 April 2023. The Shaoxing base assets were auctioned in August 2025; the Changsha subsidiary entered pre-reorganization in June 2026, but the pre-reorganization administrator-selection was terminated on 17 August 2026 after the applicant withdrew.",
+      "owner_note_zh": "隶属天际汽车科技集团有限公司。2023 年 4 月 1 日起停工停产；2025 年 8 月绍兴基地资产被拍卖；2026 年 6 月长沙子公司进入预重整程序，2026 年 8 月 17 日该预重整案因申请人撤回而终止选任管理人程序。",
+      "status": "production-halted",
+      "source_ids": ["s8", "s5", "s9", "s7", "s3", "s15", "s11", "s12", "s10"]
+    },
+    {
+      "name_en": "Dearcc (Electric Coffee Auto)",
+      "name_zh": "电咖汽车",
+      "role_en": "The predecessor micro-EV brand, founded in 2015 within LeEco's auto business. Its first model, the A0-class EV10, launched in November 2017 at under RMB70,000 after subsidies. The brand was effectively retired after the 2019 renaming to Enovate.",
+      "role_zh": "前身微型电动车品牌，2015 年在乐视汽车体系内孵化。首款车型 A0 级 EV10 于 2017 年 11 月上市，补贴后 7 万元以下。2019 年公司更名天际后，电咖品牌基本停用。",
+      "price_band": "under RMB70,000 (EV10, after subsidy)",
+      "founded": 2015,
+      "owner_note_en": "The Dearcc brand name was replaced by Enovate after the 2019 corporate renaming; no Dearcc-branded models remained in production.",
+      "owner_note_zh": "2019 年公司更名天际后，电咖品牌名称被天际取代，不再以电咖名义量产车型。",
+      "status": "discontinued",
+      "source_ids": ["s11", "s12"]
+    },
+    {
+      "name_en": "Enovate–Sumou Holding Saudi joint venture",
+      "name_zh": "天际汽车–沙特 Sumou Holding 合资公司",
+      "role_en": "A joint-venture contract signed on 12 December 2022 with Saudi firm Sumou Holding to invest about USD500 million in two phases for a NEV manufacturing and R&D base in Saudi Arabia with planned annual capacity of about 100,000 units. The contract did not proceed to construction or production, and no export followed.",
+      "role_zh": "2022 年 12 月 12 日与沙特企业 Sumou Holding 签署合资合同，计划分两期投资约 5 亿美元，在沙特建设新能源汽车制造与研发基地，规划年产约 10 万辆。该合资仅到签约阶段，未落地建设或投产，亦无出口信息。",
+      "price_band": null,
+      "founded": null,
+      "owner_note_en": "Signed but not implemented; by the research cutoff no vehicles were produced from the Saudi base.",
+      "owner_note_zh": "协议已签署但未落地建设或投产；截至研究截止日无车辆从沙特基地下线。",
+      "status": "not-implemented",
+      "source_ids": ["s5", "s6"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not disclosed (unlisted company; no audited consolidated annual financial statements obtained)",
+    "rows": [],
+    "note_en": "Enovate was never listed, and this review obtained no public primary audited consolidated annual financial statements. Revenue, gross margin, net profit, R&D spending and operating cash flow therefore remain undisclosed, the financial table is empty, and the accounting standard is unconfirmed. The net-profit attribution basis (attributable to owners of the parent versus ordinary shareholders) cannot be confirmed in the absence of published financial statements. The only public financial-adjacent figures are scattered and non-income-statement in nature: the Changsha Intermediate People's Court announcement records that Enovate Auto (Changsha) Group Co., Ltd. has registered capital of RMB620,618,536.67; China Economic Net, citing a PwC Zhong Tian audit report, reports that the Shaoxing base had a book value of close to RMB1 billion as of 31 December 2020, and that the Shaoxing branch's machinery, fixtures and materials were auctioned on 22 August 2025 for RMB64,955,890.70 against an appraised value of RMB53,622,701. These are registered-capital, book-value and auction figures, not annual revenue or profit.",
+    "note_zh": "天际汽车从未上市，本次核查未取得公开的一手经审计合并年度财务报表，营收、毛利率、净利润、研发投入及经营现金流均未公开披露，财务表留空，会计准则未公开确认。因无公开财务报表，净利润归属口径（归属于母公司股东或归属于普通股股东）无法确认。唯一公开的财务相关数字均为零散、非利润表口径：据长沙中院公告，天际汽车（长沙）集团有限公司注册资本为 620618536.67 元；据中国经济网援引普华永道中天审计报告，绍兴基地截至 2020 年 12 月 31 日账面价值接近 10 亿元；绍兴分公司机器设备、附属物及物料于 2025 年 8 月 22 日以 64955890.7 元拍卖成交，评估价 53622701 元。以上均为注册资本、账面及拍卖口径，并非年度营收或利润。",
+    "source_ids": ["s3"]
+  },
+  "sections": {
+    "overview": {
+      "source_ids": ["s11", "s4", "s5", "s8", "s9", "s1", "s7", "s3", "s15", "s16"],
+      "en": "<p>Enovate Motors (Tianji Auto) is a Chinese new-energy-vehicle startup whose predecessor, Dearcc (Electric Coffee Auto), was founded in June 2015 as a micro-EV brand incubated within LeEco's auto business. The premium brand Tianji (Enovate) was launched in 2018, and the corporate entity was renamed Enovate Motors Technology Group Co., Ltd. in 2019. The company was founded and led by Zhang Hailiang, a former SAIC Volkswagen general manager and LeEco Auto executive.<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a><a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a></p><p>The company launched two production models — the battery-electric mid-size SUV ME7 (September 2020) and the extended-range compact SUV ME5 (July 2021) — raised cumulative financing of about RMB10 billion, built vehicle plants in Shaoxing (Zhejiang) and Changsha (Hunan), and in December 2022 signed a joint-venture contract to build a plant in Saudi Arabia with Sumou Holding.<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></p><p>Because sales fell far short of targets and funding dried up, the company halted work and production on 1 April 2023. Its Changsha subsidiary was subject to a bankruptcy-liquidation application in August 2024; in December 2024 the MIIT flagged its ME5 extended-range model for production-consistency non-compliance; the Shaoxing base's core assets were auctioned in August 2025 for about RMB64.96 million (less than one-tenth of book value); the Changsha subsidiary entered pre-reorganization in June 2026, but on 17 August 2026 the court terminated the pre-reorganization administrator-selection after the applicant withdrew. As of 29 October 2026 the group had not completed liquidation or formal bankruptcy and remained shut down.<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml\">[s16]</a><a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></p>",
+      "zh": "<p>天际汽车（ENOVATE）是中国新能源汽车造车新势力之一，前身电咖汽车于 2015 年 6 月成立，为乐视汽车体系内孵化的微型电动车品牌；2018 年发布高端品牌「天际」，2019 年公司主体更名为天际汽车科技集团有限公司。公司由曾任上汽大众总经理、乐视汽车高管的张海亮创立并出任董事长兼 CEO。<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a><a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a></p><p>公司先后推出两款量产车型——纯电中型 SUV ME7（2020 年 9 月上市）与增程式紧凑型 SUV ME5（2021 年 7 月上市），累计融资约百亿元，在浙江绍兴、湖南长沙布局整车工厂，并于 2022 年 12 月与沙特 Sumou Holding 签署合资合同、宣布赴沙特建厂。<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></p><p>因销量远低于预期、资金链断裂，公司于 2023 年 4 月 1 日停工停产；此后经历 2024 年 8 月长沙子公司被申请破产清算、2024 年 12 月工信部通报 ME5 生产一致性不合规、2025 年 8 月绍兴基地核心资产以约 6495.6 万元（不足账面价值一成）被拍卖、2026 年 6 月长沙子公司进入预重整、2026 年 8 月 17 日该预重整案因申请人撤回而终止选任管理人程序等事件。截至 2026 年 10 月 29 日，集团尚未完成清算或正式破产，处于停摆状态。<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml\">[s16]</a><a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></p>"
+    },
+    "current": {
+      "source_ids": ["s5", "s8", "s9", "s11", "s2", "s3", "s7", "s1", "s12", "s10", "s4", "s6", "s16", "s15"],
+      "en": "<h3>Business and products</h3><p>The company's business was new-energy-vehicle development, manufacturing and sales. It launched two production models: the battery-electric mid-size SUV ME7 (launched September 2020 at RMB218,800–289,800 after subsidies, with a maximum NEDC range of 530 km) and the extended-range compact SUV ME5 (launched July 2021 with a guide price of RMB149,900–159,900). The ME-S concept sedan was shown at the 2019 Shanghai Auto Show but never mass-produced. No primary disclosure of revenue by business segment was obtained.<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml\">[s12]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a></p><h3>Technology</h3><p>The ME7 was built on the iMA digital architecture, which the company described as integrating vehicle, IT and internet technologies, and featured a 5+X multi-screen cockpit, facial recognition and L2-level driving assistance. At pre-sale the company highlighted a Bosch flat-wire permanent-magnet synchronous motor with 98% efficiency and a 0–100 km/h time of 4.9 seconds for the all-wheel-drive version.<a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a> The ME5 used the iMES extended-range system pairing a 1.5-litre engine with an electric motor, with a claimed pure-electric NEDC range of 155 km and a combined NEDC range of 1,012 km.<a href=\"https://www.peopleapp.com/rmharticle/30022850973\">[s14]</a> These descriptions come from launch materials and media reports; no independently tested current specifications were obtained.</p><h3>Plants and capacity</h3><p>The Shaoxing base entered the MIIT manufacturer catalogue in October 2019, and the ME7 rolled off the line there on 28 December 2019. Interface News reported the Shaoxing plant planned about 1,000 mu of land, RMB5.5 billion of total investment and 180,000 units of designed annual capacity; the Changsha plant started production in June 2021 with 60,000 units of designed annual capacity. Media differ on total three-site capacity: China Economic Net reports 220,000 units across Changsha, Shaoxing and Nanning, while Hubei Daily reports 340,000 units of passenger-vehicle capacity across the three sites plus planned Qingdao and Cixi commercial-vehicle bases. The Nanning, Qingdao and Cixi bases were never built or put into production.<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml\">[s12]</a></p><h3>Production qualification</h3><p>In 2018 the company acquired the Quanzhou Xihu automobile production base and obtained its new-energy-vehicle production qualification; the Shaoxing base entered the MIIT manufacturer catalogue in October 2019 and the Changsha base in December 2020.<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></p><h3>Overseas plans</h3><p>Overseas, the company signed a joint-venture contract with Saudi firm Sumou Holding on 12 December 2022 to invest about USD500 million in two phases for a NEV manufacturing and R&D base in Saudi Arabia with planned annual capacity of about 100,000 units; media also reported talks with Saudi investors including the sovereign wealth fund and Aramco. The contract did not proceed beyond signing, and by the cutoff no vehicles had been produced from or exported via the Saudi base, with no overseas sales disclosed.<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://www.cnr.cn/hunan/yw/20221215/t20221215_526095278.shtml\">[s6]</a></p><h3>Domestic sales record</h3><p>China Economic Net reports that the ME7 sold only 97 units cumulatively by the end of 2020; CPCA data cited by media show 1,778 units in 2021, 5,321 units in 2022 and 186 units in the first two months of 2023; Interface News reported 4,837 insured registrations in January–October 2022.<a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></p><h3>Production-consistency issue</h3><p>In December 2024 the MIIT notification on the results of 2023 new-energy-vehicle supervision inspections listed Fujian Enovate Automobile Manufacturing Co., Ltd.'s plug-in extended-range hybrid multipurpose passenger vehicle (model QAC6452SHEVBB6, the ME5) for energy-consumption production-consistency non-compliance with GB/T 19753-2021. Media reported that the company said it would not voluntarily recall, citing the large number of vehicles involved and no impact on use.<a href=\"https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml\">[s16]</a></p><h3>Current status and judicial process</h3><p>As of 29 October 2026 the company had been halted since 1 April 2023. Its Changsha subsidiary was subject to a bankruptcy-liquidation application in August 2024 and entered pre-reorganization in June 2026, but on 17 August 2026 the Changsha Intermediate People's Court terminated the pre-reorganization administrator-selection after the applicant Shanghai Huanben Catering Management Co., Ltd. withdrew its bankruptcy reorganization application and the court approved the withdrawal. The company was never listed and did not disclose any quarterly or half-year results.<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></p>",
+      "zh": "<h3>业务与产品</h3><p>公司业务为新能源汽车研发、制造与销售。共推出两款量产车型：纯电中型 SUV ME7（2020 年 9 月上市，补贴后 21.88 万–28.98 万元，NEDC 续航最高 530 公里）与增程式紧凑型 SUV ME5（2021 年 7 月上市，市场指导价 14.99 万–15.99 万元）。ME-S 概念轿车于 2019 年上海车展亮相但未量产。本次未取得各业务收入占比的一手财务披露。<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml\">[s12]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a></p><h3>技术</h3><p>ME7 基于 iMA 智能数字化架构打造，公司称其融合整车、IT、互联网技术，配备 5+X 多屏智能座舱、人脸识别与 L2 级驾驶辅助；预售时公司宣传采用博世扁铜线永磁同步电机、效率 98%，四驱版 0–100km/h 加速 4.9 秒。<a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a> ME5 采用 iMES 智慧增程系统，由 1.5 升发动机与电机组成，宣称纯电 NEDC 续航 155 公里、综合 NEDC 续航 1012 公里。<a href=\"https://www.peopleapp.com/rmharticle/30022850973\">[s14]</a> 上述为公司发布资料及媒体报道的介绍，本次未取得独立实测的当前全系规格。</p><h3>工厂与产能</h3><p>绍兴基地于 2019 年 10 月进入工信部生产企业名录，同年 12 月 28 日 ME7 下线。界面新闻报道绍兴工厂规划占地约 1000 亩、总投资 55 亿元、设计年产能 18 万辆；长沙工厂 2021 年 6 月投产、设计年产能 6 万辆。关于三地总规划产能，媒体口径不一：中国经济网称长沙、绍兴、南宁三地规划总产能达 22 万辆，湖北日报称三地规划 34 万辆乘用车产能并另规划青岛、慈溪商用车基地；南宁、青岛、慈溪基地均未建成投产。<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a><a href=\"https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml\">[s12]</a></p><h3>生产资质</h3><p>2018 年收购泉州西虎汽车生产基地获得新能源汽车生产资质；绍兴基地 2019 年 10 月、长沙基地 2020 年 12 月先后进入工信部道路机动车辆生产企业名录。<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></p><h3>海外布局</h3><p>海外方面，公司于 2022 年 12 月 12 日与沙特企业 Sumou Holding 签署合资合同，计划分两期投资约 5 亿美元在沙特建设新能源汽车制造与研发基地，规划年产约 10 万辆；媒体报道其同时与沙特主权基金、沙特阿美等投资方洽谈。但该合资仅到签约阶段，未落地建设或投产，截至研究截止日无车辆从沙特基地下线或出口，亦无海外销量披露。<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://www.cnr.cn/hunan/yw/20221215/t20221215_526095278.shtml\">[s6]</a></p><h3>国内销量记录</h3><p>中国经济网报道 ME7 至 2020 年末累计销量仅 97 辆；媒体引用的乘联会数据显示 2021 年 1778 辆、2022 年 5321 辆、2023 年前两个月 186 辆；界面新闻报道 2022 年 1–10 月上险量 4837 辆。<a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></p><h3>生产一致性问题</h3><p>2024 年 12 月，工信部《关于 2023 年度新能源汽车监督检查结果的通报》将福建天际汽车制造有限公司旗下插电式增程混合动力多用途乘用车（QAC6452SHEVBB6，即 ME5）列入生产一致性不合规名单，原因为能量消耗量不符合 GB/T 19753-2021《轻型混合动力电动汽车能量消耗量试验方法》要求；媒体报道公司以涉及产品数量过多、不影响使用为由表示不会主动召回。<a href=\"https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml\">[s16]</a></p><h3>现状与司法程序</h3><p>截至 2026 年 10 月 29 日，公司自 2023 年 4 月 1 日起停工停产。长沙子公司 2024 年 8 月被申请破产清算、2026 年 6 月进入预重整选任临时管理人阶段，但 2026 年 8 月 17 日长沙市中级人民法院因申请人上海环本餐饮管理有限公司撤回破产重整申请并经裁定准许，终止了该预重整案选任管理人程序。公司从未上市，亦未披露任何季度或半年业绩。<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></p>"
+    },
+    "leadership": {
+      "source_ids": ["s4", "s10", "s11", "s5", "s13", "s3"],
+      "en": "<h3>Founder and public roles</h3><p>Zhang Hailiang was born in 1970 and graduated from Tongji University before joining Shanghai Volkswagen in 1994. China Economic Net reports that he became general manager of Shanghai Volkswagen in September 2010 (after the incumbent died in an accident) and rose to SAIC Group vice president in August 2014; Sohu Auto records the same months. He left SAIC in April 2016 to join LeEco Auto as president and COO, became global CEO of LeSEE (LeEco's super-car arm) in March 2017, and took over as chairman and CEO of Dearcc in October 2017. People's Daily Online identifies him as Enovate's chairman and CEO; Hubei Daily likewise lists him as chairman. China Economic Net reported in January 2026 that he had not resigned as chairman but had been unreachable to investors since late 2023.<a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://auto.sohu.com/20180804/n545460307.shtml\">[s13]</a><a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><h3>Other executives</h3><p>Hubei Daily names Niu Shengfu (CTO) and Xiang Dongping (CMO) as senior executives from the SAIC system alongside chairman Zhang Hailiang. These are dated role records from media reports; this review obtained no primary announcement of the complete current management or board as of October 2026, and does not present historical names as current appointments.<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><h3>Ownership and governance</h3><p>Hubei Daily lists shareholders including Shanghai Electric Technology Venture Capital Co., Ltd., Xingzheng Investment Management Co., Ltd. and Changsha Tianji New Energy Industry Investment Fund (LP), and reports the parent's registered capital at about RMB880 million. Interface News reported Changsha Tianji New Energy Industry Investment Fund (LP) as the largest shareholder with 24.625%. China Economic Net reported that the Shanghai Quhe fund controlled by Shi Yongmin held 8.59%. This review obtained no primary document identifying the group's actual controller, so the actual controller is not publicly confirmed; registered shareholdings and any actual-controller designation are listed separately.<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></p><p>On financing, media citing Tianyancha records report that the company raised eight rounds by March 2023, including a round of over RMB5 billion completed in October 2020 led by local-government industrial guidance funds and large state-owned banks, with cumulative disclosed financing of about RMB10 billion.<a href=\"https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml\">[s12]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a></p><p>The Changsha Intermediate People's Court announcement records that Enovate Auto (Changsha) Group Co., Ltd. was incorporated on 3 September 2018 as a limited-liability company (Hong Kong/Macau/Taiwan-invested, not wholly owned) with registered capital of RMB620,618,536.67, and had fallen into a work-and-production halt due to a broken funding chain and operating difficulties.<a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a></p>",
+      "zh": "<h3>创始人与公开履历</h3><p>张海亮 1970 年出生，毕业于同济大学，1994 年进入上海大众。中国经济网报道其 2010 年 9 月接任上海大众总经理（前任因意外离世）、2014 年 8 月升任上汽集团副总裁；搜狐汽车亦记载上述月份。2016 年 4 月离开上汽加盟乐视汽车任总裁兼 COO，2017 年 3 月升任乐视超级汽车（LeSEE）全球 CEO，2017 年 10 月出任电咖汽车董事长兼 CEO。人民网 2019 年报道列其为天际汽车董事长兼 CEO，湖北日报亦列其为董事长。中国经济网 2026 年 1 月报道其至今未卸任董事长，但自 2023 年底起投资人无法与其取得联系。<a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a><a href=\"https://auto.sohu.com/20180804/n545460307.shtml\">[s13]</a><a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><h3>其他高管</h3><p>湖北日报列董事长张海亮、CTO 牛胜福、CMO 向东平等出身上汽体系的高管。上述为相应日期的媒体职务记录；本次未取得截至 2026 年 10 月完整现任高管及董事会名单的一手公告，不将历史名单写成现任名单。<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><h3>股权与治理</h3><p>湖北日报列股东包括上海电气科技创业投资有限公司、兴证投资管理有限公司、长沙天际新能源产业投资基金合伙企业（有限合伙）等，并记载母公司注册资本约 8.8 亿元。界面新闻报道长沙天际新能源产业投资基金（有限合伙）为第一大股东、持股 24.625%。中国经济网报道施永敏实控的上海渠禾股权投资基金管理有限公司持股 8.59%。本次未取得认定集团实际控制人的一手文件，实际控制人未公开确认；登记持股与实际控制人认定分别列示。<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></p><p>在融资方面，媒体报道援引天眼查信息显示，公司至 2023 年 3 月前累计获得 8 轮投资，其中 2020 年 10 月完成地方政府产业引导基金和大型国有银行主导的超 50 亿元融资，累计披露融资金额约 100 亿元。<a href=\"https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml\">[s12]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a></p><p>长沙中院公告记载，天际汽车（长沙）集团有限公司成立于 2018 年 9 月 3 日，公司类型为有限责任公司（港澳台投资，非独资），注册资本 620618536.67 元，因资金链断裂、经营困难已陷入停工停产状态。<a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a></p>"
+    },
+    "competition": {
+      "source_ids": ["s8", "s4", "s9", "s11", "s5", "s10"],
+      "en": "<h3>Historical positioning</h3><p>The company positioned the ME7 as a premium mid-size electric SUV, with pre-sale prices of RMB366,800–381,800 before subsidies (April 2019) and launch prices of RMB218,800–289,800 after subsidies (September 2020); the ME5 was an extended-range compact SUV with a guide price of RMB149,900–159,900 (July 2021). These prices placed the brand in the mainstream-to-premium band of China's NEV market.<a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><h3>Sales record</h3><p>CPCA data cited by media show 1,778 units in 2021, 5,321 units in 2022 and 186 units in the first two months of 2023; Interface News reported 4,837 insured registrations in January–October 2022. These figures were far below leading new-EV makers' monthly deliveries.<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><p>For context, media reported in April 2023 that the NEV market had entered an elimination phase, with brands such as GAC Fiat Chrysler, Qoros, Borgward and Ziyoujia exiting around the same period, and that Enovate's halt was part of this broader shakeout.<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></p><h3>Our assessment</h3><p>Our assessment: the company had an early start, a qualified production permit and about RMB10 billion in cumulative financing, but its two models did not achieve meaningful volume, and it stopped producing in April 2023. Its competitive weakness was a slow product cadence — the ME7 was shown in November 2018 and pre-sold in April 2019 but only launched in September 2020, and it sold 97 units by the end of 2020 — and a lack of a distinctive product position. The basis is the media-reported sales data and timeline above.<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></p><p>Our assessment: Enovate belongs to the first wave of new-EV makers that obtained production permits and financing but failed to reach scale. A China Economic Net report in September 2025 groups Enovate with WM Motor as cases where the founder left the country after the company ran into trouble, in contrast with HiPhi and Neta, whose founders stayed to push restructuring. The basis is that media report.<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></p><p>Our assessment: Enovate's rise and fall reflects a common path among first-wave new-EV makers — raising funds and building plants at scale before demand was proven, then breaking the funding chain after a single weak model. The concrete evidence is the gap between planned capacity (180,000 units in Shaoxing and 60,000 in Changsha, per Interface News) and the 5,321 units actually sold in 2022. This is our judgement, not a company statement.<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></p>",
+      "zh": "<h3>历史定位</h3><p>公司将 ME7 定位为高端中型电动 SUV，2019 年 4 月预售补贴前 36.68 万–38.18 万元、2020 年 9 月上市补贴后 21.88 万–28.98 万元；ME5 为增程式紧凑型 SUV，2021 年 7 月市场指导价 14.99 万–15.99 万元。上述价格使其处于国内新能源市场的中端偏上区间。<a href=\"https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html\">[s4]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><h3>销量记录</h3><p>媒体引用的乘联会数据显示，2021 年销量 1778 辆、2022 年 5321 辆、2023 年前两个月 186 辆；界面新闻报道 2022 年 1–10 月上险量 4837 辆。这些数字远低于头部造车新势力的单月交付量。<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></p><p>作为背景，中国经济网 2023 年 4 月报道称新能源市场已进入淘汰赛，广汽菲克、观致、宝沃、自游家等品牌同期退出，天际汽车的停产属于这轮洗牌的一部分。<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></p><h3>我们的判断</h3><p>我们的判断：天际汽车起步早、手握生产资质、累计融资约百亿元，但两款车型均未形成规模销量，并于 2023 年 4 月停产。其竞争短板在于产品节奏缓慢（ME7 于 2018 年 11 月亮相、2019 年 4 月预售、2020 年 9 月才上市，至 2020 年末仅售 97 辆）及产品定位缺乏鲜明特色。依据为上述媒体报道的销量数据与时间线。<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></p><p>我们的判断：天际汽车属于第一代造车新势力中拿到生产资质与融资、但未能形成规模销量的阵营。中国经济网 2025 年 9 月的报道将天际与威马归为「公司遇困后创始人离境」的情形，与高合、哪吒创始人留在国内推进重整形成对比。这一对比依据为该媒体报道。<a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></p><p>我们的判断：天际汽车的兴衰折射出第一代造车新势力的一种常见路径——在需求未验证前大举融资建厂，随后因单一车型失利而资金链断裂。具体证据是规划产能（界面新闻报道绍兴 18 万辆、长沙 6 万辆）与 2022 年实际销量 5321 辆之间的巨大落差。这是我们的判断，非公司表述。<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></p>"
+    },
+    "outlook": {
+      "source_ids": ["s5", "s6", "s10", "s2", "s3", "s1", "s7", "s15", "s9"],
+      "en": "<h3>Historical company plans</h3><p>In December 2022 the company announced the Saudi joint-venture plan and said it was also in talks with Saudi investors including the sovereign wealth fund and Aramco; media also reported the company had completed pre-IPO preparation work for a US listing. These were pre-halt plans and did not materialize. This review obtained no current official business plan or resumption target as of the cutoff.<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://www.cnr.cn/hunan/yw/20221215/t20221215_526095278.shtml\">[s6]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></p><h3>Reorganization status</h3><p>The Changsha subsidiary's bankruptcy-liquidation application was filed in August 2024; a government reply on 7 April 2026 said the company was advancing strategic-investor introduction and work resumption through bankruptcy reorganization judicial proceedings; and on 4 June 2026 the Changsha Intermediate People's Court announced it was selecting a temporary administrator for the pre-reorganization case. However, on 17 August 2026 the court terminated the pre-reorganization administrator-selection after the applicant Shanghai Huanben Catering Management Co., Ltd. withdrew its bankruptcy reorganization application and the court approved the withdrawal. As of the cutoff, no primary announcement confirmed a completed reorganization plan, a selected strategic investor or a resumption of production.<a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></p><h3>Our analysis</h3><p>Our assessment: the June 2026 pre-reorganization was a procedural step, not proof of revival, and its termination in August 2026 leaves the company without a confirmed active reorganization proceeding as of the cutoff. Any restart would require an investor, funding, a usable production permit and a functioning after-sales and parts network. The basis is the June 2026 court notice, the August 2026 termination announcement, the April 2026 government reply and the Shaoxing asset auction. Whether the company ends in liquidation, a new reorganization filing or continued limbo cannot be determined from the evidence so far.<a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a><a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a><a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a></p><p>Our analysis: to actually resume production, an investor would need not only to settle debts but also to rebuild the product line, production base and after-sales network. The Shaoxing assets have been auctioned, and the vehicle app and parts services have been affected, both weakening the basis for a restart. The basis is the auction record and the April 2026 government reply.<a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a><a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a></p><p>Our analysis: Enovate's failure shows that an early start, a production permit and ample financing do not guarantee survival; sustained sales volume and product-market fit matter more. This is our judgement, based on the sales-versus-capacity gap and the halt timeline cited in this research.<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a></p>",
+      "zh": "<h3>公司规划的历史记录</h3><p>2022 年 12 月公司宣布沙特合资计划，并称正与沙特主权基金、阿美石油等投资方洽谈；媒体还报道公司已完成美股上市前期准备工作。上述均为停工前的历史规划，均未落地。本次未取得截至研究截止日的公司现行经营计划或复产目标。<a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a><a href=\"https://www.cnr.cn/hunan/yw/20221215/t20221215_526095278.shtml\">[s6]</a><a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></p><h3>重整进展</h3><p>长沙子公司于 2024 年 8 月被申请破产清算；2026 年 4 月 7 日政府回复称企业正通过破产重组司法程序推进战略投资人引进及复工复产；2026 年 6 月 4 日长沙中院公告为该预重整案选任临时管理人。但 2026 年 8 月 17 日，长沙中院因申请人上海环本餐饮管理有限公司撤回破产重整申请并经裁定准许，终止了该预重整案选任管理人程序。截至截止日，本次核查未取得确认重整计划获批、战略投资人确定或复产的一手公告。<a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></p><h3>我们的分析</h3><p>我们的判断：长沙子公司 2026 年 6 月进入预重整属程序性进展，不等于业务复活；而 2026 年 8 月预重整案因申请人撤回而终止，使公司截至截止日再无确认的进行中的重整程序。任何重启都需落实投资人、资金、可用生产资质及售后配件体系。依据为 2026 年 6 月法院公告、2026 年 8 月终止公告、2026 年 4 月政府回复及绍兴基地资产拍卖事实。公司最终走向清算、重新申请重整还是继续搁置，现有证据尚不足以判断。<a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a><a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a><a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a></p><p>我们的分析：若要真正复产，投资人不仅需清偿债务，还需重建产品、生产基地与售后网络；绍兴资产已被拍卖、车辆 App 与配件服务已受影响，均削弱了重启基础。依据为拍卖记录与 2026 年 4 月政府回复。<a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a><a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a></p><p>我们的分析：天际汽车失败的教训在于，起步早、有生产资质、融资充足并不保证存活，持续的销量规模与产品市场匹配度更为关键。这是我们的判断，依据为本研究引用的销量与产能落差及停工时间线。<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a><a href=\"https://www.stcn.com/article/detail/753650.html\">[s5]</a></p>"
+    },
+    "risks": {
+      "source_ids": ["s1", "s3", "s2", "s7", "s8", "s9", "s10", "s15", "s16", "s11"],
+      "en": "<ul><li><strong>Reorganization and liquidation risk:</strong> a bankruptcy-liquidation application against the Changsha subsidiary was filed in August 2024 and pre-reorganization began in June 2026, but the pre-reorganization administrator-selection was terminated on 17 August 2026 after the applicant withdrew; as of the cutoff no completed plan, selected investor or confirmed active reorganization proceeding existed.<a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></li><li><strong>Asset-disposal risk:</strong> the Shaoxing branch's machinery, fixtures and materials were auctioned for about RMB64.96 million against a book value of nearly RMB1 billion, meaning most of the manufacturing base was disposed of.<a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a><a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></li><li><strong>After-sales and service risk:</strong> a government reply in April 2026 confirmed the vehicle app's biometric-service module was suspended and parts suppliers were unable to serve normally during the halt, with services to resume only after operations normalise.<a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a></li><li><strong>Production-resumption risk:</strong> work and production halted on 1 April 2023, sales and financing had been weak for years before the halt, and the company had not resumed production by the cutoff.<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></li><li><strong>Production-consistency and recall risk:</strong> in December 2024 the MIIT flagged the ME5 extended-range model for energy-consumption production-consistency non-compliance, and media reported the company said it would not voluntarily recall, which exposes owners to unresolved compliance issues.<a href=\"https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml\">[s16]</a></li><li><strong>Governance risk:</strong> media reported that the founder had not resigned as chairman but had been unreachable to investors since late 2023, and that the company had long been neither liquidated nor formally bankrupt. This is a media report, not an official announcement.<a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></li><li><strong>Procedural-stage risk:</strong> by August 2026 the court had terminated the pre-reorganization administrator-selection, and public records did not confirm any reorganization-plan timetable.<a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></li><li><strong>Enforcement and credit risk:</strong> Hubei Daily reported in July 2023 that the company was listed as a dishonest judgment debtor by the Cixi People's Court for violating the property-reporting system, with over RMB50.36 million enforced against the company and its subsidiary Dearcc Auto Parts Manufacturing (Cixi) Co., Ltd.<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></li></ul>",
+      "zh": "<ul><li><strong>重整与清算风险：</strong>2024 年 8 月长沙子公司被申请破产清算，2026 年 6 月进入预重整，但 2026 年 8 月 17 日该预重整案因申请人撤回而终止选任管理人程序；截至截止日无确认的重整计划、选定投资人或进行中的重整程序。<a href=\"https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf\">[s1]</a><a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></li><li><strong>资产处置风险：</strong>绍兴分公司机器设备等以约 6495.6 万元成交，账面价值近 10 亿元，主要生产基地已被处置。<a href=\"https://m.shaoxing.com.cn/p/3358909.html\">[s7]</a><a href=\"https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml\">[s8]</a></li><li><strong>售后与服务风险：</strong>2026 年 4 月政府回复确认，停工停产期间车辆 App 生物识别服务模块暂停、零配件供应商暂难正常服务，待企业运营正常后逐步恢复。<a href=\"https://wz.rednet.cn/front/messages/detail?id=1031777\">[s2]</a></li><li><strong>复产风险：</strong>2023 年 4 月 1 日停工停产；媒体报道停工前销量、融资已持续疲弱，截至截止日公司未复产。<a href=\"https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml\">[s9]</a></li><li><strong>生产一致性与召回风险：</strong>2024 年 12 月工信部通报 ME5 增程式车型能量消耗量生产一致性不合规，媒体报道公司表示不会主动召回，车主面临合规问题未解决的风险。<a href=\"https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml\">[s16]</a></li><li><strong>治理风险：</strong>媒体报道，创始人未卸任董事长，但自 2023 年底起投资人无法与其取得联系，公司长期未清算、未宣布破产。此为媒体报道，非官方公告。<a href=\"https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml\">[s10]</a></li><li><strong>程序阶段风险：</strong>截至 2026 年 8 月，长沙中院已终止预重整案选任管理人程序，公开记录未确认任何重整计划时间表。<a href=\"https://m.thepaper.cn/baijiahao_33311616\">[s3]</a><a href=\"https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml\">[s15]</a></li><li><strong>执行与信用风险：</strong>湖北日报 2023 年 7 月报道，公司因违反财产报告制度被慈溪市人民法院列为失信被执行人，公司及旗下电咖汽车零部件制造（慈溪）有限公司被执行 5036 万余元。<a href=\"https://news.hubeidaily.net/pc/z_304595.html\">[s11]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "湖南省长沙市岳麓区人民法院通知书 (2024) 湘 0104 破申 31 号——对天际汽车（长沙）集团有限公司破产清算申请的受理通知（全国企业破产重整案件信息网）",
+      "url": "https://pccz.court.gov.cn/filedownloads/2024/2024-08-15/%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A61723694155416.pdf?fn=%E6%94%B6%E5%88%B0%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%E7%94%B3%E8%AF%B7%E5%90%8E%E9%80%9A%E7%9F%A5%E5%80%BA%E5%8A%A1%E4%BA%BA-%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf",
+      "date": "2024-08-13",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "湖南湘江新区党政综合部官方回复——天际汽车售后、停工停产与破产重组司法程序（红网问政）",
+      "url": "https://wz.rednet.cn/front/messages/detail?id=1031777",
+      "date": "2026-04-07",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "长沙市中级人民法院关于天际汽车（长沙）集团有限公司预重整案选任临时管理人公告（政务公告，澎湃新闻全文转载）",
+      "url": "https://m.thepaper.cn/baijiahao_33311616",
+      "date": "2026-06-04",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "人民网——天际 ME7 上海车展开启预售（36.68 万起）与 A 轮融资",
+      "url": "https://auto.people.com.cn/n1/2019/0417/c1005-31034145.html",
+      "date": "2019-04-17",
+      "tier": "B"
+    },
+    {
+      "id": "s5",
+      "name": "界面新闻（经证券时报网转载）——天际汽车沙特合资、融资、2022 年 1–10 月上险量与工厂产能",
+      "url": "https://www.stcn.com/article/detail/753650.html",
+      "date": "2022-12-13",
+      "tier": "B"
+    },
+    {
+      "id": "s6",
+      "name": "央广网（华声在线）——湖南湘江新区确认天际汽车沙特合资合同签约",
+      "url": "https://www.cnr.cn/hunan/yw/20221215/t20221215_526095278.shtml",
+      "date": "2022-12-15",
+      "tier": "B"
+    },
+    {
+      "id": "s7",
+      "name": "越牛新闻（绍兴）——福建天际汽车制造有限公司绍兴分公司资产拍卖（683 轮、6495 万成交）",
+      "url": "https://m.shaoxing.com.cn/p/3358909.html",
+      "date": "2025-08-23",
+      "tier": "B"
+    },
+    {
+      "id": "s8",
+      "name": "中国经济网——天际汽车资产不足一折被拍出、创始人已在境外",
+      "url": "https://auto.ce.cn/auto/gundong/202509/t20250910_2470829.shtml",
+      "date": "2025-09-10",
+      "tier": "B"
+    },
+    {
+      "id": "s9",
+      "name": "中国经济网（中国消费者报）——天际汽车 2023 年 4 月 1 日停工停产与乘联会销量",
+      "url": "https://auto.ce.cn/auto/gundong/202304/19/t20230419_38505763.shtml",
+      "date": "2023-04-19",
+      "tier": "B"
+    },
+    {
+      "id": "s10",
+      "name": "中国经济网——「寻找张海亮」调查报道：天际汽车兴衰、张海亮履历与股权",
+      "url": "https://auto.ce.cn/auto/gundong/202601/t20260130_2740042.shtml",
+      "date": "2026-01-30",
+      "tier": "B"
+    },
+    {
+      "id": "s11",
+      "name": "湖北日报——天际汽车成老赖被强制执行、公司沿革、股东、注册资本与乘联会销量",
+      "url": "https://news.hubeidaily.net/pc/z_304595.html",
+      "date": "2023-07-13",
+      "tier": "B"
+    },
+    {
+      "id": "s12",
+      "name": "中国经济网（蓝鲸财经）——天际汽车获 7.5 亿元融资报道、产品上市与工厂产能",
+      "url": "https://finance.ce.cn/stock/gsgdbd/202303/21/t20230321_38454662.shtml",
+      "date": "2023-03-21",
+      "tier": "B"
+    },
+    {
+      "id": "s13",
+      "name": "搜狐汽车——电咖汽车有没有新思维（张海亮履历：2010 年 9 月任上海大众总经理、2014 年 8 月任上汽集团副总裁、2017 年 10 月加盟电咖）",
+      "url": "https://auto.sohu.com/20180804/n545460307.shtml",
+      "date": "2018-08-04",
+      "tier": "C"
+    },
+    {
+      "id": "s14",
+      "name": "人民日报客户端——天际 ME5 正式上市（指导价 14.99 万–15.99 万元、纯电 155km/综合 1012km、iMES 增程系统）",
+      "url": "https://www.peopleapp.com/rmharticle/30022850973",
+      "date": "2021-07-14",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "长沙市中级人民法院关于终止天际汽车（长沙）集团有限公司预重整案选任管理人程序的公告（人民法院诉讼资产网）",
+      "url": "https://www1.rmfysszc.gov.cn/Agency/details/628460.shtml",
+      "date": "2026-08-17",
+      "tier": "A"
+    },
+    {
+      "id": "s16",
+      "name": "央广网（中国消费者报）——天际汽车被工信部通报生产一致性不合规并称不会主动召回",
+      "url": "https://auto.cnr.cn/2015xc/20241214/t20241214_527009137.shtml",
+      "date": "2024-12-14",
+      "tier": "B"
+    }
+  ]
+}

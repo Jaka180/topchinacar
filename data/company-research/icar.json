@@ -1,0 +1,331 @@
+{
+  "id": "icar",
+  "name_en": "iCAR (Chery)",
+  "name_zh": "iCAR（奇瑞）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "April 2023 (announced 2023-04-07 at Chery's 'New Energy Night' in Beijing; formally unveiled 2023-04-16 ahead of the Shanghai Auto Show)",
+      "value_zh": "2023 年 4 月（2023-04-07 奇瑞新能源之夜发布；2023-04-16 上海车展前正式亮相）",
+      "period": null,
+      "source_ids": ["s8", "s10"]
+    },
+    {
+      "label_en": "Parent / group",
+      "label_zh": "所属集团",
+      "value_en": "New-energy brand of Chery Automobile Co., Ltd. (HKEX: 9973.HK)",
+      "value_zh": "奇瑞汽车股份有限公司（港交所 9973.HK）旗下新能源品牌",
+      "period": null,
+      "source_ids": ["s4", "s7"]
+    },
+    {
+      "label_en": "Operating entity",
+      "label_zh": "运营主体",
+      "value_en": "iCar Ecological Technology Co., Ltd. (爱咖生态科技有限公司); media citing corporate registry data (Tianyancha) report it is wholly owned by Chery New Energy Vehicle Co., Ltd.",
+      "value_zh": "爱咖生态科技有限公司（iCar Ecological Technology Co., Ltd.）；据媒体报道引工商登记（天眼查），由奇瑞新能源汽车股份有限公司全资持股",
+      "period": null,
+      "source_ids": ["s5", "s27"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Wuhu, Anhui, China (the official site lists the Wuhu plant address; the user-agreement registered address is also in Wuhu)",
+      "value_zh": "中国安徽省芜湖市（官网公示芜湖工厂地址，用户协议注册地亦在芜湖）",
+      "period": null,
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "label_en": "Positioning",
+      "label_zh": "定位",
+      "value_en": "New-energy brand aimed at young users, focused on boxy 'fun' SUVs (the 'trendy' brand in Chery's portfolio)",
+      "value_zh": "面向年轻人的新能源品牌，聚焦「方盒子」潮流 SUV（奇瑞品牌矩阵中主打「潮」）",
+      "period": null,
+      "source_ids": ["s8", "s22"]
+    },
+    {
+      "label_en": "Overseas brand name",
+      "label_zh": "海外品牌名",
+      "value_en": "iCaur (used outside China; media report the iCAR trademark is registered overseas, including by Apple)",
+      "value_zh": "iCAUR（海外市场用名；据媒体报道因 iCAR 商标在海外已被注册，其中包括苹果公司）",
+      "period": null,
+      "source_ids": ["s23", "s29"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Brand not separately listed; parent Chery Automobile is listed on HKEX as 9973.HK",
+      "value_zh": "品牌未单独上市；母公司奇瑞汽车于港交所上市（9973.HK）",
+      "period": null,
+      "source_ids": ["s4", "s7"]
+    },
+    {
+      "label_en": "Sales (2024)",
+      "label_zh": "销量（2024 年）",
+      "value_en": "About 65,000–66,000 units (Chery's reported sales figures)",
+      "value_zh": "约 6.5 万–6.6 万辆（奇瑞公布的销量口径）",
+      "period": "2024",
+      "source_ids": ["s17", "s18"]
+    },
+    {
+      "label_en": "Sales (2025)",
+      "label_zh": "销量（2025 年）",
+      "value_en": "96,989 units",
+      "value_zh": "96,989 辆",
+      "period": "2025",
+      "source_ids": ["s4", "s22"]
+    },
+    {
+      "label_en": "Sales (H1 2026)",
+      "label_zh": "销量（2026 上半年）",
+      "value_en": "About 45,400 units (up 2% year on year)",
+      "value_zh": "约 4.54 万辆（同比增长 2%）",
+      "period": "2026 H1",
+      "source_ids": ["s26"]
+    },
+    {
+      "label_en": "Sales (Jan–Aug 2026)",
+      "label_zh": "销量（2026 年 1–8 月）",
+      "value_en": "64,689 units (up 15.7% year on year); 10,229 in August alone (up 112.2%)",
+      "value_zh": "64,689 辆（同比增长 15.7%）；8 月单月 10,229 辆（同比增长 112.2%）",
+      "period": "2026 Jan-Aug",
+      "source_ids": ["s33"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2023-04-07",
+      "event_en": "Chery launches iCAR as its first independent new-energy brand at the 'Chery New Energy Night' in Beijing's Water Cube, targeting young users; the logo uses a tangram motif designed by Cao Xue, lead designer of the Beijing 2022 Winter Olympics mascot.",
+      "event_zh": "奇瑞在北京水立方「2023 奇瑞汽车新能源之夜」发布首个独立新能源品牌 iCAR；同期发布的品牌 LOGO 以七巧板为创意源点，由北京 2022 年冬奥会吉祥物「冰墩墩」主设计师曹雪设计。",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2023-04-16",
+      "event_en": "iCAR is formally unveiled ahead of the Shanghai Auto Show, showing the iCAR 03 boxy pure-electric SUV and the iCAR GT concept alongside the i-MS architecture and i-VA ecosystem; Chery and CATL jointly launch the ENER-Q battery brand. Bao Siyu is introduced as iCAR CEO.",
+      "event_zh": "iCAR 于上海车展前正式发布，首发 iCAR 03 纯电方盒子 SUV 与 iCAR GT 概念车，并发布 i-MS 架构与 i-VA 生态；奇瑞与宁德时代联合推出电池品牌 ENER-Q。鲍思语出任 iCAR CEO。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2023-12",
+      "event_en": "The iCAR 03 opens pre-orders; media report about 7,852 orders within 10 days.",
+      "event_zh": "iCAR 03 开启预售，据媒体报道预售 10 天收获约 7,852 辆订单。",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2024-02-28",
+      "event_en": "First production model iCAR 03 goes on sale with six variants priced RMB 109,800–169,800, featuring an all-aluminium body and iWD electric 4WD.",
+      "event_zh": "首款量产车 iCAR 03 上市，共 6 款车型，指导价 10.98 万–16.98 万元，主打全铝车身与 iWD 智能电控四驱。",
+      "source_ids": ["s11", "s12"]
+    },
+    {
+      "date": "2024-04-12",
+      "event_en": "At the 2024 brand night in Beijing, the iCAR V23 is unveiled — the first model jointly developed by Chery and Zhimi Technology — with Su Jun appearing as iCAR chief product officer; the X25 (first X-series model) is previewed and Chery announces a strategic cooperation with CATL.",
+      "event_zh": "iCAR 在北京举行 2024 品牌之夜，首发 V23（奇瑞与智米科技合作开发的首款车型），苏峻以 iCAR 首席产品官身份亮相；同时预告 X 系列首款车型 X25，并宣布与宁德时代达成战略合作。",
+      "source_ids": ["s31", "s18"]
+    },
+    {
+      "date": "2024-08-30",
+      "event_en": "iCAR 03T launches at the Chengdu Auto Show with two variants priced RMB 139,800–149,800, forming the 03 family with the iCAR 03.",
+      "event_zh": "iCAR 03T 于成都国际车展上市，提供两驱/四驱长续航版两个版型，指导价 13.98 万–14.98 万元，与 iCAR 03 组成 03 家族。",
+      "source_ids": ["s6", "s14"]
+    },
+    {
+      "date": "2024-12-16",
+      "event_en": "iCAR V23 launches in Beijing with three variants priced RMB 99,800–139,800 (301/401/501 km CLTC); it records 31,000 pre-orders within eight hours of pre-sale. Chery chairman Yin Tongyue says the group will 'sell V23 all over the world, making the China-made V23 a toy for young people worldwide'.",
+      "event_zh": "iCAR V23 在北京上市，三款车型 9.98 万–13.98 万元（CLTC 续航 301/401/501 公里），预售 8 小时订单达 31,000 单；董事长尹同跃表示要把 V23「卖遍全球」，成为全球年轻人的玩具。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2024-12-18",
+      "event_en": "After some customers cancel orders over the V23's launch pricing and bundled option packages, chief product officer Su Jun publicly apologises on Weibo and adjusts user benefits.",
+      "event_zh": "V23 上市后出现部分用户退订，首席产品官苏峻于微博公开致歉并调整用户权益。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "Su Jun, CEO of Zhimi Technology, is promoted to Chery Automobile vice president and general manager of the iCAR brand division, succeeding Zhang Hongyu, who is transferred to the Chery brand domestic division as executive deputy general manager. (Media reported the move around 2025-02-20; the exact day was not specified.)",
+      "event_zh": "智米科技 CEO 苏峻升任奇瑞汽车股份有限公司副总裁、iCAR 品牌事业部总经理，接替章红玉；章红玉调任奇瑞品牌国内事业部执行副总经理（媒体约 2025 年 2 月报道，未载明具体日期）。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2025-08-16",
+      "event_en": "The iCAR 03/03T series is rebadged and folded into Chery's Fulwin brand as the Fulwin X3 / X3 PLUS family (both pure electric); iCAR refocuses on the V series and young users' personalised needs.",
+      "event_zh": "iCAR 03/03T 系列焕新并入奇瑞风云品牌，更名为风云 X3 / X3 PLUS 系列（均为纯电），iCAR 品牌聚焦 V 系列与年轻用户个性化需求。",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2025-09-21",
+      "event_en": "The iCAR 'Super V23' family launches from RMB 122,800, including the V23 S performance variant (335 kW, 455 hp, 0–100 km/h in 4.5 s) and Cyber editions (RMB 158,800 / 174,800).",
+      "event_zh": "iCAR 全新超级 V23 家族上市，指导价 12.28 万元起，推出超级 V23 S 高性能版（335 千瓦、455 马力、零百 4.5 秒）与赛博版（15.88 万/17.48 万元）。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2025-11",
+      "event_en": "The iCAR V27 makes its China debut at the Guangzhou Auto Show, positioned as a 'family hardcore' large SUV.",
+      "event_zh": "iCAR V27 于广州车展完成中国首秀，定位「家庭新硬派」大型 SUV。",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2025-12-10",
+      "event_en": "At Horizon Robotics' ecosystem conference, Su Jun says iCAR's goal is to become 'the world's most distinctive NEV brand' and to build models that become cultural symbols, citing the Range Rover, Beetle, MINI and Mercedes G-Class as references.",
+      "event_zh": "在 2025 地平线技术生态大会上，苏峻表示 iCAR 的目标是成为「全球特色新能源车第一品牌」，打造像路虎揽胜、甲壳虫、MINI、奔驰 G 那样能够穿越周期、成为文化符号的经典车型。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2026-01-10",
+      "event_en": "The first production units of the iCAR V27 roll off the line at the Wuhu plant, targeting the domestic market and initial export to the Middle East.",
+      "event_zh": "iCAR V27 首台量产车于芜湖工厂下线，面向国内市场并计划首批出口中东市场。",
+      "source_ids": ["s23"]
+    },
+    {
+      "date": "2026-03-13",
+      "event_en": "The iCAR V27, the brand's first extended-range model and its largest SUV (positioned as a mid-to-large SUV), launches with three variants priced RMB 169,800 / 182,800 / 196,800.",
+      "event_zh": "iCAR V27 上市，为品牌首款增程车型与最大尺寸 SUV（定位中大型），三个版型 16.98 万/18.28 万/19.68 万元。",
+      "source_ids": ["s1", "s32"]
+    },
+    {
+      "date": "2026-07-23",
+      "event_en": "The first locally assembled iCAR V23 rolls off the line at Chery's new plant in the Automotive High-Tech Valley, Selangor, Malaysia; construction began in February 2025, with initial capacity of 100,000 units a year and room to expand to 300,000.",
+      "event_zh": "马来西亚雪兰莪汽车高科技谷新工厂首台 iCAR V23 整车下线；该工厂 2025 年 2 月开工，一期年产能 10 万辆，预留扩至 30 万辆的空间。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2026-08-14",
+      "event_en": "The iCAR V25 mid-size extended-range SUV debuts; iCAR sold 54,460 vehicles in the first seven months of 2026 (up 6.63% year on year).",
+      "event_zh": "iCAR V25 中型增程 SUV 亮相；iCAR 2026 年前 7 个月累计 54,460 辆（同比增长 6.63%）。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2026-10-19",
+      "event_en": "The iCAR V25 opens pre-sales from RMB 139,800 (four variants, RMB 139,800–175,800), with an official launch expected in Q4 2026. iCAR also plans to enter the UK in early 2027 under the iCaur name, with the V27 as its first model.",
+      "event_zh": "iCAR V25 开启预售，13.98 万元起（四个版型 13.98 万–17.58 万元），正式上市计划在 2026 年第四季度；品牌还计划 2027 年初以 iCAUR 之名进入英国市场，首款车型为 V27。",
+      "source_ids": ["s28"]
+    },
+    {
+      "date": "2026-10-28",
+      "event_en": "Media report (citing Greek Top Gear of 23 October) that the iCAR V27 has entered the Greek market under the iCaur name via dealer group Emil Frey; the Greek 4WD version costs EUR 54,900 (about RMB 450,000, roughly 2.3 times the China top trim), and its extended-range powertrain is classified as a plug-in hybrid there.",
+      "event_zh": "据媒体报道（引希腊 Top Gear 10 月 23 日报道），iCAR V27 以 iCAUR 之名经欧洲经销巨头 Emil Frey 集团进入希腊市场；希腊四驱版 5.49 万欧元（约合人民币 45 万元，约为国内顶配的 2.3 倍），其增程动力在欧洲被归类为插电混动。",
+      "source_ids": ["s29"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "iCAR 03 / 03T (03 family)",
+      "name_zh": "iCAR 03 / 03T（03 家族）",
+      "role_en": "First production model line: compact pure-electric boxy SUV with all-aluminium body and iWD electric 4WD",
+      "role_zh": "首款量产车系：紧凑级纯电方盒子 SUV，全铝车身、iWD 智能电控四驱",
+      "price_band": "RMB 109,800–169,800 (03); RMB 139,800–149,800 (03T)",
+      "founded": 2024,
+      "owner_note_en": "Originally under iCAR; rebadged into Chery's Fulwin (风云) brand as the pure-electric Fulwin X3 / X3 PLUS family from August 2025",
+      "owner_note_zh": "原属 iCAR 品牌；2025 年 8 月起焕新并入奇瑞风云品牌，更名为纯电的风云 X3 / X3 PLUS 系列",
+      "status": "rebadged",
+      "source_ids": ["s11", "s14", "s19"]
+    },
+    {
+      "name_en": "iCAR V23 (incl. Super V23 / V23 S / Cyber editions)",
+      "name_zh": "iCAR V23（含超级 V23 / V23 S / 赛博版）",
+      "role_en": "Compact pure-electric boxy SUV jointly developed with Zhimi Technology; the brand's volume model, launched December 2024",
+      "role_zh": "紧凑级纯电方盒子 SUV，奇瑞与智米科技合作开发，为品牌主力销量车型，2024 年 12 月上市",
+      "price_band": "Launch (Dec 2024) RMB 99,800–139,800; Super V23 (Sep 2025) RMB 122,800–154,800 (Cyber editions RMB 158,800 / 174,800)",
+      "founded": 2024,
+      "owner_note_en": "iCAR brand of Chery Automobile",
+      "owner_note_zh": "奇瑞汽车 iCAR 品牌",
+      "status": "active",
+      "source_ids": ["s2", "s15", "s20"]
+    },
+    {
+      "name_en": "iCAR V25",
+      "name_zh": "iCAR V25",
+      "role_en": "Mid-size extended-range (EREV) SUV; the V-series model between the V23 and V27, debuting August 2026",
+      "role_zh": "中型增程 SUV，V 系列第三款车型，定位介于 V23 与 V27 之间，2026 年 8 月亮相",
+      "price_band": "Pre-sale RMB 139,800–175,800 (official launch expected Q4 2026)",
+      "founded": 2026,
+      "owner_note_en": "iCAR brand of Chery Automobile",
+      "owner_note_zh": "奇瑞汽车 iCAR 品牌",
+      "status": "active",
+      "source_ids": ["s25", "s28"]
+    },
+    {
+      "name_en": "iCAR V27",
+      "name_zh": "iCAR V27",
+      "role_en": "Mid-to-large extended-range (EREV) SUV, the brand's flagship and first EREV model",
+      "role_zh": "中大型增程 SUV，品牌旗舰与首款增程车型",
+      "price_band": "RMB 169,800–196,800",
+      "founded": 2026,
+      "owner_note_en": "iCAR brand of Chery Automobile",
+      "owner_note_zh": "奇瑞汽车 iCAR 品牌",
+      "status": "active",
+      "source_ids": ["s3", "s32"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "IFRS (parent Chery Automobile; brand-level financials not separately disclosed)",
+    "rows": [],
+    "note_en": "iCAR is a new-energy brand of Chery Automobile Co., Ltd. (HKEX: 9973.HK) and does not disclose brand-level financial statements, so brand-level revenue, gross margin, net profit, R&D and cash flow are not reported separately and are not estimated here. The parent, Chery Automobile, prepares its accounts under IFRS; its 'profit attributable to owners of the parent' is on an 'attributable to equity holders of the parent' basis (i.e. attributable to the parent company's shareholders, not to non-controlling interests, and not restricted to ordinary shareholders only). Per Chery Automobile's interim results announcement published on 20 August 2026: H1 2026 revenue was RMB 143,280 million, gross profit RMB 23,044 million, gross margin 16.1%, profit for the period RMB 9,016 million, profit attributable to owners of the parent RMB 8,567 million, and R&D expenses RMB 6,672 million (source: https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk). Parent financials are covered in the Chery deep-dive. This page does not constitute any trading recommendation.",
+    "note_zh": "iCAR 为奇瑞汽车股份有限公司（港交所 9973.HK）旗下新能源品牌，未单独披露品牌层面财务报表，故本表不列品牌级营收、毛利率、净利润、研发投入、现金流等数字，也不做估算。母公司奇瑞汽车按国际财务报告准则（IFRS）编制报表，其「本公司拥有人应占利润」为归属于母公司股东（本公司权益持有人）的利润口径，而非归属于少数股东、也非仅归属于普通股股东的口径。据奇瑞汽车 2026 年 8 月 20 日发布的中期业绩公告：2026 年上半年收入 1,432.80 亿元、毛利 230.44 亿元、毛利率 16.1%、期内利润 90.16 亿元、本公司拥有人应占利润 85.67 亿元、研发开支 66.72 亿元（来源：https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk ）。母公司财务数据见奇瑞（chery）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>iCAR is the first standalone new-energy-vehicle brand launched by Chery Automobile Co., Ltd. (HKEX: 9973.HK). It was announced in April 2023 at Chery's 'New Energy Night' in Beijing as a brand aimed at young users, built around boxy, off-road-styled 'fun' SUVs <a href=\"https://auto.youth.cn/xw/202304/t20230409_14441479.htm\">[s8]</a>. Within Chery's brand portfolio, iCAR carries the 'trendy' (潮) role alongside the Chery main brand ('value'), Exeed ('luxury'), Jetour ('wild') and Zongheng ('poise') <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>. The brand sold roughly 65,000–66,000 vehicles in 2024 and 96,989 in 2025 <a href=\"https://finance.people.com.cn/n1/2025/0121/c1004-40406257.html\">[s17]</a><a href=\"https://www.cheryholding.com/article/1085.html\">[s4]</a>. After its first model line, the iCAR 03, was folded into Chery's Fulwin brand in August 2025, the lineup concentrated on the V series — the compact pure-electric V23, the mid-size EREV V25 and the mid-to-large EREV flagship V27 — and, as of October 2026, the brand is expanding into Southeast Asia and Europe under the overseas name iCaur <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://www.icarglobal.com/zh\">[s1]</a><a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>. Chery Holding chairman Yin Tongyue has called iCAR the group's 'new special zone' for new energy <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>.</p>",
+      "zh": "<p>iCAR 是奇瑞汽车股份有限公司（港交所 9973.HK）推出的首个独立新能源品牌，2023 年 4 月在北京「奇瑞新能源之夜」上发布，定位面向年轻人的新能源品牌，围绕「方盒子」越野风格打造潮流 SUV <a href=\"https://auto.youth.cn/xw/202304/t20230409_14441479.htm\">[s8]</a>。在奇瑞的品牌矩阵中——奇瑞主品牌主打「值」、星途主打「奢」、捷途主打「野」、纵横主打「御」——iCAR 承担「潮」的品牌角色 <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>。品牌 2024 年销量约 6.5 万–6.6 万辆，2025 年增至 96,989 辆 <a href=\"https://finance.people.com.cn/n1/2025/0121/c1004-40406257.html\">[s17]</a><a href=\"https://www.cheryholding.com/article/1085.html\">[s4]</a>。在首款车系 iCAR 03 于 2025 年 8 月并入奇瑞风云品牌后，产品线聚焦 V 系列——紧凑级纯电 V23、中型增程 V25、中大型增程旗舰 V27——截至 2026 年 10 月已形成三款在售/预售车型，并以 iCAUR 之名向东南亚与欧洲等海外市场扩张 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://www.icarglobal.com/zh\">[s1]</a><a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。奇瑞控股董事长尹同跃将 iCAR 称为集团新能源的「新特区」<a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>。</p>"
+    },
+    "current": {
+      "en": "<p><strong>Business structure.</strong> iCAR operates as a brand business division within Chery Automobile (HKEX: 9973.HK); the division's general manager is also a vice president of Chery Automobile. Its operating vehicle is iCar Ecological Technology Co., Ltd. (爱咖生态科技有限公司), a name that appears in iCAR's official user agreement and V27 purchase-benefit terms <a href=\"https://static.icar-ecology.com/icar/user.html\">[s5]</a><a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>. Media citing corporate-registry data (Tianyancha) report that iCar Ecological Technology is wholly owned by Chery New Energy Vehicle Co., Ltd. <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>. Since the 03 family moved to the Fulwin brand in August 2025, the lineup has centred on the V series: the compact pure-electric V23 (with Super V23, V23 S and Cyber editions), the mid-size EREV V25 and the mid-to-large EREV flagship V27 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://www.icarglobal.com/zh\">[s1]</a>.</p><p><strong>Brand positioning and product strategy.</strong> iCAR targets younger buyers; Chery frames the car as a 'third mobile living space'. The logo uses a tangram motif, with the 'i' standing for individuality, intelligence, imagination and interaction, and the slogan is 'Born to Play' <a href=\"https://auto.youth.cn/xw/202304/t20230409_14441479.htm\">[s8]</a><a href=\"https://company.cnstock.com/company/scp_gsxw/202304/5047133.htm\">[s10]</a>. The brand planned three series — 0 (refined technology), V (style-oriented off-road) and X (a 'single-box new species') — with a target of eight models before 2026; Su Jun described the approach as 'single model, premium, high volume, long cycle' <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a><a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>.</p><p><strong>V23 family (pure electric, volume model).</strong> The V23 launched on 16 December 2024 in three variants — 301 km 2WD (RMB 99,800), 401 km 2WD (RMB 109,800) and 501 km 4WD (RMB 139,800). It is 4,220 mm long (1,915 mm wide, 1,845 mm high), with a Qualcomm Snapdragon 8155 chip, a 15.4-inch 2.5K screen, 23 L2+ driver-assistance functions, a 43-degree approach angle, 41-degree departure angle and 600 mm wading depth; it recorded 31,000 pre-orders in eight hours <a href=\"https://www.cqnews.net/1/detail/1318538943796502528/app/content_1318538943796502528.html\">[s15]</a>. The Super V23 launched on 21 September 2025 raised power to 185 kW (2WD) and 335 kW / 455 hp (4WD V23 S, 0–100 km/h in 4.5 s), with CLTC ranges of 401/550/501 km and prices of RMB 122,800–154,800 (Cyber editions RMB 158,800 / 174,800); the V23 was the best-selling new-energy boxy model for January–August 2025 <a href=\"https://www.xinhuanet.com/auto/20250922/e39ca21a4379467a92050deb833ed425/c.html\">[s20]</a>.</p><p><strong>V25 (mid-size EREV).</strong> The V25 debuted on 14 August 2026 and is the brand's second extended-range model. Pre-sales opened on 19 October 2026 with four variants at RMB 139,800 / 149,800 (RWD Pro/Max) and RMB 163,800 / 175,800 (AWD Max+/Ultra), with an official launch expected in Q4 2026 <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>. It measures 4,636×1,920×1,855 mm with a 2,820 mm wheelbase, uses a 1.5-litre turbo range extender, offers a 185 kW rear motor or 335 kW dual motors (0–100 km/h in 8.5 s / 5.8 s), CLTC electric ranges of 210/200 km and combined ranges of 1,240/1,210 km, 197 mm ground clearance and 600 mm wading depth. It offers the Falcon 700+ driver-assistance system on Horizon Robotics' Journey 6P chip (560 TOPS) <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>.</p><p><strong>V27 flagship (mid-to-large EREV).</strong> The V27 launched on 13 March 2026 as the brand's first EREV and largest SUV, positioned as a mid-to-large SUV, in three variants at RMB 169,800 / 182,800 / 196,800 (210 km 2WD Falcon 500, 200 km 4WD Falcon 500, 200 km 4WD Falcon 700) <a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a><a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>. It measures 5,055×1,976×1,894 mm with a 2,910 mm wheelbase, uses a 1.5T range-extender engine (115 kW, 45.79% thermal efficiency), a 185 kW single motor or 335 kW dual motors, CLTC electric ranges of 210/200 km and combined 1,230/1,200 km, a 34.3 kWh LFP battery, and is claimed to be China's first boxy SUV with magnetorheological (MRC) suspension <a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>. On driver assistance, two of the three variants carry the Falcon 500 as standard, and only the top 4WD Falcon 700 variant carries the Falcon 700+ (Journey 6P, 560 TOPS, lidar and 27 sensors); per the Autohome launch report, the Falcon 500 uses the Journey 6M chip with 128 TOPS <a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>.</p><p><strong>Technology and platforms.</strong> iCAR models are built on Chery's i-SWIFT platform (version 2.0 for the V27); the first model, the iCAR 03, featured an all-aluminium body and iWD electric 4WD, with the body produced at Chery's smart plant (about 200,000 units/year) <a href=\"https://www.news.cn/auto/20240229/1460cdb64a83484a819d11f082f61d18/c.html\">[s11]</a><a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a>. On intelligence, iCAR works with Horizon Robotics; the V23/V25/V27 use the Falcon assisted-driving stack in two tiers — Falcon 500 (Journey 6M, 128 TOPS) and Falcon 700+ (Journey 6P, 560 TOPS) — with cockpits on Qualcomm Snapdragon 8295P/8155 chips and an AI large-model plus DeepSeek voice assistant <a href=\"https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html\">[s21]</a><a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>. At the April 2024 brand night, Chery also announced a strategic cooperation with CATL <a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>.</p><p><strong>Plants and capacity.</strong> iCAR vehicles are produced at Chery's Wuhu (Anhui) base; the official site lists the iCAR Wuhu plant address as 3 Nanchang Road, Yijiang District, Wuhu <a href=\"https://www.icarglobal.com/zh\">[s1]</a>. Overseas, Chery built a new plant in the Automotive High-Tech Valley, Selangor, Malaysia — 81 hectares, construction started February 2025, initial capacity 100,000 units/year with room to expand to 300,000 — where the first locally produced iCAR V23 rolled off the line in July 2026 and reached showrooms in late July <a href=\"https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/\">[s24]</a>.</p><p><strong>Overseas business.</strong> Because the iCAR trademark is registered abroad, the brand operates overseas as iCaur; Tencent News reports the renaming is mainly because Apple registered the iCAR trademark <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>. The V23 launched in Malaysia in November 2025 at RM 119,800–132,800 and is now locally assembled <a href=\"https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/\">[s24]</a>. The V27 has entered the Middle East and Southeast Asia — from AED 135,000 (about RMB 250,000) in the UAE and THB 999,900 (about RMB 220,000) in Thailand — and entered Greece via dealer group Emil Frey; Romania lists EUR 51,490–54,990, and the Greek 4WD version costs EUR 54,900 (about RMB 450,000, roughly 2.3 times the China top trim of RMB 196,800) <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>. The brand also plans to enter the UK in early 2027 under the iCaur name with the V27 as its first model <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>.</p><p><strong>Domestic position and sales.</strong> In 2025 iCAR sold 96,989 vehicles, one of Chery's five brands <a href=\"https://www.cheryholding.com/article/1085.html\">[s4]</a>. In H1 2026 it sold about 45,400 units (up 2% year on year), ranking behind Chery (918,400) and Jetour (258,700) but ahead of Exeed (33,200) and Luxeed (19,300) <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>. For January–August 2026, iCAR sold 64,689 units (up 15.7%), including 10,229 in August (up 112.2%) <a href=\"https://m.news18a.com/news/storys_292480.html\">[s33]</a>. Note that Chery's sales/financial announcements list its five brands as Chery, Exeed, Jetour, iCAR and Luxeed, whereas the January 2026 'Chery Family Banquet' presented the brand matrix as Chery, Exeed, Jetour, iCAR and Zongheng (mapped to 'value, luxury, wild, trendy, poise'); the two groupings differ <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a><a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>.</p><p><strong>Monthly sales trajectory.</strong> Monthly data show a clear step-up around the V23 launch: per NBD, iCAR sold 6,965 vehicles in October 2024 and 5,745 in November, then the V23's December 2024 launch pushed the monthly figure to roughly 10,000, with 7,853 sold in January 2025 despite the Chinese New Year holiday <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>. In the second half of 2026, as the V27 and V25 launched/entered pre-sale, August sales reached 10,229 (up 112.2% year on year), a 2026 monthly high <a href=\"https://m.news18a.com/news/storys_292480.html\">[s33]</a>.</p>",
+      "zh": "<p><strong>业务结构与运营主体。</strong> iCAR 以奇瑞汽车股份有限公司（港交所 9973.HK）旗下品牌事业部形式运营，品牌事业部总经理同时担任奇瑞汽车副总裁；其运营主体为爱咖生态科技有限公司（iCar Ecological Technology Co., Ltd.），该公司名称见于 iCAR 官方用户协议与 V27 官方购车权益说明 <a href=\"https://static.icar-ecology.com/icar/user.html\">[s5]</a><a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>。据媒体报道引工商登记信息（天眼查），爱咖生态科技由奇瑞新能源汽车股份有限公司全资持股 <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>。自 2025 年 8 月 iCAR 03 系列并入风云品牌后，产品线聚焦 V 系列：紧凑级纯电 V23（含超级 V23、V23 S、赛博版）、中型增程 V25，以及中大型增程旗舰 V27 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://www.icarglobal.com/zh\">[s1]</a>。</p><p><strong>品牌定位与产品战略。</strong> iCAR 面向年轻用户，奇瑞将产品定义为围绕用户全场景的「第三移动出行空间」；品牌 LOGO 以七巧板为创意元素，「i」寓意个性、智能、想象与交互，品牌主张「天生爱玩」（Born to Play）<a href=\"https://auto.youth.cn/xw/202304/t20230409_14441479.htm\">[s8]</a><a href=\"https://company.cnstock.com/company/scp_gsxw/202304/5047133.htm\">[s10]</a>。产品层面，iCAR 曾规划 0/V/X 三大系列——0 系列主打精致科技、V 系列主打风格越野、X 系列瞄准「单厢车新物种」，并计划 2026 年前推出 8 款车型；苏峻提出以「单款、精品、海量、长周期」的理念打造车型 <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a><a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>。</p><p><strong>V23 车系（纯电，品牌主力）。</strong> V23 于 2024 年 12 月 16 日上市，提供 301 两驱青春版（9.98 万元）、401 两驱进阶版（10.98 万元）、501 四驱高阶版（13.98 万元）三款版型，车身长 4,220 毫米（宽 1,915、高 1,845 毫米），搭载高通骁龙 8155 芯片与 15.4 英寸 2.5K 中控屏、23 项 L2+ 智驾功能，接近角 43 度、离去角 41 度、涉水深度 600 毫米，预售 8 小时订单 31,000 单 <a href=\"https://www.cqnews.net/1/detail/1318538943796502528/app/content_1318538943796502528.html\">[s15]</a>。2025 年 9 月 21 日上市的超级 V23 将两驱功率提升至 185 千瓦、四驱 V23 S 达 335 千瓦（455 马力、零百 4.5 秒），CLTC 续航提供 401/550/501 公里，指导价 12.28 万–15.48 万元，赛博版 15.88 万/17.48 万元；V23 曾位列 2025 年 1–8 月新能源方盒子累计销量冠军 <a href=\"https://www.xinhuanet.com/auto/20250922/e39ca21a4379467a92050deb833ed425/c.html\">[s20]</a>。</p><p><strong>V25（中型增程，2026 年新作）。</strong> V25 于 2026 年 8 月 14 日亮相，为品牌第二款增程车型；2026 年 10 月 19 日开启预售，四款版型 13.98 万/14.98 万（后驱 Pro/Max）与 16.38 万/17.58 万元（四驱 Max+/Ultra），正式上市计划在 2026 年第四季度 <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。车身 4,636×1,920×1,855 毫米、轴距 2,820 毫米，搭载 1.5T 增程发动机，后驱电机 185 千瓦、四驱双电机合计 335 千瓦，零百 8.5 秒/5.8 秒，CLTC 纯电 210/200 公里、综合 1,240/1,210 公里，最小离地间隙 197 毫米、涉水 600 毫米；智驾可选装「猎鹰 700+」系统（地平线征程 6P 芯片、560 TOPS 算力）<a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。</p><p><strong>V27 旗舰（中大型增程）。</strong> V27 于 2026 年 3 月 13 日上市，是品牌首款增程车型与最大尺寸 SUV，定位中大型，三个版型 16.98 万/18.28 万/19.68 万元（210 公里两驱猎鹰 500、200 公里四驱猎鹰 500、200 公里四驱猎鹰 700）<a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a><a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>。车身 5,055×1,976×1,894 毫米、轴距 2,910 毫米，搭载 1.5T 增程专用发动机（最大功率 115 千瓦、热效率 45.79%），两驱单电机 185 千瓦、四驱双电机合计 335 千瓦，CLTC 纯电 210/200 公里、综合 1,230/1,200 公里，配 34.3 千瓦时磷酸铁锂电池，并宣称是中国首款搭载磁流变悬架（MRC 磁霸悬架）的方盒子 SUV <a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>。智驾上，三款中两款（两驱猎鹰 500、四驱猎鹰 500）标配猎鹰 500，仅顶配四驱猎鹰 700 搭载猎鹰 700+（地平线征程 6P、560 TOPS、激光雷达与 27 个传感器）；据汽车之家上市稿，猎鹰 500 芯片为征程 6M、算力 128 TOPS <a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>。</p><p><strong>核心技术与平台。</strong> iCAR 车型基于奇瑞 i-SWIFT 雨燕平台（V27 为 2.0 版本）打造，首款车 iCAR 03 以全铝车身与 iWD 智能电控四驱为卖点，全铝车身由奇瑞智慧工厂生产，年产能约 20 万辆 <a href=\"https://www.news.cn/auto/20240229/1460cdb64a83484a819d11f082f61d18/c.html\">[s11]</a><a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a>。智能化方面，iCAR 与地平线合作，V23/V25/V27 搭载猎鹰智驾辅助系统，覆盖猎鹰 500（征程 6M、128 TOPS）与猎鹰 700+（征程 6P、560 TOPS）两级方案；座舱采用高通骁龙 8295P/8155 芯片，融合 AI 大模型与 DeepSeek 语音助手 <a href=\"https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html\">[s21]</a><a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>。此外，奇瑞在 2024 年 4 月品牌之夜宣布与宁德时代达成战略合作，在技术与资本层面支持 iCAR <a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>。</p><p><strong>工厂与产能。</strong> iCAR 车型在奇瑞安徽芜湖基地生产，官网公示的 iCAR 芜湖工厂联系地址位于芜湖市弋江区南昌路 3 号 <a href=\"https://www.icarglobal.com/zh\">[s1]</a>。海外方面，奇瑞在马来西亚雪兰莪州汽车高科技谷（Automotive High-Tech Valley）新建工厂，占地 81 公顷，2025 年 2 月开工，一期年产能 10 万辆并预留扩至 30 万辆的空间，2026 年 7 月首台本地化生产的 iCAR V23 下线并于 7 月底进店 <a href=\"https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/\">[s24]</a>。</p><p><strong>海外业务。</strong> 因「iCAR」商标在海外已被注册，品牌海外以 iCAUR 之名运营；据腾讯新闻报道，海外更名主要因苹果公司已注册 iCAR 商标 <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>。V23 于 2025 年 11 月在马来西亚上市（11.98 万–13.28 万林吉特），并实现本地化生产 <a href=\"https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/\">[s24]</a>。V27 已进入中东与东南亚市场：在阿联酋起售价 13.5 万迪拉姆（约合人民币 25 万元）、泰国 99.99 万泰铢起（约 22 万元），并经欧洲经销巨头 Emil Frey 集团引进进入希腊市场，罗马尼亚售价 5.149 万–5.499 万欧元，希腊四驱版 5.49 万欧元（约合人民币 45 万元，约为国内顶配 19.68 万元的 2.3 倍）<a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>。品牌还计划 2027 年初以 iCAUR 之名进入英国市场，首款车型为 V27 <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。</p><p><strong>国内市场地位与销量。</strong> 2025 年 iCAR 全年销量 96,989 辆，是奇瑞旗下五大品牌之一 <a href=\"https://www.cheryholding.com/article/1085.html\">[s4]</a>。2026 年上半年 iCAR 销量约 4.54 万辆（同比增长 2%），在奇瑞汽车（91.84 万辆）、捷途（25.87 万辆）之后、星途（3.32 万辆）、智界（1.93 万辆）之前 <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>。2026 年 1–8 月 iCAR 累计销量 64,689 辆（同比增长 15.7%），其中 8 月单月 10,229 辆（同比增长 112.2%）<a href=\"https://m.news18a.com/news/storys_292480.html\">[s33]</a>。需要说明的是，奇瑞在销量/财务公告中列示的五大品牌为奇瑞、星途、捷途、iCAR、智界，而在 2026 年初「奇家宴」上发布品牌矩阵时则以奇瑞、星途、捷途、iCAR、纵横对应「值、奢、野、潮、御」，两处口径并不相同 <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a><a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>。</p><p><strong>月度销量轨迹。</strong> 从月度数据看，iCAR 销量在 V23 上市前后出现明显跃升：据每日经济新闻报道，2024 年 10 月 iCAR 销量 6,965 辆、11 月 5,745 辆，而 V23 于 2024 年 12 月上市后当月销量即爬上 1 万辆大关，2025 年 1 月（春节假期）仍销售 7,853 辆 <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>。2026 年下半年，随着 V27 与 V25 相继上市/预售，8 月单月销量达 10,229 辆（同比 +112.2%），为 2026 年内单月高点 <a href=\"https://m.news18a.com/news/storys_292480.html\">[s33]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<p><strong>Group sponsor: Yin Tongyue.</strong> Chery Holding chairman Yin Tongyue has described iCAR as the group's 'new special zone' (新特区) for new energy, saying the group would spare no effort to support the brand, put no upper limit on investment and help it enter the first tier of new-energy players <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a><a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>. At the V23 launch he said the group would 'sell V23 all over the world, making the China-made V23 a toy for young people worldwide' <a href=\"https://www.cqnews.net/1/detail/1318538943796502528/app/content_1318538943796502528.html\">[s15]</a>.</p><p><strong>Current head: Su Jun.</strong> Su Jun is a vice president of Chery Automobile and general manager of the iCAR brand division, appointed around February 2025. He was previously CEO of Zhimi Technology (Smartmi), a Xiaomi-ecosystem smart-home appliance company, and earlier served as iCAR chief product officer <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a><a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>. Media describe his founding team as having more than a decade of Xiaomi-ecosystem experience in product definition and industrial design; he assembled a car-building team from 2021, began cooperating with Chery in 2023, and the V23 was the first model led by his team <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>. At Horizon Robotics' 2025 ecosystem conference he said iCAR aims to become 'the world's most distinctive NEV brand' and to build models that become cultural symbols, citing the Range Rover, Beetle, MINI and Mercedes G-Class <a href=\"https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html\">[s21]</a>. Media citing corporate-registry data report he succeeded Li Dongchun as legal representative of iCar Ecological Technology Co., Ltd. in 2026 <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>.</p><p><strong>Predecessors.</strong> Zhang Hongyu was a deputy general manager of Chery Automobile and general manager of the iCAR brand division before being transferred to the Chery brand domestic division as executive deputy general manager in February 2025 <a href=\"https://auto.huanqiu.com/article/4GpVMlzddF7\">[s13]</a><a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>. At the April 2023 brand launch, Bao Siyu was introduced as iCAR CEO <a href=\"https://company.cnstock.com/company/scp_gsxw/202304/5047133.htm\">[s10]</a>. Li Dongchun was deputy general manager of the iCAR brand division and head of the iCAR brand marketing centre, and served as legal representative of iCar Ecological Technology Co., Ltd. until stepping down in 2026 (per media citing corporate-registry data) <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>.</p><p><strong>Ownership and governance.</strong> iCAR has no separate shareholding structure; it is a brand of the listed company Chery Automobile Co., Ltd. (9973.HK), and its operating entity iCar Ecological Technology Co., Ltd. appears in the official user agreement <a href=\"https://static.icar-ecology.com/icar/user.html\">[s5]</a>. Media citing corporate-registry data report that iCar Ecological Technology is wholly owned by Chery New Energy Vehicle Co., Ltd. <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>. Because Chery's annual report and announcements do not designate a controller at the brand level, this page does not state an actual controller for iCAR and only describes the ownership of its operating entity.</p>",
+      "zh": "<p><strong>集团支持者：尹同跃。</strong> 奇瑞控股集团董事长尹同跃将 iCAR 称为奇瑞集团新能源的「新特区」，表示集团将「不遗余力地支持 iCAR 品牌的发展，投入没有上限」，助力其进入新能源第一阵营 <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a><a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>。在 V23 上市时，他提出「要把 V23 卖遍全球，让来自中国的 V23 成为全球年轻人的玩具」<a href=\"https://www.cqnews.net/1/detail/1318538943796502528/app/content_1318538943796502528.html\">[s15]</a>。</p><p><strong>现任负责人：苏峻。</strong> 苏峻现任奇瑞汽车股份有限公司副总裁、iCAR 品牌事业部总经理，约于 2025 年 2 月就任；此前为小米生态链智能家电企业智米科技的首席执行官，并曾任 iCAR 品牌首席产品官 <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a><a href=\"https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html\">[s31]</a>。媒体称其创业团队拥有超过十年的小米生态链经验，擅长产品定义、工业设计与爆款打造；他自 2021 年起组建造车团队，2023 年与奇瑞建立合作，团队逐步融入奇瑞，V23 是其团队主导打造的首款车型 <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>。在 2025 地平线技术生态大会上，苏峻表示 iCAR 的目标是成为「全球特色新能源车第一品牌」，打造像路虎揽胜、甲壳虫、MINI、奔驰 G 那样能够穿越周期、成为文化符号的经典车型 <a href=\"https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html\">[s21]</a>。据媒体报道引工商登记，他于 2026 年接替李东春出任爱咖生态科技有限公司法定代表人 <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>。</p><p><strong>前任负责人。</strong> 章红玉曾任奇瑞汽车股份有限公司副总经理、iCAR 品牌事业部总经理，2025 年 2 月调任奇瑞品牌国内事业部执行副总经理 <a href=\"https://auto.huanqiu.com/article/4GpVMlzddF7\">[s13]</a><a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>。2023 年 4 月品牌发布时，鲍思语出任 iCAR CEO <a href=\"https://company.cnstock.com/company/scp_gsxw/202304/5047133.htm\">[s10]</a>。李东春曾任 iCAR 品牌事业部副总经理、营销中心总经理，并担任爱咖生态科技有限公司法定代表人至 2026 年卸任（据媒体引工商登记）<a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>。</p><p><strong>股权与治理。</strong> iCAR 无独立股权结构，是上市公司奇瑞汽车股份有限公司（9973.HK）旗下的品牌；其运营主体爱咖生态科技有限公司见诸官方用户协议 <a href=\"https://static.icar-ecology.com/icar/user.html\">[s5]</a>。据媒体报道引工商登记信息，爱咖生态科技由奇瑞新能源汽车股份有限公司全资持股 <a href=\"https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html\">[s27]</a>。由于奇瑞年报或公告未在品牌层面认定实际控制人，本页不写 iCAR 的实际控制人，仅说明其运营主体归属。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Competitors.</strong> iCAR competes in the crowded sub-RMB 200,000 new-energy SUV segment and, more specifically, in the 'boxy'/light off-road niche. For the V27, the Autohome launch analysis names the Deepal G318 and Fangchengbao Ti 7 as models with high overlap in price and positioning <a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>. Within Chery's own portfolio, iCAR's boxy niche also overlaps with the Jetour Traveller series, which Chery calls the 'global boxy champion' <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>.</p><p><strong>Strengths.</strong> iCAR's advantages are Chery's manufacturing scale, supply chain and cost control, which deliver all-aluminium bodies, four-wheel-drive hardware and distinctive design at low price points — the V23 was the top-selling new-energy boxy model for January–August 2025 <a href=\"https://www.xinhuanet.com/auto/20250922/e39ca21a4379467a92050deb833ed425/c.html\">[s20]</a>. Its tie-up with Horizon Robotics gives the V25/V27 a 560 TOPS 'Falcon 700+' assisted-driving platform that media position against new-EV-maker driver-assistance offerings <a href=\"https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html\">[s21]</a>. All-aluminium bodies and magnetorheological suspension are also differentiators below RMB 200,000 <a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>.</p><p><strong>Weaknesses.</strong> The main weaknesses are a narrow, fashion-driven positioning and heavy reliance on a single model: volume has been concentrated in the V23, the first model line (iCAR 03) was rebadged into the Fulwin brand after roughly a year, and the V23's own launch was marred by an order-cancellation dispute over launch pricing and bundled option packages <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://news.qq.com/rain/a/20241219A098KB00\">[s16]</a>. Within the group, iCAR's H1 2026 volume of about 45,400 units is far smaller than Chery (918,400) and Jetour (258,700), making it a small niche brand <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>.</p><p><strong>Our judgment.</strong> We see iCAR's differentiation as real but thin — the boxy look is a low-barrier style trend that rivals can copy, so sustaining a premium depends on brand recognition and continued product innovation rather than hard-to-replicate technology; scaling up depends on whether the V25/V27 EREVs can repeat the V23's success across several models <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>.</p>",
+      "zh": "<p><strong>竞争对手。</strong> iCAR 在 20 万元以下新能源 SUV 细分市场，尤其在「方盒子」/轻越野风格这一细分赛道中竞争。据汽车之家对 V27 的上市分析，V27 与深蓝 G318、方程豹钛 7 在价格与产品定位上高度重叠 <a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>。从奇瑞内部看，iCAR 的方盒子品类也与被奇瑞称为「中国方盒子全球冠军」的捷途旅行者序列存在一定的品类重叠 <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>。</p><p><strong>优势。</strong> iCAR 的核心优势是背靠奇瑞的制造规模、供应链与成本控制能力，在较低价格带上提供全铝车身、四驱硬件与特色设计——V23 曾位列 2025 年 1–8 月新能源方盒子累计销量冠军 <a href=\"https://www.xinhuanet.com/auto/20250922/e39ca21a4379467a92050deb833ed425/c.html\">[s20]</a>。与地平线的合作使 V25/V27 具备「猎鹰 700+」（征程 6P、560 TOPS）高阶智驾能力，媒体将其定位为对标新势力的智驾方案 <a href=\"https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html\">[s21]</a>。全铝车身与磁流变悬架等硬件在 20 万元以下区间也具备差异化 <a href=\"https://www.icarglobal.com/zh/carview/iCARV27\">[s3]</a>。</p><p><strong>短板。</strong> 主要短板是定位偏窄、偏时尚驱动，且高度依赖单一车型：销量长期集中于 V23 一款车，品牌首款车系 iCAR 03 在约一年后即被并入风云品牌，V23 上市时还因上市定价与选装包打包销售引发退订风波 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://news.qq.com/rain/a/20241219A098KB00\">[s16]</a>。从集团内部看，iCAR 2026 上半年约 4.54 万辆的体量远小于奇瑞（91.84 万辆）与捷途（25.87 万辆），属于小体量特色品牌 <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>。</p><p><strong>我们的判断。</strong> 我们认为，iCAR 的差异化真实但较薄——方盒子造型属低门槛风格潮流，易于被竞品模仿，能否守住溢价取决于品牌认同与持续的产品创新，而非难以复制的技术壁垒；其体量能否放大，取决于 V25/V27 等增程车型能否在多款产品上复制 V23 的成功 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a><a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> iCAR has said it will keep deepening its distinctive positioning and category innovation to build a 'global first brand for distinctive NEVs' <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>. The V25 is expected to launch officially in Q4 2026, and the brand plans to enter the UK in early 2027 under the iCaur name with the V27 as its first model <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>. At the group level, Chery has set a 2026 sales goal of 3.2 million vehicles (up 14.03% from 2025) with 17 key new models <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>. Earlier media cited an initial iCAR plan to reach one million units a year by 2026, a figure far above current volume that should be treated as a historical plan rather than a current commitment <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>.</p><p><strong>Our analysis.</strong> The V25 and V27 extended-range models address a real gap: an earlier pure-electric-only lineup limited appeal for range-sensitive buyers, and entering the EREV segment broadens the addressable market beyond the pure-EV boxy niche <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>. The Malaysia CKD plant gives the brand a lower-cost entry into Southeast Asia, a region where Chery has built export and localisation experience <a href=\"https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/\">[s24]</a>. However, overseas expansion faces materially higher tariffs and taxes, especially in the EU, where the V27's EREV powertrain is classified as a plug-in hybrid and does not qualify for EV subsidies, and its Greek 4WD price is about 2.3 times the China top trim, eroding its value proposition <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>. Whether meaningful scale is achieved depends on the V series repeating the V23's success across several models; the V25's official pricing and post-launch order performance are the next key test <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>.</p>",
+      "zh": "<p><strong>公司公开规划。</strong> iCAR 表示将持续深化特色定位、坚持品类创新，与全球年轻人共同铸就「特色新能源车全球第一品牌」<a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>。V25 计划于 2026 年第四季度正式上市；品牌计划 2027 年初以 iCAUR 之名进入英国市场，首款车型为 V27 <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。在集团层面，奇瑞设定 2026 年 320 万辆的销量目标（较 2025 年增长 14.03%），并计划推出 17 款重点车型 <a href=\"https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html\">[s22]</a>。更早的媒体报道曾提到 iCAR 最初的规划是 2026 年做到 100 万辆销量规模，该数字远高于当前体量，应视为历史规划而非现状承诺 <a href=\"https://www.nbd.com.cn/fangchan/articles/3758332/\">[s18]</a>。</p><p><strong>我们的分析。</strong> V25 与 V27 两款增程车型弥补了真实缺口——此前纯电单一产品线对里程敏感用户吸引力有限，切入增程拓宽了纯电方盒子细分之外的市场空间 <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。马来西亚 CKD 工厂为品牌提供了低成本进入东南亚的通道，奇瑞已在该地区积累出口与本地化经验 <a href=\"https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/\">[s24]</a>。但海外扩张面临明显更高的关税与税费：在欧盟，V27 增程动力被归类为插电混动、不享受电动车补贴，希腊四驱版售价约为国内顶配的 2.3 倍，削弱了其性价比优势 <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>。能否实现有意义的规模，取决于 V 系列能否在多款车型上复制 V23 的成功；V25 的正式定价与上市后订单表现，将是检验这一逻辑的下一个关键观察点 <a href=\"https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales\">[s28]</a>。</p>"
+    },
+    "risks": {
+      "en": "<p><strong>Brand concentration.</strong> iCAR's volume has been dominated by the V23; a weaker reception for the V25 or V27 would directly weigh on the brand's trajectory <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>.</p><p><strong>Niche positioning.</strong> The 'boxy' design is a low-barrier style trend that rivals can copy, which could compress the brand's differentiation and pricing <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a>.</p><p><strong>Product-line churn.</strong> The rebadging of the iCAR 03 series into the Fulwin brand shows that individual models can be moved between brands as the group reorganises, creating uncertainty for the brand's model plan <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a>.</p><p><strong>Overseas tariffs, classification and trademark.</strong> The iCAR name cannot be used abroad (hence the iCaur name, as the trademark is registered overseas, including by Apple); EU countervailing duties plus local taxes push the V27's European price far above its China price, and in Europe its extended-range powertrain is classified as a plug-in hybrid, limiting access to EV subsidies <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>.</p><p><strong>Intense domestic competition.</strong> The sub-RMB 200,000 NEV SUV segment is one of China's most contested, with sustained price competition pressuring profitability across the industry, and the mid-to-large EREV segment where the V27 sits includes strong rivals such as the Deepal G318 and Fangchengbao Ti 7 <a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>.</p><p><strong>Lack of brand-level financial disclosure.</strong> iCAR does not report brand-level financials, making it hard to assess standalone profitability; the parent Chery Automobile's H1 2026 net margin was 6.3% <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s7]</a><a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>.</p>",
+      "zh": "<p><strong>品牌集中度高。</strong> iCAR 销量长期由 V23 一款车主导，V25 或 V27 若市场反应不及预期，将直接影响品牌走势 <a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>。</p><p><strong>细分定位偏窄。</strong> 「方盒子」设计属低门槛风格潮流，容易被竞品复制，可能压缩品牌的差异化与定价空间 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a>。</p><p><strong>产品线频繁调整。</strong> iCAR 03 系列被并入风云品牌，说明集团重组时个别车型可能在品牌间流动，给品牌的产品规划带来不确定性 <a href=\"https://www.yzwb.net/news/qiche/202508/t20250817_251206.html\">[s19]</a>。</p><p><strong>海外关税、车型分类与商标。</strong> iCAR 名称无法在海外使用（因 iCAR 商标在海外已被注册，其中包括苹果公司，故改用 iCAUR）；欧盟反补贴税与当地税费使 V27 欧洲售价远高于国内，且其增程动力在欧洲被归类为插电混动，难以享受电动车补贴 <a href=\"https://news.qq.com/rain/a/20261025A01S0R00\">[s29]</a>。</p><p><strong>国内竞争激烈。</strong> 20 万元以下新能源 SUV 是中国竞争最激烈的细分市场之一，持续的价格竞争对整个行业盈利能力构成压力，而 V27 所在的中大型增程区间亦有深蓝 G318、方程豹钛 7 等强手 <a href=\"https://www.autohome.com.cn/news/202603/1312923.html\">[s32]</a>。</p><p><strong>品牌层面财务不透明。</strong> iCAR 未单独披露财务数据，外部难以评估其独立盈利能力；母公司奇瑞汽车 2026 年上半年净利润率 6.3% <a href=\"https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk\">[s7]</a><a href=\"https://www.sohu.com/a/1066676045_122014422\">[s26]</a>。</p>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "iCAR official website (iCAR 官网)", "url": "https://www.icarglobal.com/zh", "date": "2026-10-29", "tier": "A" },
+    { "id": "s2", "name": "iCAR official website - V23 model page (iCAR 官网 V23 车型页)", "url": "https://www.icarglobal.com/zh/carview/icarV23/", "date": "2026-10-29", "tier": "A" },
+    { "id": "s3", "name": "iCAR official website - V27 model page (iCAR 官网 V27 车型页)", "url": "https://www.icarglobal.com/zh/carview/iCARV27", "date": "2026-10-29", "tier": "A" },
+    { "id": "s4", "name": "Chery Holding - 2025 sales announcement (奇瑞集团2025年销量280.6万辆)", "url": "https://www.cheryholding.com/article/1085.html", "date": "2026-01-02", "tier": "A" },
+    { "id": "s5", "name": "iCAR 汽车用户协议 (iCar Ecological Technology user agreement)", "url": "https://static.icar-ecology.com/icar/user.html", "date": "2024-11-05", "tier": "A" },
+    { "id": "s6", "name": "Chery Holding - Chengdu Auto Show (奇瑞集团携35款重磅车型登陆成都车展)", "url": "https://www.cheryholding.com/article/1044.html", "date": "2024-08-30", "tier": "A" },
+    { "id": "s7", "name": "Chery Automobile - H1 2026 interim results (奇瑞汽车官网 2026 中期业绩)", "url": "https://www.chery-auto.com/news/detail/id/38.html?lang=zh-hk", "date": "2026-08-20", "tier": "A" },
+    { "id": "s8", "name": "中国青年网 - 奇瑞新能源之夜发布 iCAR 品牌", "url": "https://auto.youth.cn/xw/202304/t20230409_14441479.htm", "date": "2023-04-09", "tier": "B" },
+    { "id": "s9", "name": "中国青年网 - iCAR logo 正式发布（曹雪设计）", "url": "https://auto.youth.cn/xw/202304/t20230410_14443422.htm", "date": "2023-04-10", "tier": "B" },
+    { "id": "s10", "name": "中国证券网 - 奇瑞发布独立新能源品牌 iCAR 和概念车", "url": "https://company.cnstock.com/company/scp_gsxw/202304/5047133.htm", "date": "2023-04-17", "tier": "B" },
+    { "id": "s11", "name": "新华网 - 奇瑞 iCAR 03 正式上市", "url": "https://www.news.cn/auto/20240229/1460cdb64a83484a819d11f082f61d18/c.html", "date": "2024-02-29", "tier": "B" },
+    { "id": "s12", "name": "中国青年网(网通社) - 奇瑞 iCAR 03 上市 售价10.98万-16.98万元", "url": "https://auto.youth.cn/xw/202402/t20240229_15104267.htm", "date": "2024-02-29", "tier": "B" },
+    { "id": "s13", "name": "环球网 - iCAR 章红玉专访 (年轻人的车)", "url": "https://auto.huanqiu.com/article/4GpVMlzddF7", "date": "2024-02-28", "tier": "B" },
+    { "id": "s14", "name": "新华网 - iCAR 03T 重磅上市", "url": "https://www.xinhuanet.com/auto/20240902/30937a1a17774b02953ed040881dac99/c.html", "date": "2024-09-02", "tier": "B" },
+    { "id": "s15", "name": "华龙网 - iCAR V23 正式上市 售价9.98万元起", "url": "https://www.cqnews.net/1/detail/1318538943796502528/app/content_1318538943796502528.html", "date": "2024-12-17", "tier": "B" },
+    { "id": "s16", "name": "腾讯新闻 - 新车上市遭退订 iCAR 高管道歉", "url": "https://news.qq.com/rain/a/20241219A098KB00", "date": "2024-12-19", "tier": "B" },
+    { "id": "s17", "name": "人民网 - 奇瑞集团2024年创四大历史突破", "url": "https://finance.people.com.cn/n1/2025/0121/c1004-40406257.html", "date": "2025-01-21", "tier": "B" },
+    { "id": "s18", "name": "每日经济新闻 - iCAR 品牌换帅 苏峻升任事业部总经理", "url": "https://www.nbd.com.cn/fangchan/articles/3758332/", "date": "2025-02-20", "tier": "B" },
+    { "id": "s19", "name": "扬子晚报 - 奇瑞风云再起 风云X3系列开启方盒子出行新范式", "url": "https://www.yzwb.net/news/qiche/202508/t20250817_251206.html", "date": "2025-08-17", "tier": "B" },
+    { "id": "s20", "name": "新华网 - iCAR 全新超级 V23 及赛博版上市", "url": "https://www.xinhuanet.com/auto/20250922/e39ca21a4379467a92050deb833ed425/c.html", "date": "2025-09-22", "tier": "B" },
+    { "id": "s21", "name": "国际在线 - iCAR品牌总经理苏峻:目标是成为全球特色新能源车第一品牌", "url": "https://auto.cri.cn/20251210/6dba2a04-38b6-4ce2-9c55-8611b570f9fe.html", "date": "2025-12-10", "tier": "B" },
+    { "id": "s22", "name": "新华网 - 2026 奇家宴 (iCAR 2025 全年销量)", "url": "https://www.xinhuanet.com/auto/20260109/7e42eff5259443baae233f46d309b78a/c.html", "date": "2026-01-09", "tier": "B" },
+    { "id": "s23", "name": "CnEVPost - Chery iCar sees 1st production units of V27 roll off line", "url": "https://cnevpost.com/2026/01/12/chery-icar-1st-production-units-v27-roll-off-line/", "date": "2026-01-12", "tier": "B" },
+    { "id": "s24", "name": "CnEVPost - Chery starts iCar V23 production in Malaysia", "url": "https://cnevpost.com/2026/07/23/chery-starts-icar-v23-production-malaysia/", "date": "2026-07-23", "tier": "B" },
+    { "id": "s25", "name": "CnEVPost - Chery iCar debuts V25 boxy extended-range SUV", "url": "https://cnevpost.com/2026/08/14/chery-icar-debuts-v25-suv", "date": "2026-08-14", "tier": "B" },
+    { "id": "s26", "name": "长江商报(搜狐转载) - 奇瑞汽车半年收入1432.8亿 (分品牌销量)", "url": "https://www.sohu.com/a/1066676045_122014422", "date": "2026-08-24", "tier": "B" },
+    { "id": "s27", "name": "运营商财经网(新浪科技转载) - iCAR品牌事业部总经理苏峻成公司法定代表人", "url": "https://tech.sina.cn/2026-10-07/detail-iniukxhe5949280.d.html", "date": "2026-10-07", "tier": "C" },
+    { "id": "s28", "name": "CnEVPost - iCar opens V25 pre-sales as Chery expands extended-range SUV lineup", "url": "https://cnevpost.com/2026/10/19/chery-icar-opens-v25-pre-sales", "date": "2026-10-19", "tier": "B" },
+    { "id": "s29", "name": "腾讯新闻 - iCar V27 进入希腊市场", "url": "https://news.qq.com/rain/a/20261025A01S0R00", "date": "2026-10-28", "tier": "B" },
+    { "id": "s31", "name": "新华网 - iCAR 2024 品牌之夜 V23 亮相", "url": "https://www.xinhuanet.com/auto/20240413/4622679b5c47406db544453baee75ab3/c.html", "date": "2024-04-13", "tier": "B" },
+    { "id": "s32", "name": "汽车之家 - iCAR V27 正式上市 (售16.98万起)", "url": "https://www.autohome.com.cn/news/202603/1312923.html", "date": "2026-03-13", "tier": "B" },
+    { "id": "s33", "name": "网通社 - 奇瑞汽车公布8月各品牌销量 (iCAR破万)", "url": "https://m.news18a.com/news/storys_292480.html", "date": "2026-09-01", "tier": "B" }
+  ]
+}

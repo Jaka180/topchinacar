@@ -1,0 +1,350 @@
+{
+  "id": "onvo",
+  "name_en": "ONVO (Ledao, NIO)",
+  "name_zh": "乐道 ONVO（蔚来）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand launched",
+      "label_zh": "品牌发布",
+      "value_en": "2024-05-15; first model L60 unveiled with pre-sale from RMB 219,900",
+      "value_zh": "2024-05-15；首款车型 L60 亮相，预售价 21.99 万元起",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "First model launched",
+      "label_zh": "首款车型上市",
+      "value_en": "L60 launched 2024-09-19; deliveries began 2024-09-28",
+      "value_zh": "L60 于 2024-09-19 上市，2024-09-28 开启交付",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Parent company",
+      "label_zh": "所属集团",
+      "value_en": "NIO Inc. (second brand, alongside NIO and firefly)",
+      "value_zh": "蔚来集团（第二品牌，与蔚来、萤火虫并列）",
+      "period": null,
+      "source_ids": ["s1", "s13"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Not separately disclosed (brand of Shanghai-headquartered NIO Inc.)",
+      "value_zh": "未单独披露（属总部位于上海的蔚来集团）",
+      "period": null,
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "Private-sector brand wholly owned by NIO Inc., a publicly listed company (NYSE: NIO; HKEX: 9866; SGX: NIO)",
+      "value_zh": "民营品牌，由上市公司蔚来集团全资持有（纽交所 NIO；港交所 9866；新交所 NIO）",
+      "period": null,
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Brand president",
+      "label_zh": "品牌总裁",
+      "value_en": "Shen Fei (since 2025-04-02; previously head of NIO's energy business). Founding president was Ai Tiecheng (2024-05 to 2025-04).",
+      "value_zh": "沈斐（2025-04-02 起任；此前为蔚来能源业务负责人）；首任总裁为艾铁成（2024-05 至 2025-04）",
+      "period": null,
+      "source_ids": ["s18", "s19"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; part of NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO)",
+      "value_zh": "未单独上市；属蔚来集团（纽交所 NIO；港交所 9866；新交所 NIO）",
+      "period": null,
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Production base",
+      "label_zh": "生产基地",
+      "value_en": "All models built in Hefei, Anhui; L60 at NIO's F2 plant (NeoPark), L80/L90 at NIO's F1 plant",
+      "value_zh": "全系车型在安徽合肥生产；L60 在蔚来 F2 工厂（新桥），L80/L90 在蔚来 F1 工厂",
+      "period": null,
+      "source_ids": ["s27", "s28", "s29"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收 / 净利润",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": null,
+      "source_ids": ["s13"]
+    },
+    {
+      "label_en": "Deliveries (2024)",
+      "label_zh": "交付量（2024 年）",
+      "value_en": "20,761 vehicles (L60; deliveries from 2024-09-28)",
+      "value_zh": "20,761 辆（L60；自 2024-09-28 起交付）",
+      "period": "2024",
+      "source_ids": ["s3"]
+    },
+    {
+      "label_en": "Deliveries (2025)",
+      "label_zh": "交付量（2025 年）",
+      "value_en": "107,808 vehicles",
+      "value_zh": "107,808 辆",
+      "period": "2025",
+      "source_ids": ["s4"]
+    },
+    {
+      "label_en": "Deliveries (first 9 months of 2026)",
+      "label_zh": "交付量（2026 年前三季度）",
+      "value_en": "70,191 vehicles",
+      "value_zh": "70,191 辆",
+      "period": "2026-01 to 2026-09",
+      "source_ids": ["s5"]
+    },
+    {
+      "label_en": "Cumulative deliveries",
+      "label_zh": "累计交付",
+      "value_en": "200,000 vehicles (by 2026-10-08, about two years after first delivery); average transaction price about RMB 234,000",
+      "value_zh": "200,000 辆（截至 2026-10-08，距首批交付约两年）；成交均价约 23.4 万元",
+      "period": "2026-10-08",
+      "source_ids": ["s9", "s28"]
+    },
+    {
+      "label_en": "Model line-up and China starting prices",
+      "label_zh": "车型矩阵与中国起售价",
+      "value_en": "L60 from RMB 192,800, L80 from RMB 242,800, L90 from RMB 265,800 (whole vehicle including battery); with battery rental (BaaS) RMB 135,800 / 156,800 / 179,800",
+      "value_zh": "L60 19.28 万元起、L80 24.28 万元起、L90 26.58 万元起（整车购买含电池）；电池租用（BaaS）13.58 万 / 15.68 万 / 17.98 万元起",
+      "period": "2026-10-29",
+      "source_ids": ["s10", "s11", "s12"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2021",
+      "event_en": "NIO starts its multi-brand strategy and begins building the team for a mainstream-family brand, later named ONVO, according to Gasgoo.",
+      "event_zh": "据盖世汽车报道，蔚来启动多品牌战略，并开始为面向主流家庭市场的新品牌（后定名乐道）组建团队。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2024-05-15",
+      "event_en": "NIO unveils the ONVO (Ledao) brand and its first model, the L60, at an event in Shanghai, with pre-orders from RMB 219,900. The brand name derives from \"On Voyage\"; \"Ledao\" means a happy road.",
+      "event_zh": "蔚来在上海发布全新品牌「ONVO 乐道」及首款车型 L60，预售价 21.99 万元起。ONVO 源自 On Voyage，乐道寓意「快乐的道路」。",
+      "source_ids": ["s1", "s17"]
+    },
+    {
+      "date": "2024-08-15",
+      "event_en": "The first production ONVO L60 rolls off the line at NIO's F2 plant (Xinqiao, Hefei), where it shares the line with NIO models; the company says the model had accumulated 6.77 million km of test mileage before mass production.",
+      "event_zh": "乐道 L60 首台量产车在合肥新桥蔚来第二工厂（F2）下线，与蔚来车型共线生产；公司称该车型在大规模投产前累计试验里程达 677 万公里。",
+      "source_ids": ["s27"]
+    },
+    {
+      "date": "2024-09-19",
+      "event_en": "The ONVO L60 is launched at RMB 206,900 (60 kWh) and RMB 235,900 (85 kWh), or from RMB 149,900 under battery rental (BaaS).",
+      "event_zh": "乐道 L60 正式上市，60kWh 版 20.69 万元、85kWh 版 23.59 万元；采用 BaaS 电池租用购车价 14.99 万元起。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2024-09-28",
+      "event_en": "First deliveries of the ONVO L60 begin across China.",
+      "event_zh": "乐道 L60 在全国开启交付。",
+      "source_ids": ["s2", "s24"]
+    },
+    {
+      "date": "2024-12",
+      "event_en": "ONVO delivers 10,528 vehicles in December (its third full month and the model's peak month) and 20,761 for full-year 2024.",
+      "event_zh": "乐道 12 月交付 10,528 辆（第三个完整交付月，也是单月峰值），2024 年全年交付 20,761 辆。",
+      "source_ids": ["s3", "s26"]
+    },
+    {
+      "date": "2025-02",
+      "event_en": "NIO merges the NIO and ONVO brand delivery channels, pooling staff and channel resources, according to Gasgoo.",
+      "event_zh": "据盖世汽车报道，蔚来宣布将蔚来与乐道两个品牌的交付渠道合并，团队人力与渠道资源打通复用。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2025-04-02",
+      "event_en": "Founding president Ai Tiecheng steps down; NIO names Shen Fei, previously head of its energy business, as ONVO president. Ai said the L60 had not reached sales matching its product strength.",
+      "event_zh": "首任总裁艾铁成离职；蔚来任命原能源业务负责人沈斐为乐道汽车总裁。艾铁成称，L60 未达到与产品力相匹配的销量。",
+      "source_ids": ["s18", "s19", "s20", "s30"]
+    },
+    {
+      "date": "2025-05",
+      "event_en": "ONVO and the firefly brand return fully to NIO group management, with R&D, sales and service functions integrated, according to Gasgoo.",
+      "event_zh": "据盖世汽车报道，乐道与萤火虫品牌全面回归集团管理，研发、销售、服务等核心部门整合。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2025-07-31",
+      "event_en": "The ONVO L90, a large three-row family SUV, is launched from RMB 265,800 (BaaS from RMB 179,800); six-seat deliveries start 2025-08-01, seven-seat in late September.",
+      "event_zh": "大型大三排家庭 SUV 乐道 L90 正式上市，26.58 万元起（BaaS 17.98 万元起），六座版 2025-08-01 起交付、七座版 9 月下旬交付。",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2025-09-19",
+      "event_en": "ONVO upgrades the L60 on its first anniversary with more than 30 product upgrades, cutting the rear-drive energy consumption to 11.9 kWh/100 km and extending range to 740 km.",
+      "event_zh": "乐道 L60 上市周年之际推出超 30 项产品升级，后驱版能耗降至 11.9 kWh/100km，续航达 740 公里。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2025-10",
+      "event_en": "ONVO delivers a monthly record of 17,342 vehicles in October 2025, before volumes fall back as China phases out trade-in subsidies.",
+      "event_zh": "乐道 2025 年 10 月交付 17,342 辆，创单月纪录；随后因以旧换新补贴退坡，交付量回落。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2026-01-01",
+      "event_en": "NIO reports ONVO full-year 2025 deliveries of 107,808 vehicles.",
+      "event_zh": "蔚来公布乐道 2025 年全年交付 107,808 辆。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-04-21",
+      "event_en": "The 2026 ONVO L90 is launched at an unchanged starting price, adding NIO's in-house 5nm Shenji NX9031 chip, NIO World Model and SkyOS on higher trims; cumulative L90 deliveries had passed 50,000.",
+      "event_zh": "2026 款乐道 L90 上市，起售价不变，高配版新增蔚来自研 5nm 神玑 NX9031 芯片、蔚来世界模型与 SkyOS·天枢；L90 累计交付已超 5 万台。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2026-05-15",
+      "event_en": "The ONVO L80, a large five-seat SUV, is launched at RMB 242,800 (BaaS from RMB 156,800), with deliveries starting 2026-05-16.",
+      "event_zh": "大五座 SUV 乐道 L80 上市，24.28 万元起（BaaS 15.68 万元起），2026-05-16 开启交付。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-06-11",
+      "event_en": "The new ONVO L60 is launched at RMB 192,800–222,800 (BaaS from RMB 135,800); higher trims add lidar and the Shenji NX9031 chip.",
+      "event_zh": "新乐道 L60 上市，19.28 万–22.28 万元（BaaS 13.58 万元起）；高配版新增激光雷达与神玑 NX9031 芯片。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2026-08-28",
+      "event_en": "ONVO delivers its 110,000th L60.",
+      "event_zh": "乐道 L60 完成第 11 万辆交付。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2026-10-08",
+      "event_en": "ONVO passes 200,000 cumulative deliveries (the 200,000th vehicle being an L90), about two years after its first delivery.",
+      "event_zh": "乐道累计交付突破 20 万辆（第 20 万台为 L90），距首批交付约两年。",
+      "source_ids": ["s9"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "ONVO L60",
+      "name_zh": "乐道 L60",
+      "role_en": "Mid-size family electric SUV, the brand's first model, positioned against the Tesla Model Y.",
+      "role_zh": "中型家庭电动 SUV，品牌首款车型，对标特斯拉 Model Y。",
+      "price_band": "China launch (2024-09-19): RMB 206,900 (60 kWh) / RMB 235,900 (85 kWh), BaaS from RMB 149,900. New L60 (2026-06-11): RMB 192,800–222,800, BaaS from RMB 135,800.",
+      "founded": 2024,
+      "owner_note_en": "Built at NIO's F2 plant in Hefei. Launched 2024-09-19 with deliveries from 2024-09-28. It is 4,828 mm long with a 2,950 mm wheelbase and a drag coefficient of 0.229, on NIO's 900V platform with the NT.Coconut smart system and SkyOS. The launch release states 12.1 kWh/100 km. Gasgoo reported a 555 km standard range, priced with the 60 kWh pack at RMB 206,900, and a 730 km long range, priced with the 85 kWh pack at RMB 235,900. A first-anniversary upgrade (2025-09-19) added more than 30 upgrades, cutting rear-drive consumption to 11.9 kWh/100 km and range to 740 km. The new L60 (2026-06-11) costs RMB 192,800–222,800 (BaaS from RMB 135,800): the Pro trim keeps Nvidia Orin-X vision-only driving assist, while Max+ and Ultra+ add a roof-mounted lidar and NIO's Shenji NX9031 chip. Gasgoo lists CLTC range at 530 km rear-drive and 560 km all-wheel-drive on the 60 kWh pack, and 707 km and 740 km on the 85 kWh pack, with rear-drive consumption of 11.9 kWh/100 km. ONVO delivered its 110,000th L60 on 2026-08-28.",
+      "owner_note_zh": "在蔚来合肥 F2 工厂生产。2024-09-19 上市、9 月 28 日开启交付。车长 4,828 mm、轴距 2,950 mm，风阻系数 0.229，基于蔚来 900V 平台，搭载 NT.Coconut 椰子智能系统与 SkyOS·天枢。上市稿写明百公里电耗 12.1 kWh。盖世汽车报道标准续航 555 公里（对应 60 kWh、售价 20.69 万元）、长续航 730 公里（对应 85 kWh、售价 23.59 万元）。2025-09-19 周年升级新增超 30 项升级，后驱版能耗降至 11.9 kWh/100km、续航达 740 公里。新 L60（2026-06-11）售价 19.28 万–22.28 万元（BaaS 13.58 万元起）：Pro 版继续采用英伟达 Orin X 纯视觉智驾，Max+、Ultra+ 版新增车顶激光雷达与神玑 NX9031 芯片。盖世汽车写 60 kWh 后驱 CLTC 530 公里、四驱 560 公里，85 kWh 为 707 公里和 740 公里，后驱版百公里电耗 11.9 kWh。L60 于 2026-08-28 完成第 11 万辆交付。",
+      "status": "active",
+      "source_ids": ["s2", "s15", "s21", "s26", "s27", "s31"]
+    },
+    {
+      "name_en": "ONVO L90",
+      "name_zh": "乐道 L90",
+      "role_en": "Large three-row (six/seven-seat) family electric SUV, the brand's flagship.",
+      "role_zh": "大型大三排（六座/七座）家庭电动 SUV，品牌旗舰。",
+      "price_band": "China launch (2025-07-31): six-seat Pro from RMB 265,800, BaaS from RMB 179,800; 2026 model (2026-04-21) unchanged from RMB 265,800.",
+      "founded": 2025,
+      "owner_note_en": "Built at NIO's F1 plant in Hefei. Launched 2025-07-31 (six-seat deliveries from 2025-08-01, seven-seat in late September). It is 5,145 mm long with a 3,110 mm wheelbase, a 240-litre front trunk and a drag coefficient of 0.25, with a rear motor of 340 kW or dual-motor 440 kW. At launch it offered 14.5 kWh/100 km and 605 km CLTC on the standard 85 kWh pack. The 2026 model (2026-04-21) keeps the RMB 265,800 starting price and revises efficiency to 14.6 kWh/100 km with 600 km CLTC for rear-drive and 15.4 kWh/100 km with 570 km for all-wheel-drive; Pro keeps Nvidia Orin-X vision, while Max+ and Ultra+ add the Shenji NX9031 chip, lidar, NIO World Model and Coconut 3.0. ONVO said the L90 passed 60,000 deliveries in its first year.",
+      "owner_note_zh": "在蔚来合肥 F1 工厂生产。2025-07-31 上市（六座版 2025-08-01 起交付、七座版 9 月下旬交付）。车长 5,145 mm、轴距 3,110 mm，配 240 升前备舱，风阻系数 0.25，后驱 340 kW、四驱 440 kW。上市初标配 85 kWh 电池，百公里电耗 14.5 kWh、CLTC 续航 605 公里。2026 款（2026-04-21）起售价 26.58 万元不变，能耗续航更新为后驱 14.6 kWh/100km、600 公里，四驱 15.4 kWh/100km、570 公里；Pro 版沿用英伟达 Orin X 纯视觉，Max+、Ultra+ 版搭载神玑 NX9031 芯片、激光雷达、蔚来世界模型与 Coconut 3.0。乐道称 L90 上市一年累计交付超 6 万台。",
+      "status": "active",
+      "source_ids": ["s6", "s7", "s25", "s26", "s29"]
+    },
+    {
+      "name_en": "ONVO L80",
+      "name_zh": "乐道 L80",
+      "role_en": "Large five-seat family electric SUV.",
+      "role_zh": "大型大五座家庭电动 SUV。",
+      "price_band": "China launch (2026-05-15): Pro from RMB 242,800, BaaS from RMB 156,800 (Max+ RMB 259,800, Ultra+ RMB 279,800).",
+      "founded": 2026,
+      "owner_note_en": "Built at NIO's F1 plant in Hefei. Launched 2026-05-15 with deliveries from 2026-05-16. It is 5,145 mm long with a 3,110 mm wheelbase, a 240-litre front trunk and a 1,200-litre rear trunk (up to 2,600 litres with the second row folded). It is offered in Pro (Nvidia Orin-X vision), Max+ and Ultra+ trims, the latter two with NIO's Shenji NX9031 chip and lidar.",
+      "owner_note_zh": "在蔚来合肥 F1 工厂生产。2026-05-15 上市、5 月 16 日开启交付。车长 5,145 mm、轴距 3,110 mm，配 240 升前备舱与 1,200 升后备箱（二排放倒后最大 2,600 升）。提供 Pro（英伟达 Orin-X 纯视觉）、Max+、Ultra+ 三个版型，后两者搭载神玑 NX9031 芯片与激光雷达。",
+      "status": "active",
+      "source_ids": ["s8", "s9", "s29"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not separately disclosed (ONVO is a brand of NIO Inc.)",
+    "rows": [],
+    "note_en": "ONVO is a brand of NIO Inc. and does not publish separate financial statements, so no brand-level revenue, gross margin, net profit, R&D or cash-flow figures are disclosed here, and none are estimated. The parent, NIO Inc., reports under U.S. GAAP; its profit or loss is presented as \"Net loss attributable to ordinary shareholders of NIO Inc.\" — i.e. attributable to the parent company's ordinary shareholders, with no separate parent-company line. Parent-level financials are covered in the NIO (nio) deep research. This page does not constitute any trading recommendation.",
+    "note_zh": "乐道是蔚来集团旗下品牌，不单独披露品牌层面财务报表，故本表不列营收、毛利率、净利润、研发投入、现金流等品牌级财务数字，也不做估算。母公司蔚来集团财报按美国通用会计准则（US GAAP）编制，净利润/净亏损按「归属蔚来集团普通股股东」口径列示（即归属于母公司普通股股东，不单列「归属于母公司股东」科目）；母公司财务数据见蔚来集团（nio）深度研究。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "source_ids": ["s1", "s2", "s3", "s4", "s5", "s9", "s10", "s11", "s12", "s13", "s27", "s28"],
+      "en": "<p>ONVO (Ledao) is the second brand of NIO Inc. (NYSE: NIO; HKEX: 9866; SGX: NIO), unveiled on 15 May 2024 and positioned as a family-oriented smart electric vehicle brand for the mainstream market. Its name derives from \"On Voyage\"; the Chinese name Ledao means a happy road.<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a> Its first model, the L60, was launched on 19 September 2024 from RMB 206,900 and began deliveries on 28 September 2024.<a href=\"https://www.onvo.cn/news/20240919001\">[s2]</a></p><p>ONVO sits in the middle of NIO's three-brand portfolio — NIO (premium), ONVO (family/mass market) and firefly (small, global) — and targets the RMB 200,000–300,000 mainstream band.<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a> As of the cut-off date its China line-up comprises three SUVs sharing NIO's 900V architecture, battery-swap network and, on higher trims from 2026, the in-house Shenji NX9031 chip: the L60 (mid-size), L80 (large five-seat) and L90 (large three-row).<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><p>ONVO delivered 20,761 vehicles in 2024, 107,808 in 2025 and 70,191 in the first nine months of 2026; cumulative deliveries reached 200,000 on 8 October 2026, with an average transaction price of about RMB 234,000.<a href=\"https://www.nio.cn/news/20250101001\">[s3]</a><a href=\"https://www.nio.cn/news/20260101001\">[s4]</a><a href=\"https://www.nio.cn/news/20261001001\">[s5]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> As of the cut-off date the three models start at RMB 192,800, RMB 242,800 and RMB 265,800 respectively with the battery, or RMB 135,800, RMB 156,800 and RMB 179,800 under battery rental.<a href=\"https://www.onvo.cn/l60\">[s10]</a><a href=\"https://www.onvo.cn/l80\">[s11]</a><a href=\"https://www.onvo.cn/l90\">[s12]</a></p><p>All ONVO models are produced in Hefei, Anhui, sharing plants with NIO; the L60 is built at NIO's F2 plant and the L80/L90 at the F1 plant.<a href=\"https://www.onvo.cn/news/20240815001\">[s27]</a><a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> As a brand, ONVO does not publish separate financial results; its operations are consolidated into NIO Inc., whose parent-level financials are covered in the NIO deep research.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a></p>",
+      "zh": "<p>乐道（ONVO）是蔚来集团（纽交所 NIO；港交所 9866；新交所 NIO）旗下第二品牌，2024 年 5 月 15 日发布，定位面向主流大众市场的家庭智能电动汽车品牌。ONVO 源自 On Voyage（美好旅途），中文名「乐道」寓意快乐的道路。<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a> 首款车型 L60 于 2024 年 9 月 19 日上市（20.69 万元起），9 月 28 日开启交付。<a href=\"https://www.onvo.cn/news/20240919001\">[s2]</a></p><p>乐道处于蔚来三品牌矩阵的中间位置——蔚来（高端）、乐道（家庭/大众）、萤火虫（小型/全球），主攻 20 万–30 万元主流价格带。<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a><a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a> 截至研究截止日，其中国产品矩阵包括 L60（中型）、L80（大五座）、L90（大型大三排）三款 SUV，均共享蔚来的 900V 架构与换电网络，2026 年起高配版搭载自研神玑 NX9031 芯片。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><p>乐道 2024 年交付 20,761 辆、2025 年交付 107,808 辆、2026 年前三季度交付 70,191 辆；累计交付于 2026 年 10 月 8 日突破 20 万辆，成交均价约 23.4 万元。<a href=\"https://www.nio.cn/news/20250101001\">[s3]</a><a href=\"https://www.nio.cn/news/20260101001\">[s4]</a><a href=\"https://www.nio.cn/news/20261001001\">[s5]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> 截至研究截止日，三款车型整车购买含电池起售价分别为 19.28 万、24.28 万、26.58 万元，电池租用（BaaS）购买分别为 13.58 万、15.68 万、17.98 万元起。<a href=\"https://www.onvo.cn/l60\">[s10]</a><a href=\"https://www.onvo.cn/l80\">[s11]</a><a href=\"https://www.onvo.cn/l90\">[s12]</a></p><p>乐道全系车型均在安徽合肥生产，与蔚来共享工厂：L60 在蔚来 F2 工厂、L80/L90 在蔚来 F1 工厂生产。<a href=\"https://www.onvo.cn/news/20240815001\">[s27]</a><a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> 作为品牌，乐道不单独披露财务结果，经营成果并入蔚来集团报表，母公司财务数据见蔚来集团深度研究。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a></p>"
+    },
+    "current": {
+      "source_ids": ["s1", "s2", "s5", "s6", "s7", "s8", "s9", "s14", "s21", "s22", "s23", "s24", "s25", "s26", "s27", "s28", "s29"],
+      "en": "<h3>Positioning</h3><p>ONVO targets the mainstream family market with the mission of making family life better, focused on the RMB 200,000–300,000 band, below the premium NIO brand.<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a> It is built on NIO's full-stack technology and has shared NIO's R&D, manufacturing, quality, charging and service capabilities from day one.<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a> Its president has described the NIO–ONVO relationship as analogous to Audi–Volkswagen or Lexus–Toyota — distinct market tiers rather than a simple high/low split, according to Gasgoo.<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a></p><h3>Product line-up</h3><p>As of 2026-10-29 ONVO sells three SUVs in China: the L60 mid-size SUV (new L60 launched 2026-06-11 from RMB 192,800), the L90 large three-row flagship (launched 2025-07-31 from RMB 265,800, refreshed 2026-04-21) and the L80 large five-seat SUV (launched 2026-05-15 from RMB 242,800).<a href=\"https://www.onvo.cn/news/20240919001\">[s2]</a><a href=\"https://www.onvo.cn/news/20250731001\">[s6]</a><a href=\"https://www.onvo.cn/news/20260421001\">[s7]</a><a href=\"https://www.onvo.cn/news/20260515001\">[s8]</a><a href=\"https://auto.gasgoo.com/news/202606/11I70461540C501.shtml\">[s21]</a> In H1 2026 ONVO refreshed all three models; the company said they carry the same flagship intelligent hardware as NIO's ES9 — the in-house 5nm Shenji NX9031 chip, NIO World Model (NWM) and SkyOS — on their higher trims, while the entry Pro trims keep Nvidia Orin-X vision-only driving assist.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://auto.gasgoo.com/news/202606/11I70461540C501.shtml\">[s21]</a> In space design, the L90 follows a \"seat-equality\" concept with more than one metre of effective legroom in every row, and the L80 introduces a two-cabin layout the company calls a \"two-cabin mini motorhome\".<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><h3>Core technology</h3><p>ONVO models use NIO's 900V high-voltage architecture, the SkyOS vehicle-wide operating system and the NT.Coconut smart system, and support battery swapping and BaaS battery rental.<a href=\"https://www.onvo.cn/news/20240919001\">[s2]</a> The models are developed on NIO's third-generation NT3.0 platform with a 900V silicon-carbide architecture, supporting 900V fast charging (10%–80% in about 25 minutes) and three-minute battery swaps.<a href=\"https://auto.gasgoo.com/news/202606/11I70461540C501.shtml\">[s21]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> From 2026, Max+ and Ultra+ trims carry the Shenji NX9031 chip, lidar and the NIO World Model; NIO's own release calls the Shenji NX9031 the world's first 5nm automotive-grade smart-driving chip, which is the company's wording, not a third-party assessment.<a href=\"https://www.onvo.cn/news/20260421001\">[s7]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><h3>Production and capacity</h3><p>All ONVO models are produced in Hefei, Anhui, sharing plants and quality standards with NIO.<a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> The first production L60 rolled off the line on 15 August 2024 at NIO's F2 plant in Xinqiao (NeoPark), where it shares the line with NIO models.<a href=\"https://www.onvo.cn/news/20240815001\">[s27]</a> According to industry media, NIO operates three vehicle plants in Hefei: the F2 plant in NeoPark (production since September 2022, designed annual capacity of 300,000 units), which builds the ET5, ET5T, ET9, the ONVO L60 and the NIO ES9; the F1 plant in the Hefei Economic and Technological Development Zone (since 2018, designed annual capacity of 300,000 units), which builds the ONVO L90 and L80; and the F3 plant in NeoPark (production since September 2025, single-shift capacity of 100,000 units a year).<a href=\"https://eletric-vehicles.com/nio/nio-plant-named-a-national-excellence-level-smart-factory-in-china/\">[s29]</a> The F2 plant was named a World Economic Forum Global Lighthouse factory in June 2026 and rated a 2026 national \"excellence-level\" smart factory by MIIT and five other ministries in October 2026.<a href=\"https://eletric-vehicles.com/nio/nio-plant-named-a-national-excellence-level-smart-factory-in-china/\">[s29]</a></p><h3>Sales and market position</h3><p>ONVO delivered 20,761 vehicles in 2024, 107,808 in its first full year 2025, and 70,191 in the first nine months of 2026.<a href=\"https://www.nio.cn/news/20250101001\">[s3]</a><a href=\"https://www.nio.cn/news/20260101001\">[s4]</a><a href=\"https://www.nio.cn/news/20261001001\">[s5]</a> According to CPCA retail data cited by industry media, the L60 is the volume model, selling about 64,400 units in 2025 and accounting for about 57% of ONVO's cumulative total; in September 2026 ONVO delivered 8,763 vehicles, of which 3,181 were L60 (including three exports), 2,915 L80 and 2,667 L90.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> ONVO's monthly record was 17,342 units in October 2025, after which volumes fell back as China phased out trade-in subsidies.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> Anhui local media reported that the average transaction price of the first 200,000 vehicles was about RMB 234,000.<a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> In the August 2026 China auto residual-value report, released in September 2026, the L60's one-year residual value was 74.4%, first among mid-size SUVs regardless of powertrain or price band.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> Beijing Business Daily, reporting the same study, put the L90's one-year residual value at 78%, first among large new-energy SUVs.<a href=\"https://finance.eastmoney.com/a/202609043865226857.html\">[s25]</a></p><h3>Overseas business</h3><p>As of 2026-10-29 ONVO has not entered Europe; NIO said in September 2026 that the European launch is \"currently expected for 2028–2029\", later than the 2027 date its chairman gave in November 2025.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> Outside China, ONVO sells only in three markets through local distributors: Uzbekistan (distributor Abu Sahiy Motors opened its first authorised showroom in Tashkent in late January 2026, selling the L60 and L90), Armenia (dealer N-Motors opened its Yerevan showroom in early March 2026, listing the L60 from 12.8 million drams) and Costa Rica (NIO opened its first store in the Americas in March 2026 with distributor Horizontes Cielo Azul, offering the L60 and taking pre-orders for the L90).<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> According to CPCA export data cited by industry media, ONVO has exported 251 vehicles since November 2025, including 207 L60s (193 of them shipped in November–December 2025); monthly exports have not exceeded five units in 2026.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a></p>",
+      "zh": "<h3>品牌定位</h3><p>乐道定位主流家庭市场，以「让家庭生活更美好」为使命，主攻 20 万–30 万元价格带，与主攻高端市场的蔚来品牌形成错位。<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a> 依托蔚来的全栈技术布局，乐道自诞生即共享蔚来的研发、制造、质量、补能与服务能力。<a href=\"https://www.onvo.cn/news/20240515002\">[s1]</a> 其总裁曾将蔚来与乐道的关系类比为奥迪与大众、雷克萨斯与丰田——是面向不同市场的区隔，而非简单的高低配。<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a></p><h3>产品矩阵</h3><p>截至 2026 年 10 月 29 日，乐道在中国销售三款 SUV：中型 SUV L60（新 L60 于 2026 年 6 月 11 日上市，19.28 万元起）、大型大三排旗舰 L90（2025 年 7 月 31 日上市，26.58 万元起，2026 年 4 月 21 日焕新）与大五座 L80（2026 年 5 月 15 日上市，24.28 万元起）。<a href=\"https://www.onvo.cn/news/20240919001\">[s2]</a><a href=\"https://www.onvo.cn/news/20250731001\">[s6]</a><a href=\"https://www.onvo.cn/news/20260421001\">[s7]</a><a href=\"https://www.onvo.cn/news/20260515001\">[s8]</a><a href=\"https://auto.gasgoo.com/news/202606/11I70461540C501.shtml\">[s21]</a> 2026 年上半年，乐道完成三款车型的焕新：公司称高配版搭载与蔚来 ES9 同款的旗舰智能硬件——自研 5nm 神玑 NX9031 芯片、蔚来世界模型 NWM 与 SkyOS·天枢，而入门 Pro 版仍采用英伟达 Orin X 纯视觉智驾方案。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://auto.gasgoo.com/news/202606/11I70461540C501.shtml\">[s21]</a> 在空间设计上，L90 提出「座座平权」，六/七人满员时每排有效腿部空间均超 1 米；L80 首创智能双舱布局，被公司称为「双舱小房车」。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><h3>核心技术</h3><p>乐道车型采用蔚来 900V 高压架构、SkyOS·天枢整车全域操作系统与 NT.Coconut 椰子智能系统，支持换电与 BaaS 电池租用。<a href=\"https://www.onvo.cn/news/20240919001\">[s2]</a> 车型基于蔚来第三代技术平台 NT3.0 开发，采用 900V 碳化硅高压架构，支持 900V 快充（10%–80% 约 25 分钟）与三分钟换电。<a href=\"https://auto.gasgoo.com/news/202606/11I70461540C501.shtml\">[s21]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> 2026 年起 Max+、Ultra+ 版搭载神玑 NX9031 芯片、激光雷达与蔚来世界模型；蔚来在 2026 款 L90 上市稿中称神玑 NX9031 为「全球首颗 5nm 车规级智驾芯片」，此为公司口径，非第三方评测结论。<a href=\"https://www.onvo.cn/news/20260421001\">[s7]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><h3>工厂与产能</h3><p>乐道全系车型均在安徽合肥生产，与蔚来共享工厂与质量标准。<a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> 首台量产 L60 于 2024 年 8 月 15 日在合肥新桥蔚来第二工厂（F2）下线，与蔚来车型共线生产。<a href=\"https://www.onvo.cn/news/20240815001\">[s27]</a> 据行业媒体报道，蔚来在合肥共有三座整车工厂：位于新桥智能电动汽车产业园（NeoPark）的 F2 工厂（2022 年 9 月投产，设计年产能 30 万辆），生产 ET5、ET5T、ET9、乐道 L60 与蔚来 ES9；位于合肥经济技术开发区的 F1 工厂（2018 年投产，设计年产能 30 万辆），生产乐道 L90、L80；以及同样位于 NeoPark 的 F3 工厂（2025 年 9 月投产，单班年产能 10 万辆）。<a href=\"https://eletric-vehicles.com/nio/nio-plant-named-a-national-excellence-level-smart-factory-in-china/\">[s29]</a> F2 工厂于 2026 年 6 月入选世界经济论坛「灯塔工厂」，同年 10 月获评工信部等五部委 2026 年度国家「卓越级」智能工厂。<a href=\"https://eletric-vehicles.com/nio/nio-plant-named-a-national-excellence-level-smart-factory-in-china/\">[s29]</a></p><h3>销量与市场地位</h3><p>乐道 2024 年交付 20,761 辆，首个完整年度 2025 年交付 107,808 辆，2026 年前三季度交付 70,191 辆。<a href=\"https://www.nio.cn/news/20250101001\">[s3]</a><a href=\"https://www.nio.cn/news/20260101001\">[s4]</a><a href=\"https://www.nio.cn/news/20261001001\">[s5]</a> 据行业媒体援引乘联会零售数据，L60 是走量主力，2025 年约售 64,400 辆，占乐道累计交付约 57%；2026 年 9 月乐道交付 8,763 辆，其中 L60 3,181 辆（含 3 辆出口）、L80 2,915 辆、L90 2,667 辆。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 乐道单月纪录为 2025 年 10 月的 17,342 辆，此后因以旧换新补贴退坡回落。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 据安徽本地媒体报道，乐道累计 20 万辆的成交均价约 23.4 万元。<a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> 2026 年 9 月发布的《2026 年 8 月中国汽车保值率研究报告》中，L60 一年保值率 74.4%，位列中型 SUV 第一，不分能源形式、不分价格段。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> 北京商报报道同一份报告：L90 一年保值率 78%，位列新能源大型 SUV 第一。<a href=\"https://finance.eastmoney.com/a/202609043865226857.html\">[s25]</a></p><h3>海外业务</h3><p>截至 2026 年 10 月 29 日，乐道尚未进入欧洲；蔚来 2026 年 9 月称欧洲上市「目前预计 2028–2029 年」，晚于其董事长 2025 年 11 月给出的 2027 年。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 中国以外，乐道目前仅通过当地经销商在三个市场销售：乌兹别克斯坦（经销商 Abu Sahiy Motors 于 2026 年 1 月底在塔什干开设首家授权展厅，销售 L60 与 L90）、亚美尼亚（经销商 N-Motors 2026 年 3 月在埃里温开设展厅，L60 起售 1,280 万德拉姆）、哥斯达黎加（2026 年 3 月蔚来与经销商 Horizontes Cielo Azul 在美洲开设首家门店，销售 L60 并预售 L90）。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 据行业媒体援引乘联会出口数据，乐道自 2025 年 11 月以来累计出口 251 辆，其中 L60 207 辆（193 辆集中在 2025 年 11–12 月），2026 年单月出口未超过 5 辆。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a></p>"
+    },
+    "leadership": {
+      "source_ids": ["s9", "s13", "s17", "s18", "s19", "s20", "s30"],
+      "en": "<h3>Brand president</h3><p>Shen Fei is ONVO's president. He was appointed on 2 April 2025 after founding president Ai Tiecheng stepped down, and is responsible for ONVO sales and regional-company management, reporting to NIO co-founder and president Lihong Qin.<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a> According to 21st Century Business Herald and China Youth Daily, Shen joined NIO in 2015 as an early core manager and among its most senior vice presidents; as head of the energy business he built NIO's charging and swap system from scratch, bringing online 3,239 swap stations and 2,757 supercharging stations.<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a><a href=\"https://auto.cyol.com/gb/articles/2025-04/03/content_99a44Ghp7v.html\">[s30]</a> Official ONVO materials continued to identify Shen Fei as ONVO president in October 2026.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><p>On reporting lines, 21st Century Business Herald and Shanghai Securities News reported that ONVO's R&D, supply-chain and quality departments report to NIO CEO Li Bin, while the marketing system reports to NIO president Lihong Qin.<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a><a href=\"https://www.cnstock.com/commonDetail/388570\">[s18]</a> Caixin reported a different framing: that Shen Fei is mainly responsible for sales, while seven departments including product experience, supply chain and quality report to Li Bin.<a href=\"https://companies.caixin.com/2025-04-02/102305315.html\">[s20]</a> The two accounts overlap but differ in scope, so both are noted here.</p><h3>Founding president</h3><p>Ai Tiecheng was ONVO's first president and a NIO senior vice president. He was publicly introduced as ONVO president at the brand's May 2024 launch.<a href=\"https://auto.ce.cn/auto/gundong/202405/16/t20240516_39004579.shtml\">[s17]</a> He announced his departure on 2 April 2025, saying the L60 had not reached sales matching its product strength; media reported that he had earlier pledged to step down if March 2025 monthly deliveries failed to reach 20,000, and ONVO delivered 4,820 that month.<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a><a href=\"https://auto.cyol.com/gb/articles/2025-04/03/content_99a44Ghp7v.html\">[s30]</a></p><h3>Group leadership and governance</h3><p>ONVO is not a separate legal entity and is wholly held by NIO Inc., which is listed in New York, Hong Kong and Singapore and discloses three brands — NIO, ONVO and firefly — in its annual report.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a> NIO Inc. was founded in 2014; its founder, chairman and CEO is William Li (Li Bin), and its co-founder and president is Lihong Qin.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a> Beyond the brand president, NIO does not separately disclose ONVO's management structure.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a></p>",
+      "zh": "<h3>品牌总裁</h3><p>沈斐为乐道汽车总裁，2025 年 4 月 2 日在首任总裁艾铁成离职后接任，全面负责乐道销售与区域公司管理，向蔚来联合创始人、总裁秦力洪汇报。<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a> 据 21 世纪经济报道与中国青年报，沈斐 2015 年加入蔚来，是早期草创阶段的核心管理成员、蔚来最资深的高级副总裁；负责能源业务期间从零起步创立蔚来充换电体系，在全国落地 3,239 座换电站与 2,757 座超充站。<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a><a href=\"https://auto.cyol.com/gb/articles/2025-04/03/content_99a44Ghp7v.html\">[s30]</a> 乐道官方材料至 2026 年 10 月仍称沈斐为乐道汽车总裁。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><p>在汇报关系上，21 世纪经济报道与上海证券报称，调整后乐道的研发、供应链与质量部门向蔚来 CEO 李斌汇报，营销体系向蔚来总裁秦力洪汇报。<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a><a href=\"https://www.cnstock.com/commonDetail/388570\">[s18]</a> 财新则给出另一种表述：沈斐在乐道主要负责销售，产品体验、供应链、质量等七个部门均向李斌汇报。<a href=\"https://companies.caixin.com/2025-04-02/102305315.html\">[s20]</a> 两种说法在范围上有出入，故此处并列记录。</p><h3>首任总裁</h3><p>艾铁成为乐道首任总裁，2024 年 5 月品牌发布时以乐道总裁身份公开亮相。<a href=\"https://auto.ce.cn/auto/gundong/202405/16/t20240516_39004579.shtml\">[s17]</a> 2025 年 4 月 2 日宣布离职，称 L60 未达到与产品力相匹配的销量；媒体曾报道其立下「2025 年 3 月单月交付 2 万辆、否则下课」的军令状，而当月乐道交付 4,820 辆。<a href=\"https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html\">[s19]</a><a href=\"https://auto.cyol.com/gb/articles/2025-04/03/content_99a44Ghp7v.html\">[s30]</a></p><h3>集团管理层与治理</h3><p>乐道并非独立法人实体，由蔚来集团全资持有。蔚来集团在纽约、香港、新加坡三地上市，并在年报中披露蔚来、乐道、萤火虫三大品牌。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a> 蔚来集团成立于 2014 年，创始人、董事长兼 CEO 为李斌，联合创始人兼总裁为秦力洪。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a> 除品牌总裁外，蔚来未单独披露乐道的管理架构。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a></p>"
+    },
+    "competition": {
+      "source_ids": ["s7", "s9", "s15", "s22", "s23", "s26"],
+      "en": "<p><strong>Our judgment: the competitive field.</strong> By its RMB 200,000–300,000 positioning, ONVO competes in China's most contested mainstream EV band against the Tesla Model Y, Li Auto's L6 and i-series, Xiaomi's YU7, Zeekr's 7X and Huawei-backed models.<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a> This is an analytical selection, not a sales ranking.</p><p><strong>Our judgment: strengths.</strong> ONVO's differentiation rests on NIO's battery-swap network and BaaS, which its president has described as something rivals would need two to three years to imitate; on a native 900V platform that is space- and weight-efficient; and on bringing flagship chips (Shenji NX9031) to the mass market.<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a> On space, the L80 offers a 240-litre front trunk and up to 2,600-litre rear trunk, and the L90 a six/seven-seat layout; on efficiency, rear-drive L60 consumption is 11.9 kWh/100 km, and the 2026 L90 is 14.6 kWh/100 km with 600 km CLTC in rear-drive and 15.4 kWh/100 km with 570 km in all-wheel-drive.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://www.onvo.cn/news/20260421001\">[s7]</a><a href=\"https://www.onvo.cn/news/20251023001\">[s15]</a></p><p><strong>Our judgment: weaknesses.</strong> The L60 did not reach the founding president's targets early on, contributing to his April 2025 departure; Gasgoo reported L60 monthly deliveries of 5,912, 4,049 and 4,820 in January–March 2025, far short of a 20,000-unit March goal.<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a> NIO's chairman said at an earnings call that 50–60% of ONVO's lost sales at the time were because customers could not take delivery quickly enough.<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a> The brand must still build recognition in a crowded segment where the parent's premium halo does not fully transfer.<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a> It also depends on NIO's manufacturing, energy and service system rather than a fully independent value chain.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><p><strong>Our judgment: demand volatility.</strong> ONVO's volumes swing with policy windows and launch cycles: the L90 sold more than 10,000 units a month in August–October 2025, peaking at 11,722, before falling back as trade-in subsidies were phased out; the L80 delivered 5,949 units in its first partial month and then declined month after month.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> This suggests the brand still needs to prove it can hold a stable share between launch peaks.</p><p><strong>Our judgment: overall.</strong> The combination of battery swap, space efficiency and flagship-technology trickle-down is a genuine differentiator, but ONVO operates in a crowded segment and is still building recognition; volume growth depends on converting launch spikes into stable off-peak share.<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a><a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>按 20 万–30 万元定位，乐道在中国竞争最激烈的主流纯电价格带与特斯拉 Model Y、理想 L6 及 i 系列、小米 YU7、极氪 7X 及华为系车型竞争。<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a> 此为分析所选的竞争范围，不是销量排名。</p><p><strong>我们的判断：优势。</strong>乐道的差异化在于蔚来换电网络与 BaaS——其总裁称之为竞品要花两三年才能模仿；在于原生 900V 平台的空间与重量效率；在于将旗舰芯片（神玑 NX9031）下放到大众市场。<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a> 在空间上，L80 提供 240 升前备舱与最大 2,600 升后备箱，L90 提供六/七座布局；在能效上，L60 后驱版为 11.9 kWh/100km；2026 款 L90 后驱为 14.6 kWh/100km、CLTC 600 公里，四驱为 15.4 kWh/100km、570 公里。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://www.onvo.cn/news/20260421001\">[s7]</a><a href=\"https://www.onvo.cn/news/20251023001\">[s15]</a></p><p><strong>我们的判断：短板。</strong>首款车型 L60 早期未达到首任总裁设定的目标，在一定程度上促成其 2025 年 4 月离职；据盖世汽车报道，L60 在 2025 年 1–3 月分别交付 5,912、4,049、4,820 辆，远低于 3 月 2 万辆的目标。<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a> 蔚来董事长曾在财报会上称，当时乐道终端 50%–60% 的战败原因是无法尽早提车。<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a> 品牌还须在拥挤的细分市场建立认知，母品牌的势能不能完全平移。<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a> 同时，乐道依赖蔚来的制造、能源与服务体系，而非完全独立的价值链。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p><p><strong>我们的判断：需求波动。</strong>乐道的销量随政策窗口与上市节奏明显起伏：L90 在 2025 年 8–10 月连续月销过万、峰值 11,722 辆，随后因以旧换新补贴退坡回落；L80 上市首个不完整月份交付 5,949 辆后逐月下滑。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 这提示品牌在细分市场的平销期稳定份额仍需观察。</p><p><strong>我们的判断：总体。</strong>「换电＋空间效率＋旗舰技术下放」的组合是真实的差异化，但乐道身处拥挤的细分市场且仍在建立认知，销量增长取决于把上市初期的脉冲转化为平销期的稳定份额。<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a><a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a></p>"
+    },
+    "outlook": {
+      "source_ids": ["s5", "s9", "s14", "s23", "s26", "s28"],
+      "en": "<p><strong>Company plans.</strong> ONVO has said it will keep investing in product, technology, charging and service. Marking 200,000 cumulative deliveries in October 2026, it said all three 2026 models carry NIO's ES9-grade intelligent hardware on higher trims and that the fleet will keep receiving OTA updates (a 3.1.0 release was pushed to all models in July 2026).<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> NIO's chairman said in September 2026 that ONVO would introduce a \"major strategic new product\" the following year, without naming it, while a supplier document has shown an ONVO L50 that NIO has not confirmed.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> On overseas expansion, NIO said its European launch is currently expected in 2028–2029, with sales outside China for now limited to Uzbekistan, Armenia and Costa Rica.<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> These are disclosed plans and company statements, not completed results.</p><p><strong>Our judgment.</strong> ONVO's scale is supported by its own disclosed figures — 70,191 deliveries in the first nine months of 2026 and a 200,000 cumulative milestone.<a href=\"https://www.nio.cn/news/20261001001\">[s5]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> Whether it keeps scaling depends on conditions that are not guaranteed: holding transaction prices in a price-competitive segment, converting awareness into steady volume, and building overseas sales.<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a> Because ONVO reports no standalone results, its development also depends on NIO's continued investment in the swap network and on the parent's overall financial capacity.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> If brand recognition and channel expansion lag expectations, or competition in the RMB 200,000–300,000 band intensifies further, delivery volume and transaction prices could both stay under pressure; the pace of charging-network expansion and its utilisation are another key variable for spreading infrastructure cost.<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>乐道表示将持续在产品、技术、补能与服务上投入。2026 年 10 月，在累计交付突破 20 万辆时，公司称 2026 款三款车型的高配版搭载与蔚来 ES9 同级的智能硬件，并将通过 OTA 持续升级（2026 年 7 月已向全系推送 3.1.0 版本）。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a><a href=\"https://m.ahwang.cn/p/3061636.html\">[s28]</a> 蔚来董事长 2026 年 9 月表示，乐道将于次年推出「重大战略新品」，但未透露具体车型；一份供应商文件则显示存在尚未获蔚来确认的乐道 L50 车型。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 海外方面，蔚来称欧洲上市目前预计在 2028–2029 年，中国以外的销售暂时限于乌兹别克斯坦、亚美尼亚与哥斯达黎加。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a> 以上为披露计划与公司表态，不是已实现的业绩。</p><p><strong>我们的判断。</strong>乐道的规模有品牌自行披露的数据支撑——2026 年前三季度交付 70,191 辆、累计突破 20 万辆。<a href=\"https://www.nio.cn/news/20261001001\">[s5]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> 但能否持续放量，取决于若干并不必然成立的条件：在价格竞争激烈的细分市场维持成交价、把品牌认知转化为平销期的稳定销量，以及建立起海外销量。<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a> 由于乐道不单独披露财务结果，其发展还依赖蔚来对换电网络的持续投入与母公司的整体财务能力。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a> 若品牌认知与渠道下沉的进度不及预期，或 20 万–30 万元价格带竞争进一步加剧，交付量与成交价仍可能面临双重压力；补能网络扩张速度与利用率，则是分摊基础设施成本的另一关键变量。<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a><a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></p>"
+    },
+    "risks": {
+      "source_ids": ["s9", "s13", "s22", "s23", "s26"],
+      "en": "<ul><li><strong>Competitive and pricing risk.</strong> ONVO operates in the RMB 200,000–300,000 band, which media describe as one of the most crowded and price-competitive segments in China, against Tesla, Li Auto, Xiaomi, Zeekr and Huawei-backed rivals.<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a></li><li><strong>Brand-recognition and sales risk.</strong> The L60's early volumes fell short of internal targets, contributing to the founding president's April 2025 departure, and the brand must still build recognition in a crowded segment.<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a></li><li><strong>No separate financial disclosure.</strong> ONVO publishes no brand-level revenue or profit, so standalone profitability cannot be assessed from public filings.<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a></li><li><strong>Dependence on the parent's swap network.</strong> ONVO's differentiation relies on NIO's charging and battery-swap infrastructure; slower network expansion or under-utilisation would erode that advantage.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></li><li><strong>Overseas trade-policy risk.</strong> ONVO's planned European expansion faces the EU's definitive countervailing duties on battery electric vehicles imported from China, which raise the cost of China-built cars in the EU.<a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s16]</a></li><li><strong>Early-stage overseas risk.</strong> ONVO has not entered Europe and its overseas footprint is limited to three markets through local distributors, with minimal export volume (251 vehicles since November 2025).<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a></li><li><strong>Concentrated product range.</strong> ONVO currently sells only three battery-electric SUVs in a single RMB 200,000–300,000 band, limiting its ability to absorb demand swings within the segment.<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></li></ul>",
+      "zh": "<ul><li><strong>竞争与价格风险：</strong>乐道身处 20 万–30 万元价格带，媒体称这是中国最拥挤、价格竞争最激烈的细分市场之一，对手包括特斯拉、理想、小米、极氪及华为系。<a href=\"https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml\">[s23]</a></li><li><strong>品牌认知与销量风险：</strong>L60 早期销量未达内部目标，一定程度上促成首任总裁 2025 年 4 月离职，品牌仍须在拥挤的细分市场建立认知。<a href=\"https://auto.gasgoo.com/news/202606/23I70462884C109.shtml\">[s22]</a></li><li><strong>无单独财务披露：</strong>乐道未披露品牌层面营收与利润，无法从公开文件评估品牌独立盈利能力。<a href=\"https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm\">[s13]</a></li><li><strong>依赖母公司换电网络：</strong>乐道的差异化依赖蔚来的充换电基础设施，网络扩张放缓或利用率不足会削弱该优势。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></li><li><strong>海外贸易政策风险：</strong>乐道规划的欧洲扩张面临欧盟对从中国进口纯电动汽车加征的最终反补贴税，抬高了其在中国生产车型在欧盟的成本。<a href=\"https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf\">[s16]</a></li><li><strong>海外起步阶段风险：</strong>乐道尚未进入欧洲，中国以外仅在三个市场通过当地经销商销售，出口量极小（自 2025 年 11 月以来累计出口 251 辆）。<a href=\"https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/\">[s26]</a></li><li><strong>产品与价格带集中风险：</strong>乐道目前仅三款纯电 SUV、且集中于 20 万–30 万元单一价格带，抵御细分市场波动的能力相对受限。<a href=\"https://www.onvo.cn/news/20261008001\">[s9]</a></li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "ONVO official news: NIO unveils the ONVO brand and L60, pre-sale from RMB 219,900 (2024-05-15)", "url": "https://www.onvo.cn/news/20240515002", "date": "2024-05-15", "tier": "A" },
+    { "id": "s2", "name": "ONVO official news: L60 officially launched from RMB 206,900 (2024-09-19)", "url": "https://www.onvo.cn/news/20240919001", "date": "2024-09-19", "tier": "A" },
+    { "id": "s3", "name": "NIO China news: December 2024 deliveries (ONVO full-year 2024: 20,761; Dec 10,528)", "url": "https://www.nio.cn/news/20250101001", "date": "2025-01-01", "tier": "A" },
+    { "id": "s4", "name": "NIO China news: December 2025 deliveries (ONVO full-year 2025: 107,808)", "url": "https://www.nio.cn/news/20260101001", "date": "2026-01-01", "tier": "A" },
+    { "id": "s5", "name": "NIO China news: September 2026 deliveries (ONVO 9M 2026: 70,191; Sep 8,763)", "url": "https://www.nio.cn/news/20261001001", "date": "2026-10-01", "tier": "A" },
+    { "id": "s6", "name": "ONVO official news: L90 launched from RMB 265,800 (2025-07-31)", "url": "https://www.onvo.cn/news/20250731001", "date": "2025-07-31", "tier": "A" },
+    { "id": "s7", "name": "ONVO official news: 2026 ONVO L90 launched with Shenji NX9031, price unchanged (2026-04-21)", "url": "https://www.onvo.cn/news/20260421001", "date": "2026-04-21", "tier": "A" },
+    { "id": "s8", "name": "ONVO official news: L80 launched from RMB 242,800 (2026-05-15)", "url": "https://www.onvo.cn/news/20260515001", "date": "2026-05-15", "tier": "A" },
+    { "id": "s9", "name": "ONVO official news: 200,000 cumulative deliveries in two years (2026-10-08)", "url": "https://www.onvo.cn/news/20261008001", "date": "2026-10-08", "tier": "A" },
+    { "id": "s10", "name": "ONVO L60 official China product page (accessed 2026-10-29)", "url": "https://www.onvo.cn/l60", "date": "2026-10-29", "tier": "A" },
+    { "id": "s11", "name": "ONVO L80 official China product page (accessed 2026-10-29)", "url": "https://www.onvo.cn/l80", "date": "2026-10-29", "tier": "A" },
+    { "id": "s12", "name": "ONVO L90 official China product page (accessed 2026-10-29)", "url": "https://www.onvo.cn/l90", "date": "2026-10-29", "tier": "A" },
+    { "id": "s13", "name": "NIO Inc. 2025 Annual Report on Form 20-F (three brands incl. ONVO) — SEC", "url": "https://www.sec.gov/Archives/edgar/data/1736541/000110465926041765/nio-20251231x20f.htm", "date": "2026-04-10", "tier": "A" },
+    { "id": "s14", "name": "NIO China news: June 2026 deliveries (ONVO H1 2026: 42,463; June 11,743)", "url": "https://www.nio.cn/news/20260701001", "date": "2026-07-01", "tier": "A" },
+    { "id": "s15", "name": "ONVO official news: L60 first-anniversary upgrade, 11.9 kWh/100km and 740 km range (2025-10-23)", "url": "https://www.onvo.cn/news/20251023001", "date": "2025-10-23", "tier": "A" },
+    { "id": "s16", "name": "European Commission: definitive countervailing duties on battery electric vehicles imported from China (IP/24/5589)", "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5589/IP_24_5589_EN.pdf", "date": "2024-10-29", "tier": "A" },
+    { "id": "s17", "name": "CE.cn (中国经济网): NIO launches the ONVO brand, L60 pre-sale RMB 219,900 (2024-05-16)", "url": "https://auto.ce.cn/auto/gundong/202405/16/t20240516_39004579.shtml", "date": "2024-05-16", "tier": "B" },
+    { "id": "s18", "name": "Shanghai Securities News (cnstock.com): Ai Tiecheng steps down, Shen Fei named ONVO president (2025-04-02)", "url": "https://www.cnstock.com/commonDetail/388570", "date": "2025-04-02", "tier": "B" },
+    { "id": "s19", "name": "21st Century Business Herald (21jingji.com): Shen Fei appointed ONVO president, reporting lines (2025-04-02)", "url": "https://m.21jingji.com/article/20250402/herald/99f3b523d2da19d822e7f19b377b6988.html", "date": "2025-04-02", "tier": "B" },
+    { "id": "s20", "name": "Caixin (companies.caixin.com): Ai Tiecheng departs, Shen Fei mainly responsible for sales, seven departments report to Li Bin (2025-04-02)", "url": "https://companies.caixin.com/2025-04-02/102305315.html", "date": "2025-04-02", "tier": "B" },
+    { "id": "s21", "name": "Gasgoo (盖世汽车): new ONVO L60 launched from RMB 192,800, specs and trims (2026-06-11)", "url": "https://auto.gasgoo.com/news/202606/11I70461540C501.shtml", "date": "2026-06-11", "tier": "B" },
+    { "id": "s22", "name": "Gasgoo (盖世汽车): ONVO L60 Jan–Mar 2025 deliveries, 2025 full-year brand split, channel merger (2026-06-23)", "url": "https://auto.gasgoo.com/news/202606/23I70462884C109.shtml", "date": "2026-06-23", "tier": "B" },
+    { "id": "s23", "name": "CNR (央广网): ONVO H1 2026 average transaction price about RMB 240,000 (2026-07-08)", "url": "https://auto.cnr.cn/cz/20260708/t20260708_527697127.shtml", "date": "2026-07-08", "tier": "B" },
+    { "id": "s24", "name": "CnEVPost: Nio Onvo begins L60 deliveries; Hefei plant (2024-09-28)", "url": "https://cnevpost.com/2024/09/28/nio-onvo-begins-l60-deliveries", "date": "2024-09-28", "tier": "B" },
+    { "id": "s25", "name": "eastmoney.com (reporting Beijing Business Daily / CADA & Jingzhengu report): ONVO L90 one-year residual value 78% (2026-09-04)", "url": "https://finance.eastmoney.com/a/202609043865226857.html", "date": "2026-09-04", "tier": "B" },
+    { "id": "s26", "name": "Electric Vehicles (eletric-vehicles.com, citing CPCA data and NIO statements): Onvo L60 sales and exports, Europe timeline 2028–2029 (2026-10-13)", "url": "https://eletric-vehicles.com/nio/onvo/onvo-l60-sales-fall-25-year-on-year-after-relaunch-added-lidar-option/", "date": "2026-10-13", "tier": "B" },
+    { "id": "s27", "name": "ONVO official news: L60 first production car rolls off line at NIO F2 plant in Hefei (2024-08-15)", "url": "https://www.onvo.cn/news/20240815001", "date": "2024-08-15", "tier": "A" },
+    { "id": "s28", "name": "Dawan News / Anhui Net (m.ahwang.cn): ONVO two-year 200,000 deliveries, average transaction price RMB 234,000, all models built in Hefei (2026-10-08)", "url": "https://m.ahwang.cn/p/3061636.html", "date": "2026-10-08", "tier": "B" },
+    { "id": "s29", "name": "Electric Vehicles (eletric-vehicles.com): Nio F2 plant rated national 'excellence-level' smart factory; F1/F2/F3 Hefei plant capacity and models (2026-10-27)", "url": "https://eletric-vehicles.com/nio/nio-plant-named-a-national-excellence-level-smart-factory-in-china/", "date": "2026-10-27", "tier": "B" },
+    { "id": "s30", "name": "China Youth Daily Auto (auto.cyol.com): Ai Tiecheng steps down, Shen Fei appointed ONVO president, Q1 2025 deliveries (2025-04-03)", "url": "https://auto.cyol.com/gb/articles/2025-04/03/content_99a44Ghp7v.html", "date": "2025-04-03", "tier": "B" },
+    { "id": "s31", "name": "Gasgoo (盖世汽车): ONVO L60 launch ranges, 555 km standard and 730 km long-range (2024-09-20)", "url": "https://auto.gasgoo.com/news/202409/20I70405656C107.shtml", "date": "2024-09-20", "tier": "B" }
+  ]
+}

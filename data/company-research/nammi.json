@@ -1,0 +1,340 @@
+{
+  "id": "nammi",
+  "name_en": "Dongfeng Nammi",
+  "name_zh": "东风纳米",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Founded",
+      "label_zh": "成立",
+      "value_en": "Brand released on 23 August 2023; predecessor Dongchuang Zilian (Wuhan) New Energy Technology Co., Ltd. founded on 28 October 2020",
+      "value_zh": "品牌于 2023 年 8 月 23 日发布；前身东创紫联（武汉）新能源科技有限公司成立于 2020 年 10 月 28 日",
+      "period": null,
+      "source_ids": ["s1", "s16"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Wuhan Economic and Technological Development Zone, Wuhan, Hubei; production base in Xiangyang, Hubei",
+      "value_zh": "湖北省武汉市（武汉经济技术开发区）；生产基地位于湖北省襄阳市",
+      "period": null,
+      "source_ids": ["s16", "s7"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-owned (brand of Dongfeng Motor Group, a central state-owned enterprise supervised by SASAC)",
+      "value_zh": "国有（国务院国资委监管的中央企业东风汽车集团旗下品牌）",
+      "period": null,
+      "source_ids": ["s1", "s14"]
+    },
+    {
+      "label_en": "Controlling shareholder",
+      "label_zh": "控股股东",
+      "value_en": "Not separately listed. The original operating entity 'Dongfeng Motor Nammi Technology Co., Ltd.' was renamed Dongfeng Passenger Vehicle Sales Co., Ltd. on 28 September 2023 and is directly wholly owned by Dongfeng Motor Group Co., Ltd. (0489.HK). The Xiangyang production entity Dongfeng Motor Nammi Technology (Xiangyang) Co., Ltd. is indirectly wholly owned by the group",
+      "value_zh": "未单独上市。原运营主体「东风汽车纳米科技有限公司」于 2023 年 9 月 28 日更名为东风乘用车销售有限公司，由东风汽车集团股份有限公司（0489.HK）直接全资持股；襄阳生产主体东风汽车纳米科技（襄阳）有限公司由集团间接全资控股",
+      "period": null,
+      "source_ids": ["s21", "s22"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市地点与代码",
+      "value_en": "Not separately listed; parent Dongfeng Motor Group Co., Ltd. is listed on the Hong Kong Stock Exchange as 0489.HK",
+      "value_zh": "未单独上市；母公司东风汽车集团股份有限公司在港交所上市，代码 0489.HK",
+      "period": null,
+      "source_ids": ["s21"]
+    },
+    {
+      "label_en": "Employees",
+      "label_zh": "员工数",
+      "value_en": "Not separately disclosed (brand-level)",
+      "value_zh": "未单独披露（品牌层面）",
+      "period": null,
+      "source_ids": ["s19"]
+    },
+    {
+      "label_en": "Revenue (FY2025)",
+      "label_zh": "营收（2025 财年）",
+      "value_en": "Not separately disclosed (the brand does not separately disclose financial statements; see Dongfeng group research)",
+      "value_zh": "未单独披露（品牌不单独披露财务报表，见东风集团深度研究）",
+      "period": "FY2025",
+      "source_ids": ["s19"]
+    },
+    {
+      "label_en": "Net profit (FY2025)",
+      "label_zh": "净利润（2025 财年）",
+      "value_en": "Not separately disclosed",
+      "value_zh": "未单独披露",
+      "period": "FY2025",
+      "source_ids": ["s19"]
+    },
+    {
+      "label_en": "Vehicle sales (2025)",
+      "label_zh": "销量（2025 年）",
+      "value_en": "Nammi 01: 39,481 units; Nammi 06: 9,928 units (combined about 49,400). Nammi 01 cumulative sales passed 110,000 units by end-2025 on the company's count",
+      "value_zh": "纳米 01 39,481 辆、纳米 06 9,928 辆（合计约 4.94 万辆）；按公司口径，纳米 01 累计销量至 2025 年底突破 11 万辆",
+      "period": "2025",
+      "source_ids": ["s23", "s11"]
+    },
+    {
+      "label_en": "Overseas sales (2025)",
+      "label_zh": "海外销量（2025 年）",
+      "value_en": "Nammi 01 cumulative overseas sales exceeded 24,000 units (as of October 2025); Nammi 06 single-month exports passed 4,000 units in December 2025; full-year overseas total not separately disclosed",
+      "value_zh": "纳米 01 海外累计销量超 2.4 万辆（截至 2025 年 10 月）；纳米 06 于 2025 年 12 月单月出口突破 4,000 辆；全年海外总销量未单独披露",
+      "period": "2025",
+      "source_ids": ["s10", "s11"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2017-12",
+      "event_en": "Dongfeng Motor Corporation and the Renault-Nissan alliance form Dongfeng Nissan Renault New Energy Vehicle Co., Ltd. (later renamed eGT New Energy), with Dongfeng holding 50% and Renault and Nissan 25% each; the venture produces NEV passenger cars and incubates the 'Dongfeng EV' new-energy line.",
+      "event_zh": "东风公司与雷诺-日产联盟合资成立东风日产雷诺新能源汽车有限公司（后更名易捷特新能源），东风持股 50%，雷诺、日产各持 25%；该公司生产新能源乘用车并孵化「东风 EV 新能源」产品线。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2020-10",
+      "event_en": "Dongfeng sole-funds Dongchuang Zilian (Wuhan) New Energy Technology Co., Ltd. (founded 28 October), which markets entry-level small EVs and takes over domestic marketing of eGT-produced models.",
+      "event_zh": "东风独资成立东创紫联（武汉）新能源科技有限公司（10 月 28 日），主攻入门级小型纯电市场，接手易捷特生产车型的国内营销。",
+      "source_ids": ["s16", "s18"]
+    },
+    {
+      "date": "2021",
+      "event_en": "Dongchuang Zilian goes from 0 to over 10,000 units sold in its first year, the fastest of any Dongfeng passenger-vehicle business to pass 10,000 units.",
+      "event_zh": "东创紫联首年实现从 0 到破万辆的销量跨越，成为东风历史上成长周期最短、销量破万辆速度最快的乘用车企业。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2022-07",
+      "event_en": "The Nammi BOX, a small pure-electric SUV, launches (17 July) and becomes the sales driver; full-year 2022 sales pass 35,000 units (reports differ on whether this counts the Nammi BOX model alone or all Dongchuang Zilian models). eGT-produced models are exported to Europe and Latin America.",
+      "event_zh": "小型纯电 SUV 纳米 BOX 上市（7 月 17 日）并成为销量主力；2022 年全年销量突破 3.5 万辆（有报道称系纳米 BOX 单一车型，亦有报道称系东创紫联全车型，口径不一）；易捷特生产车型出口欧洲、拉美。",
+      "source_ids": ["s16", "s18"]
+    },
+    {
+      "date": "2023-01",
+      "event_en": "Dongfeng Motor Nammi Technology (Xiangyang) Co., Ltd., the Xiangyang production entity, is set up around January 2023 with registered capital of RMB 500 million, indirectly wholly owned by the group.",
+      "event_zh": "襄阳生产主体东风汽车纳米科技（襄阳）有限公司于 2023 年 1 月前后成立，注册资本 5 亿元，由集团间接全资控股。",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2023-02",
+      "event_en": "Dongchuang Zilian is renamed Dongfeng Motor Nammi Technology Co., Ltd. and begins operating as a second-tier sector of Dongfeng. Registered capital was raised to RMB 890 million at end-2022 and to RMB 1.8 billion in early 2023. On 2 February a RMB 5.31 billion NEV project (S3-platform models) was signed for Xiangyang.",
+      "event_zh": "东创紫联更名为东风汽车纳米科技有限公司，以东风集团二级板块身份独立运营。注册资本 2022 年底增资至 8.9 亿元，2023 年初再增至 18 亿元；2 月 2 日总投资 53.1 亿元的新能源乘用车项目（S3 平台车型）落户襄阳。",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2023-03-26",
+      "event_en": "At its first partner conference in Xiangyang (reported 29 March), Dongfeng Nammi sets a target of one to two new models a year and sales of over 400,000 units by 2025.",
+      "event_zh": "在襄阳召开首次伙伴大会（3 月 29 日见报），提出每年上市 1 至 2 款新车型、到 2025 年销量突破 40 万辆的目标。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2023-08-23",
+      "event_en": "The Dongfeng Nammi brand is released in Chengdu as a 'national pure-electric professional brand'; its dedicated Dongfeng Quantum Architecture 3 platform and first model, Nammi 01, make their global debut.",
+      "event_zh": "东风纳米品牌在成都发布，定位「国民纯电专业品牌」；品牌专属的东风量子架构 3 号平台及首款车型纳米 01 全球首秀。",
+      "source_ids": ["s1", "s17"]
+    },
+    {
+      "date": "2023-08",
+      "event_en": "Dongfeng implements the 'leap' reform, bringing the Fengshen, eπ (Yipai) and Nammi brands under group-level integrated management of marketing and manufacturing.",
+      "event_zh": "东风实施乘用车新能源「跃迁行动」，对风神、奕派（eπ）、纳米三大产品系列品牌实施集团一体化管理（营销与制造）。",
+      "source_ids": ["s18", "s17"]
+    },
+    {
+      "date": "2023-09-28",
+      "event_en": "Dongfeng Motor Nammi Technology Co., Ltd. is renamed Dongfeng Passenger Vehicle Sales Co., Ltd., with its legal representative and key personnel changed; the company is directly wholly owned by Dongfeng Motor Group Co., Ltd.",
+      "event_zh": "东风汽车纳米科技有限公司更名为东风乘用车销售有限公司，法定代表人、主要人员同时变更；该公司由东风集团股份直接全资持股。",
+      "source_ids": ["s21"]
+    },
+    {
+      "date": "2024-01-07",
+      "event_en": "The first model, Nammi 01, a small pure-electric hatchback, launches with a price of RMB 74,800-104,800 and 330 km / 430 km range versions.",
+      "event_zh": "首款车型纳米 01（小型纯电两厢车）上市，售价区间 7.48 万–10.48 万元，提供 330 km / 430 km 两种续航。",
+      "source_ids": ["s6", "s7"]
+    },
+    {
+      "date": "2025-04-08",
+      "event_en": "The Nammi 06 small pure-electric SUV debuts globally in Beijing; Dongfeng Nammi marketing-business-unit deputy general manager Yu Yuefeng introduces the model.",
+      "event_zh": "纳米 06 小型纯电 SUV 在北京全球首秀；东风纳米营销事业部副总经理余岳峰现场介绍车型。",
+      "source_ids": ["s13"]
+    },
+    {
+      "date": "2025-04-28",
+      "event_en": "Nammi 06 opens pre-sale in Chengdu with five versions at RMB 89,900-119,900; the company reports 11,601 pre-orders in one hour.",
+      "event_zh": "纳米 06 在成都开启预售，推出 5 款配置、预售 8.99 万–11.99 万元；公司称预售 1 小时订单达 11,601 辆。",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2025-05-27",
+      "event_en": "Nammi 06 officially launches in Wuhan with a limited-time price of RMB 79,900-109,900, as the first national-level model of Dongfeng's Tianyuan intelligent technology brand.",
+      "event_zh": "纳米 06 在武汉正式上市并开启交付，限时先享价 7.99 万–10.99 万元，成为东风「天元智能」技术品牌的首款国民级落地车型。",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-06-26",
+      "event_en": "Dongfeng Yipai Automotive Technology Co., Ltd. is established, integrating the Yipai (eπ), Fengshen and Nammi brands across R&D, production, supply chain, sales and service; Nammi is merged into Yipai.",
+      "event_zh": "东风奕派汽车科技公司成立，将奕派（eπ）、风神、纳米三大品牌的研发、生产、供应链、销售与服务全链条整合至同一主体；纳米并入奕派。",
+      "source_ids": ["s4", "s19"]
+    },
+    {
+      "date": "2025-08-01",
+      "event_en": "Yipai Technology releases its 'Future Wings' strategy in Wuhan and announces the formal integration of the three brands; the 2026 Nammi 01 and Nammi 06 appear in the new product matrix.",
+      "event_zh": "奕派科技在武汉发布「未来之翼」战略并宣布正式整合三大品牌；2026 款纳米 01 与纳米 06 随新产品矩阵同场亮相。",
+      "source_ids": ["s4", "s20"]
+    },
+    {
+      "date": "2025-10-16",
+      "event_en": "The 2026 Nammi 01 launches with eight versions at a limited-time renewal guide price of RMB 58,800-88,800.",
+      "event_zh": "2026 款纳米 01 上市，推出 8 款车型，限时焕新指导价 5.88 万–8.88 万元。",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2025-10-23",
+      "event_en": "Cumulative Nammi 01 production passes 100,000 units; January-September 2025 output reached 44,280 units (up 64.17% year on year). The model has been exported to more than 40 countries and regions, with cumulative overseas sales over 24,000 units.",
+      "event_zh": "纳米 01 累计产量突破 10 万辆；2025 年 1–9 月产量 44,280 辆（同比增长 64.17%）。该车已出口全球 40 多个国家和地区，海外总销量超 2.4 万辆。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2026-01-01",
+      "event_en": "Yipai Technology reports 2025 sales of 275,752 units (up 28.3%); Nammi 01 cumulative sales pass 110,000 units, and Nammi 06 monthly exports exceed 4,000 units in December 2025.",
+      "event_zh": "奕派科技公布 2025 年销量 275,752 辆（同比增长 28.3%）；其中纳米 01 累计销量突破 11 万辆，纳米 06 于 2025 年 12 月单月出口突破 4,000 辆。",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2026-01-28",
+      "event_en": "The Nammi 06 overseas version, sold as Dongfeng VIGO, launches in San José, Costa Rica, with 270 terminal orders signed at the event.",
+      "event_zh": "纳米 06 海外版（东风 VIGO）在哥斯达黎加首都圣何塞上市，活动现场达成 270 辆终端订单。",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-07",
+      "event_en": "The Nammi 06 'Smart Edition' (智趣版) is rolled out, adding the Tianyuan intelligent-driving T100 system with city NOA, a 2,715 mm wheelbase and a 471 km CLTC range; Nammi 06 single-month sales reached 5,938 units in June 2026, entering the top three of the new-energy small-SUV segment.",
+      "event_zh": "纳米 06「智趣版」推向市场，新增天元智驾 T100 城市 NOA、2715mm 轴距与 471km CLTC 续航；纳米 06 于 2026 年 6 月单月销量达 5,938 辆，跻身新能源小型 SUV 细分市场前三。",
+      "source_ids": ["s25"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Nammi 01",
+      "name_zh": "纳米 01",
+      "role_en": "Small pure-electric hatchback, the brand's first model, built on Dongfeng Quantum Architecture 3.",
+      "role_zh": "小型纯电两厢车，品牌首款车型，基于东风量子架构 3 号平台打造。",
+      "price_band": "RMB 74,800-104,800 at launch (January 2024); 2026 model limited-time renewal guide price RMB 58,800-88,800 (October 2025)",
+      "founded": 2024,
+      "owner_note_en": "Launched 7 January 2024 with 330 km / 430 km range versions. Sales were 37,338 units in 2024 and 39,481 in 2025; the company reported cumulative sales passing 110,000 units by end-2025, and cumulative production passing 100,000 units in October 2025.",
+      "owner_note_zh": "2024 年 1 月 7 日上市，提供 330 km / 430 km 两种续航。销量 2024 年 37,338 辆、2025 年 39,481 辆；公司称累计销量至 2025 年底突破 11 万辆，累计产量于 2025 年 10 月突破 10 万辆。",
+      "status": "active",
+      "source_ids": ["s6", "s23", "s11", "s10"]
+    },
+    {
+      "name_en": "Nammi 06",
+      "name_zh": "纳米 06",
+      "role_en": "Small pure-electric SUV, the brand's second model and first national-level model of Dongfeng's Tianyuan intelligent technology brand.",
+      "role_zh": "小型纯电 SUV，品牌第二款车型，也是东风「天元智能」技术品牌的首款国民级落地车型。",
+      "price_band": "Limited-time launch price RMB 79,900-109,900; pre-sale RMB 89,900-119,900",
+      "founded": 2025,
+      "owner_note_en": "Debuted 8 April 2025, pre-sale from 28 April (11,601 orders in one hour), launched 27 May 2025. 2025 sales were 9,928 units; single-month exports exceeded 4,000 units in December 2025. The overseas version, Dongfeng VIGO, launched in Costa Rica on 28 January 2026. In mid-2026 the Smart Edition (智趣版) added the Tianyuan T100 city-NOA system and a 471 km CLTC range; June 2026 single-month sales reached 5,938 units.",
+      "owner_note_zh": "2025 年 4 月 8 日首秀，4 月 28 日预售（1 小时订单 11,601 辆），5 月 27 日上市。2025 年销量 9,928 辆；2025 年 12 月单月出口突破 4,000 辆。海外版东风 VIGO 于 2026 年 1 月 28 日在哥斯达黎加上市。2026 年年中「智趣版」新增天元智驾 T100 城市 NOA 与 471km CLTC 续航；2026 年 6 月单月销量达 5,938 辆。",
+      "status": "active",
+      "source_ids": ["s13", "s3", "s2", "s23", "s11", "s8", "s25"]
+    },
+    {
+      "name_en": "Nammi BOX",
+      "name_zh": "纳米 BOX",
+      "role_en": "Small pure-electric SUV sold before the Nammi brand was released, under the predecessor Dongchuang Zilian / Dongfeng EV line.",
+      "role_zh": "品牌发布前（前身东创紫联/东风 EV 新能源）销售的小型纯电 SUV。",
+      "price_band": null,
+      "founded": 2022,
+      "owner_note_en": "Launched 17 July 2022 and was the main driver of Dongchuang Zilian's 2022 sales above 35,000 units. eGT-produced models were exported to Europe and Latin America. A legacy model now discontinued.",
+      "owner_note_zh": "2022 年 7 月 17 日上市，是东创紫联 2022 年销量突破 3.5 万辆的主力；易捷特生产车型出口欧洲、拉美。属前身时期的遗留车型，现已停售。",
+      "status": "discontinued",
+      "source_ids": ["s16", "s18"]
+    },
+    {
+      "name_en": "Dongfeng EX1",
+      "name_zh": "东风 EX1",
+      "role_en": "A0-class pure-electric car, the first model sold by the predecessor Dongchuang Zilian under the Dongfeng EV line.",
+      "role_zh": "A0 级纯电车型，前身东创紫联在东风 EV 新能源产品线下销售的首款产品。",
+      "price_band": null,
+      "founded": 2021,
+      "owner_note_en": "The predecessor business's first product, sold from 2021; a legacy model now discontinued.",
+      "owner_note_zh": "前身企业的首款产品，2021 年起销售；属遗留车型，现已停售。",
+      "status": "discontinued",
+      "source_ids": ["s18"]
+    },
+    {
+      "name_en": "eGT New Energy (joint venture)",
+      "name_zh": "易捷特新能源（合资公司）",
+      "role_en": "Joint venture of Dongfeng Motor Corporation (50%), Renault (25%) and Nissan (25%), formed in December 2017 (originally Dongfeng Nissan Renault New Energy Vehicle Co., Ltd.). Its small EVs were marketed domestically by Dongchuang Zilian, the Nammi predecessor.",
+      "role_zh": "东风公司（50%）、雷诺（25%）、日产（25%）合资公司，2017 年 12 月成立（原名东风日产雷诺新能源汽车有限公司）。其小型纯电车型由纳米前身东创紫联负责国内营销。",
+      "price_band": null,
+      "founded": 2017,
+      "owner_note_en": "Formed in December 2017 with Dongfeng at 50% and Renault and Nissan at 25% each; a predecessor-linked JV rather than a Nammi sub-brand.",
+      "owner_note_zh": "2017 年 12 月成立，东风持股 50%，雷诺、日产各 25%；属纳米前身相关的合资公司，非纳米子品牌。",
+      "status": "active",
+      "source_ids": ["s18"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "n/a",
+    "rows": [],
+    "note_en": "Dongfeng Nammi is a brand of Dongfeng Motor Group and does not separately disclose financial statements, so financials.rows is left empty. From 26 June 2025 the Nammi, eπ/Yipai and Fengshen brands were consolidated under Dongfeng Yipai Automotive Technology Co., Ltd. For the parent group's audited financials, see the Dongfeng Motor Group research (dongfeng). No profit figure is reported for the brand; where group figures exist they are attributable to the parent, not to the Nammi brand. This page does not constitute any trading recommendation.",
+    "note_zh": "东风纳米为东风汽车集团旗下品牌，不单独披露财务报表，故 financials.rows 为空。自 2025 年 6 月 26 日起，纳米与奕派（eπ）、风神三大品牌被整合进东风奕派汽车科技公司统一运营。母集团经审计财务数据见东风汽车集团深度研究（dongfeng）。品牌层面未披露利润数字；集团层面的净利润归属母公司股东，而非纳米品牌。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Dongfeng Nammi (东风纳米) is the small pure-electric passenger-vehicle brand of Dongfeng Motor Group, one of China's three central automotive state-owned enterprises. Dongfeng released the brand in Chengdu on 23 August 2023, positioning it as a 'national pure-electric professional brand' <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>; Hubei Daily described it as China's first national pure-electric professional brand <a href=\"https://news.hubeidaily.net/pc/c_1742403.html\">[s17]</a>. The predecessor was Dongchuang Zilian (Wuhan) New Energy Technology Co., Ltd., founded on 28 October 2020 to market Dongfeng's entry-level EVs; it was renamed Dongfeng Motor Nammi Technology Co., Ltd. in February 2023, and again to Dongfeng Passenger Vehicle Sales Co., Ltd. on 28 September 2023 <a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a><a href=\"https://www.jiemian.com/article/10190786.html\">[s21]</a>. Nammi targets the roughly RMB 50,000-100,000 small pure-electric segment and has launched two models, the Nammi 01 hatchback (January 2024) and the Nammi 06 SUV (May 2025) <a href=\"https://www.dfmc.com.cn/news/company/news_20240108_1025.html\">[s6]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>.</p><p>On 26 June 2025 Dongfeng consolidated Nammi, eπ/Yipai and Fengshen into a single company, Dongfeng Yipai Automotive Technology Co., Ltd., so the Nammi name now operates mainly as an economy-EV model line within Yipai Technology rather than as a separately run brand <a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>. In 2025 the two Nammi models together sold about 49,400 units, and the Nammi 01 passed 110,000 cumulative sales by year-end <a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a><a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>. In June 2026 the Nammi 06 sold 5,938 units in a single month and entered the top three of the new-energy small-SUV segment <a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>. This page studies the Nammi brand; the parent Dongfeng Motor Group and the merged Yipai Technology have separate deep dives.</p>",
+      "zh": "<p>东风纳米（Nammi）是中国三大汽车央企之一东风汽车集团有限公司旗下聚焦小型纯电市场的乘用车品牌。东风于 2023 年 8 月 23 日在成都发布该品牌，定位「国民纯电专业品牌」<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>；湖北日报称其为中国首个国民纯电专业品牌<a href=\"https://news.hubeidaily.net/pc/c_1742403.html\">[s17]</a>。品牌前身为 2020 年 10 月 28 日成立的东创紫联（武汉）新能源科技有限公司，负责东风入门级纯电车型的营销，2023 年 2 月更名为东风汽车纳米科技有限公司，同年 9 月 28 日又更名为东风乘用车销售有限公司<a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a><a href=\"https://www.jiemian.com/article/10190786.html\">[s21]</a>。纳米主攻约 5 万–10 万元级小型纯电市场，先后推出纳米 01（2024 年 1 月上市）与纳米 06（2025 年 5 月上市）两款车型<a href=\"https://www.dfmc.com.cn/news/company/news_20240108_1025.html\">[s6]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>。</p><p>2025 年 6 月 26 日，东风将纳米、奕派（eπ）、风神整合进东风奕派汽车科技公司统一运营，「纳米」自此更多作为奕派科技旗下的经济型纯电产品谱系存在，而非独立运营的品牌<a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>。2025 年，纳米两款车型合计销量约 4.94 万辆，其中纳米 01 累计销量至年底突破 11 万辆<a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a><a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>。2026 年 6 月，纳米 06 单月销量达 5,938 辆，跻身新能源小型 SUV 细分市场前三<a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>。本页为东风纳米这一品牌的研究，母集团东风汽车集团与整合后的奕派科技另有深度研究。</p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and integration</h3><p>Nammi's business is single-focus: the design, manufacture and sale of entry-level pure-electric passenger cars. Since 26 June 2025 the brand has been folded into Dongfeng Yipai Automotive Technology Co., Ltd. (Yipai Technology), which integrates the Yipai (eπ), Fengshen and Nammi brands across product planning, R&D, production, supply chain, sales and service <a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>. Under the 'Yipai upward, Fengshen renewed' positioning, Nammi is merged into Yipai as its economy pure-electric line, Yipai itself moves upmarket in cooperation with Huawei, and Fengshen focuses on energy-saving family cars; Yipai targets RMB 150,000-250,000 while Nammi covers RMB 60,000-100,000 <a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm\">[s20]</a>. The integration was preceded by Dongfeng's August 2023 'leap' (跃迁) reform, which placed the Fengshen, eπ/Yipai and Nammi brands under group-level integrated management of marketing and manufacturing <a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a><a href=\"https://news.hubeidaily.net/pc/c_1742403.html\">[s17]</a>.</p><p>Yipai Technology sold 275,752 vehicles in 2025 (up 28.3%), and in H1 2026 delivered 132,857 vehicles (up 21%, including 23,231 units in June 2026), with overseas sales up 186% <a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20260701/t20260701_527685166.shtml\">[s12]</a>. Within this, the Nammi 01 passed 110,000 cumulative sales by end-2025, and the Nammi 06 passed 4,000 monthly exports in December 2025 <a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>. The merged company rests its products on six technology bases - quantum architecture, Mach power, styling, perceived quality, Tianyuan cockpit and Tianyuan intelligent driving - and launched seven new models in 2025 <a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>.</p><h3>Products and models</h3><p>The Nammi line has two active models. The Nammi 01, a small pure-electric hatchback launched on 7 January 2024, is priced at RMB 74,800-104,800 at launch and offers 330 km / 430 km CLTC ranges <a href=\"https://www.dfmc.com.cn/news/company/news_20240108_1025.html\">[s6]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>. Its 2026 model launched on 16 October 2025 with eight versions and a limited-time renewal guide price of RMB 58,800-88,800 <a href=\"https://5gai.cctv.com/2025/10/17/ARTIa0KzrzOUSZej03FPHJgS251017.shtml\">[s24]</a>. The Nammi 06, a small pure-electric SUV, debuted in Beijing on 8 April 2025, opened pre-sale on 28 April at RMB 89,900-119,900 (11,601 orders in one hour), and launched on 27 May 2025 at a limited-time RMB 79,900-109,900 <a href=\"https://www.news.cn/auto/20250409/095d1e4beb814291b84ad42327972dd6/c.html\">[s13]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20250430_0931.html\">[s3]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>. In mid-2026 the Nammi 06 Smart Edition (智趣版) added the Tianyuan intelligent-driving T100 system with city NOA, a 2,715 mm wheelbase and a 471 km CLTC range; June 2026 single-month sales reached 5,938 units, ranking the model in the top three of the new-energy small-SUV segment <a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>.</p><p>Two predecessor models predate the brand. The predecessor Dongchuang Zilian went from zero to over 10,000 units in its first year (2021) and passed 35,000 units in 2022 <a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a>. The Dongfeng EX1, an A0-class pure-electric car, was its first product, and the Nammi BOX, a small pure-electric SUV launched on 17 July 2022, was the main 2022 driver <a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a><a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>. Both are now discontinued legacy models.</p><h3>Technology and platforms</h3><p>Nammi models are built on Dongfeng's self-developed Quantum Architecture; the Quantum Architecture 3 platform is dedicated to the small pure-electric market and, per the company, offers four advantages - extreme space, extreme safety, extreme efficiency and extreme intelligent control <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>. The Nammi 01 uses the Mach-E 'ten-in-one' electric drive with a hairpin motor across the range; Dongfeng said energy consumption is as low as 11 kWh per 100 km with 89% CLTC overall efficiency, and disclosed three technology reserves - in-wheel motors, solid-state batteries in demonstration operation, and mass-production-ready super-fast charging <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>. The Nammi 06 carries Dongfeng's 'Tianyuan intelligence' (Tianyuan intelligent driving and Tianyuan cockpit), a third-generation 'Zhihan' thermal-management system, 3C super-fast charging (about 100 km added in five minutes), and a Mach-E drive with a 92.7% high-efficiency ratio certified by CATARC as an 'efficiency star' <a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>. The Nammi 01 adds a 540° surround view and ACC adaptive cruise among eight mainstream driver-assistance functions <a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>. The 2026 Nammi 06 Smart Edition further equips an 8-megapixel inertial binocular camera, city and highway NOA, a Qualcomm Snapdragon 8155 cockpit chip with 8.8-inch instrument and 12.8-inch central screens, an electric split tailgate, and 3C fast charging up to 154 kW (30% to 80% in about 18 minutes) <a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>.</p><h3>Factory and capacity</h3><p>Nammi models are produced at Dongfeng's Nammi intelligent eco-factory in Xiangyang, Hubei, which grew out of a RMB 5.31 billion new-energy passenger-vehicle project signed by Dongfeng and Xiangyang in February 2023, with a planned annual capacity of 120,000 units <a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>. In H1 2025 the Xiangyang factory produced 28,580 units, of which 19,670 were for the domestic market and about 8,900 for export, against a full-year production target of 100,000 units <a href=\"https://etp.dfmc.com.cn/xydt/002002/20250710/1e59f2f0-1a90-4fed-9023-47762f1428e0.html\">[s9]</a>. Cumulative Nammi 01 production passed 100,000 units on 23 October 2025, with January-September 2025 output of 44,280 units, up 64.17% year on year <a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml\">[s10]</a>.</p><h3>Overseas business</h3><p>Exports extend a channel that began with the predecessor Nammi BOX, whose eGT-produced models were shipped to Europe and Latin America <a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>. The Nammi 01 has entered more than 40 countries and regions, with cumulative overseas sales above 24,000 units as of October 2025 <a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml\">[s10]</a>. The Nammi 06 exported more than 4,000 units in December 2025 alone <a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>, and its overseas version, sold as the Dongfeng VIGO, launched in San José, Costa Rica on 28 January 2026 with 270 terminal orders signed at the event <a href=\"https://www.dfmc.com.cn/news/company/news_20260128_1014.html\">[s8]</a>.</p>",
+      "zh": "<h3>业务结构与整合现状</h3><p>东风纳米业务高度聚焦，即入门级纯电乘用车的设计、制造与销售。自 2025 年 6 月 26 日起，品牌被并入东风奕派汽车科技公司（奕派科技），该公司将奕派（eπ）、风神、纳米三大品牌的商企、研发、生产、供应链、销售与服务全链条整合至同一主体<a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>。按「奕派向上、风神向新」的定位，纳米融入东风奕派成为其经济型纯电产品线，奕派自身携手华为进军中高端，风神专注节能家享市场；奕派主打 15 万–25 万元区间，纳米聚焦 6 万–10 万元区间<a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm\">[s20]</a>。这一整合的前奏是 2023 年 8 月东风实施的乘用车新能源「跃迁行动」，将风神、奕派（eπ）、纳米三大产品系列品牌纳入营销与制造的集团一体化管理<a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a><a href=\"https://news.hubeidaily.net/pc/c_1742403.html\">[s17]</a>。</p><p>奕派科技 2025 年销售 275,752 辆（同比增长 28.3%），2026 年上半年交付 132,857 辆（同比增长 21%，其中 6 月交付 23,231 辆），海外销量同比增长 186%<a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a><a href=\"https://www.cnr.cn/2013qcpd/cz/20260701/t20260701_527685166.shtml\">[s12]</a>。其中纳米 01 累计销量至 2025 年底突破 11 万辆，纳米 06 于 2025 年 12 月单月出口突破 4,000 辆<a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>。整合后的奕派科技以「量子架构、马赫动力、造型美学、感知品质、天元智舱、天元智驾」六大技术底座支撑产品，2025 年共推出 7 款新车型<a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>。</p><h3>产品与车型</h3><p>纳米产品线现有两款在售车型。纳米 01 为小型纯电两厢车，2024 年 1 月 7 日上市，上市价 7.48 万–10.48 万元，提供 330 km / 430 km 两种 CLTC 续航<a href=\"https://www.dfmc.com.cn/news/company/news_20240108_1025.html\">[s6]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>；其 2026 款于 2025 年 10 月 16 日上市，推出 8 款车型，限时焕新指导价 5.88 万–8.88 万元<a href=\"https://5gai.cctv.com/2025/10/17/ARTIa0KzrzOUSZej03FPHJgS251017.shtml\">[s24]</a>。纳米 06 为小型纯电 SUV，2025 年 4 月 8 日北京首秀，4 月 28 日以 8.99 万–11.99 万元开启预售（1 小时订单 11,601 辆），5 月 27 日以限时先享价 7.99 万–10.99 万元正式上市<a href=\"https://www.news.cn/auto/20250409/095d1e4beb814291b84ad42327972dd6/c.html\">[s13]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20250430_0931.html\">[s3]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>。2026 年年中，纳米 06「智趣版」推向市场，新增天元智驾 T100 城市 NOA、2715mm 轴距与 471km CLTC 续航；2026 年 6 月单月销量达 5,938 辆，跻身新能源小型 SUV 细分市场前三<a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>。</p><p>品牌诞生前还有两款遗留车型。前身东创紫联首年（2021 年）实现从 0 到破万辆，2022 年销量突破 3.5 万辆<a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a>。东风 EX1 为前身东创紫联销售的首款 A0 级纯电车型，纳米 BOX 为 2022 年 7 月 17 日上市的小型纯电 SUV，是东创紫联 2022 年的销量主力<a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a><a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>。二者现均已停售。</p><h3>技术与平台</h3><p>纳米车型基于东风自研的量子架构打造，其中针对小型纯电市场的是量子架构 3 号平台，官方称其具备「极致空间、极致安全、极致能效、极致智控」四大优势<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>。纳米 01 采用马赫E「十合一」电驱系统、全系扁线电机，官方称能耗低至百公里 11 千瓦时、CLTC 综合效率 89%；发布时东风还披露了平台的三大技术储备——轮毂电机、示范运营中的固态电池、成熟可量产的超级快充<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>。纳米 06 搭载东风「天元智能」技术——天元智驾与天元智舱，配备第三代「智焓」热管理系统、3C 超级快充（5 分钟约补能 100 公里）以及高能效占比 92.7% 的马赫E电驱，其马赫E电驱获中汽研「能效之星」认证<a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>。纳米 01 则配备 540° 环视系统与 ACC 自适应巡航等 8 种主流智能辅助驾驶功能<a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>。2026 款纳米 06 智趣版进一步配备 800 万像素惯导双目摄像头、城市与高速 NOA、高通骁龙 8155 芯片（8.8 英寸仪表 + 12.8 英寸中控）、电动天地门，以及最高 154kW 的 3C 快充（30% 充至 80% 约 18 分钟）<a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>。</p><h3>工厂与产能</h3><p>纳米车型产自湖北襄阳的东风纳米智能生态工厂，该工厂源于 2023 年 2 月东风与襄阳签署的总投资 53.1 亿元新能源乘用车项目，规划年产 12 万辆<a href=\"https://news.hubeidaily.net/pc/1137862.html\">[s16]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>。2025 年上半年襄阳工厂生产 28,580 辆，其中国产 19,670 辆、出口约 8,900 辆，对照全年 10 万辆的生产目标<a href=\"https://etp.dfmc.com.cn/xydt/002002/20250710/1e59f2f0-1a90-4fed-9023-47762f1428e0.html\">[s9]</a>。纳米 01 累计产量于 2025 年 10 月 23 日突破 10 万辆，2025 年 1–9 月产量 44,280 辆，同比增长 64.17%<a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml\">[s10]</a>。</p><h3>海外业务</h3><p>纳米出口延续了前身时期的渠道：纳米 BOX 时期易捷特生产车型即已出口欧洲、拉美<a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>。纳米 01 已进入全球 40 多个国家和地区，截至 2025 年 10 月海外累计销量超 2.4 万辆<a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml\">[s10]</a>。纳米 06 于 2025 年 12 月单月出口突破 4,000 辆<a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a>，其海外版「东风 VIGO」于 2026 年 1 月 28 日在哥斯达黎加首都圣何塞上市，活动现场达成 270 辆终端订单<a href=\"https://www.dfmc.com.cn/news/company/news_20260128_1014.html\">[s8]</a>。</p>"
+    },
+    "leadership": {
+      "en": "<h3>Founder</h3><p>Dongfeng Nammi has no private founder. It is a brand created by Dongfeng Motor Group, a central state-owned enterprise. Dongfeng group Party Standing Committee member and vice-president Chen Hao (陈昊) attended the August 2023 brand release and spoke for the brand's strategy <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>.</p><h3>Key management (as of 2026-10-29)</h3><ul><li><strong>Chen Hao (陈昊)</strong> - Dongfeng Motor Group Party Standing Committee member and vice-president, who spoke at the Nammi brand release on 23 August 2023 <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>.</li><li><strong>Chen Meng (陈萌)</strong> - general manager of Dongfeng Nammi at the August 2023 brand release, and recorded in January 2024 as general manager of the Nammi marketing business unit of Dongfeng Passenger Vehicle Sales Co., Ltd. As of 2026-10-29 no authoritative source confirms he still holds the role <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>.</li><li><strong>Yu Yuefeng (余岳峰)</strong> - deputy general manager of the Dongfeng Nammi marketing business unit, who introduced the Nammi 06 at its Beijing debut on 8 April 2025 <a href=\"https://www.news.cn/auto/20250409/095d1e4beb814291b84ad42327972dd6/c.html\">[s13]</a>.</li><li><strong>Wang Junjun (汪俊君)</strong> - general manager of Dongfeng Yipai Automotive Technology Co., Ltd., the company into which Nammi was merged after its 26 June 2025 establishment <a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm\">[s20]</a>.</li><li><strong>Zhang Jun (张俊)</strong> - Party secretary and deputy general manager of Dongfeng Yipai Automotive Technology Co., Ltd. <a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm\">[s20]</a>.</li></ul><h3>Ownership and governance</h3><p>No 'controlling shareholder' is separately determined for the brand in public filings. The original operating entity Dongchuang Zilian was renamed Dongfeng Motor Nammi Technology Co., Ltd. in February 2023 and again to Dongfeng Passenger Vehicle Sales Co., Ltd. on 28 September 2023, and is directly wholly owned by Dongfeng Motor Group Co., Ltd. (0489.HK) <a href=\"https://www.jiemian.com/article/10190786.html\">[s21]</a>. The Xiangyang production entity Dongfeng Motor Nammi Technology (Xiangyang) Co., Ltd. was set up around January 2023 with registered capital of RMB 500 million and is indirectly wholly owned by the group <a href=\"https://www.jiemian.com/article/8774588.html\">[s22]</a>. The ultimate controller is Dongfeng Motor Corporation (东风汽车集团有限公司), a central state-owned enterprise supervised by SASAC <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>.</p>",
+      "zh": "<h3>创始人</h3><p>东风纳米无民营意义上的单一创始人，是中央企业东风汽车集团打造的品牌。东风集团党委常委、副总经理陈昊出席 2023 年 8 月品牌发布会并致辞<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>。</p><h3>现任核心管理层（截至 2026-10-29）</h3><ul><li><strong>陈昊</strong>——东风汽车集团党委常委、副总经理，2023 年 8 月 23 日出席纳米品牌发布会并致辞<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>。</li><li><strong>陈萌</strong>——2023 年 8 月品牌发布时为东风纳米总经理；2024 年 1 月公开活动职务为「东风乘用车销售有限公司东风纳米营销事业部总经理」。截至 2026-10-29，未见权威来源确认其仍担任该职<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240109_1019.html\">[s7]</a>。</li><li><strong>余岳峰</strong>——东风纳米营销事业部副总经理，2025 年 4 月 8 日北京首秀介绍纳米 06<a href=\"https://www.news.cn/auto/20250409/095d1e4beb814291b84ad42327972dd6/c.html\">[s13]</a>。</li><li><strong>汪俊君</strong>——东风奕派汽车科技公司总经理（2025 年 6 月 26 日奕派科技成立后，纳米并入该公司）<a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a><a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm\">[s20]</a>。</li><li><strong>张俊</strong>——东风奕派汽车科技公司党委书记、副总经理<a href=\"https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm\">[s20]</a>。</li></ul><h3>股权与治理</h3><p>品牌层面未在公告中单独认定「控股股东」。原运营主体东创紫联于 2023 年 2 月更名为东风汽车纳米科技有限公司，同年 9 月 28 日再更名为东风乘用车销售有限公司，由东风汽车集团股份有限公司（0489.HK）直接全资持股<a href=\"https://www.jiemian.com/article/10190786.html\">[s21]</a>。襄阳生产主体东风汽车纳米科技（襄阳）有限公司于 2023 年 1 月前后成立，注册资本 5 亿元，由集团间接全资控股<a href=\"https://www.jiemian.com/article/8774588.html\">[s22]</a>。最终控制方为国务院国资委监管的中央企业东风汽车集团有限公司<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a>。</p>"
+    },
+    "competition": {
+      "en": "<h3>Competitive position: our assessment</h3><p>Our assessment: Nammi operates in China's fiercely contested small pure-electric market, where the leaders are the BYD Seagull and Dolphin, the Wuling Bingo and the Geely Xingyuan, joined by the ORA Good Cat and others. With combined 2025 sales of about 49,400 units across its two models, Nammi's scale is a fraction of the segment leaders' <a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a>. This judgment rests on the sales figures cited above and on the segment's price band of roughly RMB 50,000-100,000, where the Nammi 01 and Nammi 06 are priced <a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>.</p><p>Our assessment: the Nammi 06's June 2026 single-month sales of 5,938 units, which entered the top three of the new-energy small-SUV segment, shows the brand can gain ground when it pushes advanced driving-assistance into the RMB 100,000 class <a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>. However, this is one model in one month, and the brand's overall domestic retail base remains small relative to the segment leaders <a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a>.</p><h3>Strengths and constraints: our assessment</h3><p>Our assessment: Nammi's strengths are the manufacturing, engineering and supply-chain resources of a central SOE parent, a self-developed platform (Quantum Architecture 3) and powertrain (Mach-E), the Tianyuan intelligent system carried on the Nammi 06, and an export channel built from the predecessor's Nammi BOX in Europe <a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a><a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>. Its constraints are a narrow two-model line-up in a low-margin segment, modest volume relative to the leaders, and reduced brand independence after being merged into Yipai Technology - the 'Nammi' name now exists mainly as a model line rather than a separately run brand <a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>. The brand's earlier target of 400,000 units by 2025 was not met; the two Nammi models together sold well below that level in 2025 <a href=\"https://news.hubeidaily.net/pc/1183087.html\">[s15]</a><a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a>.</p>",
+      "zh": "<h3>竞争地位：我们的判断</h3><p>我们的判断：东风纳米所处的中国小型纯电市场，头部玩家为比亚迪海鸥、海豚，五菱缤果，吉利星愿，另有欧拉好猫等。纳米两款车型 2025 年销量合计约 4.94 万辆，规模与细分市场头部车型相比差距明显<a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a>。上述判断依据为前述销量数据，以及该细分市场约 5 万–10 万元的价格带——纳米 01 与纳米 06 均定价于此区间<a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a>。</p><p>我们的判断：纳米 06 于 2026 年 6 月实现单月销量 5,938 辆、跻身新能源小型 SUV 细分市场前三，显示品牌把高阶智驾下放到十万元级价位时能够获得市场增量<a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>。但这只是单一车型的月度表现，品牌整体国内零售基数相对细分市场头部仍偏小<a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a>。</p><h3>优势与约束：我们的判断</h3><p>我们的判断：东风纳米的优势在于央企母集团的制造、工程与供应链资源，自研的量子架构 3 号平台与马赫E动力，纳米 06 搭载的天元智能系统，以及从前身纳米 BOX 欧洲出口延续而来的海外渠道<a href=\"https://www.dfmc.com.cn/news/company/news_20230824_1501.html\">[s1]</a><a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>。其约束在于仅两款在售车型、身处低毛利细分市场，规模相对头部偏小，且并入奕派科技后品牌独立性下降——「纳米」如今更多作为车型谱系存在，而非独立运营的品牌<a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>。品牌早期提出的 2025 年销量 40 万辆目标未达成，2025 年纳米两款车型合计销量明显低于该水平<a href=\"https://news.hubeidaily.net/pc/1183087.html\">[s15]</a><a href=\"https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9\">[s23]</a>。</p>"
+    },
+    "outlook": {
+      "en": "<h3>Company plans</h3><p>At its 2023 partner conference, Dongfeng Nammi announced a plan to launch one to two new models a year and to exceed 400,000 units of sales by 2025, with the aim of leading the small pure-electric market <a href=\"https://news.hubeidaily.net/pc/1183087.html\">[s15]</a>. These are stated plans, and the 400,000-unit target was not achieved. The company also said in April 2025 that it expected 2025 Nammi 01 exports to jump to about 30,000 units <a href=\"https://www.dfmc.com.cn/news/company/news_20250421_1051.html\">[s5]</a>. After the integration, forward-looking statements are made at the Yipai Technology level: Yipai plans six all-new models in 2026, longer-range solid-state batteries to enter volume production in 2026, and the Tianyuan T500 'parking-space-to-parking-space' pilot system, with an annual sales target of 1.5 million units (1 million for Yipai, 500,000 for Fengshen) <a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>. Dongfeng has said the Nammi 01 has already reached more than 40 countries and regions <a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml\">[s10]</a>. On the product side, Yipai is iterating the Nammi 06 through the Smart Edition (智趣版), which brings the Tianyuan T100 city-NOA system into the RMB 100,000 class <a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>.</p><h3>Our analysis</h3><p>Our assessment: the Nammi brand's trajectory has effectively converged with Yipai Technology, so its future depends on how the merged company deploys the economy EV line against BYD and Wuling in a price-war segment. The near-term question is whether Nammi 01 and Nammi 06 exports can keep scaling - the December 2025 single-month export of over 4,000 Nammi 06 units and the January 2026 VIGO launch in Costa Rica are early, positive signals, but the base is small <a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20260128_1014.html\">[s8]</a>. The June 2026 Nammi 06 sales jump to 5,938 units, driven by the Smart Edition, is another early signal that advanced driver-assistance can revive demand in the segment, but a single monthly figure does not yet establish a trend <a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>. A separate risk is that, as an entry brand merged into a larger unit, Nammi's product identity could be diluted while it carries the low-margin end of the portfolio <a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>. These judgments rest on the sales, product and integration facts cited above.</p>",
+      "zh": "<h3>公司公开规划</h3><p>在 2023 年伙伴大会上，东风纳米宣布每年上市 1 至 2 款新车型、到 2025 年销量突破 40 万辆的目标，并确立「小型纯电动市场领导者」愿景<a href=\"https://news.hubeidaily.net/pc/1183087.html\">[s15]</a>。以上为公司规划表述，其中 40 万辆目标未达成。公司还曾于 2025 年 4 月预计当年纳米 01 出口量跃升至 3 万辆<a href=\"https://www.dfmc.com.cn/news/company/news_20250421_1051.html\">[s5]</a>。整合后，前瞻性规划主要由奕派科技层面发布：奕派科技计划 2026 年推出 6 款全新车型、更长续航固态电池 2026 年量产装车、搭载「车位到车位」全程领航的天元 T500 系统，并设定 150 万辆年度销量目标（奕派 100 万辆、风神 50 万辆）<a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>。东风方面称纳米 01 已进入全球 40 多个国家和地区<a href=\"https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml\">[s10]</a>。产品层面，奕派正通过纳米 06「智趣版」把天元智驾 T100 城市 NOA 引入十万元级价位<a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>。</p><h3>我们的分析</h3><p>我们的判断：东风纳米的品牌轨迹实际上已与奕派科技合流，其未来取决于合并后的公司如何在价格战激烈的小型纯电市场，以经济型产品线对抗比亚迪与五菱。近期看点在于纳米 01、纳米 06 的出口能否持续放量——2025 年 12 月纳米 06 单月出口破 4,000 辆、2026 年 1 月 VIGO 在哥斯达黎加上市是积极但基数仍小的信号<a href=\"https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml\">[s11]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20260128_1014.html\">[s8]</a>。2026 年 6 月纳米 06 在智趣版带动下单月销量升至 5,938 辆，是高阶智驾拉动细分市场需求的又一早期信号，但单月数据尚不足以确立趋势<a href=\"https://news.hubeidaily.net/pc/c_5741392.html\">[s25]</a>。另一风险在于，作为并入更大主体的入门品牌，纳米在承担组合中低毛利一端的同时，产品身份可能被稀释<a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>。上述判断依据为前述销量、产品与整合相关事实。</p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Intense price competition in the small EV segment:</strong> Nammi competes directly with the BYD Seagull/Dolphin, Wuling Bingo and Geely Xingyuan in a RMB 50,000-100,000 band where price cuts are common; the Nammi 01's entry price was lowered over successive model years (limited-time RMB 58,800-88,800 for the 2026 model versus RMB 74,800-104,800 at launch) <a href=\"https://5gai.cctv.com/2025/10/17/ARTIa0KzrzOUSZej03FPHJgS251017.shtml\">[s24]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240108_1025.html\">[s6]</a>.</li><li><strong>Low margin and narrow line-up:</strong> the brand has only two active models in a low-margin segment, concentrating its exposure <a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>.</li><li><strong>Reduced brand independence:</strong> since the June 2025 integration, Nammi operates within Yipai Technology and its products are counted in Yipai Technology's figures, so brand-level performance is no longer separately reported <a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a>.</li><li><strong>Overseas trade-policy and execution risk:</strong> exports to Europe and the Americas are exposed to tariffs, certification and localisation requirements, and the overseas network is still young (the first Central America launch was in January 2026) <a href=\"https://www.dfmc.com.cn/news/company/news_20260128_1014.html\">[s8]</a>.</li><li><strong>Dependence on the parent group:</strong> Nammi relies on Dongfeng for platforms, manufacturing and capital, and does not separately disclose financials, limiting external visibility into its standalone economics <a href=\"https://www.jiemian.com/article/8774588.html\">[s22]</a><a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>.</li></ul>",
+      "zh": "<ul><li><strong>小型纯电市场价格竞争激烈：</strong>纳米直接对标比亚迪海鸥/海豚、五菱缤果、吉利星愿等，处于 5 万–10 万元价格带、价格战频发；纳米 01 的起售价随年款下调（2026 款限时焕新价 5.88 万–8.88 万元，低于上市时的 7.48 万–10.48 万元）<a href=\"https://5gai.cctv.com/2025/10/17/ARTIa0KzrzOUSZej03FPHJgS251017.shtml\">[s24]</a><a href=\"https://www.dfmc.com.cn/news/company/news_20240108_1025.html\">[s6]</a>。</li><li><strong>毛利低、产品线单一：</strong>品牌仅两款在售车型，处于低毛利细分市场，经营暴露集中<a href=\"https://www.dfmc.com.cn/news/company/news_20250528_1046.html\">[s2]</a><a href=\"https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml\">[s19]</a>。</li><li><strong>品牌独立性下降：</strong>2025 年 6 月整合后，纳米并入奕派科技运营、销量计入奕派科技口径，品牌层面业绩不再单独披露<a href=\"https://www.dfmc.com.cn/news/company/news_20250811_1149.html\">[s4]</a>。</li><li><strong>海外贸易政策与执行风险：</strong>对欧洲、美洲的出口面临关税、认证与属地化要求，且海外网络仍处早期（中美洲首次上市在 2026 年 1 月）<a href=\"https://www.dfmc.com.cn/news/company/news_20260128_1014.html\">[s8]</a>。</li><li><strong>对母公司依赖：</strong>纳米在平台、制造与资金上依赖东风，且不单独披露财务，外界难以评估其独立经营状况<a href=\"https://www.jiemian.com/article/8774588.html\">[s22]</a><a href=\"https://auto.youth.cn/xw/202308/t20230818_14727167.htm\">[s18]</a>。</li></ul>"
+    }
+  },
+  "sources": [
+    { "id": "s1", "name": "东风汽车集团官网：国民纯电专业品牌东风纳米正式发布（品牌定位、量子架构3号平台四大优势、陈昊/陈萌）", "url": "https://www.dfmc.com.cn/news/company/news_20230824_1501.html", "date": "2023-08-24", "tier": "A" },
+    { "id": "s2", "name": "东风汽车集团官网：东风纳米06上市并开启交付（限时先享价7.99万起、天元智能、马赫E、3C快充、能效之星92.7%）", "url": "https://www.dfmc.com.cn/news/company/news_20250528_1046.html", "date": "2025-05-28", "tier": "A" },
+    { "id": "s3", "name": "东风汽车集团官网：1小时订单破万 东风纳米06开启预售（预售8.99-11.99万元、1小时订单11601辆）", "url": "https://www.dfmc.com.cn/news/company/news_20250430_0931.html", "date": "2025-04-30", "tier": "A" },
+    { "id": "s4", "name": "东风汽车集团官网：奕派科技发布「未来之翼」战略（2025-06-26 成立奕派科技整合三品牌、汪俊君）", "url": "https://www.dfmc.com.cn/news/company/news_20250811_1149.html", "date": "2025-08-11", "tier": "A" },
+    { "id": "s5", "name": "东风汽车集团官网：海外华文媒体探访东风纳米襄阳工厂（2025 纳米01出口预计3万辆）", "url": "https://www.dfmc.com.cn/news/company/news_20250421_1051.html", "date": "2025-04-21", "tier": "A" },
+    { "id": "s6", "name": "东风汽车集团官网：东风纳米01下线并正式上市（2024-01-07 上市、售价7.48-10.48万元）", "url": "https://www.dfmc.com.cn/news/company/news_20240108_1025.html", "date": "2024-01-08", "tier": "A" },
+    { "id": "s7", "name": "东风汽车集团官网：「颜智」双高 东风纳米01在襄阳出街（330/430续航、陈萌为东风乘用车销售有限公司东风纳米营销事业部总经理、襄阳工厂规划12万辆）", "url": "https://www.dfmc.com.cn/news/company/news_20240109_1019.html", "date": "2024-01-09", "tier": "A" },
+    { "id": "s8", "name": "东风汽车集团官网：东风纳米06海外版在哥斯达黎加上市（东风VIGO、270辆终端订单）", "url": "https://www.dfmc.com.cn/news/company/news_20260128_1014.html", "date": "2026-01-28", "tier": "A" },
+    { "id": "s9", "name": "东风公司采购招投标平台：东风纳米襄阳工厂产销两旺（2025H1 生产28580台、国产19670台、出口约8900台、全年10万台目标）", "url": "https://etp.dfmc.com.cn/xydt/002002/20250710/1e59f2f0-1a90-4fed-9023-47762f1428e0.html", "date": "2025-07-10", "tier": "A" },
+    { "id": "s10", "name": "湖北省经济和信息化厅：10万辆！东风奕派纳米01下线（纳米01累计产量破10万、1-9月产量44280辆+64.17%、出口40余国、海外总销量超2.4万）", "url": "https://jxt.hubei.gov.cn/bmdt/rdjj/202510/t20251028_5799281.shtml", "date": "2025-10-28", "tier": "A" },
+    { "id": "s11", "name": "央广网：全年持续正增长，奕派科技2025年销售275752辆（+28.3%、纳米01累计破11万、纳米06 12月出口破4000、2026固态电池/天元T500/6款新车）", "url": "https://auto.cnr.cn/hy/20260101/t20260101_527480018.shtml", "date": "2026-01-01", "tier": "B" },
+    { "id": "s12", "name": "央广网：奕派科技6月交付23231辆 上半年累计交付同比增长21%（H1 132857辆、海外+186%）", "url": "https://www.cnr.cn/2013qcpd/cz/20260701/t20260701_527685166.shtml", "date": "2026-07-01", "tier": "B" },
+    { "id": "s13", "name": "新华网：东风纳米全球战略最新力作 纳米06迎来全球首秀（2025-04-08 北京首秀、余岳峰为纳米营销事业部副总经理）", "url": "https://www.news.cn/auto/20250409/095d1e4beb814291b84ad42327972dd6/c.html", "date": "2025-04-09", "tier": "B" },
+    { "id": "s14", "name": "新华网：专注打造国民品牌 东风纳米成东风智电转型关键一步（品牌发布）", "url": "https://www.news.cn/auto/20230828/feb350fdbde1477da7aa6ec6d0fb6892/c.html", "date": "2023-08-28", "tier": "B" },
+    { "id": "s15", "name": "湖北日报：深耕小型纯电动市场 东风纳米确立2025年销量目标：突破40万辆（伙伴大会、40万目标）", "url": "https://news.hubeidaily.net/pc/1183087.html", "date": "2023-03-29", "tier": "B" },
+    { "id": "s16", "name": "湖北日报：新「鲶鱼」搅动「小微风」 新能源车驶上细分新赛道（更名、注册资本8.9亿/18亿、53.1亿襄阳项目、S3平台）", "url": "https://news.hubeidaily.net/pc/1137862.html", "date": "2023-02-28", "tier": "B" },
+    { "id": "s17", "name": "湖北日报：东风公司新能源「跃迁」再提速 发布中国首个国民纯电专业品牌（中国首个国民纯电专业品牌、2025年40万辆）", "url": "https://news.hubeidaily.net/pc/c_1742403.html", "date": "2023-08-24", "tier": "B" },
+    { "id": "s18", "name": "中国青年网：东风公司自主新能源大调整 由总部一体化管理三个品牌（易捷特合资沿革、东创紫联、纳米BOX/易捷特车型出口欧洲拉美）", "url": "https://auto.youth.cn/xw/202308/t20230818_14727167.htm", "date": "2023-08-18", "tier": "B" },
+    { "id": "s19", "name": "中国经济网：三大品牌「握拳」整合 东风奕派科技发布新战略（奕派向上/风神向新、150万辆目标=奕派100万+风神50万、6月26日整合）", "url": "https://www.ce.cn/xwzx/kj/202508/t20250815_2443357.shtml", "date": "2025-08-15", "tier": "B" },
+    { "id": "s20", "name": "中国证券报：东风汽车整合三大自主品牌（8月1日宣布整合、汪俊君总经理、张俊党委书记副总经理、纳米6-10万元区间）", "url": "https://epaper.cs.com.cn/zgzqb/html/2025-08/05/nw.D110000zgzqb_20250805_2-A06.htm", "date": "2025-08-05", "tier": "B" },
+    { "id": "s21", "name": "界面新闻：东风汽车纳米科技公司更名为东风乘用车销售公司（2023-09-28 更名、18亿、东风集团股份全资）", "url": "https://www.jiemian.com/article/10190786.html", "date": "2023-10-07", "tier": "B" },
+    { "id": "s22", "name": "界面新闻：东风汽车5亿元成立纳米科技公司（东风汽车纳米科技(襄阳)有限公司、陈萌法人、间接全资控股）", "url": "https://www.jiemian.com/article/8774588.html", "date": "2023-01-18", "tier": "B" },
+    { "id": "s23", "name": "湖北诚源汽车部件股份有限公司审核问询回复（新三板披露：纳米01 2024/2025销量、纳米06 2025销量）", "url": "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202607231827294248&pageIndex=9", "date": "2026-07-23", "tier": "B" },
+    { "id": "s24", "name": "央视网：东风奕派双车焕新 2026款纳米01、eπ008五座版联袂上市（2025-10-16 上市、8款、限时焕新指导价5.88-8.88万元）", "url": "https://5gai.cctv.com/2025/10/17/ARTIa0KzrzOUSZej03FPHJgS251017.shtml", "date": "2025-10-17", "tier": "B" },
+    { "id": "s25", "name": "湖北日报：东风奕派纳米06销量大幅攀升 稳居细分市场前三（纳米06智趣版、天元智驾T100城市NOA、2715mm轴距、471km CLTC、3C快充154kW、6月销量5938台）", "url": "https://news.hubeidaily.net/pc/c_5741392.html", "date": "2026-07-11", "tier": "B" }
+  ]
+}

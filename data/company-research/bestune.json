@@ -1,0 +1,570 @@
+{
+  "id": "bestune",
+  "name_en": "Bestune (FAW)",
+  "name_zh": "奔腾（中国一汽）",
+  "as_of": "2026-10-29",
+  "ai_generated": true,
+  "key_facts": [
+    {
+      "label_en": "Brand established",
+      "label_zh": "品牌创立",
+      "value_en": "2006-05-18 (first model Bestune B70 launched 2006-08)",
+      "value_zh": "2006 年 5 月 18 日（首款车型奔腾 B70 于 2006 年 8 月上市）",
+      "period": null,
+      "source_ids": ["s9", "s18"]
+    },
+    {
+      "label_en": "Parent group",
+      "label_zh": "所属集团",
+      "value_en": "China FAW Group Co., Ltd. (中国一汽)",
+      "value_zh": "中国第一汽车集团有限公司（中国一汽）",
+      "period": null,
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "label_en": "Operating entity",
+      "label_zh": "运营主体",
+      "value_en": "FAW Bestune Automobile Co., Ltd. (一汽奔腾汽车股份有限公司), renamed from FAW Bestune Car Co., Ltd. in March 2024",
+      "value_zh": "一汽奔腾汽车股份有限公司（2024 年 3 月由一汽奔腾轿车有限公司更名）",
+      "period": null,
+      "source_ids": ["s10", "s3"]
+    },
+    {
+      "label_en": "Headquarters",
+      "label_zh": "总部",
+      "value_en": "Changchun, Jilin, China",
+      "value_zh": "中国吉林省长春市",
+      "period": null,
+      "source_ids": ["s2"]
+    },
+    {
+      "label_en": "Ownership",
+      "label_zh": "所有制",
+      "value_en": "State-owned (a brand of the central state-owned China FAW Group; equity diversified since 2023–2025)",
+      "value_zh": "国有（中央企业中国一汽旗下品牌；2023–2025 年完成股权多元化）",
+      "period": null,
+      "source_ids": ["s2", "s3", "s10"]
+    },
+    {
+      "label_en": "Controlling shareholder",
+      "label_zh": "控股股东及持股",
+      "value_en": "China FAW (via FAW Co., Ltd. and FAW Equity Investment) held 79.0394% after the September 2025 capital increase",
+      "value_zh": "2025 年 9 月增资后，中国一汽（一汽股份及一汽股权投资）合计持股 79.0394%",
+      "period": "2025-09",
+      "source_ids": ["s3", "s10", "s11"]
+    },
+    {
+      "label_en": "Listing",
+      "label_zh": "上市",
+      "value_en": "Not separately listed; previously part of the listed FAW Car (000800.SZ) until the 2019–2020 restructuring",
+      "value_zh": "未单独上市；2019–2020 年重组前曾隶属上市公司一汽轿车（000800.SZ）",
+      "period": null,
+      "source_ids": ["s10", "s20"]
+    },
+    {
+      "label_en": "Revenue / net profit",
+      "label_zh": "营收 / 净利润",
+      "value_en": "Not separately disclosed (unlisted brand)",
+      "value_zh": "未单独披露（未上市品牌）",
+      "period": null,
+      "source_ids": ["s1"]
+    },
+    {
+      "label_en": "Vehicle sales (FY2025)",
+      "label_zh": "最近财年销量",
+      "value_en": "200,017 units (+33% YoY), of which NEVs 171,957 (+107% YoY), NEV penetration above 85%",
+      "value_zh": "200,017 辆（同比 +33%），其中新能源 171,957 辆（同比 +107%），新能源渗透率超 85%",
+      "period": "2025",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "label_en": "Vehicle sales (H1 2026)",
+      "label_zh": "2026 年上半年销量",
+      "value_en": "About 87,000 units (NEVs about 72,000), group-reported basis; domestic retail about 39,000 per CPCA-linked media",
+      "value_zh": "约 8.7 万辆（其中新能源约 7.2 万辆，集团披露口径）；媒体引乘联分会数据称国内零售约 3.9 万辆",
+      "period": "2026 H1",
+      "source_ids": ["s20", "s22"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2006-05-18",
+      "event_en": "The Bestune brand makes its first appearance as a self-owned passenger-car brand of FAW Car, positioned alongside Hongqi.",
+      "event_zh": "奔腾品牌首次亮相，作为一汽轿车旗下与红旗并列的自主乘用车品牌。",
+      "source_ids": ["s9", "s18"]
+    },
+    {
+      "date": "2006-08",
+      "event_en": "The first model, the Bestune B70 mid-size sedan, goes on sale, developed on the Mazda 6 platform and marking FAW's return to self-owned passenger cars.",
+      "event_zh": "首款车型奔腾 B70 中高级轿车上市，基于马自达 6 平台开发，标志一汽自主轿车复兴的开端。",
+      "source_ids": ["s9", "s18"]
+    },
+    {
+      "date": "2009-05-16",
+      "event_en": "The Bestune B50 compact sedan is launched in Beijing with five trims priced from RMB 98,800 to 125,800, ending the brand's single-model phase.",
+      "event_zh": "奔腾 B50 紧凑型轿车在北京上市，五款车型售价 98,800–125,800 元，结束品牌单一车型的历史。",
+      "source_ids": ["s26"]
+    },
+    {
+      "date": "2010",
+      "event_en": "Bestune annual sales surpass 130,000 vehicles (about 132,000), becoming one of the few self-owned brands with scale in the mid-to-high-end segment.",
+      "event_zh": "奔腾年销量突破 13 万辆（约 13.2 万辆），成为当时中高端车市中少数实现规模化的自主品牌。",
+      "source_ids": ["s18"]
+    },
+    {
+      "date": "2017-09",
+      "event_en": "FAW integrates the passenger-car resources of FAW Car, FAW Jilin and Tianjin FAW into a new Bestune business unit (奔腾事业本部), per media reporting.",
+      "event_zh": "据媒体报道，一汽整合旗下一汽轿车、一汽吉林、天津一汽的资源，成立奔腾事业本部。",
+      "source_ids": ["s25"]
+    },
+    {
+      "date": "2018-10-17",
+      "event_en": "FAW launches the 'New Bestune' strategy in Tengchong, Yunnan, adopts the 'Window of the World' logo, and opens pre-sale of the T77 SUV at RMB 100,000–140,000.",
+      "event_zh": "一汽在云南腾冲发布「新奔腾」品牌战略，启用「世界之窗」标识，并开启奔腾 T77 预售（10 万–14 万元）。",
+      "source_ids": ["s16", "s17"]
+    },
+    {
+      "date": "2019-03",
+      "event_en": "FAW abolished the Bestune business unit set up in 2017, along with the Jiefang business unit. A Daily Economic News report on 8 March 2019 said an internal notice put Jiefang, the car company and FAW-GM under direct headquarters management, and gave no reason. The unit therefore did not continue into the later asset restructuring.",
+      "event_zh": "一汽撤销 2017 年设立的奔腾事业本部，并同时撤销解放事业本部。每日经济新闻 2019 年 3 月 8 日报道，内部通知规定由总部直接管理解放公司、轿车公司、一汽通用公司，未写明撤销原因。该本部并未延续到此后的资产重组。",
+      "source_ids": ["s37"]
+    },
+    {
+      "date": "2019",
+      "event_en": "FAW Car begins a major asset restructuring under which the Bestune passenger-car business is carved out as an independent entity, FAW Bestune Car Co., Ltd.",
+      "event_zh": "一汽轿车启动重大资产重组，奔腾乘用车业务从中剥离，独立为一汽奔腾轿车有限公司。",
+      "source_ids": ["s10", "s20"]
+    },
+    {
+      "date": "2020",
+      "event_en": "The listed FAW Car completes the restructuring, brings in FAW Jiefang and is renamed FAW Jiefang Group (000800.SZ); Bestune is no longer part of the listed entity.",
+      "event_zh": "上市公司一汽轿车完成重组，置入一汽解放并更名为一汽解放集团（000800.SZ），奔腾不再属于上市主体。",
+      "source_ids": ["s20"]
+    },
+    {
+      "date": "2020-09-26",
+      "event_en": "The Bestune E01, the brand's first passenger EV (a mid-size SUV in the E series), is launched at the Beijing Auto Show at a post-subsidy price of RMB 196,800–228,800.",
+      "event_zh": "奔腾 E01 于北京车展上市，为品牌新能源 E 系列首款产品（中型 SUV），补贴后售价 19.68 万–22.88 万元。",
+      "source_ids": ["s27"]
+    },
+    {
+      "date": "2023-04-18",
+      "event_en": "At the Shanghai Auto Show, Bestune launches the M9 MPV (RMB 229,800 and 249,800) and first shows the T90 SUV and the Xiaoma A00 EV.",
+      "event_zh": "上海车展期间，奔腾 M9 上市（22.98 万元、24.98 万元），并首发亮相 T90 SUV 与 A00 级纯电车型奔腾小马。",
+      "source_ids": ["s33"]
+    },
+    {
+      "date": "2023-10",
+      "event_en": "In a FAW personnel reshuffle, Yang Xiao becomes Bestune chairman and Kong Dejun, previously heading FAW's supply-procurement work, becomes general manager and deputy party secretary.",
+      "event_zh": "一汽人事调整中，杨虓出任奔腾董事长，此前主持供应采购部工作的孔德军升任总经理、党委副书记。",
+      "source_ids": ["s30"]
+    },
+    {
+      "date": "2024-03-28",
+      "event_en": "The entity completes its joint-stock reform and is renamed FAW Bestune Automobile Co., Ltd.",
+      "event_zh": "完成股份制改革，由「一汽奔腾轿车有限公司」更名为「一汽奔腾汽车股份有限公司」。",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2024-05",
+      "event_en": "FAW's Yancheng branch starts production; the first model off the line, the Bestune Xiaoma mini EV, launches on 28 May 2024 at RMB 26,900, 29,900 and 31,900.",
+      "event_zh": "中国一汽盐城分公司投产，首款量产车型奔腾小马微型电动车下线，并于 2024 年 5 月 28 日上市，三款售价 2.69 万元、2.99 万元、3.19 万元。",
+      "source_ids": ["s10", "s34"]
+    },
+    {
+      "date": "2025-02-25",
+      "event_en": "Bestune holds its first 'Yueyi Tech Day' in Shanghai, unveiling the Yueying platform, Zhuri powertrain and Ruyi cockpit technology cluster.",
+      "event_zh": "一汽奔腾悦意科技日在上海举行，发布越影平台、逐日动力、如意座舱等技术集群。",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2025-03-27",
+      "event_en": "Bestune formally launches the Yueyi NEV series and its first model, the Yueyi 03 pure-electric SUV, at a limited-time price of RMB 92,900–117,900.",
+      "event_zh": "奔腾正式发布「悦意」新能源序列及首款车型悦意 03 纯电 SUV，5 款车型限时售价 9.29 万–11.79 万元。",
+      "source_ids": ["s32"]
+    },
+    {
+      "date": "2025-04",
+      "event_en": "Liu Zhongchen, previously FAW's general counsel, chief compliance officer and head of audit and legal affairs, becomes Bestune chairman; Yang Xiao is transferred to Harbin Electric Corporation.",
+      "event_zh": "原中国一汽总法律顾问兼首席合规官兼审计与法务部总经理刘忠忱接任奔腾董事长，杨虓调任哈尔滨电气集团。",
+      "source_ids": ["s29"]
+    },
+    {
+      "date": "2025-05-26",
+      "event_en": "The Yueyi 07, the Yueyi P-series first super-hybrid SUV, is launched at an official guide price from RMB 99,800.",
+      "event_zh": "悦意 07（悦意 P 系列首款超级电混 SUV）上市，上市指导价 9.98 万元起。",
+      "source_ids": ["s31"]
+    },
+    {
+      "date": "2025-09-06",
+      "event_en": "Bestune completes an equity-diversification reform, raising RMB 8.55 billion in total. Four outside investors contributed RMB 3.31 billion (Yueda Auto RMB 1.71 billion, ABC Financial Asset Investment RMB 1.0 billion, China Telecom RMB 500 million, Nanjing Horizon RMB 100 million). The controlling shareholder, China FAW Co., Ltd., contributed a further RMB 5.24 billion.",
+      "event_zh": "一汽奔腾完成股权多元化改革，共募集资金 85.5 亿元。四家外部投资者合计出资 33.1 亿元（悦达汽车 17.1 亿元、农银金融资产投资 10 亿元、中国电信 5 亿元、南京地平线 1 亿元），控股股东中国第一汽车股份有限公司同步增资 52.4 亿元。",
+      "source_ids": ["s3", "s10", "s11"]
+    },
+    {
+      "date": "2025-12-10",
+      "event_en": "Bestune exhibits at the Riyadh International Auto Show, showing the JOYEE series and signing memoranda with GOCAB and HANCO groups, with about 400 intended orders on site.",
+      "event_zh": "一汽奔腾亮相沙特利雅得国际车展，展出 JOYEE（悦意）系列，与 GOCAB、HANCO 集团签署合作备忘录，现场意向订单约 400 辆。",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2026-02-04",
+      "event_en": "At the global partner conference, FAW group general manager Liu Yigong calls on Bestune to charge toward the 600,000-unit class; Bestune unveils the 'Optimus Prime Twin-Engine' global strategy and the Yueyi 08 flagship.",
+      "event_zh": "全球生态伙伴大会召开，一汽集团总经理刘亦功提出奔腾「向 60 万辆级发起冲锋」；奔腾发布「擎天柱·双擎」全球战略，悦意 08 旗舰首秀。",
+      "source_ids": ["s15"]
+    },
+    {
+      "date": "2026-05-29",
+      "event_en": "Yueyi is upgraded to China FAW's first independent NEV brand, and the Yueyi 08 begins global pre-sale at RMB 104,900–144,900.",
+      "event_zh": "悦意升级为中国一汽首个独立新能源品牌，悦意 08 开启全球预售（10.49 万–14.49 万元）。",
+      "source_ids": ["s5", "s13", "s14"]
+    },
+    {
+      "date": "2026-07-12",
+      "event_en": "The Yueyi 08 goes on global sale at the 23rd Changchun International Auto Expo, in range-extended and 565 km/650 km pure-electric versions. FAW's headline is 'on sale from RMB 99,900' and the price chart is captioned 'launch price benefits'; the body does not state a guide price of RMB 99,900–139,900. Autohome reported the price as still RMB 104,900–144,900, or RMB 99,900–139,900 after benefits. Xinhua Jilin reported an official guide price of RMB 99,900–139,900.",
+      "event_zh": "悦意 08 于第 23 届长春国际汽车博览会全球上市，提供增程版及 565km、650km 纯电版。一汽官网标题为「9.99 万元起售」，配图说明为「上市价格权益」，正文没有「指导价 9.99 万–13.99 万元」。汽车之家写售价仍为 10.49 万–14.49 万元，权益后为 9.99 万–13.99 万元。新华网吉林则写成官方指导价 9.99 万–13.99 万元。",
+      "source_ids": ["s6", "s24", "s35"]
+    }
+  ],
+  "brands": [
+    {
+      "name_en": "Yueyi (JOYEE) series / brand",
+      "name_zh": "悦意（JOYEE）序列／品牌",
+      "role_en": "NEV line covering A0-to-B-class cars and SUVs; upgraded to China FAW's first independent NEV brand in May 2026.",
+      "role_zh": "覆盖 A0 级至 B 级轿车、SUV 的新能源产品线；2026 年 5 月升级为中国一汽首个独立新能源品牌。",
+      "price_band": "悦意03 限时售价 9.29 万-11.79 万元（2025-03-27 上市）；悦意07 9.98 万元起（2025-05-26 上市）；悦意08：一汽官网标题为「9.99 万元起售」，配图为上市价格权益，正文未写 9.99 万-13.99 万元指导价（2026-07-12）；汽车之家称售价仍为 10.49 万-14.49 万元、权益后 9.99 万-13.99 万元；新华网吉林称官方指导价 9.99 万-13.99 万元。预售 10.49 万-14.49 万元（2026-05-29）。Yueyi 03 limited-time price RMB 92,900-117,900 (2025-03-27); Yueyi 07 from RMB 99,800 (2025-05-26); Yueyi 08: FAW headline 'from RMB 99,900', chart captioned 'launch price benefits', body does not state a RMB 99,900-139,900 guide price (2026-07-12); Autohome reported the price as still RMB 104,900-144,900, or RMB 99,900-139,900 after benefits; Xinhua Jilin reported an official guide price of RMB 99,900-139,900. Pre-sale RMB 104,900-144,900 (2026-05-29).",
+      "founded": 2025,
+      "owner_note_en": "Launched on 27 March 2025 as a series under Bestune with the Yueyi 03 pure-electric SUV, followed by the Yueyi 07 super-hybrid SUV on 26 May 2025. FAW plans six Yueyi models in two years across E/P/R matrices from A0 to B class, on the Yueying platform with Zhuri powertrains (pure-electric, hybrid, range-extended). On 29 May 2026 Yueyi was upgraded to China FAW's first independent NEV brand, positioned as a 'national intelligent quality-car creator'. The flagship Yueyi 08 (B+-class sedan) launched 12 July 2026 with an 800V platform, 6C fast charging and the Huawei Qiankun assisted-driving computing platform.",
+      "owner_note_zh": "2025 年 3 月 27 日作为奔腾旗下序列发布，首发悦意 03 纯电 SUV；悦意 07 超级电混 SUV 于 2025 年 5 月 26 日上市。按一汽规划，悦意两年内投放 6 款车型，构建 E/P/R 三个产品矩阵、覆盖 A0 至 B 级，基于越影平台、搭载逐日动力（纯电、电混、增程）。2026 年 5 月 29 日悦意升级为中国一汽首个独立新能源品牌，定位「国民智能精品车创领者」。旗舰悦意 08（B+ 级轿车）于 2026 年 7 月 12 日上市，搭载 800V 平台、6C 超充与华为乾崑辅驾计算平台。",
+      "status": "active",
+      "source_ids": ["s32", "s31", "s5", "s6", "s14", "s24", "s35"]
+    },
+    {
+      "name_en": "Bestune Xiaoma (mini EV)",
+      "name_zh": "奔腾小马（微型电动车）",
+      "role_en": "A00-class mini pure-electric vehicle, the brand's volume pillar since 2024.",
+      "role_zh": "A00 级微型纯电动车，2024 年起成为品牌销量支柱。",
+      "price_band": "2024-05-28 三款售价 2.69 万元、2.99 万元、3.19 万元；2025 年售价 2.84 万-3.94 万元；2026 款（2025-07-27 上市）3.49 万-4.59 万元。On 2024-05-28 the three trims were priced at RMB 26,900, 29,900 and 31,900; RMB 28,400-39,400 in 2025; 2026 model year (launched 2025-07-27) RMB 34,900-45,900.",
+      "founded": 2024,
+      "owner_note_en": "First shown as China FAW's first A00 EV at the April 2023 Shanghai Auto Show and launched on 28 May 2024 as the first model from the Yancheng base. Per official figures it helped lift Bestune's 2024 NEV sales to 82,872 units (+214%) and 2024 brand sales to 150,777 (+25%), for 55% NEV penetration. In 2025 the Xiaoma sold over 110,000 units at RMB 28,400-39,400, with a monthly peak of 14,688; media reported it contributed 65% of brand volume (about 55% if computed against 200,017 total). After national NEV subsidies were cut in 2026, its sales fell sharply.",
+      "owner_note_zh": "2023 年 4 月上海车展作为中国一汽首款 A00 级纯电车型首发亮相，2024 年 5 月 28 日作为盐城基地首款车型上市。官方数据显示其带动 2024 年奔腾新能源销量达 82,872 辆（同比 +214%）、全年品牌销量 150,777 辆（同比 +25%）、新能源渗透率 55%。2025 年奔腾小马（售价 2.84 万-3.94 万元）全年销量突破 11 万辆，单月峰值 14,688 辆；媒体报道其占总销量 65%（若按全年 200,017 辆计算约为 55%，口径存在差异）。2026 年国补退坡后其销量明显下滑。",
+      "status": "active",
+      "source_ids": ["s33", "s10", "s22", "s28", "s34"]
+    },
+    {
+      "name_en": "B-series sedans (B70, B50)",
+      "name_zh": "B 系列轿车（B70、B50）",
+      "role_en": "Mid-size/compact sedans, the brand's founding product line.",
+      "role_zh": "中高级／紧凑型轿车，品牌创始产品线。",
+      "price_band": "B70 2006 年 8 月上市；B50 指导价 9.88 万-12.58 万元（2009-05-16 上市）。B70 launched August 2006; B50 RMB 98,800-125,800 (launched 2009-05-16).",
+      "founded": 2006,
+      "owner_note_en": "The B70 launched in August 2006 on the Mazda 6 platform; the B50 followed on 16 May 2009. The B70 is still exported to Gulf markets, where it is among the brand's fuel models; its current China in-sale status is not separately confirmed from primary disclosures.",
+      "owner_note_zh": "B70 于 2006 年 8 月上市（马自达 6 平台），B50 于 2009 年 5 月 16 日上市。B70 仍出口海湾市场，为品牌出口燃油车型之一；其当前国内在售状态未从一手披露单独核实。",
+      "status": "active",
+      "source_ids": ["s9", "s18", "s26", "s7"]
+    },
+    {
+      "name_en": "T-series SUVs (T77, T90, T99)",
+      "name_zh": "T 系列 SUV（T77、T90、T99）",
+      "role_en": "Compact-to-full-size SUVs, the brand's mainstream SUV line.",
+      "role_zh": "紧凑型至中大型 SUV，品牌主流 SUV 产品线。",
+      "price_band": "T77 预售 10 万-14 万元（2018-10）。T77 pre-sale RMB 100,000-140,000 (2018-10).",
+      "founded": 2018,
+      "owner_note_en": "The T-series began with the T77 at the October 2018 'New Bestune' launch. The T90 was first shown at the April 2023 Shanghai Auto Show. The T90 and T99 remain among the brand's fuel models exported to Gulf markets; their current China in-sale status is not separately confirmed from primary disclosures.",
+      "owner_note_zh": "T 系列始于 2018 年 10 月「新奔腾」发布的 T77。T90 于 2023 年 4 月上海车展首发亮相。T90、T99 仍是品牌出口海湾的燃油车型；其当前国内在售状态未从一手披露单独核实。",
+      "status": "active",
+      "source_ids": ["s16", "s33", "s7"]
+    },
+    {
+      "name_en": "M9 MPV",
+      "name_zh": "奔腾 M9（MPV）",
+      "role_en": "Mid-to-large MPV, the brand's people-carrier model.",
+      "role_zh": "中大型 MPV，品牌的多用途车型。",
+      "price_band": "尊享型 22.98 万元、至尊型 24.98 万元（2023-04-18 上市）。RMB 229,800 and 249,800 (launched 2023-04-18).",
+      "founded": 2023,
+      "owner_note_en": "Launched on 18 April 2023 at the Shanghai Auto Show at RMB 229,800 and 249,800. Wheelbase 3,200 mm and length 5,280 mm are from a Cheshi report the same day; the FAW launch release does not give these dimensions. Its current in-sale status is not separately confirmed from primary disclosures.",
+      "owner_note_zh": "2023 年 4 月 18 日于上海车展上市（22.98 万元、24.98 万元）。轴距 3200 mm、车长 5280 mm 见于网上车市同日报道；一汽官网上市稿没有这两个尺寸。当前在售状态未从一手披露单独核实。",
+      "status": "active",
+      "source_ids": ["s33", "s36"]
+    },
+    {
+      "name_en": "NAT and E01 (mobility and early EVs)",
+      "name_zh": "奔腾 NAT 与 E01（出行与早期电动车）",
+      "role_en": "NAT is a purpose-built mobility-service EV; E01 was the brand's first passenger EV.",
+      "role_zh": "NAT 为面向移动出行服务的专用电动车；E01 为品牌首款乘用电动车。",
+      "price_band": "E01 补贴后 19.68 万-22.88 万元（2020-09-26 上市）。E01 post-subsidy RMB 196,800-228,800 (launched 2020-09-26).",
+      "founded": 2020,
+      "owner_note_en": "The E01, the first product of the brand's new-energy E series (a mid-size SUV), launched on 26 September 2020 at the Beijing Auto Show. The NAT (Next Automatic Taxi) was built for ride-hailing and taxi fleets. Their current in-sale status is not separately confirmed from primary disclosures.",
+      "owner_note_zh": "E01 为品牌新能源 E 系列首款产品（中型 SUV），2020 年 9 月 26 日于北京车展上市。NAT 面向网约车、出租车市场。当前在售状态未从一手披露单独核实。",
+      "status": "active",
+      "source_ids": ["s27"]
+    }
+  ],
+  "financials": {
+    "currency": "CNY",
+    "unit": "million",
+    "standard": "Not separately disclosed (Bestune is a passenger-car brand of the unlisted China FAW Group)",
+    "rows": [],
+    "note_en": "Bestune is a brand operated by FAW Bestune Automobile Co., Ltd., a subsidiary of the unlisted central state-owned China FAW Group. It does not publish separate brand- or entity-level financial statements, so no revenue, gross margin, net profit, R&D or cash-flow figures are listed and financials.rows is empty. The parent China FAW Group itself does not publish consolidated financial statements (see the China FAW (faw) deep research). For reference, where a listed FAW entity reports, its net profit is stated as net profit attributable to owners of the parent company (归属于母公司股东的净利润), not net profit attributable to ordinary shareholders in the IFRS sense. Media reported that Bestune was loss-making after its 2019 spin-off and remained so during its NEV-transition investment phase, but no audited brand-level profit figure is publicly disclosed. This page does not constitute any trading recommendation.",
+    "note_zh": "奔腾为中国一汽旗下非上市中央企业中国一汽的乘用车品牌，运营主体为一汽奔腾汽车股份有限公司，未单独披露品牌或公司层面的财务报表，故本表 financials.rows 为空数组，不列示营收、毛利率、净利润、研发投入、现金流等财务数字。母公司中国一汽本身亦不发布合并财务报表（见中国一汽（faw）深度研究）。供参考：一汽旗下上市公司披露的净利润口径为「归属于母公司股东的净利润」，并非 IFRS 口径下的「归属于普通股股东净利润」。据媒体报道，奔腾自 2019 年独立后处于亏损状态、新能源转型投入期仍承压，但无经审计的品牌层面利润数据公开披露。本页不构成任何交易推荐。"
+  },
+  "sections": {
+    "overview": {
+      "en": "<p>Bestune (奔腾, BESTUNE) is the mainstream self-owned passenger-car brand of China FAW Group Co., Ltd., the state-owned automaker headquartered in Changchun, Jilin. The brand first appeared on 18 May 2006 and launched its first model, the B70 mid-size sedan built on the Mazda 6 platform, in August of that year.<a href=\"https://www.faw.com.cn/fawcn/373694/373708/571108/index.html\">[s9]</a><a href=\"https://1118.cctv.com/special/vipkh/20110509/103753.shtml\">[s18]</a> Within FAW, Bestune sits alongside the premium Hongqi brand and the commercial-vehicle Jiefang brand, under the group's stated direction of 'doing Hongqi well, strengthening Jiefang and enlarging Bestune'.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html\">[s3]</a></p><p>In 2025 Bestune sold 200,017 vehicles (+33% year on year), a record for the brand, of which 171,957 were new-energy vehicles (+107%), with NEV penetration above 85%.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a><a href=\"https://www.sasac.gov.cn/n2588025/n2588124/c35254492/content.html\">[s2]</a> In September 2025 it completed an equity-diversification reform that raised RMB 8.55 billion in total. Four outside investors contributed RMB 3.31 billion (Yueda Auto Group RMB 1.71 billion, ABC Financial Asset Investment RMB 1.0 billion, China Telecom RMB 500 million and Nanjing Horizon RMB 100 million), and the controlling shareholder, China FAW Co., Ltd., contributed a further RMB 5.24 billion. China FAW Co., Ltd. and FAW Equity Investment (Tianjin) together held 79.0394% afterwards.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html\">[s3]</a><a href=\"https://www.nbd.com.cn/articles/2025-09-06/4051260.html\">[s11]</a> Its core products are the Yueyi (JOYEE) NEV series and the Bestune Xiaoma mini EV, with legacy B-series sedans and T-series SUVs still exported to Gulf markets.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html\">[s7]</a></p><p>In 2026 the picture turned: media reported H1 2026 domestic retail of about 39,000 units, down about 35% year on year as the Xiaoma slowed after subsidy cuts, prompting the brand to put its weight behind the newly independent Yueyi brand and the Yueyi 08 flagship launched in July 2026.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a></p>",
+      "zh": "<p>奔腾（BESTUNE）是中国第一汽车集团有限公司旗下自主主流乘用车品牌，一汽总部位于吉林省长春市。品牌于 2006 年 5 月 18 日首次亮相，同年 8 月上市首款车型——基于马自达 6 平台开发的中高级轿车奔腾 B70。<a href=\"https://www.faw.com.cn/fawcn/373694/373708/571108/index.html\">[s9]</a><a href=\"https://1118.cctv.com/special/vipkh/20110509/103753.shtml\">[s18]</a> 在一汽体系内，奔腾与高端品牌红旗、商用车品牌解放并列，被集团定位为「做优红旗、做强解放、做大奔腾」中的一员。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html\">[s3]</a></p><p>2025 年奔腾全年销量 200,017 辆（同比 +33%），创品牌成立以来新高，其中新能源 171,957 辆（同比 +107%），新能源渗透率超 85%。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a><a href=\"https://www.sasac.gov.cn/n2588025/n2588124/c35254492/content.html\">[s2]</a> 2025 年 9 月，奔腾完成股权多元化改革，共募集资金 85.5 亿元。四家外部投资者合计出资 33.1 亿元（悦达汽车集团 17.1 亿元、农银金融资产投资 10 亿元、中国电信 5 亿元、南京地平线 1 亿元），控股股东中国第一汽车股份有限公司同步增资 52.4 亿元；增资后中国第一汽车股份有限公司及一汽股权投资（天津）有限公司合计持股 79.0394%。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html\">[s3]</a><a href=\"https://www.nbd.com.cn/articles/2025-09-06/4051260.html\">[s11]</a> 品牌核心产品为悦意（JOYEE）新能源序列与奔腾小马微型电动车，B 系列轿车、T 系列 SUV 等燃油车型仍出口海湾市场。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html\">[s7]</a></p><p>2026 年形势转向：媒体报道上半年国内零售约 3.9 万辆、同比下滑约 35%，小马在补贴退坡后失速，品牌遂将重心押注新独立的悦意品牌及 2026 年 7 月上市的悦意 08 旗舰。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a></p>"
+    },
+    "current": {
+      "en": "<h3>Business structure and model line-up</h3><p>Bestune operates within FAW as a mainstream passenger-car brand now centred on NEVs. Per the official 2025 sales release, its sales split into 171,957 NEVs and the remainder fuel vehicles, with the Yueyi series (Yueyi 03 and Yueyi 07) and the Bestune Xiaoma as the main NEV products.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> The Yueyi 03 pure-electric SUV launched on 27 March 2025 at a limited-time price of RMB 92,900-117,900, and the Yueyi 07 super-hybrid SUV launched on 26 May 2025 from RMB 99,800.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5837909/index.html\">[s32]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5853916/index.html\">[s31]</a> The Bestune Xiaoma mini EV launched on 28 May 2024 at RMB 26,900, 29,900 and 31,900, and its 2026 model year (launched 27 July 2025) is priced at RMB 34,900-45,900.<a href=\"https://www.news.cn/auto/20240530/a4e7d74a8176431199919ce106885f70/c.html\">[s34]</a><a href=\"https://www.autohome.com.cn/news/202507/1307732.html\">[s28]</a> On 29 May 2026 Yueyi was upgraded to China FAW's first independent NEV brand, and the flagship Yueyi 08 B+-class sedan went on sale on 12 July 2026 in range-extended and 565 km/650 km pure-electric versions. FAW's headline is 'on sale from RMB 99,900' and the chart is captioned 'launch price benefits'; the body does not state a guide price of RMB 99,900-139,900. Autohome reported the price as still RMB 104,900-144,900, or RMB 99,900-139,900 after benefits. Xinhua Jilin reported an official guide price of RMB 99,900-139,900.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a><a href=\"https://jl.news.cn/20260712/2d46fb24b00d4054b97b568cf6c4e847/c.html\">[s24]</a><a href=\"https://www.autohome.com.cn/news/202607/1315698.html\">[s35]</a></p><p>The brand's NEV transition is measurable. In 2023 FAW set an 'All in NEV' strategy positioning Bestune as a 'new mainstream' brand; 2024 sales were 150,777 units (+25%) including 82,872 NEVs (+214%) for 55% NEV penetration, and 2025 rose to 200,017 with penetration above 85%.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> Media reported Bestune was loss-making after its 2019 spin-off, returning above 100,000 units in 2023 and reaching about 151,000 in 2024.<a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a> After the May 2026 upgrade, the Yueyi 03, 07 and 08 moved under the independent Yueyi brand, while the Bestune name continues to carry the Xiaoma mini EV and the B-series and T-series fuel models.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5944308/index.html\">[s5]</a></p><h3>Technology and platforms</h3><p>At the February 2025 Yueyi Tech Day, Bestune unveiled the Yueying platform, the Zhuri powertrain (with drive efficiency up to 95.5%) and the Ruyi cockpit; the Yueyi 07 carries FAW's BMP super-hybrid technology.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> All Yueyi products sit on the Yueying platform with Zhuri powertrains across pure-electric, hybrid and range-extended routes, plus the Ruyi cockpit and a 'Lingzhi' assisted-driving stack developed with Huawei and Horizon Robotics.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5837909/index.html\">[s32]</a> The Yueyi 08 flagship uses a 202 kW rear motor, an 800V platform with 6C fast charging (30%-80% in 7.5 minutes), a Qualcomm Snapdragon 8295P dual-NPU cockpit and the Huawei Qiankun assisted-driving computing platform paired with lidar, supporting 24 assisted-driving functions.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a> FAW's global R&D network, which brings together about 19,000 R&D staff and over 16,000 patents, underpins this platform, powertrain and cockpit work.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a></p><h3>Manufacturing and channels</h3><p>Bestune runs a dual Changchun-Yancheng manufacturing base with total design capacity of 350,000 vehicles a year. The Yancheng base was built and put into production in nine months and produced 170,000 vehicles in 2025 at a stated 240% utilisation rate; per earlier reporting its planned capacity was to exceed 150,000 a year by end-2025.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a><a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a> By end-2025 its nationwide authorised network exceeded 500 outlets, of which 300-plus were NEV-dedicated stores or zones.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a></p><p>In H1 2026 the brand's momentum reversed. Media citing CPCA data reported domestic retail of about 39,000 units in the half, down about 35% year on year, with the Xiaoma at about 26,000 units and the Yueyi 03 averaging under 3,000 a month.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> As the fuel line-up moved overseas, FAW shifted the domestic business to the independent Yueyi brand and began replacing store signage from 'FAW Bestune' to 'FAW Yueyi'; media noted only three outlets in Beijing (Shijingshan, Shunyi and Miyun).<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> FAW also introduced the 'Joy Pai' user brand, iterated its '518 service rights 4.0' and launched the 'Yueyi 321' service commitment offering lifetime warranty on the whole vehicle and the three-electric (battery, motor, electronic-control) system.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a></p><h3>Overseas business</h3><p>In 2025 FAW established a Bestune international company to systemise its overseas expansion, focusing on Eastern Europe and the Gulf.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> At the December 2025 Riyadh International Auto Show, Bestune showed the JOYEE series alongside its fuel models and signed memoranda with the GOCAB and HANCO groups, planning a dual fuel-plus-NEV line-up in Saudi Arabia.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html\">[s7]</a></p>",
+      "zh": "<h3>业务结构与车型谱系</h3><p>奔腾在一汽体系内是主打新能源的主流乘用车品牌。据官方 2025 年销量通报，全年销量中新能源 171,957 辆、其余为燃油车，新能源主力为悦意序列（悦意 03、悦意 07）与奔腾小马。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> 悦意 03 纯电 SUV 于 2025 年 3 月 27 日上市（限时售价 9.29 万-11.79 万元），悦意 07 超级电混 SUV 于 2025 年 5 月 26 日上市（9.98 万元起）。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5837909/index.html\">[s32]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5853916/index.html\">[s31]</a> 奔腾小马于 2024 年 5 月 28 日上市，三款售价 2.69 万元、2.99 万元、3.19 万元；2026 款于 2025 年 7 月 27 日上市，售价 3.49 万-4.59 万元。<a href=\"https://www.news.cn/auto/20240530/a4e7d74a8176431199919ce106885f70/c.html\">[s34]</a><a href=\"https://www.autohome.com.cn/news/202507/1307732.html\">[s28]</a> 2026 年 5 月 29 日悦意升级为中国一汽首个独立新能源品牌，旗舰悦意 08（B+ 级轿车）于 2026 年 7 月 12 日上市，提供增程版及 565km、650km 纯电版。一汽官网标题为「9.99 万元起售」，配图说明为「上市价格权益」，正文没有「指导价 9.99 万-13.99 万元」。汽车之家写售价仍为 10.49 万-14.49 万元，权益后为 9.99 万-13.99 万元。新华网吉林则写成官方指导价 9.99 万-13.99 万元。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a><a href=\"https://jl.news.cn/20260712/2d46fb24b00d4054b97b568cf6c4e847/c.html\">[s24]</a><a href=\"https://www.autohome.com.cn/news/202607/1315698.html\">[s35]</a></p><p>品牌新能源转型轨迹清晰：2023 年一汽提出「All in 新能源」战略，奔腾定位「中国新锐主流乘用车优秀品牌」；2024 年全年销量 150,777 辆（同比 +25%），其中新能源 82,872 辆（同比 +214%）、渗透率 55%；2025 年进一步升至 200,017 辆、新能源渗透率超 85%。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> 据媒体报道，奔腾自 2019 年独立后一度销量承压、处于亏损状态，2023 年重返 10 万辆大关，2024 年约 15.1 万辆。<a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a> 2026 年 5 月升级后，悦意 03、悦意 07、悦意 08 等车型纳入独立悦意品牌体系；奔腾品牌自身继续承载奔腾小马及 B、T 系列燃油车型。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5944308/index.html\">[s5]</a></p><h3>技术与平台</h3><p>2025 年 2 月悦意科技日上，奔腾发布越影平台、逐日动力（电驱最高效率达 95.5%）、如意座舱等技术集群；悦意 07 搭载中国一汽 BMP 超级电混技术。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> 悦意全系产品基于越影平台、搭载逐日动力，覆盖纯电、电混、增程三大技术路线，并配如意座舱及与华为、地平线合作开发的「灵机智驾」。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5837909/index.html\">[s32]</a> 悦意 08 旗舰搭载 202kW 后驱电机、800V 平台与 6C 超充（7.5 分钟完成 30%-80% 补能）、高通骁龙 8295P 双 NPU 座舱，配华为乾崑辅驾计算平台与激光雷达，支持 24 项辅助驾驶功能。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a> 中国一汽全球研发布局汇聚约 1.9 万名研发人才、拥有超 1.6 万件专利，为奔腾的平台、动力与座舱研发提供支撑。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a></p><h3>制造与渠道</h3><p>奔腾拥有长春与盐城双基地，总设计产能 35 万辆/年；盐城基地 9 个月建成投产，2025 年实现年产整车 17 万辆、产能利用率 240%，此前规划 2025 年底产能突破 15 万辆/年。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a><a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a> 截至 2025 年底，全国授权网络超 500 家，其中新能源专属门店/专区达 300 家以上。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a></p><p>2026 年上半年品牌增势逆转。媒体引乘联分会数据称，上半年国内零售约 3.9 万辆、同比下滑约 35%，其中小马约 2.6 万辆、悦意 03 月均不足 3000 辆。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> 随着燃油车转向海外，一汽将国内重心转向独立悦意品牌，推动门店标识由「一汽奔腾」更换为「一汽悦意」；媒体报道北京地区仅石景山、顺义、密云 3 家门店。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> 服务层面，一汽发布用户品牌「Joy Pai」、迭代「518 服务权益 4.0」，并推出「悦意 321 服务承诺」，提供整车、三电终身质保及终身道路救援等权益。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a></p><h3>海外业务</h3><p>2025 年一汽成立奔腾国际公司，推动海外事业体系化、本土化，聚焦东欧及海湾等重点市场。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> 2025 年 12 月，奔腾携 JOYEE 系列与燃油车型亮相沙特利雅得国际车展，与 GOCAB、HANCO 集团签署合作备忘录，规划以「燃油+新能源」双线布局沙特市场。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html\">[s7]</a></p>"
+    },
+    "leadership": {
+      "en": "<h3>Brand ownership and governance</h3><p>Bestune is not a separately listed company. Its operating entity, FAW Bestune Automobile Co., Ltd., is controlled by China FAW, which held 79.0394% after the September 2025 capital increase (via FAW Co., Ltd. and FAW Equity Investment). The other shareholders are Yueda Auto Group (second largest; the First Financial/JW View report put it at 10.3358%, while the Daily Economic News reported 11.2897%), ABC Financial Investment (6.0443%), China Telecom (3.0222%) and Nanjing Horizon Robotics (0.6044%).<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html\">[s3]</a><a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a><a href=\"https://www.nbd.com.cn/articles/2025-09-06/4051260.html\">[s11]</a> Adding the same other stakes (China FAW 79.0394%, ABC Financial Investment 6.0443%, China Telecom 3.0222%, Nanjing Horizon 0.6044%) to the Daily Economic News figure of 11.2897% equals 100.0000%. Adding them to the JW View figure of 10.3358% equals about 99.05%. The two Yueda figures do not belong in one cap table that sums to 100%; the Daily Economic News set is the one that does. There is no public 'actual controller' statement for the unlisted brand; the shareholding and voting structure above is the relevant disclosure.</p><h3>Current management</h3><ul><li><strong>Liu Zhongchen (刘忠忱)</strong> — chairman and party secretary. Previously FAW's general counsel, chief compliance officer and general manager of the audit and legal-affairs department, he became Bestune chairman in April 2025, replacing Yang Xiao.<a href=\"https://www.zgswcn.com/news.html?aid=267093\">[s29]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a></li><li><strong>Kong Dejun (孔德军)</strong> — general manager and deputy party secretary. He was appointed to this role in the October 2023 reshuffle, having previously headed FAW's supply-procurement work.<a href=\"https://news.china.com/socialgd/10000169/20231010/45576240_1.html\">[s30]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a></li><li><strong>Yu Guangjiang (于广江)</strong> — Yueyi brand principal, who announced the Yueyi 08 price and policies at its launch.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a></li><li><strong>Fang Yang (方杨)</strong> — deputy general manager, listed among the executives at the February 2025 Yueyi Tech Day.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a></li></ul><p>The previous chairman Yang Xiao led the brand from October 2023 to April 2025, then was transferred to Harbin Electric Corporation as chief accountant and a party standing-committee member.<a href=\"https://news.china.com/socialgd/10000169/20231010/45576240_1.html\">[s30]</a><a href=\"https://www.zgswcn.com/news.html?aid=267093\">[s29]</a> The above are public roles and business records only.</p>",
+      "zh": "<h3>品牌归属与治理</h3><p>奔腾并非单独上市公司。运营主体一汽奔腾汽车股份有限公司由中国一汽控股，2025 年 9 月增资后中国一汽（一汽股份及一汽股权投资）合计持股 79.0394%；其余股东为悦达汽车集团（第二大股东；第一财经/中新经纬报道持股 10.3358%，每日经济新闻报道为 11.2897%，存在分歧）、农银金融（6.0443%）、中国电信（3.0222%）、南京地平线（0.6044%）。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html\">[s3]</a><a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a><a href=\"https://www.nbd.com.cn/articles/2025-09-06/4051260.html\">[s11]</a> 用同一组其余股东（中国一汽合计 79.0394%、农银金融 6.0443%、中国电信 3.0222%、南京地平线 0.6044%）加总：配每日经济新闻的悦达 11.2897% 等于 100.0000%；配中新经纬的 10.3358% 约为 99.05%。两说不能放进同一张加总到 100% 的股权表；能加总到 100% 的是每日经济新闻这一组。非上市品牌无公开「实际控制人」认定披露，上述持股与表决权结构即为相关公开信息。</p><h3>现任管理层</h3><ul><li><strong>刘忠忱</strong>——董事长、党委书记。此前任中国一汽总法律顾问兼首席合规官兼审计与法务部总经理，2025 年 4 月接替杨虓出任董事长。<a href=\"https://www.zgswcn.com/news.html?aid=267093\">[s29]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a></li><li><strong>孔德军</strong>——总经理、党委副书记。2023 年 10 月人事调整中升任该职，此前主持中国一汽供应采购部工作。<a href=\"https://news.china.com/socialgd/10000169/20231010/45576240_1.html\">[s30]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a></li><li><strong>于广江</strong>——悦意品牌主理人，在悦意 08 上市活动上公布价格与政策。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a></li><li><strong>方杨</strong>——副总经理，2025 年 2 月悦意科技日出席高管之一。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html\">[s4]</a></li></ul><p>原董事长杨虓执掌品牌至 2025 年 4 月（2023 年 10 月至 2025 年 4 月），随后调任哈尔滨电气集团总会计师、党委常委。<a href=\"https://news.china.com/socialgd/10000169/20231010/45576240_1.html\">[s30]</a><a href=\"https://www.zgswcn.com/news.html?aid=267093\">[s29]</a> 以上均为公开职务与商业履历。</p>"
+    },
+    "competition": {
+      "en": "<p><strong>Our judgment: competitive scope.</strong> With the Yueyi series priced from about RMB 92,900 to 139,900 and the Xiaoma mini EV at about RMB 26,900-45,900, Bestune competes in China's roughly 70,000-150,000-yuan mainstream NEV segment and the A00 mini-EV segment.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a><a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> In the mainstream band it faces BYD, Geely, Changan (Deepal/Qiyuan), Leapmotor and XPeng; in the mini-EV band it faces Wuling (Hongguang MINI EV) and Geely (Xingyuan). The Yueyi 08 enters the 100,000-yuan-class NEV sedan segment against same-class pure-electric and range-extended sedans.<a href=\"https://www.news.cn/auto/20260603/b3015df2aed048f1ad80c4193a5db0eb/c.html\">[s14]</a> This is our analytical selection, not a sales ranking.</p><p><strong>Our judgment: strengths.</strong> Bestune has a state-owned 'national team' backing from FAW, a dual Changchun-Yancheng manufacturing base with 350,000-unit design capacity, and 2025 volume of 200,017 units with NEV penetration above 85%.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> Its December 2025 entry into the Saudi market with the JOYEE series gives it an early overseas NEV channel in the Gulf.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html\">[s7]</a></p><p><strong>Our judgment: weaknesses.</strong> The brand depends heavily on the Xiaoma mini EV, which media said contributed 65% of 2025 volume (about 55% if computed against 200,017 units); when national NEV subsidies were cut in 2026, Xiaoma sales fell sharply and pulled the brand's domestic retail down about 35% in H1 2026.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> The Yueyi series has not yet reached mainstream scale: media reported the Yueyi 03 averaged below 3,000 units a month in H1 2026, and the Yueyi 07 averaged under 500 a month in its eight months on sale in 2025, with 227 and 170 units in the first two months of 2026.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></p>",
+      "zh": "<p><strong>我们的判断：竞争范围。</strong>悦意系列定价约 9.29 万-13.99 万元、奔腾小马约 2.69 万-4.59 万元，奔腾主要竞争于中国约 7 万-15 万元主流新能源市场与 A00 级微型电动车市场。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html\">[s6]</a><a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> 主流价位段面对比亚迪、吉利、长安（深蓝/启源）、零跑、小鹏等；微型电动车段面对五菱（宏光 MINI EV）、吉利（星愿）等。悦意 08 切入 10 万级新能源家轿市场，与同级纯电与增程轿车直接竞争。<a href=\"https://www.news.cn/auto/20260603/b3015df2aed048f1ad80c4193a5db0eb/c.html\">[s14]</a> 此为分析所选的竞争范围，不是销量排名。</p><p><strong>我们的判断：优势。</strong>奔腾拥有中国一汽的「国家队」背书、长春与盐城双基地（35 万辆设计产能），以及 2025 年 200,017 辆、新能源渗透率超 85% 的规模。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a> 2025 年 12 月携悦意系列进入沙特市场，为其在海湾地区开辟了较早的新能源渠道。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html\">[s7]</a></p><p><strong>我们的判断：短板。</strong>品牌高度依赖奔腾小马，据媒体报道其贡献 2025 年约 65% 销量（若按 200,017 辆计算约为 55%）；2026 年国补退坡后小马销量骤降，拖累品牌上半年国内零售同比下滑约 35%。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> 悦意序列尚未达到主流规模：媒体报道悦意 03 上半年月均不足 3000 辆，悦意 07 上市 8 个月月均不足 500 辆、2026 年前两月分别为 227 辆和 170 辆。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></p>"
+    },
+    "outlook": {
+      "en": "<p><strong>Company plans.</strong> At the February 2026 global partner conference, FAW group general manager Liu Yigong said Bestune must charge toward the 600,000-unit class, and the brand released its 'Optimus Prime Twin-Engine' global strategy.<a href=\"https://jl.cri.cn/2026-02-06/b6e63dde-cf93-4190-8e93-b664aa2a5de4.html\">[s15]</a> The independent Yueyi brand and its Yueyi 08 flagship are the main vehicles for the push into the RMB 100,000-150,000 mainstream NEV market; at the Yueyi 08 launch the company stressed a 'good and affordable' NEV positioning.<a href=\"https://www.news.cn/auto/20260603/b3015df2aed048f1ad80c4193a5db0eb/c.html\">[s14]</a><a href=\"https://jl.news.cn/20260712/2d46fb24b00d4054b97b568cf6c4e847/c.html\">[s24]</a> These are disclosed directions and targets, not completed results.</p><p>At group level, FAW's 2030 plan sets 'six over' metrics: vehicle sales, intelligent-connected NEV sales, self-owned-brand sales, self-owned-brand intelligent-connected NEV sales and overseas sales are to exceed 5 million, 3 million, 2 million, 1.5 million and 0.7 million respectively, with employee average-income growth above the central-SOE average.<a href=\"https://www.nbd.com.cn/articles/2025-09-06/4051260.html\">[s11]</a> For 2026, FAW's group-wide vehicle sales target is 3.546 million, with Hongqi aiming at 550,000.<a href=\"https://www.mrjjxw.com/articles/2026-07-14/4470662.html\">[s20]</a></p><p><strong>Our judgment.</strong> The 600,000-unit class is a medium-to-long-term aspiration, roughly three times 2025 volume, and the brand has not disclosed a specific year for reaching it; media cited a 2026 target of about 200,000 units or a wholesale 230,000-300,000 range with divergent figures.<a href=\"https://jl.cri.cn/2026-02-06/b6e63dde-cf93-4190-8e93-b664aa2a5de4.html\">[s15]</a> Whether Bestune can grow depends on whether the Yueyi 08 and the independent Yueyi brand can offset Xiaoma's decline and the subsidy-driven A00 contraction, and on overseas demand in the Gulf and Eastern Europe.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> The large gap between H1 2026 cumulative sales of about 87,000 (of which NEVs were about 72,000; the Daily Economic News did not call this wholesale) and domestic retail of about 39,000 means the cumulative figure alone may not reflect end-demand, so near-term sales should be read with that caveat; the Yueyi 08, launched in July 2026, is the key variable to watch for the second half.<a href=\"https://www.mrjjxw.com/articles/2026-07-14/4470662.html\">[s20]</a><a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> A NetEase account article that names CNR as its source reported, citing CAAM, that China FAW's H1 2026 NEV penetration was 32.7%, behind Changan and Dongfeng, and that this figure still included Leapmotor's sales. No CAAM original was found. FAW's 28 December 2025 deal was an equity investment in Leapmotor by FAW Equity Investment, not a consolidation of Leapmotor.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5909348/index.html\">[s38]</a></p>",
+      "zh": "<p><strong>公司公开规划。</strong>2026 年 2 月全球生态伙伴大会上，一汽集团总经理刘亦功提出奔腾须「向 60 万辆级发起冲锋」，品牌同步发布「擎天柱·双擎」全球战略。<a href=\"https://jl.cri.cn/2026-02-06/b6e63dde-cf93-4190-8e93-b664aa2a5de4.html\">[s15]</a> 独立后的悦意品牌及旗舰悦意 08，是品牌冲击 10 万-15 万元主流新能源市场的主要载体；悦意 08 上市时公司强调「好而不贵」的新能源定位。<a href=\"https://www.news.cn/auto/20260603/b3015df2aed048f1ad80c4193a5db0eb/c.html\">[s14]</a><a href=\"https://jl.news.cn/20260712/2d46fb24b00d4054b97b568cf6c4e847/c.html\">[s24]</a> 以上为公司披露的方向与目标，不是已实现的业绩。</p><p>集团层面，一汽 2030 年规划提出「六个超过」：整车销量、智能网联新能源汽车销量、自主品牌销量、自主品牌智能网联新能源汽车销量、海外销量分别超过 500 万辆、300 万辆、200 万辆、150 万辆、70 万辆，职工平均收入增速超过央企平均水平。<a href=\"https://www.nbd.com.cn/articles/2025-09-06/4051260.html\">[s11]</a> 2026 年一汽整车销量目标为 354.6 万辆，红旗冲刺 55 万辆。<a href=\"https://www.mrjjxw.com/articles/2026-07-14/4470662.html\">[s20]</a></p><p><strong>我们的判断。</strong>「60 万辆级」为中长期愿景，约为 2025 年销量的三倍，公司未披露具体达成年份；媒体对 2026 年目标报道口径不一（约 20 万辆，或批发 23 万辆必达、30 万辆挑战）。<a href=\"https://jl.cri.cn/2026-02-06/b6e63dde-cf93-4190-8e93-b664aa2a5de4.html\">[s15]</a> 奔腾能否增长，取决于悦意 08 与独立悦意品牌能否对冲小马下滑及补贴退坡带来的 A00 市场收缩，以及海湾、东欧等海外需求。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> 2026 年上半年累计销量约 8.7 万辆（其中新能源约 7.2 万辆；每日经济新闻未写明为批发）与国内零售约 3.9 万辆之间的缺口很大，累计销量未必反映终端需求，短期销量需结合这一口径差异解读；2026 年 7 月上市的悦意 08 后续销量爬坡，是观察品牌下半年表现的关键变量。<a href=\"https://www.mrjjxw.com/articles/2026-07-14/4470662.html\">[s20]</a><a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a> 一篇网易号稿（正文自称来源央广网）称，中汽协数据显示中国一汽上半年新能源渗透率 32.7%，落后于长安与东风，且该数字合并了零跑汽车销量。未见中汽协原文。一汽 2025 年 12 月 28 日的动作是一汽股权投资入股零跑，并非把零跑并入合并报表。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a><a href=\"https://www.faw.com.cn/fawcn/373694/373706/5909348/index.html\">[s38]</a></p>"
+    },
+    "risks": {
+      "en": "<ul><li><strong>Dependence on the Xiaoma mini EV.</strong> Media reported the Xiaoma contributed 65% of 2025 volume (about 55% against 200,017 units); its decline after the 2026 subsidy cut dragged domestic retail down about 35% year on year in H1 2026.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>Subsidy and policy exposure.</strong> A00 mini-EV demand is sensitive to national NEV purchase subsidies and purchase-tax breaks, which were scaled back in 2026.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>Weak mainstream-NEV traction.</strong> The Yueyi 03 averaged below 3,000 units a month in H1 2026 and the Yueyi 07 averaged under 500 a month during 2025, limiting the brand's move up-market.<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>Sales-basis gap.</strong> The Daily Economic News reported H1 2026 cumulative sales of about 87,000 (NEVs about 72,000) and did not call them wholesale. Set against domestic retail of about 39,000, the gap leaves end-demand and channel inventory uncertain.<a href=\"https://www.mrjjxw.com/articles/2026-07-14/4470662.html\">[s20]</a><a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>No separate financial disclosure.</strong> Bestune does not publish brand-level revenue or profit, so its standalone profitability cannot be assessed from public filings; media reported the brand was loss-making.<a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a></li><li><strong>Overseas concentration.</strong> Overseas expansion focuses on Eastern Europe and the Gulf, leaving exposure to regional demand and trade conditions.<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a></li></ul>",
+      "zh": "<ul><li><strong>对奔腾小马的依赖。</strong>媒体报道小马贡献 2025 年约 65% 销量（若按 200,017 辆计算约为 55%）；2026 年补贴退坡后其下滑，拖累上半年国内零售同比下滑约 35%。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>补贴与政策敞口。</strong>A00 级微型电动车需求对国补与购置税优惠敏感，2026 年相关政策收紧。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>主流新能源突破乏力。</strong>悦意 03 上半年月均不足 3000 辆、悦意 07 上市 8 个月月均不足 500 辆，制约品牌向上。<a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>销量口径差异。</strong>每日经济新闻写 2026 年上半年累计销量约 8.7 万辆（其中新能源约 7.2 万辆），并未称为批发。与国内零售约 3.9 万辆对照，缺口较大，终端需求与渠道库存仍不确定。<a href=\"https://www.mrjjxw.com/articles/2026-07-14/4470662.html\">[s20]</a><a href=\"https://www.163.com/dy/article/L2UFKA2V05567I2C.html\">[s22]</a></li><li><strong>无单独财务披露。</strong>奔腾未披露品牌层面营收与利润，无法从公开文件评估品牌独立盈利能力；媒体报道品牌处于亏损状态。<a href=\"https://www.jwview.com/jingwei/html/09-07/631422.shtml\">[s10]</a></li><li><strong>海外集中风险。</strong>海外扩张聚焦东欧与海湾，存在区域需求与贸易环境敞口。<a href=\"https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html\">[s1]</a></li></ul>"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "name": "中国一汽官网《创20年历史新高 一汽奔腾2025年销量超20万辆》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5911119/index.html",
+      "date": "2026-01-04",
+      "tier": "A"
+    },
+    {
+      "id": "s2",
+      "name": "国务院国资委官网《中国一汽2025年销量突破330万辆 自主创新与智电转型成效显著》",
+      "url": "https://www.sasac.gov.cn/n2588025/n2588124/c35254492/content.html",
+      "date": "2026-01-06",
+      "tier": "A"
+    },
+    {
+      "id": "s3",
+      "name": "中国一汽官网《头部企业强强联合！一汽奔腾超85亿增资落地叩响新发展阶段》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5882383/index.html",
+      "date": "2025-09-09",
+      "tier": "A"
+    },
+    {
+      "id": "s4",
+      "name": "中国一汽官网《悦享美好未来 一汽奔腾悦意科技日温暖启幕》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5827811/index.html",
+      "date": "2025-02-26",
+      "tier": "A"
+    },
+    {
+      "id": "s5",
+      "name": "中国一汽官网《央企品质 科技悦家 中国一汽悦意08全球预售发布》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5944308/index.html",
+      "date": "2026-05-30",
+      "tier": "A"
+    },
+    {
+      "id": "s6",
+      "name": "中国一汽官网《新生代智享家用轿跑9.99万元起售 中国一汽悦意08全球上市》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5953669/index.html",
+      "date": "2026-07-12",
+      "tier": "A"
+    },
+    {
+      "id": "s7",
+      "name": "中国一汽官网《JOYEE系列亮相沙特 奔腾深耕中东市场再启新篇》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5905793/index.html",
+      "date": "2025-12-12",
+      "tier": "A"
+    },
+    {
+      "id": "s9",
+      "name": "今日早报（浙江在线）《一汽奔腾：助一汽重振雄风》，一汽官网媒体聚焦转载",
+      "url": "https://www.faw.com.cn/fawcn/373694/373708/571108/index.html",
+      "date": "2009-09-16",
+      "tier": "B"
+    },
+    {
+      "id": "s10",
+      "name": "第一财经／中新经纬《一汽奔腾获增资85.5亿元，悦达汽车成为第二大股东》",
+      "url": "https://www.jwview.com/jingwei/html/09-07/631422.shtml",
+      "date": "2025-09-07",
+      "tier": "B"
+    },
+    {
+      "id": "s11",
+      "name": "每日经济新闻《一汽奔腾增资项目落地：募集资金85.5亿元，引入地平线等投资方》",
+      "url": "https://www.nbd.com.cn/articles/2025-09-06/4051260.html",
+      "date": "2025-09-06",
+      "tier": "B"
+    },
+    {
+      "id": "s13",
+      "name": "中国经济网《一汽悦意升级为独立新能源品牌，悦意08预售10.49万元起》",
+      "url": "https://auto.ce.cn/auto/gundong/202606/t20260601_3002612.shtml",
+      "date": "2026-06-01",
+      "tier": "B"
+    },
+    {
+      "id": "s14",
+      "name": "新华网《中国一汽首个独立新能源品牌亮相：一汽悦意品牌扬帆起航》",
+      "url": "https://www.news.cn/auto/20260603/b3015df2aed048f1ad80c4193a5db0eb/c.html",
+      "date": "2026-06-03",
+      "tier": "B"
+    },
+    {
+      "id": "s15",
+      "name": "国际在线《2026一汽奔腾全球生态伙伴大会召开》",
+      "url": "https://jl.cri.cn/2026-02-06/b6e63dde-cf93-4190-8e93-b664aa2a5de4.html",
+      "date": "2026-02-06",
+      "tier": "B"
+    },
+    {
+      "id": "s16",
+      "name": "中国新闻网《一汽奔腾发布全新奔腾品牌 首款战略车型T77开启预售》",
+      "url": "https://m.chinanews.com/wap/detail/cht/zw/8653273.shtml",
+      "date": "2018-10-18",
+      "tier": "B"
+    },
+    {
+      "id": "s17",
+      "name": "中国青年报《物联网\"朋友圈\"越来越大 一汽奔腾绘出品牌新内涵》",
+      "url": "https://zqb.cyol.com/html/2018-10/25/nw.D110000zgqnb_20181025_1-11.htm",
+      "date": "2018-10-25",
+      "tier": "B"
+    },
+    {
+      "id": "s18",
+      "name": "央视网（经济观察报）《\"奔腾\"向上 一汽欲再推子品牌》",
+      "url": "https://1118.cctv.com/special/vipkh/20110509/103753.shtml",
+      "date": "2011-05-09",
+      "tier": "B"
+    },
+    {
+      "id": "s20",
+      "name": "每日经济新闻《一汽解放净利预增超12倍，红旗、奔腾上半年销量合计突破22万辆》",
+      "url": "https://www.mrjjxw.com/articles/2026-07-14/4470662.html",
+      "date": "2026-07-14",
+      "tier": "B"
+    },
+    {
+      "id": "s22",
+      "name": "网易号「中国能源网」《小马失速、悦意难扛：一汽奔腾新能源如何突围？》（正文自称来源央广网，含用户上传声明；央广网域名下未检索到同题原文）",
+      "url": "https://www.163.com/dy/article/L2UFKA2V05567I2C.html",
+      "date": "2026-07-28",
+      "tier": "B"
+    },
+    {
+      "id": "s24",
+      "name": "新华网吉林《中国一汽悦意08正式全球上市 官方售价9.99万元起》",
+      "url": "https://jl.news.cn/20260712/2d46fb24b00d4054b97b568cf6c4e847/c.html",
+      "date": "2026-07-12",
+      "tier": "B"
+    },
+    {
+      "id": "s25",
+      "name": "中国财富网《一汽奔腾发布\"新奔腾\"品牌发展战略》",
+      "url": "https://m.cfbond.com/xw/detail/20181023/1000200033136381540199711541066545_1.html",
+      "date": "2018-10-23",
+      "tier": "B"
+    },
+    {
+      "id": "s26",
+      "name": "中国一汽官网70周年专题《2009年：一汽轿车奔腾B50上市》",
+      "url": "https://www.faw.com.cn/zt_fawcn/gq70zn/70nzj/5048039/index.html",
+      "date": "2009-07-20",
+      "tier": "A"
+    },
+    {
+      "id": "s27",
+      "name": "新浪汽车《2020北京车展：补贴后售19.68-22.88万元 奔腾E01上市》",
+      "url": "https://auto.sina.com.cn/newcar/x/2020-09-26/detail-iivhvpwy8796114.shtml",
+      "date": "2020-09-26",
+      "tier": "B"
+    },
+    {
+      "id": "s28",
+      "name": "汽车之家《售价3.49万起 全系续航222km 2026款奔腾小马上市》",
+      "url": "https://www.autohome.com.cn/news/202507/1307732.html",
+      "date": "2025-07-27",
+      "tier": "B"
+    },
+    {
+      "id": "s29",
+      "name": "中国商报网《中国一汽无声惊雷：高层高管发生重要人事变动的启示》",
+      "url": "https://www.zgswcn.com/news.html?aid=267093",
+      "date": "2025-05-06",
+      "tier": "B"
+    },
+    {
+      "id": "s30",
+      "name": "界面新闻（中华网转载）《涉及近30位高管变动 中国一汽大规模人事调整》",
+      "url": "https://news.china.com/socialgd/10000169/20231010/45576240_1.html",
+      "date": "2023-10-10",
+      "tier": "B"
+    },
+    {
+      "id": "s31",
+      "name": "中国一汽官网《上市指导价9.98万元起 一汽奔腾悦意07全球上市》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5853916/index.html",
+      "date": "2025-05-27",
+      "tier": "A"
+    },
+    {
+      "id": "s32",
+      "name": "中国一汽官网《一汽奔腾新能源序列\"悦意\"正式发布 首款车型悦意03上市》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5837909/index.html",
+      "date": "2025-03-28",
+      "tier": "A"
+    },
+    {
+      "id": "s33",
+      "name": "中国一汽官网《奔腾M9重磅上市 奔腾T90和奔腾小马首发亮相》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5628775/index.html",
+      "date": "2023-04-19",
+      "tier": "A"
+    },
+    {
+      "id": "s34",
+      "name": "新华网《微电萌主奔腾小马潮趣上市 售价2.69万元起》",
+      "url": "https://www.news.cn/auto/20240530/a4e7d74a8176431199919ce106885f70/c.html",
+      "date": "2024-05-30",
+      "tier": "B"
+    },
+    {
+      "id": "s35",
+      "name": "汽车之家《权益后售9.99万起 一汽悦意08正式上市》",
+      "url": "https://www.autohome.com.cn/news/202607/1315698.html",
+      "date": "2026-07-12",
+      "tier": "B"
+    },
+    {
+      "id": "s36",
+      "name": "网上车市《奔腾M9售22.98-24.98万元》",
+      "url": "https://news.cheshi.com/dujia/20230417/3394636.shtml",
+      "date": "2023-04-18",
+      "tier": "B"
+    },
+    {
+      "id": "s37",
+      "name": "每日经济新闻《独家｜一汽撤销解放事业本部和奔腾事业本部》",
+      "url": "https://www.nbd.com.cn/articles/2019-03-08/1308014.html",
+      "date": "2019-03-08",
+      "tier": "B"
+    },
+    {
+      "id": "s38",
+      "name": "中国一汽官网《中国一汽与零跑汽车持续深化合作》",
+      "url": "https://www.faw.com.cn/fawcn/373694/373706/5909348/index.html",
+      "date": "2025-12-29",
+      "tier": "A"
+    }
+  ]
+}
