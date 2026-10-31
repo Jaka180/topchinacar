@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:11:33 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changan Hits Record Overseas Quarter as Currency Losses Squeeze Chinese Automakers&apos; Q3 Profits</title>
+      <link>https://www.topchinacar.com/news/2026-10-31-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-10-31-china-auto-daily</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Changan sold a record 270,000 cars abroad in Q3 (+64.33%), and SAIC&apos;s Jan–Sep overseas sales hit 1.166 million, but FX losses and a delayed overseas subsidy cut into profits at Changan, SAIC and GWM.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>BYD&apos;s Q3 Profit Rises 28% as SAIC&apos;s Falls 77%; Volkswagen China Unveils VEGA Tech Matrix</title>
       <link>https://www.topchinacar.com/news/2026-10-30-china-market-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/chinese-cars-in-the-middle-east-why-demand-is-rising</guid>
       <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
       <description>The Gulf went from skeptical to one of the fastest-adopting regions for Chinese cars in five years. Petrol SUVs opened the door; EVs and flagship showrooms are walking through it.</description>
-      <category>Markets</category>
-    </item>
-    <item>
-      <title>Chinese Cars in Africa: SUVs, Pickups and Commercial Vehicles</title>
-      <link>https://www.topchinacar.com/news/chinese-cars-in-africa-suvs-pickups-and-commercial-vehicles</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chinese-cars-in-africa-suvs-pickups-and-commercial-vehicles</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Africa is the quietest front of China auto globalization — and possibly the most durable. The wedge is not EVs but affordable SUVs, working pickups and commercial vehicles, with local assembly starting to take root.</description>
       <category>Markets</category>
     </item>
   </channel>
