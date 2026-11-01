@@ -273,6 +273,29 @@
     });
   }
 
+  // ---- Homepage latest slot (data-intel-latest="N") ----
+  // 首页「人事变动」：按公告日取最新 N 条，有几条显示几条，一条都没有显示「暂无数据」。
+  function sortAppointments(list) {
+    return (list || []).slice().sort((a, b) => {
+      const da = a.announced_on || '', db = b.announced_on || '';
+      if (da !== db) return db.localeCompare(da);
+      return String(b.id || '').localeCompare(String(a.id || ''));
+    });
+  }
+  function renderLatestSlots() {
+    const slots = Array.from(document.querySelectorAll('[data-intel-latest]'));
+    if (!slots.length) return;
+    const names = companyNameMap();
+    fetchIntel().then(data => {
+      const appointments = sortAppointments(data.appointments);
+      for (const slot of slots) {
+        const n = parseInt(slot.getAttribute('data-intel-latest'), 10);
+        const items = appointments.slice(0, n > 0 ? n : 3);
+        slot.innerHTML = items.length ? items.map(a => renderAppointment(a, names)).join('') : emptyMessage();
+      }
+    });
+  }
+
   // ---- Company-detail blocks (data-intel-company) ----
   function renderCompanyBlocks() {
     const blocks = Array.from(document.querySelectorAll('[data-intel-company]'));
@@ -449,6 +472,7 @@
 
   function init() {
     renderPeoplePage();
+    renderLatestSlots();
     renderCompanyBlocks();
     initTipsForm();
   }
