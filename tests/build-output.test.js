@@ -65,6 +65,16 @@ test('build keeps Shanghai publication dates and emits accessible, stable markup
 
     // 首页改版（2026-10-28）后没有新闻列表和头图了：改查日报区块的标题层级
     assert.match(home, /<h1 class="hero-title">/);
+    // 研究报告只有一个地址（没有 /zh 版），中英文首页和公司页都必须链到原地址。
+    for (const report of JSON.parse(read('data/reports.json'))) {
+      assert.ok(fs.existsSync(path.join(siteRoot, report.url.slice(1) + '.html')), `研究报告页面缺失 ${report.url}`);
+      assert.ok(home.includes(`href="${report.url}"`), `首页应出现已登记的研究报告 ${report.url}`);
+      assert.ok(zhHome.includes(`href="${report.url}"`), `中文首页应出现已登记的研究报告 ${report.url}`);
+      assert.ok(read(`zh/chinese-car-brands/${report.company_id}.html`).includes(`href="${report.url}"`), `中文公司页的报告链接不能加 /zh 前缀`);
+    }
+    for (const htmlFile of collectHtmlFiles(siteRoot)) {
+      assert.doesNotMatch(fs.readFileSync(htmlFile, 'utf8'), /href="\/zh\/reports\//, `${htmlFile} 链到了不存在的 /zh/reports/`);
+    }
     assert.match(home, /<h2 class="section-title" id="home-briefings-title">/);
     assert.match(home, /<h4 class="home-daily-title">/);
     assert.match(home, /<h2 class="footer-heading"/);

@@ -231,7 +231,7 @@ function zhChrome(html) {
     .replace(/data-lang="zh" hidden/g, 'data-lang="zh" data-zh-keep')
     .replace(/data-lang="en"/g, 'data-lang="en" hidden')
     .replace(/data-lang="zh" data-zh-keep/g, 'data-lang="zh"');
-  html = html.replace(/href="\/(?!zh\/|zh"|images\/|css\/|js\/|api\/|cdn-cgi\/)/g, 'href="/zh/');
+  html = html.replace(/href="\/(?!zh\/|zh"|images\/|css\/|js\/|api\/|cdn-cgi\/|reports\/)/g, 'href="/zh/');
   return html;
 }
 
