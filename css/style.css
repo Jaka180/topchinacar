@@ -1907,49 +1907,6 @@ html[lang="zh"] h1, html[lang="zh"] h2, html[lang="zh"] h3, html[lang="zh"] h4 {
 }
 html[lang="zh"] .hero-title { letter-spacing: 0; }
 
-/* ============ HOT STRIP (top brand quick links) ============ */
-.hot-strip {
-  background: #f5f5f0;
-  border-top: 1px solid var(--rule);
-  border-bottom: 1px solid var(--rule);
-  padding: 10px 0;
-}
-.hot-strip-inner {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  flex-wrap: wrap;
-}
-.hot-strip-label {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--muted);
-  flex-shrink: 0;
-}
-.hot-pill {
-  display: inline-flex;
-  align-items: center;
-  padding: 5px 12px;
-  border-radius: 999px;
-  background: #fff;
-  border: 1px solid var(--rule);
-  font-family: var(--sans);
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--ink);
-  text-decoration: none;
-  transition: all 0.18s ease;
-  letter-spacing: 0.02em;
-}
-.hot-pill:hover {
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
-  transform: translateY(-1px);
-}
-
 /* ============ HOME BRANDS — 3 COLUMN GROUPS ============ */
 .home-brands-cols {
   display: grid;

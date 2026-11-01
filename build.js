@@ -434,18 +434,6 @@ function headerHTML(route, isZh = false) {
       </button>
     </div>
   </div>
-
-  <div class="hot-strip">
-    <div class="container hot-strip-inner">
-      <span class="hot-strip-label" data-i18n="nav.hot">Hot brands</span>
-      <a href="/chinese-car-brands/byd" class="hot-pill">BYD</a>
-      <a href="/chinese-car-brands/xiaomi" class="hot-pill">Xiaomi</a>
-      <a href="/chinese-car-brands/nio" class="hot-pill">NIO</a>
-      <a href="/chinese-car-brands/xpeng" class="hot-pill">Xpeng</a>
-      <a href="/chinese-car-brands/zeekr" class="hot-pill">Zeekr</a>
-      <a href="/chinese-car-brands/geely" class="hot-pill">Geely</a>
-    </div>
-  </div>
 </header>`;
 }
 
