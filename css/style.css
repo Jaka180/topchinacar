@@ -2790,6 +2790,11 @@ html[lang="zh"] .home-section-link { letter-spacing: 0.04em; }
   margin: 8px 0;
 }
 .home-intel-slot { min-height: 0; }
+.home-intel-slot > [data-intel-latest] {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
 .home-sales-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -3206,3 +3211,45 @@ th[aria-sort='descending'] .sales-sort-btn::after {
   .research-toc { gap: 8px 16px; padding: 14px; }
   .research-facts { grid-template-columns: 1fr; }
 }
+
+/* 人事卡片与解读卡片：人事情报页、首页「人事变动」、公司页人事块共用（原来只写在人事情报页里） */
+.intel-move{border:1px solid var(--line);border-radius:var(--r-md);padding:20px 22px;background:var(--white);}
+.intel-move-top{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:10px;}
+.intel-move-change{font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;padding:3px 8px;border-radius:999px;background:var(--paper-2);color:var(--ink-soft);border:1px solid var(--line);}
+.intel-move--departed .intel-move-change{color:var(--accent-deep);border-color:rgba(212,48,42,.35);background:rgba(212,48,42,.06);}
+.intel-move-company{font-family:var(--mono);font-size:12px;color:var(--muted);}
+.intel-move-person{font-size:20px;margin:0 0 8px;font-family:var(--serif);}
+.intel-move-role{font-size:14px;color:var(--muted);font-family:var(--sans);font-weight:500;}
+.intel-move-summary{font-size:15px;line-height:1.7;color:var(--ink-soft);margin:0 0 14px;}
+.intel-move-meta{display:flex;gap:20px;flex-wrap:wrap;font-size:13px;color:var(--muted);margin-bottom:12px;}
+.intel-move-source{margin-bottom:14px;font-size:14px;}
+.intel-move-source a,.intel-move-source-link{color:var(--accent);text-decoration:none;}
+.intel-move-source a:hover,.intel-move-source-link:hover{text-decoration:underline;}
+.intel-move-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:12px;border-top:1px solid var(--line);font-size:12px;flex-wrap:wrap;}
+.intel-ai-note{color:var(--muted);}
+.intel-correct{color:var(--accent);text-decoration:none;font-weight:500;}
+.intel-correct:hover{text-decoration:underline;}
+.analysis-list{display:grid;gap:16px;}
+.analysis-card{border:1px solid var(--line);border-radius:var(--r-md);padding:20px 22px;background:var(--white);}
+.analysis-card--contested{border-color:rgba(176,138,62,.4);}
+.analysis-card-head{display:flex;align-items:flex-start;gap:12px;justify-content:space-between;flex-wrap:wrap;}
+.analysis-card-title{font-family:var(--serif);font-size:20px;margin:0;}
+.analysis-tag{font-family:var(--mono);font-size:11px;padding:3px 8px;border-radius:999px;background:rgba(176,138,62,.12);color:#8a6a2e;border:1px solid rgba(176,138,62,.4);white-space:nowrap;}
+.analysis-card-meta{font-size:13px;color:var(--muted);margin:6px 0 10px;}
+.analysis-excerpt{font-size:15px;line-height:1.7;color:var(--ink-soft);margin:0 0 12px;}
+.analysis-toggle{font:inherit;font-size:13px;color:var(--accent);background:none;border:none;padding:0;cursor:pointer;font-weight:600;}
+.analysis-body{margin-top:14px;font-size:15px;line-height:1.8;color:var(--ink-soft);}
+.analysis-body p{margin:0 0 14px;}
+.analysis-body h2{font-size:20px;margin:22px 0 10px;font-family:var(--serif);}
+.analysis-body h3{font-size:17px;margin:18px 0 8px;}
+.analysis-body ul,.analysis-body ol{margin:0 0 14px;padding-left:22px;}
+.analysis-body li{margin-bottom:6px;}
+.analysis-body blockquote{border-left:3px solid var(--accent);margin:0 0 14px;padding:4px 0 4px 16px;color:var(--muted);}
+.analysis-body a{color:var(--accent);}
+.analysis-sources{font-size:13px;color:var(--muted);margin-top:14px;}
+.analysis-sources a{color:var(--accent);text-decoration:none;}
+.analysis-sources a:hover{text-decoration:underline;}
+.analysis-sources-label{font-weight:600;color:var(--ink-soft);}
+.analysis-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:12px;border-top:1px solid var(--line);margin-top:14px;font-size:12px;flex-wrap:wrap;}
+.company-intel{border:1px solid var(--line);border-radius:var(--r-md);padding:20px 22px;background:var(--white);margin-top:32px;}
+.company-intel-heading{font-family:var(--serif);font-size:22px;margin:0 0 16px;}
