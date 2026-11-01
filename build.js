@@ -268,6 +268,21 @@ const SITE_DATA = vm.runInContext('SITE_DATA', sandbox);
 // 正式公司路由固定保留；有效研究决定正文，缺失或失效时保留页面占位。
 const COMPANY_RESEARCH = loadResearch({ root: ROOT });
 const COMPANY_PAGES = researchCompanies(SITE_DATA.brands, COMPANY_RESEARCH);
+// 独立研究报告（整页 HTML，放在 /reports/ 下）：登记在 data/reports.json，公司页显示入口，并进 sitemap。
+const REPORTS = (() => {
+  try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data/reports.json'), 'utf8')).filter(r => r && r.company_id && /^\/reports\/[a-z0-9-]+$/.test(r.url || '')); }
+  catch { return []; }
+})();
+function companyReportsHTML(b) {
+  const list = REPORTS.filter(r => r.company_id === b.id).sort((x, y) => String(y.date).localeCompare(String(x.date)));
+  if (!list.length) return '';
+  return `<div class="company-reports" style="border:1px solid #e5e7eb;border-left:4px solid #12467e;border-radius:10px;padding:16px 20px;margin:0 0 32px;background:#f8fafc;">
+        <div style="font-size:13px;color:#6b7280;margin-bottom:8px;">${langSpan('In-depth reports', '深度研究报告')}</div>
+        <ul style="list-style:none;padding:0;margin:0;">
+          ${list.map(r => `<li style="margin:6px 0;"><a href="${escapeHtmlText(r.url)}" style="color:#12467e;font-weight:600;">${langSpan(escapeHtmlText(r.title_en || r.title_zh), escapeHtmlText(r.title_zh || r.title_en))}</a> <span style="font-size:13px;color:#9ca3af;">${escapeHtmlText(r.date)}</span></li>`).join('')}
+        </ul>
+      </div>`;
+}
 removeStaleResearchPages(ROOT, COMPANY_PAGES);
 
 // ---- Per-page metadata ----
@@ -1433,7 +1448,7 @@ function brandMain(b) {
         <p>${langSpan(ctx.en, ctx.zh)}</p>
       </div>
       ${companyStructureHTML(b)}` : ''}
-      ${renderResearch(COMPANY_RESEARCH.get(b.id), { placeholder: b.researchOnly })}
+      ${companyReportsHTML(b)}${renderResearch(COMPANY_RESEARCH.get(b.id), { placeholder: b.researchOnly })}
       ${companyPeopleHTML(b)}
       ${companySalesHTML(b)}
       ${related.length ? `
@@ -2876,7 +2891,8 @@ ${lines.join('\n')}
 
 // 子 sitemap 1：栏目/品牌/车型/市场等"页面"
 const pageLines = staticUrls.concat(sectionUrls, marketUrls, sourcePoolUrls, salesUrls, brandUrls, modelUrls, methodologySitemapLines(SITE));
-fs.writeFileSync(path.join(ROOT, 'sitemap-pages.xml'), urlset(pageLines.concat(zhMirror(pageLines))));
+const reportUrls = REPORTS.map(r => `  <url><loc>${SITE}${r.url}</loc><lastmod>${safeDate(r.date)}</lastmod></url>`);
+fs.writeFileSync(path.join(ROOT, 'sitemap-pages.xml'), urlset(pageLines.concat(zhMirror(pageLines), reportUrls)));
 
 // 子 sitemap 2：全部文章 + 深度故事（发布即随构建自动更新）
 const postLines = storyUrls.concat(articleUrls);

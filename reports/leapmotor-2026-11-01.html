@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>零跑汽车（09863.HK）深度研究报告 | 2026-11-01</title>
+<meta name="description" content="零跑汽车（09863.HK）深度研究：股东结构、财务质量、销量爬坡、车型矩阵。数据截至 2026-11-01。">
+<link rel="canonical" href="https://www.topchinacar.com/reports/leapmotor-2026-11-01">
+<script src="/js/vendor/echarts-5.5.1.min.js"></script>
+<style>
+:root{
+  --bg:#f5f6f8; --card:#ffffff; --ink:#1b2430; --ink2:#4a5568; --ink3:#7b8794;
+  --line:#e4e7ec; --brand:#12467e; --brand2:#1d6fb8; --accent:#e0663b;
+  --up:#d0342c; --down:#12945d; --gold:#b8860b;
+  --chip:#eef3f9;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  font-size:15px; line-height:1.75; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px 80px}
+
+/* ---------- Header ---------- */
+header{
+  background:linear-gradient(135deg,#12467e 0%,#1d6fb8 62%,#2b8ac9 100%);
+  color:#fff;padding:46px 0 40px;margin-bottom:30px;
+}
+header .wrap{padding-bottom:0}
+.hd-tag{display:inline-block;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.32);
+  padding:3px 12px;border-radius:20px;font-size:12.5px;letter-spacing:.5px;margin-bottom:14px}
+h1{font-size:34px;font-weight:700;letter-spacing:-.5px;line-height:1.3}
+.sub{margin-top:10px;font-size:14.5px;opacity:.9}
+.hd-meta{margin-top:22px;display:flex;flex-wrap:wrap;gap:24px;font-size:13px;opacity:.92}
+.hd-meta b{font-weight:600}
+
+/* ---------- TL;DR ---------- */
+.tldr{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:28px 30px;margin-bottom:30px;
+  box-shadow:0 1px 3px rgba(16,24,40,.05)}
+.tldr h2{font-size:19px;color:var(--brand);margin-bottom:14px;display:flex;align-items:center;gap:9px}
+.tldr h2::before{content:"";width:4px;height:18px;background:var(--accent);border-radius:2px}
+.verdict{font-size:16.5px;line-height:1.9;color:var(--ink);margin-bottom:20px}
+.verdict strong{color:var(--brand);font-weight:700}
+.verdict em{font-style:normal;color:var(--accent);font-weight:600}
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:14px;margin-top:22px}
+.kpi{background:#fafbfc;border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.kpi .k{font-size:12px;color:var(--ink3);margin-bottom:5px}
+.kpi .v{font-size:21px;font-weight:700;color:var(--brand);line-height:1.25}
+.kpi .v small{font-size:12.5px;font-weight:500;color:var(--ink2)}
+.kpi .d{font-size:11.5px;color:var(--ink3);margin-top:4px}
+.up{color:var(--up)!important} .down{color:var(--down)!important}
+
+/* ---------- Sections ---------- */
+section{margin-bottom:34px}
+h2.sec{font-size:22px;font-weight:700;color:var(--ink);margin:0 0 4px;display:flex;align-items:center;gap:11px}
+h2.sec .n{display:inline-flex;align-items:center;justify-content:center;width:29px;height:29px;
+  background:var(--brand);color:#fff;border-radius:8px;font-size:14px;font-weight:600}
+.sec-sub{font-size:13px;color:var(--ink3);margin:0 0 18px;padding-left:40px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px 28px;margin-bottom:18px;
+  box-shadow:0 1px 3px rgba(16,24,40,.05)}
+h3{font-size:16.5px;font-weight:650;color:var(--brand);margin:0 0 14px;padding-bottom:9px;border-bottom:1px solid var(--line)}
+h4{font-size:14.5px;font-weight:650;color:var(--ink);margin:20px 0 10px}
+
+/* ---------- Table ---------- */
+table{width:100%;border-collapse:collapse;font-size:13.5px;margin:12px 0}
+thead th{background:#f0f4f9;color:var(--brand);font-weight:650;text-align:left;padding:10px 12px;
+  border-bottom:2px solid #d7e2ee;white-space:nowrap;font-size:13px}
+tbody td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:hover{background:#fafbfd}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+td.c,th.c{text-align:center}
+.tag{display:inline-block;padding:1.5px 8px;border-radius:5px;font-size:11.5px;font-weight:600;white-space:nowrap}
+.t-blue{background:#e7f0f9;color:#12467e}
+.t-red{background:#fdeceb;color:#b32b23}
+.t-green{background:#e6f6ee;color:#0d7a4a}
+.t-gold{background:#fdf3e0;color:#96690b}
+.t-gray{background:#eef0f2;color:#5b6673}
+.t-purple{background:#f0ebfa;color:#5b3fa8}
+
+/* ---------- Chart ---------- */
+.chart{width:100%;height:340px;margin:8px 0}
+.chart-lg{height:420px}
+.chart-sm{height:280px}
+.chart-box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px 12px;margin:16px 0}
+.chart-box .ct{font-size:14.5px;font-weight:650;color:var(--ink);margin-bottom:2px}
+.chart-box .cs{font-size:12px;color:var(--ink3);margin-bottom:6px}
+.tabs{display:flex;gap:6px;margin:10px 0 4px}
+.tab{padding:4px 14px;font-size:12.5px;border:1px solid var(--line);background:#fff;border-radius:7px;
+  cursor:pointer;color:var(--ink2);user-select:none;transition:.15s}
+.tab:hover{border-color:var(--brand2);color:var(--brand)}
+.tab.on{background:var(--brand);border-color:var(--brand);color:#fff;font-weight:600}
+
+/* ---------- Equity boxes ---------- */
+.eq-wrap{display:grid;grid-template-columns:1fr;gap:14px}
+.eq-layer{display:flex;gap:12px;align-items:stretch}
+.eq-label{flex:0 0 92px;background:#f0f4f9;border-radius:9px;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;padding:10px 6px;text-align:center}
+.eq-label .l1{font-size:12px;font-weight:700;color:var(--brand);line-height:1.4}
+.eq-label .l2{font-size:11px;color:var(--ink3);margin-top:3px}
+.eq-items{flex:1;display:grid;gap:10px}
+.eq-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px}
+.eq{position:relative;border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:#fff;overflow:hidden}
+.eq::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px}
+.eq.s1::before{background:#12467e} .eq.s2::before{background:#1d6fb8}
+.eq.s3::before{background:#e0663b} .eq.s4::before{background:#7b8794}
+.eq.s5::before{background:#b8860b}
+.eq .nm{font-size:13.5px;font-weight:650;color:var(--ink);margin-bottom:3px}
+.eq .pct{font-size:19px;font-weight:700;color:var(--brand);line-height:1.2}
+.eq .pct small{font-size:12px;color:var(--ink2);font-weight:500}
+.eq .bg{font-size:11.5px;color:var(--ink3);margin-top:5px;line-height:1.55}
+
+/* ---------- Model matrix ---------- */
+.model-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(232px,1fr));gap:14px;margin:14px 0}
+.model{border:1px solid var(--line);border-radius:12px;padding:16px 17px;background:#fff;position:relative;
+  border-top:3px solid var(--brand2)}
+.model.a{border-top-color:#7b8794} .model.b{border-top-color:#1d6fb8}
+.model.c{border-top-color:#12467e} .model.d{border-top-color:#e0663b}
+.model .mn{font-size:17px;font-weight:700;color:var(--ink);display:flex;align-items:baseline;gap:8px}
+.model .mn span{font-size:11.5px;font-weight:600;color:#fff;background:var(--brand2);padding:1px 7px;border-radius:4px}
+.model.a .mn span{background:#7b8794} .model.b .mn span{background:#1d6fb8}
+.model.c .mn span{background:#12467e} .model.d .mn span{background:#e0663b}
+.model .pos{font-size:12.5px;color:var(--ink3);margin-top:5px}
+.model .price{font-size:16px;font-weight:700;color:var(--accent);margin-top:9px}
+.model .price small{font-size:11.5px;color:var(--ink3);font-weight:500}
+.model .role{font-size:12.5px;color:var(--ink2);margin-top:9px;padding-top:9px;border-top:1px dashed var(--line);line-height:1.6}
+
+/* ---------- Price ladder ---------- */
+.ladder{margin:16px 0}
+.lad-row{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.lad-band{flex:0 0 96px;font-size:12.5px;font-weight:650;color:var(--brand);text-align:right}
+.lad-bar{flex:1;height:30px;background:#eef1f5;border-radius:6px;position:relative;overflow:hidden}
+.lad-fill{height:100%;background:linear-gradient(90deg,#1d6fb8,#12467e);border-radius:6px;
+  display:flex;align-items:center;padding-left:10px;color:#fff;font-size:12.5px;font-weight:600}
+.lad-fill.o{background:linear-gradient(90deg,#f0a578,#e0663b)}
+.lad-fill.g{background:linear-gradient(90deg,#8fb8dd,#7b8794)}
+.lad-note{flex:0 0 210px;font-size:12px;color:var(--ink2)}
+
+/* ---------- Note / callout ---------- */
+.note{background:#fbfaf7;border-left:3px solid var(--gold);padding:13px 16px;border-radius:0 8px 8px 0;
+  font-size:13px;color:var(--ink2);line-height:1.75;margin:14px 0}
+.note b{color:var(--ink)}
+.warn{background:#fdf4f2;border-left:3px solid var(--up);padding:13px 16px;border-radius:0 8px 8px 0;
+  font-size:13px;color:var(--ink2);line-height:1.75;margin:14px 0}
+.warn b{color:var(--ink)}
+.src{font-size:11.5px;color:var(--ink3);margin-top:8px;line-height:1.6}
+.src a{color:var(--brand2);text-decoration:none}
+.src a:hover{text-decoration:underline}
+
+/* ---------- Logic cards ---------- */
+.logic{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin:14px 0}
+.lg{border:1px solid var(--line);border-radius:11px;padding:16px 18px;background:#fff}
+.lg .h{font-size:14.5px;font-weight:650;color:var(--brand);margin-bottom:8px;display:flex;gap:8px;align-items:center}
+.lg .h .idx{flex:0 0 22px;height:22px;border-radius:50%;background:var(--brand);color:#fff;
+  font-size:12px;display:inline-flex;align-items:center;justify-content:center}
+.lg .body{font-size:13px;color:var(--ink2);line-height:1.8}
+.lg .body b{color:var(--ink)}
+.pill{display:inline-block;font-size:11px;padding:1.5px 8px;border-radius:11px;font-weight:600;margin-top:9px}
+.pill.y{background:#fdf3e0;color:#96690b} .pill.n{background:#e6f6ee;color:#0d7a4a}
+.pill.r{background:#fdeceb;color:#b32b23}
+
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:900px){.two{grid-template-columns:1fr}.lad-note{display:none}h1{font-size:26px}}
+footer{margin-top:44px;padding-top:22px;border-top:1px solid var(--line);font-size:12px;color:var(--ink3);line-height:1.9}
+.tbl-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%}
+@media(max-width:640px){html,body{overflow-x:hidden}}
+</style>
+</head>
+<body>
+<div style="background:#0f2f55;color:#cfe0f3;font-size:13px;padding:9px 0">
+  <div class="wrap" style="padding-bottom:0;display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center">
+    <a href="/zh/" style="color:#fff;font-weight:600;text-decoration:none">TopChinaCar</a>
+    <a href="/zh/chinese-car-brands/leapmotor" style="color:#cfe0f3">← 零跑汽车公司页</a>
+    <a href="/chinese-car-brands/leapmotor" style="color:#cfe0f3">Leapmotor (English)</a>
+  </div>
+</div>
+
+<header>
+<div class="wrap">
+  <div class="hd-tag">港股 · 新能源汽车 · 深度研究</div>
+  <h1>零跑汽车（09863.HK）深度研究</h1>
+  <div class="sub">股东结构 · 财务质量 · 销量爬坡 · 车型矩阵（定位 / 价格 / 销量）</div>
+  <div class="hd-meta">
+    <div>报告日期：<b>2026-11-01</b></div>
+    <div>最新收盘：<b>31.22 港元</b>（2026-10-30）</div>
+    <div>总市值：<b>443.9 亿港元</b></div>
+    <div>最新已披露财报：<b>2026 年中期报告</b>（2026-08-24）</div>
+    <div>Q3 业绩：<b>未披露</b>（预计 11-13 盘后）</div>
+  </div>
+</div>
+</header>
+
+<div class="wrap">
+
+<!-- ============ TL;DR ============ -->
+<div class="tldr">
+  <h2>核心结论</h2>
+  <div class="verdict">
+    零跑已经把<strong>"量"</strong>跑成了中国新势力的断层第一——2026 年 10 月交付 106,127 台，连续 4 个月单月破 10 万，1–10 月累计 77.27 万台；但<strong>"利"</strong>仍是薄如刀片：2026 上半年归母净利 2.08 亿元，<em>单车净利仅约 583 元</em>，CFO 已把全年净利指引从年初 50 亿元下修到约 30 亿元。
+    股东层面它是中国新势力里最特殊的一个：<strong>创始人一致行动集团（约 25%）+ Stellantis（19.99%）+ 央企一汽（约 5%）+ 地方国资</strong>——民营实控、外资巨头、国家队三方制衡，谁都不控股。
+    <br><br>
+    一句话概括：<strong>买零跑本质上是在买"全域自研带来的成本优势能否在规模兑现后转化为可持续利润"，以及"D 系列高端化能否把毛利率从 11% 拉回 14%+"</strong>。目前市场给的是"销量故事已充分定价、利润故事尚未定价"的状态——股价年内跌 35.79%，贴近 52 周低点，20 家覆盖机构一致目标价 61.92 港元，与现价存在近 85% 的差距，这个分歧本身就是最大的预期差所在。
+  </div>
+  <div class="kpi-grid">
+    <div class="kpi"><div class="k">2026H1 营收</div><div class="v">381.1<small> 亿元</small></div><div class="d">同比 +57.2%</div></div>
+    <div class="kpi"><div class="k">2026H1 归母净利</div><div class="v">2.08<small> 亿元</small></div><div class="d">单车仅 583 元</div></div>
+    <div class="kpi"><div class="k">2026H1 毛利率</div><div class="v down">11.7<small>%</small></div><div class="d">同比 -2.4pct</div></div>
+    <div class="kpi"><div class="k">10 月交付</div><div class="v">106,127<small> 台</small></div><div class="d">同比 +51%，新势力第一</div></div>
+    <div class="kpi"><div class="k">1–10 月累计</div><div class="v">77.27<small> 万台</small></div><div class="d">对 105 万目标达成 73.6%</div></div>
+    <div class="kpi"><div class="k">在手资金</div><div class="v">385.9<small> 亿元</small></div><div class="d">截至 2026-06-30</div></div>
+    <div class="kpi"><div class="k">资产负债率</div><div class="v up">81.6<small>%</small></div><div class="d">较 2025 年末 +4.1pct</div></div>
+    <div class="kpi"><div class="k">年初至今股价</div><div class="v down">-35.79<small>%</small></div><div class="d">52 周高 59.95 / 低 31.18</div></div>
+  </div>
+  <div class="src">数据来源：公司 2026 年中期报告（2026-08-24 披露，人民币口径）；10 月交付为公司 2026-11-01 公告；行情为 westock 港股行情 2026-10-30 收盘。机构目标价为第三方平台汇总（长桥，2026-10-24），非一手来源，需核实原文。</div>
+</div>
+
+<!-- ============ 1. 股东 ============ -->
+<section>
+  <h2 class="sec"><span class="n">1</span>股东结构：三方制衡，民营实控</h2>
+  <p class="sec-sub">创始团队一致行动人 · Stellantis · 央企与地方国资 · 公众与机构</p>
+
+  <div class="card">
+    <h3>股权全景（截至 2026-11-01，按已发行总股本口径）</h3>
+    <div class="eq-wrap">
+
+      <div class="eq-layer">
+        <div class="eq-label"><div class="l1">实际控制方</div><div class="l2">民营 · 一致行动</div></div>
+        <div class="eq-items">
+          <div class="eq-row">
+            <div class="eq s1">
+              <div class="nm">朱江明 + 傅利泉 一致行动集团</div>
+              <div class="pct">约 24.7%–25.1% <small>单一最大股东集团</small></div>
+              <div class="bg">含朱江明及配偶刘云珍、傅利泉及配偶陈爱玲，四人集团。2016 年首签一致行动协议，2025-03-05 续签至 <b>2028-09-28</b>；<b>无法达成共识时按朱江明指示投票</b>。2023-11 承诺 10 年不减持，2025–2026 多次增持。</div>
+            </div>
+            <div class="eq s1">
+              <div class="nm">朱江明（个人权益披露口径）</div>
+              <div class="pct">8.47% <small>1.204 亿股</small></div>
+              <div class="bg">创始人、董事长兼 CEO。大华股份联合创始人、前 CTO。近一年增持约 808.7 万股（港交所权益披露）。</div>
+            </div>
+            <div class="eq s1">
+              <div class="nm">傅利泉（个人权益披露口径）</div>
+              <div class="pct">8.07% <small>1.147 亿股</small></div>
+              <div class="bg">大华股份（002236.SZ）董事长兼实控人，零跑联合创始人、早期主要出资人。近一年增持约 842 万股。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="eq-layer">
+        <div class="eq-label"><div class="l1">外资战略</div><div class="l2">第一大单一股东</div></div>
+        <div class="eq-items">
+          <div class="eq-row">
+            <div class="eq s3">
+              <div class="nm">Stellantis N.V.</div>
+              <div class="pct">19.99% <small>2.843 亿股</small></div>
+              <div class="bg">全球第四大汽车集团。2023-10 以约 15 亿欧元（约 115 亿元人民币）入股：新股认购 43.8 港元/股 + 受让大华股份 9,000 万股。<b>持有"零跑国际"51% 股权</b>，是零跑出海的唯一通道。拥有 2 个非执行董事席位。一汽定增交割后摊薄至 <b>18.99%</b>。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="eq-layer">
+        <div class="eq-label"><div class="l1">国家队</div><div class="l2">已获批待交割</div></div>
+        <div class="eq-items">
+          <div class="eq-row">
+            <div class="eq s2">
+              <div class="nm">一汽股权投资（天津）</div>
+              <div class="pct">约 5.00% <small>37.44 亿元</small></div>
+              <div class="bg"><b>央企</b>中国一汽全资子公司。2025-12-28 签约，50.03 元/股 × 7,483.22 万股内资股，占扩大后内资股约 20.47%。2026-09-10 获证监会注册批复，<b>尚待交割</b>。承诺 1 年不转让，明确不谋求控股。</div>
+            </div>
+            <div class="eq s2">
+              <div class="nm">金华金义高新产业投资集团</div>
+              <div class="pct">约 3.66%–4% <small>30 亿元</small></div>
+              <div class="bg"><b>金华市国资委</b>穿透控股的纯国企（金义控股 100% 持股）。2026-01-06 签约，同价 50.03 元/股 × 5,996.40 万股。对应零跑金华整车基地所在地产业资本。</div>
+            </div>
+            <div class="eq s2">
+              <div class="nm">杭州国舜领跑</div>
+              <div class="pct">4.26% <small>6,053.6 万股</small></div>
+              <div class="bg"><b>杭州市国资委</b>体系，2021 年 B 轮出资 30 亿元入股，IPO 时持股 5.98%，是最早、最重的地方国资股东。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="eq-layer">
+        <div class="eq-label"><div class="l1">早期资本</div><div class="l2">财务 / 通道</div></div>
+        <div class="eq-items">
+          <div class="eq-row">
+            <div class="eq s4">
+              <div class="nm">宁波华绫创投</div>
+              <div class="pct">3.98%</div>
+              <div class="bg">陈爱玲（傅利泉配偶）控制的家族平台，傅益钦持 99% 权益，<b>属一致行动集团间接通道，非独立财务投资人</b>。</div>
+            </div>
+            <div class="eq s4">
+              <div class="nm">国信证券</div>
+              <div class="pct">3.36%</div>
+              <div class="bg">为零跑<b>员工持股计划管理人</b>身份持有（"国信证券零跑科技员工持股 1 号"），属激励通道，不宜按财务投资解读。</div>
+            </div>
+            <div class="eq s4">
+              <div class="nm">湖州新创 + 湖州中小创投</div>
+              <div class="pct">各 1.90%</div>
+              <div class="bg">湖州市国资/产业资本，各持 2,700.5 万股。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="eq-layer">
+        <div class="eq-label"><div class="l1">机构资金</div><div class="l2">被动/主权</div></div>
+        <div class="eq-items">
+          <div class="eq-row">
+            <div class="eq s5">
+              <div class="nm">Norges Bank（挪威主权基金）</div>
+              <div class="pct">1.97% <small>2,807 万股</small></div>
+              <div class="bg">2026 年大幅加仓 2,062 万股，报告期 2026-06-30。</div>
+            </div>
+            <div class="eq s5">
+              <div class="nm">Vanguard（先锋领航）</div>
+              <div class="pct">1.88%</div>
+              <div class="bg">被动指数类持仓，报告期 2026-07-31。</div>
+            </div>
+            <div class="eq s5">
+              <div class="nm">南向资金（港股通）</div>
+              <div class="pct">31.04% <small>占流通股</small></div>
+              <div class="bg">持股 3.511 亿股，市值约 109.6 亿元（2026-10-30）。年初至今净买入 28.8 亿元，180 日增持比例 +10.57%，<b>但近 20 日净流出 6,097 万股</b>。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="note">
+      <b>口径必须区分（否则会读错）</b>：① 港交所权益披露中的"朱江明 8.47% / 傅利泉 8.07%"是<b>个人直接 + 部分视为权益</b>条目，不是集团合计口径；集团合计（含配偶、受控法团、共同持有）约为 <b>24.7%–25.1%</b>。② 公司中期报告同时披露"占内资股比例"与"占总股本比例"两栏，两者分母不同，不可混读。③ 一汽与金义高新的 5% / 3.66% 属<b>已签约 + 已获证监会注册批复（证监许可〔2026〕2434 号，2026-09-10）</b>，但截至 2026-10 月初月报表尚未见发行完成披露，故部分数据库快照（截至 2026-11-01）中仍未体现——这是"已获批待交割"，不是"未发生"。
+    </div>
+    <div class="src">来源：公司 2026 年中期报告（HKEX，2026-09-28 上传）；港交所权益披露（截至 2026-11-01）；中证网《零跑汽车 67.44 亿元定增获证监会注册批复》2026-09-17；中国经济网 2025-12-31；招股书及 IPO 公开资料。股东比例为公开披露口径，存在内资股/H股/总股本多口径差异。</div>
+  </div>
+
+  <div class="card">
+    <h3>控制权格局的三个关键点</h3>
+    <div class="logic">
+      <div class="lg">
+        <div class="h"><span class="idx">1</span>实控权稳固，但"主动加固"痕迹明显</div>
+        <div class="body">一汽、Stellantis 入股协议中<b>均对持股比例设明确约定并声明不谋求控股</b>。朱江明在 2025-12-29 媒体沟通会上反复强调"保证实控人控制权不会改变"。为对冲定增摊薄，朱江明与傅利泉在 2025-12-11 增持 215.06 万股 H 股，把集团份额从 23.47% 顶回 <b>23.75%</b>，2026 年 6–7 月继续增持至 25.05%。<br><span class="pill y">观察点</span> 证监会 2026-06 定增问询专门要求说明"一致行动协议是否可能变更或解除"。</div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">2</span>Stellantis 是股东，更是"出海总代理"</div>
+        <div class="body">Stellantis 的 19.99% 不是纯财务投资：它持有<b>零跑国际 51% 股权</b>，零跑所有海外销售经由这一合资公司完成——2026H1 欧洲收入 88.75 亿元（占 23.29%，同比 +379.75%）正是这条通道的产物。好处是借道成熟渠道闪电铺开（已进入 45 个海外市场、超 1,000 家网点）；代价是<b>海外利润要分一半出去，且议价权不在自己手上</b>。<br><span class="pill r">风险</span> 这条通道的条款细节未公开披露，是估值的隐性折扣项。</div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">3</span>国资是"资源型股东"，三层结构、合计超 15%</div>
+        <div class="body">中央（一汽约 5%）+ 省/市（浙江省产业基金、金华金义高新约 3.66%、杭州国舜 4.26%、湖州系合计约 3.8%）+ 早期基石（金华市产业基金、金开引领基金）。<b>分散在不同主体、均不谋求控股、不构成一致行动</b>，属于资源型与财务型持股。真正的价值不在资金，而在于<b>一汽的动力总成/固态电池技术协同</b>（2026-09-17 已与旗新动力、中汽新能签投资意向书与技术合作协议）。<br><span class="pill y">潜在变数</span> "同等条件优先认购"条款意味着一汽与金义高新未来可按同等条件增持。</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 2. 财务 ============ -->
+<section>
+  <h2 class="sec"><span class="n">2</span>财务：规模兑现了，利润还在路上</h2>
+  <p class="sec-sub">2023–2025 年报 + 2026 中报，人民币口径</p>
+
+  <div class="two">
+    <div class="chart-box">
+      <div class="ct">营收与毛利率：收入翻了近 4 倍，毛利率却在 2026 年掉头</div>
+      <div class="cs">2026H1 为半年度数据，与年度数据不同量级，仅看趋势方向</div>
+      <div id="c_rev" class="chart"></div>
+    </div>
+    <div class="chart-box">
+      <div class="ct">归母净利润：2025 年首次年度转正，2026H1 仅 2.08 亿</div>
+      <div class="cs">单位：亿元人民币；2026H1 为半年度</div>
+      <div id="c_np" class="chart"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>五年财务主线（公司财报口径）</h3>
+    <div class="tbl-scroll"><table>
+      <thead>
+        <tr>
+          <th>指标</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th>
+          <th class="num">2026H1</th><th>解读</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>营业收入（亿元）</td><td class="num">167.47</td><td class="num">321.64</td><td class="num">647.32</td><td class="num">381.07</td><td>2025 同比 +101.3%；2026H1 同比 +57.2%</td></tr>
+        <tr><td>毛利率</td><td class="num">0.48%</td><td class="num">8.38%</td><td class="num">14.54%</td><td class="num down">11.67%</td><td>三年爬升 14pct，2026 年因原材料涨价回落</td></tr>
+        <tr><td>归母净利（亿元）</td><td class="num down">-42.16</td><td class="num down">-28.21</td><td class="num up">+5.38</td><td class="num up">+2.08</td><td>2024Q4 首次单季转正（0.8 亿），2025 首次年度转正</td></tr>
+        <tr><td>净利率</td><td class="num down">-25.18%</td><td class="num down">-8.77%</td><td class="num">0.83%</td><td class="num">0.55%</td><td>仍在 1% 以下的"刀片利润"</td></tr>
+        <tr><td>交付量（台）</td><td class="num">144,155</td><td class="num">293,724</td><td class="num">596,555</td><td class="num">356,487</td><td>连续两年翻倍，2026H1 同比 +60.8%</td></tr>
+        <tr><td>单车收入（万元）</td><td class="num">11.62</td><td class="num">10.95</td><td class="num">10.85</td><td class="num">10.69</td><td><b>逐年下移 = 以价换量 + 低价车型占比提升</b></td></tr>
+        <tr><td>单车净利（元）</td><td class="num down">-29,246</td><td class="num down">-9,604</td><td class="num up">+902</td><td class="num up">+583</td><td>2026H1 单车净利同比<b>不升反降</b></td></tr>
+        <tr><td>经营现金流（亿元）</td><td class="num">10.82</td><td class="num">84.71</td><td class="num">126.23</td><td class="num down">21.70</td><td>2026H1 同比 -24.1%（去年同期 28.6 亿）</td></tr>
+        <tr><td>自由现金流（亿元）</td><td class="num down">-2.25</td><td class="num">63.71</td><td class="num">78.77</td><td class="num down">1.40</td><td><b>2026H1 同比 -83.7%</b>，营运资本占用加大</td></tr>
+        <tr><td>资产负债率</td><td class="num">56.07%</td><td class="num">73.25%</td><td class="num">77.53%</td><td class="num up">81.63%</td><td>两年半上升 25.6pct，扩张期杠杆快速抬升</td></tr>
+        <tr><td>ROE</td><td class="num down">-40.62%</td><td class="num down">-25.00%</td><td class="num">4.45%</td><td class="num">1.49%<span style="font-size:11px;color:#7b8794">（加权，半年）</span></td><td>转正但仍在极低水平</td></tr>
+      </tbody>
+    </table></div>
+    <div class="src">来源：公司 2023/2024/2025 年报及 2026 年中期报告（人民币口径）。"单车收入""单车净利"为按当期营收/交付量测算，非公司披露口径，仅供参考。2026H1 资产负债率取自 westock 财务库（港元口径 81.63%），与公司人民币口径可能存在小数点差异。</div>
+
+    <div class="warn">
+      <b>2026 年真正的拐点不在上半年，而在 Q1→Q2 的毛利率跳升。</b>Q1 毛利率跌到 <b>9.4%</b>、归母净亏 3.9 亿元；Q2 回升至 <b>12.6%</b>（环比 +3.2pct）、归母净利 6.0 亿元、环比扭亏 9.9 亿元。驱动 Q2 改善的核心是 <b>D19 放量</b>——二季度交付 1.95 万台、终端均价约 25 万元、单车型贡献营收近 49 亿元，行业测算毛利率约 18%（第三方测算，需核实原文）。这意味着零跑的利润修复高度依赖高端车型，而非规模本身。
+    </div>
+  </div>
+
+  <div class="two">
+    <div class="chart-box">
+      <div class="ct">单车经济：售价持续下移，单车净利仍在三位数</div>
+      <div class="cs">左轴 ASP（万元），右轴单车净利（元）</div>
+      <div id="c_unit" class="chart"></div>
+    </div>
+    <div class="chart-box">
+      <div class="ct">2026H1 收入结构：欧洲占比已近四分之一</div>
+      <div class="cs">地域维度，人民币口径</div>
+      <div id="c_geo" class="chart"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>全年指引与市场预期：从 50 亿下修到 30 亿</h3>
+    <div class="tbl-scroll"><table>
+      <thead><tr><th>项目</th><th>年初目标</th><th>当前指引 / 最新</th><th>变化</th></tr></thead>
+      <tbody>
+        <tr><td>2026 全年净利润</td><td>约 50 亿元</td><td class="num"><b>约 30 亿元</b>（CFO 李腾飞，2026-08-24 电话会）</td><td><span class="tag t-red">下修 40%</span></td></tr>
+        <tr><td>综合毛利率</td><td>—</td><td>13%–14%（全年）</td><td>H1 实际 11.67%，需下半年改善</td></tr>
+        <tr><td>整车销售毛利率</td><td>—</td><td>10%–11%（全年）</td><td>—</td></tr>
+        <tr><td>销量目标</td><td>100 万辆（朱江明 2025-12）</td><td><b>105 万辆</b>（COO 徐军 2026-02-05 上调）</td><td><span class="tag t-blue">上调 5%</span></td></tr>
+        <tr><td>出口目标</td><td>全年约 15 万台（已提前完成）</td><td>上调至 <b>20 万台</b>；2027 年 35–40 万台</td><td><span class="tag t-green">上调</span></td></tr>
+        <tr><td>2026Q3 营收（市场预估）</td><td>—</td><td>约 385 亿元（第三方平台汇总）</td><td><span class="tag t-gray">非一手来源，需核实</span></td></tr>
+      </tbody>
+    </table></div>
+    <div class="src">来源：公司 2026 中期业绩电话会（CFO 李腾飞，2026-08-24）；搜狐/网通社 2026-02-05 报道徐军上调销量目标；长桥证券周报 2026-10-24 援引市场预估与财报日历。Q3 财报<b>尚未披露</b>，日历显示预计 2026-11-13 盘后。</div>
+
+    <div class="note">
+      <b>30 亿净利意味着什么？</b>上半年只做了 2.08 亿，全年要 30 亿，意味着下半年需要约 <b>28 亿</b>。按下半年保守交付 45 万台测算，需要单车净利约 620 元；若交付 50 万台，则需约 560 元。<b>换句话说：下半年单车净利必须比上半年的 583 元更高，且不能有任何闪失。</b>考虑到 Q4 通常是冲量季（终端优惠加大）且碳酸锂价格已在上半年形成压力，这个指引的下行风险大于上行弹性。
+    </div>
+  </div>
+</section>
+
+<!-- ============ 3. 销量 ============ -->
+<section>
+  <h2 class="sec"><span class="n">3</span>销量：新势力断层第一，但目标缺口明显</h2>
+  <p class="sec-sub">2026 年月度节奏 · 出口第二曲线 · 同业横向对比</p>
+
+  <div class="chart-box">
+    <div class="ct">2026 年月度交付量：7 月起站上 10 万台台阶</div>
+    <div class="cs">单位：台；数据来源为公司月度交付公告</div>
+    <div class="tabs"><div class="tab on" data-t="m">图</div><div class="tab" data-t="mt">表</div></div>
+    <div id="c_month" class="chart chart-lg"></div>
+    <div id="t_month" style="display:none">
+      <div class="tbl-scroll"><table>
+        <thead><tr><th>月份</th><th class="num">交付量（台）</th><th class="num">同比</th><th>备注</th></tr></thead>
+        <tbody>
+          <tr><td>1 月</td><td class="num">32,059</td><td class="num">+27.4%</td><td>—</td></tr>
+          <tr><td>2 月</td><td class="num">28,067</td><td class="num">—</td><td>春节月</td></tr>
+          <tr><td>3 月</td><td class="num">50,029</td><td class="num">—</td><td>A10 于 3-26 上市</td></tr>
+          <tr><td>4 月</td><td class="num">71,387</td><td class="num">+73.9%</td><td>D19 于 4-16 上市</td></tr>
+          <tr><td>5 月</td><td class="num">81,569</td><td class="num">—</td><td>当时品牌单月纪录</td></tr>
+          <tr><td>6 月</td><td class="num">93,376</td><td class="num">—</td><td>H1 累计 356,487 台</td></tr>
+          <tr><td>7 月</td><td class="num">101,267</td><td class="num">+102.0%</td><td><b>新势力首个单月破 10 万</b></td></tr>
+          <tr><td>8 月</td><td class="num">103,129</td><td class="num">+80.7%</td><td>—</td></tr>
+          <tr><td>9 月</td><td class="num">105,656</td><td class="num">+59%</td><td>单月出口超 2.7 万台</td></tr>
+          <tr><td>10 月</td><td class="num"><b>106,127</b></td><td class="num">+51%</td><td>环比仅 +471 台，增长见顶迹象</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div class="src">来源：零跑汽车月度交付公告（2026-11-01 公布 10 月数据）；1–10 月累计 772,666 台（同比 +65.9%）。同比栏"—"表示原始公告未披露该月同比。</div>
+  </div>
+
+  <div class="two">
+    <div class="chart-box">
+      <div class="ct">年度交付：2026 已超 2025 全年</div>
+      <div class="cs">2026 为 1–10 月累计 vs 全年目标</div>
+      <div id="c_year" class="chart"></div>
+    </div>
+    <div class="chart-box">
+      <div class="ct">出口：2026H1 已超 2025 全年总量</div>
+      <div class="cs">单位：台</div>
+      <div id="c_exp" class="chart"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>2026 年 10 月新势力横向对比</h3>
+    <div class="tbl-scroll"><table>
+      <thead><tr><th>品牌</th><th>代码</th><th class="num">10 月交付（台）</th><th class="num">同比</th><th>状态</th></tr></thead>
+      <tbody>
+        <tr><td><b>零跑汽车</b></td><td>09863.HK</td><td class="num"><b>106,127</b></td><td class="num up">+51%</td><td><span class="tag t-red">断层第一，连续 4 月破 10 万</span></td></tr>
+        <tr><td>小鹏汽车</td><td>09868.HK</td><td class="num">50,237</td><td class="num up">+20%</td><td>海外 13,326 台创新高</td></tr>
+        <tr><td>小米汽车</td><td>01810.HK</td><td class="num">超 50,000</td><td class="num">—</td><td>产能爬坡中</td></tr>
+        <tr><td>鸿蒙智行</td><td>非上市</td><td class="num">33,537</td><td class="num down">同比腰斩</td><td>—</td></tr>
+        <tr><td>深蓝汽车</td><td>非上市</td><td class="num">32,602</td><td class="num">—</td><td>—</td></tr>
+        <tr><td>极氪</td><td>非上市</td><td class="num">32,483</td><td class="num up">+51.6%</td><td>环比 -12.7%</td></tr>
+        <tr><td>蔚来</td><td>09866.HK</td><td class="num">34,246</td><td class="num down">-15.2%</td><td>1–9 月累计 300,301 台（+49.2%）</td></tr>
+        <tr><td>理想汽车</td><td>02015.HK</td><td class="num">29,025</td><td class="num down">-9%</td><td>同比转负，压力最大</td></tr>
+      </tbody>
+    </table></div>
+    <div class="src">来源：各公司 2026-11-01 月度交付公告汇总（网易车市红点 2026-11-01 整理，<a href="https://www.163.com/dy/article/LAM3A2BT052784D6.html" target="_blank">原文</a>）；蔚来数据另见其 SEC 6-K 文件。该表为媒体汇总，非一手来源，需核实原文。零跑 10.6 万台约为第二名小鹏的 <b>2.1 倍</b>。</div>
+
+    <div class="warn">
+      <b>105 万目标的算术现实：</b>1–10 月累计 772,666 台，剩余 11–12 月需交付 <b>277,334 台</b>，即月均 <b>13.87 万台</b>——比目前 10.6 万台的月产能高出 <b>31%</b>。即便按年初 100 万目标算，也需月均 11.4 万台。管理层（曹力、徐军）仍表态不调整目标。我的判断是：<b>大概率落在 95–102 万台区间</b>，11–12 月冲量会带来终端折扣加大，进而压制 Q4 毛利率——这是"保销量"与"保利润"之间的直接冲突，也是 Q4 最值得盯的变量。
+    </div>
+
+    <div class="note">
+      <b>出口是真正的第二曲线，但它是"低毛利曲线"。</b>2026H1 出口 96,294 台（同比 +372.6%），一个半年就超过 2025 全年（67,052 台）；1–9 月累计超 15 万台，提前完成全年目标，指引上调至 20 万台。欧洲战绩：意大利纯电市占率超 25%（品牌第一）、德国中国电动车品牌销量第一、英国中国纯电零售第三，1–9 月欧洲销量 8.79 万辆（同比 +424.2%）。<b>代价写在财报里</b>：出海前三年以低毛利模式抢市场，B 系列（定位低于 C 系列）在出口中占比提升，直接拉低综合毛利率；本地化（西班牙萨拉戈萨 2026-10 已投产 B10/B05、马来西亚、巴西）短期抵不过国内零部件采购成本上升。
+    </div>
+  </div>
+</section>
+
+<!-- ============ 4. 车型（核心） ============ -->
+<section>
+  <h2 class="sec"><span class="n">4</span>车型矩阵：A 打底、B/C 强腰、D 冲高</h2>
+  <p class="sec-sub">本报告核心章节 · 定位 / 价格 / 销量 / 战略角色</p>
+
+  <div class="card">
+    <h3>4.1 产品金字塔：6.39 万 – 33.98 万全覆盖</h3>
+    <p style="font-size:13.5px;color:var(--ink2);margin-bottom:6px">
+      高级副总裁兼 COO 徐军把这套矩阵概括为一句话：<b>"用 A 向下扎到根，用 D 向上捅到天，用 B、C 强腰支撑好中间。"</b>截至 2026 年 11 月，在售约 11 个车型名称，覆盖轿车 / SUV / MPV 全品类，纯电与增程双动力。
+    </p>
+
+    <div class="model-grid">
+      <div class="model d">
+        <div class="mn">D99 <span>D 系 · MPV</span></div>
+        <div class="pos">中大型 MPV · 对标埃尔法</div>
+        <div class="price">24.98–33.98 万 <small>品牌首款 30 万级 MPV</small></div>
+        <div class="role">向上试探。首批车平均成交价破 30 万，宁德时代董事长曾毓群为首批车主。首月交付 2,047 台，距月销 5,000 台目标仍有差距。</div>
+      </div>
+      <div class="model d">
+        <div class="mn">D19 <span>D 系 · 大型 SUV</span></div>
+        <div class="pos">全尺寸 SUV · 旗舰 D 平台首款</div>
+        <div class="price">21.98–26.98 万 <small>双 8797 芯片 + VLA 大模型</small></div>
+        <div class="role"><b>高端突破核心。</b>40 万内大型 SUV 连续三月销冠，7 月破万（10,043 台），终端均价约 25 万。<b>但 9 月回落至 3,018 台（环比 -50%）</b>，稳定性不足。</div>
+      </div>
+      <div class="model c">
+        <div class="mn">C16 <span>C 系 · 中大型 SUV</span></div>
+        <div class="pos">全能百变舒享中大型 SUV（5/6 座）</div>
+        <div class="price">14.58–18.18 万 <small>六座版 +3,000 元</small></div>
+        <div class="role">20 万内中大型 SUV 连续 14 个月销冠。二排一键成床、7.5L 冷暖冰箱、后排娱乐屏，增程综合 1,230km。</div>
+      </div>
+      <div class="model c">
+        <div class="mn">C11 <span>C 系 · 中型 SUV</span></div>
+        <div class="pos">科技豪华运动 SUV</div>
+        <div class="price">14.38–16.58 万 <small>2021 年上市，累计约 35 万台</small></div>
+        <div class="role">C 系口碑基盘车型。前双叉臂+后五连杆、Nappa 真皮、23 扬声器杜比音响。2026 年 6 月完成 5 年最大改款。</div>
+      </div>
+      <div class="model c">
+        <div class="mn">C10 <span>C 系 · 中型 SUV</span></div>
+        <div class="pos">智能家享长续航中型 SUV</div>
+        <div class="price">12.58–14.28 万 <small>2026-06 全新上市</small></div>
+        <div class="role"><b>C 系销量担当。</b>88% 得房率、前排双 124° 零重力座椅、纯电 660km/800V、增程综合 1,300km。10 月 14,622 台，全球累计超 35 万台。</div>
+      </div>
+      <div class="model b">
+        <div class="mn">B10 <span>B 系 · 紧凑 SUV</span></div>
+        <div class="pos">全球化车型 · 出口 40+ 国</div>
+        <div class="price">9.98–12.58 万 <small>改款价；旧款至 14.98 万</small></div>
+        <div class="role"><b>出海主力。</b>唯一进入全部三个海外组装基地的车型，欧洲紧凑级纯电 SUV 中国品牌销冠。10 月 15,576 台，出口累计 6 万台。</div>
+      </div>
+      <div class="model b">
+        <div class="mn">B01 <span>B 系 · 紧凑轿车</span></div>
+        <div class="pos">紧凑型纯电轿车 · LEAP 3.5 架构</div>
+        <div class="price">9.58–11.98 万 <small>2026-07 改款</small></div>
+        <div class="role">长续航版配 800V，17.3 英寸 3K 屏。2026-10-13 官方宣布累计交付破 10 万台（上市至 2025-07 起算）。</div>
+      </div>
+      <div class="model b">
+        <div class="mn">Lafa5 / Ultra <span>运动轿跑</span></div>
+        <div class="pos">紧凑型纯电轿跑 · 面向年轻用户</div>
+        <div class="price">9.78–12.98 万 <small>Ultra 限时 11.88–12.48 万</small></div>
+        <div class="role">9–13 万纯电轿跑细分销冠。Ultra 版后驱 180kW、5.9 秒破百。上市 3 个月破 2 万台；全新 Lafa5 预计 11 月广州车展发布。</div>
+      </div>
+      <div class="model a">
+        <div class="mn">A10 / A10s <span>A 系 · 小型 SUV</span></div>
+        <div class="pos">10 万内唯一配激光雷达 + 车位到车位</div>
+        <div class="price">6.58–9.28 万 <small>A10s 于 10-18 上市，9.28 万</small></div>
+        <div class="role"><b>销量第一主力，占品牌约 1/4。</b>上市 135 天第 10 万台下线，5–7 月连续三月中国品牌 SUV 销冠。8 月峰值 3.2 万台，<b>9 月回落至 2.18–2.45 万台</b>。</div>
+      </div>
+      <div class="model a">
+        <div class="mn">A05 <span>A 系 · 小型车</span></div>
+        <div class="pos">A 平台第二款全球化小车（两厢）</div>
+        <div class="price">6.39–9.09 万 <small>2026-08-11 上市，5 款</small></div>
+        <div class="role">A 系第二增长点。车长 4.2m，纯电续航 405/510km，8295 芯片 + 14.6 英寸屏。9 月销量 11,945 台，环比 +43%。</div>
+      </div>
+      <div class="model a">
+        <div class="mn">T03 <span>边缘 · 微型车</span></div>
+        <div class="pos">微型电动车（部分口径仍在售）</div>
+        <div class="price">5.99–6.99 万</div>
+        <div class="role"><span class="tag t-gray">已边缘化</span> 9 月仅 1,531 台，同比 -74.8%。C01 轿车 9 月销量为 0，实际已停产。</div>
+      </div>
+    </div>
+    <div class="src">来源：零跑官方上市信息及 2026 中期报告；价格与销量见太平洋汽车/盖世汽车乘联会零售榜（2026-09）；部分车型销量为公司官方公布口径。<b>不同来源口径不同（乘联会零售 vs 厂商批发 vs 品牌含出口交付），不可直接相加。</b></div>
+  </div>
+
+  <div class="two">
+    <div class="chart-box">
+      <div class="ct">分车型销量：2026 年 9 月（乘联会零售口径）</div>
+      <div class="cs">单位：台；A10 单车型占比最高</div>
+      <div id="c_model" class="chart chart-lg"></div>
+    </div>
+    <div class="chart-box">
+      <div class="ct">1–9 月累计销量：A10 贡献近四分之一</div>
+      <div class="cs">单位：台；乘联会零售口径</div>
+      <div id="c_model9" class="chart chart-lg"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>4.2 价格带结构：10–15 万是压舱石，20 万以上仍是空白</h3>
+    <div class="ladder">
+      <div class="lad-row"><div class="lad-band">30 万以上</div><div class="lad-bar"><div class="lad-fill o" style="width:3%">D99 部分</div></div><div class="lad-note">高端化元年，占比极低</div></div>
+      <div class="lad-row"><div class="lad-band">20–30 万</div><div class="lad-bar"><div class="lad-fill o" style="width:5%">D19 / D99</div></div><div class="lad-note">9 月占 3.99%，环比 -4.53pct</div></div>
+      <div class="lad-row"><div class="lad-band">15–20 万</div><div class="lad-bar"><div class="lad-fill g" style="width:12%">C16 / C11</div></div><div class="lad-note">9 月占 10.93%，1–9 月同比 <b>降超 20pct</b></div></div>
+      <div class="lad-row"><div class="lad-band">10–15 万</div><div class="lad-bar"><div class="lad-fill" style="width:46%">B10 / B01 / Lafa5 / C10 = 43,890 台</div></div><div class="lad-note"><b>最稳定的压舱石</b>，9 月占 45.64%</div></div>
+      <div class="lad-row"><div class="lad-band">10 万以下</div><div class="lad-bar"><div class="lad-fill" style="width:40%">A10 / A05 / T03 = 约 39.4%</div></div><div class="lad-note">9 月占 39.44%，环比 -2.48pct</div></div>
+    </div>
+    <div class="src">来源：腾讯新闻《D19 销量"膝盖斩"，零跑高端化折戟?》2026-10-26，基于 2026 年 9 月销量数据（媒体测算，需核实原文）。条形宽度为示意，非严格等比。</div>
+
+    <div class="warn">
+      <b>三个结构性隐患，比任何单一车型销量都重要：</b><br>
+      <b>① A10 依赖度过高。</b>1–9 月累计 15.3 万台，占整体 23.35%。8 月冲到 32,214 台后，9 月回落至 24,457 台（环比 -24%）。一个占四分之一销量的车型出现环比大幅下滑，是增长动能的直接警报。<br>
+      <b>② 15–20 万价位段"空心化"。</b>1–9 月累计占比相比去年同期的 33.89% 大幅下降超 20 个百分点——这是过去 C 系列的基本盘，如今被自家 A 系（下压）和 D 系（上拉）两头挤压。<br>
+      <b>③ 20 万以上仅占 3.99%（9 月）。</b>D19 从 7 月的 10,043 台跌到 9 月的 3,018 台，D99 从 2,751 台跌到 818 台。9 系大型 SUV 细分竞争白热化是外因，但零跑在高端市场"站稳"与"走量"之间还没有找到稳定解。
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>4.3 车型 × 战略角色对照表</h3>
+    <div class="tbl-scroll"><table>
+      <thead>
+        <tr>
+          <th>车型</th><th>级别</th><th class="num">指导价（万元）</th><th class="num">9 月零售</th>
+          <th class="num">1–9 月累计</th><th class="num">占比</th><th>战略角色</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><b>A10</b></td><td>小型 SUV</td><td class="num">6.58–9.28</td><td class="num">21,772</td><td class="num">144,359</td><td class="num">23.35%</td><td><span class="tag t-red">绝对第一主力</span> 冲规模</td></tr>
+        <tr><td>A05</td><td>小型车</td><td class="num">6.39–9.09</td><td class="num">11,945</td><td class="num">22,534</td><td class="num">3.43%</td><td><span class="tag t-blue">A 系第二增长点</span> 8 月上市</td></tr>
+        <tr><td>B10</td><td>紧凑 SUV</td><td class="num">9.98–14.98</td><td class="num">10,132</td><td class="num">48,982</td><td class="num">7.9%</td><td><span class="tag t-gold">出海绝对主力</span> 出口 6 万台</td></tr>
+        <tr><td>C10</td><td>中型 SUV</td><td class="num">12.28–14.28</td><td class="num">10,103</td><td class="num">84,113</td><td class="num">13.6%</td><td><span class="tag t-blue">C 系销量担当</span> 基盘</td></tr>
+        <tr><td>B01</td><td>紧凑轿车</td><td class="num">8.98–14.97</td><td class="num">7,120</td><td class="num">40,525</td><td class="num">6.5%</td><td>累计破 10 万台</td></tr>
+        <tr><td>C16</td><td>中大型 SUV</td><td class="num">14.58–18.18</td><td class="num">6,146</td><td class="num">41,287</td><td class="num">6.7%</td><td><span class="tag t-green">20 万内中大型 SUV 销冠</span></td></tr>
+        <tr><td>C11</td><td>中型 SUV</td><td class="num">14.38–16.58</td><td class="num">4,341</td><td class="num">47,194</td><td class="num">7.6%</td><td>口碑基盘，累计约 35 万台</td></tr>
+        <tr><td>D19</td><td>大型 SUV</td><td class="num">21.98–26.98</td><td class="num down">3,018</td><td class="num">38,605</td><td class="num">6.2%</td><td><span class="tag t-gold">毛利修复关键</span> 波动大</td></tr>
+        <tr><td>Lafa5</td><td>紧凑轿跑</td><td class="num">9.78–12.98</td><td class="num">2,807</td><td class="num">29,624</td><td class="num">4.8%</td><td>年轻化 / 细分销冠</td></tr>
+        <tr><td>D99</td><td>MPV</td><td class="num">24.98–33.98</td><td class="num down">818</td><td class="num">5,943</td><td class="num">1.0%</td><td>品牌向上试探</td></tr>
+        <tr><td>T03</td><td>微型车</td><td class="num">5.99–6.99</td><td class="num down">1,531</td><td class="num">41,562</td><td class="num">6.7%</td><td><span class="tag t-gray">边缘化</span> 同比 -74.8%</td></tr>
+      </tbody>
+    </table></div>
+    <div class="src">来源：太平洋汽车乘联会零售榜 2026-09（<a href="https://m.pcauto.com.cn/x/5188/51888999.html" target="_blank">原文</a>）、盖世汽车 2026-09 批发榜（<a href="https://m.gasgoo.com/qcxl/article/81955.html" target="_blank">原文</a>）。<b>注意口径冲突</b>：A10 在零售榜 9 月为 21,772 台、在批发榜为 24,457 台；占比按零售口径累计 61.8 万台测算，与品牌含出口交付口径（1–9 月约 66.6 万台）不同。媒体（腾讯新闻 2026-10-26）引用 A10 1–9 月 153,423 台为批发口径。</div>
+  </div>
+
+  <div class="card">
+    <h3>4.4 车型为什么能做到这个价？——全域自研是唯一答案</h3>
+    <div class="logic">
+      <div class="lg">
+        <div class="h"><span class="idx">1</span>65% 整车成本自研自造</div>
+        <div class="body">零跑自研自造覆盖<b>约 65% 整车成本</b>的零部件，拥有 17–18 座自有零部件工厂，<b>平台通用化率 90%</b>，电芯已实现 100% 自研。这是它能在 10 万以内给激光雷达和"车位到车位"、在 12–18 万给 800V 和零重力座椅的根本原因——不是配置堆出来的性价比，是<b>成本结构决定的性价比</b>。</div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">2</span>研发费用率仅 6.1%，是刻意的取舍</div>
+        <div class="body">2026H1 研发费用 23.2 亿元、费用率 6.1%，而同期小鹏研发 58.2 亿元、费用率 17.8%（约零跑的 2.5 倍）。差异来自研发逻辑：<b>零跑是量产导向型</b>（投入直指整车落地与供应链降本），小鹏是生态布局型（机器人、图灵芯片、Robotaxi）。<br><span class="pill y">双面性</span> 短期利润好看，长期智驾与技术储备是隐患——零跑自己也在补（VLA 大模型、2027 年机器人规划）。</div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">3</span>渠道效率：单店店效同比 +30%</div>
+        <div class="body">截至 2026-06-30 覆盖 298 城（覆盖率 87.4%），1,064 家销售门店 + 562 家服务门店，同比净增 258 / 101 家，<b>单店店效同比 +30.26%</b>。海外通过零跑国际已进入 45 个市场、超 1,000 个销售服务网点。用户 NPS 57.8，同比提升 39.6 分。</div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">4</span>2027 是产品大年 + 独立高端品牌</div>
+        <div class="body">CFO 李腾飞明确 2027 年新车型投放数量将超过 2026 年，D 系、C 系有全新及换代产品，B 系推进换代。朱江明已官宣：<b>2027 年推出全新独立高端品牌，全系定价 30 万以上</b>，历经两年多秘密研发。<br><span class="pill n">看点</span> 这是把"D 系试水"升级为"独立品牌作战"，成败决定零跑能否真正摆脱薄利困境。</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 5. 估值 ============ -->
+<section>
+  <h2 class="sec"><span class="n">5</span>估值与市场：股价贴 52 周低点，分歧极大</h2>
+  <p class="sec-sub">PE 失真 · PB 是关键 · 机构目标价跨度 36–98 港元</p>
+
+  <div class="card">
+    <div class="kpi-grid" style="margin-top:0">
+      <div class="kpi"><div class="k">收盘价（2026-10-30）</div><div class="v">31.22<small> 港元</small></div><div class="d">当日 -1.64%，港股已收盘</div></div>
+      <div class="kpi"><div class="k">总市值</div><div class="v">443.9<small> 亿港元</small></div><div class="d">总股本 14.22 亿股</div></div>
+      <div class="kpi"><div class="k">PE（TTM）</div><div class="v">54.01<small> 倍</small></div><div class="d"><b>利润基数极低，参考意义有限</b></div></div>
+      <div class="kpi"><div class="k">PB（TTM）</div><div class="v">2.69<small> 倍</small></div><div class="d">相对更可比</div></div>
+      <div class="kpi"><div class="k">年初至今</div><div class="v down">-35.79<small>%</small></div><div class="d">近 60 日 -22.8%</div></div>
+      <div class="kpi"><div class="k">52 周区间</div><div class="v">31.18<small> – 59.95</small></div><div class="d">现价贴近低点</div></div>
+      <div class="kpi"><div class="k">机构一致目标价</div><div class="v">61.92<small> 港元</small></div><div class="d">较现价 +84.7%（第三方汇总）</div></div>
+      <div class="kpi"><div class="k">机构评级分布</div><div class="v">15 买 / 4 增持 / 1 中性</div><div class="d">20 家覆盖，无卖出</div></div>
+    </div>
+    <div class="src">来源：westock 港股行情数据（2026-10-30 收盘）；机构评级与目标价为长桥证券 2026-10-24 周报汇总，<b>非一手来源，需核实原文</b>。目标价区间 36.19 – 98.53 港元，跨度极大，反映市场对估值中枢判断严重不一致。花旗维持"买入"、目标价 100 港元（该目标价基于此前盈利假设，与已下修至 30 亿的净利指引存在张力）。</div>
+
+    <div class="note">
+      <b>估值框架该怎么选？</b>零跑当前 <b>PE 不可用作锚</b>——TTM 利润基数太薄（2025 全年 5.38 亿 + 2026H1 2.08 亿），54 倍 PE 对一家净利率 0.55% 的公司没有任何横向可比性。真正有意义的是两个口径：<br>
+      <b>① PB 2.69 倍</b>——对一家资产负债率 81.6%、ROE 仅 4.45% 的制造业公司，这个 PB 隐含的是市场仍按"成长股"而非"汽车股"定价；<br>
+      <b>② 按 2026 全年 30 亿净利指引测算的前瞻 PE</b>：443.9 亿港元市值（约 407 亿人民币）/ 30 亿 ≈ <b>13.6 倍</b>。这个数字才是多空分歧的焦点——<b>如果 30 亿兑现，13.6 倍前瞻 PE 对增速 50%+ 的车企是便宜的；如果只做到 15–20 亿，前瞻 PE 立刻变成 20–27 倍，估值支撑就没了。</b>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>核心投资逻辑与预期差</h3>
+    <div class="logic">
+      <div class="lg">
+        <div class="h"><span class="idx">1</span>规模效应已验证，但市场把它当"已知"</div>
+        <div class="body">连续两年销量翻倍、新势力断层第一、单月破 10 万——这些市场已经充分定价（股价年初至今跌 35.79% 本身就说明单纯的销量增长不再能推动股价）。<br><span class="pill n">已充分定价</span></div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">2</span>真正的预期差：毛利率能否回到 14%+</div>
+        <div class="body">市场普遍看到"毛利率下滑"，但没充分定价的是<b>Q1 9.4% → Q2 12.6% 的 3.2pct 跳升，其驱动是 D19 结构性放量而非规模效应</b>。若下半年 D 系企稳 + 碳酸锂价格回落，毛利率回到 13%–14% 的概率高于市场当前隐含假设。<br><span class="pill y">潜在预期差</span></div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">3</span>被低估的变量：一汽协同的技术兑现</div>
+        <div class="body">一汽入股不只是 37.44 亿元现金。2026-09-17 零跑已与一汽旗新动力、中汽新能签投资意向书与技术合作协议，<b>共同攻坚固态电池等下一代电池技术、动力总成协同</b>。固态电池若落地，是零跑在 10–20 万价位段重新拉开代差的唯一机会。<br><span class="pill y">尚未定价</span></div>
+      </div>
+      <div class="lg">
+        <div class="h"><span class="idx">4</span>反向声音：出口是"低毛利出口"</div>
+        <div class="body">市场把出口 +372.6% 当作纯粹的利好，但财报已经写明：出海前三年是低毛利抢市场，B 系（低价）在出口中占比提升反而<b>拉低综合毛利率</b>。且 Stellantis 持有零跑国际 51%，<b>海外利润要分走一半</b>。出口规模越大，短期毛利率承压越明显——这是利好数字背后的负面结构。<br><span class="pill r">反向观点</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>风险清单：短期 vs 中期</h3>
+    <div class="two">
+      <div>
+        <h4 style="color:var(--up)">短期（未来 1–2 个季度）</h4>
+        <div class="tbl-scroll"><table>
+          <thead><tr><th>风险</th><th>触发信号</th></tr></thead>
+          <tbody>
+            <tr><td><b>Q3/Q4 毛利率未回到 13%</b></td><td>11-13 Q3 财报毛利率低于 12.6%</td></tr>
+            <tr><td><b>30 亿净利指引再下修</b></td><td>业绩会口径变化</td></tr>
+            <tr><td><b>A10 持续失速</b></td><td>10/11 月 A10 环比再度下滑</td></tr>
+            <tr><td><b>105 万目标落空 + Q4 冲量折扣</b></td><td>11 月交付未过 12 万台；终端优惠加大</td></tr>
+            <tr><td>碳酸锂价格再度上行</td><td>电池级碳酸锂现货价</td></tr>
+            <tr><td>行业库存压力</td><td>10 月库存预警指数 62.2%（荣枯线以上）</td></tr>
+          </tbody>
+        </table></div>
+      </div>
+      <div>
+        <h4 style="color:var(--gold)">中期（1–3 年）</h4>
+        <div class="tbl-scroll"><table>
+          <thead><tr><th>风险</th><th>说明</th></tr></thead>
+          <tbody>
+            <tr><td><b>高端化失败</b></td><td>D19/D99 波动大；2027 独立高端品牌（30 万+）胜率不确定</td></tr>
+            <tr><td><b>高杠杆扩张</b></td><td>资产负债率 81.63%，流动比率约 0.87，短期偿债依赖在手资金滚续</td></tr>
+            <tr><td><b>对 Stellantis 的出海依赖</b></td><td>零跑国际 51% 在对方手里，渠道与利润分成受制于人</td></tr>
+            <tr><td><b>研发费率偏低</b></td><td>6.1% vs 小鹏 17.8%，智驾与前沿技术储备是长期短板</td></tr>
+            <tr><td><b>控制权潜在变数</b></td><td>一致行动协议 2028-09-28 到期；一汽/金义高新有优先认购权</td></tr>
+            <tr><td>15–20 万价位段空心化</td><td>C 系基本盘被自家 A 系与 D 系两头挤压</td></tr>
+          </tbody>
+        </table></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 6. 观察清单 ============ -->
+<section>
+  <h2 class="sec"><span class="n">6</span>接下来最该盯的三件事</h2>
+  <p class="sec-sub">可验证 · 有明确时间窗口</p>
+  <div class="card">
+    <div class="tbl-scroll"><table>
+      <thead><tr><th style="width:22%">变量</th><th style="width:16%">时间窗口</th><th>验证方式与失效信号</th></tr></thead>
+      <tbody>
+        <tr>
+          <td><b>Q3 财报毛利率</b></td>
+          <td>2026-11-13（盘后，日历）</td>
+          <td>看毛利率能否站上 <b>13%</b>、净利能否接近 6 亿。若毛利率低于 12.6%（即环比不改善），则全年 13%–14% 指引与 30 亿净利基本证伪，需下修估值假设。</td>
+        </tr>
+        <tr>
+          <td><b>11–12 月交付节奏</b></td>
+          <td>每月 1 日公布</td>
+          <td>需月均 13.87 万台才能达成 105 万目标。若 11 月低于 12 万台，目标实质落空，同时观察终端优惠是否明显加大（→ Q4 毛利率承压）。</td>
+        </tr>
+        <tr>
+          <td><b>D 系能否企稳 + 2027 高端品牌</b></td>
+          <td>持续 / 2027 年</td>
+          <td>D19 月销能否回到 7,000–10,000 台区间（9 月已跌至 3,018 台）；2027 独立高端品牌的形态与定价公布。这是"薄利 → 厚利"的唯一通道。</td>
+        </tr>
+      </tbody>
+    </table></div>
+    <div class="note">
+      <b>一句话本质：</b>买零跑，本质上是在买<b>"全域自研的成本优势，能否在百万辆规模上兑现为 5% 以上的净利率"</b>。目前净利率 0.55%，市场分歧的全部内容就是这个 0.55% 能不能走到 3%–5%。
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div><b>数据来源与口径说明</b></div>
+  <div>一手来源：零跑汽车 2023/2024/2025 年度报告、2026 年中期报告（HKEX，2026-08-24）、公司月度交付公告（2026-11-01）、2026 中期业绩电话会、港交所权益披露、中国证监会注册批复（证监许可〔2026〕2434 号）。</div>
+  <div>二手来源（需核实原文）：太平洋汽车乘联会零售榜、盖世汽车批发榜、腾讯新闻、网易车市红点、长桥证券周报、花旗研报引用、雪球/搜狐等媒体。分车型销量存在"零售 / 批发 / 含出口交付"三种口径，本报告已分别标注，不可直接相加。</div>
+  <div>财务数据除特别标注外均为人民币口径；行情数据为 2026-10-30 港股收盘价（港元）。期货/现货类数据未涉及。测算类指标（单车收入、单车净利、前瞻 PE）为基于公开数据的估算，非公司披露口径。</div>
+  <div style="margin-top:12px"><b>免责声明</b>：以上内容基于公开数据和量化分析，仅供参考，不构成投资建议。市场有风险，投资需谨慎。任何投资决策应结合个人风险承受能力、资金状况和投资目标独立判断，必要时咨询持牌专业机构。过往表现不预示未来收益。</div>
+</footer>
+
+</div>
+
+<script>
+var AX = {axisLine:{lineStyle:{color:'#c9d2dc'}},axisLabel:{color:'#5b6673',fontSize:11},nameTextStyle:{color:'#7b8794',fontSize:11}};
+var GRID = {left:'3%',right:'4%',bottom:'3%',top:'16%',containLabel:true};
+var C = ['#12467e','#1d6fb8','#e0663b','#12945d','#b8860b','#7b8794','#8fb8dd','#f0a578'];
+
+function mk(id, opt){
+  var el = document.getElementById(id);
+  if(!el){ return; }
+  var ch = echarts.init(el);
+  ch.setOption(opt);
+  window.addEventListener('resize', function(){ ch.resize(); });
+}
+
+/* 1. 营收 & 毛利率 */
+mk('c_rev', {
+  tooltip:{trigger:'axis'},
+  legend:{data:['营业收入','毛利率'],top:0,textStyle:{fontSize:11,color:'#5b6673'}},
+  grid:GRID,
+  xAxis:Object.assign({type:'category',data:['2023','2024','2025','2026H1']},AX),
+  yAxis:[
+    Object.assign({type:'value',name:'亿元'},AX),
+    Object.assign({type:'value',name:'毛利率',axisLabel:{formatter:'{value}%',color:'#5b6673',fontSize:11}},{axisLine:{lineStyle:{color:'#c9d2dc'}},nameTextStyle:{color:'#7b8794',fontSize:11}})
+  ],
+  series:[
+    {name:'营业收入',type:'bar',barWidth:'46%',itemStyle:{color:'#12467e'},data:[167.47,321.64,647.32,381.07],
+     label:{show:true,position:'top',fontSize:11,color:'#12467e',formatter:'{c}'}},
+    {name:'毛利率',type:'line',yAxisIndex:1,smooth:true,symbolSize:8,lineStyle:{width:3,color:'#e0663b'},itemStyle:{color:'#e0663b'},
+     data:[0.48,8.38,14.54,11.67],label:{show:true,fontSize:11,color:'#e0663b',formatter:'{c}%'}}
+  ]
+});
+
+/* 2. 归母净利 */
+mk('c_np', {
+  tooltip:{trigger:'axis'},
+  grid:GRID,
+  xAxis:Object.assign({type:'category',data:['2023','2024','2025','2026H1']},AX),
+  yAxis:Object.assign({type:'value',name:'亿元'},AX),
+  series:[{
+    type:'bar',barWidth:'46%',
+    data:[
+      {value:-42.16,itemStyle:{color:'#12945d'}},
+      {value:-28.21,itemStyle:{color:'#12945d'}},
+      {value:5.38,itemStyle:{color:'#d0342c'}},
+      {value:2.08,itemStyle:{color:'#d0342c'}}
+    ],
+    label:{show:true,position:'top',fontSize:11,color:'#4a5568',formatter:'{c}'}
+  }]
+});
+
+/* 3. 单车经济 */
+mk('c_unit', {
+  tooltip:{trigger:'axis'},
+  legend:{data:['单车收入(万元)','单车净利(元)'],top:0,textStyle:{fontSize:11,color:'#5b6673'}},
+  grid:GRID,
+  xAxis:Object.assign({type:'category',data:['2023','2024','2025','2026H1']},AX),
+  yAxis:[
+    Object.assign({type:'value',name:'ASP(万元)',min:10,max:12},AX),
+    Object.assign({type:'value',name:'单车净利(元)'},{axisLine:{lineStyle:{color:'#c9d2dc'}},axisLabel:{color:'#5b6673',fontSize:11},nameTextStyle:{color:'#7b8794',fontSize:11}})
+  ],
+  series:[
+    {name:'单车收入(万元)',type:'line',smooth:true,symbolSize:8,lineStyle:{width:3,color:'#12467e'},itemStyle:{color:'#12467e'},data:[11.62,10.95,10.85,10.69],
+     label:{show:true,fontSize:11,color:'#12467e',formatter:'{c}'}},
+    {name:'单车净利(元)',type:'bar',yAxisIndex:1,barWidth:'40%',
+     data:[
+       {value:-29246,itemStyle:{color:'#12945d'}},
+       {value:-9604,itemStyle:{color:'#12945d'}},
+       {value:902,itemStyle:{color:'#d0342c'}},
+       {value:583,itemStyle:{color:'#d0342c'}}
+     ],
+     label:{show:true,position:'top',fontSize:10,color:'#4a5568',formatter:'{c}'}}
+  ]
+});
+
+/* 4. 地域收入 */
+mk('c_geo', {
+  tooltip:{trigger:'item',formatter:'{b}: {c}亿元 ({d}%)'},
+  legend:{bottom:0,textStyle:{fontSize:11,color:'#5b6673'}},
+  series:[{
+    type:'pie',radius:['42%','68%'],center:['50%','46%'],
+    label:{formatter:'{b}\n{d}%',fontSize:11,color:'#4a5568'},
+    data:[
+      {name:'中国内地',value:290.08,itemStyle:{color:'#12467e'}},
+      {name:'欧洲',value:88.75,itemStyle:{color:'#e0663b'}},
+      {name:'其他',value:2.24,itemStyle:{color:'#b8860b'}}
+    ]
+  }]
+});
+
+/* 5. 月度交付 */
+mk('c_month', {
+  tooltip:{trigger:'axis'},
+  grid:{left:'3%',right:'4%',bottom:'3%',top:'14%',containLabel:true},
+  xAxis:Object.assign({type:'category',data:['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月']},AX),
+  yAxis:Object.assign({type:'value',name:'台',axisLabel:{formatter:'{value}',color:'#5b6673',fontSize:11}},{axisLine:{lineStyle:{color:'#c9d2dc'}},nameTextStyle:{color:'#7b8794',fontSize:11}}),
+  series:[{
+    type:'bar',barWidth:'58%',
+    itemStyle:{color:function(p){ return p.dataIndex >= 6 ? '#d0342c' : '#1d6fb8'; }},
+    data:[32059,28067,50029,71387,81569,93376,101267,103129,105656,106127],
+    markLine:{silent:true,symbol:'none',lineStyle:{type:'dashed',color:'#b8860b'},
+      data:[{yAxis:100000,label:{formatter:'10万台',fontSize:11,color:'#b8860b'}}]},
+    label:{show:true,position:'top',fontSize:10,color:'#4a5568'}
+  }]
+});
+
+/* 6. 年度交付 */
+mk('c_year', {
+  tooltip:{trigger:'axis'},
+  grid:GRID,
+  xAxis:Object.assign({type:'category',data:['2023','2024','2025','2026\n(1-10月)','2026\n目标']},AX),
+  yAxis:Object.assign({type:'value',name:'万台'},AX),
+  series:[{
+    type:'bar',barWidth:'50%',
+    data:[
+      {value:14.42,itemStyle:{color:'#8fb8dd'}},
+      {value:29.37,itemStyle:{color:'#1d6fb8'}},
+      {value:59.66,itemStyle:{color:'#12467e'}},
+      {value:77.27,itemStyle:{color:'#d0342c'}},
+      {value:105,itemStyle:{color:'#b8860b'}}
+    ],
+    label:{show:true,position:'top',fontSize:11,color:'#4a5568',formatter:'{c}'}
+  }]
+});
+
+/* 7. 出口 */
+mk('c_exp', {
+  tooltip:{trigger:'axis'},
+  grid:GRID,
+  xAxis:Object.assign({type:'category',data:['2025全年','2026H1','2026 1-9月','2026指引']},AX),
+  yAxis:Object.assign({type:'value',name:'台'},AX),
+  series:[{
+    type:'bar',barWidth:'48%',
+    data:[
+      {value:67052,itemStyle:{color:'#8fb8dd'}},
+      {value:96294,itemStyle:{color:'#1d6fb8'}},
+      {value:150000,itemStyle:{color:'#12467e'}},
+      {value:200000,itemStyle:{color:'#b8860b'}}
+    ],
+    label:{show:true,position:'top',fontSize:11,color:'#4a5568'}
+  }]
+});
+
+/* 8. 分车型 9月 */
+mk('c_model', {
+  tooltip:{trigger:'axis'},
+  grid:{left:'3%',right:'8%',bottom:'3%',top:'6%',containLabel:true},
+  xAxis:Object.assign({type:'value',name:'台'},AX),
+  yAxis:Object.assign({type:'category',data:['T03','D99','Lafa5','D19','C11','C16','B01','C10','B10','A05','A10']},AX),
+  series:[{
+    type:'bar',barWidth:'62%',
+    itemStyle:{color:function(p){
+      var n = ['T03','D99','Lafa5','D19','C11','C16','B01','C10','B10','A05','A10'][p.dataIndex];
+      if(p.dataIndex >= 9){ return '#12467e'; }
+      if(n === 'C10' || n === 'B10'){ return '#1d6fb8'; }
+      if(n === 'D19' || n === 'D99'){ return '#e0663b'; }
+      return '#8fb8dd';
+    }},
+    data:[1531,818,2807,3018,4341,6146,7120,10103,10132,11945,21772],
+    label:{show:true,position:'right',fontSize:10,color:'#4a5568'}
+  }]
+});
+
+/* 9. 分车型 1-9月 */
+mk('c_model9', {
+  tooltip:{trigger:'axis'},
+  grid:{left:'3%',right:'8%',bottom:'3%',top:'6%',containLabel:true},
+  xAxis:Object.assign({type:'value',name:'台'},AX),
+  yAxis:Object.assign({type:'category',data:['D99','T03','A05','D19','Lafa5','C16','B01','C11','B10','C10','A10']},AX),
+  series:[{
+    type:'bar',barWidth:'62%',
+    itemStyle:{color:function(p){
+      var n = ['D99','T03','A05','D19','Lafa5','C16','B01','C11','B10','C10','A10'][p.dataIndex];
+      if(p.dataIndex >= 8){ return '#12467e'; }
+      if(n === 'A05'){ return '#12467e'; }
+      if(n === 'D19' || n === 'D99'){ return '#e0663b'; }
+      return '#8fb8dd';
+    }},
+    data:[5943,41562,22534,38605,29624,41287,40525,47194,48982,84113,144359],
+    label:{show:true,position:'right',fontSize:10,color:'#4a5568'}
+  }]
+});
+
+/* 图表/表格切换 */
+(function(){
+  var tabs = document.querySelectorAll('.tab');
+  for(var i=0;i<tabs.length;i++){
+    tabs[i].addEventListener('click', function(){
+      var box = this.parentNode.parentNode;
+      var all = box.querySelectorAll('.tab');
+      for(var j=0;j<all.length;j++){ all[j].classList.remove('on'); }
+      this.classList.add('on');
+      var t = this.getAttribute('data-t');
+      var chart = box.querySelector('.chart');
+      var tbl = box.querySelector('#t_month');
+      if(t === 'm'){
+        chart.style.display = '';
+        if(tbl){ tbl.style.display = 'none'; }
+        var ins = echarts.getInstanceByDom(chart);
+        if(ins){ ins.resize(); }
+      } else {
+        chart.style.display = 'none';
+        if(tbl){ tbl.style.display = ''; }
+      }
+    });
+  }
+})();
+</script>
+
+</body>
+</html>
