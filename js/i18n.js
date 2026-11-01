@@ -57,7 +57,6 @@ const I18N = {
     'home.brands.col.subs': 'Sub-Brands',
     'home.brands.viewall': 'Open the Brand Index',
 
-    'nav.hot': 'Hot brands',
 
     'newsletter.eyebrow': 'China Auto Overseas Daily',
     'newsletter.title': 'Daily intelligence on Chinese automakers going global.',
@@ -214,7 +213,6 @@ const I18N = {
     'home.brands.col.subs': '集团子品牌',
     'home.brands.viewall': '进入品牌索引',
 
-    'nav.hot': '热门品牌',
 
     'newsletter.eyebrow': '中国车企出海日报',
     'newsletter.title': '每天读懂中国汽车全球化',
