@@ -110,3 +110,6 @@
 
 /newsletter
   Cache-Control: public, max-age=0, must-revalidate
+
+/reports/*
+  Cache-Control: public, max-age=0, must-revalidate
