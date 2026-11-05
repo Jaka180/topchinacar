@@ -106,7 +106,10 @@ function auditLocal() {
     }
 
     const lang = attr(html.match(/<html\b[^>]*>/i)?.[0] || '', 'lang');
-    if (relative.startsWith('zh/') ? lang !== 'zh' : lang !== 'en') addIssue(issues, 'lang', file, lang || 'missing');
+    // 独立研究报告放在 /reports/ 下，中英文共用一个地址（build.js 的设计），只要求声明了语言；其余页面根目录是英文、zh/ 是中文
+    const isReport = relative.startsWith('reports/');
+    const langOk = isReport ? /^(en|zh(-CN)?)$/.test(lang || '') : relative.startsWith('zh/') ? lang === 'zh' : lang === 'en';
+    if (!langOk) addIssue(issues, 'lang', file, lang || 'missing');
 
     if (!is404) {
       const alternates = matches(html, /<link\b[^>]*rel=["']alternate["'][^>]*hreflang=["'][^"']+["'][^>]*>/gi);
