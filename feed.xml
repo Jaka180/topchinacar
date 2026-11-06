@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:21:02 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BYD Cuts Seal 07 Entry Prices as Volvo&apos;s China Dealer Network Shrinks</title>
+      <link>https://www.topchinacar.com/news/2026-11-06-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-06-china-market-daily</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>BYD&apos;s second-gen Seal 07 starts at 139,900 yuan, while a Jiemian probe finds Volvo dealers quoting XC70 prices below 200,000 yuan after Q3 Greater China deliveries fell 40.6% to 20,300. Zeekr, Jetour and Smart also launched models.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Jaecoo 7 Tops UK Sales Again as BYD Passes 10,000 in Australia and Yangwang Heads to Abu Dhabi</title>
       <link>https://www.topchinacar.com/news/2026-11-06-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description>Chinese automakers logged a historic overseas half-year in 2026: BYD&apos;s H1 exports hit 792,256 units (+70.7%), GAC surged 132%, and XPeng chose Munich—not Beijing—for the Mona L03 world premiere.</description>
       <category>Daily Briefing</category>
-    </item>
-    <item>
-      <title>Why Chinese Automakers Are Expanding Faster Overseas</title>
-      <link>https://www.topchinacar.com/news/why-chinese-automakers-are-expanding-faster-overseas</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/why-chinese-automakers-are-expanding-faster-overseas</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Price war at home, fatter margins abroad, and a closing tariff window: the three forces pushing every major Chinese automaker to accelerate globalization at the same time.</description>
-      <category>Analysis</category>
     </item>
   </channel>
 </rss>
