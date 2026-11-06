@@ -2,47 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.topchinacar.com/news/2026-11-01-china-market-daily</loc>
+    <loc>https://www.topchinacar.com/news/2026-11-06-china-auto-daily</loc>
     <news:news>
       <news:publication>
         <news:name>TopChinaCar</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-01</news:publication_date>
-      <news:title>Changan Seeks Outside Investors for Tech Unit as BAIC BluePark Narrows Q3 Loss</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-11-01-china-auto-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01</news:publication_date>
-      <news:title>Leapmotor Takes the A10 to Thailand and Malaysia as Chery Weighs a London Home for Jaecoo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-10-31-china-market-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>Changan Swings to Loss and GAC&apos;s Deficit Widens as Q3 Reports Expose Profit Squeeze in China</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-10-31-china-auto-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>Changan Hits Record Overseas Quarter as Currency Losses Squeeze Chinese Automakers&apos; Q3 Profits</news:title>
+      <news:publication_date>2026-11-06</news:publication_date>
+      <news:title>Jaecoo 7 Tops UK Sales Again as BYD Passes 10,000 in Australia and Yangwang Heads to Abu Dhabi</news:title>
     </news:news>
   </url>
 </urlset>
