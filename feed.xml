@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 00:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:21:02 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAIC Forms Momenta-Led ADAS Venture as MIIT Drafts Battery Digital ID Rules</title>
+      <link>https://www.topchinacar.com/news/2026-11-07-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-07-china-market-daily</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>SAIC Motor approved a RMB 300 million driver-assistance joint venture in which Momenta will hold 51%, MIIT released draft battery digital ID rules, Chery recalled 53,882 vehicles in China and Tesla put Giga Shanghai localization at 98%.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>BYD&apos;s Yangwang Breaks 500 km/h in Abu Dhabi as 14 MEPs Seek EU Security Review of BYD</title>
       <link>https://www.topchinacar.com/news/2026-11-07-china-auto-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/changan-overseas-strategy-from-suvs-to-smart-evs</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description>The quietest of China&apos;s big state-owned groups is running one of the most methodical globalization plays: Thai-built EVs for Europe, 22 overseas manufacturing bases, and a 1.5–1.8 million overseas target by 2030.</description>
-      <category>Analysis</category>
-    </item>
-    <item>
-      <title>BYD vs Chery Overseas: Two Different Globalization Models</title>
-      <link>https://www.topchinacar.com/news/byd-vs-chery-overseas-two-different-globalization-models</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/byd-vs-chery-overseas-two-different-globalization-models</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <description>China&apos;s two biggest auto exporters got there by opposite routes — technology-led blitz versus market-led patience. Comparing them explains most of what is happening in China auto globalization.</description>
       <category>Analysis</category>
     </item>
   </channel>
