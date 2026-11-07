@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:11:02 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BYD&apos;s Yangwang Breaks 500 km/h in Abu Dhabi as 14 MEPs Seek EU Security Review of BYD</title>
+      <link>https://www.topchinacar.com/news/2026-11-07-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-07-china-auto-daily</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Yangwang&apos;s U9 Xtreme hit 503.17 km/h on public roads in Abu Dhabi, while 14 MEPs asked Brussels to assess BYD&apos;s security risks. Xiaomi EV set up an International Business Division ahead of its 2027 entry into Europe.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>BYD Cuts Seal 07 Entry Prices as Volvo&apos;s China Dealer Network Shrinks</title>
       <link>https://www.topchinacar.com/news/2026-11-06-china-market-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description>China&apos;s two biggest auto exporters got there by opposite routes — technology-led blitz versus market-led patience. Comparing them explains most of what is happening in China auto globalization.</description>
       <category>Analysis</category>
-    </item>
-    <item>
-      <title>BYD Hits 792K Overseas H1, XPeng Debuts in Munich, GAC Exports Surge 132%</title>
-      <link>https://www.topchinacar.com/news/2026-07-06-china-auto-daily</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-06-china-auto-daily</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Chinese automakers logged a historic overseas half-year in 2026: BYD&apos;s H1 exports hit 792,256 units (+70.7%), GAC surged 132%, and XPeng chose Munich—not Beijing—for the Mona L03 world premiere.</description>
-      <category>Daily Briefing</category>
     </item>
   </channel>
 </rss>
