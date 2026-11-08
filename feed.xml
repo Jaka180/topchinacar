@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:25:49 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mercedes-Benz, Subaru and Porsche File China Recalls as Geely and Fang Cheng Bao Expand Lineups</title>
+      <link>https://www.topchinacar.com/news/2026-11-08-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-08-china-market-daily</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Subaru&apos;s recall covers 196,494 imported cars, while Mercedes-Benz separates immediate and later remedies. Geely adds RMB 91,800 Xingyuan editions and Fang Cheng Bao outlines production and product plans.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Changan Plans Deeper Thai Sourcing as Leapmotor Launches SUVs in Mexico</title>
       <link>https://www.topchinacar.com/news/2026-11-08-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description>Pure EVs made the headlines, but plug-in hybrids and EREVs are becoming China&apos;s stealth export weapon: no charging anxiety, no EV tariffs in Europe, and 1,000-plus kilometres of combined range.</description>
       <category>EV</category>
-    </item>
-    <item>
-      <title>Chinese Pickup Trucks: A Growing Export Segment</title>
-      <link>https://www.topchinacar.com/news/chinese-pickup-trucks-a-growing-export-segment</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chinese-pickup-trucks-a-growing-export-segment</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Pickups are the most brand-loyal segment in the markets Chinese automakers covet — and the segment where they are advancing fastest, led by GWM&apos;s Poer, BYD&apos;s Shark 6 and a wave of PHEV utes.</description>
-      <category>Exports</category>
     </item>
   </channel>
 </rss>
