@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:11:02 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jetour Details African Factory Footprint as MG Records 7,082 Indian Retail Sales</title>
+      <link>https://www.topchinacar.com/news/2026-11-09-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-09-china-auto-daily</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Jetour expects South African T2 production in mid-2027. Indian October retail figures show 7,082 vehicles for MG and 737 for BYD, while a Denza D9 appears in Mumbai ahead of local specifications.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>Mercedes-Benz, Subaru and Porsche File China Recalls as Geely and Fang Cheng Bao Expand Lineups</title>
       <link>https://www.topchinacar.com/news/2026-11-08-china-market-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description>The EU&apos;s anti-subsidy duties were meant to slow Chinese EVs. Eighteen months on, the real effect is visible: not retreat, but localisation, PHEV substitution and a premium pivot.</description>
       <category>Policy</category>
-    </item>
-    <item>
-      <title>Chinese Plug-in Hybrids: Why PHEVs Are Gaining Attention</title>
-      <link>https://www.topchinacar.com/news/chinese-plug-in-hybrids-why-phevs-are-gaining-attention</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chinese-plug-in-hybrids-why-phevs-are-gaining-attention</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Pure EVs made the headlines, but plug-in hybrids and EREVs are becoming China&apos;s stealth export weapon: no charging anxiety, no EV tariffs in Europe, and 1,000-plus kilometres of combined range.</description>
-      <category>EV</category>
     </item>
   </channel>
 </rss>
