@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:21:06 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yangwang Opens Altior China Pre-orders as GWM Details ORA 7 Body Plans</title>
+      <link>https://www.topchinacar.com/news/2026-11-09-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-09-china-market-daily</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Yangwang&apos;s Altior limited edition requires a RMB 300,000 deposit in China. GWM confirms coupe-style and wagon bodies for the ORA 7; both remain product developments ahead of launch or delivery.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Jetour Details African Factory Footprint as MG Records 7,082 Indian Retail Sales</title>
       <link>https://www.topchinacar.com/news/2026-11-09-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
       <description>BYD posted a record 175,349 overseas deliveries in June (+94.7%) even as South Korea stripped it of EV subsidies, while XPeng chose Munich for its first-ever overseas world premiere and Leapmotor set a new monthly record of 93,376 units.</description>
       <category>Daily Briefing</category>
-    </item>
-    <item>
-      <title>What EU Tariffs Mean for Chinese EV Makers</title>
-      <link>https://www.topchinacar.com/news/what-eu-tariffs-mean-for-chinese-ev-makers</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/what-eu-tariffs-mean-for-chinese-ev-makers</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <description>The EU&apos;s anti-subsidy duties were meant to slow Chinese EVs. Eighteen months on, the real effect is visible: not retreat, but localisation, PHEV substitution and a premium pivot.</description>
-      <category>Policy</category>
     </item>
   </channel>
 </rss>
