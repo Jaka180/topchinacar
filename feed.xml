@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:21:03 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China Auto Retail Falls 27.1% as BMW Sets Launch Dates and Suppliers Advance Investment Plans</title>
+      <link>https://www.topchinacar.com/news/2026-11-10-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-10-china-market-daily</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Final CPCA figures put October passenger-car retail sales at 1.643 million. BMW sets China launch dates, WEY and Fang Cheng Bao open pre-sales or reservations, and suppliers disclose new plans.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>BYD Shows Robotic Charging in UAE as October Export Data Reveal Scale and Market Divergence</title>
       <link>https://www.topchinacar.com/news/2026-11-10-china-auto-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/byd-vs-tesla-global-ev-comparison-2026</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
       <description>A full original research report comparing BYD and Tesla across sales, financials, batteries, autonomous driving, charging infrastructure, product portfolios, globalization, AI strategy, valuation and risks.</description>
-      <category>Research</category>
-    </item>
-    <item>
-      <title>BYD Overseas Full Value Chain Layout: Deep Research Report (2026)</title>
-      <link>https://www.topchinacar.com/news/byd-overseas-full-value-chain-layout-2026</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/byd-overseas-full-value-chain-layout-2026</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <description>A full original research report on BYD’s overseas value-chain strategy, covering manufacturing, vertical integration, logistics, charging infrastructure, brands, key markets, R&amp;D, supply chain and risks.</description>
       <category>Research</category>
     </item>
   </channel>
