@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:21:03 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China NEV Retail Rankings Lead a Day of Supplier and Joint-Venture Updates</title>
+      <link>https://www.topchinacar.com/news/2026-11-11-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-11-china-market-daily</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>BYD held 22.4% of October domestic passenger NEV retail sales. HELLA began China sensor production, Lincoln and Dongfeng Honda updated models, and Changan Mazda changed its sales leadership.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Changan Plans Brazil Expansion as BYD Adds a Third Shift and Li Auto Signs Asian Partners</title>
       <link>https://www.topchinacar.com/news/2026-11-11-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
       <description>A structured research report on Chery Automobile’s overseas value-chain layout, covering R&amp;D, manufacturing, brands, supply chain, channels, local talent, ESG, capital markets and strategic risks.</description>
       <category>Research</category>
-    </item>
-    <item>
-      <title>Chery Commercial Vehicle Overseas Sales Forecast: 2025-2030</title>
-      <link>https://www.topchinacar.com/news/chery-cv-overseas-sales-forecast-2025-2030</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chery-cv-overseas-sales-forecast-2025-2030</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <description>A bilingual forecast model for Chery Commercial Vehicle&apos;s overseas sales path from roughly 40,000 units in 2026 to a 400,000-unit overseas target by 2030.</description>
-      <category>Forecast</category>
     </item>
   </channel>
 </rss>
