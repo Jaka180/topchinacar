@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:11:03 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changan Plans Brazil Expansion as BYD Adds a Third Shift and Li Auto Signs Asian Partners</title>
+      <link>https://www.topchinacar.com/news/2026-11-11-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-11-china-auto-daily</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Changan plans eight new models in Brazil in 2027, while BYD adds about 2,000 workers with a third shift in Bahia. Li Auto&apos;s five new Asia-Pacific partnerships underline the work behind overseas launches.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>China Auto Retail Falls 27.1% as BMW Sets Launch Dates and Suppliers Advance Investment Plans</title>
       <link>https://www.topchinacar.com/news/2026-11-10-china-market-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
       <description>A bilingual forecast model for Chery Commercial Vehicle&apos;s overseas sales path from roughly 40,000 units in 2026 to a 400,000-unit overseas target by 2030.</description>
       <category>Forecast</category>
-    </item>
-    <item>
-      <title>BYD vs Tesla: Global EV Leaders Deep Comparison Report (2026)</title>
-      <link>https://www.topchinacar.com/news/byd-vs-tesla-global-ev-comparison-2026</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/byd-vs-tesla-global-ev-comparison-2026</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <description>A full original research report comparing BYD and Tesla across sales, financials, batteries, autonomous driving, charging infrastructure, product portfolios, globalization, AI strategy, valuation and risks.</description>
-      <category>Research</category>
     </item>
   </channel>
 </rss>

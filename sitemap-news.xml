@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.topchinacar.com/news/2026-11-11-china-auto-daily</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TopChinaCar</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11</news:publication_date>
+      <news:title>Changan Plans Brazil Expansion as BYD Adds a Third Shift and Li Auto Signs Asian Partners</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.topchinacar.com/news/2026-11-10-china-market-daily</loc>
     <news:news>
       <news:publication>
@@ -43,28 +54,6 @@
       </news:publication>
       <news:publication_date>2026-11-09</news:publication_date>
       <news:title>Jetour Details African Factory Footprint as MG Records 7,082 Indian Retail Sales</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-11-08-china-market-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08</news:publication_date>
-      <news:title>Mercedes-Benz, Subaru and Porsche File China Recalls as Geely and Fang Cheng Bao Expand Lineups</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-11-08-china-auto-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08</news:publication_date>
-      <news:title>Changan Plans Deeper Thai Sourcing as Leapmotor Launches SUVs in Mexico</news:title>
     </news:news>
   </url>
 </urlset>
