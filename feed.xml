@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:21:00 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China&apos;s Domestic Car Sales Slide as CAAM Sees 2026 Passenger Demand Below 19 Million</title>
+      <link>https://www.topchinacar.com/news/2026-11-12-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-12-china-market-daily</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>CAAM says October vehicle sales fell 9.2% to 3.016 million and expects 2026 domestic passenger-car sales below 19 million, while CPCA data show early-November retail down 21%. Nissan China fell 67.1%; Volkswagen brand set an NEV record.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Chery&apos;s South African Recall Tests Service as XPeng Expands Its Asian Lineup</title>
       <link>https://www.topchinacar.com/news/2026-11-12-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
       <description>Leapmotor becomes first Chinese EV startup in North America via Stellantis, as BYD hits 792,256 overseas units in H1 2026 (+70.7%) and XPeng prepares a 64-market L03 global launch.</description>
       <category>Daily Briefing</category>
-    </item>
-    <item>
-      <title>DELIVAN Deep Research: Chery Commercial Vehicle&apos;s Electric Van Export Playbook</title>
-      <link>https://www.topchinacar.com/news/delivan-chery-commercial-vehicle-europe-strategy</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/delivan-chery-commercial-vehicle-europe-strategy</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <description>A structured research brief on DELIVAN, Chery Commercial Vehicle&apos;s new electric light-commercial-vehicle brand, covering brand strategy, product technology, Europe entry, partners, manufacturing, tariffs and competition.</description>
-      <category>Research</category>
     </item>
   </channel>
 </rss>
