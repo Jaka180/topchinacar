@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:11:04 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hongqi Launches HQ in Australia as MG Broadens Its Overseas Product Pitch</title>
+      <link>https://www.topchinacar.com/news/2026-11-13-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-13-china-auto-daily</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hongqi outlined an indicative Australian E-HS9 price below A$150,000. MG showcased four electrified models in Dubai and previewed an 80-unit Philippine special edition.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>China&apos;s Domestic Car Sales Slide as CAAM Sees 2026 Passenger Demand Below 19 Million</title>
       <link>https://www.topchinacar.com/news/2026-11-12-china-market-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
       <description>A full research report on Mazda&apos;s EV strategy, covering the MX-30 lessons, Lean Asset Strategy, Changan Mazda EZ-6/EZ-60 track, Skyactiv EV platform delay, hybrid strategy, market layout and risks.</description>
       <category>Research</category>
-    </item>
-    <item>
-      <title>Leapmotor Lands in Mexico, BYD Posts 792K H1 Overseas, XPeng L03 Eyes 64 Markets</title>
-      <link>https://www.topchinacar.com/news/2026-07-08-china-auto-daily</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-08-china-auto-daily</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Leapmotor becomes first Chinese EV startup in North America via Stellantis, as BYD hits 792,256 overseas units in H1 2026 (+70.7%) and XPeng prepares a 64-market L03 global launch.</description>
-      <category>Daily Briefing</category>
     </item>
   </channel>
 </rss>
