@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:21:03 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CATL Sets Swap Network Target as Nissan and Chinese Brands Roll Out New SUVs</title>
+      <link>https://www.topchinacar.com/news/2026-11-14-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-14-china-market-daily</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description>CATL targets 6,000 passenger-car swap stations in 2027, while Dongfeng Nissan opens NX7 pre-sales and Aito, Chery and BYD advance SUV launches and updates in China.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Denza Enters India&apos;s Luxury EV Market as XPeng Broadens Its European Lineup</title>
       <link>https://www.topchinacar.com/news/2026-11-14-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <description>A full regulatory deep dive on UNECE R155, ISO/SAE 21434, China&apos;s GB 44495/44496 framework, US connected-vehicle restrictions and cybersecurity implications for Chinese automakers overseas.</description>
       <category>Research</category>
-    </item>
-    <item>
-      <title>China Auto Overseas Daily | 2026-07-09: Exports Carry June, UK Shows Chinese Model Pull</title>
-      <link>https://www.topchinacar.com/news/2026-07-09-china-auto-daily</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-09-china-auto-daily</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <description>China exported 877,000 vehicles in June as domestic demand stayed weak; in the UK, MG HS and Jaecoo 7 entered June&apos;s top-10 registrations while Finland showed BYD&apos;s trust barrier.</description>
-      <category>China Auto Overseas Daily</category>
     </item>
   </channel>
 </rss>
