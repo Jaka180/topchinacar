@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:21:04 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China Auto Daily: Modification Rules Enter Consultation as Nissan and Audi Update Plans</title>
+      <link>https://www.topchinacar.com/news/2026-11-15-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-15-china-market-daily</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <description>MIIT opened consultation on vehicle modification rules, Nissan unveiled the NV200 PHEV and announced NISMO&apos;s China entry, while Audi E7X outlined a December driver-assistance update.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>BYD Targets Deeper Indonesian Localization as Chery Prices Its Australian Pickup</title>
       <link>https://www.topchinacar.com/news/2026-11-15-china-auto-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <description>Euro NCAP&apos;s 2026 Speed Assistance rules turn speed-limit knowledge into a measurable safety function, testing camera-map fusion, data freshness, V2X and iACC execution.</description>
       <category>Safety Regulation</category>
-    </item>
-    <item>
-      <title>Momenta Deep Dive: Technology, Global Clients and China&apos;s Overseas Advanced ADAS</title>
-      <link>https://www.topchinacar.com/news/momenta-deep-dive-technology-global-clients-china-overseas-adas-2026</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/momenta-deep-dive-technology-global-clients-china-overseas-adas-2026</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <description>A full research report on Momenta&apos;s HKEX listing, technology roadmap, global OEM clients, map-free ADAS architecture, overseas deployment and the globalization of China&apos;s advanced driver-assistance software.</description>
-      <category>Research</category>
     </item>
   </channel>
 </rss>
