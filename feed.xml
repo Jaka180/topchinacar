@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:21:07 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIO Extends Swap Network to Heihe as Zhengzhou Nissan Adds Z9 Pickup Variant</title>
+      <link>https://www.topchinacar.com/news/2026-11-16-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-16-china-market-daily</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>NIO opens a swap station serving its three brands in Heihe, while Zhengzhou Nissan launches the Z9 Yuexiang plug-in hybrid pickup from RMB 149,900.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>BYD Nears Hungarian Mass Production as LEPAS Starts Thai L6 Assembly</title>
       <link>https://www.topchinacar.com/news/2026-11-16-china-auto-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-11-china-auto-daily</guid>
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>Chery, BYD, and Geely collectively posted record H1 2026 export figures—943,817, 792,256, and 474,228 units respectively—as Leapmotor entered Mexico and GAC, Changan, SAIC, GWM, and FAW all hit new overseas milestones.</description>
-      <category>Daily Briefing</category>
-    </item>
-    <item>
-      <title>China Auto Exports Hit New Highs in H1 2026: BYD, Chery, Geely All Surpass 100k Monthly</title>
-      <link>https://www.topchinacar.com/news/2026-07-10-china-auto-daily</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-07-10-china-auto-daily</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <description>BYD hit a record 175,349 overseas units in June (+94.7%), Chery posted 191,062 (+79.7%), and Geely broke 100k for the first time, as China&apos;s export boom spreads beyond its traditional duopoly.</description>
       <category>Daily Briefing</category>
     </item>
   </channel>
