@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-09T10:00:07.380Z",
+ "generated_at": "2026-11-16T09:59:09.942Z",
  "window_days": 7,
  "totals": {
   "sources": 238,
   "active": 236,
   "domains": 145,
   "keywords": 432,
-  "new_items_7d": 12791
+  "new_items_7d": 12073
  },
  "sources": [
   {
@@ -20,10 +20,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 0.82,
-    "items": 237,
-    "new_items": 2,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "ok_rate": 0.99,
+    "items": 62,
+    "new_items": 1,
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -37,10 +37,10 @@
    "status": "active",
    "health": {
     "runs": 28,
-    "ok_rate": 1,
-    "items": 13,
+    "ok_rate": 0.96,
+    "items": 0,
     "new_items": 0,
-    "last_ok": "2026-11-09T06:05:11.421Z"
+    "last_ok": "2026-11-16T06:05:11.421Z"
    }
   },
   {
@@ -57,11 +57,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 160,
-    "new_items": 59,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 178,
+    "new_items": 57,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -78,11 +78,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 1,
-    "items": 83,
-    "new_items": 23,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 0.87,
+    "items": 39,
+    "new_items": 12,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -99,11 +99,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 1600,
-    "new_items": 545,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 1500,
+    "new_items": 615,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -120,11 +120,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 305,
-    "new_items": 91,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 255,
+    "new_items": 82,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -141,11 +141,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 1217,
-    "new_items": 371,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 1153,
+    "new_items": 396,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -162,11 +162,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.5,
-    "items": 12,
-    "new_items": 3,
-    "last_ok": "2026-11-06T07:16:21.963Z"
+    "runs": 15,
+    "ok_rate": 0.8,
+    "items": 17,
+    "new_items": 6,
+    "last_ok": "2026-11-15T07:03:20.927Z"
    }
   },
   {
@@ -183,11 +183,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 342,
-    "new_items": 120,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 294,
+    "new_items": 94,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -204,11 +204,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 305,
-    "new_items": 104,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 275,
+    "new_items": 99,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -225,11 +225,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 431,
-    "new_items": 146,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 356,
+    "new_items": 97,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -246,11 +246,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 1172,
-    "new_items": 422,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 1199,
+    "new_items": 479,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -267,11 +267,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 392,
-    "new_items": 135,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 421,
+    "new_items": 148,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -288,11 +288,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 110,
-    "new_items": 34,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 160,
+    "new_items": 52,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -309,11 +309,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.94,
-    "items": 40,
-    "new_items": 12,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 0.93,
+    "items": 46,
+    "new_items": 14,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -330,11 +330,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 88,
-    "new_items": 23,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 85,
+    "new_items": 26,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -351,11 +351,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 333,
-    "new_items": 123,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 288,
+    "new_items": 119,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -372,11 +372,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 272,
-    "new_items": 72,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 236,
+    "new_items": 87,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -393,11 +393,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 1,
-    "items": 60,
-    "new_items": 21,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 0.93,
+    "items": 58,
+    "new_items": 16,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -414,11 +414,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 603,
-    "new_items": 211,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 469,
+    "new_items": 179,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -435,11 +435,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 138,
-    "new_items": 65,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 109,
+    "new_items": 61,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -456,11 +456,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.81,
-    "items": 31,
-    "new_items": 9,
-    "last_ok": "2026-11-08T18:02:37.603Z"
+    "runs": 15,
+    "ok_rate": 0.8,
+    "items": 25,
+    "new_items": 7,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -477,11 +477,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 232,
-    "new_items": 76,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 233,
+    "new_items": 95,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -498,11 +498,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 147,
-    "new_items": 69,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 111,
+    "new_items": 60,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -519,11 +519,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 130,
-    "new_items": 33,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 93,
+    "new_items": 48,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -540,11 +540,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 792,
-    "new_items": 253,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 728,
+    "new_items": 225,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -561,7 +561,7 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 0,
     "items": 0,
     "new_items": 0,
@@ -582,11 +582,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 185,
-    "new_items": 67,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 171,
+    "new_items": 68,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -603,11 +603,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 278,
-    "new_items": 145,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 252,
+    "new_items": 109,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -624,11 +624,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 247,
-    "new_items": 104,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 222,
+    "new_items": 97,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -645,11 +645,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 183,
-    "new_items": 93,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 286,
+    "new_items": 105,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -666,11 +666,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.81,
-    "items": 19,
-    "new_items": 11,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 0.87,
+    "items": 25,
+    "new_items": 13,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -687,11 +687,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 406,
-    "new_items": 181,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 373,
+    "new_items": 170,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -708,11 +708,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 433,
-    "new_items": 204,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 377,
+    "new_items": 169,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -729,11 +729,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.94,
-    "items": 83,
-    "new_items": 32,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 1,
+    "items": 67,
+    "new_items": 24,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -750,11 +750,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 326,
-    "new_items": 133,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 235,
+    "new_items": 119,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -771,11 +771,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 165,
-    "new_items": 60,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 118,
+    "new_items": 55,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -792,11 +792,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 480,
-    "new_items": 188,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 287,
+    "new_items": 124,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -813,11 +813,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 270,
-    "new_items": 111,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 231,
+    "new_items": 106,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -834,11 +834,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 87,
-    "new_items": 26,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 60,
+    "new_items": 28,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -855,11 +855,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 329,
-    "new_items": 116,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 199,
+    "new_items": 93,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -876,11 +876,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 268,
-    "new_items": 111,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 229,
+    "new_items": 90,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -897,11 +897,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 84,
-    "new_items": 25,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 112,
+    "new_items": 36,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -918,11 +918,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 724,
-    "new_items": 290,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 465,
+    "new_items": 192,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -939,11 +939,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 291,
-    "new_items": 131,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 230,
+    "new_items": 108,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -960,11 +960,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.81,
-    "items": 36,
-    "new_items": 17,
-    "last_ok": "2026-11-08T18:02:37.603Z"
+    "runs": 15,
+    "ok_rate": 0.93,
+    "items": 60,
+    "new_items": 34,
+    "last_ok": "2026-11-15T19:03:10.913Z"
    }
   },
   {
@@ -981,11 +981,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.88,
-    "items": 52,
-    "new_items": 19,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 1,
+    "items": 62,
+    "new_items": 27,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1002,11 +1002,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 329,
-    "new_items": 132,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 325,
+    "new_items": 149,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1023,11 +1023,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.63,
-    "items": 26,
-    "new_items": 15,
-    "last_ok": "2026-11-07T13:28:08.873Z"
+    "runs": 15,
+    "ok_rate": 0.87,
+    "items": 31,
+    "new_items": 12,
+    "last_ok": "2026-11-15T19:03:10.913Z"
    }
   },
   {
@@ -1044,11 +1044,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 249,
-    "new_items": 126,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 201,
+    "new_items": 103,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1065,11 +1065,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 347,
-    "new_items": 132,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 190,
+    "new_items": 86,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1086,11 +1086,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 324,
-    "new_items": 140,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 276,
+    "new_items": 135,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1103,11 +1103,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 170,
-    "new_items": 64,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 197,
+    "new_items": 70,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1120,11 +1120,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.44,
-    "items": 11,
-    "new_items": 3,
-    "last_ok": "2026-11-08T22:23:10.006Z"
+    "runs": 15,
+    "ok_rate": 0.33,
+    "items": 5,
+    "new_items": 2,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1137,11 +1137,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 115,
-    "new_items": 39,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 113,
+    "new_items": 72,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1154,11 +1154,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 184,
-    "new_items": 69,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 248,
+    "new_items": 94,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1171,11 +1171,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 82,
-    "new_items": 25,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 38,
+    "new_items": 11,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1188,11 +1188,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 0.94,
-    "items": 23,
-    "new_items": 7,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 0.47,
+    "items": 11,
+    "new_items": 4,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1205,11 +1205,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 118,
-    "new_items": 45,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 148,
+    "new_items": 59,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1222,11 +1222,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 261,
-    "new_items": 104,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 208,
+    "new_items": 93,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1239,11 +1239,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 348,
-    "new_items": 120,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 360,
+    "new_items": 131,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1256,11 +1256,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 772,
-    "new_items": 252,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 374,
+    "new_items": 128,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1273,11 +1273,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 426,
-    "new_items": 167,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 435,
+    "new_items": 174,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1290,11 +1290,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 168,
-    "new_items": 55,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 89,
+    "new_items": 37,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1307,11 +1307,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 93,
-    "new_items": 32,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 126,
+    "new_items": 43,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1324,11 +1324,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 415,
-    "new_items": 164,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 456,
+    "new_items": 154,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1341,11 +1341,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 740,
-    "new_items": 237,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 565,
+    "new_items": 183,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1358,11 +1358,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 1396,
-    "new_items": 462,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 1154,
+    "new_items": 386,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1379,11 +1379,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 162,
-    "new_items": 54,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 177,
+    "new_items": 62,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1397,10 +1397,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 0.99,
-    "items": 87,
-    "new_items": 2,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "ok_rate": 1,
+    "items": 54,
+    "new_items": 3,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1413,11 +1413,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 320,
-    "new_items": 62,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 300,
+    "new_items": 53,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1430,11 +1430,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 224,
-    "new_items": 224,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 210,
+    "new_items": 210,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1447,11 +1447,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
-    "ok_rate": 1,
-    "items": 160,
-    "new_items": 139,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "runs": 15,
+    "ok_rate": 0.73,
+    "items": 110,
+    "new_items": 100,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1464,11 +1464,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 144,
-    "new_items": 144,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 135,
+    "new_items": 135,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1481,11 +1481,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 192,
-    "new_items": 177,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 180,
+    "new_items": 164,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1498,11 +1498,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 144,
-    "new_items": 144,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 135,
+    "new_items": 135,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -1519,7 +1519,7 @@
     "ok_rate": 1,
     "items": 2436,
     "new_items": 0,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -1535,8 +1535,8 @@
     "runs": 14,
     "ok_rate": 1,
     "items": 1400,
-    "new_items": 0,
-    "last_ok": "2026-11-09T00:05:11.421Z"
+    "new_items": 2,
+    "last_ok": "2026-11-16T00:05:11.421Z"
    }
   },
   {
@@ -1552,8 +1552,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 280,
-    "new_items": 4,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 1,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1569,8 +1569,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 560,
-    "new_items": 11,
-    "last_ok": "2026-11-09T06:05:11.421Z"
+    "new_items": 17,
+    "last_ok": "2026-11-16T06:05:11.421Z"
    }
   },
   {
@@ -1618,10 +1618,10 @@
    "status": "active",
    "health": {
     "runs": 168,
-    "ok_rate": 0.85,
-    "items": 1430,
+    "ok_rate": 0,
+    "items": 0,
     "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "last_ok": null
    }
   },
   {
@@ -1637,8 +1637,8 @@
     "runs": 168,
     "ok_rate": 1,
     "items": 1680,
-    "new_items": 40,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 34,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1652,10 +1652,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 1,
-    "items": 924,
+    "ok_rate": 0.98,
+    "items": 902,
     "new_items": 0,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -1671,8 +1671,8 @@
     "runs": 28,
     "ok_rate": 0.96,
     "items": 540,
-    "new_items": 14,
-    "last_ok": "2026-11-09T07:05:11.421Z"
+    "new_items": 15,
+    "last_ok": "2026-11-16T07:05:11.421Z"
    }
   },
   {
@@ -1688,8 +1688,8 @@
     "runs": 168,
     "ok_rate": 1,
     "items": 8400,
-    "new_items": 48,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 47,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1706,7 +1706,7 @@
     "ok_rate": 1,
     "items": 700,
     "new_items": 0,
-    "last_ok": "2026-11-08T22:05:11.421Z"
+    "last_ok": "2026-11-15T22:05:11.421Z"
    }
   },
   {
@@ -1723,7 +1723,7 @@
     "ok_rate": 1,
     "items": 280,
     "new_items": 0,
-    "last_ok": "2026-11-09T06:05:11.421Z"
+    "last_ok": "2026-11-16T06:05:11.421Z"
    }
   },
   {
@@ -1739,8 +1739,8 @@
     "runs": 168,
     "ok_rate": 1,
     "items": 5040,
-    "new_items": 76,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 74,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1754,10 +1754,10 @@
    "status": "active",
    "health": {
     "runs": 28,
-    "ok_rate": 1,
-    "items": 2700,
-    "new_items": 204,
-    "last_ok": "2026-11-09T07:05:11.421Z"
+    "ok_rate": 0.89,
+    "items": 2000,
+    "new_items": 190,
+    "last_ok": "2026-11-16T07:05:11.421Z"
    }
   },
   {
@@ -1771,10 +1771,10 @@
    "status": "active",
    "health": {
     "runs": 28,
-    "ok_rate": 1,
-    "items": 2700,
-    "new_items": 93,
-    "last_ok": "2026-11-09T04:05:11.421Z"
+    "ok_rate": 0.86,
+    "items": 2000,
+    "new_items": 164,
+    "last_ok": "2026-11-16T04:05:11.421Z"
    }
   },
   {
@@ -1788,10 +1788,10 @@
    "status": "active",
    "health": {
     "runs": 28,
-    "ok_rate": 1,
-    "items": 280,
-    "new_items": 1,
-    "last_ok": "2026-11-09T07:05:11.421Z"
+    "ok_rate": 0.96,
+    "items": 270,
+    "new_items": 0,
+    "last_ok": "2026-11-16T07:05:11.421Z"
    }
   },
   {
@@ -1808,7 +1808,7 @@
     "ok_rate": 1,
     "items": 28,
     "new_items": 0,
-    "last_ok": "2026-11-09T05:05:11.421Z"
+    "last_ok": "2026-11-16T05:05:11.421Z"
    }
   },
   {
@@ -1823,9 +1823,9 @@
    "health": {
     "runs": 28,
     "ok_rate": 1,
-    "items": 68,
-    "new_items": 0,
-    "last_ok": "2026-11-09T04:05:11.421Z"
+    "items": 74,
+    "new_items": 2,
+    "last_ok": "2026-11-16T04:05:11.421Z"
    }
   },
   {
@@ -1842,7 +1842,7 @@
     "ok_rate": 1,
     "items": 560,
     "new_items": 0,
-    "last_ok": "2026-11-09T07:05:11.421Z"
+    "last_ok": "2026-11-16T07:05:11.421Z"
    }
   },
   {
@@ -1856,10 +1856,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 0.99,
-    "items": 830,
-    "new_items": 6,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "ok_rate": 0.98,
+    "items": 820,
+    "new_items": 1,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1875,8 +1875,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 560,
-    "new_items": 1,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "new_items": 0,
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -1892,8 +1892,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 280,
-    "new_items": 3,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 0,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1910,7 +1910,7 @@
     "ok_rate": 1,
     "items": 1008,
     "new_items": 1,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1924,10 +1924,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 0.99,
-    "items": 830,
-    "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "ok_rate": 1,
+    "items": 840,
+    "new_items": 1,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1944,7 +1944,7 @@
     "ok_rate": 1,
     "items": 280,
     "new_items": 0,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -1958,10 +1958,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 0.98,
-    "items": 820,
-    "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "ok_rate": 0.96,
+    "items": 810,
+    "new_items": 1,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1978,7 +1978,7 @@
     "ok_rate": 1,
     "items": 840,
     "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -1995,7 +1995,7 @@
     "ok_rate": 1,
     "items": 840,
     "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2011,8 +2011,8 @@
     "runs": 84,
     "ok_rate": 1,
     "items": 840,
-    "new_items": 1,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 0,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2029,7 +2029,7 @@
     "ok_rate": 1,
     "items": 840,
     "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2043,10 +2043,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 1,
-    "items": 5040,
-    "new_items": 1486,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "ok_rate": 0.99,
+    "items": 4980,
+    "new_items": 1565,
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -2062,8 +2062,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 168,
-    "new_items": 3,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 4,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2079,8 +2079,8 @@
     "runs": 84,
     "ok_rate": 1,
     "items": 1680,
-    "new_items": 1,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "new_items": 0,
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -2094,10 +2094,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 1,
-    "items": 4032,
-    "new_items": 2,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "ok_rate": 0.99,
+    "items": 3984,
+    "new_items": 0,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2110,11 +2110,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 320,
-    "new_items": 280,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 300,
+    "new_items": 300,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2130,8 +2130,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 840,
-    "new_items": 3,
-    "last_ok": "2026-11-09T04:05:11.421Z"
+    "new_items": 2,
+    "last_ok": "2026-11-16T04:05:11.421Z"
    }
   },
   {
@@ -2147,8 +2147,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 840,
-    "new_items": 2,
-    "last_ok": "2026-11-09T05:05:11.421Z"
+    "new_items": 0,
+    "last_ok": "2026-11-16T05:05:11.421Z"
    }
   },
   {
@@ -2165,7 +2165,7 @@
     "ok_rate": 1,
     "items": 1680,
     "new_items": 0,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2179,10 +2179,10 @@
    "status": "active",
    "health": {
     "runs": 84,
-    "ok_rate": 0.99,
-    "items": 1660,
-    "new_items": 37,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "ok_rate": 1,
+    "items": 1680,
+    "new_items": 29,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2198,8 +2198,8 @@
     "runs": 84,
     "ok_rate": 1,
     "items": 1680,
-    "new_items": 192,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 243,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2215,8 +2215,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 252,
-    "new_items": 14,
-    "last_ok": "2026-11-09T05:05:11.421Z"
+    "new_items": 10,
+    "last_ok": "2026-11-16T05:05:11.421Z"
    }
   },
   {
@@ -2248,9 +2248,9 @@
    "health": {
     "runs": 168,
     "ok_rate": 0.99,
-    "items": 1670,
-    "new_items": 24,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "items": 1660,
+    "new_items": 21,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2266,8 +2266,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 280,
-    "new_items": 2,
-    "last_ok": "2026-11-09T09:05:11.421Z"
+    "new_items": 1,
+    "last_ok": "2026-11-16T09:05:11.421Z"
    }
   },
   {
@@ -2300,8 +2300,8 @@
     "runs": 28,
     "ok_rate": 1,
     "items": 280,
-    "new_items": 5,
-    "last_ok": "2026-11-09T08:05:11.421Z"
+    "new_items": 1,
+    "last_ok": "2026-11-16T08:05:11.421Z"
    }
   },
   {
@@ -2314,11 +2314,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 160,
-    "new_items": 31,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 150,
+    "new_items": 67,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2335,11 +2335,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 150,
-    "new_items": 44,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 148,
+    "new_items": 32,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2356,11 +2356,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 131,
-    "new_items": 32,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 117,
+    "new_items": 34,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2377,11 +2377,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 114,
-    "new_items": 24,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 150,
+    "new_items": 33,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2394,11 +2394,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 147,
-    "new_items": 30,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 132,
+    "new_items": 44,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2411,11 +2411,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 160,
-    "new_items": 43,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 134,
+    "new_items": 39,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2432,11 +2432,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 151,
-    "new_items": 32,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 125,
+    "new_items": 30,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2453,11 +2453,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 143,
-    "new_items": 36,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 147,
+    "new_items": 32,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2474,11 +2474,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 160,
-    "new_items": 30,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 144,
+    "new_items": 36,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2495,11 +2495,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 98,
-    "new_items": 23,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 84,
+    "new_items": 22,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2516,11 +2516,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 126,
-    "new_items": 29,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 129,
+    "new_items": 34,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2537,11 +2537,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 160,
-    "new_items": 24,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 148,
+    "new_items": 33,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2558,11 +2558,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 63,
-    "new_items": 23,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 103,
+    "new_items": 20,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2579,11 +2579,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 147,
-    "new_items": 22,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 132,
+    "new_items": 47,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2600,11 +2600,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 16,
+    "runs": 15,
     "ok_rate": 1,
-    "items": 140,
-    "new_items": 29,
-    "last_ok": "2026-11-09T07:04:30.611Z"
+    "items": 130,
+    "new_items": 45,
+    "last_ok": "2026-11-16T07:09:49.097Z"
    }
   },
   {
@@ -2621,11 +2621,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 12,
-    "new_items": 12,
-    "last_ok": "2026-11-06T05:28:07.009Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 34,
+    "new_items": 25,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2642,11 +2642,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 30,
-    "new_items": 10,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 70,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2663,11 +2663,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 35,
+    "new_items": 7,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2684,11 +2684,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 11,
-    "new_items": 11,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2705,11 +2705,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 14,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 13,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2726,11 +2726,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 60,
-    "new_items": 20,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 140,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2747,11 +2747,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 3,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2768,11 +2768,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 8,
-    "new_items": 8,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 28,
+    "new_items": 13,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2789,11 +2789,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2810,11 +2810,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 16,
-    "new_items": 16,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 46,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2831,11 +2831,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2852,11 +2852,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 11,
-    "new_items": 11,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 33,
+    "new_items": 6,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2873,11 +2873,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 30,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2894,11 +2894,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 34,
+    "new_items": 14,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2915,11 +2915,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 16,
-    "new_items": 16,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 50,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2936,11 +2936,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2957,11 +2957,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 10,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2978,11 +2978,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 28,
-    "new_items": 28,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 94,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -2999,11 +2999,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 1,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3020,11 +3020,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 11,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3041,11 +3041,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 13,
-    "new_items": 13,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 41,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3062,11 +3062,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 14,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3083,11 +3083,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 22,
-    "new_items": 22,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 74,
+    "new_items": 42,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3104,11 +3104,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 14,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 11,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3125,11 +3125,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 12,
-    "new_items": 12,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 36,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3146,11 +3146,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 32,
+    "new_items": 11,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3167,11 +3167,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 72,
-    "new_items": 25,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 161,
+    "new_items": 17,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3184,11 +3184,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 59,
-    "new_items": 22,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 153,
+    "new_items": 16,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3201,11 +3201,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 12,
-    "new_items": 12,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 38,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3222,11 +3222,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 42,
-    "new_items": 19,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 93,
+    "new_items": 11,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3239,11 +3239,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 45,
-    "new_items": 15,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 117,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3256,11 +3256,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 12,
-    "new_items": 12,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 35,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3277,11 +3277,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 22,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3294,11 +3294,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 99,
-    "new_items": 33,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 224,
+    "new_items": 17,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3311,11 +3311,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 33,
-    "new_items": 13,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 74,
+    "new_items": 7,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3332,11 +3332,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 11,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3353,11 +3353,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 36,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3374,11 +3374,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 30,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3395,11 +3395,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 11,
-    "new_items": 11,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 33,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3416,11 +3416,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T05:28:07.009Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 33,
+    "new_items": 7,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3437,11 +3437,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 36,
-    "new_items": 17,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 77,
+    "new_items": 6,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3458,11 +3458,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 15,
-    "new_items": 15,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 40,
+    "new_items": 18,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3479,11 +3479,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3500,11 +3500,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 11,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 1,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3521,11 +3521,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 31,
-    "new_items": 12,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 91,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3542,11 +3542,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3563,11 +3563,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 19,
-    "new_items": 19,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 62,
+    "new_items": 18,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3584,11 +3584,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 13,
-    "new_items": 13,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 12,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3605,11 +3605,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 14,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3626,11 +3626,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T05:28:07.009Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 29,
+    "new_items": 26,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3647,11 +3647,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 13,
-    "new_items": 13,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 35,
+    "new_items": 12,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3668,11 +3668,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 30,
-    "new_items": 14,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 70,
+    "new_items": 12,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3689,11 +3689,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 39,
-    "new_items": 13,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 92,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3706,11 +3706,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 42,
-    "new_items": 42,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 131,
+    "new_items": 10,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3727,11 +3727,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T05:28:07.009Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 30,
+    "new_items": 1,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3744,11 +3744,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 2,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3765,11 +3765,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 27,
-    "new_items": 11,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3786,11 +3786,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 35,
-    "new_items": 13,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 77,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3807,11 +3807,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 11,
-    "new_items": 11,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 31,
+    "new_items": 6,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3828,11 +3828,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 19,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3845,11 +3845,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 33,
-    "new_items": 13,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 74,
+    "new_items": 7,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3866,11 +3866,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 16,
-    "new_items": 16,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 48,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3887,11 +3887,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 18,
-    "new_items": 18,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 52,
+    "new_items": 29,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3908,11 +3908,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 5,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3929,11 +3929,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 43,
-    "new_items": 16,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 85,
+    "new_items": 8,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3950,11 +3950,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 27,
-    "new_items": 27,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 87,
+    "new_items": 10,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3971,11 +3971,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 35,
+    "new_items": 16,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -3992,11 +3992,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 3,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4013,11 +4013,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 9,
-    "new_items": 9,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 32,
+    "new_items": 23,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4030,11 +4030,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 2,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4051,11 +4051,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 11,
-    "new_items": 11,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 38,
+    "new_items": 17,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4072,11 +4072,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 49,
-    "new_items": 19,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 128,
+    "new_items": 15,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4089,11 +4089,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 33,
-    "new_items": 12,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 80,
+    "new_items": 6,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4106,11 +4106,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 33,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4127,11 +4127,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 2,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4144,11 +4144,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 37,
-    "new_items": 37,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 111,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4161,11 +4161,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 1,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4182,11 +4182,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 13,
-    "new_items": 13,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 43,
+    "new_items": 11,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4203,11 +4203,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 13,
+    "items": 32,
     "new_items": 13,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4224,11 +4224,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 13,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4245,11 +4245,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 30,
+    "new_items": 11,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4266,11 +4266,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 17,
-    "new_items": 17,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 53,
+    "new_items": 20,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4287,11 +4287,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 31,
+    "new_items": 26,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4308,11 +4308,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 2,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4329,11 +4329,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 13,
-    "new_items": 13,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 37,
+    "new_items": 3,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4350,11 +4350,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 14,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 18,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4367,11 +4367,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 11,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 0,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4388,11 +4388,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 1,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4405,11 +4405,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 14,
-    "new_items": 14,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 38,
+    "new_items": 4,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4426,11 +4426,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 12,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 7,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4447,11 +4447,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 30,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4468,11 +4468,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 11,
-    "new_items": 11,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 39,
+    "new_items": 18,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4489,11 +4489,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 15,
-    "ok_rate": 0.2,
-    "items": 30,
-    "new_items": 16,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "runs": 7,
+    "ok_rate": 1,
+    "items": 75,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4506,11 +4506,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
-    "new_items": 10,
-    "last_ok": "2026-11-06T05:28:07.009Z"
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 30,
+    "new_items": 9,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4527,11 +4527,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 13,
-    "ok_rate": 0.08,
-    "items": 10,
+    "runs": 3,
+    "ok_rate": 1,
+    "items": 30,
     "new_items": 10,
-    "last_ok": "2026-11-06T05:28:07.009Z"
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4544,11 +4544,11 @@
    "company": null,
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 33,
-    "new_items": 33,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 96,
+    "new_items": 29,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4565,11 +4565,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 14,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 5,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4586,11 +4586,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 16,
-    "new_items": 16,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 42,
+    "new_items": 23,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4607,11 +4607,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 1,
+    "runs": 3,
     "ok_rate": 1,
-    "items": 9,
-    "new_items": 9,
-    "last_ok": "2026-11-06T10:10:20.919Z"
+    "items": 29,
+    "new_items": 24,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   },
   {
@@ -4628,11 +4628,11 @@
    },
    "status": "active",
    "health": {
-    "runs": 3,
+    "runs": 7,
     "ok_rate": 1,
-    "items": 30,
-    "new_items": 12,
-    "last_ok": "2026-11-08T19:31:02.410Z"
+    "items": 70,
+    "new_items": 23,
+    "last_ok": "2026-11-15T19:31:01.294Z"
    }
   }
  ],
