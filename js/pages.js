@@ -1215,7 +1215,7 @@ function pageNewsletterLanding() {
             </div>
           </div>
           <aside class="newsletter-signup-card">
-            <div class="newsletter-card-label">Resend</div>
+            <div class="newsletter-card-label">${S('Free daily email', '免费邮件日报')}</div>
             <h2>${S('Subscribe by email', '邮箱订阅日报')}</h2>
             <p>${S('No generic updates. One focused daily brief on the China auto globalization signals global operators need to understand.', '不是泛泛更新，而是一封聚焦全球从业者需要理解的中国汽车全球化信号日报。')}</p>
             <form class="newsletter-form" id="newsletterForm">
@@ -1223,8 +1223,8 @@ function pageNewsletterLanding() {
               <input class="newsletter-input" id="newsletterEmail" type="email" name="email" placeholder="${S('your@email.com', '你的邮箱')}" required />
               <button class="newsletter-btn" type="submit">${S('Subscribe', '订阅日报')}</button>
             </form>
-            <div class="newsletter-ok" id="newsletterOk" hidden>${S('Thanks — you are on the list for the next China Auto Overseas Daily.', '谢谢——你已加入中国车企出海日报订阅名单。')}</div>
-            <p class="newsletter-privacy">${S('Subscription is stored in Resend Contacts and every daily email includes an unsubscribe link.', '订阅邮箱将存入 Resend 联系人列表；每封日报都会包含退订链接。')}</p>
+            <div class="newsletter-ok" id="newsletterOk" hidden>${S('Almost done — check your inbox and click the confirmation link to start receiving China Auto Overseas Daily.', '还差一步：请去邮箱点击确认链接，确认后就会每天收到中国车企出海日报。')}</div>
+            <p class="newsletter-privacy">${S('We send a confirmation email first; your subscription starts once you click the link. Every daily email includes an unsubscribe link.', '会先发一封确认邮件，点击确认链接后订阅才生效；每封日报都会包含退订链接。')}</p>
           </aside>
         </div>
       </div>
@@ -1270,7 +1270,7 @@ function pageNewsletterLanding() {
             <li>${S('Smart mobility: ADAS, cockpit, maps, connected services', '智能汽车：ADAS、座舱、地图、车联网')}</li>
             <li>${S('What to watch next', '下一步看什么')}</li>
           </ol>
-          <p>${S('The same daily dispatch is published on', '同一份日报也会发布在')} <a href="/news">${S('/news', '/news')}</a>${S('; Resend is the delivery mechanism for readers who want it sent directly to their inbox.', '；Resend 是把这份日报直接送到读者邮箱的触达机制。')}</p>
+          <p>${S('The same daily dispatch is published on', '同一份日报也会发布在')} <a href="/news">${S('/news', '/news')}</a>${S('; the email subscription is for readers who want it sent directly to their inbox.', '；邮件订阅是把这份日报直接送到读者邮箱的方式。')}</p>
         </div>
       </div>
     </section>
