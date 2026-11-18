@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:21:01 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China Updates Vehicle Approvals and Tax Relief Lists as CATL Secures a Casing Supply Deal</title>
+      <link>https://www.topchinacar.com/news/2026-11-18-china-market-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-18-china-market-daily</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>China issued batch 412 of vehicle approvals and two tax relief lists. CATL’s casing agreements cover Suzhou and Quanzhou, and two new SUVs went on sale.</description>
+      <category>China Market Daily</category>
+    </item>
     <item>
       <title>Hongqi Weighs European Production as XPeng Eyes 100,000 Overseas Sales</title>
       <link>https://www.topchinacar.com/news/2026-11-18-china-auto-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/chery-automobile-stock-shareholder-structure-2026</guid>
       <pubDate>Sun, 19 Jul 2026 01:30:00 GMT</pubDate>
       <description>Chery’s export engine is accelerating while its domestic brands diverge. An ownerless governance structure, a roughly 7x trailing earnings multiple and a large September lock-up expiry frame the investment debate.</description>
-      <category>Analysis</category>
-    </item>
-    <item>
-      <title>From Suitcase to Landlord: Google&apos;s Decade Inside the Car</title>
-      <link>https://www.topchinacar.com/news/google-in-cars-from-suitcase-to-landlord</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/google-in-cars-from-suitcase-to-landlord</guid>
-      <pubDate>Sat, 18 Jul 2026 14:32:00 GMT</pubDate>
-      <description>GM is removing phone projection while deepening its use of Google&apos;s embedded stack. The apparent contradiction explains how Google moved from a guest on the screen to infrastructure inside the cockpit—and why Chinese automakers are becoming the next growth vector.</description>
       <category>Analysis</category>
     </item>
   </channel>
