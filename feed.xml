@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:11:12 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hongqi Weighs European Production as XPeng Eyes 100,000 Overseas Sales</title>
+      <link>https://www.topchinacar.com/news/2026-11-18-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-18-china-auto-daily</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hongqi is evaluating European production partners as XPeng forecasts more than 100,000 overseas sales in 2026. Apollo Go says its fully driverless Dubai fleet has doubled.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>China Tightens Supplier-Payment Oversight as XPeng Grows and BMW Starts Local iX3 Production</title>
       <link>https://www.topchinacar.com/news/2026-11-17-china-market-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/google-in-cars-from-suitcase-to-landlord</guid>
       <pubDate>Sat, 18 Jul 2026 14:32:00 GMT</pubDate>
       <description>GM is removing phone projection while deepening its use of Google&apos;s embedded stack. The apparent contradiction explains how Google moved from a guest on the screen to infrastructure inside the cockpit—and why Chinese automakers are becoming the next growth vector.</description>
-      <category>Analysis</category>
-    </item>
-    <item>
-      <title>In-Car AI Will Be Won by the Need, Not the Model</title>
-      <link>https://www.topchinacar.com/news/in-car-ai-assistants-win-on-need-not-model</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/in-car-ai-assistants-win-on-need-not-model</guid>
-      <pubDate>Sat, 18 Jul 2026 13:13:57 GMT</pubDate>
-      <description>Google&apos;s advantage in the third generation of in-car assistants is not Gemini alone. It is the ability to anchor conversational AI to a hard-to-cut requirement: global maps and navigation.</description>
       <category>Analysis</category>
     </item>
   </channel>
