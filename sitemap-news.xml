@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.topchinacar.com/news/2026-11-19-china-auto-daily</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TopChinaCar</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19</news:publication_date>
+      <news:title>Chery’s Jetour Eyes Brazilian Production as Momenta Starts Munich Robotaxi Pilot</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.topchinacar.com/news/2026-11-18-china-market-daily</loc>
     <news:news>
       <news:publication>
@@ -43,28 +54,6 @@
       </news:publication>
       <news:publication_date>2026-11-17</news:publication_date>
       <news:title>BYD Passes 10,000 Japan Sales as Geely Builds Sustainability Ties and MG Refreshes Its UK Lineup</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-11-16-china-market-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>NIO Extends Swap Network to Heihe as Zhengzhou Nissan Adds Z9 Pickup Variant</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.topchinacar.com/news/2026-11-16-china-auto-daily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>TopChinaCar</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>BYD Nears Hungarian Mass Production as LEPAS Starts Thai L6 Assembly</news:title>
     </news:news>
   </url>
 </urlset>

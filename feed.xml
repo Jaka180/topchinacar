@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:11:06 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chery’s Jetour Eyes Brazilian Production as Momenta Starts Munich Robotaxi Pilot</title>
+      <link>https://www.topchinacar.com/news/2026-11-19-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-19-china-auto-daily</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reuters reports a Brazilian production deal for Jetour. Momenta begins supervised rides in Munich, and Pony.ai reports more than 200,000 km of operations in Zagreb.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>China Updates Vehicle Approvals and Tax Relief Lists as CATL Secures a Casing Supply Deal</title>
       <link>https://www.topchinacar.com/news/2026-11-18-china-market-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 21 Jul 2026 22:30:00 GMT</pubDate>
       <description>BYD built its 100,000th EV in Brazil on July 16, signed a PSG sponsorship and will enter Japan&apos;s kei-car market with the Racco on July 28, while XPeng launched the L03 globally from Munich and the EU moved closer to taxing Chinese PHEVs.</description>
       <category>China Auto Overseas Daily</category>
-    </item>
-    <item>
-      <title>Chery Automobile (9973.HK): Stock Valuation and Shareholder Structure Deep Dive</title>
-      <link>https://www.topchinacar.com/news/chery-automobile-stock-shareholder-structure-2026</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/chery-automobile-stock-shareholder-structure-2026</guid>
-      <pubDate>Sun, 19 Jul 2026 01:30:00 GMT</pubDate>
-      <description>Chery’s export engine is accelerating while its domestic brands diverge. An ownerless governance structure, a roughly 7x trailing earnings multiple and a large September lock-up expiry frame the investment debate.</description>
-      <category>Analysis</category>
     </item>
   </channel>
 </rss>
