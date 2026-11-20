@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:11:03 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GWM Takes Charge of UK Car Sales as BYD Opens Flash Charging in Malaysia</title>
+      <link>https://www.topchinacar.com/news/2026-11-20-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-20-china-auto-daily</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>GWM will run UK passenger-car sales through its own company. BYD opened Flash Charging in Malaysia and launched an updated Denza D9 at RM345,800.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>China Passenger-Car Retail Falls 25% in Early November as Fujian Benz Starts VLE Production</title>
       <link>https://www.topchinacar.com/news/2026-11-19-china-market-daily</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
       <description>AI has no stable way to refer to a place. GERS wants to be the DNS of the physical world — the grounding layer agents are missing.</description>
       <category>Map Wars</category>
-    </item>
-    <item>
-      <title>Google&apos;s OEM Partnerships in 2026: The Four-Layer Stack from Phone Projection to OS to Map Data</title>
-      <link>https://www.topchinacar.com/news/google-oem-partnership-four-layer-stack-2026</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/google-oem-partnership-four-layer-stack-2026</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <description>An updated strategy analysis: Google&apos;s automaker cooperation splits into four independently purchasable layers — Android Auto projection, the open-source AAOS kernel, the Google built-in service pack, and the Google Maps Auto SDK data layer. We re-sort Volvo, GM, BMW, Toyota, Mercedes-Benz plus XPeng, BYD, Zeekr and Xiaomi by how much OS sovereignty each cedes, and correct the nature of the XPeng and Rivian deals.</description>
-      <category>Analysis</category>
     </item>
   </channel>
 </rss>
