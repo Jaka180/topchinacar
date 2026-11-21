@@ -5,8 +5,16 @@
     <link>https://www.topchinacar.com/news</link>
     <description>Chinese auto news, EVs, exports, policy and global market coverage from TopChinaCar.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:11:13 GMT</lastBuildDate>
     <atom:link href="https://www.topchinacar.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leapmotor Signs Opel SUV Development Deal as WeRide Expands in the Middle East</title>
+      <link>https://www.topchinacar.com/news/2026-11-21-china-auto-daily</link>
+      <guid isPermaLink="true">https://www.topchinacar.com/news/2026-11-21-china-auto-daily</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Leapmotor and Opel plan to build a jointly developed SUV in Spain, with sales expected in 2028. WeRide reported a Middle East fleet of about 600 vehicles.</description>
+      <category>Daily Briefing</category>
+    </item>
     <item>
       <title>CPCA Sees a 70.6% New-Energy Retail Share as Leapmotor Builds Its Two Millionth Vehicle</title>
       <link>https://www.topchinacar.com/news/2026-11-20-china-market-daily</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.topchinacar.com/news/here-tomtom-one-waits-for-a-buyer-one-waits-for-orders</guid>
       <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
       <description>Neither HERE nor TomTom will die — but their survival odds differ by an order of magnitude, for reasons no income statement records.</description>
-      <category>Map Wars</category>
-    </item>
-    <item>
-      <title>The King Who Never Sold a Map</title>
-      <link>https://www.topchinacar.com/news/google-maps-the-king-who-never-sold-maps</link>
-      <guid isPermaLink="true">https://www.topchinacar.com/news/google-maps-the-king-who-never-sold-maps</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Everyone sells maps as a product; Google raises the map as an organ of Search. Forty years of map wars are a war between two valuation functions — and the space beyond Google&apos;s.</description>
       <category>Map Wars</category>
     </item>
   </channel>
